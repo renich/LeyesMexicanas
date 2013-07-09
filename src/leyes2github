@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+
+path=${1}
+path=${path:="${HOME}/src/LeyesMexicanas/federales"}
+
+# Obteniendo leyes
+ley2txt "${path}"
+
+cd "${path}"
+
+# Hacer commit
+echo 'Haciendo commit...'
+git commit -a -m "Actualización de $( TZ='America/Mexico_City' date )"
+
+exit 0

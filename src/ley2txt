@@ -1,0 +1,49 @@
+#!/usr/bin/env bash
+
+# Primero, cambia esta ruta a donde hayas descargado tika.
+# Necesitarás el OpenJDK o el JDK
+# URL: http://tika.apache.org/
+
+path=${1}
+path=${path:="${HOME}/src/LeyesMexicanas/federales"}
+
+
+if [ ! -d "${path}" ]; then
+    echo "Creando ${path}..."
+    mkdir -p "${path}"
+fi
+
+echo 'Obteniendo lista de http://www.diputados.gob.mx/LeyesBiblio/...'
+wget --spider -r -l 1 -nd -D www.diputados.gob.mx -A pdf http://www.diputados.gob.mx/LeyesBiblio/ 2>&1 | grep -Eio 'http.+pdf' | sort | uniq > urls.txt
+
+if [ ! -d txt ]; then
+    mkdir txt
+fi 
+
+if [ ! -d pdf ]; then
+    mkdir pdf
+fi
+
+cd pdf
+while read url; do
+    pdf=${url#http://www.diputados.gob.mx/LeyesBiblio/pdf/}
+    echo 'Obteniendo ' $pdf
+    wget -c -q $url
+
+    cd ../txt
+    echo -n 'Convirtiendo ' ${pdf} '...'
+    pdftotext -eol unix ../pdf/${pdf} ../txt/${pdf%%.pdf}.txt
+
+    if (( $? == 0 )); then
+        echo 'listo!'
+    else
+        echo 'error!'
+    fi
+
+    cd ../pdf
+done < ../urls.txt
+
+echo
+echo 'Terminé!'
+
+exit 0
