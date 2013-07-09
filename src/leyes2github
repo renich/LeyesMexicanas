@@ -1,16 +1,22 @@
 #!/usr/bin/env bash
 
 
+# ruta
 path=${1}
 path=${path:="${HOME}/src/LeyesMexicanas/federales"}
 
 # Obteniendo leyes
 ley2txt "${path}"
 
+# ir a la ruta
 cd "${path}"
 
-# Hacer commit
+# Hacer commit del dia
 echo 'Haciendo commit...'
 git commit -a -m "Actualización de $( TZ='America/Mexico_City' date )"
+
+# Enviar a Github
+git push origin master
+
 
 exit 0
