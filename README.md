@@ -1,5 +1,5 @@
 # Leyes Mexicanas
-Autor: Renich Bon Ciric <renich@woralelandia.com>
+Autor: Renich Bon Ciric &lt;renich@woralelandia.com&gt;  
 Licencia: GPLv3 o >
 
 Descripción
