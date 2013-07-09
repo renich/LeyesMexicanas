@@ -4,7 +4,7 @@ Licencia: GPLv3 o >
 
 Descripción
 ===========
-Compendio de leyes de los Estados Unidos Mexicanos; en texto
+Compendio de leyes de los Estados Unidos Mexicanos; en texto. Ésta se actualiza, automáticamente, a diario; a las 00:00 CDT.
 
 Contexto
 ========
