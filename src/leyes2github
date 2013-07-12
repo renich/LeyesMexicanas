@@ -11,6 +11,9 @@ ley2txt "${path}"
 # ir a la ruta
 cd "${path}"
 
+# Hacer sha512sum
+find "${path}" -type f -exec cat {} \; | sha512sum > federales.sha512
+
 # Hacer commit del dia
 echo 'Haciendo commit...'
 git commit -a -m "Actualización de $( TZ='America/Mexico_City' date )"
