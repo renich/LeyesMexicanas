@@ -6,12 +6,15 @@
 
 path=${1}
 path=${path:="${HOME}/src/LeyesMexicanas/federales"}
+tmp=${tmp:="${HOME}/tmp/ley2txt"}
 
 
 if [ ! -d "${path}" ]; then
     echo "Creando ${path}..."
     mkdir -p "${path}"
 fi
+
+cd "${path}"
 
 echo 'Obteniendo lista de http://www.diputados.gob.mx/LeyesBiblio/...'
 wget --spider -r -l 1 -nd -D www.diputados.gob.mx -A pdf http://www.diputados.gob.mx/LeyesBiblio/ 2>&1 | grep -Eio 'http.+pdf' | sort | uniq > urls.txt
