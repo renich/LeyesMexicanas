@@ -12,7 +12,7 @@ ley2txt "${path}"
 cd "${path}"
 
 # Hacer sha512sum
-find "${path}" -type f -exec cat {} \; | sha512sum > federales.sha512
+find "${path}/txt" -type f -exec cat {} \; | sha512sum > federales.sha512
 
 # Hacer commit del dia
 echo 'Haciendo commit...'
