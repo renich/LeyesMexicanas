@@ -22,5 +22,4 @@ git commit -a -m "Actualización de $( TZ='America/Mexico_City' date )"
 # Enviar a Github
 git push origin master
 
-
 exit 0
