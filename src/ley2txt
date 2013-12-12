@@ -31,7 +31,7 @@ cd pdf
 while read url; do
     pdf=${url#http://www.diputados.gob.mx/LeyesBiblio/pdf/}
     echo 'Obteniendo ' $pdf
-    wget -q $url
+    wget -N --unlink -q $url
 
     cd ../txt
     echo -n 'Convirtiendo ' ${pdf} '...'
