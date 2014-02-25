@@ -6,7 +6,7 @@ path=${1}
 path=${path:="${HOME}/src/LeyesMexicanas/federales"}
 
 # Obteniendo leyes
-ley2txt "${path}"
+$HOME/bin/ley2txt "${path}"
 
 # ir a la ruta
 cd "${path}"
