@@ -2,7 +2,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/100.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/101.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/102.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/103.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/104.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/105.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/106.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/107.pdf
@@ -193,7 +192,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/98.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/99.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/9.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/COFIPE.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LAAT.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LAERFTE.pdf
@@ -213,6 +211,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LESS.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFAAR.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFACP.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFA.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPo.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFCSQ.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFDC.pdf
@@ -240,8 +239,11 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIFE.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIMH.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDE.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPP.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSDMS.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSEDMTP.pdf
