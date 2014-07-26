@@ -10,6 +10,9 @@ LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 TEXTO VIGENTE a partir del 13-08-2014
 Nueva Ley publicada en el Diario Oficial de la Federación el 14 de julio de 2014
 
+Nota de vigencia: De conformidad con lo dispuesto en el Artículo Vigésimo Quinto Transitorio del Decreto DOF
+14-07-2014, la fracción V del artículo 118 de esta Ley, entrará en vigor el 1 de enero de 2015.
+
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 ENRIQUE PEÑA NIETO, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
@@ -45,11 +48,6 @@ radioeléctrico.
 Se podrá permitir el uso, aprovechamiento y explotación del espectro radioeléctrico y de los recursos orbitales,
 conforme a las modalidades y requisitos establecidos en la presente Ley y demás disposiciones aplicables.
 Artículo 3. Para los efectos de esta Ley se entenderá por:
-I.
-
-Acceso al usuario final: El circuito físico que conecta el punto de conexión terminal de la red en el
-domicilio del usuario a la central telefónica o instalación equivalente de la red pública de
-telecomunicaciones local, desde la cual se presta el servicio al usuario;
 
 1 de 104
 
@@ -60,6 +58,12 @@ Nueva Ley DOF 14-07-2014
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+I.
+
+Acceso al usuario final: El circuito físico que conecta el punto de conexión terminal de la red en el
+domicilio del usuario a la central telefónica o instalación equivalente de la red pública de
+telecomunicaciones local, desde la cual se presta el servicio al usuario;
 
 II.
 
@@ -153,12 +157,6 @@ Decreto: Decreto por el que se reforman y adicionan diversas disposiciones de lo
 27, 28, 73, 78, 94 y 105 de la Constitución en materia de telecomunicaciones, publicado en el Diario
 Oficial de la Federación el 11 de junio de 2013;
 
-XVIII.
-
-Desagregación: Separación de elementos físicos, incluyendo la fibra óptica, técnicos y lógicos,
-funciones o servicios de la red pública de telecomunicaciones local del agente económico
-preponderante en el sector de las telecomunicaciones o del agente que a nivel nacional tenga poder
-
 2 de 104
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
@@ -169,8 +167,14 @@ Nueva Ley DOF 14-07-2014
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+XVIII.
+
+Desagregación: Separación de elementos físicos, incluyendo la fibra óptica, técnicos y lógicos,
+funciones o servicios de la red pública de telecomunicaciones local del agente económico
+preponderante en el sector de las telecomunicaciones o del agente que a nivel nacional tenga poder
 sustancial en el mercado relevante de servicios de acceso al usuario final, de manera que otros
 concesionarios puedan acceder efectivamente a dicha red pública de telecomunicaciones local;
+
 XIX.
 
 Ejecutivo Federal: Comprende a la Administración Pública Federal, sus dependencias y entidades,
@@ -253,14 +257,6 @@ o radiodifusión, que puede manifestarse como degradación de la calidad, falsea
 información, que compromete, interrumpe repetidamente o impide el funcionamiento de cualquier
 servicio de radiocomunicación;
 
-XXXII.
-
-Internet: Conjunto descentralizado de redes de telecomunicaciones en todo el mundo, interconectadas
-entre sí, que proporciona diversos servicios de comunicación y que utiliza protocolos y direccionamiento
-coordinados internacionalmente para el enrutamiento y procesamiento de los paquetes de datos de
-cada uno de los servicios. Estos protocolos y direccionamiento garantizan que las redes físicas que en
-conjunto componen Internet funcionen como una red lógica única;
-
 3 de 104
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
@@ -270,6 +266,14 @@ Nueva Ley DOF 14-07-2014
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+XXXII.
+
+Internet: Conjunto descentralizado de redes de telecomunicaciones en todo el mundo, interconectadas
+entre sí, que proporciona diversos servicios de comunicación y que utiliza protocolos y direccionamiento
+coordinados internacionalmente para el enrutamiento y procesamiento de los paquetes de datos de
+cada uno de los servicios. Estos protocolos y direccionamiento garantizan que las redes físicas que en
+conjunto componen Internet funcionen como una red lógica única;
 
 XXXIII.
 
@@ -350,16 +354,6 @@ XLVI.
 Preponderancia: Calidad determinada por el Instituto de un agente económico en los términos del
 artículo 262 de esta Ley;
 
-XLVII.
-
-Producción nacional: Contenido o programación generada por persona física o moral con
-financiamiento mayoritario de origen mexicano;
-
-XLVIII.
-
-Productor nacional independiente de contenidos audiovisuales: Persona física o moral de
-nacionalidad mexicana que produce obras audiovisuales a nivel nacional, regional o local, que no
-
 4 de 104
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
@@ -370,8 +364,18 @@ Nueva Ley DOF 14-07-2014
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+XLVII.
+
+Producción nacional: Contenido o programación generada por persona física o moral con
+financiamiento mayoritario de origen mexicano;
+
+XLVIII.
+
+Productor nacional independiente de contenidos audiovisuales: Persona física o moral de
+nacionalidad mexicana que produce obras audiovisuales a nivel nacional, regional o local, que no
 cuenta con una concesión de telecomunicaciones o radiodifusión, ni es controlado por un concesionario
 en virtud de su poder de mando;
+
 XLIX.
 
 PROFECO: La Procuraduría Federal del Consumidor;
@@ -450,13 +454,6 @@ LXI.
 Servicio de usuario visitante: El servicio a través del cual los usuarios de una red pública de
 telecomunicaciones de servicio local móvil, pueden originar o recibir comunicaciones de voz o datos a
 través de la infraestructura de acceso de otro concesionario de red pública de telecomunicaciones del
-servicio local móvil, sin necesidad de realizar algún procedimiento adicional, al tratarse de usuarios de
-otra región local móvil o al estar fuera de la zona de cobertura de su proveedor de servicios móviles;
-
-LXII.
-
-Servicio mayorista de telecomunicaciones: Servicio de telecomunicaciones que consiste en el
-suministro de acceso a elementos individuales, a capacidades de una red o servicios, incluyendo los de
 
 5 de 104
 
@@ -468,8 +465,15 @@ Nueva Ley DOF 14-07-2014
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+servicio local móvil, sin necesidad de realizar algún procedimiento adicional, al tratarse de usuarios de
+otra región local móvil o al estar fuera de la zona de cobertura de su proveedor de servicios móviles;
+LXII.
+
+Servicio mayorista de telecomunicaciones: Servicio de telecomunicaciones que consiste en el
+suministro de acceso a elementos individuales, a capacidades de una red o servicios, incluyendo los de
 interconexión, que son utilizados por concesionarios o comercializadores para proveer servicios de
 telecomunicaciones a los usuarios finales;
+
 LXIII.
 
 Servicios de interconexión: Los que se prestan entre concesionarios de servicios de
@@ -557,10 +561,6 @@ atenderá a las definiciones que para tal efecto se establecen en las leyes corr
 Artículo 4. Para los efectos de la Ley, son vías generales de comunicación el espectro radioeléctrico, las redes
 públicas de telecomunicaciones, las estaciones de radiodifusión y equipos complementarios, así como los sistemas
 de comunicación vía satélite.
-Artículo 5. Las vías generales de comunicación, la obra civil y los derechos de paso, uso o vía, asociados a las
-redes públicas de telecomunicaciones, las estaciones de radiodifusión y equipos complementarios, así como los
-sistemas de comunicación vía satélite materia de la Ley y los servicios que con ellas se presten, son de jurisdicción
-federal.
 
 6 de 104
 
@@ -572,6 +572,10 @@ Nueva Ley DOF 14-07-2014
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo 5. Las vías generales de comunicación, la obra civil y los derechos de paso, uso o vía, asociados a las
+redes públicas de telecomunicaciones, las estaciones de radiodifusión y equipos complementarios, así como los
+sistemas de comunicación vía satélite materia de la Ley y los servicios que con ellas se presten, son de jurisdicción
+federal.
 Se considera de interés y utilidad públicos la instalación, operación y mantenimiento de infraestructura destinada
 al servicio de las redes públicas de telecomunicaciones, las estaciones de radiodifusión y equipos complementarios,
 las cuales estarán sujetas exclusivamente a los poderes federales, en sus respectivos ámbitos de atribuciones,
@@ -639,9 +643,6 @@ términos de la legislación correspondiente.
 Asimismo, el Instituto es la autoridad en materia de competencia económica de los sectores de radiodifusión y
 telecomunicaciones, por lo que en éstos ejercerá en forma exclusiva las facultades que establecen el artículo 28 de
 la Constitución, esta Ley y la Ley Federal de Competencia Económica.
-El Instituto es la autoridad en materia de lineamientos técnicos relativos a la infraestructura y los equipos que se
-conecten a las redes de telecomunicaciones, así como en materia de homologación y evaluación de la conformidad
-de dicha infraestructura y equipos.
 
 7 de 104
 
@@ -653,6 +654,9 @@ Nueva Ley DOF 14-07-2014
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+El Instituto es la autoridad en materia de lineamientos técnicos relativos a la infraestructura y los equipos que se
+conecten a las redes de telecomunicaciones, así como en materia de homologación y evaluación de la conformidad
+de dicha infraestructura y equipos.
 Los funcionarios del Instituto deberán guiarse por los principios de autonomía, legalidad, objetividad,
 imparcialidad, certeza, eficiencia, eficacia, transparencia y rendición de cuentas. Desempeñarán su función con
 autonomía y probidad.
@@ -731,12 +735,6 @@ Llevar a cabo los procedimientos de coordinación de los recursos orbitales ante
 internacionales competentes, con las entidades de otros países y con los concesionarios nacionales u
 operadores extranjeros;
 
-X.
-
-Establecer las políticas que promuevan la disponibilidad de capacidad y servicios satelitales suficientes
-para las redes de seguridad nacional, servicios de carácter social y demás necesidades, objetivos y
-fines del Gobierno Federal;
-
 8 de 104
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
@@ -746,6 +744,12 @@ Nueva Ley DOF 14-07-2014
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+X.
+
+Establecer las políticas que promuevan la disponibilidad de capacidad y servicios satelitales suficientes
+para las redes de seguridad nacional, servicios de carácter social y demás necesidades, objetivos y
+fines del Gobierno Federal;
 
 XI.
 
@@ -832,13 +836,6 @@ II.
 Integrar y enviar al Ejecutivo Federal las listas de aspirantes a ocupar las vacantes referidas en la
 fracción anterior;
 
-III.
-
-Seleccionar, cuando menos, a dos instituciones de educación superior que emitan su opinión para la
-formulación del examen de conocimientos, que aplicará el Comité de Evaluación a los aspirantes y
-abstenerse de revelar al público las denominaciones de dichas instituciones hasta en tanto envíe al
-Ejecutivo Federal las listas referidas en la fracción II;
-
 9 de 104
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
@@ -848,6 +845,13 @@ Nueva Ley DOF 14-07-2014
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+III.
+
+Seleccionar, cuando menos, a dos instituciones de educación superior que emitan su opinión para la
+formulación del examen de conocimientos, que aplicará el Comité de Evaluación a los aspirantes y
+abstenerse de revelar al público las denominaciones de dichas instituciones hasta en tanto envíe al
+Ejecutivo Federal las listas referidas en la fracción II;
 
 IV.
 
@@ -917,11 +921,6 @@ Las referidas autoridades y los particulares en ningún caso podrán invocar sec
 cumplimiento de tales requerimientos.
 Artículo 14. Los actos que el Comité de Evaluación acuerde dar publicidad, se darán a conocer a través del
 Diario Oficial de la Federación, y en los demás medios que al efecto señale.
-La información y documentación relativas a los exámenes y reactivos a los que se refiere el artículo 11, fracción
-IV, de la presente Ley, así como la metodología de calificación de dichos exámenes y demás información sobre las
-calificaciones obtenidas por los respectivos aspirantes a comisionados, tendrá carácter confidencial, por lo que los
-miembros del Comité de Evaluación, los servidores públicos que intervengan en el procesamiento de dicha
-información y documentación y los particulares que, en su caso, intervengan en la formulación de los reactivos y
 
 10 de 104
 
@@ -933,6 +932,11 @@ Nueva Ley DOF 14-07-2014
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+La información y documentación relativas a los exámenes y reactivos a los que se refiere el artículo 11, fracción
+IV, de la presente Ley, así como la metodología de calificación de dichos exámenes y demás información sobre las
+calificaciones obtenidas por los respectivos aspirantes a comisionados, tendrá carácter confidencial, por lo que los
+miembros del Comité de Evaluación, los servidores públicos que intervengan en el procesamiento de dicha
+información y documentación y los particulares que, en su caso, intervengan en la formulación de los reactivos y
 exámenes antes descritos, en ningún caso podrán revelar dicha información a persona alguna; salvo a las
 autoridades competentes en materia de fiscalización o investigación.
 Respecto a cada uno de los aspirantes, sólo se les podrá comunicar la calificación que hubieren obtenido, sin
@@ -1001,6 +1005,16 @@ Emitir disposiciones, lineamientos o resoluciones en materia de interoperabilida
 redes públicas de telecomunicaciones, a efecto de asegurar la libre competencia y concurrencia en el
 mercado;
 
+11 de 104
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 14-07-2014
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 X.
 
 Resolver y establecer los términos y condiciones de interconexión que no hayan podido convenir los
@@ -1011,16 +1025,6 @@ XI.
 
 Emitir lineamientos de carácter general para el acceso y, en su caso, uso compartido de la
 infraestructura activa y pasiva, en los casos que establece esta Ley;
-
-11 de 104
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 14-07-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 XII.
 
@@ -1103,6 +1107,16 @@ Autorizar, registrar y publicar las tarifas de los servicios de telecomunicacion
 términos de esta Ley, y cuando los títulos de concesión lo prevean, así como cuando se trate de
 medidas establecidas a los agentes económicos preponderantes o con poder sustancial;
 
+12 de 104
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 14-07-2014
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 XXV.
 
 Determinar los adeudos derivados de las contraprestaciones y derechos asociados a las concesiones
@@ -1113,16 +1127,6 @@ XXVI.
 
 Autorizar a terceros para que emitan certificación de evaluación de la conformidad y acreditar peritos y
 unidades de verificación en materia de telecomunicaciones y radiodifusión;
-
-12 de 104
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 14-07-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 XXVII.
 
@@ -1195,6 +1199,17 @@ disposiciones técnicas, aplicación de lineamientos para la homologación de pr
 telecomunicaciones y radiodifusión, así como sustento a estudios e investigaciones de prospectiva
 regulatoria en estas materias y las demás que determine, en el ámbito de su competencia, de
 conformidad con la disponibilidad presupuestaria autorizada;
+
+13 de 104
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 14-07-2014
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 XXXIX.
 
 Realizar estudios e investigaciones en materia de telecomunicaciones y radiodifusión, así como
@@ -1209,16 +1224,6 @@ vinculatorias, en las materias de su competencia;
 XLI.
 
 Establecer las disposiciones para sus procesos de mejora regulatoria;
-
-13 de 104
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 14-07-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 XLII.
 
@@ -1312,6 +1317,16 @@ LIX.
 Vigilar y sancionar las obligaciones en materia de defensa de las audiencias de acuerdo con lo
 señalado por esta Ley;
 
+14 de 104
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 14-07-2014
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 LX.
 
 Supervisar que la programación dirigida a la población infantil respete los valores y principios a que se
@@ -1323,16 +1338,6 @@ LXI.
 
 Ordenar la suspensión precautoria de las transmisiones que violen las normas previstas en esta Ley en
 las materias a que se refieren las fracciones LIX y LX de este artículo, previo apercibimiento;
-
-14 de 104
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 14-07-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 LXII.
 
@@ -1425,13 +1430,6 @@ XV.
 Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones y las demás señaladas
 en esta Ley.
 
-El Pleno determinará en el estatuto orgánico o mediante acuerdo delegatorio publicado en el Diario Oficial de la
-Federación, el ejercicio directo o por delegación de las atribuciones previstas en el artículo 15 de esta Ley, que no
-estén comprendidas en los supuestos señalados en la fracción I de este artículo.
-En el estatuto orgánico del Instituto se establecerán las facultades que ejercerán las diversas unidades del
-mismo, las cuales estarán bajo el mando y supervisión del Pleno o del presidente, según se trate.
-Artículo 18. El Pleno contará con un secretario técnico que será designado en los términos previstos en esta Ley.
-
 15 de 104
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
@@ -1442,6 +1440,12 @@ Nueva Ley DOF 14-07-2014
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+El Pleno determinará en el estatuto orgánico o mediante acuerdo delegatorio publicado en el Diario Oficial de la
+Federación, el ejercicio directo o por delegación de las atribuciones previstas en el artículo 15 de esta Ley, que no
+estén comprendidas en los supuestos señalados en la fracción I de este artículo.
+En el estatuto orgánico del Instituto se establecerán las facultades que ejercerán las diversas unidades del
+mismo, las cuales estarán bajo el mando y supervisión del Pleno o del presidente, según se trate.
+Artículo 18. El Pleno contará con un secretario técnico que será designado en los términos previstos en esta Ley.
 Sección III
 Del Comisionado Presidente
 Artículo 19. El Comisionado Presidente presidirá el Pleno y al Instituto. En caso de ausencia, le suplirá el
@@ -1513,14 +1517,6 @@ anual de trabajo del Instituto y trimestralmente los proyectos de informes de ac
 los resultados, las acciones y los criterios que al efecto hubiere aplicado; su contribución para cumplir
 con los objetivos y metas fijados en el Plan Nacional de Desarrollo y demás instrumentos
 programáticos, relacionados con los sectores de radiodifusión y telecomunicaciones; así como su
-impacto en el desarrollo, progreso y competitividad del país; debiendo remitirlos a los Poderes Ejecutivo
-y Legislativo de la Unión;
-
-XII.
-
-Recibir del titular de la Contraloría Interna del Instituto los informes de las revisiones y auditorías que se
-realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto y hacerlos del
-conocimiento del Pleno;
 
 16 de 104
 
@@ -1531,6 +1527,14 @@ Nueva Ley DOF 14-07-2014
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+impacto en el desarrollo, progreso y competitividad del país; debiendo remitirlos a los Poderes Ejecutivo
+y Legislativo de la Unión;
+XII.
+
+Recibir del titular de la Contraloría Interna del Instituto los informes de las revisiones y auditorías que se
+realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto y hacerlos del
+conocimiento del Pleno;
 
 XIII.
 
@@ -1613,6 +1617,16 @@ Tenga interés personal, familiar o de negocios en el asunto, incluyendo aquello
 resultar algún beneficio para él, su cónyuge o sus parientes en los grados que expresa la fracción I de
 este artículo;
 
+17 de 104
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 14-07-2014
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 III.
 
 Él, su cónyuge o alguno de sus parientes en línea recta sin limitación de grado, sea heredero, legatario,
@@ -1623,16 +1637,6 @@ IV.
 
 Haya sido perito, testigo, apoderado, patrono o defensor en el asunto de que se trate o haya gestionado
 anteriormente el asunto en favor o en contra de alguno de los interesados, y
-
-17 de 104
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 14-07-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 V.
 
@@ -1692,6 +1696,16 @@ Federal, Senador, Diputado Federal, Gobernador de algún Estado o Jefe de Gobier
 Federal, dirigente de algún partido político, ni haber sido postulado para cargo de elección popular en
 los cuatro años anteriores a la propia designación;
 
+18 de 104
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 14-07-2014
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 VI.
 
 Contar con al menos tres años de experiencia en el servicio público;
@@ -1704,16 +1718,6 @@ los intereses de algún agente regulado, durante los tres años previos a su nom
 VIII.
 
 Acreditar los conocimientos técnicos necesarios para el ejercicio del cargo.
-
-18 de 104
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 14-07-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 Artículo 28. Corresponde a la autoridad investigadora, además de las señaladas en la Ley Federal de
 Competencia Económica para la autoridad investigadora prevista en esa ley, lo siguiente:
@@ -1786,12 +1790,6 @@ podrán tratar asuntos de su competencia con personas que representen los intere
 Instituto, únicamente mediante entrevista.
 Para tal efecto, deberá convocarse a todos los comisionados, pero la entrevista podrá celebrarse con la presencia
 de uno solo de ellos.
-De cada entrevista se llevará un registro que al menos deberá contener el lugar, la fecha, la hora de inicio y la
-hora de conclusión de la entrevista; los nombres completos de todas las personas que estuvieron presentes en la
-misma y los temas tratados.
-Esta información deberá publicarse en el portal de Internet del Instituto.
-Las entrevistas serán grabadas y almacenadas en medios electrónicos, ópticos o de cualquier otra tecnología,
-manteniéndose como información reservada, salvo para las otras partes en los procedimientos seguidos en forma de
 
 19 de 104
 
@@ -1803,6 +1801,12 @@ Nueva Ley DOF 14-07-2014
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+De cada entrevista se llevará un registro que al menos deberá contener el lugar, la fecha, la hora de inicio y la
+hora de conclusión de la entrevista; los nombres completos de todas las personas que estuvieron presentes en la
+misma y los temas tratados.
+Esta información deberá publicarse en el portal de Internet del Instituto.
+Las entrevistas serán grabadas y almacenadas en medios electrónicos, ópticos o de cualquier otra tecnología,
+manteniéndose como información reservada, salvo para las otras partes en los procedimientos seguidos en forma de
 juicio, los demás comisionados, el Contralor Interno y el Senado de la República en caso de que esté sustanciando
 un procedimiento de remoción de un comisionado. La grabación de cada entrevista deberá estar a disposición de los
 demás comisionados. Las entrevistas deberán realizarse en las instalaciones del Instituto.
@@ -1879,18 +1883,6 @@ se le imputen y que puedan ser causa de responsabilidad en los términos de esta
 disposiciones aplicables. En la notificación deberá expresarse el lugar, día y hora en que tendrá
 verificativo la audiencia, los actos u omisiones que se le imputen y el derecho de éste a comparecer
 asistido de un defensor.
-La notificación a que se refiere esta fracción se practicará de manera personal;
-
-III.
-
-Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de cinco ni mayor de
-quince días;
-
-IV.
-
-Concluida la audiencia, se concederá al comisionado sujeto al proceso de remoción un plazo de cinco
-días para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los
-hechos que se le atribuyen, y
 
 20 de 104
 
@@ -1901,6 +1893,18 @@ Nueva Ley DOF 14-07-2014
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+La notificación a que se refiere esta fracción se practicará de manera personal;
+III.
+
+Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de cinco ni mayor de
+quince días;
+
+IV.
+
+Concluida la audiencia, se concederá al comisionado sujeto al proceso de remoción un plazo de cinco
+días para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los
+hechos que se le atribuyen, y
 
 V.
 
@@ -1944,6 +1948,17 @@ La Contraloría Interna del Instituto, su titular y el personal adscrito a la mi
 estarán impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de
 atribuciones que esta Ley y las demás disposiciones aplicables confieren a los servidores públicos del Instituto.
 La Contraloría Interna del Instituto tendrá las siguientes atribuciones:
+
+21 de 104
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 14-07-2014
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 I.
 
 Establecer mecanismos de orientación, asesoría y capacitación en materias de su competencia, para
@@ -1959,16 +1974,6 @@ III.
 Recibir y dar respuesta puntual a las consultas y solicitudes de opinión que le formulen los funcionarios
 del Instituto, en el ámbito de su competencia, sin que ello signifique aval, garantía o corresponsabilidad
 por parte de la Contraloría Interna del Instituto;
-
-21 de 104
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 14-07-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 IV.
 
@@ -2058,6 +2063,16 @@ XIX.
 Presentar al Pleno del Instituto y a la Cámara de Diputados, los informes previo y anual de resultados
 de su gestión;
 
+22 de 104
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 14-07-2014
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 XX.
 
 Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del
@@ -2070,16 +2085,6 @@ XXI.
 
 Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores
 públicos que corresponda, y
-
-22 de 104
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 14-07-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 XXII.
 
@@ -2153,16 +2158,6 @@ sola vez.
 Artículo 38. El titular de la Contraloría Interna del Instituto podrá ser removido por la Cámara de Diputados con la
 misma votación requerida para su designación, por las causas y conforme a los procedimientos previstos en el Título
 Cuarto de la Constitución, así como por las siguientes faltas graves:
-I.
-
-Desempeñar otro empleo o encargo en los sectores público o privado, salvo los no remunerados en
-asociaciones científicas, docentes, artísticas o de beneficencia;
-
-II.
-
-Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o
-reservada que tenga bajo su custodia la Contraloría Interna del Instituto para el ejercicio de sus
-atribuciones;
 
 23 de 104
 
@@ -2173,6 +2168,17 @@ Nueva Ley DOF 14-07-2014
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+I.
+
+Desempeñar otro empleo o encargo en los sectores público o privado, salvo los no remunerados en
+asociaciones científicas, docentes, artísticas o de beneficencia;
+
+II.
+
+Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o
+reservada que tenga bajo su custodia la Contraloría Interna del Instituto para el ejercicio de sus
+atribuciones;
 
 III.
 
@@ -2234,12 +2240,6 @@ Artículo 43. El Instituto contará y deberá establecer un sistema de servicio 
 capacidad, desempeño, experiencia de sus servidores públicos y procurará la igualdad de género. Dicho sistema
 deberá ser aprobado por el Pleno a propuesta del Comisionado Presidente.
 Capítulo V
-De las Sesiones del Pleno del Instituto, de sus Resoluciones, de la Transparencia y de la Confidencialidad de
-las Votaciones
-Artículo 44. De manera excepcional y sólo cuando exista urgencia, atendiendo al interés social y al orden
-público, el Ejecutivo Federal, por conducto de la Secretaría, podrá solicitar al comisionado presidente del Instituto que
-los asuntos en que tenga interés, sean sustanciados y resueltos de manera prioritaria, sin modificar de ningún modo
-los plazos previstos en la Ley.
 
 24 de 104
 
@@ -2251,6 +2251,12 @@ Nueva Ley DOF 14-07-2014
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+De las Sesiones del Pleno del Instituto, de sus Resoluciones, de la Transparencia y de la Confidencialidad de
+las Votaciones
+Artículo 44. De manera excepcional y sólo cuando exista urgencia, atendiendo al interés social y al orden
+público, el Ejecutivo Federal, por conducto de la Secretaría, podrá solicitar al comisionado presidente del Instituto que
+los asuntos en que tenga interés, sean sustanciados y resueltos de manera prioritaria, sin modificar de ningún modo
+los plazos previstos en la Ley.
 Artículo 45. El Pleno deliberará en forma colegiada y decidirá los asuntos por mayoría de votos, salvo los que
 conforme a esta Ley requieran de una mayoría calificada, teniendo el Comisionado Presidente o, en su defecto,
 quien presida cuando se encuentre ausente, la obligación de ejercer su voto de calidad en caso de empate.
@@ -2294,12 +2300,6 @@ Artículo 51. Para la emisión y modificación de reglas, lineamientos o disposi
 general, así como en cualquier caso que determine el Pleno, el Instituto deberá realizar consultas públicas bajo los
 principios de transparencia y participación ciudadana, en los términos que determine el Pleno, salvo que la publicidad
 pudiera comprometer los efectos que se pretenden resolver o prevenir en una situación de emergencia.
-Previo a la emisión de las reglas, lineamientos o disposiciones administrativas de carácter general, el Instituto
-deberá realizar y hacer público un análisis de impacto regulatorio o, en su caso, solicitar el apoyo de la Comisión
-Federal de Mejora Regulatoria.
-El Instituto contará con un espacio dentro de su portal de Internet destinado específicamente a publicar y
-mantener actualizados los procesos de consultas públicas y un calendario con las consultas a realizar, conforme a
-los plazos y características generales que para éstos determinen los lineamientos que apruebe el Pleno. Las
 
 25 de 104
 
@@ -2311,6 +2311,12 @@ Nueva Ley DOF 14-07-2014
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Previo a la emisión de las reglas, lineamientos o disposiciones administrativas de carácter general, el Instituto
+deberá realizar y hacer público un análisis de impacto regulatorio o, en su caso, solicitar el apoyo de la Comisión
+Federal de Mejora Regulatoria.
+El Instituto contará con un espacio dentro de su portal de Internet destinado específicamente a publicar y
+mantener actualizados los procesos de consultas públicas y un calendario con las consultas a realizar, conforme a
+los plazos y características generales que para éstos determinen los lineamientos que apruebe el Pleno. Las
 respuestas o propuestas que se hagan al Instituto no tendrán carácter vinculante, sin perjuicio de que el Instituto
 pondere las mismas en un documento que refleje los resultados de dicha consulta.
 Artículo 52. El estatuto orgánico determinará los mecanismos a los que deberán sujetarse las unidades del
@@ -2373,15 +2379,6 @@ VIII.
 
 El cumplimiento de lo dispuesto por los artículos 2o., 6o., 7o. y 28 de la Constitución.
 
-Para la atribución de una banda de frecuencias y la concesión del espectro y recursos orbitales, el Instituto se
-basará en criterios objetivos, transparentes, no discriminatorios y proporcionales.
-Artículo 55. Las bandas de frecuencia del espectro radioeléctrico se clasificarán de acuerdo con lo siguiente:
-I.
-
-Espectro determinado: Son aquellas bandas de frecuencia que pueden ser utilizadas para los
-servicios atribuidos en el Cuadro Nacional de Atribución de Frecuencias; a través de concesiones para
-uso comercial, social, privado y público, definidas en el artículo 67;
-
 26 de 104
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
@@ -2391,6 +2388,15 @@ Nueva Ley DOF 14-07-2014
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+Para la atribución de una banda de frecuencias y la concesión del espectro y recursos orbitales, el Instituto se
+basará en criterios objetivos, transparentes, no discriminatorios y proporcionales.
+Artículo 55. Las bandas de frecuencia del espectro radioeléctrico se clasificarán de acuerdo con lo siguiente:
+I.
+
+Espectro determinado: Son aquellas bandas de frecuencia que pueden ser utilizadas para los
+servicios atribuidos en el Cuadro Nacional de Atribución de Frecuencias; a través de concesiones para
+uso comercial, social, privado y público, definidas en el artículo 67;
 
 II.
 
@@ -2454,6 +2460,16 @@ I.
 Valorar las solicitudes de bandas de frecuencia, categoría, modalidades de uso y coberturas
 geográficas que le hayan sido presentadas por los interesados;
 
+27 de 104
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 14-07-2014
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 II.
 
 Propiciar el uso eficiente del espectro radioeléctrico, el beneficio del público usuario, el desarrollo de la
@@ -2466,17 +2482,6 @@ innovación en el desarrollo de aplicaciones.
 
 Artículo 61. Cualquier interesado podrá solicitar, dentro de los treinta días hábiles siguientes a la publicación del
 programa anual de uso y aprovechamiento de bandas de frecuencias, que se incluyan bandas de frecuencia y
-
-27 de 104
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 14-07-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 coberturas geográficas adicionales o distintas a las ahí contempladas. En estos casos, la autoridad resolverá lo
 conducente en un plazo que no excederá de treinta días hábiles contados a partir del vencimiento del plazo anterior.
 Artículo 62. El Instituto estará obligado a implementar, operar y mantener actualizado un sistema informático de
@@ -2526,11 +2531,6 @@ II.
 
 Para uso público: Confiere el derecho a los Poderes de la Unión, de los Estados, los órganos de
 Gobierno del Distrito Federal, los Municipios, los órganos constitucionales autónomos y las instituciones
-de educación superior de carácter público para proveer servicios de telecomunicaciones y radiodifusión
-para el cumplimiento de sus fines y atribuciones.
-Bajo este tipo de concesiones se incluyen a los concesionarios o permisionarios de servicios públicos,
-distintos a los de telecomunicaciones o de radiodifusión, cuando éstas sean necesarias para la
-operación y seguridad del servicio de que se trate.
 
 28 de 104
 
@@ -2542,6 +2542,11 @@ Nueva Ley DOF 14-07-2014
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+de educación superior de carácter público para proveer servicios de telecomunicaciones y radiodifusión
+para el cumplimiento de sus fines y atribuciones.
+Bajo este tipo de concesiones se incluyen a los concesionarios o permisionarios de servicios públicos,
+distintos a los de telecomunicaciones o de radiodifusión, cuando éstas sean necesarias para la
+operación y seguridad del servicio de que se trate.
 En este tipo de concesiones no se podrán explotar o prestar con fines de lucro servicios de
 telecomunicaciones, de radiodifusión o capacidad de red, de lo contrario, deberán obtener una
 concesión para uso comercial;
@@ -2599,15 +2604,6 @@ II.
 
 Las características generales del proyecto de que se trate, y
 
-III.
-
-La documentación e información que acredite su capacidad técnica, económica, jurídica y
-administrativa.
-
-El Instituto analizará y evaluará la documentación que se presente con la solicitud a que se refiere el presente
-artículo dentro de un plazo de sesenta días naturales, dentro del cual podrá requerir a los interesados información
-adicional, cuando ésta sea necesaria para acreditar los requisitos a que se refiere este artículo.
-
 29 de 104
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
@@ -2618,6 +2614,14 @@ Nueva Ley DOF 14-07-2014
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+III.
+
+La documentación e información que acredite su capacidad técnica, económica, jurídica y
+administrativa.
+
+El Instituto analizará y evaluará la documentación que se presente con la solicitud a que se refiere el presente
+artículo dentro de un plazo de sesenta días naturales, dentro del cual podrá requerir a los interesados información
+adicional, cuando ésta sea necesaria para acreditar los requisitos a que se refiere este artículo.
 Una vez agotado el plazo a que se refiere el párrafo anterior y cumplidos todos los requisitos señalados a juicio
 del Instituto, éste otorgará la concesión. El título respectivo se inscribirá íntegramente en el Registro Público de
 Telecomunicaciones previsto en esta Ley y se hará disponible en la página de Internet del Instituto dentro de los
@@ -2683,12 +2687,6 @@ Para uso público: Confiere el derecho a los Poderes de la Unión, de los Estado
 Gobierno del Distrito Federal, los Municipios, los órganos constitucionales autónomos y las instituciones
 de educación superior de carácter público para proveer servicios de telecomunicaciones y radiodifusión
 para el cumplimiento de sus fines y atribuciones.
-Bajo este tipo de concesiones se incluyen a los concesionarios o permisionarios de servicios públicos,
-distintos a los de telecomunicaciones o de radiodifusión, cuando éstas sean necesarias para la
-operación y seguridad del servicio de que se trate.
-En este tipo de concesiones no se podrán usar, aprovechar o explotar con fines de lucro, bandas de
-frecuencias del espectro radioeléctrico de uso determinado o para la ocupación o explotación de
-recursos orbitales, de lo contrario deberán obtener una concesión para uso comercial;
 
 30 de 104
 
@@ -2700,6 +2698,12 @@ Nueva Ley DOF 14-07-2014
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Bajo este tipo de concesiones se incluyen a los concesionarios o permisionarios de servicios públicos,
+distintos a los de telecomunicaciones o de radiodifusión, cuando éstas sean necesarias para la
+operación y seguridad del servicio de que se trate.
+En este tipo de concesiones no se podrán usar, aprovechar o explotar con fines de lucro, bandas de
+frecuencias del espectro radioeléctrico de uso determinado o para la ocupación o explotación de
+recursos orbitales, de lo contrario deberán obtener una concesión para uso comercial;
 III.
 
 Para uso privado: Confiere el derecho para usar y aprovechar bandas de frecuencias del espectro
@@ -2753,18 +2757,6 @@ c)
 
 El favorecimiento de menores precios en los servicios al usuario final;
 
-d)
-
-La prevención de fenómenos de concentración que contraríen el interés público;
-
-e)
-
-La posible entrada de nuevos competidores al mercado, y
-
-f)
-
-La consistencia con el programa de concesionamiento.
-
 31 de 104
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
@@ -2776,6 +2768,18 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 
 II.
+
+d)
+
+La prevención de fenómenos de concentración que contraríen el interés público;
+
+e)
+
+La posible entrada de nuevos competidores al mercado, y
+
+f)
+
+La consistencia con el programa de concesionamiento.
 
 Para el otorgamiento de concesiones en materia de radiodifusión, el Instituto tomará en cuenta los
 incisos a), b), d), e) y f). Adicionalmente, se deberá considerar que el proyecto de programación sea
@@ -2865,13 +2869,6 @@ V.
 
 Los programas y compromisos de inversión, calidad, de cobertura geográfica, poblacional o social, de
 conectividad en sitios públicos y de contribución a la cobertura universal que, en su caso, determine el
-Instituto, para lo cual considerará las propuestas que formule anualmente la Secretaría conforme a los
-planes y programas respectivos;
-
-VI.
-
-Las contraprestaciones que deberán enterarse a la Tesorería de la Federación por el uso,
-aprovechamiento o explotación del espectro radioeléctrico, y
 
 32 de 104
 
@@ -2882,6 +2879,13 @@ Nueva Ley DOF 14-07-2014
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+Instituto, para lo cual considerará las propuestas que formule anualmente la Secretaría conforme a los
+planes y programas respectivos;
+VI.
+
+Las contraprestaciones que deberán enterarse a la Tesorería de la Federación por el uso,
+aprovechamiento o explotación del espectro radioeléctrico, y
 
 VII.
 
@@ -2934,14 +2938,13 @@ VII.
 La documentación que acredite su capacidad técnica, económica, jurídica y administrativa, atendiendo
 la naturaleza del solicitante, así como la fuente de sus recursos financieros para el desarrollo y
 operación del proyecto.
+
 Tratándose de solicitudes de concesión de uso social comunitarias, se deberá acreditar ante el Instituto que el
 solicitante se encuentra constituido en una asociación civil sin fines de lucro.
 El Instituto determinará mediante lineamientos de carácter general los términos en que deberán acreditarse los
 requisitos previstos en este artículo y, en el caso de concesiones comunitarias e indígenas, estará obligado a prestar
 asistencia técnica para facilitarles el cumplimiento de dichos requisitos, los cuales serán acordes a las formas de
 organización social y los derechos de los pueblos y comunidades indígenas.
-Una vez cumplidos los requisitos señalados, el Instituto resolverá lo conducente dentro de los ciento veinte días
-hábiles siguientes a la presentación de la solicitud.
 
 33 de 104
 
@@ -2953,6 +2956,8 @@ Nueva Ley DOF 14-07-2014
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Una vez cumplidos los requisitos señalados, el Instituto resolverá lo conducente dentro de los ciento veinte días
+hábiles siguientes a la presentación de la solicitud.
 El Instituto podrá donar a los concesionarios de uso social que presten servicios de radiodifusión, equipos
 transmisores que hayan pasado a propiedad de la Nación como consecuencia de los procedimientos y supuestos
 previstos de pérdida de bienes por uso del espectro radioeléctrico sin contar con concesión.
@@ -3018,11 +3023,6 @@ IV.
 Proyectos de financiamiento y convenios de coinversión para la producción o difusión de contenidos
 afines a los objetivos del servicio, y
 
-V.
-
-Convenios de coinversión con otras dependencias públicas para el mejor cumplimiento de sus fines de
-servicio público.
-
 34 de 104
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
@@ -3032,6 +3032,11 @@ Nueva Ley DOF 14-07-2014
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+V.
+
+Convenios de coinversión con otras dependencias públicas para el mejor cumplimiento de sus fines de
+servicio público.
 
 La ausencia de fines de lucro implica que dichos concesionarios no perseguirán dentro de sus actividades la
 obtención de ganancias con propósitos de acumulación, de tal suerte que los remanentes de su operación sólo
@@ -3108,9 +3113,6 @@ Cumplidos los requisitos, en un plazo máximo de noventa días hábiles contados
 Instituto resolverá sobre el otorgamiento de la concesión.
 En el otorgamiento de las concesiones el Instituto favorecerá la diversidad y evitará la concentración nacional y
 regional de frecuencias.
-Cumplidos los requisitos establecidos en la Ley y aquellos establecidos por el Instituto, se otorgará al solicitante la
-concesión de espectro radioeléctrico de uso social destinado para comunidades y pueblos indígenas, conforme a la
-disponibilidad del programa anual correspondiente.
 
 35 de 104
 
@@ -3122,6 +3124,9 @@ Nueva Ley DOF 14-07-2014
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Cumplidos los requisitos establecidos en la Ley y aquellos establecidos por el Instituto, se otorgará al solicitante la
+concesión de espectro radioeléctrico de uso social destinado para comunidades y pueblos indígenas, conforme a la
+disponibilidad del programa anual correspondiente.
 El Instituto deberá reservar para estaciones de radio FM comunitarias e indígenas el diez por ciento de la banda
 de radiodifusión sonora de FM, que va de los 88 a los 108 MHz. Dicho porcentaje se concesionará en la parte alta de
 la referida banda.
@@ -3202,14 +3207,6 @@ I.
 
 El nombre y domicilio del concesionario;
 
-II.
-
-Los recursos orbitales objeto de la concesión;
-
-III.
-
-El período de vigencia;
-
 36 de 104
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
@@ -3219,6 +3216,14 @@ Nueva Ley DOF 14-07-2014
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+II.
+
+Los recursos orbitales objeto de la concesión;
+
+III.
+
+El período de vigencia;
 
 IV.
 
@@ -3309,8 +3314,6 @@ los gastos en los que el Instituto llegue a incurrir. Lo anterior, para que la S
 solicitud.
 En caso de que la solicitud fuere procedente, la Secretaría lo notificará al Instituto, fijando el monto de la fianza o
 carta de crédito a favor del Gobierno Federal y del Instituto, para garantizar la seriedad del solicitante y los gastos en
-que lleguen a incurrir el Gobierno Federal y el Instituto. De lo contrario, la Secretaría notificará las razones de la
-improcedencia al Instituto quien dará respuesta al interesado.
 
 37 de 104
 
@@ -3322,6 +3325,8 @@ Nueva Ley DOF 14-07-2014
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+que lleguen a incurrir el Gobierno Federal y el Instituto. De lo contrario, la Secretaría notificará las razones de la
+improcedencia al Instituto quien dará respuesta al interesado.
 Una vez otorgada la fianza, la Secretaría realizará la gestión ante la Unión Internacional de Telecomunicaciones a
 efecto de iniciar el procedimiento de coordinación correspondiente.
 La Secretaría, con la colaboración del Instituto, llevará a cabo el procedimiento de coordinación ante los
@@ -3383,8 +3388,6 @@ establecidos en el Plan Nacional de Desarrollo y demás instrumentos programáti
 En la solicitud de opinión que formule el Instituto a la Secretaría de Hacienda y Crédito Público, deberá incluir, en
 lo aplicable, la información a que se refieren las fracciones I a VI de este artículo, así como el proyecto de
 contraprestación derivado del análisis de dicha información.
-Artículo 101. Todas las contraprestaciones a que se refiere esta Ley serán a favor del Gobierno Federal y
-deberán enterarse a la Tesorería de la Federación.
 
 38 de 104
 
@@ -3396,6 +3399,8 @@ Nueva Ley DOF 14-07-2014
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo 101. Todas las contraprestaciones a que se refiere esta Ley serán a favor del Gobierno Federal y
+deberán enterarse a la Tesorería de la Federación.
 Lo anterior, sin perjuicio del pago de las contribuciones que establezcan las leyes por el uso o el aprovechamiento
 de los bienes del dominio público de la nación.
 Artículo 102. El Instituto estará obligado a cerciorarse del pago de las contraprestaciones establecidas en esta
