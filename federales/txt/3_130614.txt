@@ -6460,7 +6460,6 @@ Secretaría de Servicios Parlamentarios
 
 procedimiento y que sean de tramitación conjunta con la sentencia definitiva, a excepción de lo previsto
 en el párrafo cuarto del artículo 1344 de este Código.
-(Se deroga el segundo párrafo)
 Artículo 1345 bis 8.- De los autos y de las sentencias interlocutorias de tramitación inmediata, de los
 que se derive una ejecución que pueda causar un daño irreparable o de difícil reparación y la apelación
 proceda en el efecto devolutivo, se admitirán en ambos efectos si el apelante lo solicita al interponer el
@@ -6511,6 +6510,12 @@ V.-
 Que tenga el carácter de cosa juzgada en el país en que fueron dictados, o que no exista
 recurso ordinario en su contra;
 
+VI.-
+
+Que la acción que les dio origen no sea materia de juicio que esté pendiente entre las mismas
+partes ante tribunales mexicanos y en el cual hubiere prevenido el Tribunal Mexicano o cuando
+menos que el exhorto o carta rogatoria para emplazar hubieren sido tramitados y entregados a
+
 136 de 216
 
 CÓDIGO DE COMERCIO
@@ -6521,14 +6526,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-VI.-
-
-Que la acción que les dio origen no sea materia de juicio que esté pendiente entre las mismas
-partes ante tribunales mexicanos y en el cual hubiere prevenido el Tribunal Mexicano o cuando
-menos que el exhorto o carta rogatoria para emplazar hubieren sido tramitados y entregados a
 la Secretaría de Relaciones Exteriores o a las autoridades del Estado donde deba practicarse el
 emplazamiento. La misma regla se aplicará cuando se hubiera dictado sentencia definitiva;
-
 VII.- Que la obligación para cuyo cumplimiento se haya procedido no sea contraria al orden público
 en México; y
 VIII.- Que llenen los requisitos para ser considerados como auténticos.
@@ -6565,6 +6564,10 @@ aquellas pruebas que así lo ameriten.
 Artículo 1354.- En la audiencia incidental se recibirán las pruebas y acto seguido los alegatos que
 podrán ser verbales citando para dictar la interlocutoria que proceda la que se pronunciará y notificará a
 las partes dentro de los ocho días siguientes.
+Artículo 1355.- Cuando las partes no ofrezcan pruebas o las que propongan no se admitan, una vez
+contestado el incidente o transcurrido el término para hacerlo, el juez citará a las partes para oír la
+interlocutoria que proceda, la que se pronunciará y notificará a las partes dentro de los tres días
+siguientes.
 
 137 de 216
 
@@ -6576,10 +6579,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 1355.- Cuando las partes no ofrezcan pruebas o las que propongan no se admitan, una vez
-contestado el incidente o transcurrido el término para hacerlo, el juez citará a las partes para oír la
-interlocutoria que proceda, la que se pronunciará y notificará a las partes dentro de los tres días
-siguientes.
 Artículo 1356.- Las resoluciones que se dicten en los incidentes serán apelables en efecto devolutivo,
 salvo que paralicen o pongan término al juicio haciendo imposible su continuación, casos en que se
 admitirán en efecto suspensivo.
@@ -6615,6 +6614,9 @@ encuentre, y se sustancíe hasta las ulteriores diligencias con el tercero y el 
 teniéndose presente lo prevenido en el artículo 1060.
 Artículo 1366.- La acción que deduce el tercero coadyuvante deberá juzgarse con lo principal en una
 misma sentencia.
+Artículo 1367.- Las tercerías excluyentes son de dominio o de preferencia: en el primer caso deben
+fundarse en el dominio que sobre los bienes en cuestión o sobre la acción que se ejercita alega el
+tercero, y en el segundo, en el mejor derecho que éste deduzca para ser pagado.
 
 138 de 216
 
@@ -6626,9 +6628,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 1367.- Las tercerías excluyentes son de dominio o de preferencia: en el primer caso deben
-fundarse en el dominio que sobre los bienes en cuestión o sobre la acción que se ejercita alega el
-tercero, y en el segundo, en el mejor derecho que éste deduzca para ser pagado.
 Artículo 1368.- Las tercerías excluyentes no suspenderán el curso del negocio en que se interponen;
 se ventilarán por cuerda separada, conforme a los artículos siguientes, oyendo al demandante y al
 demandado en traslado por tres días a cada uno.
@@ -6667,6 +6666,8 @@ TITULO SEGUNDO
 De los Juicios Ordinarios
 Artículo 1377.- Todas las contiendas entre partes que no tengan señalada tramitación especial en las
 leyes mercantiles, se ventilarán en juicio ordinario, siempre que sean susceptibles de apelación.
+También se tramitarán en este juicio, a elección del demandado, las contiendas en las que se oponga
+la excepción de quita o pago.
 
 139 de 216
 
@@ -6678,8 +6679,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-También se tramitarán en este juicio, a elección del demandado, las contiendas en las que se oponga
-la excepción de quita o pago.
 Artículo 1378.- En el escrito de demanda el actor deberá mencionar los documentos públicos y
 privados que tengan relación con dicha demanda, así como si los tiene o no a su disposición debiendo
 exhibir los que posea, y acreditar haber solicitado los que no tengan en los términos del artículo 1061. De
@@ -6718,6 +6717,8 @@ III. Que se designen, en caso de ser prueba instrumental, los archivos públicos
 se hallen los documentos que hayan que testimoniarse o presentarse originales.
 El juez al calificar la admisibilidad de las pruebas, determinará si los interrogatorios exhibidos para la
 confesional o la testimonial guardan relación con los puntos controvertidos o si los documentos y los
+testigos fueron nombrados al demandar o contestar la demanda, y si no reúnen estos requisitos se
+desecharán de plano.
 
 140 de 216
 
@@ -6729,8 +6730,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-testigos fueron nombrados al demandar o contestar la demanda, y si no reúnen estos requisitos se
-desecharán de plano.
 De no exhibirse el pliego de posiciones, o los interrogatorios a testigos con las copias
 correspondientes de éstos, no se admitirán las pruebas respectivas.
 En el caso de concederse el término extraordinario, el juez por cada prueba para la que conceda dicho
@@ -6770,6 +6769,8 @@ Artículo 1388.- Concluido el término probatorio, se pondrán los autos a la vi
 que dentro del término común de tres días produzcan sus alegatos, y transcurrido dicho plazo hayan
 alegado o no, el tribunal de oficio, citará para oír sentencia definitiva la que dictará y notificará dentro del
 término de quince días.
+Artículo 1389.- Pasado que sea el término para alegar, serán citadas las partes para sentencia.
+Artículo 1390.- Dentro de los quince días siguientes a la citación para sentencia, se pronunciará ésta.
 
 141 de 216
 
@@ -6780,9 +6781,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Artículo 1389.- Pasado que sea el término para alegar, serán citadas las partes para sentencia.
-Artículo 1390.- Dentro de los quince días siguientes a la citación para sentencia, se pronunciará ésta.
 
 TÍTULO ESPECIAL
 Del Juicio Oral Mercantil
@@ -6818,6 +6816,9 @@ Artículo 1390 Bis 4.- El juez tendrá las más amplias facultades de dirección
 forma pronta y expedita lo que en derecho convenga.
 Para hacer cumplir sus determinaciones el juez puede hacer uso de las medidas de apremio que se
 mencionan en el artículo 1067 Bis, en los términos que ahí se especifican.
+Artículo 1390 Bis 5.- Las diligencias de desahogo de pruebas que deban verificarse fuera del
+juzgado, pero dentro de su ámbito de competencia territorial, deberán ser presididas por el juez,
+registradas por personal técnico adscrito al Poder Judicial de la entidad federativa o del Poder Judicial de
 
 142 de 216
 
@@ -6829,9 +6830,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 1390 Bis 5.- Las diligencias de desahogo de pruebas que deban verificarse fuera del
-juzgado, pero dentro de su ámbito de competencia territorial, deberán ser presididas por el juez,
-registradas por personal técnico adscrito al Poder Judicial de la entidad federativa o del Poder Judicial de
 la federación, según corresponda, por cualquiera de los medios referidos en el artículo 1390 Bis-26 del
 presente título y certificadas de conformidad con lo dispuesto para el desarrollo de las audiencias en el
 juzgado.
@@ -6865,6 +6863,9 @@ II. El nombre y apellidos, denominación o razón social del actor y el domicili
 recibir notificaciones;
 III. El nombre y apellidos, denominación o razón social del demandado y su domicilio;
 IV. El objeto u objetos que se reclamen con sus accesorios;
+V. Los hechos en que el actor funde su petición en los cuales precisará los documentos públicos o
+privados que tengan relación con cada hecho, así como si los tiene a su disposición. De igual manera
+proporcionará los nombres y apellidos de los testigos que hayan presenciado los hechos relativos.
 
 143 de 216
 
@@ -6876,9 +6877,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-V. Los hechos en que el actor funde su petición en los cuales precisará los documentos públicos o
-privados que tengan relación con cada hecho, así como si los tiene a su disposición. De igual manera
-proporcionará los nombres y apellidos de los testigos que hayan presenciado los hechos relativos.
 Asimismo, debe numerar y narrar los hechos, exponiéndolos sucintamente con claridad y precisión;
 VI. Los fundamentos de derecho y la clase de acción procurando citar los preceptos legales o
 principios jurídicos aplicables;
@@ -6916,6 +6914,10 @@ Artículo 1390 Bis 15.- El emplazamiento se entenderá con el interesado, su rep
 mandatario o procurador, entregando cédula en la que se hará constar la fecha y la hora en que se
 entregue; la clase de procedimiento, el nombre y apellidos de las partes, el juez o tribunal que manda
 practicar la diligencia; transcripción de la determinación que se manda notificar y el nombre y apellidos de
+la persona a quien se entrega, levantándose acta de la diligencia, a la que se agregará copia de la cédula
+entregada en la que se procurará recabar la firma de aquel con quien se hubiera entendido la actuación.
+El notificador se identificará ante la persona con la que entienda la diligencia; requiriendo a ésta para
+que a su vez se identifique, asentando su resultado, así como los medios por los que se cerciore de ser el
 
 144 de 216
 
@@ -6927,10 +6929,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-la persona a quien se entrega, levantándose acta de la diligencia, a la que se agregará copia de la cédula
-entregada en la que se procurará recabar la firma de aquel con quien se hubiera entendido la actuación.
-El notificador se identificará ante la persona con la que entienda la diligencia; requiriendo a ésta para
-que a su vez se identifique, asentando su resultado, así como los medios por los que se cerciore de ser el
 domicilio del buscado, pudiendo pedir la exhibición de documentos que lo acrediten, precisándolos en
 caso de su presentación, así como aquellos signos exteriores del inmueble que puedan servir de
 comprobación de haber acudido al domicilio señalado como el del buscado, y las demás manifestaciones
@@ -6968,6 +6966,10 @@ supuesto en el cual cesará de inmediato el juicio para que se continúe en la v
 Artículo 1390 Bis 19.- El demandado podrá allanarse a la demanda; en este caso el juez citará a las
 partes a la audiencia de juicio, que tendrá verificativo en un plazo no mayor de diez días, en la que se
 dictará la sentencia respectiva.
+Artículo 1390 Bis 20.- Desahogada la vista de la contestación a la demanda y, en su caso, de la
+contestación a la reconvención, o transcurridos los plazos para ello, el juez señalará de inmediato la
+fecha y hora para la celebración de la audiencia preliminar, la que deberá fijarse dentro de los diez días
+siguientes.
 
 145 de 216
 
@@ -6978,11 +6980,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Artículo 1390 Bis 20.- Desahogada la vista de la contestación a la demanda y, en su caso, de la
-contestación a la reconvención, o transcurridos los plazos para ello, el juez señalará de inmediato la
-fecha y hora para la celebración de la audiencia preliminar, la que deberá fijarse dentro de los diez días
-siguientes.
 
 SECCIÓN SEGUNDA
 De las Audiencias
@@ -7020,6 +7017,9 @@ Artículo 1390 Bis 26.- Para producir fe, las audiencias se registrarán por med
 cualquier otro idóneo a juicio del juez, que permita garantizar la fidelidad e integridad de la información, la
 conservación y reproducción de su contenido y el acceso a los mismos a quienes, de acuerdo a la ley,
 tuvieren derecho a ella.
+Al inicio de las audiencias, el secretario del juzgado hará constar oralmente en el registro a que se
+hace referencia en el párrafo anterior la fecha, hora y lugar de realización, el nombre de los servidores
+públicos del juzgado, y demás personas que intervendrán.
 
 146 de 216
 
@@ -7031,9 +7031,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Al inicio de las audiencias, el secretario del juzgado hará constar oralmente en el registro a que se
-hace referencia en el párrafo anterior la fecha, hora y lugar de realización, el nombre de los servidores
-públicos del juzgado, y demás personas que intervendrán.
 Las partes y los terceros que intervengan en el desarrollo de las audiencias deberán rendir
 previamente protesta de que se conducirán con verdad. Para tal efecto, el secretario del juzgado les
 tomará protesta, apercibiéndolos de las penas que se imponen a quienes declaran con falsedad.
@@ -7067,6 +7064,8 @@ I. La depuración del procedimiento;
 II. La conciliación y/o mediación de las partes por conducto del juez;
 III. La fijación de acuerdos sobre hechos no controvertidos;
 IV. La fijación de acuerdos probatorios;
+V. La calificación sobre la admisibilidad de las pruebas, y
+VI. La citación para audiencia de juicio.
 
 147 de 216
 
@@ -7078,8 +7077,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-V. La calificación sobre la admisibilidad de las pruebas, y
-VI. La citación para audiencia de juicio.
 Artículo 1390 Bis 33.- La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes.
 A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser
 inferior a $2,159.03, ni superior a $5,397.57, monto que se actualizará en los términos del artículo 1253
@@ -7120,6 +7117,8 @@ más amplias facultades como rector del procedimiento; dejando de recibir las qu
 preparadas y haciendo efectivo el apercibimiento realizado al oferente; por lo que la audiencia no se
 suspenderá ni diferirá en ningún caso por falta de preparación o desahogo de las pruebas admitidas,
 salvo en aquellos casos expresamente determinados en este Título, por caso fortuito o de fuerza mayor.
+En la audiencia sólo se concederá el uso de la palabra, por una vez, a cada una de las partes para
+formular sus alegatos.
 
 148 de 216
 
@@ -7131,8 +7130,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-En la audiencia sólo se concederá el uso de la palabra, por una vez, a cada una de las partes para
-formular sus alegatos.
 Enseguida, se declarara el asunto visto y citará las partes para la continuación de la audiencia dentro
 del término de diez días siguientes, en la que se dictará la sentencia correspondiente.
 Artículo 1390 Bis 39.- El juez expondrá oralmente y de forma breve, los fundamentos de hecho y de
@@ -7170,6 +7167,10 @@ refieran a hechos propios del declarante y que sean objeto del debate. El juez, 
 formulación, calificará las posiciones, declarando improcedentes aquellas que lo fueren; y,
 III. Previo el apercibimiento correspondiente, en caso de que la persona que deba declarar no asista
 sin justa causa o no conteste las preguntas que se le formulen y que sean calificadas de legales, de oficio
+se le declarará confeso. Solamente en el primer caso, el juez procederá a la apertura del pliego para los
+efectos antes señalados.
+
+SECCIÓN SEGUNDA
 
 149 de 216
 
@@ -7181,10 +7182,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-se le declarará confeso. Solamente en el primer caso, el juez procederá a la apertura del pliego para los
-efectos antes señalados.
-
-SECCIÓN SEGUNDA
 Testimonial
 Artículo 1390 Bis 42.- Las partes tendrán la obligación de presentar sus propios testigos, para cuyo
 efecto se les entregarán las cédulas de notificación. Sin embargo, cuando realmente estuvieren
@@ -7226,6 +7223,9 @@ presentados hasta entonces; los documentos presentados con posterioridad deberá
 la audiencia en que se admitan.
 
 SECCIÓN CUARTA
+Pericial
+Artículo 1390 Bis 46.- Si se ofrece la prueba pericial en la demanda o en la reconvención, la
+contraparte, al presentar su contestación, deberá designar el perito de su parte, proporcionando el
 
 150 de 216
 
@@ -7237,9 +7237,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Pericial
-Artículo 1390 Bis 46.- Si se ofrece la prueba pericial en la demanda o en la reconvención, la
-contraparte, al presentar su contestación, deberá designar el perito de su parte, proporcionando el
 nombre, apellidos y domicilio de éste, y proponer la ampliación de otros puntos y cuestiones, además de
 los formulados por el oferente, para que los peritos dictaminen.
 En el caso de que la prueba pericial se ofrezca al contestar la demanda o al contestar la reconvención,
@@ -7282,6 +7279,8 @@ presentarse el perito tercero en discordia se le impondrá una sanción pecuniar
 que cotizó por sus servicios, en favor de las partes, en igual proporción.
 
 SECCIÓN QUINTA
+Prueba Superveniente
+
 151 de 216
 
 CÓDIGO DE COMERCIO
@@ -7292,7 +7291,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Prueba Superveniente
 Artículo 1390 Bis 49.- Después de la demanda y contestación, reconvención y contestación a la
 reconvención en su caso, no se admitirán al actor ni al demandado, respectivamente, otros documentos
 que los que se hallen en alguno de los casos siguientes:
@@ -7360,6 +7358,11 @@ Los convenios celebrados en los procedimientos conciliatorios tramitados ante la
 Federal del Consumidor o ante la Comisión Nacional para la Protección y Defensa de los
 Usuarios de Servicios Financieros, así como los laudos arbitrales que éstas emitan, y
 
+IX.
+
+Los demás documentos que por disposición de la Ley tienen el carácter de ejecutivos o que por
+sus características traen aparejada ejecución.
+
 152 de 216
 
 CÓDIGO DE COMERCIO
@@ -7369,11 +7372,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-IX.
-
-Los demás documentos que por disposición de la Ley tienen el carácter de ejecutivos o que por
-sus características traen aparejada ejecución.
 
 Artículo 1392.- Presentada por el actor su demanda acompañada del título ejecutivo, se proveerá
 auto, con efectos de mandamiento en forma, para que el demandado sea requerido de pago, y no
@@ -7416,6 +7414,8 @@ Civil, y el juez, dentro de un término máximo de cinco días, deberá poner a 
 oficio respectivo junto con copia certificada de la diligencia de embargo para su inscripción.
 El juez, en ningún caso, suspenderá su jurisdicción para dejar de resolver todo lo concerniente al
 embargo, su inscripción en el Registro Público que corresponda, desembargo, rendición de cuentas por el
+depositario respecto de los gastos de administración y de las demás medidas urgentes, provisionales o
+no, relativas a los actos anteriores.
 
 153 de 216
 
@@ -7427,8 +7427,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-depositario respecto de los gastos de administración y de las demás medidas urgentes, provisionales o
-no, relativas a los actos anteriores.
 Artículo 1395. En el embargo de bienes se seguirá este orden:
 I.
 
@@ -7480,6 +7478,10 @@ no pedir y cualquier otro arreglo que modifique la obligación, y la de falsedad
 que la ejecución no se pida en virtud de ejecutoria, convenio o juicio constante en autos. Todas estas
 excepciones, sin comprender la de falsedad, deberán ser posteriores á la sentencia, convenio o juicio, y
 constar por instrumento público, por documento judicialmente reconocido o por confesión judicial.
+Artículo 1398.- Los términos fijados en el artículo anterior, se contarán desde la fecha de la sentencia
+o convenio, a no ser que en ellos se fije plazo para el cumplimiento de la obligación, en cuyo caso el
+término se contará desde el día en que se venció el plazo o desde que pudo exigirse la última prestación
+vencida, si se tratare de prestaciones periódicas.
 
 154 de 216
 
@@ -7491,10 +7493,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 1398.- Los términos fijados en el artículo anterior, se contarán desde la fecha de la sentencia
-o convenio, a no ser que en ellos se fije plazo para el cumplimiento de la obligación, en cuyo caso el
-término se contará desde el día en que se venció el plazo o desde que pudo exigirse la última prestación
-vencida, si se tratare de prestaciones periódicas.
 Artículo 1399. Dentro de los ocho días siguientes al requerimiento de pago, al embargo, en su caso, y
 al emplazamiento, el demandado deberá contestar la demanda, refiriéndose concretamente a cada
 hecho, oponiendo únicamente las excepciones que permite la ley en el artículo 1403 de este Código, y
@@ -7531,6 +7529,8 @@ II. Fuerza o miedo;
 III. Prescripción o caducidad del título;
 IV. Falta de personalidad en el ejecutante, o del reconocimiento de la firma del ejecutado, en los casos
 en que ese reconocimiento es necesario;
+V. Incompetencia del juez;
+VI. Pago o compensación;
 
 155 de 216
 
@@ -7542,8 +7542,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-V. Incompetencia del juez;
-VI. Pago o compensación;
 VII. Remisión o quita;
 VIII. Oferta de no cobrar o espera.
 IX. Novación de contrato;
@@ -7576,6 +7574,10 @@ Artículo 1409.- Si la sentencia declarase que no procede el juicio ejecutivo, r
 derechos para que los ejercite en la vía y forma que corresponda.
 Artículo 1410.- A virtud de la sentencia de remate se procederá a la venta de los bienes retenidos o
 embargados, con el avalúo que cada parte exhiba dentro de los diez días siguientes a que sea ejecutable
+la sentencia. Si los valores determinados en cada avalúo no coincidieren, se tomará como base para el
+remate el promedio de ambos avalúos, siempre y cuando no exista una diferencia mayor al veinte por
+ciento entre el más bajo y el más alto. Si la discrepancia en el valor de los avalúos exhibidos por las
+partes fuera superior al porcentaje referido, el Juez podrá ordenar que se practique un tercer avalúo.
 
 156 de 216
 
@@ -7587,10 +7589,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-la sentencia. Si los valores determinados en cada avalúo no coincidieren, se tomará como base para el
-remate el promedio de ambos avalúos, siempre y cuando no exista una diferencia mayor al veinte por
-ciento entre el más bajo y el más alto. Si la discrepancia en el valor de los avalúos exhibidos por las
-partes fuera superior al porcentaje referido, el Juez podrá ordenar que se practique un tercer avalúo.
 En caso de que alguna de las partes deje de exhibir el avalúo se entenderá su conformidad con el
 avalúo exhibido por su contraria.
 El avalúo de los bienes retenidos o embargados será practicado por un corredor público, una
@@ -7629,6 +7627,9 @@ material y jurídica de dichos bienes al adjudicatario, siempre y cuando este ú
 consignado el precio, dándose para ello las ordenes necesarias, aún las de desocupación de fincas
 habitadas por el demandado o terceros que no tuvieren contratos para acreditar el uso, en los términos
 que fija la legislación civil aplicable.
+En caso de que existan terceros que acrediten mediante la exhibición del contrato correspondiente
+dicho uso, en la primera diligencia que se lleve a cabo en términos del párrafo anterior, se dará a conocer
+como nuevo dueño al adjudicatario o, en su caso, a sus causahabientes.
 
 157 de 216
 
@@ -7640,9 +7641,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-En caso de que existan terceros que acrediten mediante la exhibición del contrato correspondiente
-dicho uso, en la primera diligencia que se lleve a cabo en términos del párrafo anterior, se dará a conocer
-como nuevo dueño al adjudicatario o, en su caso, a sus causahabientes.
 Artículo 1413.- Las partes, durante el juicio, podrán convenir en que los bienes embargados se
 avalúen o vendan en la forma y términos que ellos acordaren, denunciándolo así oportunamente al
 juzgado por medio de un escrito firmado por ellas.
@@ -7685,6 +7683,8 @@ de depositario judicial hasta en tanto no se realice lo previsto en el artículo
 Artículo 1414 bis 2.- Se dará por concluido el procedimiento extrajudicial y quedará expedita la vía
 judicial en los siguientes casos:
 I. Cuando se oponga el deudor a la entrega material de los bienes o al pago del crédito respectivo, o
+II. Cuando no se haya producido el acuerdo a que se refiere el artículo 1414 bis o éste sea de
+imposible cumplimiento.
 
 158 de 216
 
@@ -7696,8 +7696,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-II. Cuando no se haya producido el acuerdo a que se refiere el artículo 1414 bis o éste sea de
-imposible cumplimiento.
 Artículo 1414 bis 3.- Fuera de los casos previstos en el artículo anterior, el fiduciario o el acreedor
 prendario podrá obtener la posesión de los bienes objeto de la garantía, si así se estipuló expresamente
 en el contrato respectivo. Este acto deberá llevarse a cabo ante fedatario público, quien deberá levantar
@@ -7739,6 +7737,9 @@ excepciones que se indican en el artículo 1414 bis 10.
 La referida determinación de saldo podrá elaborarse a partir del último estado de cuenta que, en su
 caso, el deudor haya recibido y aceptado, siempre y cuando se haya pactado, o bien el acreedor esté
 obligado por disposición de Ley a entregar estados de cuenta al deudor. Se entenderá que el deudor ha
+recibido y aceptado este último estado de cuenta, si no lo objeta por escrito dentro de los diez días
+hábiles siguientes de haberlo recibido o bien efectúa pagos parciales al acreedor con posterioridad a su
+recepción.
 
 159 de 216
 
@@ -7750,9 +7751,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-recibido y aceptado este último estado de cuenta, si no lo objeta por escrito dentro de los diez días
-hábiles siguientes de haberlo recibido o bien efectúa pagos parciales al acreedor con posterioridad a su
-recepción.
 Artículo 1414 bis 9.- La diligencia a que se refiere el artículo anterior, no se suspenderá por ningún
 motivo y se llevará adelante hasta su conclusión, dejando al demandado sus derechos a salvo para que
 los haga valer como le convenga durante el juicio. A fin de poner en posesión material de los bienes al
@@ -7807,6 +7805,8 @@ en un término que no exceda de tres días hábiles, la corrija.
 El juez, bajo su más estricta responsabilidad, revisará la contestación de la demanda y desechará de
 plano todas las excepciones notoriamente improcedentes, o aquéllas respecto de las cuales no se exhiba
 prueba documental o no se ofrezcan las pruebas directamente pertinentes a acreditarlas.
+Artículo 1414 bis 11.- El allanamiento que afecte toda la demanda producirá el efecto de que el
+asunto pase a sentencia definitiva.
 
 160 de 216
 
@@ -7818,8 +7818,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 1414 bis 11.- El allanamiento que afecte toda la demanda producirá el efecto de que el
-asunto pase a sentencia definitiva.
 El demandado aun cuando no hubiere contestado en tiempo la demanda, tendrá en todo tiempo el
 derecho de ofrecer pruebas, hasta antes de que se dicte la sentencia correspondiente, y por una sola
 vez.
@@ -7859,6 +7857,10 @@ escrito o verbalmente, sin necesidad de asentarlo en autos en este último caso.
 dictará sentencia, la que será apelable únicamente en efecto devolutivo.
 Artículo 1414 bis 17.- Obtenido el valor de avalúo de los bienes, de acuerdo con lo dispuesto en el
 artículo 1414 bis, se estará a lo siguiente:
+I.
+
+Cuando el valor de los bienes sea igual al monto del adeudo condenado, quedará liquidado
+totalmente el crédito respectivo, sin corresponder en consecuencia acción o derecho alguno a la
 
 161 de 216
 
@@ -7870,14 +7872,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-I.
-
-Cuando el valor de los bienes sea igual al monto del adeudo condenado, quedará liquidado
-totalmente el crédito respectivo, sin corresponder en consecuencia acción o derecho alguno a la
 parte actora para ejercitar o hacer valer con posterioridad en contra del demandado, por lo que
 respecta al contrato base de la acción. En este caso, el actor, podrá disponer libremente de los
 bienes objeto de la garantía;
-
 II.
 
 Cuando el valor de los bienes sea menor al monto del adeudo condenado, el actor, podrá
@@ -7928,6 +7925,8 @@ Realizada la venta de los bienes, si el precio de venta de los mismos fuera supe
 monto del adeudo, el actor procederá a entregar el remanente que corresponda al
 demandado en un plazo no mayor de cinco días, una vez que se haya deducido el monto
 del crédito otorgado, incluyendo intereses y demás gastos incurridos para la venta, en
+efectivo, cheque de caja o mediante billete de depósito a favor de la parte demandada a
+través del fedatario.
 
 162 de 216
 
@@ -7939,8 +7938,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-efectivo, cheque de caja o mediante billete de depósito a favor de la parte demandada a
-través del fedatario.
 Artículo 1414 bis 18.- En caso de incumplimiento de la parte actora a lo señalado en la fracción III,
 inciso c), del artículo anterior, el juez lo apercibirá con las medidas de apremio establecidas en el artículo
 1414 Bis 9, y le ordenará pagar una pena equivalente a cien y hasta tres mil veces, el salario mínimo
@@ -7979,6 +7976,8 @@ no una institución arbitral permanente ante la que se lleve a cabo;
 III.- Arbitraje internacional, aquél en el que:
 a) Las partes al momento de la celebración del acuerdo de arbitraje, tengan sus establecimientos en
 países diferentes; o
+b) El lugar de arbitraje, determinado en el acuerdo de arbitraje o con arreglo al misma, el lugar del
+cumplimiento de una parte sustancial de las obligaciones de la relación comercial o el lugar con el cual el
 
 163 de 216
 
@@ -7990,8 +7989,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-b) El lugar de arbitraje, determinado en el acuerdo de arbitraje o con arreglo al misma, el lugar del
-cumplimiento de una parte sustancial de las obligaciones de la relación comercial o el lugar con el cual el
 objeto del litigio tenga una relación más estrecha, esté situado fuera del país en el que las partes tienen
 su establecimiento.
 Para los efectos de esta fracción, si alguna de las partes tienen más de un establecimiento, el
@@ -8029,6 +8026,8 @@ Artículo 1419.- Para los fines del cómputo de plazos establecidos en el presen
 comenzarán a correr desde el día siguiente a aquél en que se reciba una notificación, nota, comunicación
 o propuesta. Si el último día de ese plazo es feriado oficial o no laborable en el lugar de residencia o
 establecimiento de los negocios del destinatario, dicho plazo se prorrogará hasta el primer día laborable
+siguiente. Los demás días feriados oficiales o no laborables que ocurran durante el transcurso del plazo
+se incluirán en el cómputo del plazo.
 
 164 de 216
 
@@ -8040,8 +8039,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-siguiente. Los demás días feriados oficiales o no laborables que ocurran durante el transcurso del plazo
-se incluirán en el cómputo del plazo.
 Artículo 1420.- Si una parte prosigue el arbitraje sabiendo que no se ha cumplido alguna disposición
 del presente título de la que las partes puedan apartarse o algún requisito del acuerdo de arbitraje y no
 exprese su objeción a tal incumplimiento sin demora justificada o, si se prevé un plazo para hacerlo y no
@@ -8081,6 +8078,7 @@ CAPITULO III
 Composición del Tribunal Arbitral
 Artículo 1426.- Las partes podrán determinar libremente el número de árbitros. A falta de tal acuerdo,
 será un solo árbitro.
+Artículo 1427.- Para el nombramiento de árbitros se estará a lo siguiente:
 
 165 de 216
 
@@ -8092,7 +8090,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 1427.- Para el nombramiento de árbitros se estará a lo siguiente:
 I.- Salvo acuerdo en contrario de las partes, la nacionalidad de una persona no será obstáculo para
 que actúe como árbitro.
 II.- Sin perjuicio de lo dispuesto en las fracciones IV y V del presente artículo, las partes podrán
@@ -8133,6 +8130,8 @@ lugar a dudas justificadas respecto de la imparcialidad del árbitro o su indepe
 cualidades convenidas, un escrito en el que exponga los motivos para la recusación. A menos que el
 árbitro recusado renuncie a su cargo o que la otra parte acepte la recusación, corresponderá al tribunal
 arbitral decidir sobre ésta.
+Si no prosperase la recusación incoada en los términos del párrafo anterior, la parte recusante podrá
+pedir al juez, dentro de los treinta días siguientes de notificada la decisión por la que se rechaza la
 
 166 de 216
 
@@ -8144,8 +8143,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Si no prosperase la recusación incoada en los términos del párrafo anterior, la parte recusante podrá
-pedir al juez, dentro de los treinta días siguientes de notificada la decisión por la que se rechaza la
 recusación, resuelva sobre su procedencia, decisión que será inapelable. Mientras esa petición esté
 pendiente, el tribunal arbitral, incluso el árbitro recusado, podrán proseguir las actuaciones arbitrales y
 dictar un laudo.
