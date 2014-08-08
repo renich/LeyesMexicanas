@@ -1017,9 +1017,7 @@ facultades para actos de dominio, actos de administración y para pleitos y cobr
 suficientemente instruido y expensado. Cuando quien haya sido arraigado demuestre haber dado
 cumplimiento a lo anterior, el juez levantará el arraigo.
 Párrafo reformado DOF 10-01-2014
-
-Segundo párrafo.- Se deroga
-Párrafo adicionado DOF 27-12-2007. Derogado DOF 10-01-2014
+Reforma DOF 10-01-2014: Derogó del artículo el entonces párrafo segundo (antes adicionado por DOF 27-12-2007)
 
 Artículo 48.- La sentencia que declare que no es procedente el concurso mercantil, ordenará que las
 cosas vuelvan al estado que tenían con anterioridad a la misma, y el levantamiento de las providencias
@@ -1088,6 +1086,9 @@ Capítulo I
 Del visitador, del conciliador y del síndico
 Artículo 54.- El visitador, el conciliador y el síndico tendrán las obligaciones y facultades que
 expresamente les confiere esta Ley.
+Artículo 55.- Los visitadores, conciliadores y síndicos podrán contratar, con autorización del juez, a
+los auxiliares que consideren necesarios para el ejercicio de sus funciones lo que no implicará, en ningún
+caso, la delegación de sus respectivas responsabilidades.
 
 17
 
@@ -1099,9 +1100,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 55.- Los visitadores, conciliadores y síndicos podrán contratar, con autorización del juez, a
-los auxiliares que consideren necesarios para el ejercicio de sus funciones lo que no implicará, en ningún
-caso, la delegación de sus respectivas responsabilidades.
 Artículo 56.- El nombramiento del visitador, conciliador o síndico podrá ser impugnado ante el juez
 por el Comerciante, y por cualquiera de los acreedores dentro de los tres días siguientes a la fecha en
 que la designación se les hubiere hecho de su conocimiento conforme a lo establecido en los artículos
@@ -1143,6 +1141,9 @@ Artículo reformado DOF 10-01-2014
 
 Capítulo II
 De los interventores
+Artículo 62.- Los interventores representarán los intereses de los acreedores y tendrán a su cargo la
+vigilancia de la actuación del conciliador y del síndico así como de los actos realizados por el
+Comerciante en la administración de su empresa.
 
 18
 
@@ -1154,9 +1155,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 62.- Los interventores representarán los intereses de los acreedores y tendrán a su cargo la
-vigilancia de la actuación del conciliador y del síndico así como de los actos realizados por el
-Comerciante en la administración de su empresa.
 Artículo 63.- Cualquier acreedor o grupo de acreedores que representen por lo menos el diez por
 ciento del monto de los créditos a cargo del Comerciante, de conformidad con la lista provisional de
 créditos; por lo menos el diez por ciento del pasivo a cargo del Comerciante conforme a la lista definitiva
@@ -1212,6 +1210,8 @@ De la suspensión de los procedimientos de ejecución
 Artículo 65.- Desde que se dicte la sentencia de concurso mercantil y hasta que termine la etapa de
 conciliación, no podrá ejecutarse ningún mandamiento de embargo o ejecución contra los bienes y
 derechos del Comerciante.
+Cuando el mandamiento de embargo o ejecución sea de carácter laboral, la suspensión no surtirá
+efectos respecto de lo dispuesto en la fracción XXIII, del apartado A, del artículo 123 constitucional y sus
 
 19
 
@@ -1223,8 +1223,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Cuando el mandamiento de embargo o ejecución sea de carácter laboral, la suspensión no surtirá
-efectos respecto de lo dispuesto en la fracción XXIII, del apartado A, del artículo 123 constitucional y sus
 disposiciones reglamentarias, considerando los salarios de los dos años anteriores al concurso mercantil;
 cuando sea de carácter fiscal, se estará a lo dispuesto en el artículo 69 de este ordenamiento.
 Artículo 66.- El auto de admisión de la demanda de concurso mercantil tendrá entre sus propósitos,
@@ -1265,6 +1263,9 @@ conciliación, se suspenderán los procedimientos administrativos de ejecución 
 autoridades fiscales competentes podrán continuar los actos necesarios para la determinación y
 aseguramiento de los créditos fiscales a cargo del Comerciante.
 
+Capítulo II
+De la separación de bienes que se encuentren en posesión del Comerciante
+
 20
 
 LEY DE CONCURSOS MERCANTILES
@@ -1275,8 +1276,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Capítulo II
-De la separación de bienes que se encuentren en posesión del Comerciante
 Artículo 70.- Los bienes en posesión del Comerciante que sean identificables, cuya propiedad no se
 le hubiere transferido por título legal definitivo e irrevocable, podrán ser separados por sus legítimos
 titulares. El juez del concurso mercantil será competente para conocer de la acción de separación.
@@ -1342,6 +1341,12 @@ Cuando el crédito resultante de la remisión hubiere sido afectado al pago de u
 cambio, el titular legítimo de ésta podrá obtener su separación.
 Párrafo reformado DOF 10-01-2014
 
+d)
+
+Las cantidades a nombre del Comerciante por ventas hechas por cuenta ajena. El
+separatista podrá obtener también la cesión del correspondiente derecho de crédito, o
+Inciso reformado DOF 10-01-2014
+
 21
 
 LEY DE CONCURSOS MERCANTILES
@@ -1351,12 +1356,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-d)
-
-Las cantidades a nombre del Comerciante por ventas hechas por cuenta ajena. El
-separatista podrá obtener también la cesión del correspondiente derecho de crédito, o
-Inciso reformado DOF 10-01-2014
 
 e)
 
@@ -1466,6 +1465,7 @@ Lo previsto en este artículo será aplicable aun cuando el conciliador haya asu
 de la empresa del Comerciante.
 Artículo 77.- El conciliador, bajo su más estricta responsabilidad, podrá abstenerse de solicitar la
 opinión de los interventores para la enajenación de un bien en aquellos casos en que éste sea
+perecedero o considere que pueda estar expuesto a una grave disminución de su precio, o su
 
 23
 
@@ -1477,7 +1477,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-perecedero o considere que pueda estar expuesto a una grave disminución de su precio, o su
 conservación sea costosa en comparación con la utilidad que pueda generar para la Masa, debiendo
 informar de ello al juez dentro de los tres días siguientes a la operación. Cualquier objeción se
 substanciará por la vía incidental.
@@ -5152,13 +5151,14 @@ V.
 No haber sido condenado mediante sentencia ejecutoriada, por delito intencional que merezca
 pena corporal, ni inhabilitado para empleo, cargo o comisión en el servicio público, el sistema
 financiero, o para ejercer el comercio.
-
-(Se deroga el último párrafo)
-Párrafo derogado DOF 27-12-2007
+Reforma DOF 27-12-2007: Derogó del artículo el entonces último párrafo
 
 Artículo 327.- Los visitadores, conciliadores o síndicos deberán caucionar su correcto desempeño en
 cada concurso mercantil para el que sean designados, mediante la garantía que determine el Instituto, a
 través de disposiciones de carácter general.
+Artículo 328.- No podrán actuar como visitadores, conciliadores o síndicos en el procedimiento de
+concurso mercantil de que se trate, las personas que se encuentren en alguno de los siguientes
+supuestos:
 
 82
 
@@ -5170,9 +5170,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 328.- No podrán actuar como visitadores, conciliadores o síndicos en el procedimiento de
-concurso mercantil de que se trate, las personas que se encuentren en alguno de los siguientes
-supuestos:
 I.
 
 Ser cónyuge, concubina o concubinario o pariente dentro del cuarto grado por consanguinidad o
@@ -5220,6 +5217,10 @@ Artículo 331.- El visitador, conciliador y síndico sólo podrán excusarse de 
 exista impedimento legal o medie causa suficiente a juicio del Instituto quien deberá resolver de
 inmediato a fin de evitar daño al procedimiento concursal.
 Artículo 332.- Son obligaciones del visitador, conciliador y síndico, las siguientes:
+I.
+
+Ejercer con probidad y diligencia las funciones que la presente Ley les encomienda, en los plazos
+que la misma establece;
 
 83
 
@@ -5230,11 +5231,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-I.
-
-Ejercer con probidad y diligencia las funciones que la presente Ley les encomienda, en los plazos
-que la misma establece;
 
 II.
 
@@ -5289,6 +5285,8 @@ En todo caso, la remuneración del conciliador y del síndico estará vinculada 
 
 Capítulo IV
 Del registro de los visitadores, conciliadores y síndicos
+Artículo 334.- El Instituto mantendrá un registro actualizado de visitadores, conciliadores y síndicos,
+diferenciados según las categorías que al efecto determine mediante disposiciones de carácter general.
 
 84
 
@@ -5300,8 +5298,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 334.- El Instituto mantendrá un registro actualizado de visitadores, conciliadores y síndicos,
-diferenciados según las categorías que al efecto determine mediante disposiciones de carácter general.
 Solamente podrán fungir como visitadores, conciliadores o síndicos, las personas que se encuentren
 inscritas en el registro correspondiente, salvo lo dispuesto en los artículos 147 y 174 de esta Ley.
 Artículo 335.- La designación de visitadores, conciliadores y síndicos para procedimientos de
@@ -5354,6 +5350,10 @@ II.
 
 La solicitud la suscriba el Comerciante con los titulares de cuando menos la mayoría simple del
 total de sus adeudos.
+Para la admisión del concurso mercantil con plan de reestructura será suficiente que el
+Comerciante manifieste bajo protesta de decir verdad que las personas que firman la solicitud
+representan cuando menos la mayoría simple del total de sus adeudos;
+Fracción reformada DOF 10-01-2014
 
 85
 
@@ -5364,11 +5364,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Para la admisión del concurso mercantil con plan de reestructura será suficiente que el
-Comerciante manifieste bajo protesta de decir verdad que las personas que firman la solicitud
-representan cuando menos la mayoría simple del total de sus adeudos;
-Fracción reformada DOF 10-01-2014
 
 III.
 
@@ -5418,6 +5413,8 @@ TERCERO.- Las referencias que otras leyes y disposiciones hagan al estado o a lo
 de quiebra y de suspensión de pagos, se entenderán referidas al concurso mercantil.
 CUARTO.- Las entidades de la administración pública paraestatal que no estén constituidas como
 sociedades mercantiles no serán declaradas en concurso mercantil.
+Las instituciones y sociedades mutualistas de seguros, las instituciones de fianzas, las de reaseguro y
+las de reafianzamiento, se regirán por lo dispuesto en sus leyes especiales.
 
 86
 
@@ -5429,8 +5426,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Las instituciones y sociedades mutualistas de seguros, las instituciones de fianzas, las de reaseguro y
-las de reafianzamiento, se regirán por lo dispuesto en sus leyes especiales.
 QUINTO.- Los procedimientos de quiebra y de suspensión de pagos que hubiesen sido iniciados con
 anterioridad a la entrada en vigor de esta Ley, continuarán rigiéndose por la Ley de Quiebras y de
 Suspensión de Pagos publicada en el Diario Oficial de la Federación el día 20 de abril de 1943.
