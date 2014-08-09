@@ -357,11 +357,10 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Cuarto párrafo.- Se deroga
-Párrafo derogado DOF 10-01-2014
-
 La Comisión establecerá los casos y condiciones en que las uniones podrán adquirir transitoriamente
 las acciones representativas de su propio capital procurando su sano desarrollo y liquidez.
+Reforma DOF 10-01-2014: Derogó del artículo el entonces párrafo cuarto
+
 Artículo 19.- Todas las acciones de las uniones, serán de igual valor; dentro de cada serie conferirán
 iguales derechos y deberán pagarse íntegramente en efectivo en el acto de ser suscritas, o bien, en
 especie si, en este último caso, así lo autoriza la Comisión considerando la situación financiera de la
@@ -452,9 +451,6 @@ refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles de
 acciones que se efectúen en contravención a lo dispuesto por los artículos 21 y 23 de esta Ley, y
 deberán informar a la Comisión, dentro de los cinco días hábiles siguientes a la fecha en que tengan
 conocimiento de ello.
-Segundo párrafo.- Se deroga
-Párrafo derogado DOF 10-01-2014
-
 Cuando las adquisiciones y demás actos jurídicos a través de los cuales se obtenga directa o
 indirectamente la titularidad de acciones representativas del capital social de una unión, se realicen en
 contravención a lo dispuesto por los artículos 21 y 23 de esta Ley, los derechos patrimoniales y
@@ -462,10 +458,17 @@ corporativos inherentes a las acciones correspondientes de la unión quedarán e
 no podrán ser ejercidos, hasta que se acredite que se ha obtenido la autorización o resolución que
 corresponda o que se han satisfecho los requisitos que esta ley contempla.
 Párrafo reformado DOF 10-01-2014
+Reforma DOF 10-01-2014: Derogó del artículo el entonces párrafo segundo
 
 Artículo 23.- La adquisición, mediante una o varias operaciones simultáneas, de acciones
 representativas del capital social de una unión, por parte de una persona o grupo de personas, estará
 sujeta a los requisitos siguientes:
+I.
+
+Cuando se adquiera más del cinco por ciento y hasta el quince por ciento del capital social de
+la unión, deberán informar por escrito a la Comisión, dentro de los tres días hábiles siguientes
+a la transmisión o adquisición.
+Fracción reformada DOF 10-01-2014
 
 8 de 65
 
@@ -476,13 +479,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-I.
-
-Cuando se adquiera más del cinco por ciento y hasta el quince por ciento del capital social de
-la unión, deberán informar por escrito a la Comisión, dentro de los tres días hábiles siguientes
-a la transmisión o adquisición.
-Fracción reformada DOF 10-01-2014
 
 II.
 
@@ -532,6 +528,9 @@ Artículo 25.- El consejo de administración de las uniones estará integrado po
 máximo de quince consejeros propietarios, de los cuales cuando menos el veinticinco por ciento deberán
 ser independientes. Cada consejero propietario designará a su respectivo suplente, en el entendido de
 que los consejeros suplentes de los consejeros independientes, deberán tener este mismo carácter.
+Cada accionista o grupo de accionistas que representen por lo menos un diez por ciento del capital
+pagado de una unión, tendrán derecho a designar un consejero. Sólo podrá revocarse el nombramiento
+de estos consejeros de minoría, cuando se revoque el de todos los demás.
 
 9 de 65
 
@@ -543,9 +542,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Cada accionista o grupo de accionistas que representen por lo menos un diez por ciento del capital
-pagado de una unión, tendrán derecho a designar un consejero. Sólo podrá revocarse el nombramiento
-de estos consejeros de minoría, cuando se revoque el de todos los demás.
 Artículo 26.- Los nombramientos de consejeros de las uniones deberán recaer en personas que
 cuenten con calidad técnica, honorabilidad e historial crediticio satisfactorio, así como con amplios
 conocimientos y experiencia en materia empresarial, financiera, legal o administrativa.
@@ -599,6 +595,12 @@ Socios o personas que ocupen un empleo cargo o comisión en sociedades o asociac
 importantes que presten servicios a la unión, cuyos ingresos representen el cinco por ciento o
 más de sus ingresos;
 
+IV. Los clientes, proveedores, prestadores de servicios, deudores, acreedores importantes, socios,
+consejeros o empleados de una sociedad que sea cliente, proveedor, prestador de servicios,
+deudor o acreedor importante de la unión.
+Se considera que un cliente, proveedor o prestador de servicios es importante cuando los
+servicios que le preste la unión o las ventas que aquél le haga a ésta, representan más del diez
+
 10 de 65
 
 LEY DE UNIONES DE CRÉDITO
@@ -609,11 +611,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-IV. Los clientes, proveedores, prestadores de servicios, deudores, acreedores importantes, socios,
-consejeros o empleados de una sociedad que sea cliente, proveedor, prestador de servicios,
-deudor o acreedor importante de la unión.
-Se considera que un cliente, proveedor o prestador de servicios es importante cuando los
-servicios que le preste la unión o las ventas que aquél le haga a ésta, representan más del diez
 por ciento de los servicios o ventas totales del cliente o del proveedor, respectivamente.
 Asimismo, se considera que un deudor o acreedor es importante cuando el importe de la
 operación respectiva es mayor al quince por ciento de los activos de la unión o de su contraparte;
@@ -652,6 +649,14 @@ independiente. Dicho comité, en su integración y funcionamiento, deberá ajust
 carácter general que emita la Comisión.
 Artículo reformado DOF 10-01-2014
 
+Artículo 31.- El consejo de administración de las uniones deberá aprobar el Manual de Políticas y
+Procedimientos, el cual contendrá, entre otros, la regulación aplicable a las operaciones que se realizarán
+a través del departamento especial.
+Artículo 32.- Los nombramientos del director general de las uniones y de los directivos que ocupen el
+cargo con la jerarquía inmediata inferior a la de éste, deberán recaer en personas que cuenten con
+elegibilidad crediticia y honorabilidad, y que además reúnan los requisitos que establezca la Comisión
+mediante disposiciones de carácter general.
+
 11 de 65
 
 LEY DE UNIONES DE CRÉDITO
@@ -662,13 +667,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 31.- El consejo de administración de las uniones deberá aprobar el Manual de Políticas y
-Procedimientos, el cual contendrá, entre otros, la regulación aplicable a las operaciones que se realizarán
-a través del departamento especial.
-Artículo 32.- Los nombramientos del director general de las uniones y de los directivos que ocupen el
-cargo con la jerarquía inmediata inferior a la de éste, deberán recaer en personas que cuenten con
-elegibilidad crediticia y honorabilidad, y que además reúnan los requisitos que establezca la Comisión
-mediante disposiciones de carácter general.
 Artículo 33.- La unión de que se trate, deberá verificar que las personas que sean designadas como
 consejeros, director general y directivos con la jerarquía inmediata inferior a la de este último, cumplan,
 con anterioridad al inicio de sus gestiones, con los requisitos señalados en esta Ley. La Comisión podrá
@@ -708,6 +706,14 @@ presenten la situación de las sociedades y que servirán de base para que la as
 fusión, estados financieros proyectados de la sociedad resultante de la fusión y la información
 siguiente:
 a) Proyecto de estatutos de la sociedad que se ajuste a lo dispuesto en esta Ley;
+b) Relación e información de las personas que directa o indirectamente pretendan mantener
+una participación en el capital social de la unión a constituir, que deberá contener, de
+conformidad con las disposiciones de carácter general que al efecto expida la Comisión,
+previo acuerdo de su Junta de Gobierno, lo siguiente:
+i)
+
+El monto del capital social que cada una de ellas suscribirá, y el origen de los recursos
+que utilizará para tal efecto;
 
 12 de 65
 
@@ -718,15 +724,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-b) Relación e información de las personas que directa o indirectamente pretendan mantener
-una participación en el capital social de la unión a constituir, que deberá contener, de
-conformidad con las disposiciones de carácter general que al efecto expida la Comisión,
-previo acuerdo de su Junta de Gobierno, lo siguiente:
-i)
-
-El monto del capital social que cada una de ellas suscribirá, y el origen de los recursos
-que utilizará para tal efecto;
 
 ii) La situación patrimonial, tratándose de personas físicas, o los estados financieros,
 tratándose de personas morales, en ambos casos, de los últimos tres años, y
@@ -772,6 +769,13 @@ párrafo anterior, los acreedores de la sociedad escindente podrán oponerse jud
 con el único objeto de obtener el pago de sus créditos, sin que esta oposición suspenda la escisión.
 Párrafo reformado DOF 10-01-2014
 
+La sociedad escindida no se entenderá autorizada para organizarse y operar como unión, y la
+sociedad escindente que subsista conservará la autorización que se le haya otorgado para tales efectos.
+Con motivo de la escisión, a la sociedad escindida sólo se le transmitirán operaciones activas,
+pasivas, fidecomisos y comisiones de la unión escindente, en los casos en que lo autorice la Comisión,
+cuando considere que no se afectan adversamente los intereses de los socios de las uniones en las
+operaciones respectivas y no exista oposición de acreedores. Los fideicomisos o comisiones sólo podrán
+
 13 de 65
 
 LEY DE UNIONES DE CRÉDITO
@@ -782,12 +786,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-La sociedad escindida no se entenderá autorizada para organizarse y operar como unión, y la
-sociedad escindente que subsista conservará la autorización que se le haya otorgado para tales efectos.
-Con motivo de la escisión, a la sociedad escindida sólo se le transmitirán operaciones activas,
-pasivas, fidecomisos y comisiones de la unión escindente, en los casos en que lo autorice la Comisión,
-cuando considere que no se afectan adversamente los intereses de los socios de las uniones en las
-operaciones respectivas y no exista oposición de acreedores. Los fideicomisos o comisiones sólo podrán
 transmitirse cuando el causahabiente final sea una entidad financiera autorizada para llevar a cabo este
 tipo de operaciones.
 En el evento de que la escisión produzca la extinción de la unión escindente, la autorización otorgada
@@ -837,16 +835,6 @@ V.
 
 Practicar con sus socios operaciones de descuento, préstamo y crédito;
 
-14 de 65
-
-LEY DE UNIONES DE CRÉDITO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 10-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 VI.
 
 Efectuar con fines de cobertura, sin que en ningún caso actúe como intermediario,
@@ -861,6 +849,16 @@ Fracción reformada DOF 10-01-2014
 VIII.
 
 Constituir depósitos en instituciones de crédito y entidades financieras del exterior;
+
+14 de 65
+
+LEY DE UNIONES DE CRÉDITO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 10-01-2014
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 IX.
 
@@ -924,6 +922,17 @@ XVIII.
 Adquirir títulos representativos del capital de sociedades mercantiles, incluyendo aquéllas
 que les presten servicios complementarios o auxiliares en su administración, o en la
 realización de su objeto, así como de sociedades inmobiliarias que sean propietarias o
+administradoras de bienes destinados a sus oficinas, previa autorización de la Comisión;
+dichas sociedades deberán ajustarse, en cuanto a los servicios u operaciones que la
+Comisión repute complementarios o auxiliares de las operaciones que sean propias de las
+uniones, a las disposiciones de carácter general que dicte la misma Comisión, y a su
+inspección y vigilancia y, en consecuencia, deberán cubrir las cuotas de inspección y
+vigilancia correspondientes;
+
+XIX.
+
+Adquirir los bienes muebles e inmuebles necesarios para la realización de su objeto y
+enajenarlos cuando corresponda;
 
 15 de 65
 
@@ -934,17 +943,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-administradoras de bienes destinados a sus oficinas, previa autorización de la Comisión;
-dichas sociedades deberán ajustarse, en cuanto a los servicios u operaciones que la
-Comisión repute complementarios o auxiliares de las operaciones que sean propias de las
-uniones, a las disposiciones de carácter general que dicte la misma Comisión, y a su
-inspección y vigilancia y, en consecuencia, deberán cubrir las cuotas de inspección y
-vigilancia correspondientes;
-XIX.
-
-Adquirir los bienes muebles e inmuebles necesarios para la realización de su objeto y
-enajenarlos cuando corresponda;
 
 XX.
 
@@ -1001,6 +999,13 @@ de departamento especial.
 Las uniones con niveles de operación II y III podrán otorgar créditos a otras uniones.
 Párrafo reformado DOF 10-01-2014
 
+Las operaciones de factoraje financiero y arrendamiento financiero, únicamente podrán llevarse a
+cabo por uniones que se ubiquen en los niveles de operaciones II y III. La encomienda fiduciaria en
+fideicomisos de garantía, sólo podrá realizarse por las uniones que se ubiquen en el nivel de operaciones
+III.
+Artículo 41.- Las uniones podrán, previa autorización de la Comisión, celebrar operaciones de compra
+y venta de divisas exclusivamente con sus socios.
+
 16 de 65
 
 LEY DE UNIONES DE CRÉDITO
@@ -1011,12 +1016,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Las operaciones de factoraje financiero y arrendamiento financiero, únicamente podrán llevarse a
-cabo por uniones que se ubiquen en los niveles de operaciones II y III. La encomienda fiduciaria en
-fideicomisos de garantía, sólo podrá realizarse por las uniones que se ubiquen en el nivel de operaciones
-III.
-Artículo 41.- Las uniones podrán, previa autorización de la Comisión, celebrar operaciones de compra
-y venta de divisas exclusivamente con sus socios.
 Para obtener la autorización a que se refiere este artículo, las uniones deberán acreditar
 fehacientemente a la Comisión que requieren divisas de manera cotidiana, como resultado de sus
 operaciones normales, de las de sus socios o de las empresas de estos últimos.
@@ -1063,6 +1062,13 @@ disponer de los créditos otorgados o concedidos o para intervenir en la operaci
 casos previstos en el artículo 117 de la Ley de Instituciones de Crédito.
 Artículo 44 Bis.- La Secretaría, la Comisión y la Comisión Nacional para la Protección y Defensa de
 los Usuarios de Servicios Financieros, en el ámbito de su competencia, estarán facultadas para
+proporcionar a las autoridades financieras del exterior toda clase de información que estimen procedente
+para atender los requerimientos que les formulen, tales como documentos, constancias, registros,
+declaraciones y demás evidencias que tales autoridades tengan en su poder por haberla obtenido en
+ejercicio de sus facultades.
+Para efectos de lo previsto en el párrafo anterior, las autoridades deberán tener suscrito un acuerdo
+de intercambio de información con las autoridades financieras del exterior de que se trate, en el que se
+contemple el principio de reciprocidad.
 
 17 de 65
 
@@ -1074,13 +1080,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-proporcionar a las autoridades financieras del exterior toda clase de información que estimen procedente
-para atender los requerimientos que les formulen, tales como documentos, constancias, registros,
-declaraciones y demás evidencias que tales autoridades tengan en su poder por haberla obtenido en
-ejercicio de sus facultades.
-Para efectos de lo previsto en el párrafo anterior, las autoridades deberán tener suscrito un acuerdo
-de intercambio de información con las autoridades financieras del exterior de que se trate, en el que se
-contemple el principio de reciprocidad.
 La Comisión estará facultada para entregar a las autoridades financieras del exterior la información
 protegida por disposiciones de confidencialidad que obre en su poder por haberla obtenido en el ejercicio
 de sus facultades, actuando en coordinación con otras entidades, personas o autoridades o bien
@@ -1117,6 +1116,13 @@ coeficientes de liquidez, administración integral de riesgos, controles interno
 convenientes para proveer la solvencia financiera y la adecuada operación de las uniones.
 La Comisión determinará mediante disposiciones técnicas y operativas de carácter general, las bases
 para la calificación de la cartera de créditos de las uniones, la documentación e información que éstas
+recabarán para el otorgamiento, renovación y durante la vigencia de créditos de cualquier naturaleza, con
+o sin garantía real, los requisitos que dicha documentación habrá de reunir y la periodicidad con que deba
+obtenerse, así como la integración de las estimaciones preventivas, que por cada rango de calificación
+tengan que constituirse, buscando asegurar la solvencia y estabilidad de las uniones y la confiabilidad de
+su información financiera.
+Las uniones deberán cumplir con las disposiciones generales de carácter prudencial que emita la
+Comisión en términos de lo previsto en este artículo.
 
 18 de 65
 
@@ -1128,13 +1134,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-recabarán para el otorgamiento, renovación y durante la vigencia de créditos de cualquier naturaleza, con
-o sin garantía real, los requisitos que dicha documentación habrá de reunir y la periodicidad con que deba
-obtenerse, así como la integración de las estimaciones preventivas, que por cada rango de calificación
-tengan que constituirse, buscando asegurar la solvencia y estabilidad de las uniones y la confiabilidad de
-su información financiera.
-Las uniones deberán cumplir con las disposiciones generales de carácter prudencial que emita la
-Comisión en términos de lo previsto en este artículo.
 Artículo 47.- Al realizar sus operaciones las uniones deben diversificar sus riesgos. La Comisión
 determinará mediante disposiciones de carácter general lo siguiente:
 I.
@@ -1183,6 +1182,12 @@ Artículo 48.- Las uniones deberán mantener un capital neto en relación con lo
 de crédito y otros en que incurran en su operación, que no podrá ser inferior a la cantidad que resulte de
 sumar los requerimientos de capital por cada tipo de riesgo, en términos de las disposiciones de carácter
 general que establezca la Comisión con aprobación de su Junta de Gobierno.
+El capital neto, en su parte básica y complementaria, se determinará conforme a lo que establezca la
+propia Comisión en las mencionadas disposiciones que procuren salvaguardar la solvencia y estabilidad
+financiera de las uniones.
+El capital neto en ningún momento deberá ser inferior al capital mínimo pagado que le resulte
+aplicable conforme a lo establecido en el artículo 18.
+Párrafo adicionado DOF 10-01-2014
 
 19 de 65
 
@@ -1193,13 +1198,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-El capital neto, en su parte básica y complementaria, se determinará conforme a lo que establezca la
-propia Comisión en las mencionadas disposiciones que procuren salvaguardar la solvencia y estabilidad
-financiera de las uniones.
-El capital neto en ningún momento deberá ser inferior al capital mínimo pagado que le resulte
-aplicable conforme a lo establecido en el artículo 18.
-Párrafo adicionado DOF 10-01-2014
 
 La Comisión, en las disposiciones de carácter general a que se refiere el primer párrafo de este
 artículo, establecerá el procedimiento para el cálculo del índice de capitalización aplicable a las uniones.
@@ -1246,6 +1244,12 @@ artículo 103 de esta Ley.
 
 CAPITULO III
 Reglas especiales
+Artículo 50.- En los créditos, préstamos o financiamientos que las uniones otorguen, el pago de los
+intereses no podrá ser exigido por adelantado, sino únicamente por períodos vencidos, sin perjuicio de
+ajustarse a la legislación mercantil aplicable. La Comisión mediante las disposiciones de carácter general
+a que se refiere el artículo 42 de esta Ley, determinará los montos de los créditos, préstamos y
+financiamientos a los que les será aplicable este artículo, de los cuales las uniones estarán obligadas a
+informar a sus socios al momento de pactar los términos del crédito.
 
 20 de 65
 
@@ -1257,12 +1261,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 50.- En los créditos, préstamos o financiamientos que las uniones otorguen, el pago de los
-intereses no podrá ser exigido por adelantado, sino únicamente por períodos vencidos, sin perjuicio de
-ajustarse a la legislación mercantil aplicable. La Comisión mediante las disposiciones de carácter general
-a que se refiere el artículo 42 de esta Ley, determinará los montos de los créditos, préstamos y
-financiamientos a los que les será aplicable este artículo, de los cuales las uniones estarán obligadas a
-informar a sus socios al momento de pactar los términos del crédito.
 Artículo 51.- Para el otorgamiento de sus créditos, las uniones deberán estimar la viabilidad de pago
 de los mismos por parte de los acreditados o contrapartes, valiéndose para ello de un análisis a partir de
 información cuantitativa y cualitativa, que permita establecer su solvencia crediticia y la capacidad de
@@ -1305,6 +1303,15 @@ propia de estos créditos, o sobre la unidad agrícola, ganadera o de otras acti
 industrial, comercial o de servicios, con las características que se mencionan en el artículo
 siguiente;
 
+III.
+
+Los bienes sobre los cuales se constituya la prenda, en su caso, podrán quedar en poder del
+deudor en los términos establecidos en el artículo 329 de la Ley General de Títulos y
+Operaciones de Crédito;
+
+IV. El deudor podrá usar y disponer de la prenda que quede en su poder, conforme a lo que se pacte
+en el contrato, y
+
 21 de 65
 
 LEY DE UNIONES DE CRÉDITO
@@ -1315,14 +1322,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-III.
-
-Los bienes sobre los cuales se constituya la prenda, en su caso, podrán quedar en poder del
-deudor en los términos establecidos en el artículo 329 de la Ley General de Títulos y
-Operaciones de Crédito;
-
-IV. El deudor podrá usar y disponer de la prenda que quede en su poder, conforme a lo que se pacte
-en el contrato, y
 V.
 
 Podrá exceder del cincuenta por ciento la parte de los créditos refaccionarios que se destine a
@@ -1364,6 +1363,13 @@ deberán comprender la concesión o concesiones respectivas, en su caso; todos l
 materiales, muebles o inmuebles afectos a la explotación, considerados en su unidad; y además, podrán
 comprender el dinero en caja de la explotación corriente y los créditos a favor de la empresa, nacidos
 directamente de sus operaciones, sin perjuicio de la posibilidad de disponer de ellos y de sustituirlos en el
+movimiento normal de las operaciones, sin necesidad del consentimiento del acreedor salvo pacto en
+contrario.
+Las uniones acreedoras de las hipotecas a que se refiere este artículo, deberán permitir el desarrollo
+normal de la explotación de los bienes afectos a las mismas, conforme al destino que les corresponda, y
+no podrán, tratándose de bienes afectos a una concesión de servicio público, oponerse a las alteraciones
+o modificaciones que a los mismos se haga durante el plazo de la hipoteca, siempre que resulten
+necesarios para la mejor prestación del servicio público correspondiente.
 
 22 de 65
 
@@ -1375,13 +1381,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-movimiento normal de las operaciones, sin necesidad del consentimiento del acreedor salvo pacto en
-contrario.
-Las uniones acreedoras de las hipotecas a que se refiere este artículo, deberán permitir el desarrollo
-normal de la explotación de los bienes afectos a las mismas, conforme al destino que les corresponda, y
-no podrán, tratándose de bienes afectos a una concesión de servicio público, oponerse a las alteraciones
-o modificaciones que a los mismos se haga durante el plazo de la hipoteca, siempre que resulten
-necesarios para la mejor prestación del servicio público correspondiente.
 Sin embargo, como acreedores podrán oponerse a la venta o enajenación de parte de los bienes y a
 la fusión con otras empresas, en caso de que se origine con ello un peligro para la seguridad de los
 créditos hipotecarios.
@@ -1416,6 +1415,13 @@ arrendamiento financiero debidamente certificado ante fedatario público, aquél
 solicitud el estado de cuenta certificado en los términos del artículo 57 de esta Ley.
 Artículo 60.- Las uniones, al emitir las cartas de crédito a que se refieren la fracción VII del artículo 40
 de esta Ley, se sujetarán a lo señalado en este artículo y, de manera supletoria, a los usos y prácticas
+que expresamente indiquen las partes en cada una de ellas, sin que resulte aplicable para esta operación
+lo dispuesto en la Ley General de Títulos y Operaciones de Crédito en materia de cartas de crédito.
+Para efectos de esta Ley, se entenderá por carta de crédito al instrumento por virtud del cual una
+unión se obliga a pagar, a la vista o a plazo, a nombre propio o por cuenta de su socio, directamente o a
+través de un banco corresponsal, una suma de dinero determinada o determinable a favor del
+beneficiario, contra la presentación de los documentos respectivos, siempre y cuando se cumplan los
+términos y condiciones previstos en la propia carta de crédito.
 
 23 de 65
 
@@ -1427,13 +1433,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-que expresamente indiquen las partes en cada una de ellas, sin que resulte aplicable para esta operación
-lo dispuesto en la Ley General de Títulos y Operaciones de Crédito en materia de cartas de crédito.
-Para efectos de esta Ley, se entenderá por carta de crédito al instrumento por virtud del cual una
-unión se obliga a pagar, a la vista o a plazo, a nombre propio o por cuenta de su socio, directamente o a
-través de un banco corresponsal, una suma de dinero determinada o determinable a favor del
-beneficiario, contra la presentación de los documentos respectivos, siempre y cuando se cumplan los
-términos y condiciones previstos en la propia carta de crédito.
 Las cartas de crédito podrán ser emitidas por las uniones con base en el otorgamiento de créditos o
 previa recepción de su importe como prestación de un servicio. En ambos casos, los documentos con
 base en los cuales se lleve a cabo la emisión de la carta de crédito deberán contener, al menos, los
@@ -1477,6 +1476,13 @@ contingentes.
 Las cartas de crédito comerciales permiten al beneficiario hacer exigible el pago de una obligación
 derivada de una operación de comercio, contra la presentación de los documentos en ellas previstos y de
 conformidad con sus términos y condiciones. Cuando se utilicen las expresiones “crédito documentario”,
+“crédito comercial documentario” y “crédito comercial”, se entenderá que se refieren a las cartas de
+crédito comerciales previstas en este párrafo.
+Las cartas de crédito de garantía o contingentes garantizan el pago de una suma determinada o
+determinable de dinero, a la presentación del requerimiento de pago y demás documentos previstos en
+ellas, siempre y cuando se cumplan los requisitos estipulados.
+Salvo pacto en contrario, la resolución de controversias relacionadas con las cartas de crédito se
+sujetará a la jurisdicción de los tribunales competentes del lugar donde se emitan. No obstante lo anterior,
 
 24 de 65
 
@@ -1488,13 +1494,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-“crédito comercial documentario” y “crédito comercial”, se entenderá que se refieren a las cartas de
-crédito comerciales previstas en este párrafo.
-Las cartas de crédito de garantía o contingentes garantizan el pago de una suma determinada o
-determinable de dinero, a la presentación del requerimiento de pago y demás documentos previstos en
-ellas, siempre y cuando se cumplan los requisitos estipulados.
-Salvo pacto en contrario, la resolución de controversias relacionadas con las cartas de crédito se
-sujetará a la jurisdicción de los tribunales competentes del lugar donde se emitan. No obstante lo anterior,
 la obligación de pago derivada de la confirmación de cartas de crédito, salvo pacto en contrario, será
 exigible ante los tribunales competentes del lugar donde se efectúe la confirmación.
 Artículo 61.- Las uniones requerirán del acuerdo de, por lo menos, tres cuartas partes de los
@@ -1541,6 +1540,14 @@ consejo e informarle del otorgamiento y, en su caso renovación, así como la fo
 estos créditos, en los términos que señale la propia Comisión.
 Las operaciones con personas a que se refiere el artículo 61 de esta Ley cuyo importe en su conjunto
 no exceda del equivalente en moneda nacional a 500,000 unidades de inversión o el cinco por ciento del
+capital social pagado de la unión, el que sea menor, no requerirán de la aprobación del consejo de
+administración; sin embargo, deberán hacerse de su conocimiento y poner a su disposición toda la
+información relativa a las citadas operaciones de manera agregada, al igual que a la asamblea general de
+accionistas.
+El consejo de administración de las instituciones podrá delegar sus facultades a un comité de
+consejeros, cuya función será exclusivamente la aprobación de operaciones con personas relacionadas,
+en aquellas operaciones donde el importe no exceda de dos millones de unidades de inversión. Dicho
+comité se integrará por un mínimo de cuatro y un máximo de siete consejeros, de los cuales, por lo
 
 25 de 65
 
@@ -1552,14 +1559,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-capital social pagado de la unión, el que sea menor, no requerirán de la aprobación del consejo de
-administración; sin embargo, deberán hacerse de su conocimiento y poner a su disposición toda la
-información relativa a las citadas operaciones de manera agregada, al igual que a la asamblea general de
-accionistas.
-El consejo de administración de las instituciones podrá delegar sus facultades a un comité de
-consejeros, cuya función será exclusivamente la aprobación de operaciones con personas relacionadas,
-en aquellas operaciones donde el importe no exceda de dos millones de unidades de inversión. Dicho
-comité se integrará por un mínimo de cuatro y un máximo de siete consejeros, de los cuales, por lo
 menos, una tercera parte deberán ser consejeros independientes, en términos de lo dispuesto en el
 artículo 27 de la presente Ley.
 Las resoluciones del comité requerirán del acuerdo de las tres cuartas partes de los miembros
@@ -1600,6 +1599,13 @@ Su cartera u otros activos, tratándose de la transmisión o suscripción de un 
 significativo de su capital social. Para dar a conocer la información respectiva deberá obtenerse
 la autorización previa de la Comisión.
 
+Durante los procesos de negociación a que se refiere este artículo, los participantes deberán guardar
+la debida confidencialidad sobre la información a que tengan acceso con motivo de los mismos.
+Artículo 64.- Las uniones quedarán sujetas, en lo que respecta a las operaciones de fideicomiso de
+garantía que administren de acuerdo con la Sección Segunda del Capítulo V del Título Segundo de la Ley
+General de Títulos y Operaciones de Crédito, a lo dispuesto por los artículos 79 y 80 de la Ley de
+Instituciones de Crédito para dichas instituciones.
+
 26 de 65
 
 LEY DE UNIONES DE CRÉDITO
@@ -1609,13 +1615,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Durante los procesos de negociación a que se refiere este artículo, los participantes deberán guardar
-la debida confidencialidad sobre la información a que tengan acceso con motivo de los mismos.
-Artículo 64.- Las uniones quedarán sujetas, en lo que respecta a las operaciones de fideicomiso de
-garantía que administren de acuerdo con la Sección Segunda del Capítulo V del Título Segundo de la Ley
-General de Títulos y Operaciones de Crédito, a lo dispuesto por los artículos 79 y 80 de la Ley de
-Instituciones de Crédito para dichas instituciones.
 
 TITULO CUARTO
 De la contabilidad, inspección y vigilancia
@@ -1652,6 +1651,13 @@ La Comisión establecerá, mediante disposiciones de carácter general que facil
 confiabilidad de la información financiera de las uniones, la forma y el contenido que deberán presentar
 los estados financieros de las uniones; de igual forma, podrá ordenar que los estados financieros se
 difundan con las modificaciones pertinentes y en los plazos que al efecto establezca.
+Las uniones como excepción a lo dispuesto en el artículo 177 de la Ley General de Sociedades
+Mercantiles, deberán publicar sus estados financieros en los términos y medios que establezcan las
+disposiciones de carácter general a que se refiere el párrafo primero de este artículo.
+Los estados financieros anuales deberán estar dictaminados por un auditor externo independiente,
+quien será designado directamente por el consejo de administración de la unión de que se trate.
+La propia Comisión, mediante disposiciones de carácter general que procuren la transparencia y
+confiabilidad de la información financiera de las uniones, podrá establecer las características y requisitos
 
 27 de 65
 
@@ -1663,13 +1669,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Las uniones como excepción a lo dispuesto en el artículo 177 de la Ley General de Sociedades
-Mercantiles, deberán publicar sus estados financieros en los términos y medios que establezcan las
-disposiciones de carácter general a que se refiere el párrafo primero de este artículo.
-Los estados financieros anuales deberán estar dictaminados por un auditor externo independiente,
-quien será designado directamente por el consejo de administración de la unión de que se trate.
-La propia Comisión, mediante disposiciones de carácter general que procuren la transparencia y
-confiabilidad de la información financiera de las uniones, podrá establecer las características y requisitos
 que deberán cumplir los auditores externos independientes, determinar el contenido de sus dictámenes y
 otros informes, así como señalar la información que deberán revelar en sus dictámenes.
 Artículo 68.- Las uniones estarán obligadas a poner a disposición de sus socios la información
@@ -1712,6 +1711,14 @@ representación de las personas morales que proporcionen los servicios de audito
 contar con honorabilidad en términos del artículo 17, fracción II, de esta Ley; reunir los requisitos
 personales y profesionales que establezca la Comisión mediante disposiciones de carácter general, y ser
 socios de una persona moral que preste servicios profesionales de auditoría de estados financieros y que
+cumpla con los requisitos de control de calidad que al efecto establezca la propia Comisión en las citadas
+disposiciones.
+Además, los citados auditores externos, la persona moral de la cual sean socios y los socios o
+personas que formen parte del equipo de auditoría no deberán ubicarse en ninguno de los supuestos de
+falta de independencia que al efecto establezca la Comisión, mediante disposiciones de carácter general,
+en las que se consideren, entre otros aspectos, vínculos financieros o de dependencia económica,
+prestación de servicios adicionales al de auditoría y plazos máximos durante los cuales los auditores
+externos puedan prestar los servicios de auditoría externa a las uniones.
 
 28 de 65
 
@@ -1723,14 +1730,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-cumpla con los requisitos de control de calidad que al efecto establezca la propia Comisión en las citadas
-disposiciones.
-Además, los citados auditores externos, la persona moral de la cual sean socios y los socios o
-personas que formen parte del equipo de auditoría no deberán ubicarse en ninguno de los supuestos de
-falta de independencia que al efecto establezca la Comisión, mediante disposiciones de carácter general,
-en las que se consideren, entre otros aspectos, vínculos financieros o de dependencia económica,
-prestación de servicios adicionales al de auditoría y plazos máximos durante los cuales los auditores
-externos puedan prestar los servicios de auditoría externa a las uniones.
 Artículo 72.- El auditor externo, así como la persona moral de la cual sea socio, estarán obligados a
 conservar la documentación, información y demás elementos utilizados para elaborar su dictamen,
 informe u opinión, por un plazo de al menos cinco años. Para tales efectos, se podrán utilizar medios
@@ -1775,6 +1774,13 @@ Rindan su dictamen u opinión apegándose a las normas, procedimientos y metodol
 deban ser aplicadas para realizar el análisis, evaluación o estudio que corresponda a su
 profesión u oficio.
 
+Artículo 74.- La Comisión fijará las reglas máximas para la estimación de los activos de las uniones y
+las reglas mínimas para la determinación de sus obligaciones y responsabilidades, en aras de procurar la
+adecuada valuación de dichos conceptos en la contabilidad de las uniones.
+
+CAPITULO II
+De la inspección y vigilancia
+
 29 de 65
 
 LEY DE UNIONES DE CRÉDITO
@@ -1785,12 +1791,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 74.- La Comisión fijará las reglas máximas para la estimación de los activos de las uniones y
-las reglas mínimas para la determinación de sus obligaciones y responsabilidades, en aras de procurar la
-adecuada valuación de dichos conceptos en la contabilidad de las uniones.
-
-CAPITULO II
-De la inspección y vigilancia
 Artículo 75.- Las uniones estarán sujetas a la supervisión de la Comisión, la que tendrá en lo que no
 se oponga a esta Ley, todas las facultades que en materia de inspección y vigilancia le confiere la Ley
 que la rige y la Ley de Instituciones de Crédito.
@@ -1837,6 +1837,12 @@ determinen los términos y condiciones a los que deberán sujetarse para ello. A
 deberán definir el grado de confidencialidad o reserva de la información, así como las instancias de
 control respectivas a las que se informarán los casos en que se niegue la entrega de información o su
 entrega se haga fuera de los plazos establecidos.
+Párrafo adicionado DOF 10-01-2014
+
+TITULO QUINTO
+De las facultades de las autoridades
+CAPITULO I
+Medidas correctivas
 
 30 de 65
 
@@ -1848,12 +1854,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Párrafo adicionado DOF 10-01-2014
-
-TITULO QUINTO
-De las facultades de las autoridades
-CAPITULO I
-Medidas correctivas
 Artículo 79.- Las medidas correctivas deberán tener por objeto prevenir y, en su caso, corregir los
 problemas que las uniones presenten, derivados de las operaciones que realicen y que puedan afectar su
 estabilidad financiera o solvencia.
@@ -1891,6 +1891,14 @@ La unión de que se trate deberá determinar en el plan de restauración de capi
 conforme a este inciso, deba presentar, metas periódicas, así como el plazo en el cual el
 capital de dicha unión obtendrá el nivel de capitalización requerido conforme a las
 disposiciones aplicables.
+La Comisión deberá resolver lo que corresponda sobre el plan de restauración de capital que,
+en su caso, le haya sido presentado, en un plazo máximo de sesenta días, contados a partir
+de la fecha de presentación del plan de que se trate.
+Las uniones a las que resulte aplicable lo previsto en este inciso, deberán cumplir con el plan
+de restauración de capital dentro del plazo que establezca la Comisión, el cual en ningún
+caso podrá exceder de doscientos setenta días contados a partir del día siguiente al que se
+notifique a la unión, la aprobación respectiva. Para la determinación del plazo para el
+cumplimiento del plan de restauración, la Comisión deberá tomar en consideración su
 
 31 de 65
 
@@ -1902,14 +1910,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-La Comisión deberá resolver lo que corresponda sobre el plan de restauración de capital que,
-en su caso, le haya sido presentado, en un plazo máximo de sesenta días, contados a partir
-de la fecha de presentación del plan de que se trate.
-Las uniones a las que resulte aplicable lo previsto en este inciso, deberán cumplir con el plan
-de restauración de capital dentro del plazo que establezca la Comisión, el cual en ningún
-caso podrá exceder de doscientos setenta días contados a partir del día siguiente al que se
-notifique a la unión, la aprobación respectiva. Para la determinación del plazo para el
-cumplimiento del plan de restauración, la Comisión deberá tomar en consideración su
 situación financiera, así como las condiciones que en general prevalezcan en los mercados
 financieros. La Comisión, por acuerdo de su Junta de Gobierno, podrá prorrogar por única
 vez este plazo por un periodo que no excederá de noventa días.
@@ -1944,6 +1944,13 @@ todo momento los derechos laborales adquiridos.
 Lo previsto en el presente inciso también será aplicable respecto de pagos que se realicen a
 personas morales distintas a la unión de que se trate, cuando dichas personas morales
 efectúen los pagos a los empleados o funcionarios de la unión;
+c) Sustituir funcionarios, consejeros, comisarios o auditores externos, nombrando la propia
+unión a las personas que ocuparán los cargos respectivos. Lo anterior es sin perjuicio de las
+facultades de la Comisión previstas en el artículo 93 de esta Ley para determinar la remoción
+o suspensión de los miembros del consejo de administración, directores generales,
+comisarios, directores y gerentes, delegados fiduciarios y demás funcionarios que puedan
+obligar con su firma a la unión;
+Inciso reformado DOF 10-01-2014
 
 32 de 65
 
@@ -1954,14 +1961,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-c) Sustituir funcionarios, consejeros, comisarios o auditores externos, nombrando la propia
-unión a las personas que ocuparán los cargos respectivos. Lo anterior es sin perjuicio de las
-facultades de la Comisión previstas en el artículo 93 de esta Ley para determinar la remoción
-o suspensión de los miembros del consejo de administración, directores generales,
-comisarios, directores y gerentes, delegados fiduciarios y demás funcionarios que puedan
-obligar con su firma a la unión;
-Inciso reformado DOF 10-01-2014
 
 d) Cuando a juicio de la Comisión, la administración de la sociedad no presente la situación
 financiera integral de la unión a la asamblea general de accionistas o cuando se presenten
@@ -2003,6 +2002,12 @@ interventores quienes realicen funciones de inspección y vigilancia de las unio
 obtener de las uniones préstamos, o adquirir el carácter de deudores de tales uniones por cualquier título,
 en los mismos términos que, en su caso, apruebe la Junta de Gobierno de la Comisión para sus
 empleados.
+Artículo 85.- El oficio que contenga el nombramiento de interventor-gerente deberá inscribirse en el
+Registro Público de Comercio que corresponda al domicilio de la unión intervenida, sin más requisitos
+que el oficio respectivo de la Comisión.
+Artículo 86.- Desde el momento de la intervención quedarán supeditadas al interventor-gerente todas
+las facultades del consejo de administración y los poderes de las personas que el interventor determine;
+pero la asamblea de accionistas podrá continuar reuniéndose regularmente para conocer de los asuntos
 
 33 de 65
 
@@ -2014,12 +2019,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 85.- El oficio que contenga el nombramiento de interventor-gerente deberá inscribirse en el
-Registro Público de Comercio que corresponda al domicilio de la unión intervenida, sin más requisitos
-que el oficio respectivo de la Comisión.
-Artículo 86.- Desde el momento de la intervención quedarán supeditadas al interventor-gerente todas
-las facultades del consejo de administración y los poderes de las personas que el interventor determine;
-pero la asamblea de accionistas podrá continuar reuniéndose regularmente para conocer de los asuntos
 que le competen, y lo mismo podrá hacer el consejo para estar informado por el interventor-gerente sobre
 el funcionamiento y las operaciones que realice la sociedad, y para opinar sobre los asuntos que el
 mismo interventor-gerente someta a su consideración. El interventor-gerente podrá citar a asamblea de
@@ -2056,6 +2055,12 @@ sus operaciones, deberá sujetarse a las disposiciones de esta Ley, las que eman
 que le sean aplicables. La Comisión podrá objetar en todo tiempo la utilización de la mencionada
 documentación, cuando a su juicio ésta implique inexactitud, obscuridad o por cualquier otra
 circunstancia que pueda inducir a error, respecto de sus operaciones y servicios.
+Artículo 93.- La Comisión, con acuerdo de su Junta de Gobierno, podrá en todo tiempo determinar
+que se proceda a la remoción de los miembros del consejo de administración, directores o gerentes y
+comisarios, delegados fiduciarios y funcionarios que puedan obligar con su firma a la unión, así como
+suspender de tres meses hasta cinco años a las personas antes mencionadas, cuando considere que no
+cuentan con la suficiente calidad técnica, honorabilidad e historial crediticio satisfactorio para el
+desempeño de sus funciones, no reúnan los requisitos al efecto establecidos o incurran de manera grave
 
 34 de 65
 
@@ -2067,12 +2072,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 93.- La Comisión, con acuerdo de su Junta de Gobierno, podrá en todo tiempo determinar
-que se proceda a la remoción de los miembros del consejo de administración, directores o gerentes y
-comisarios, delegados fiduciarios y funcionarios que puedan obligar con su firma a la unión, así como
-suspender de tres meses hasta cinco años a las personas antes mencionadas, cuando considere que no
-cuentan con la suficiente calidad técnica, honorabilidad e historial crediticio satisfactorio para el
-desempeño de sus funciones, no reúnan los requisitos al efecto establecidos o incurran de manera grave
 o reiterada en infracciones a la presente Ley o a las disposiciones de carácter general que de ella
 deriven.
 Párrafo reformado DOF 10-01-2014
@@ -2120,6 +2119,13 @@ Comisión, previo acuerdo de su Junta de Gobierno.
 Lo dispuesto en el artículo 44 de esta Ley le será aplicable a los terceros a que se refiere el presente
 artículo, así como a los representantes, directivos y empleados de dichos terceros, aun cuando dejen de
 laborar o prestar sus servicios a tales terceros.
+La Comisión, previo derecho de audiencia que se otorgue a la unión, podrá ordenar la suspensión
+parcial o total, temporal o definitiva, de la prestación de los servicios o comisiones a través del tercero de
+que se trate, cuando las uniones incumplan de forma reiterada las disposiciones de carácter general
+emitidas por la Comisión o pueda verse afectada la estabilidad financiera o continuidad operativa de la
+unión a juicio de la propia Comisión. Lo anterior, salvo que se cuente con un programa de regularización
+autorizado por la Comisión, que reúna los requisitos que al efecto se establezcan en las disposiciones de
+carácter general referidas.
 
 35 de 65
 
@@ -2131,13 +2137,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-La Comisión, previo derecho de audiencia que se otorgue a la unión, podrá ordenar la suspensión
-parcial o total, temporal o definitiva, de la prestación de los servicios o comisiones a través del tercero de
-que se trate, cuando las uniones incumplan de forma reiterada las disposiciones de carácter general
-emitidas por la Comisión o pueda verse afectada la estabilidad financiera o continuidad operativa de la
-unión a juicio de la propia Comisión. Lo anterior, salvo que se cuente con un programa de regularización
-autorizado por la Comisión, que reúna los requisitos que al efecto se establezcan en las disposiciones de
-carácter general referidas.
 La Comisión formulará directamente a las uniones los requerimientos de información y, en su caso, las
 observaciones y medidas correctivas que deriven de la supervisión que realice con motivo de las
 operaciones que las uniones lleven a cabo a través de prestadores de servicios o comisionistas conforme
@@ -2184,17 +2183,6 @@ Artículo 96.- La Comisión, en el ejercicio de las facultades a que se refiere 
 forma y términos en que se deberá dar cumplimiento a sus requerimientos.
 Asimismo, la citada Comisión, para hacer cumplir sus determinaciones respecto a los sujetos
 regulados por la presente ley, podrá emplear, indistintamente, los siguientes medios de apremio:
-
-36 de 65
-
-LEY DE UNIONES DE CRÉDITO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 10-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 I.
 
 Amonestación con apercibimiento;
@@ -2206,6 +2194,16 @@ Multa de 2,000 a 5,000 días de salario;
 III.
 
 Multa adicional de 100 días de salario por cada día que persista la infracción, y
+
+36 de 65
+
+LEY DE UNIONES DE CRÉDITO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 10-01-2014
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 IV. El auxilio de la fuerza pública.
 Si fuera insuficiente el apremio, se podrá solicitar a la autoridad competente se proceda contra el
@@ -2255,6 +2253,9 @@ con su objeto social, de conformidad con lo dispuesto por esta Ley;
 VI. Cuando por causas imputables a la unión no se registren en la contabilidad, el mismo día en que
 se efectúen los actos o contratos que signifiquen variación en el activo o en el pasivo de la unión,
 o impliquen obligación directa o contingente;
+VII. Si la unión actúa sin autorización de la Comisión, en los casos en que la Ley así lo exija;
+VIII. Si omite dar cumplimiento a los requerimientos de las autoridades financieras con motivo del
+ejercicio de sus facultades;
 
 37 de 65
 
@@ -2266,9 +2267,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-VII. Si la unión actúa sin autorización de la Comisión, en los casos en que la Ley así lo exija;
-VIII. Si omite dar cumplimiento a los requerimientos de las autoridades financieras con motivo del
-ejercicio de sus facultades;
 IX. Cuando en dos o más ocasiones se proporcione información imprecisa o incompleta a las
 autoridades financieras;
 X.
@@ -2315,6 +2313,14 @@ general de accionistas, acompañados del dictamen de un auditor externo, que inc
 opiniones del auditor relativas a componentes, cuentas o partidas específicas de los estados
 financieros, donde se confirme el estado de los registros a que se refiere la fracción I anterior.
 
+Artículo 98 Bis.- Las uniones que soliciten la autorización de la Comisión para dejar de operar como
+unión, previo acuerdo en asamblea general extraordinaria, no estarán obligadas a disolverse y liquidarse,
+siempre y cuando cumplan con los siguientes requisitos:
+I.
+
+No tener pasivos derivados de préstamos de sus socios, o de mandatos y comisiones para
+realizar servicios de caja pactados con los mismos;
+
 38 de 65
 
 LEY DE UNIONES DE CRÉDITO
@@ -2324,14 +2330,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Artículo 98 Bis.- Las uniones que soliciten la autorización de la Comisión para dejar de operar como
-unión, previo acuerdo en asamblea general extraordinaria, no estarán obligadas a disolverse y liquidarse,
-siempre y cuando cumplan con los siguientes requisitos:
-I.
-
-No tener pasivos derivados de préstamos de sus socios, o de mandatos y comisiones para
-realizar servicios de caja pactados con los mismos;
 
 II.
 
@@ -2382,6 +2380,10 @@ Enajenación de Bienes, o bien, en personas físicas o morales que cuenten con e
 liquidación de sociedades.
 Cuando se trate de personas físicas, el nombramiento deberá recaer en una persona que reúna
 los requisitos siguientes:
+a) Ser residente en territorio nacional en términos de lo dispuesto por el Código Fiscal de la
+Federación.
+b) Estar inscrita en el registro que lleva el Instituto Federal de Especialistas de Concursos
+Mercantiles.
 
 39 de 65
 
@@ -2393,10 +2395,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-a) Ser residente en territorio nacional en términos de lo dispuesto por el Código Fiscal de la
-Federación.
-b) Estar inscrita en el registro que lleva el Instituto Federal de Especialistas de Concursos
-Mercantiles.
 c) Presentar un Reporte de Crédito Especial, conforme a la Ley para Regular las Sociedades de
 Información Crediticia, proporcionado por sociedades de información crediticia que contenga
 sus antecedentes de por lo menos cinco años anteriores a la fecha en que se pretende iniciar
@@ -2441,6 +2439,12 @@ judicial.
 TITULO SEXTO
 De las prohibiciones, infracciones, delitos y notificaciones
 CAPITULO I
+De las prohibiciones
+Artículo 103.- A las uniones les estará prohibido:
+I.
+
+Realizar operaciones de descuento, préstamo o crédito de cualquier clase con personas que no
+sean socios de la unión, excepto con las personas y fideicomisos expresamente autorizados en
 
 40 de 65
 
@@ -2452,12 +2456,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-De las prohibiciones
-Artículo 103.- A las uniones les estará prohibido:
-I.
-
-Realizar operaciones de descuento, préstamo o crédito de cualquier clase con personas que no
-sean socios de la unión, excepto con las personas y fideicomisos expresamente autorizados en
 el artículo 40, fracciones I y II de esta Ley, así como realizar operaciones de préstamo o
 celebrar mandatos y comisiones para realizar servicios de caja, en todo caso, con los socios
 que no tengan una aportación al menos por el equivalente en moneda nacional a 2,500
@@ -2519,6 +2517,14 @@ IX.
 
 Hacer operaciones de reporto, salvo aquellas de corto plazo sobre valores gubernamentales;
 
+X.
+
+Celebrar operaciones en virtud de las cuales puedan resultar deudores directos de la sociedad
+sus comisarios y auditores externos, a menos que, en su caso, estas operaciones correspondan
+a préstamos de carácter laboral o sean aprobadas por una mayoría de cuatro quintas partes de
+los votos del consejo de administración. Esta regla se aplicará a los ascendientes,
+descendientes o cónyuges de las personas indicadas;
+
 41 de 65
 
 LEY DE UNIONES DE CRÉDITO
@@ -2528,14 +2534,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-X.
-
-Celebrar operaciones en virtud de las cuales puedan resultar deudores directos de la sociedad
-sus comisarios y auditores externos, a menos que, en su caso, estas operaciones correspondan
-a préstamos de carácter laboral o sean aprobadas por una mayoría de cuatro quintas partes de
-los votos del consejo de administración. Esta regla se aplicará a los ascendientes,
-descendientes o cónyuges de las personas indicadas;
 
 XI.
 
@@ -2605,6 +2603,10 @@ f)
 
 Si al término del fideicomiso, los bienes, derechos o valores no hubieren sido pagados por
 los deudores, la fiduciaria deberá transferirlos, junto con el efectivo, bienes, y demás
+derechos o valores que constituyan el patrimonio fiduciario al fideicomitente o
+fideicomisario, según sea el caso, absteniéndose de cubrir su importe.
+En los contratos de fideicomiso se insertará en forma notoria lo previsto en este inciso y
+una declaración de la fiduciaria en el sentido de que hizo saber inequívocamente su
 
 42 de 65
 
@@ -2616,10 +2618,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-derechos o valores que constituyan el patrimonio fiduciario al fideicomitente o
-fideicomisario, según sea el caso, absteniéndose de cubrir su importe.
-En los contratos de fideicomiso se insertará en forma notoria lo previsto en este inciso y
-una declaración de la fiduciaria en el sentido de que hizo saber inequívocamente su
 contenido a las personas de quienes haya recibido el efectivo, bienes, derechos o valores
 para su afectación fiduciaria;
 g)
@@ -2672,6 +2670,11 @@ cualquier modificación a ésta. A las personas que contravengan lo dispuesto po
 legal, así como las disposiciones de carácter general a que se refiere el citado artículo 21.
 Inciso reformado DOF 10-01-2014
 
+f)
+
+A las uniones que incumplan con cualquiera de las disposiciones a que se refiere el artículo
+46 de la misma.
+
 43 de 65
 
 LEY DE UNIONES DE CRÉDITO
@@ -2681,11 +2684,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-f)
-
-A las uniones que incumplan con cualquiera de las disposiciones a que se refiere el artículo
-46 de la misma.
 
 g) A los auditores externos independientes y demás profesionistas o expertos que rindan o
 proporcionen dictámenes u opiniones a las uniones de crédito que incurran en infracciones a
@@ -2728,6 +2726,14 @@ d) A las uniones que no cumplan con lo preceptuado por el artículo 49 de esta L
 disposiciones que emanan de ésta.
 e) A las uniones que no cumplan con los lineamientos y requisitos previstos en el artículo 62 de
 la presente Ley.
+f)
+
+V.
+
+A las uniones que no cumplan con lo señalado por el artículo 46 segundo párrafo, de la
+presente Ley o por las disposiciones a que dicho precepto se refiere.
+
+Multa de 20,000 a 100,000 días de salario:
 
 44 de 65
 
@@ -2739,20 +2745,11 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-f)
-
-V.
-
-A las uniones que no cumplan con lo señalado por el artículo 46 segundo párrafo, de la
-presente Ley o por las disposiciones a que dicho precepto se refiere.
-
-Multa de 20,000 a 100,000 días de salario:
 a) A las uniones que proporcionen, en forma dolosa, información falsa, imprecisa o incompleta a
 la Comisión, que tenga como consecuencia que no se refleje su verdadera situación
 financiera, administrativa, económica o jurídica, siempre y cuando se compruebe que el
 director general o algún miembro del consejo de administración de la unión correspondiente
 tuvo conocimiento de tal acto.
-
 La Comisión podrá abstenerse de sancionar a las uniones, siempre y cuando se justifique la causa de
 tal abstención de acuerdo con los lineamientos que para tales efectos emita la Junta de Gobierno de la
 propia Comisión, y se refieran a hechos, actos u omisiones que no revistan gravedad, no exista
@@ -2796,6 +2793,10 @@ operaciones de las reservadas a las uniones, sin contar con la autorización cor
 nombrar un inspector y los auxiliares necesarios para que revisen la contabilidad y demás documentación
 de la negociación, empresa o establecimiento de la persona física o moral, a fin de verificar si
 efectivamente está celebrando las operaciones mencionadas en violación a lo dispuesto por esta Ley, en
+cuyo caso la Comisión podrá ordenar la suspensión inmediata de operaciones o proceder a la clausura
+de la negociación, empresa o establecimiento de la persona física o moral de que se trate.
+Los procedimientos de inspección, suspensión de operaciones y clausura a que se refiere el párrafo
+anterior son de interés público. Será aplicable en lo conducente lo dispuesto en este Capítulo.
 
 45 de 65
 
@@ -2807,10 +2808,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-cuyo caso la Comisión podrá ordenar la suspensión inmediata de operaciones o proceder a la clausura
-de la negociación, empresa o establecimiento de la persona física o moral de que se trate.
-Los procedimientos de inspección, suspensión de operaciones y clausura a que se refiere el párrafo
-anterior son de interés público. Será aplicable en lo conducente lo dispuesto en este Capítulo.
 Artículo 108.- En los procedimientos administrativos previstos en esta Ley se admitirán las pruebas
 conducentes con los actos sujetos al procedimiento siempre y cuando las mismas sean ofrecidas en el
 plazo del desahogo de la garantía de audiencia. En el caso de la confesional a cargo de autoridades, esta
@@ -2850,6 +2847,14 @@ quince días referidos en el párrafo anterior, se aplicará una reducción en u
 monto, siempre y cuando no se hubiere interpuesto medio de defensa alguno en contra de dicha multa.
 Artículo 110.- La Comisión, en la imposición de sanciones de carácter administrativo a que se refiere
 esta ley, se sujetará a lo siguiente:
+I.
+
+Se otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contado a
+partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá
+manifestar por escrito lo que a su interés convenga, ofrecer pruebas y formular alegatos. La
+Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta
+fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del
+caso. La notificación surtirá efectos al día hábil siguiente a aquel en que se practique;
 
 46 de 65
 
@@ -2861,14 +2866,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-I.
-
-Se otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contado a
-partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá
-manifestar por escrito lo que a su interés convenga, ofrecer pruebas y formular alegatos. La
-Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta
-fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del
-caso. La notificación surtirá efectos al día hábil siguiente a aquel en que se practique;
 Fracción reformada DOF 10-01-2014
 
 II.
@@ -2913,6 +2910,14 @@ disposiciones de carácter general que de ella emanen;
 d) La negligencia inexcusable o dolo con que se hubiere actuado;
 e) Que la conducta infractora a que se refiere el proceso administrativo pueda ser constitutiva
 de un delito, o
+f)
+
+Las demás circunstancias que la Comisión estime aplicables para tales efectos.
+Fracción con incisos adicionada DOF 10-01-2014
+
+Artículo 111.- Las sanciones serán impuestas por la Junta de Gobierno de la Comisión, la que podrá
+delegar esa facultad, en razón de la naturaleza de la infracción o del monto de la multa, al presidente o a
+los demás servidores públicos de esa Comisión.
 
 47 de 65
 
@@ -2924,14 +2929,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-f)
-
-Las demás circunstancias que la Comisión estime aplicables para tales efectos.
-Fracción con incisos adicionada DOF 10-01-2014
-
-Artículo 111.- Las sanciones serán impuestas por la Junta de Gobierno de la Comisión, la que podrá
-delegar esa facultad, en razón de la naturaleza de la infracción o del monto de la multa, al presidente o a
-los demás servidores públicos de esa Comisión.
 Artículo 112.- La Comisión podrá, atendiendo a las circunstancias de cada caso, además de la
 imposición de la sanción que corresponda, amonestar al infractor, o bien, solamente amonestarlo,
 considerando sus antecedentes personales, la gravedad de la conducta, que no se cuente con elementos
@@ -2976,6 +2973,16 @@ I.
 
 El nombre, denominación o razón social del infractor;
 
+II.
+
+El precepto infringido, el tipo de sanción impuesta, monto o plazo, según corresponda y la
+conducta infractora, y
+
+III.
+
+El estado que guarda la resolución, indicando si se encuentra firme o bien, si es susceptible
+de ser impugnada y en este último caso si se ha interpuesto algún medio de defensa y su tipo,
+
 48 de 65
 
 LEY DE UNIONES DE CRÉDITO
@@ -2986,18 +2993,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-II.
-
-El precepto infringido, el tipo de sanción impuesta, monto o plazo, según corresponda y la
-conducta infractora, y
-
-III.
-
-El estado que guarda la resolución, indicando si se encuentra firme o bien, si es susceptible
-de ser impugnada y en este último caso si se ha interpuesto algún medio de defensa y su tipo,
 cuando se tenga conocimiento de tal circunstancia por haber sido debidamente notificada por
 autoridad competente.
-
 En todo caso, si la sanción impuesta se deja sin efectos por alguna autoridad competente, deberá
 igualmente publicarse tal circunstancia.
 La información antes señalada no será considerada como reservada o confidencial.
@@ -3045,6 +3042,9 @@ Desecharlo por improcedente;
 II.
 
 Sobreseerlo en los casos siguientes:
+a) Por desistimiento expreso del recurrente.
+b) Por sobrevenir una causal de improcedencia.
+c) Por haber cesado los efectos del acto impugnado.
 
 49 de 65
 
@@ -3056,9 +3056,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-a) Por desistimiento expreso del recurrente.
-b) Por sobrevenir una causal de improcedencia.
-c) Por haber cesado los efectos del acto impugnado.
 d) Las demás que conforme a la ley procedan.
 III.
 
@@ -3107,6 +3104,12 @@ II.
 Cuando la contravención a la norma de que se trate, corresponda a alguno de los delitos
 contemplados en esta Ley, o
 
+III.
+
+Cuando se trate de alguna de las infracciones consideradas como graves en términos de esta
+Ley.
+Artículo adicionado DOF 10-01-2014
+
 50 de 65
 
 LEY DE UNIONES DE CRÉDITO
@@ -3116,12 +3119,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-III.
-
-Cuando se trate de alguna de las infracciones consideradas como graves en términos de esta
-Ley.
-Artículo adicionado DOF 10-01-2014
 
 Artículo 119 Bis 1.- Los programas de autocorrección a que se refiere el artículo 119 Bis de esta Ley,
 se sujetarán a las disposiciones de carácter general que emita la Comisión. Adicionalmente, deberán ser
@@ -3166,6 +3163,10 @@ monto de esta hasta en un 40 por ciento; siendo actualizable dicho monto en tér
 fiscales aplicables.
 Artículo adicionado DOF 10-01-2014
 
+Artículo 119 Bis 3.- Las personas físicas y demás personas morales sujetas a la supervisión de la
+Comisión podrán someter a la autorización de la propia Comisión un programa de autocorrección cuando
+en la realización de sus actividades detecten irregularidades o incumplimientos a lo previsto en esta Ley y
+
 51 de 65
 
 LEY DE UNIONES DE CRÉDITO
@@ -3176,9 +3177,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 119 Bis 3.- Las personas físicas y demás personas morales sujetas a la supervisión de la
-Comisión podrán someter a la autorización de la propia Comisión un programa de autocorrección cuando
-en la realización de sus actividades detecten irregularidades o incumplimientos a lo previsto en esta Ley y
 demás disposiciones aplicables, sujetándose a lo previsto por los artículos 119 Bis a 119 Bis 2 de esta
 Ley, según resulte aplicable.
 Artículo adicionado DOF 10-01-2014
@@ -3227,6 +3225,9 @@ VI. Que conociendo la falsedad sobre el monto de los activos o pasivos, concedan
 crédito;
 VII. Que, conociendo los vicios que señala la fracción III del artículo 122 de esta Ley, concedan el
 préstamo o crédito, si el monto de la alteración hubiere sido determinante para concederlo.
+Artículo 122.- Se sancionará con prisión de tres meses a dos años y multa de treinta a dos mil días
+de salario cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, no
+exceda del equivalente a dos mil días de salario.
 
 52 de 65
 
@@ -3238,9 +3239,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 122.- Se sancionará con prisión de tres meses a dos años y multa de treinta a dos mil días
-de salario cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, no
-exceda del equivalente a dos mil días de salario.
 Cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, exceda de
 dos mil y no de cincuenta mil días de salario, se sancionará con prisión de dos a cinco años y multa de
 dos mil a cincuenta mil días de salario.
@@ -3283,6 +3281,10 @@ c. Renueven préstamos, créditos o contratos de arrendamiento financiero, venci
 totalmente a las personas físicas o morales a que se refiere el inciso anterior;
 d. Que renueven créditos vencidos parcial o totalmente a las personas físicas o morales a que
 se refiere el inciso b) anterior si resulta previsible al realizar la operación, que carecen de
+capacidad económica para pagar o responder por el importe de las sumas acreditadas,
+produciendo quebranto o perjuicio patrimonial a la unión, y
+e. Que a sabiendas, permitan a un deudor desviar el importe del crédito, préstamo o bien
+arrendado en beneficio de terceros, reduciendo notoriamente su capacidad para pagar o
 
 53 de 65
 
@@ -3294,10 +3296,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-capacidad económica para pagar o responder por el importe de las sumas acreditadas,
-produciendo quebranto o perjuicio patrimonial a la unión, y
-e. Que a sabiendas, permitan a un deudor desviar el importe del crédito, préstamo o bien
-arrendado en beneficio de terceros, reduciendo notoriamente su capacidad para pagar o
 responder por el importe de su obligación y, como consecuencia de ello, resulte quebranto o
 perjuicio patrimonial a la unión.
 Para efectos de lo previsto en el primer párrafo de la presente fracción, no se considera que
@@ -3343,6 +3341,12 @@ Artículo 126.- Serán sancionados con prisión de uno a seis años las personas
 de otra persona o por medio de nombres comerciales, por cualquier medio de publicidad se ostenten
 frente al público como unión, sin contar con la autorización para constituirse, funcionar, organizarse u
 operar con tal carácter, según sea el caso, emitida por la Comisión.
+Artículo 127.- Serán sancionados los servidores públicos de la Comisión, con la pena establecida
+para los delitos correspondientes más una mitad, según se trate de los delitos previstos en los artículos
+121 a 123 y 126 de esta Ley, cuando:
+I.
+
+Oculten al conocimiento de sus superiores hechos que probablemente puedan constituir delito;
 
 54 de 65
 
@@ -3353,13 +3357,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Artículo 127.- Serán sancionados los servidores públicos de la Comisión, con la pena establecida
-para los delitos correspondientes más una mitad, según se trate de los delitos previstos en los artículos
-121 a 123 y 126 de esta Ley, cuando:
-I.
-
-Oculten al conocimiento de sus superiores hechos que probablemente puedan constituir delito;
 
 II.
 
@@ -3412,6 +3409,11 @@ menos, las modalidades que al efecto estén referidas en dichas disposiciones; l
 deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados,
 teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con
 que se realicen, y las prácticas comerciales y financieras que se observen en las plazas donde se
+efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la
+información. Los reportes deberán referirse cuando menos a operaciones que se definan como
+relevantes, internas preocupantes e inusuales y operaciones en efectivo realizadas en moneda
+extranjera.
+Párrafo reformado DOF 10-01-2014
 
 55 de 65
 
@@ -3422,12 +3424,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la
-información. Los reportes deberán referirse cuando menos a operaciones que se definan como
-relevantes, internas preocupantes e inusuales y operaciones en efectivo realizadas en moneda
-extranjera.
-Párrafo reformado DOF 10-01-2014
 
 Asimismo, la Secretaría en las disposiciones de carácter general a que se refiere el presente artículo,
 también establecerá los lineamientos sobre el procedimiento y criterios que las uniones deberán observar
@@ -3486,6 +3482,9 @@ a la obligación de confidencialidad legal, ni constituirá violación a las res
 información establecidas por vía contractual.
 Las disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las
 uniones, así como por los miembros del consejo de administración, administradores, directores generales
+y demás directivos, empleados y apoderados respectivos, por lo cual, tanto las entidades como las
+personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante
+dichas disposiciones se establezcan.
 
 56 de 65
 
@@ -3497,9 +3496,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-y demás directivos, empleados y apoderados respectivos, por lo cual, tanto las entidades como las
-personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante
-dichas disposiciones se establezcan.
 Las uniones deberán suspender de forma inmediata la realización de actos, operaciones o servicios
 con los clientes o usuarios que la Secretaría de Hacienda y Crédito Público les informe mediante una lista
 de personas bloqueadas que tendrá el carácter de confidencial. La lista de personas bloqueadas tendrá
@@ -3547,6 +3543,8 @@ seguirá corriendo según las reglas del Código Penal Federal.
 Artículo 131.- Serán sancionados con prisión de dos a siete años todo aquél que habiendo sido
 removido, suspendido o inhabilitado, por resolución firme de la Comisión, en términos de lo previsto en el
 artículo 93 de esta Ley, continúe desempeñando las funciones respecto de las cuales fue removido o
+suspendido o bien, ocupe un empleo, cargo o comisión, dentro del sistema financiero mexicano, a pesar
+de encontrarse suspendido o inhabilitado para ello.
 
 57 de 65
 
@@ -3558,8 +3556,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-suspendido o bien, ocupe un empleo, cargo o comisión, dentro del sistema financiero mexicano, a pesar
-de encontrarse suspendido o inhabilitado para ello.
 Artículo 132.- Las penas previstas en esta Ley, se reducirán en un tercio cuando se acredite haber
 reparado el daño o haber resarcido el perjuicio ocasionado.
 
@@ -3606,6 +3602,8 @@ Asimismo, las autoridades financieras podrán efectuar dichas notificaciones por
 telegrama, fax, correo electrónico o mensajería cuando el interesado o su representante se lo soliciten
 por escrito señalando los datos necesarios para recibir la notificación, dejando constancia en el
 expediente respectivo, de la fecha y hora en que se realizó.
+También, se podrán notificar los actos a que se refiere el primer párrafo del presente artículo por
+cualquiera de las formas de notificación señaladas en el artículo 133 de esta Ley.
 
 58 de 65
 
@@ -3617,8 +3615,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-También, se podrán notificar los actos a que se refiere el primer párrafo del presente artículo por
-cualquiera de las formas de notificación señaladas en el artículo 133 de esta Ley.
 Artículo 135.- Las notificaciones de visitas de investigación y de la declaración de intervención a que
 se refiere esta Ley se realizarán en un solo acto y conforme a lo previsto en el reglamento a que hace
 referencia el penúltimo párrafo del artículo 133 de esta Ley.
@@ -3659,6 +3655,9 @@ fecha en que se levante, datos de identificación del oficio mencionado, los med
 exhibidos, nombre del interesado, representante legal o persona que atienda la diligencia y de los
 testigos designados. Si las personas que intervienen se niegan a firmar o a recibir el acta de notificación,
 se hará constar dicha circunstancia en el acta, sin que esto afecte su validez.
+Para la designación de los testigos, quien efectúe la notificación requerirá al interesado, a su
+representante o persona que atienda la diligencia para que los designe; en caso de negativa o que los
+testigos designados no aceptaran la designación, la hará el propio notificador.
 
 59 de 65
 
@@ -3670,9 +3669,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Para la designación de los testigos, quien efectúe la notificación requerirá al interesado, a su
-representante o persona que atienda la diligencia para que los designe; en caso de negativa o que los
-testigos designados no aceptaran la designación, la hará el propio notificador.
 Artículo 138.- En el supuesto de que la persona encargada de realizar la notificación hiciere la
 búsqueda del interesado o su representante en el domicilio a que se refiere el primer párrafo del artículo
 137 de esta Ley, y la persona con quien se entienda la diligencia niegue que es el domicilio de dicho
@@ -3713,6 +3709,8 @@ financiera que notifique; indicando que el oficio original se encuentra a su dis
 también se señalará en dicho edicto.
 Artículo 142.- Las notificaciones por medios electrónicos, con acuse de recibo, podrán realizarse
 siempre y cuando el interesado o su representante así lo haya aceptado o solicitado expresamente por
+escrito a las autoridades financieras a través de los sistemas automatizados y mecanismos de seguridad
+que las mismas establezcan.
 
 60 de 65
 
@@ -3724,8 +3722,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-escrito a las autoridades financieras a través de los sistemas automatizados y mecanismos de seguridad
-que las mismas establezcan.
 Artículo 143.- Las notificaciones que no fueren efectuadas conforme a este Capítulo, se entenderán
 legalmente hechas y surtirán sus efectos el día hábil siguiente a aquél en el que el interesado o su
 representante se manifiesten sabedores de su contenido.
@@ -3771,6 +3767,9 @@ primer párrafo del artículo 21 del artículo Primero del presente Decreto. Asi
 operaciones que hayan pactado con los socios que no acrediten la referida característica.
 Tercero.- En tanto la Comisión Nacional Bancaria y de Valores, emite las disposiciones de carácter
 general a que se refiere esta Ley, seguirán aplicándose las expedidas con anterioridad a la vigencia de la
+misma, en las materias correspondientes, en lo que no se opongan al presente Decreto. Al expedirse las
+disposiciones a que se refiere este artículo, se señalarán expresamente aquéllas a las que sustituyan o
+queden derogadas.
 
 61 de 65
 
@@ -3782,9 +3781,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-misma, en las materias correspondientes, en lo que no se opongan al presente Decreto. Al expedirse las
-disposiciones a que se refiere este artículo, se señalarán expresamente aquéllas a las que sustituyan o
-queden derogadas.
 Sin perjuicio de lo anterior, a la fecha de entrada en vigor del presente Decreto se deroga el Acuerdo
 por el que se determinan los capitales mínimos con que deberán contar los almacenes generales de
 depósito, arrendadoras financieras, uniones de crédito, empresas de factoraje financiero y casas de
@@ -3823,6 +3819,11 @@ ministerio de ley, por lo que las sociedades que tengan dicho carácter dejarán
 Las sociedades señaladas en el párrafo anterior no estarán obligadas a disolverse y liquidarse por el
 hecho de que, conforme a lo dispuesto por el párrafo anterior, queden sin efecto las autorizaciones
 respectivas, aunque, para continuar operando, deberán:
+I.
+
+Reformar sus estatutos sociales a efecto de eliminar cualquier referencia expresa o de la cual se
+pueda inferir que son uniones de crédito y que se encuentran autorizadas por la Comisión
+Nacional Bancaria y de Valores para constituirse y funcionar con tal carácter.
 
 62 de 65
 
@@ -3833,12 +3834,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-I.
-
-Reformar sus estatutos sociales a efecto de eliminar cualquier referencia expresa o de la cual se
-pueda inferir que son uniones de crédito y que se encuentran autorizadas por la Comisión
-Nacional Bancaria y de Valores para constituirse y funcionar con tal carácter.
 
 II.
 

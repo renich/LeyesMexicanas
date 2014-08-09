@@ -1011,7 +1011,9 @@ de los bienes a que se refieren los incisos A), F), G), I) y J) de la fracción 
 como el pagado por el propio contribuyente en la importación de los bienes a que se refieren los incisos
 A), C), D), E), F), G), H), I) y J) de dicha fracción, siempre que sea acreditable en los términos de la citada
 Ley.
-Tercer párrafo. (Se deroga).
+El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los
+valores señalados en esta Ley, las tasas a que se refiere la fracción I, incisos A), F), I) y J) del artículo 2o.
+de la misma, o de la que resulte de aplicar las cuotas a que se refieren los artículos 2o., fracción I, incisos
 
 13 de 109
 
@@ -1023,9 +1025,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los
-valores señalados en esta Ley, las tasas a que se refiere la fracción I, incisos A), F), I) y J) del artículo 2o.
-de la misma, o de la que resulte de aplicar las cuotas a que se refieren los artículos 2o., fracción I, incisos
 C), segundo y tercer párrafos, G) y H) y 2o.-C de esta Ley. Se entiende por impuesto acreditable, un
 monto equivalente al del impuesto especial sobre producción y servicios efectivamente trasladado al
 contribuyente o el propio impuesto que él hubiese pagado con motivo de la importación, exclusivamente
@@ -1078,6 +1077,7 @@ El derecho al acreditamiento es personal para los contribuyentes de este impuest
 transmitido por acto entre vivos, excepto tratándose de fusión de sociedades mercantiles.
 Artículo 4o.-A.- (Se deroga).
 Artículo 4o.-B.- (Se deroga).
+Artículo 4o.-C.- (Se deroga).
 
 14 de 109
 
@@ -1089,7 +1089,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 4o.-C.- (Se deroga).
 Artículo 5o.- El impuesto se calculará mensualmente y se pagará a más tardar el día 17 del mes
 siguiente a aquél al que corresponda el pago, excepto en el caso de importaciones de bienes en el que
 se estará a lo dispuesto en los artículos 15 y 16 de esta Ley, según se trate. Los pagos mensuales se
@@ -1135,6 +1134,7 @@ contribuyentes podrán optar por pagar el impuesto mediante la entrega de los bo
 refiere la fracción XXIV del artículo 3o. del mismo ordenamiento, cuando sean procedentes de proyectos
 desarrollados en México y avalados por la Organización de las Naciones Unidas dentro de la Convención
 Marco de las Naciones Unidas sobre el Cambio Climático. El valor de dichos bonos será el que
+corresponda a su valor de mercado en el momento en que se pague el impuesto. La entrega de dichos
 
 15 de 109
 
@@ -1146,7 +1146,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-corresponda a su valor de mercado en el momento en que se pague el impuesto. La entrega de dichos
 bonos y la determinación de su valor se realizará de conformidad con las reglas de carácter general que
 al efecto expida la Secretaría de Hacienda y Crédito Público.
 
@@ -1246,7 +1245,7 @@ descuento, la bonificación o la devolución.
 Artículo 6o.-A.- (Se deroga).
 
 CAPITULO II
-
+De la Enajenación
 17 de 109
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
@@ -1257,7 +1256,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-De la Enajenación
 Artículo 7o.- Para los efectos de esta Ley, se entiende por enajenación, además de lo señalado en el
 Código Fiscal de la Federación, el faltante de materias primas o de bienes en los inventarios de los
 contribuyentes que no cumplan con los requisitos que establezca el Reglamento de esta Ley. En este
@@ -1279,7 +1277,6 @@ de puros y otros tabacos labrados, de los tres meses inmediatos anteriores a aqu
 el pago.
 Se equipara a la enajenación el consumo que efectúe Petróleos Mexicanos de los productos gravados
 por esta Ley.
-Quinto párrafo. (Se deroga).
 También se considera enajenación el autoconsumo de los bienes que realicen los contribuyentes del
 impuesto a que se refiere el inciso H), de la fracción I, del artículo 2o. de esta Ley.
 No se considera enajenación la transmisión de propiedad que se realice por causa de muerte o
@@ -1307,6 +1304,12 @@ fracción II del artículo 2o.-A de esta Ley. En estos casos, las personas disti
 fabricantes, productores o importadores, no se consideran contribuyentes de este impuesto
 por dichas enajenaciones.
 
+d)
+
+Las de cerveza, bebidas refrescantes, puros y otros tabacos labrados, así como las de los
+bienes a que se refiere el inciso F) de la fracción I del artículo 2o. de esta Ley, que se
+efectúen al público en general, salvo que el enajenante sea fabricante, productor,
+
 18 de 109
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
@@ -1317,11 +1320,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-d)
-
-Las de cerveza, bebidas refrescantes, puros y otros tabacos labrados, así como las de los
-bienes a que se refiere el inciso F) de la fracción I del artículo 2o. de esta Ley, que se
-efectúen al público en general, salvo que el enajenante sea fabricante, productor,
 envasador, distribuidor o importador de los bienes que enajene. No gozarán del beneficio
 establecido en este inciso, las enajenaciones de los citados bienes efectuadas por
 comerciantes que obtengan la mayor parte del importe de sus ingresos de enajenaciones a
@@ -1329,7 +1327,6 @@ personas que no forman parte del público en general. No se consideran enajenaci
 efectuadas con el público en general cuando por las mismas se expidan comprobantes que
 cumplan con los requisitos a que se refiere el artículo 29-A del Código Fiscal de la
 Federación.
-
 e)
 
 Alcohol, alcohol desnaturalizado y mieles incristalizables, siempre que por su enajenación se
@@ -1394,6 +1391,10 @@ No obtenga más de diez permisos para celebrar sorteos en un año de calendario.
 El monto total de los premios ofrecidos en un año de calendario no exceda el 3% de los
 ingresos obtenidos en el año inmediato anterior.
 
+Quienes realicen sorteos en el ejercicio de inicio de actividades, podrán estimar sus ingresos
+en dicho ejercicio para los efectos de lo dispuesto en este inciso. En el supuesto de que el
+monto de los premios ofrecidos exceda el por ciento a que se refiere el párrafo anterior, se
+
 19 de 109
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
@@ -1404,9 +1405,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Quienes realicen sorteos en el ejercicio de inicio de actividades, podrán estimar sus ingresos
-en dicho ejercicio para los efectos de lo dispuesto en este inciso. En el supuesto de que el
-monto de los premios ofrecidos exceda el por ciento a que se refiere el párrafo anterior, se
 pagará el impuesto que corresponda de conformidad con lo dispuesto en esta Ley con la
 actualización y los recargos respectivos.
 IV. Por los servicios de telecomunicaciones siguientes:
@@ -1459,6 +1457,9 @@ En este caso los servicios de Internet exentos no podrán exceder del 30% del to
 contraprestaciones antes referidas que se facturen en forma conjunta.
 
 Artículo 8o.-B.- (Se deroga).
+Artículo 9o.- Para los efectos de esta Ley, se entiende que la enajenación se efectúa en territorio
+nacional, si en él se encuentra el bien al efectuarse el envío al adquirente, o cuando no habiendo envío,
+se realiza en el país la entrega material del bien por el enajenante.
 
 20 de 109
 
@@ -1470,9 +1471,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 9o.- Para los efectos de esta Ley, se entiende que la enajenación se efectúa en territorio
-nacional, si en él se encuentra el bien al efectuarse el envío al adquirente, o cuando no habiendo envío,
-se realiza en el país la entrega material del bien por el enajenante.
 Artículo 10. En la enajenación de los bienes a que se refiere esta Ley, el impuesto se causa en el
 momento en el que se cobren las contraprestaciones y sobre el monto de lo cobrado. Cuando las
 contraprestaciones se cobren parcialmente, el impuesto se calculará aplicando a la parte de la
@@ -1516,6 +1514,9 @@ enajenados. Por las enajenaciones de los bienes a que se refiere el inciso G) de
 2o. de esta Ley, los contribuyentes calcularán el impuesto sobre el total de litros enajenados de bebidas
 saborizadas con azucares añadidos; tratándose de concentrados, polvos, jarabes, esencias o extractos
 de sabores, el impuesto se calculará tomando en cuenta el número de litros de bebidas saborizadas con
+azucares añadidos que, de conformidad con las especificaciones del fabricante, se puedan obtener, del
+total de productos enajenados. Por las enajenaciones de los bienes a que se refiere el inciso H) de la
+fracción I del artículo 2o. de esta Ley, los contribuyentes calcularán el impuesto sobre el total de las
 
 21 de 109
 
@@ -1527,9 +1528,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-azucares añadidos que, de conformidad con las especificaciones del fabricante, se puedan obtener, del
-total de productos enajenados. Por las enajenaciones de los bienes a que se refiere el inciso H) de la
-fracción I del artículo 2o. de esta Ley, los contribuyentes calcularán el impuesto sobre el total de las
 unidades de medida y, en su caso, fracciones de dichas unidades, según corresponda. Por las
 enajenaciones de los bienes a que se refiere la fracción II del artículo 2o.-A de esta Ley, los
 contribuyentes calcularán el impuesto sobre el total de las unidades de medida, según corresponda.
@@ -1644,6 +1642,9 @@ los bienes, los contribuyentes podrán solicitar la devolución del impuesto esp
 servicios que hayan pagado cuando destinaron los bienes a dichos regímenes, así como el que, en su
 caso, les hayan trasladado siempre que dicho impuesto no haya sido acreditado en los términos de esta
 Ley.
+Cuando se trate de bienes por los que no se esté obligado al pago del impuesto general de
+importación, los contribuyentes efectuarán el pago del impuesto especial sobre producción y servicios,
+mediante declaración que presentarán en la aduana correspondiente.
 
 23 de 109
 
@@ -1655,9 +1656,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Cuando se trate de bienes por los que no se esté obligado al pago del impuesto general de
-importación, los contribuyentes efectuarán el pago del impuesto especial sobre producción y servicios,
-mediante declaración que presentarán en la aduana correspondiente.
 No podrán retirarse mercancías de la aduana o recinto fiscal o fiscalizado, sin que previamente quede
 hecho el pago que corresponda conforme a esta Ley.
 Artículo 15-A. Las personas que introduzcan bienes a los regímenes aduaneros de importación
@@ -1699,6 +1697,9 @@ efectivamente percibidas de los participantes por dichas actividades. En los jue
 se apueste, se considerará como valor el monto total de las apuestas. Tratándose de los juegos o sorteos
 en los que la apuesta se realice mediante fichas, tarjetas, contraseñas o cualquier otro comprobante, así
 como a través de bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para
+apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que
+realice el juego o sorteo de que se trate, se considerará como valor el total de las cantidades equivalentes
+en moneda nacional que amparen dichos medios.
 
 24 de 109
 
@@ -1710,9 +1711,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que
-realice el juego o sorteo de que se trate, se considerará como valor el total de las cantidades equivalentes
-en moneda nacional que amparen dichos medios.
 Cuando en algún sorteo el premio ofrecido se encuentre contenido de manera referenciada y oculta en
 bienes cuya adquisición otorgue el derecho a participar en dicho sorteo, se considerará como valor el
 precio en el que la persona que lo realice haya enajenado todos los bienes que participen en ese sorteo.
@@ -1764,6 +1762,8 @@ II.
 
 Expedir comprobantes fiscales, sin el traslado en forma expresa y por separado del impuesto
 establecido en esta Ley, salvo tratándose de la enajenación de los bienes a que se refieren los
+incisos A), F), G), I) y J) de la fracción I del artículo 2o. de esta Ley, siempre que el adquirente
+sea a su vez contribuyente de este impuesto por dichos bienes y así lo solicite.
 
 25 de 109
 
@@ -1775,8 +1775,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-incisos A), F), G), I) y J) de la fracción I del artículo 2o. de esta Ley, siempre que el adquirente
-sea a su vez contribuyente de este impuesto por dichos bienes y así lo solicite.
 Los comerciantes que en el ejercicio inmediato anterior a aquél al que corresponda, hubieran
 efectuado el 90% del importe de sus enajenaciones con el público en general, en el
 comprobante fiscal que expidan no trasladarán expresamente y por separado el impuesto
@@ -1827,6 +1825,9 @@ las reglas de carácter general que al efecto se señalen en el Reglamento de es
 Quienes importen bebidas alcohólicas y estén obligados al pago del impuesto en términos de
 esta Ley, deberán colocar los marbetes o precintos a que se refiere esta fracción previamente a
 la internación en territorio nacional de los productos o, en su defecto, tratándose de marbetes,
+en la aduana, almacén general de depósito o recinto fiscal o fiscalizado, autorizados por la
+Secretaría de Hacienda y Crédito Público. No podrán retirarse los productos de los lugares
+antes indicados sin que se haya cumplido con la obligación señalada.
 
 26 de 109
 
@@ -1838,9 +1839,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-en la aduana, almacén general de depósito o recinto fiscal o fiscalizado, autorizados por la
-Secretaría de Hacienda y Crédito Público. No podrán retirarse los productos de los lugares
-antes indicados sin que se haya cumplido con la obligación señalada.
 El marbete para bebidas alcohólicas podrá colocarse en el cuello de la botella, abarcando la
 tapa y parte del propio envase. En los casos en que por la forma de la tapa no sea posible
 adherir el marbete en el cuello de la botella, éste podrá colocarse en la etiqueta frontal del
@@ -1848,7 +1846,6 @@ envase, abarcando parte de la etiqueta y parte del propio envase, previa autoriz
 autoridad fiscal.
 Para los casos de vinos de mesa de hasta 14° GL podrán adherir el marbete en el cuello de la
 botella o en la etiqueta frontal del envase, abarcando parte de la etiqueta y del propio envase.
-Último párrafo. (Se deroga)
 VI.
 
 Proporcionar a las autoridades fiscales durante el mes de marzo de cada año, la información
@@ -1892,6 +1889,11 @@ X.
 Los fabricantes, productores o envasadores, de alcohol, alcohol desnaturalizado y mieles
 incristalizables, de bebidas con contenido alcohólico, cerveza, tabacos labrados, bebidas
 energetizantes, concentrados, polvos y jarabes para preparar bebidas energetizantes, bebidas
+saborizadas con azucares añadidos, así como de concentrados, polvos, jarabes, esencias o
+extractos de sabores, que al diluirse permitan obtener bebidas saborizadas con azucares
+añadidos, así como combustibles fósiles y plaguicidas, deberán llevar un control físico del
+volumen fabricado, producido o envasado, según corresponda, así como reportar
+trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, la
 
 27 de 109
 
@@ -1903,11 +1905,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-saborizadas con azucares añadidos, así como de concentrados, polvos, jarabes, esencias o
-extractos de sabores, que al diluirse permitan obtener bebidas saborizadas con azucares
-añadidos, así como combustibles fósiles y plaguicidas, deberán llevar un control físico del
-volumen fabricado, producido o envasado, según corresponda, así como reportar
-trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, la
 lectura mensual de los registros de cada uno de los dispositivos que se utilicen para llevar el
 citado control, en el trimestre inmediato anterior al de su declaración.
 La obligación a que se refiere esta fracción no será aplicable a los productores de vinos de
@@ -1954,6 +1951,10 @@ XV.
 Los productores, envasadores e importadores de bebidas alcohólicas estarán obligados a
 presentar a la Secretaría de Hacienda y Crédito Público, trimestralmente, en los meses de abril,
 julio, octubre y enero, del año que corresponda, un informe de los números de folio de marbetes
+y precintos, según corresponda, obtenidos, utilizados, destruidos, e inutilizados durante el
+trimestre inmediato anterior.
+Los contribuyentes a que se refiere esta fracción o terceros con ellos relacionados, deberán
+proporcionar a las autoridades fiscales, con motivo de la solicitud de marbetes o precintos que
 
 28 de 109
 
@@ -1965,10 +1966,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-y precintos, según corresponda, obtenidos, utilizados, destruidos, e inutilizados durante el
-trimestre inmediato anterior.
-Los contribuyentes a que se refiere esta fracción o terceros con ellos relacionados, deberán
-proporcionar a las autoridades fiscales, con motivo de la solicitud de marbetes o precintos que
 realicen, la información o documentación que sea necesaria para constatar el uso adecuado de
 los marbetes o precintos que les hayan sido entregados.
 XVI. Los productores o envasadores de los bienes a que se refiere el numeral 3 del inciso A) de la
@@ -2011,6 +2008,12 @@ envases reutilizados de cerveza enajenados, en cada mes. Los importadores de cer
 apliquen la disminución antes mencionada estarán obligados a llevar un registro del total de
 litros de cerveza importados en cada mes y de la capacidad en litros del total de envases de
 cerveza exportados en cada mes.
+Los registros a que se refiere el párrafo anterior deberán contener clasificaciones por
+presentación, capacidad medida en litros y separar los litros de cerveza por los que deba
+pagarse el impuesto conforme a la tasa prevista en el artículo 2o., fracción I, inciso A) de esta
+Ley, de aquellos por los que deba pagarse la cuota a que se refiere el artículo 2o.-C de la
+misma, así como la demás información que para el efecto establezca el Servicio de
+Administración Tributaria mediante reglas de carácter general.
 
 29 de 109
 
@@ -2022,12 +2025,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Los registros a que se refiere el párrafo anterior deberán contener clasificaciones por
-presentación, capacidad medida en litros y separar los litros de cerveza por los que deba
-pagarse el impuesto conforme a la tasa prevista en el artículo 2o., fracción I, inciso A) de esta
-Ley, de aquellos por los que deba pagarse la cuota a que se refiere el artículo 2o.-C de la
-misma, así como la demás información que para el efecto establezca el Servicio de
-Administración Tributaria mediante reglas de carácter general.
 Los importadores de cerveza que apliquen la disminución del monto a que se refiere el artículo
 2o.-C, segundo párrafo de esta Ley, deberán llevar una cuenta de control que adicionarán con
 las exportaciones de envases de cerveza recolectados y se disminuirá con las importaciones de
@@ -2078,6 +2075,11 @@ de Administración Tributaria, mediante reglas de carácter general.
 La impresión del código de seguridad, así como el registro, almacenamiento y el
 proporcionar la información que se genere derivada de los mecanismos o sistemas de
 impresión del referido código, se deberá realizar a través de los proveedores de servicios
+de impresión de códigos de seguridad previamente autorizados por el Servicio de
+Administración Tributaria.
+Cuando los proveedores autorizados de servicios de impresión de códigos de seguridad
+incumplan con alguna de las obligaciones que deriven de la autorización, o bien cuando
+no atiendan a lo señalado en las reglas de carácter general que al efecto establezca el
 
 30 de 109
 
@@ -2089,11 +2091,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-de impresión de códigos de seguridad previamente autorizados por el Servicio de
-Administración Tributaria.
-Cuando los proveedores autorizados de servicios de impresión de códigos de seguridad
-incumplan con alguna de las obligaciones que deriven de la autorización, o bien cuando
-no atiendan a lo señalado en las reglas de carácter general que al efecto establezca el
 Servicio de Administración Tributaria, dicho órgano desconcentrado podrá revocar las
 autorizaciones correspondientes.
 El Servicio de Administración Tributaria podrá requerir a los productores, fabricantes e
@@ -2135,6 +2132,12 @@ distribuyan en México las cajetillas de cigarros y otros tabacos labrados, con 
 tabacos labrados hechos enteramente a mano, que deban contener impreso el código de seguridad a
 que se refiere el artículo 19, fracción XXII de esta Ley, observando para ello el procedimiento que se
 establece en el artículo 49 del Código Fiscal de la Federación.
+Artículo 20.- Los contribuyentes que en forma habitual realicen los juegos con apuestas y sorteos a
+que se refiere el inciso B) de la fracción II del artículo 2o. de esta Ley en establecimientos fijos están
+obligados a:
+I.
+
+Llevar los sistemas de cómputo siguientes:
 
 31 de 109
 
@@ -2146,14 +2149,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 20.- Los contribuyentes que en forma habitual realicen los juegos con apuestas y sorteos a
-que se refiere el inciso B) de la fracción II del artículo 2o. de esta Ley en establecimientos fijos están
-obligados a:
-I.
-
 II.
 
-Llevar los sistemas de cómputo siguientes:
 a)
 
 Sistema central de apuestas en el que se registren y totalicen las transacciones efectuadas
@@ -2199,6 +2196,9 @@ de esta Ley.
 Las declaraciones a que se refiere el párrafo anterior deberán proporcionarse en los términos que
 señale la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
 
+CAPITULO VI
+De las Facultades de las Autoridades
+
 32 de 109
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
@@ -2209,8 +2209,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-CAPITULO VI
-De las Facultades de las Autoridades
 Artículo 22.- Al importe de la determinación presuntiva del valor de los actos o actividades por los que
 se deba pagar el impuesto en los términos de esta Ley, se aplicará la tasa del impuesto que corresponda
 conforme a la misma, y el resultado se reducirá con las cantidades acreditables que se comprueben.
@@ -2251,6 +2249,10 @@ efectivamente cobradas las contraprestaciones o importados, en el mes en que se 
 bienes al poseedor o tenedor de los mismos, y que el impuesto respectivo no fue declarado. Para tales
 efectos, se considerará como precio de enajenación, el precio promedio de venta al público en el mes
 inmediato anterior a aquél en el que dichos bienes sean encontrados.
+Lo dispuesto en el párrafo anterior no será aplicable respecto de las bebidas alcohólicas destinadas a
+la exportación por las que no se esté obligado al pago de este impuesto, que se encuentren en tránsito
+hacia la aduana correspondiente, siempre que dichos bienes lleven adheridos etiquetas o contraetiquetas
+que contengan los datos de identificación del importador en el extranjero.
 
 33 de 109
 
@@ -2262,10 +2264,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Lo dispuesto en el párrafo anterior no será aplicable respecto de las bebidas alcohólicas destinadas a
-la exportación por las que no se esté obligado al pago de este impuesto, que se encuentren en tránsito
-hacia la aduana correspondiente, siempre que dichos bienes lleven adheridos etiquetas o contraetiquetas
-que contengan los datos de identificación del importador en el extranjero.
 Artículo 24.- Las autoridades fiscales podrán determinar presuntivamente el precio en que los
 contribuyentes enajenaron los productos a que se refiere esta Ley, utilizando, indistintamente, cualquiera
 de los métodos establecidos en el Código Fiscal de la Federación o los que a continuación se señalan:
@@ -2301,6 +2299,10 @@ Artículo 26. Cuando el contribuyente sea omiso en presentar por más de tres ve
 ejercicio las declaraciones a que se refiere el artículo 19 de esta Ley, tenga adeudos fiscales a su cargo,
 salvo que los contribuyentes celebren convenio con las autoridades fiscales para cubrir a plazos, ya sea
 mediante pago diferido o en parcialidades o los hayan impugnado mediante cualquier medio de defensa,
+no se compruebe el uso de los marbetes o precintos entregados previamente, o se compruebe el uso
+incorrecto de los mismos, así como cuando no exista relación entre el volumen producido, envasado o
+comercializado y la solicitud respectiva, las autoridades fiscales podrán no proporcionar los marbetes o
+precintos a que se refiere esta Ley.
 
 34 de 109
 
@@ -2312,10 +2314,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-no se compruebe el uso de los marbetes o precintos entregados previamente, o se compruebe el uso
-incorrecto de los mismos, así como cuando no exista relación entre el volumen producido, envasado o
-comercializado y la solicitud respectiva, las autoridades fiscales podrán no proporcionar los marbetes o
-precintos a que se refiere esta Ley.
 Artículo 26-A. Las autoridades fiscales podrán requerir a los contribuyentes la información o
 documentación que sea necesaria para constatar el uso adecuado de los marbetes o precintos que les
 hayan sido entregados, para lo cual se les otorgará un plazo de 10 días, apercibiéndoles que, de no
@@ -2350,6 +2348,8 @@ Artículo 26-K.- (Se deroga).
 
 CAPITULO IV
 De la Exportación
+Artículo 26-L.- (Se deroga).
+Artículo 26-LL.- (Se deroga).
 
 35 de 109
 
@@ -2360,9 +2360,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Artículo 26-L.- (Se deroga).
-Artículo 26-LL.- (Se deroga).
 
 CAPITULO V
 De las Obligaciones de los Contribuyentes
@@ -2406,6 +2403,9 @@ Los actos de organización de los contribuyentes del impuesto establecido en est
 III.- La expedición o emisión de títulos, acciones u obligaciones y las operaciones relativas a los
 mismos por los contribuyentes del impuesto que esta Ley establece.
 El Distrito Federal no establecerá ni mantendrá en vigor los gravámenes a que se refiere este artículo.
+La prohibición a que se refiere el presente artículo no será aplicable respecto de los impuestos locales
+o municipales que establezcan las entidades federativas a las actividades a que se refiere el artículo 2o.,
+fracción II, inciso B) de esta Ley. No se incluirá en la recaudación federal participable a que se refiere la
 
 36 de 109
 
@@ -2417,9 +2417,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-La prohibición a que se refiere el presente artículo no será aplicable respecto de los impuestos locales
-o municipales que establezcan las entidades federativas a las actividades a que se refiere el artículo 2o.,
-fracción II, inciso B) de esta Ley. No se incluirá en la recaudación federal participable a que se refiere la
 Ley de Coordinación Fiscal, el impuesto especial sobre producción y servicios correspondiente a las
 actividades mencionadas.
 Artículo 28.- Los Estados que no se adhieran al Sistema Nacional de Coordinación Fiscal participarán
@@ -2452,6 +2449,9 @@ cerrados; jarabes o concentrados para preparar refrescos que se expendan en enva
 utilizando aparatos eléctricos o mecánicos; y concentrados, polvos, jarabes, esencias o extractos de
 sabores, destinados al consumidor final, que al diluirse permitan obtener refrescos; las cuales entrarán en
 vigor el primero de enero de 1982.
+Artículo Segundo.- Al entrar en vigor la presente Ley, quedarán abrogadas las disposiciones
+siguientes:
+I.- Ley del Impuesto sobre Venta de Gasolina.
 
 37 de 109
 
@@ -2463,9 +2463,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo Segundo.- Al entrar en vigor la presente Ley, quedarán abrogadas las disposiciones
-siguientes:
-I.- Ley del Impuesto sobre Venta de Gasolina.
 II.- Ley del Impuesto sobre Seguros.
 III.- Ley del Impuesto sobre Tabacos Labrados.
 IV.- Ley del Impuesto sobre Teléfonos.
@@ -2502,6 +2499,8 @@ que las bebidas sean enajenadas en territorio nacional, pagarán el impuesto en 
 Cuarto Transitorio de esta Ley.
 Artículo Sexto.- A partir de la fecha en que entre en vigor esta Ley, quedan sin efecto las
 disposiciones administrativas de carácter general y las resoluciones a consultas, interpretaciones,
+autorizaciones o permisos otorgados a título particular, en materia de los impuestos establecidos en las
+leyes y reglamentos que se abrogan o derogan.
 
 38 de 109
 
@@ -2513,8 +2512,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-autorizaciones o permisos otorgados a título particular, en materia de los impuestos establecidos en las
-leyes y reglamentos que se abrogan o derogan.
 Durante el año de 1981, lo dispuesto en el párrafo anterior no es aplicable a las disposiciones que
 quedan en vigor durante dicho año en los términos del Artículo Tercero Transitorio de esta Ley.
 Artículo Séptimo.- Los contribuyentes del impuesto establecido en esta Ley, que durante 1981
@@ -2557,6 +2554,8 @@ Artículo Decimoprimero.- En tanto se expida el reglamento, los importadores que
 bebidas alcohólicas en recipientes mayores, requerirán autorización de la Secretaría de Hacienda y
 Crédito Público, para cumplir con los requisitos de información y control que señala la fracción V del
 artículo 13 de esta Ley.
+Los importadores, para adherir los marbetes a los envases menores en sus almacenes, bodegas o
+depósitos dentro de los quince días siguientes al día en que se retiren los bienes de la aduana, en tanto
 
 39 de 109
 
@@ -2568,8 +2567,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Los importadores, para adherir los marbetes a los envases menores en sus almacenes, bodegas o
-depósitos dentro de los quince días siguientes al día en que se retiren los bienes de la aduana, en tanto
 se expida el reglamento, requerirán autorización de la Secretaría de Hacienda y Crédito Público la cual no
 será necesaria cuando se esté gozando de autorización concedida para este efecto en los términos de la
 Ley Federal del Impuesto a las Industrias del Azúcar, Alcohol, Aguardiente y Envasamiento de Bebidas
