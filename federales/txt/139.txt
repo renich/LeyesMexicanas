@@ -1813,7 +1813,6 @@ IV.
 
 Se deroga
 
-Último párrafo.- Se deroga
 Artículo 45 Bis-10.- Las Filiales no podrán emitir obligaciones subordinadas, salvo para ser
 adquiridas por la Institución Financiera del Exterior propietaria, directa o indirectamente de las acciones
 representativas del capital social de la Filial emisora. Tampoco les estará permitido a las Filiales el
@@ -1828,6 +1827,8 @@ ordinarias previstas en la Ley General de Sociedades Mercantiles.
 Los propietarios de las acciones Serie “B”, en su caso, tendrán derecho a nombrar cuando menos un
 consejero. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de
 todos los demás de la misma serie.
+El presidente del consejo deberá elegirse de entre los propietarios de la Serie “F”, y tendrá voto de
+calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir
 
 29 de 133
 
@@ -1839,8 +1840,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-El presidente del consejo deberá elegirse de entre los propietarios de la Serie “F”, y tendrá voto de
-calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir
 indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un
 suplente sólo podrá representar a un propietario.
 Artículo 45 Bis 12.- Los directores generales y funcionarios que ocupen cargos con las dos jerarquías
@@ -1977,7 +1976,6 @@ Artículo 48.- El contrato o documento en que se hagan constar los créditos que
 organizaciones auxiliares del crédito, junto con la certificación del estado de cuenta a que se refiere el
 artículo anterior, serán título ejecutivo mercantil sin necesidad de reconocimiento de firma ni de otro
 requisito alguno.
-Se deroga, segundo párrafo.
 El estado de cuenta certificado antes citado, deberá contener los datos sobre la identificación del
 contrato o convenio en donde conste el crédito otorgado; el capital inicial dispuesto; el capital vencido no
 pagado; el capital pendiente por vencer; las tasas de interés del crédito aplicables a cada período de
@@ -2008,6 +2006,7 @@ El tipo de interés que en su caso devengarán;
 VI. Los plazos para el pago de intereses y de conversión;
 VII. El lugar de conversión;
 VIII. Las demás condiciones y formas de conversión; y
+IX. Los plazos, términos y condiciones del acta de emisión.
 
 32 de 133
 
@@ -2019,7 +2018,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-IX. Los plazos, términos y condiciones del acta de emisión.
 Podrán tener anexos cupones para el pago de intereses y, en su caso, para las conversiones
 parciales. Los títulos podrán amparar una o más obligaciones. Los almacenes generales de depósito se
 reservarán la facultad de la conversión anticipada.
@@ -4369,7 +4367,6 @@ Bancaria y de Valores, respecto de entidades financieras que otorguen crédito g
 términos de dicho ordenamiento, se entenderán conferidas a la Comisión Nacional para la Protección y
 Defensa de los Usuarios de Servicios Financieros, respecto de las sociedades financieras de objeto
 múltiple no reguladas.
-(Se deroga el segundo párrafo).
 Artículo 87-M.- En las operaciones de crédito, arrendamiento financiero y factoraje financiero, las
 sociedades financieras de objeto múltiple deberán:
 I.
@@ -4415,6 +4412,8 @@ Artículo 87-Ñ.- Las sociedades financieras de objeto múltiple quedarán sujet
 las operaciones de fideicomiso de garantía que administren de acuerdo con la Sección II del Capítulo V
 del Título II de la Ley General de Títulos y Operaciones de Crédito, a lo dispuesto por los artículos 79 y
 80 de la Ley de Instituciones de Crédito para dichas instituciones. En los contratos de fideicomiso de
+garantía a que se refiere el artículo 395 de la Ley General de Títulos y Operaciones de Crédito y en la
+ejecución de los mismos, a las sociedades financieras de objeto múltiple les estará prohibido:
 
 67 de 133
 
@@ -4426,8 +4425,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-garantía a que se refiere el artículo 395 de la Ley General de Títulos y Operaciones de Crédito y en la
-ejecución de los mismos, a las sociedades financieras de objeto múltiple les estará prohibido:
 I.
 
 Actuar como fiduciarias en cualesquier otros fideicomisos distintos a los de garantía;

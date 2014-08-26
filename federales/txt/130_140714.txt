@@ -1606,8 +1606,7 @@ técnico calificado y demás requisitos que establezca el reglamento, para que p
 relacionados con la normalización a que se refiere esta Ley.
 Los laboratorios acreditados podrán denotar tal circunstancia usando el emblema oficial del sistema
 nacional de acreditamiento de laboratorios de pruebas.
-(Se deroga el párrafo tercero)
-Párrafo derogado DOF 20-05-1997
+Reforma DOF 20-05-1997: Derogó del artículo el entonces párrafo tercero
 
 ARTÍCULO 82. (Se deroga)
 Artículo derogado DOF 20-05-1997
@@ -1631,6 +1630,10 @@ evaluación de la conformidad con respecto de normas oficiales mexicanas, en cuy
 las formalidades y requisitos establecidos en esta Ley.
 Artículo reformado DOF 20-05-1997
 
+ARTÍCULO 87.- El resultado de las operaciones que realicen las unidades de verificación se hará
+constar en un acta que será firmada, bajo su responsabilidad, por el acreditado en el caso de la personas
+físicas y por el propietario del establecimiento o por el presidente del consejo de administración,
+
 30 de 62
 
 LEY FEDERAL SOBRE METROLOGÍA Y NORMALIZACIÓN
@@ -1641,9 +1644,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-ARTÍCULO 87.- El resultado de las operaciones que realicen las unidades de verificación se hará
-constar en un acta que será firmada, bajo su responsabilidad, por el acreditado en el caso de la personas
-físicas y por el propietario del establecimiento o por el presidente del consejo de administración,
 administrador único o director general de la propia unidad de verificación reconocidos por las
 dependencias, y tendrá validez una vez que haya sido reconocido por la dependencia conforme a las
 funciones que hayan sido específicamente autorizadas a la misma.
@@ -1686,6 +1686,9 @@ ARTÍCULO 89. Para efectos de control del cumplimiento con normas oficiales mexi
 dependencias podrán integrar sistemas de información conforme a los requisitos y condiciones que se
 determinen en el reglamento de esta Ley, y aquellos que establezcan las dependencias a través de
 disposiciones de carácter general, evitando trámites adicionales.
+Las dependencias deberán proporcionar a solicitud del secretariado técnico de la Comisión Nacional
+de Normalización o de cualquier dependencia competente la información contenida en dichos sistemas y
+otorgar facilidades para su consulta por las partes interesadas.
 
 31 de 62
 
@@ -1697,9 +1700,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Las dependencias deberán proporcionar a solicitud del secretariado técnico de la Comisión Nacional
-de Normalización o de cualquier dependencia competente la información contenida en dichos sistemas y
-otorgar facilidades para su consulta por las partes interesadas.
 Artículo reformado DOF 20-05-1997
 
 ARTÍCULO 90. (Se deroga)
@@ -1742,6 +1742,7 @@ el contenido o el contenido neto y, en su caso, la masa drenada; determinar los 
 constituyan o integren los productos, si existe obligación de indicar su composición, la veracidad de la
 información comercial o la ley de los metales preciosos. Esta verificación se efectuará mediante
 muestreo y, en su caso, pruebas de laboratorio.
+Fracción reformada DOF 20-05-1997
 
 32 de 62
 
@@ -1752,8 +1753,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Fracción reformada DOF 20-05-1997
 
 Cuando exista concurrencia de competencia, la verificación la realizarán las dependencias
 competentes de acuerdo a las bases de coordinación que se celebren.
@@ -1789,6 +1788,8 @@ VI. Nombre y domicilio de las personas que fungieron como testigos;
 VII. Datos relativos a la actuación;
 VIII. Declaración del visitado, si quisiera hacerla; y
 IX. Nombre y firma de quienes intervinieron en la diligencia, incluyendo los de quien la llevó a cabo.
+ARTÍCULO 99.- Los visitados a quienes se haya levantado acta de verificación, podrán formular
+observaciones en el acto de la diligencia y ofrecer pruebas en relación con los hechos contenidos en ella
 
 33 de 62
 
@@ -1800,8 +1801,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-ARTÍCULO 99.- Los visitados a quienes se haya levantado acta de verificación, podrán formular
-observaciones en el acto de la diligencia y ofrecer pruebas en relación con los hechos contenidos en ella
 o, por escrito, hacer uso de tal derecho dentro del término de 5 días hábiles siguientes a la fecha en que
 se haya levantado.
 ARTÍCULO 100.- La separación o recolección de muestras de productos, sólo procederá cuando deba
@@ -1840,6 +1839,8 @@ encontrada en la primera se procederá en los términos del artículo 57.
 Se deberá solicitar la segunda verificación dentro del término de cinco días hábiles siguientes a aquél
 en que se tuvo conocimiento del resultado de la primera verificación. Si no se solicitare quedará firme el
 resultado de la primera verificación.
+ARTÍCULO 103.- Las muestras podrán recabarse de los establecimientos en que se realice el
+proceso o alguna fase del mismo, invariablemente previa orden por escrito.
 
 34 de 62
 
@@ -1851,8 +1852,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-ARTÍCULO 103.- Las muestras podrán recabarse de los establecimientos en que se realice el
-proceso o alguna fase del mismo, invariablemente previa orden por escrito.
 Si las muestras se recabasen de comerciantes se notificará a los fabricantes, productores o
 importadores para que, si lo desean, participen en las pruebas que se efectúen.
 ARTÍCULO 104.- De las comprobaciones que se efectúen como resultado de las visitas de
@@ -2072,23 +2071,29 @@ parcialmente el registro, la autorización, o la aprobación, según corresponda
 nacionales de normalización, de las entidades de acreditación o de las personas acreditadas cuando:
 Párrafo reformado DOF 20-05-1997
 
-I. No proporcionen a la Secretaría o a las dependencias competentes en forma oportuna y
+I.
+
+No proporcionen a la Secretaría o a las dependencias competentes en forma oportuna y
 completa los informes que le sean requeridos respecto a su funcionamiento y operación;
-II. Se impida u obstaculice las funciones de verificación y vigilancia;
+
+II.
+
+Se impida u obstaculice las funciones de verificación y vigilancia;
 Fracción reformada DOF 20-05-1997
 
-III. Se disminuyan los recursos o la capacidad necesarios para realizar sus funciones, o dejen de
+III.
+
+Se disminuyan los recursos o la capacidad necesarios para realizar sus funciones, o dejen de
 observar las condiciones conforme a las cuales se les otorgó la autorización o aprobación;
 Fracción reformada DOF 20-05-1997
 
 IV. Se suspenda la acreditación otorgada por una entidad de acreditación; o
 Fracción adicionada DOF 20-05-1997
 
-V. Reincidan en el mal uso de alguna contraseña oficial, marca registrada o emblema.
-Fracción adicionada DOF 20-05-1997
+V.
 
-(Se deroga el segundo párrafo)
-Párrafo derogado DOF 20-05-1997
+Reincidan en el mal uso de alguna contraseña oficial, marca registrada o emblema.
+Fracción adicionada DOF 20-05-1997
 
 Tratándose de los organismos nacionales de normalización, procederá la suspensión del registro para
 operar cuando se incurra en el supuesto de las fracciones I y II de este artículo o se deje de cumplir con
@@ -2100,6 +2105,7 @@ suspensión cuando se compruebe que se ha degradado el nivel de exactitud con qu
 se cumpla con las disposiciones que rijan el funcionamiento del Sistema Nacional de Calibración.
 La suspensión durará en tanto no se cumpla con los requisitos u obligaciones respectivas, pudiendo
 concretarse ésta, sólo al área de incumplimiento cuando sea posible.
+Reforma DOF 20-05-1997: Derogó del artículo el entonces párrafo segundo
 
 39 de 62
 
@@ -2155,6 +2161,7 @@ Denominación del Capítulo reformada DOF 20-05-1997
 ARTÍCULO 121. Las personas afectadas por las resoluciones dictadas con fundamento en esta Ley y
 demás disposiciones derivadas de ella, podrán interponer recurso de revisión en los términos de la Ley
 Federal de Procedimiento Administrativo.
+Artículo reformado DOF 20-05-1997
 
 40 de 62
 
@@ -2165,8 +2172,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Artículo reformado DOF 20-05-1997
 
 ARTÍCULO 122. Las entidades de acreditación y las personas acreditadas y aprobadas deberán
 resolver las reclamaciones que presenten los interesados, así como notificar al afectado su respuesta en
@@ -2211,6 +2216,8 @@ pública federal con anterioridad a la entrada en vigor de la misma, no podrá e
 de la entrada en vigor de esta Ley.
 CUARTO. Para los efectos del artículo 91, durante los 365 días naturales posteriores a la fecha de
 publicación de esta Ley en el Diario Oficial de la Federación, también podrán hacerse las verificaciones
+en los laboratorios de la Secretaría o de las dependencias competentes. Transcurrido este plazo, sólo los
+laboratorios acreditados públicos o privados podrán servir para este propósito.
 
 41 de 62
 
@@ -2222,8 +2229,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-en los laboratorios de la Secretaría o de las dependencias competentes. Transcurrido este plazo, sólo los
-laboratorios acreditados públicos o privados podrán servir para este propósito.
 QUINTO. Las normas oficiales mexicanas de carácter voluntario que hayan sido expedidas con
 anticipación a la entrada en vigor de esta Ley quedarán vigentes. Dentro de los 180 días naturales
 siguientes a la entrada en vigor de la Ley, la Secretaría mediante acuerdo deberá modificar su
