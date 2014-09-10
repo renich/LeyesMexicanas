@@ -16,8 +16,8 @@ fi
 
 cd "${path}"
 
-echo 'Obteniendo lista de http://www.diputados.gob.mx/LeyesBiblio/...'
-wget --spider -r -l 1 -nd -D www.diputados.gob.mx -A pdf http://www.diputados.gob.mx/LeyesBiblio/ 2>&1 | grep -Eio 'http.+pdf' | sort | uniq > urls.txt
+echo 'Obteniendo lista de http://www.diputados.gob.mx/LeyesBiblio/index.htm...'
+wget --spider -r -l 1 -nd -D www.diputados.gob.mx -A pdf http://www.diputados.gob.mx/LeyesBiblio/index.htm 2>&1 | grep -Eio 'http.+pdf' | sort | uniq > urls.txt
 
 if [ ! -d txt ]; then
     mkdir txt
