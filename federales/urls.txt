@@ -580,8 +580,10 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LViv.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LViv.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/LViv.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LVZMM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LVZMM.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/LVZMM.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2014.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2014.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2014.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2014_031214.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2014_031214.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2014_031214.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2015.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2015.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2015.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados_080914.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados_080914.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados_080914.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf
