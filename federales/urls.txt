@@ -142,8 +142,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/182.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/182.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/182.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/183.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/183.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/183.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/185.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/185.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/185.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/187.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/187.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/187.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/190_280414.pdf
@@ -472,6 +470,8 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA_041214.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA_041214.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA_041214.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIFE.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIFE.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIFE.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIMH_101114.pdf
@@ -488,8 +488,8 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC_030614.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC_030614.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC_030614.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPP_100914.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPP_100914.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPP_100914.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII_041214.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII_041214.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII_041214.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSDMS_030614.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSDMS_030614.pdf' (ISO-8859-1) -> 'http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSDMS_030614.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSEDMTP.pdf
