@@ -1,6 +1,5 @@
-# Leyes Mexicanas
-Autor: Renich Bon Ciric &lt;renich@woralelandia.com&gt;  
-Licencia: GPLv3 o >
+Leyes Mexicanas
+===============
 
 Descripción
 ===========
@@ -33,3 +32,9 @@ Procedimiento
 4. Se sincronizan los documentos con el repositorio de Git; haciendo un commit del día.
 5. Se publican los cambios en la página de Github.
 
+
+Autor: 
+    Renich Bon Ciric <renich@woralelandia.com>
+
+Licencia: 
+    GPLv3 o >

@@ -15,15 +15,16 @@ Instala los cripts en ~/bin.
 
 Hay distribuciones que no tienen a ~/bin en su $PATH. En esos casos, es mejor ponerles en: 
 
-```bash
+::
+
     /usr/local/bin
-```
 
 Ambos scripts deben estar en el $PATH.
 
 Recuerda asignarles el permiso de ejecución pertinente:
 
-```bash
+::
+
     # para ser ejecutados solo por el usuario:
     chmod u+x ruta/a/ley2txt ruta/a/leyes2github
 
@@ -32,5 +33,3 @@ Recuerda asignarles el permiso de ejecución pertinente:
 
     # para ser ejecutados por quien sea:
     chmod a+x ruta/a/ley2txt ruta/a/leyes2github
-```
-
