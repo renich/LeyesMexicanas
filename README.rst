@@ -10,7 +10,7 @@ Chécate el `Índice </federales/txt/%C3%ADndice.txt>`_.
 Contexto
 ========
 El Gobierno Mexicano, actualmente, ofrece las leyes por medio del sitio oficial de los Diputados Federales:
-http://diputados.gob.mx/.
+http://www.diputados.gob.mx/.
 
 Por lo pronto, solo se ofrece en formatos no-libres y, en algunos casos, en HTML.
 
