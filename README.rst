@@ -5,7 +5,7 @@ Descripción
 ===========
 Compendio de leyes de los Estados Unidos Mexicanos; en texto. Ésta se actualiza, automáticamente, a diario; a las 00:00 GMT.
 
-Chécate el `índice <https://github.com/renich/LeyesMexicanas/blob/master/federales/txt/%C3%ADndice.txt>`.
+Chécate el `Índice </federales/txt/%C3%ADndice.txt>`_.
 
 Contexto
 ========
