@@ -6,6 +6,8 @@ Descripción
 ===========
 Compendio de leyes de los Estados Unidos Mexicanos; en texto. Ésta se actualiza, automáticamente, a diario; a las 00:00 GMT.
 
+Chécate el `índice <https://github.com/renich/LeyesMexicanas/blob/master/federales/txt/%C3%ADndice.txt>`.
+
 Contexto
 ========
 El Gobierno Mexicano, actualmente, ofrece las leyes por medio del sitio oficial de los Diputados Federales:
