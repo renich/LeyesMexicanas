@@ -46,6 +46,14 @@ while read url; do
     cd ../pdf
 done < ../urls.txt
 
+echo 'Generando índice...'
+cd "${path}/txt"
+
+for f in $( ls -1 | sort -n ); do 
+    head -vn 1 $f; 
+    echo; 
+done > índice.txt
+
 echo
 echo 'Terminé!'
 
