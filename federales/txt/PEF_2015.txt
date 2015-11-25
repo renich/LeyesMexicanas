@@ -7,7 +7,7 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2015
-TEXTO VIGENTE a partir del 01-01-2015
+TEXTO VIGENTE
 Nuevo Presupuesto publicado en el Diario Oficial de la Federación el 3 de diciembre de 2014
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la
@@ -3412,10 +3412,10 @@ Erogaciones incluidas en el Ramo General 29 Erogaciones para las Operaciones y P
 0
 
 Financiero
-Erogaciones incluidas en el Ramo General 34 Erogaciones para los Programas de Apoyo a Ahorradores y
 
 10,950,001,000
 
+Erogaciones incluidas en el Ramo General 34 Erogaciones para los Programas de Apoyo a Ahorradores y
 Deudores de la Banca
 Obligaciones incurridas a través de los programas de apoyo a deudores
 
@@ -3584,7 +3584,6 @@ servicio
 
 obra pública
 
-total de cada
 servicio
 
 adjudicarse
@@ -3595,6 +3594,10 @@ que podrá
 
 relacionado con
 obra pública que
+
+directamente
+
+total de cada
 
 con obra
 
@@ -3623,11 +3626,9 @@ directamente
 tres personas
 
 invitación a
-
-directamente
-
 cuando menos
 tres personas
+
 Dependencias y
 
 Dependencias
@@ -3793,33 +3794,37 @@ México, por lo que las contrataciones por montos superiores a dichos umbrales d
 reserva correspondiente, o se cumpla con algún supuesto de excepción a la licitación pública prevista en dichos tratados.
 ANEXO 10. EROGACIONES PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS (pesos)
 Ramo
+Total
 
 Denominación
 
-Total
+06 Hacienda y Crédito Público (CDI)
 
 PEF
 82,185,863,360
-
-06 Hacienda y Crédito Público (CDI)
-
 12,129,311,599
+
 Fomento del patrimonio cultural Indígena
-Actividades de apoyo administrativo
-Actividades de apoyo a la función pública y buen gobierno
 
 141,178,304
+
+Actividades de apoyo administrativo
+
 258,990,738
+
+Actividades de apoyo a la función pública y buen gobierno
+
 14,703,168
 
 Planeación y Articulación de la Acción Pública hacia los Pueblos
 Indígenas
-Cuotas, Apoyos y Aportaciones a Organismos Internacionales
 
 1,386,021,115
 
+Cuotas, Apoyos y Aportaciones a Organismos Internacionales
 Programa de Apoyo a la Educación Indígena
 
+500,000
 1,195,969,647
 
 Programa de Infraestructura Indígena
@@ -3833,19 +3838,13 @@ Indígena
 
 Programa de Derechos Indígenas
 08 Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación
-
-500,000
-
-244,882,866
-3,797,789,327
-
 Programa de Apoyo para la Productividad de la Mujer Emprendedora
-
-271,549,047
-
 Fondo para el Apoyo a Proyectos Productivos en Núcleos Agrarios
 (FAPPA)
 
+244,882,866
+3,797,789,327
+271,549,047
 305,835,690
 
 Programa Integral de Desarrollo Rural
@@ -3855,16 +3854,16 @@ Programa Integral de Desarrollo Rural
 Programa de Fomento a la Agricultura
 
 2,080,000,000
-5,586,672,047
-
-Proyectos de infraestructura económica de carreteras alimentadoras y
-caminos rurales
-
-3,820,847,260
 
 09 Comunicaciones y Transportes
 
+5,586,672,047
+Proyectos de infraestructura económica de carreteras alimentadoras y
+caminos rurales
+
 54 de 256
+
+3,820,847,260
 
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2015
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3927,26 +3926,12 @@ Seguro Popular
 971,999,860
 137,553,061
 3,689,449,268
+1,409,747,064
 
 15 Desarrollo Agrario, Territorial y Urbano
-
-1,409,747,064
 Fomento al desarrollo agrario
-
-73,944,800
-
 Programa de vivienda digna
-
-797,838,378
-
 Programa de Vivienda Rural
-
-537,963,887
-3,244,452,437
-1,149,197,672
-454,290
-47,510,987
-
 16 Medio Ambiente y Recursos Naturales
 Infraestructura de riego y Temporal Tecnificado
 Planeación, Dirección y Evaluación Ambiental
@@ -3954,6 +3939,13 @@ Programa de Conservación para el Desarrollo Sostenible
 (PROCODES)
 Programa de Empleo Temporal (PET)
 
+73,944,800
+797,838,378
+537,963,887
+3,244,452,437
+1,149,197,672
+454,290
+47,510,987
 76,590,617
 
 Programa para la Construcción y Rehabilitación de Sistemas de Agua
@@ -3962,14 +3954,14 @@ Potable y Saneamiento en Zonas Rurales
 364,921,505
 
 Programa Nacional Forestal Pago por Servicios Ambientales
-Programa hacia la igualdad y la sustentabilidad ambiental
 
 722,318,565
-14,857,827
 
+Programa hacia la igualdad y la sustentabilidad ambiental
 Programa Nacional Forestal-Desarrollo Forestal
 19 Aportaciones a Seguridad Social
 
+14,857,827
 868,600,975
 3,305,533,930
 
@@ -4069,7 +4061,6 @@ innovación.
 30,000,000
 
 ANEXO 11. PROGRAMA ESPECIAL CONCURRENTE PARA EL DESARROLLO RURAL SUSTENTABLE (millones de pesos)
-
 Vertiente
 
 Denominación
@@ -5684,6 +5675,10 @@ Universidad Nacional Autónoma de México
 
 10,223,573,200
 
+Universidad Pedagógica Nacional
+Tecnológico Nacional de México
+12 Salud
+
 39,304,672
 
 0
@@ -5702,9 +5697,6 @@ Universidad Nacional Autónoma de México
 
 6,229,734,687
 
-Universidad Pedagógica Nacional
-Tecnológico Nacional de México
-12 Salud
 Centro Regional de Alta Especialidad de Chiapas
 
 11,584,010
@@ -6449,9 +6441,11 @@ Actividades de apoyo administrativo
 4,000,000
 
 Foros, publicaciones y actividades en materia de equidad de género
-06 Hacienda y Crédito Público
 
 1,000,000
+
+06 Hacienda y Crédito Público
+
 1,613,147,227
 
 Atención a Víctimas
@@ -6924,8 +6918,7 @@ Secretaría de Servicios Parlamentarios
 
 05 Relaciones Exteriores
 Protección y asistencia consular
-1/
-11 Educación Pública
+11 Educación Pública 1/
 Apoyos a centros y organizaciones de educación
 Programa de Escuela Segura
 Programa Nacional de Becas
@@ -7346,18 +7339,20 @@ MONTO
 
 Programa de Apoyo a la Educación Indígena
 10 Economía
-Programa de Fomento a la Economía Social
 
 70,361,683
 205,000,000
-5,000,000
 
+Programa de Fomento a la Economía Social
 Fondo Nacional Emprendedor
 11 Educación Pública
-Educación Básica
 
+5,000,000
 200,000,000
 198,059,606,660
+
+Educación Básica
+
 7,068,464,645
 
 Programa Nacional de Becas2
@@ -7367,13 +7362,15 @@ Programa Nacional de Becas2
 Programa para la Inclusión y la Equidad Educativa
 PROSPERA Programa de Inclusión Social
 Educación Media Superior
-Investigación científica y desarrollo tecnológico
-Diseño, construcción, certificación y evaluación de la infraestructura física educativa
-Formación y certificación para el trabajo
 
 62,848,020
 6,875,616,625
 73,932,035,401
+
+Investigación científica y desarrollo tecnológico
+Diseño, construcción, certificación y evaluación de la infraestructura física educativa
+Formación y certificación para el trabajo
+
 1,542,038
 36,786,228
 2,606,036,444
@@ -7415,25 +7412,18 @@ Subsidios federales para organismos descentralizados estatales
 
 Programa de Expansión en la Oferta Educativa en Educación Media Superior y Superior
 Apoyos a centros y organizaciones de educación
-Educación Superior
-
-1
-
-149,861,858
-116,992,133,905
-
+Educación Superior 1
 Prestación de servicios de educación superior y posgrado
 Mantenimiento de infraestructura
 
+3,633,578,395
+149,861,858
+116,992,133,905
 38,328,488,179
 399,553,449
 
 Proyectos de infraestructura social del sector educativo
-Programa Nacional de Becas
-
-3,633,578,395
-
-2
+Programa Nacional de Becas2
 
 398,853,946
 8,436,986,706
@@ -7457,33 +7447,37 @@ Fondo para elevar la calidad de la educación superior
 1,013,778,213
 
 Programa de Expansión en la Oferta Educativa en Educación Media Superior y Superior
+Apoyos a centros y organizaciones de educación3
 
 2,513,935,037
+702,787,663
 
-Apoyos a centros y organizaciones de educación3
 Apoyos para saneamiento financiero y la atención a problemas estructurales de las UPES
+
+2,146,515,387
+
 Posgrado
 
-702,787,663
-2,146,515,387
 66,972,709
 
 Programa Nacional de Becas
 
 66,972,709
-409,260,995
-
-Prevención y atención contra las adicciones
-
-249,296,612
 
 12 Salud
-Prevención y atención de VIH/SIDA y otras ITS
-15 Desarrollo Agrario, Territorial y Urbano
-Programa de Vivienda Rural
 
+409,260,995
+Prevención y atención contra las adicciones
+Prevención y atención de VIH/SIDA y otras ITS
+
+15 Desarrollo Agrario, Territorial y Urbano
+
+249,296,612
 159,964,383
 541,379,285
+
+Programa de Vivienda Rural
+
 35,123,562
 
 Programa de Apoyo a Jóvenes Emprendedores Agrarios.
@@ -7529,17 +7523,17 @@ FONE Gasto de Operación
 102,110,036
 
 FONE Fondo de Compensación
-
-73,753,903
-
 FAM Infraestructura Educativa Básica
 
+73,753,903
 55,193,267
 
 FAETA Educación de Adultos
-Educación Media Superior
 
 889,329,121
+
+Educación Media Superior
+
 4,276,569,014
 
 FAM Infraestructura Educativa Media Superior y Superior
@@ -7563,6 +7557,7 @@ GYR Instituto Mexicano del Seguro Social
 Atención a la salud reproductiva
 
 1,738,537,732
+
 NOTAS:
 1_/ Incluye recursos por 70 millones de pesos (mdp) para la Fundación UNAM
 2_/ Incluye recursos por 400 mdp para el Programa Becas Salario para el estado de Morelos, aplicable entre los niveles de educación
@@ -7850,10 +7845,6 @@ FONE Servicios Personales
 
 Atender asuntos de la niñez, la familia, adolescentes y personas adultas mayores
 GYR Instituto Mexicano del Seguro Social
-
-4,516,617
-77,087,244,769
-
 Atención a la salud pública
 
 2,046,692,552
@@ -7877,11 +7868,6 @@ Servicios de guardería
 GYN Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado
 Atención Materno Infantil
 
-4,219,941,439
-120,082,087
-
-Consulta Externa Especializada
-
 583,606,141
 
 Consulta Externa General
@@ -7891,17 +7877,24 @@ Consulta Externa General
 Control de Enfermedades Prevenibles por Vacunación
 Control del Estado de Salud de la Embarazada
 Servicios de Estancias de Bienestar y Desarrollo Infantil
+2
+
+4,219,941,439
+120,082,087
+
+Consulta Externa Especializada
+
+1
+
+4,516,617
+77,087,244,769
 
 295,233,518
 186,925,880
 1,921,317,321
 
-1
-
 / Programa operado por la Comisión Nacional para el Desarrollo de los Pueblos Indígenas (CDI)
 / Incluye al Sistema Nacional para el Desarrollo Integral de la Familia (DIF)
-
-2
 
 ANEXO 19. ACCIONES PARA LA PREVENCIÓN DEL DELITO, COMBATE A LAS ADICCIONES, RESCATE DE ESPACIOS
 PÚBLICOS Y PROMOCIÓN DE PROYECTOS PRODUCTIVOS (Pesos)
@@ -7910,14 +7903,17 @@ Ramo
 Denominación
 
 Total
+
+Monto
+143,285,036,007
+
 04 Gobernación
+
+37,173,826,629
 Actividades de apoyo a la función pública y buen gobierno
 
 74 de 256
 
-Monto
-143,285,036,007
-37,173,826,629
 1,403,758
 
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2015
@@ -7979,30 +7975,28 @@ Promover la Protección de los Derechos Humanos y Prevenir la Discriminación
 
 Servicios de protección, custodia, vigilancia y seguridad de personas, bienes e instalaciones
 06 Hacienda y Crédito Público
+Atención a Víctimas
 
 1,605,052,424
 402,847,433
-
-Atención a Víctimas
-
 186,884,616
 
 Detección y prevención de ilícitos financieros relacionados con el terrorismo y el lavado de
 dinero
-
-215,962,817
-
 07 Defensa Nacional
 
+215,962,817
 4,506,384,656
+
 Derechos humanos
+
+43,329,753
+
 Programa de igualdad entre mujeres y hombres SDN
 Programa de Seguridad Pública de la Secretaría de la Defensa Nacional
-
 Sistema educativo militar
 09 Comunicaciones y Transportes
 
-43,329,753
 108,000,000
 2,690,444,146
 1,664,610,757
@@ -8011,27 +8005,25 @@ Sistema educativo militar
 Programa de Empleo Temporal (PET)
 
 1,860,683,006
-1,085,915,054
 
 10 Economía
+
+1,085,915,054
 Fondo de Microfinanciamiento a Mujeres Rurales (FOMMUR)
+Fondo Nacional Emprendedor
+Programa de Fomento a la Economía Social
+Programa Nacional de Financiamiento al Microempresario
+
+11 Educación Pública
 
 40,320,000
-
-Fondo Nacional Emprendedor
-
 250,000,000
-
-Programa de Fomento a la Economía Social
-
 767,650,054
-
-Programa Nacional de Financiamiento al Microempresario
-11 Educación Pública
-Atención al deporte
-
 27,945,000
 85,106,323,964
+
+Atención al deporte
+
 845,244,146
 
 Cultura Física
@@ -8235,11 +8227,9 @@ Programa para el Desarrollo de Zonas Prioritarias
 974,770,550
 
 Programas del Fondo Nacional de Fomento a las Artesanías (FONART)
-
-197,277,488
-
 Seguro de vida para jefas de familia
 
+197,277,488
 186,605,351
 
 Subsidios a programas para jóvenes
@@ -10973,6 +10963,8 @@ MORELOS
 
 MIACATLÁN
 
+1,000,000
+
 MORELOS
 
 TEMIXCO
@@ -11159,8 +11151,6 @@ HIDALGO
 650,000
 
 500,000
-
-1,000,000
 
 500,000
 
@@ -11650,8 +11640,6 @@ OAXACA
 
 SANTA CATARINA LACHATAO
 
-250,000
-
 OAXACA
 
 SANTA CATARINA TICUÁ
@@ -11741,6 +11729,8 @@ SANTA MARÍA TEMAXCALTEPEC
 600,000
 
 250,000
+250,000
+
 250,000
 
 999,999
@@ -13916,6 +13906,9 @@ ZACATECAS
 
 665,000
 1,300,000
+
+Total
+
 300,000
 2,300,000
 
@@ -13925,9 +13918,6 @@ ZACATECAS
 
 650,000
 3,000,000
-
-Total
-
 5,000,000,000
 
 ANEXO 20.3 FONDO DE CULTURA
@@ -13936,20 +13926,19 @@ TOTAL
 
 2,235,164,311
 PROYECTOS ESTATALES
+
 ENTIDAD FEDERATIVA
-
-PROYECTO
-
-697,022,464
-
 Aguascalientes
 
+PROYECTO
 4a. Etapa Centro Cultural Los Arquitos
 
 Aguascalientes
-Baja California
 
 4a. Etapa Rehabilitación de la Red de Bibliotecas del Estado
+
+Baja California
+
 Proyectos de Infraestructura Cultural Municipal
 
 Baja California
@@ -13958,17 +13947,26 @@ Proyectos de Infraestructura para el Desarrollo Cultural
 
 Chiapas
 
-Chihuahua
-
 Construcción y equipamiento del Museo de la Gente en Tuxtla
 Gutiérrez
+
+100,000,000
+
+Chiapas
+
 Rehabilitación y remodelación del Teatro de la Ciudad "Emilio
 Rabasa" 2da. Etapa
-Universidad Autónoma de Chihuahua
+
+16,402,000
 
 Chihuahua
+Chihuahua
 
+Universidad Autónoma de Chihuahua
 Construcción Centro Cultural Parral V Etapa
+
+7,000,000
+20,000,000
 
 Chihuahua
 
@@ -13995,18 +13993,13 @@ Rehabilitación y equipamiento del Teatro de la Ciudad
 
 2,250,000
 
-Chiapas
-
 97 de 256
 
+697,022,464
 1,500,000
 2,000,000
 10,000,000
 10,000,000
-100,000,000
-16,402,000
-7,000,000
-20,000,000
 
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2015
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -14032,15 +14025,12 @@ culturales en Coahuila
 4,531,000
 
 Colima
-
-Rehabilitación Centro Interactivo de Cultura Ambiental
-
-4,500,000
-
 Colima
 
+Rehabilitación Centro Interactivo de Cultura Ambiental
 Construcción Auditorio Cultural U. Dep. 5 de Mayo
 
+4,500,000
 2,800,000
 
 Colima
@@ -14050,54 +14040,67 @@ Rehabilitación Jardín de Arte "Juan de Arrué"
 2,000,000
 
 Colima
-Colima
 
 Rehabilitación Salón de Danza Casa de Cultura
-Poliforum Cultural "Corregidora"
 
-100,000
-6,000,000
+Colima
+
+Poliforum Cultural "Corregidora"
 
 Durango
 
 Construcción de biblioteca en Gral. J. Agustín Castro
 
 Durango
+Durango
 
 Museo Interactivo de La Laguna
+Rehabilitación y equipamiento de la biblioteca José Ignacio
+Gallegos
 
+Durango
+
+Rehabilitación y equipamiento de la Casa de Cultura de
 Durango
 
 Guanajuato
 
-Rehabilitación y equipamiento de la biblioteca José Ignacio
-Gallegos
-Rehabilitación y equipamiento de la Casa de Cultura de
-Durango
 "Rehabilitación de Las Instalaciones de la Biblioteca Central
 Estatal Wigberto Jiménez Moreno, de la Ciudad de León, Gto.
 Primera Etapa
-Rehabilitación y Mejoramiento de Las Instalaciones Culturales
-y de Convivencia del Centro de Impulso Social para el
-Desarrollo Comunitario Sede Presitas
-Proyectos de Infraestructura Cultural
 
-10,000,000
+800,000
 
 Guanajuato
 
+Rehabilitación y Mejoramiento de Las Instalaciones Culturales
+y de Convivencia del Centro de Impulso Social para el
+Desarrollo Comunitario Sede Presitas
+
+700,000
+
+Guanajuato
+Guanajuato
+
+Proyectos de Infraestructura Cultural
 Programa de Infraestructura Cultural en Guanajuato
 
+10,000,000
 10,000,000
 
 Guerrero
 
 Construcción de Casa de la Cultura en Cruz Grande,
 Municipio de Florencio Villarreal
+
+7,000,000
+
+Guerrero
+
 Construcción de Casa de la Cultura, Primera Etapa, en la
 Cabecera Municipal de Igualapa
 
-7,000,000
+4,000,000
 
 Guerrero
 
@@ -14125,15 +14128,12 @@ Construcción y equipamiento de una Biblioteca Digital
 4,200,000
 
 México
-
-Construcción y equipamiento de una Biblioteca Digital
-
-4,200,000
-
 México
 
 Construcción y equipamiento de una Biblioteca Digital
+Construcción y equipamiento de una Biblioteca Digital
 
+4,200,000
 4,200,000
 
 México
@@ -14143,6 +14143,24 @@ Construcción y equipamiento de una Biblioteca Digital
 7,500,000
 
 México
+
+Construcción y equipamiento de una Biblioteca Digital
+
+4,200,000
+
+México
+
+Construcción y equipamiento de una Biblioteca Digital
+
+4,200,000
+
+México
+
+Construcción y equipamiento de una Biblioteca Digital
+
+4,200,000
+
+México
 México
 
 Construcción y equipamiento de una Biblioteca Digital
@@ -14170,33 +14188,12 @@ Construcción y equipamiento de una Biblioteca Digital
 4,200,000
 
 México
-
-Construcción y equipamiento de una Biblioteca Digital
-
-4,200,000
-
 México
 
 Construcción y equipamiento de una Biblioteca Digital
-
-4,200,000
-
-México
-
 Construcción y equipamiento de una Biblioteca Digital
 
 4,200,000
-
-México
-
-Construcción y equipamiento de una Biblioteca Digital
-
-4,200,000
-
-México
-
-Construcción y equipamiento de una Biblioteca Digital
-
 4,200,000
 
 México
@@ -14233,24 +14230,14 @@ Construcción y equipamiento de una Biblioteca Digital
 Construcción y equipamiento de una Biblioteca Digital
 Rehabilitación y equipamiento a Casas de Cultura y Centros
 
-Durango
-Guanajuato
-
-Guanajuato
-
-Guerrero
-
 98 de 256
 
+100,000
+6,000,000
 465,000
 19,558,079
 2,000,000
 3,000,000
-800,000
-
-700,000
-
-4,000,000
 
 4,200,000
 1,500,000
@@ -14277,10 +14264,6 @@ Nuevo Presupuesto DOF 03-12-2014
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-San Luis Potosí
-Sinaloa
-Sonora
-
 Culturales de Michoacán
 Rehabilitación del Inmueble Sede del Archivo Histórico del
 Estado de Morelos de la Secretaria de Cultura, Remodelación
@@ -14306,20 +14289,6 @@ Domingo
 Rehabilitación y equipamiento digital de Bibliotecas Populares
 Rehabilitación del Centro Cultural del Golfo de Santa Clara
 
-Sonora
-
-Proyectos de Infraestructura Cultural Municipal
-
-30,227,199
-
-Tabasco
-
-Rehabilitación del Museo de Historia Natural"José Narciso
-Rovirosa Andrade"
-Rehabilitación del Planetario Tabasco 2000
-
-10,000,000
-
 Morelos
 
 Morelos
@@ -14333,8 +14302,9 @@ Puebla
 Puebla
 Puebla
 Querétaro
-
-Tabasco
+San Luis Potosí
+Sinaloa
+Sonora
 
 500,000
 
@@ -14352,6 +14322,20 @@ Tabasco
 5,000,000
 2,996,500
 3,100,000
+
+Sonora
+Tabasco
+
+Proyectos de Infraestructura Cultural Municipal
+Rehabilitación del Museo de Historia Natural"José Narciso
+Rovirosa Andrade"
+
+30,227,199
+10,000,000
+
+Tabasco
+
+Rehabilitación del Planetario Tabasco 2000
 
 10,000,000
 
@@ -14438,12 +14422,17 @@ Zacatecas
 
 Construcción Corredor Urbano La Muralla (Centro Histórico)
 
-Zacatecas
+5,000,000
 
-ENTIDAD FEDERATIVA
+Zacatecas
 
 Rehabilitación y equipamiento de Centros Culturales
 Municipales
+
+6,840,000
+
+ENTIDAD FEDERATIVA
+
 PROYECTOS MUNICIPALES
 MUNICIPIO /
 DEMARCACIÓN
@@ -14452,8 +14441,6 @@ PROYECTO
 
 3,300,000
 15,153,793
-5,000,000
-6,840,000
 
 1,538,141,847
 
@@ -14505,19 +14492,15 @@ Secretaría de Servicios Parlamentarios
 
 Municipal
 Aguascalientes
-
-Pabellón de Arteaga
-
-Rehabilitación Teatro Bicentenario
-
-1,969,817
-
 Aguascalientes
 
+Pabellón de Arteaga
 Rincón de Romos
 
+Rehabilitación Teatro Bicentenario
 Centro de Desarrollo Comunitario
 
+1,969,817
 2,400,000
 
 Aguascalientes
@@ -14548,26 +14531,37 @@ Baja California
 
 Ensenada
 
+Construcción de biblioteca en Ensenada Casa de
+Cultura
+
+5,000,000
+
 Baja California
 
 Tijuana
+
+Casa de Cultura San Antonio de los Buenos. 2da
+Etapa de construcción
+
+3,747,462
 
 Campeche
 
 Hecelchakán
 
+Construcción de Anfiteatro en la Localidad de
+Hecelchakán
+
+7,000,000
+
 Chiapas
 
 Berriozábal
 
-Construcción de biblioteca en Ensenada Casa de
-Cultura
-Casa de Cultura San Antonio de los Buenos. 2da
-Etapa de construcción
-Construcción de Anfiteatro en la Localidad de
-Hecelchakán
 Construcción de Biblioteca Pública Municipal en
 Berriozábal
+
+10,000,000
 
 Chihuahua
 
@@ -14590,35 +14584,40 @@ Coahuila de Zaragoza
 
 Monclova
 
+Construcción de Andadores Culturales en Alameda
+Juárez
+
 3,100,000
 
 Coahuila de Zaragoza
 
 Monclova
 
-Coahuila de Zaragoza
-
-San Pedro
-
-Construcción de Andadores Culturales en Alameda
-Juárez
 Renovar y Ampliar el Espacio Museográfico del
 Museo el Polvorín
+
+3,206,915
+
+Coahuila de Zaragoza
+Colima
+
+San Pedro
+Colima
+
 Casa de Cultura
+Construcción y Equipamiento Salón de Actividades
+Culturales Múltiples Mujer Danza
 
-Colima
-
-Colima
-
+400,000
 1,000,000
 
 Colima
 
 Colima
 
-Construcción y Equipamiento Salón de Actividades
-Culturales Múltiples Mujer Danza
 Rehabilitación Centro de Danza "Mujer Danza"
+
+1,000,000
 
 Colima
 
@@ -14792,15 +14791,7 @@ Bondojito, 2da Etapa
 100 de 256
 
 854,267
-5,000,000
-3,747,462
-7,000,000
-10,000,000
 
-3,206,915
-400,000
-
-1,000,000
 350,000
 
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2015
@@ -14818,15 +14809,18 @@ Gustavo A. Madero
 Construcción de la Casa de Cultura en la Colonia
 Santa Rosa, en la Intersección de la Avenida 3-A y
 6-A, 1era Etapa
-Construcción de la Casa de Cultura en la Colonia
-Santa Rosa, en la Intersección de la Avenida 3-A y
-6-A, 2da Etapa
 
 2,000,000
 
 Distrito Federal
 
 Gustavo A. Madero
+
+Construcción de la Casa de Cultura en la Colonia
+Santa Rosa, en la Intersección de la Avenida 3-A y
+6-A, 2da Etapa
+
+7,000,000
 
 Distrito Federal
 
@@ -14877,39 +14871,31 @@ Distrito Federal
 
 Miguel Hidalgo
 
+Rehabilitación y Dignificación de la Infraestructura
+Cultural de la Delegación Miguel Hidalgo
+
 4,000,000
 
 Distrito Federal
 
 Milpa Alta
 
-Distrito Federal
-
-Tlalpan
-
-Rehabilitación y Dignificación de la Infraestructura
-Cultural de la Delegación Miguel Hidalgo
 Rehabilitación y Equipamiento de la Casa de Artes
 Cuauhtémoc
-Rehabilitación de Casa Frissac
 
+5,000,000
+
+Distrito Federal
 Distrito Federal
 
 Tlalpan
+Tlalpan
 
+Rehabilitación de Casa Frissac
 Rehabilitación de Museo de Historia de Tlalpan
 
+2,000,000
 1,000,000
-
-Distrito Federal
-
-Venustiano Carranza
-
-800,000
-
-Distrito Federal
-
-Venustiano Carranza
 
 Distrito Federal
 
@@ -14917,10 +14903,26 @@ Venustiano Carranza
 
 Rehabilitación a la Biblioteca Amalia Caballero
 Ledon de la Delegación Venustiano Carranza
+
+800,000
+
+Distrito Federal
+
+Venustiano Carranza
+
 Rehabilitación a la Biblioteca Emilio Kreiger de la
 Delegación Venustiano Carranza
+
+800,000
+
+Distrito Federal
+
+Venustiano Carranza
+
 Rehabilitación a la Biblioteca Enrique Ramírez y
 Ramírez de la Delegación Venustiano Carranza
+
+800,000
 
 Distrito Federal
 
@@ -15007,20 +15009,16 @@ Guanaceví
 Remodelación Plazuela el Minero
 
 Durango
-
-San Juan del Río
-
-Rescate del museo de sitio de la Coyotada
-
-3,000,000
-
 Guanajuato
 
+San Juan del Río
 Celaya
 
+Rescate del museo de sitio de la Coyotada
 Construcción de Conservatorio de Música de
 Celaya
 
+3,000,000
 5,000,000
 
 Guanajuato
@@ -15068,22 +15066,29 @@ Santiago
 700,000
 
 Guanajuato
-Guanajuato
 
 Huanímaro
-Irapuato
+
+Explanada para Eventos Culturales
 
 1,000,000
+
+Guanajuato
+
+Irapuato
+
+Restauración de la iglesia de Las Carmelitas de la
+comunidad de lo de Juárez 1ra. Etapa
+
 1,000,000
 
 Guanajuato
 
 Manuel Doblado
 
-Explanada para Eventos Culturales
-Restauración de la iglesia de Las Carmelitas de la
-comunidad de lo de Juárez 1ra. Etapa
 Foro Cultural Manuel Doblado
+
+1,000,000
 
 Guanajuato
 
@@ -15103,18 +15108,8 @@ Restauración de la Parroquia de San Francisco de
 
 101 de 256
 
-7,000,000
-
-5,000,000
-2,000,000
-
-800,000
-800,000
-
 700,000
 400,000
-
-1,000,000
 
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2015
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -15135,19 +15130,15 @@ María de Guadalupe en Romita, Gto.
 3,917,000
 
 Guanajuato
-
-Salamanca
-
-Rehabilitación Parroquia de San Gonzalo
-
-1,100,000
-
 Guanajuato
 
 Salamanca
+Salamanca
 
+Rehabilitación Parroquia de San Gonzalo
 Rehabilitación Templo de San Agustín
 
+1,100,000
 3,000,000
 
 Guanajuato
@@ -15293,18 +15284,21 @@ Guerrero
 
 San Marcos
 
+Construcción de Casa de la Cultura la San
+Marqueña (2da Etapa)
+
 2,650,000
 
 Guerrero
 
 Teloloapan
 
-Construcción de Casa de la Cultura la San
-Marqueña (2da Etapa)
 Construcción de Área Cultural, Exposiciones y
 Usos Múltiples en Telesecundaria "Bicentenario de
 la Independencia" C.C.T 12ETV0995V (Loc.
 Buenavista de Guadalupe)
+
+700,000
 
 Guerrero
 
@@ -15313,6 +15307,8 @@ Teloloapan
 Construcción de Plaza Cívica en Interior del
 Colegio de Bachilleres, Clave 12ECB0069B,
 Localidad Oxtotitlán
+
+300,000
 
 Guerrero
 
@@ -15417,10 +15413,6 @@ Huichapan, Hgo.
 
 900,000
 
-700,000
-
-300,000
-
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2015
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
@@ -15518,19 +15510,15 @@ Morín
 3,000,000
 
 Hidalgo
-
-Tulancingo de Bravo
-
-Catedral de Tulancingo
-
-5,000,000
-
 Hidalgo
 
 Tulancingo de Bravo
+Tulancingo de Bravo
 
+Catedral de Tulancingo
 Construcción de Museo Cultural Huapalcalco
 
+5,000,000
 2,500,000
 
 Hidalgo
@@ -15560,15 +15548,19 @@ Museo Cultural de la Huasteca HidalguenseInfraestructura
 3,100,000
 
 Jalisco
-Jalisco
 
 Arandas
-Atengo
 
 Construcción de Absidiolo Mayor
-Construcción de Museo Comunitario 3a Etapa
 
 5,000,000
+
+Jalisco
+
+Atengo
+
+Construcción de Museo Comunitario 3a Etapa
+
 1,418,550
 
 Jalisco
@@ -15580,37 +15572,41 @@ Construcción de la Casa de la Cultura 3a Etapa
 7,498,550
 
 Jalisco
+Jalisco
 
 Atotonilco el Alto
+Chiquilistlán
 
 Construcción Escuela de Artes Agua Caliente
+Construcción y mejoramiento de la Explanada
+Cultural de Chiquilistlán
 
 Jalisco
 
 Chiquilistlán
 
-10,000,000
-
+Proyecto de recuperación del Conjunto Conventual
+de Nuestra Señora de la Asunción, Chiquilistlán,
 Jalisco
 
-Chiquilistlán
+6,698,550
 
 Jalisco
 
 El Limón
 
-Construcción y mejoramiento de la Explanada
-Cultural de Chiquilistlán
-Proyecto de recuperación del Conjunto Conventual
-de Nuestra Señora de la Asunción, Chiquilistlán,
-Jalisco
 Construcción del Segundo Piso en Casa de la
 Cultura Municipal en la Cabecera Municipal del
 Limón, Jalisco
 
+3,000,000
+
 Jalisco
 
 Gómez Farías
+
+Construcción de la Casa de la Cultura en San
+Andrés Ixtlán
 
 500,000
 
@@ -15618,53 +15614,72 @@ Jalisco
 
 Guadalajara
 
-Jalisco
-
-Guadalajara
-
-Jalisco
-
-Guadalajara
-
-Construcción de la Casa de la Cultura en San
-Andrés Ixtlán
 Adquisición de equipamiento escénico para el
 Teatro Jaime Torres Bodet
-Restauración de "El Castillo" (Centro Cultural
-Colmos)
-Restauración de la Casa Reforma (Segunda Etapa)
+
+2,048,550
 
 Jalisco
 
+Guadalajara
+
+Restauración de "El Castillo" (Centro Cultural
+Colmos)
+
+4,650,000
+
+Jalisco
+Jalisco
+
+Guadalajara
 Huejúcar
+
+Restauración de la Casa Reforma (Segunda Etapa)
+Remodelación de Casa de la Cultura Municipal,
+1ra. Etapa
+
+4,198,550
+4,000,000
 
 Jalisco
 
 Jesús María
 
+Remodelación y ampliación de la Casa de la
+Cultura en la Cabecera Municipal de Jesus María,
+Jalisco
+
+1,751,550
+
 Jalisco
 
 La Huerta
 
+Construcción de Casa de la Cultura "Maestro Mario
+Moral Leal", 3a Etapa
+
+2,440,000
+
+Jalisco
 Jalisco
 
 Lagos de Moreno
-
-Rehabilitación Teatro Rosas Moreno
-
-Jalisco
-
 Ocotlán
 
+Rehabilitación Teatro Rosas Moreno
+Foro al aire libre, auditorio y estacionamiento en
+Colonia Arboledas
+
+702,207
 1,450,000
 
 Jalisco
 
 Ojuelos de Jalisco
 
-Foro al aire libre, auditorio y estacionamiento en
-Colonia Arboledas
 Centro Cultural Vaquerías
+
+2,996,343
 
 Jalisco
 
@@ -15708,32 +15723,10 @@ Equipamiento del Museo Pantaleón Panduro
 
 1,597,088
 
-Remodelación de Casa de la Cultura Municipal,
-1ra. Etapa
-Remodelación y ampliación de la Casa de la
-Cultura en la Cabecera Municipal de Jesus María,
-Jalisco
-Construcción de Casa de la Cultura "Maestro Mario
-Moral Leal", 3a Etapa
-
 103 de 256
 
 1,800,000
-
-6,698,550
-
-3,000,000
-
-2,048,550
-4,650,000
-4,198,550
-4,000,000
-1,751,550
-
-2,440,000
-702,207
-
-2,996,343
+10,000,000
 
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2015
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -15749,10 +15742,6 @@ San Pedro Tlaquepaque
 
 Instalación de cubierta móvil en el patio San Pedro
 del Centro Cultural El Refugio
-Rehabilitación de área de cocinas y oficinas del
-Centro Cultural El Refugio
-Rehabilitación de Cine Foro del Centro Cultural El
-Refugio
 
 3,698,021
 
@@ -15760,35 +15749,53 @@ Jalisco
 
 San Pedro Tlaquepaque
 
+Rehabilitación de área de cocinas y oficinas del
+Centro Cultural El Refugio
+
+1,787,457
+
 Jalisco
 
 San Pedro Tlaquepaque
 
+Rehabilitación de Cine Foro del Centro Cultural El
+Refugio
+
+4,669,229
+
 Jalisco
 
 San Pedro Tlaquepaque
-
-6,674,094
-
-Tecolotlán
 
 Rehabilitación de la escuela de artes plásticas,
 artesanías y oficios "Ángel Carranza"
-Restauración de arcos hundidos del Centro Cultural
-El Refugio
-Construcción e integración de Talleres Culturales
-4a Etapa
-Construcción de auditorio Casa de la Cultura
+
+6,674,094
 
 Jalisco
 
 San Pedro Tlaquepaque
+
+Restauración de arcos hundidos del Centro Cultural
+El Refugio
 
 Jalisco
 
 Talpa de Allende
 
+Construcción e integración de Talleres Culturales
+4a Etapa
+
+1,540,000
+
 Jalisco
+
+Tecolotlán
+
+Construcción de auditorio Casa de la Cultura
+
+3,000,000
+
 Jalisco
 
 Teocaltiche
@@ -15949,20 +15956,16 @@ Construcción de Plaza y Kiosco, Calle Bulgaria, en
 tre Av. México y Calle Italia, Col. México 86.
 
 México
-
-Atlacomulco
-
-Construcción del Museo Histórico de Atlacomulco
-
-5,000,000
-
 México
 
+Atlacomulco
 Axapusco
 
+Construcción del Museo Histórico de Atlacomulco
 Construcción de Casa de la Cultura Jaltepec,
 Municipio de Axapusco
 
+5,000,000
 7,000,000
 
 México
@@ -15992,20 +15995,27 @@ Rehabilitación y equipamiento de Casa de Cultura
 3,455,227
 
 México
-México
 
-Huehuetoca
 Huehuetoca
 
 Construcción de Centro de Artes, Segunda Etapa
-Construcción del Centro de Artes Segunda Etapa
 
 7,000,000
+
+México
+
+Huehuetoca
+
+Construcción del Centro de Artes Segunda Etapa
+
 6,300,000
 
 México
 
 Hueypoxtla
+
+Construcción de Foro Al Aire Libre Santa María
+Ajoloapan
 
 3,100,000
 
@@ -16013,22 +16023,20 @@ México
 
 Ixtlahuaca
 
-Construcción de Foro Al Aire Libre Santa María
-Ajoloapan
 Proyecto de Infraestructura de Segunda Etapa
 
+4,000,000
+
+México
 México
 
+Jiquipilco
 Jiquipilco
 
 Infraestructura y equipamiento de Casa de Cultura
-
-México
-
-Jiquipilco
-
 Teatro al Aire Libre
 
+704,508
 1,840,664
 
 México
@@ -16041,17 +16049,9 @@ Construcción y equipamiento de la Casa de Cultura
 
 104 de 256
 
-1,787,457
-4,669,229
-
 265,411
-1,540,000
-3,000,000
 
 300,000
-
-4,000,000
-704,508
 
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2015
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -16160,34 +16160,20 @@ Construcción de Teatro al Aire Libre
 3,230,000
 
 México
-México
 
 Otzolotepec
-Papalotla
 
 Centro Cultural, Fábrica María, Tercera Etapa
+
+4,500,000
+
+México
+
+Papalotla
+
 Remodelación de la Casa de Cultura Municipal
 
-4,500,000
 2,500,000
-
-México
-
-Rayón
-
-4,500,000
-
-México
-
-Rayón
-
-México
-
-Rayón
-
-México
-
-Rayón
 
 México
 
@@ -16195,37 +16181,71 @@ Rayón
 
 Construcción de la "Escuela Municipal de Bellas
 Artes"
-Construcción del Andador Cultural de la Cabecera
-Municipal
-Construcción del Andador Cultural de la Colonia
-San José
-Construcción del Centro Cultural para el Desarrollo
-de la Familia
-Construcción del Poliforum
+
+4,500,000
 
 México
 
 Rayón
 
+Construcción del Andador Cultural de la Cabecera
+Municipal
+
+1,200,000
+
+México
+
+Rayón
+
+Construcción del Andador Cultural de la Colonia
+San José
+
+México
+
+Rayón
+
+Construcción del Centro Cultural para el Desarrollo
+de la Familia
+
+2,800,000
+
+México
+México
+
+Rayón
+Rayón
+
+Construcción del Poliforum
+Rehabilitación del Centro Municipal para el Rescate
+de la Cultura Artesanal
+
+1,000,000
 1,400,000
 
 México
 
 San Felipe del Progreso
 
+Restauración de la Casa Social denominada
+Templo de San Felipe y Santiago
+
+4,561,211
+
 México
 
 San Mateo Atenco
 
-Rehabilitación del Centro Municipal para el Rescate
-de la Cultura Artesanal
-Restauración de la Casa Social denominada
-Templo de San Felipe y Santiago
 Ampliación de Casa de Cultura
+
+4,000,000
 
 México
 
 Temascalcingo
+
+Conclusión de la rehabilitación y equipamiento de
+las instalaciones del Ex Seminario en la Cabecera
+Municipal
 
 3,800,000
 
@@ -16233,24 +16253,29 @@ México
 
 Temascaltepec
 
-México
-
-Texcoco
-
-México
-
-Texcoco
-
-Conclusión de la rehabilitación y equipamiento de
-las instalaciones del Ex Seminario en la Cabecera
-Municipal
 Terminación de recinto Ferial Multifuncional en la
 localidad de San Andrés de los Gama.
+
+3,000,000
+
+México
+
+Texcoco
+
 Construcción de Auditorio Cultural para los
 Trabajadores de la Universidad Autónoma de
 Chapingo, en la Comunidad del Cooperativo
+
+2,500,000
+
+México
+
+Texcoco
+
 Construcción del Teatro al Aire Libre en la Alameda
 Texcoco, en la Comunidad de Santiaguito
+
+3,500,000
 
 México
 
@@ -16334,18 +16359,7 @@ Casa de Cultura
 
 105 de 256
 
-1,200,000
 600,000
-2,800,000
-1,000,000
-
-4,561,211
-4,000,000
-
-3,000,000
-2,500,000
-
-3,500,000
 
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2015
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -16489,30 +16503,32 @@ Michoacán de Ocampo
 
 Panindícuaro
 
+Construcción de Segunda Etapa y Equipamiento
+del Auditorio Municipal
+
 7,000,000
 
 Michoacán de Ocampo
-
-Parácuaro
-
-Construcción de Segunda Etapa y Equipamiento
-del Auditorio Municipal
-Construcción de la Casa de la Cultura Municipal
-
 Michoacán de Ocampo
 
+Parácuaro
 Sahuayo
 
+Construcción de la Casa de la Cultura Municipal
+Construcción de Taller de Artes Plásticas 2da.
+Etapa, en Sahuayo Michoacán
+
+1,500,000
 1,500,000
 
 Michoacán de Ocampo
 
 Tancítaro
 
-Construcción de Taller de Artes Plásticas 2da.
-Etapa, en Sahuayo Michoacán
 Construcción y equipamiento de Ecobiblioteca
 Tancítaro
+
+1,500,000
 
 Michoacán de Ocampo
 
@@ -16643,9 +16659,6 @@ Construcción y Rehabilitación de Espacios Públicos
 
 106 de 256
 
-1,500,000
-
-1,500,000
 200,000
 
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2015
@@ -16834,57 +16847,56 @@ Oaxaca
 
 Asunción Nochixtlán
 
+Construcción del Techado del Patio Cultural del
+Jardín de Niños "María Montessori" Clave
+20DJN1443V
+
 1,500,000
 
 Oaxaca
 
 Heroica Ciudad de
 Huajuapan de León
-Loma Bonita
 
-Construcción del Techado del Patio Cultural del
-Jardín de Niños "María Montessori" Clave
-20DJN1443V
 Casa de la Cultura
+
+5,000,000
 
 Oaxaca
 
-931,944
-20,000,000
-
-80,000,000
-
-5,000,000
+Loma Bonita
 
 Teatro del Pueblo
 
 5,000,000
+
+Oaxaca
+
+Miahuatlán de Porfirio
+Díaz
 
 Casa de Cultura, Infraestructura
 
 1,800,000
 
 Oaxaca
-
-Miahuatlán de Porfirio
-Díaz
-Natividad
-
-Construcción de Casa de Cultura (Primera Etapa)
-
-2,200,000
-
 Oaxaca
 
+Natividad
 Putla Villa de Guerrero
 
 Construcción de Casa de Cultura (Primera Etapa)
+Construcción de Casa de Cultura (Primera Etapa)
 
+2,200,000
 2,300,000
 
 Oaxaca
 
 Reforma de Pineda
+
+Construcción de la Casa de Cultura de Reforma de
+Pineda
 
 5,391,000
 
@@ -16892,18 +16904,21 @@ Oaxaca
 
 San Andrés Sinaxtla
 
+Construcción del Techado de la Plaza Cívica en la
+Escuela Primaria Rural Federal "Abraham
+Castellanos" Clave 20DPRO429L
+
+2,200,000
+
 Oaxaca
 
 San Antonino Monte
 Verde
 
-Construcción de la Casa de Cultura de Reforma de
-Pineda
-Construcción del Techado de la Plaza Cívica en la
-Escuela Primaria Rural Federal "Abraham
-Castellanos" Clave 20DPRO429L
 Construcción y Equipamiento de la Casa de Cultura
 Etapa I
+
+4,000,000
 
 Oaxaca
 
@@ -16959,13 +16974,12 @@ Cultura
 
 2,935,000
 
-Oaxaca
-
 107 de 256
 
-2,200,000
+931,944
+20,000,000
 
-4,000,000
+80,000,000
 
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2015
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -17344,15 +17358,12 @@ Etapa"
 1,100,000
 
 Querétaro
-
-Corregidora
-
-Remodelación de Casa de la Cultura
-
 Querétaro
 
+Corregidora
 El Marqués
 
+Remodelación de Casa de la Cultura
 Construcción de Centro Cultural (Ciudad Maderas)
 
 Querétaro
@@ -17480,19 +17491,25 @@ San Luis Potosí
 
 Venado
 
+Construcción de Teatro Al Aire Libre en la Colonia
+Loma Linda
+
 3,500,000
 
 San Luis Potosí
 
 Venado
 
-Construcción de Teatro Al Aire Libre en la Colonia
-Loma Linda
 Infraestructura Proyecto Municipal de Cultura 2015
+
+3,100,000
 
 San Luis Potosí
 
 Xilitla
+
+Segunda Etapa emergente de restauración del Ex
+Convento de San Agustín Xilitla
 
 6,200,000
 
@@ -17500,15 +17517,9 @@ San Luis Potosí
 
 Zaragoza
 
-Segunda Etapa emergente de restauración del Ex
-Convento de San Agustín Xilitla
 Casa de Cultura Digital
 
-Sinaloa
-
-Ahome
-
-3,100,000
+3,000,000
 
 Sinaloa
 
@@ -17516,6 +17527,13 @@ Ahome
 
 Ampliación y Restauración de la Casa de la Cultura
 Conrado Esponosa
+
+3,100,000
+
+Sinaloa
+
+Ahome
+
 Construcción de Biblioteca Municipal Ahome
 
 Sinaloa
@@ -17599,10 +17617,6 @@ Mejoramiento de la infraestructura del Museo de
 1,257,300
 183,200
 
-3,100,000
-
-3,000,000
-
 15,000,000
 
 1,800,000
@@ -17644,19 +17658,15 @@ Tamazula
 500,000
 
 Sinaloa
-
-Mazatlán
-
-Rehabilitación y equipamiento Cultural Digital
-
-1,500,000
-
 Sinaloa
 
+Mazatlán
 Navolato
 
+Rehabilitación y equipamiento Cultural Digital
 Construcción de la Biblioteca Municipal de Navolato
 
+1,500,000
 3,054,846
 
 Sonora
@@ -17668,28 +17678,32 @@ Construcción de Auditorio Cultural
 2,200,000
 
 Sonora
-Sonora
 
 Bavispe
-Caborca
 
 Construcción de Biblioteca Municipal
-Museo Histórico y Etnográfico de Caborca
 
 1,100,000
+
+Sonora
+
+Caborca
+
+Museo Histórico y Etnográfico de Caborca
+
 1,500,000
 
 Sonora
-
-Cucurpe
-
-Acondicionamiento de Centro Comunitario
-
 Sonora
 
 Cucurpe
+Cucurpe
 
+Acondicionamiento de Centro Comunitario
 Acondicionamiento de Centros de Uso Múltiples
+
+464,820
+1,799,720
 
 Sonora
 
@@ -17857,20 +17871,16 @@ Poblado Gregorio Méndez Magaña
 2,000,000
 
 Tabasco
-
-Jalpa de Méndez
-
-Rehabilitación de la Casa de Cultura Municipal
-
-1,936,531
-
 Tabasco
 
+Jalpa de Méndez
 Jonuta
 
+Rehabilitación de la Casa de Cultura Municipal
 Rehabilitación de la Casa de Cultura de la
 Cabecera Municipal de Jonuta Tabasco
 
+1,936,531
 2,500,000
 
 Tabasco
@@ -17928,8 +17938,6 @@ Poliforum Multidisciplinario Antiguo Morelos
 
 2,996,500
 
-464,820
-1,799,720
 835,460
 10,000,000
 
@@ -17947,58 +17955,65 @@ Tamaulipas
 
 Mainero
 
-Tamaulipas
+Construcción de Casa de la Cultura, Zona Centro,
+Mainero, Tamps.
 
-Matamoros
-
-Tamaulipas
-
-Matamoros
+3,100,000
 
 Tamaulipas
 
 Matamoros
+
+Proyecto de Rehabilitación, Adecuación y
+Mantenimiento de Irbam
+
+3,030,792
+
+Tamaulipas
+
+Matamoros
+
+Proyecto de Rehabilitación, Adecuación y
+Mantenimiento de Irbam (IV Etapa)
+
+2,398,500
+
+Tamaulipas
+
+Matamoros
+
+Rehabilitación y Equipamiento en el Museo Casa
+Mata (III Etapa)
+
+533,467
 
 Tamaulipas
 
 Miguel Alemán
 
+Ampliación y Equipamiento de Casa de la Cultura
+
+3,100,000
+
 Tamaulipas
 
 Nuevo Laredo
+
+Rehabilitación de Casa de la Cultura Ubicada en
+Ayuntamiento Sur S/N en la Colonia Infonavit
+Fundadores
+
+3,100,000
 
 Tamaulipas
 
 Xicoténcatl
 
-Tlaxcala
-
-Construcción de Casa de la Cultura, Zona Centro,
-Mainero, Tamps.
-Proyecto de Rehabilitación, Adecuación y
-Mantenimiento de Irbam
-Proyecto de Rehabilitación, Adecuación y
-Mantenimiento de Irbam (IV Etapa)
-
-3,100,000
-
-Rehabilitación y Equipamiento en el Museo Casa
-Mata (III Etapa)
-Ampliación y Equipamiento de Casa de la Cultura
-
-533,467
-
-3,030,792
-2,398,500
-
-3,100,000
-
-Rehabilitación de Casa de la Cultura Ubicada en
-Ayuntamiento Sur S/N en la Colonia Infonavit
-Fundadores
 Construcción Casa de Cultura
 
 3,100,000
+
+Tlaxcala
 
 Amaxac de Guerrero
 
@@ -18087,18 +18102,10 @@ Tlaxcala
 San Pablo del Monte
 
 Tlaxcala
-
-San Pablo del Monte
-
 Tlaxcala
 
+San Pablo del Monte
 Santa Apolonia Teacalco
-
-Construcción de Techado de Teatro Cultural
-Abierto en el Conalep Plantel 251 Clave
-29DPT0003N
-
-468,000
 
 Tlaxcala
 
@@ -18110,17 +18117,12 @@ municipio de Santa Catarina Ayometla
 600,000
 
 Tlaxcala
-
-Santa Isabel Xiloxoxtla
-
-Construcción de la Casa de Cultura "Xiloxoxtla"
-
-600,000
-
 Tlaxcala
 
+Santa Isabel Xiloxoxtla
 Tenancingo
 
+600,000
 686,000
 
 Tlaxcala
@@ -18133,6 +18135,7 @@ Tlaxcala
 
 Tlaxco
 
+Construcción de la Casa de Cultura "Xiloxoxtla"
 Construcción de Techado de Teatro Cultural
 Abierto en la Secundaria General Jaime Torres
 Bodet Clave 29DES0025D
@@ -18162,10 +18165,11 @@ San Juan Huactzingo
 Construcción y Equipamiento de Teatro al Aire
 Libre
 Proyecto Cultural San Pablo del Monte
+Construcción de Techado de Teatro Cultural
+Abierto en el Conalep Plantel 251 Clave
+29DPT0003N
 
 111 de 256
-
-3,100,000
 
 450,000
 
@@ -18189,6 +18193,7 @@ Proyecto Cultural San Pablo del Monte
 1,000,000
 2,000,000
 6,400,000
+468,000
 
 13,000,000
 2,000,000
@@ -18560,9 +18565,6 @@ Construcción de Casa de la Cultura en la Localidad
 de Seye, Municipio de Yucatán
 Construcción de Anfiteatro en la Localidad de
 Sinanché "Primera Etapa"
-
-2,500,000
-
 Construcción de Anfiteatro en la Localidad de
 Sinanché "Segunda Etapa"
 Construcción de Anfiteatro en la Localidad de
@@ -18574,9 +18576,6 @@ Construcción de Anfiteatro en la Localidad de
 Tecoh " Segunda Etapa"
 Construcción de Anfiteatro en la Localidad de
 Tecoh "Primera Etapa"
-
-1,000,000
-
 Construcción de la Casa de la Cultura en la
 localidad y municipio de Temozón
 Construcción de Casa de la Cultura en la Localidad
@@ -18586,9 +18585,6 @@ Construcción de la Casa de la Cultura en Tixkokob
 (Infraestructura Cultural)
 Construcción de Concha Acústica en la Localidad
 de Uayma (Infraestructura Cultural)
-
-5,000,000
-
 Plaza de la Jarana y Museo Regional en Ex
 Estación del Tren
 Construcción y Equipamiento de Casa Cultural para
@@ -18602,8 +18598,7 @@ Arqueológica
 Centro Cultural "Daniel Peralta"
 Ampliación Plaza de Los Pintores
 
-7,000,000
-
+2,500,000
 5,000,000
 5,000,000
 2,000,000
@@ -18612,18 +18607,18 @@ Ampliación Plaza de Los Pintores
 3,000,000
 5,000,000
 3,000,000
-
+1,000,000
 1,000,000
 3,000,000
 3,100,000
 1,000,000
 4,000,000
-
+5,000,000
 3,500,000
 2,000,000
 3,100,000
 3,100,000
-
+7,000,000
 6,000,000
 
 2,000,000
@@ -18647,22 +18642,21 @@ Baja California
 17,000,000
 
 Baja California Sur
-
-14,000,000
-
 Chiapas
 
+14,000,000
 110,000,000
 
 Colima
-Durango
 
 10,000,000
 7,400,000
 
-Guanajuato
+Durango
 
 38,150,000
+
+Guanajuato
 
 113 de 256
 
@@ -18687,11 +18681,9 @@ Nuevo León
 68,930,000
 
 Oaxaca
-
-40,343,012
-
 San Luis Potosí
 
+40,343,012
 2,710,000
 
 Sonora
@@ -18707,12 +18699,10 @@ Veracruz de Ignacio de la Llave
 3,000,000
 
 Zacatecas
+ENTIDAD FEDERATIVA
 
 13,500,000
 INFRAESTRUCTURA MUNICIPAL
-
-ENTIDAD FEDERATIVA
-
 MUNICIPIO / DEMARCACIÓN
 
 2,977,239,436
@@ -18724,24 +18714,24 @@ Aguascalientes
 7,000,000
 
 Aguascalientes
-Aguascalientes
 
 Asientos
-Calvillo
 
 1,535,616
+
+Aguascalientes
+
+Calvillo
+
 7,000,000
 
 Aguascalientes
-
-Cosío
-
-1,017,000
-
 Aguascalientes
 
+Cosío
 El Llano
 
+1,017,000
 2,705,623
 
 Aguascalientes
@@ -18761,15 +18751,12 @@ Aguascalientes
 Tepezalá
 
 Baja California
-
-Ensenada
-
-12,000,000
-
 Baja California
 
+Ensenada
 Tijuana
 
+12,000,000
 67,223,000
 
 Baja California Sur
@@ -18795,14 +18782,10 @@ Campeche
 Calkiní
 
 Campeche
-
-Campeche
-
 Chiapas
 
+Campeche
 Amatán
-
-2,400,000
 
 Chiapas
 
@@ -18823,15 +18806,12 @@ Chamula
 2,400,000
 
 Chiapas
-
-Chilón
-
-2,400,000
-
 Chiapas
 
+Chilón
 La Concordia
 
+2,400,000
 9,000,000
 
 Chiapas
@@ -18841,21 +18821,25 @@ La Independencia
 2,400,000
 
 Chiapas
-Chiapas
 
 La Libertad
+
+2,400,000
+
+Chiapas
+
 La Trinitaria
+
+10,000,000
 
 Chiapas
 
 Ocosingo
 
 Chiapas
-
-Tumbalá
-
 Chiapas
 
+Tumbalá
 Tuxtla Gutiérrez
 
 Chihuahua
@@ -18873,15 +18857,12 @@ Chihuahua
 21,880,000
 
 Chihuahua
-
-Cuauhtémoc
-
-10,959,773
-
 Chihuahua
 
+Cuauhtémoc
 Delicias
 
+10,959,773
 1,000,000
 
 Chihuahua
@@ -18891,12 +18872,13 @@ Guerrero
 25,000,000
 
 Chihuahua
-Chihuahua
 
 Juárez
+
+Chihuahua
+
 Julimes
 
-3,500,000
 500,000
 
 Chihuahua
@@ -18906,14 +18888,13 @@ Rosales
 1,000,000
 
 Chihuahua
-
-Saucillo
-
-1,000,000
-
 Coahuila de Zaragoza
 
+Saucillo
 Matamoros
+
+1,000,000
+8,000,000
 
 Coahuila de Zaragoza
 
@@ -18940,11 +18921,9 @@ Saltillo
 3,500,000
 
 Coahuila de Zaragoza
-
-San Juan de Sabinas
-
 Coahuila de Zaragoza
 
+San Juan de Sabinas
 San Pedro
 
 Coahuila de Zaragoza
@@ -18958,16 +18937,15 @@ Sierra Mojada
 
 8,000,000
 19,640,000
-
 2,400,000
-10,000,000
+
 2,400,000
 2,400,000
 51,300,000
 1,000,000
 250,000
 
-8,000,000
+3,500,000
 
 9,000,000
 16,280,000
@@ -19014,14 +18992,13 @@ Comala
 5,461,703
 
 Colima
-
-Coquimatlán
-
-6,476,287
-
 Colima
 
+Coquimatlán
 Cuauhtémoc
+
+6,476,287
+920,833
 
 Colima
 
@@ -19030,12 +19007,15 @@ Manzanillo
 4,595,831
 
 Colima
-Colima
 
 Minatitlán
-Tecomán
 
 570,833
+
+Colima
+
+Tecomán
+
 1,412,499
 
 Colima
@@ -19075,11 +19055,9 @@ Gustavo A. Madero
 21,000,000
 
 Distrito Federal
-
-Iztacalco
-
 Distrito Federal
 
+Iztacalco
 Iztapalapa
 
 Distrito Federal
@@ -19103,13 +19081,12 @@ Distrito Federal
 Tlalpan
 
 Distrito Federal
-
-Venustiano Carranza
-
 Durango
 
+Venustiano Carranza
 Canatlán
 
+28,000,000
 8,460,352
 
 Durango
@@ -19119,21 +19096,20 @@ Coneto de Comonfort
 1,900,000
 
 Durango
-Durango
 
 Cuencamé
+
 Durango
 
+Durango
+
+Durango
 Durango
 
 El Oro
-
-2,500,000
-
-Durango
-
 General Simón Bolívar
 
+2,500,000
 1,500,000
 
 Durango
@@ -19161,15 +19137,12 @@ Mezquital
 1,230,002
 
 Durango
-
-Nazas
-
-2,500,000
-
 Durango
 
+Nazas
 Nombre de Dios
 
+2,500,000
 2,000,000
 
 Durango
@@ -19179,12 +19152,15 @@ Peñón Blanco
 4,400,000
 
 Durango
-Durango
 
 Pueblo Nuevo
-Rodeo
 
 19,400,000
+
+Durango
+
+Rodeo
+
 5,000,000
 
 Durango
@@ -19194,15 +19170,12 @@ San Bernardo
 2,000,000
 
 Durango
-
-San Juan de Guadalupe
-
-1,500,000
-
 Durango
 
+San Juan de Guadalupe
 Santiago Papasquiaro
 
+1,500,000
 8,000,000
 
 Durango
@@ -19215,20 +19188,21 @@ Durango
 
 Topia
 
+2,000,000
+
 Guanajuato
 
 Celaya
 
+27,700,000
+
+Guanajuato
 Guanajuato
 
 Cuerámaro
-
-1,500,000
-
-Guanajuato
-
 Huanímaro
 
+1,500,000
 1,000,000
 
 Guanajuato
@@ -19238,12 +19212,20 @@ Jaral del Progreso
 1,500,000
 
 Guanajuato
-Guanajuato
-Guanajuato
 
 Manuel Doblado
+
+Guanajuato
+
 Moroleón
+
+3,000,000
+
+Guanajuato
+
 Pénjamo
+
+11,619,229
 
 Guanajuato
 
@@ -19287,26 +19269,18 @@ Silao de la Victoria
 
 9,375,488
 
-920,833
-
 7,000,000
 3,800,000
 25,500,000
 
 5,000,000
-28,000,000
 
 3,000,000
 12,500,000
 
-2,000,000
-27,700,000
-
 115 de 256
 
 675,000
-3,000,000
-11,619,229
 
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2015
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -19324,6 +19298,8 @@ Guerrero
 
 Acapulco de Juárez
 
+1,000,000
+
 Guerrero
 
 Atoyac de Álvarez
@@ -19331,15 +19307,12 @@ Atoyac de Álvarez
 5,500,000
 
 Guerrero
-
-Coahuayutla de José María Izazaga
-
-7,000,000
-
 Guerrero
 
+Coahuayutla de José María Izazaga
 Coyuca de Benítez
 
+7,000,000
 7,500,000
 
 Guerrero
@@ -19365,15 +19338,12 @@ Guerrero
 Pedro Ascencio Alquisiras
 
 Guerrero
-
-San Marcos
-
-2,400,000
-
 Guerrero
 
+San Marcos
 Taxco de Alarcón
 
+2,400,000
 4,000,000
 
 Guerrero
@@ -19395,15 +19365,12 @@ Tlalchapa
 3,000,000
 
 Guerrero
-
-Xochistlahuaca
-
-1,000,000
-
 Hidalgo
 
+Xochistlahuaca
 Acatlán
 
+1,000,000
 1,500,000
 
 Hidalgo
@@ -19431,15 +19398,12 @@ Apan
 2,000,000
 
 Hidalgo
-
-Atotonilco de Tula
-
-3,400,000
-
 Hidalgo
 
+Atotonilco de Tula
 Atotonilco el Grande
 
+3,400,000
 1,400,000
 
 Hidalgo
@@ -19467,24 +19431,24 @@ El Arenal
 2,064,800
 
 Hidalgo
-
-Emiliano Zapata
-
-4,000,000
-
 Hidalgo
 
+Emiliano Zapata
 Francisco I. Madero
 
+4,000,000
 2,594,018
 
 Hidalgo
-Hidalgo
 
 Huehuetla
-Huejutla de Reyes
 
 1,000,000
+
+Hidalgo
+
+Huejutla de Reyes
+
 2,000,000
 
 Hidalgo
@@ -19494,22 +19458,17 @@ Ixmiquilpan
 3,300,000
 
 Hidalgo
-
-Jacala de Ledezma
-
-1,000,000
-
 Hidalgo
 
+Jacala de Ledezma
 Jaltocán
 
+1,000,000
 3,000,000
 
 Hidalgo
 
 Metepec
-
-11,000,000
 
 Hidalgo
 
@@ -19527,19 +19486,11 @@ Hidalgo
 
 Omitlán de Juárez
 
-1,000,000
-
+Hidalgo
 Hidalgo
 
 Pachuca de Soto
-
-11,841,182
-
-Hidalgo
-
 San Bartolo Tutotepec
-
-2,500,000
 
 Hidalgo
 
@@ -19548,24 +19499,24 @@ Tenango de Doria
 1,500,000
 
 Hidalgo
-Hidalgo
 
 Tlanchinol
-Tlaxcoapan
 
 2,500,000
+
+Hidalgo
+
+Tlaxcoapan
+
 1,970,000
 
 Hidalgo
-
-Tula de Allende
-
-1,200,000
-
 Hidalgo
 
+Tula de Allende
 Zimapán
 
+1,200,000
 2,100,000
 
 Jalisco
@@ -19587,26 +19538,28 @@ Atotonilco el Alto
 1,500,000
 
 Jalisco
-
-Chimaltitán
-
-2,000,000
-
 Jalisco
 
+Chimaltitán
 Cihuatlán
+
+2,000,000
+300,000
 
 Jalisco
 
 Cocula
 
 Jalisco
-Jalisco
 
 Colotlán
-Cuquío
 
 1,000,000
+
+Jalisco
+
+Cuquío
+
 4,985,300
 
 Jalisco
@@ -19616,31 +19569,34 @@ Degollado
 1,000,000
 
 Jalisco
+Jalisco
 
 El Arenal
+Etzatlán
 
 1,400,000
+1,500,000
 
 Jalisco
 
-Etzatlán
 Guadalajara
 
-Jalisco
-
-1,000,000
 10,000,000
 
 600,000
 
+11,000,000
+
+1,000,000
+11,841,182
+2,500,000
+
 500,000
 1,000,000
 300,000
 
-300,000
 500,000
 
-1,500,000
 11,078,000
 
 116 de 256
@@ -19682,15 +19638,12 @@ La Manzanilla de la Paz
 9,062,345
 
 Jalisco
-
-Lagos de Moreno
-
-2,500,000
-
 Jalisco
 
+Lagos de Moreno
 Magdalena
 
+2,500,000
 1,000,000
 
 Jalisco
@@ -19718,14 +19671,13 @@ San Diego de Alejandría
 1,100,000
 
 Jalisco
-
-San Ignacio Cerro Gordo
-
-1,189,000
-
 Jalisco
 
+San Ignacio Cerro Gordo
 San Juan de los Lagos
+
+1,189,000
+750,000
 
 Jalisco
 
@@ -19746,11 +19698,9 @@ San Martín Hidalgo
 2,000,000
 
 Jalisco
-
-San Miguel el Alto
-
 Jalisco
 
+San Miguel el Alto
 San Pedro Tlaquepaque
 
 Jalisco
@@ -19772,15 +19722,12 @@ Tamazula de Gordiano
 1,639,000
 
 Jalisco
-
-Techaluta de Montenegro
-
-4,158,600
-
 Jalisco
 
+Techaluta de Montenegro
 Teocaltiche
 
+4,158,600
 1,000,000
 
 Jalisco
@@ -19788,24 +19735,24 @@ Jalisco
 Tepatitlán de Morelos
 
 Jalisco
-Jalisco
 
 Tequila
-Teuchitlán
 
 3,000,000
+
+Jalisco
+
+Teuchitlán
+
 7,000,000
 
 Jalisco
-
-Tolimán
-
-1,400,000
-
 Jalisco
 
+Tolimán
 Tomatlán
 
+1,400,000
 1,000,000
 
 Jalisco
@@ -19833,15 +19780,12 @@ Unión de San Antonio
 3,500,000
 
 Jalisco
-
-Valle de Juárez
-
-3,739,000
-
 Jalisco
 
+Valle de Juárez
 Villa Corona
 
+3,739,000
 1,539,000
 
 Jalisco
@@ -19849,10 +19793,16 @@ Jalisco
 Villa Purificación
 
 Jalisco
-Jalisco
 
 Zapopan
+
+11,078,000
+
+Jalisco
+
 Zapotiltic
+
+1,000,000
 
 México
 
@@ -19861,15 +19811,12 @@ Acambay de Ruíz Castañeda
 3,130,000
 
 México
-
-Acolman
-
-2,320,000
-
 México
 
+Acolman
 Aculco
 
+2,320,000
 9,895,012
 
 México
@@ -19889,30 +19836,26 @@ Amecameca
 20,000,000
 
 México
-
-Apaxco
-
-10,000,000
-
 México
 
+Apaxco
 Atizapán
 
+10,000,000
 4,678,204
 
 México
 
 Atizapán de Zaragoza
 
-3,500,000
-
-México
 México
 
 Atlautla
+
+México
+
 Axapusco
 
-2,000,000
 28,000,000
 
 México
@@ -19922,15 +19865,12 @@ Capulhuac
 2,500,000
 
 México
-
-Chalco
-
-3,602,860
-
 México
 
+Chalco
 Chapultepec
 
+3,602,860
 3,000,000
 
 México
@@ -19952,20 +19892,15 @@ Ecatepec de Morelos
 4,384,286
 
 México
-
-El Oro
-
-2,608,658
-
 México
 
+El Oro
 Huehuetoca
 
+2,608,658
 8,000,000
 
 500,000
-
-750,000
 
 1,450,000
 16,617,000
@@ -19976,10 +19911,11 @@ Huehuetoca
 800,000
 
 500,000
-11,078,000
-1,000,000
 
 3,130,000
+
+3,500,000
+2,000,000
 
 117 de 256
 
@@ -20010,15 +19946,12 @@ Isidro Fabela
 3,130,000
 
 México
-
-Ixtapan del Oro
-
-2,253,144
-
 México
 
+Ixtapan del Oro
 Ixtlahuaca
 
+2,253,144
 9,630,000
 
 México
@@ -20054,11 +19987,9 @@ México
 Nezahualcóyotl
 
 México
-
-Nopaltepec
-
 México
 
+Nopaltepec
 Ocoyoacac
 
 México
@@ -20078,15 +20009,12 @@ Otzolotepec
 4,000,000
 
 México
-
-Ozumba
-
-7,000,000
-
 México
 
+Ozumba
 Polotitlán
 
+7,000,000
 4,500,000
 
 México
@@ -20114,15 +20042,12 @@ Soyaniquilpan de Juárez
 3,130,000
 
 México
-
-Tecámac
-
-2,159,533
-
 México
 
+Tecámac
 Tejupilco
 
+2,159,533
 1,621,404
 
 México
@@ -20132,24 +20057,24 @@ Temamatla
 7,000,000
 
 México
-México
 
 Temascalapa
-Temascalcingo
 
 3,130,000
+
+México
+
+Temascalcingo
+
 2,400,000
 
 México
-
-Temascaltepec
-
-2,540,400
-
 México
 
+Temascaltepec
 Tenancingo
 
+2,540,400
 3,130,000
 
 México
@@ -20171,13 +20096,12 @@ México
 Tlalmanalco
 
 México
-
-Tlalnepantla de Baz
-
 México
 
+Tlalnepantla de Baz
 Tlatlaya
 
+18,500,000
 5,000,000
 
 México
@@ -20187,12 +20111,15 @@ Toluca
 15,029,836
 
 México
-México
 
 Tonanitla
-Tonatico
 
 12,000,000
+
+México
+
+Tonatico
+
 1,500,000
 
 México
@@ -20202,15 +20129,12 @@ Tultepec
 7,000,000
 
 México
-
-Valle de Chalco Solidaridad
-
-2,000,000
-
 México
 
+Valle de Chalco Solidaridad
 Villa Victoria
 
+2,000,000
 2,500,000
 
 México
@@ -20225,25 +20149,31 @@ Michoacán de Ocampo
 
 Acuitzio
 
+5,500,000
+
+Michoacán de Ocampo
 Michoacán de Ocampo
 
 Ario
-
-Michoacán de Ocampo
-
 Carácuaro
+
+500,000
+4,000,000
 
 Michoacán de Ocampo
 
 Chilchota
 
 Michoacán de Ocampo
-Michoacán de Ocampo
 
 Churintzio
-Churumuco
 
 3,000,000
+
+Michoacán de Ocampo
+
+Churumuco
+
 6,000,000
 
 Michoacán de Ocampo
@@ -20253,15 +20183,12 @@ Cotija
 1,000,000
 
 Michoacán de Ocampo
-
-Ecuandureo
-
-6,200,000
-
 Michoacán de Ocampo
 
+Ecuandureo
 Epitacio Huerta
 
+6,200,000
 2,809,624
 
 Michoacán de Ocampo
@@ -20283,15 +20210,12 @@ Ixtlán
 2,760,000
 
 Michoacán de Ocampo
-
-Jacona
-
-6,000,000
-
 Michoacán de Ocampo
 
+Jacona
 Jiménez
 
+6,000,000
 4,000,000
 
 5,967,981
@@ -20303,13 +20227,10 @@ Jiménez
 1,398,245
 10,400,000
 4,000,000
-18,500,000
 
 9,660,000
 10,000,000
-5,500,000
-500,000
-4,000,000
+
 600,000
 
 118 de 256
@@ -20347,15 +20268,12 @@ Michoacán de Ocampo
 Numarán
 
 Michoacán de Ocampo
-
-Panindícuaro
-
-7,000,000
-
 Michoacán de Ocampo
 
+Panindícuaro
 Paracho
 
+7,000,000
 5,000,000
 
 Michoacán de Ocampo
@@ -20365,9 +20283,11 @@ Sahuayo
 5,875,000
 
 Michoacán de Ocampo
-Michoacán de Ocampo
 
 Tanhuato
+
+Michoacán de Ocampo
+
 Tarímbaro
 
 Michoacán de Ocampo
@@ -20377,18 +20297,18 @@ Tepalcatepec
 1,000,000
 
 Michoacán de Ocampo
+Michoacán de Ocampo
 
 Tingambato
+Uruapan
 
 1,000,000
+6,000,000
 
 Michoacán de Ocampo
-Michoacán de Ocampo
 
-Uruapan
 Villamar
 
-6,000,000
 5,836,281
 
 Michoacán de Ocampo
@@ -20424,15 +20344,12 @@ Ayala
 17,500,000
 
 Morelos
-
-Cuernavaca
-
-22,938,375
-
 Morelos
 
+Cuernavaca
 Emiliano Zapata
 
+22,938,375
 1,000,000
 
 Morelos
@@ -20460,24 +20377,24 @@ Tlalnepantla
 1,300,000
 
 Morelos
-
-Tlaltizapán de Zapata
-
-7,000,000
-
 Morelos
 
+Tlaltizapán de Zapata
 Tlayacapan
 
+7,000,000
 2,300,000
 
 Morelos
-Morelos
 
 Xochitepec
-Zacatepec
 
 1,000,000
+
+Morelos
+
+Zacatepec
+
 1,000,000
 
 Nayarit
@@ -20487,15 +20404,12 @@ Bahía de Banderas
 2,100,000
 
 Nayarit
-
-Del Nayar
-
-2,198,944
-
 Nayarit
 
+Del Nayar
 Ixtlán del Río
 
+2,198,944
 5,000,000
 
 Nayarit
@@ -20523,15 +20437,12 @@ Santa María del Oro
 3,602,112
 
 Nayarit
-
-Tecuala
-
-2,100,000
-
 Nayarit
 
+Tecuala
 Xalisco
 
+2,100,000
 3,500,000
 
 Nuevo León
@@ -20541,25 +20452,22 @@ China
 5,000,000
 
 Nuevo León
-Nuevo León
 
 Doctor Arroyo
-General Bravo
 
 5,000,000
+
+Nuevo León
+
+General Bravo
+
 10,000,000
 
 Nuevo León
-
-General Terán
-
-3,500,000
-
 Nuevo León
 
+General Terán
 Lampazos de Naranjo
-
-7,000,000
 
 Nuevo León
 
@@ -20582,15 +20490,12 @@ San Pedro Garza García
 17,000,000
 
 Nuevo León
-
-Villaldama
-
-7,000,000
-
 Oaxaca
 
+Villaldama
 Asunción Ixtaltepec
 
+7,000,000
 5,000,000
 
 Oaxaca
@@ -20600,12 +20505,15 @@ Ciénega de Zimatlán
 7,000,000
 
 Oaxaca
-Oaxaca
 
 Ciudad Ixtepec
-Concepción Pápalo
 
 2,500,000
+
+Oaxaca
+
+Concepción Pápalo
+
 1,000,000
 
 Oaxaca
@@ -20615,15 +20523,12 @@ Heroica Ciudad de Huajuapan de León
 5,194,148
 
 Oaxaca
-
-Heroica Ciudad de Juchitán de Zaragoza
-
-4,914,619
-
 Oaxaca
 
+Heroica Ciudad de Juchitán de Zaragoza
 Heroica Ciudad de Tlaxiaco
 
+4,914,619
 2,000,000
 
 Oaxaca
@@ -20642,6 +20547,8 @@ Huautla de Jiménez
 480,000
 1,100,000
 
+3,500,000
+7,000,000
 3,600,000
 131,060,000
 
@@ -20674,15 +20581,12 @@ Magdalena Tequisistlán
 7,500,000
 
 Oaxaca
-
-Ocotlán de Morelos
-
-3,195,617
-
 Oaxaca
 
+Ocotlán de Morelos
 Salina Cruz
 
+3,195,617
 1,500,000
 
 Oaxaca
@@ -20710,15 +20614,12 @@ San Blas Atempa
 3,500,000
 
 Oaxaca
-
-San Dionisio Ocotepec
-
-3,000,000
-
 Oaxaca
 
+San Dionisio Ocotepec
 San Felipe Usila
 
+3,000,000
 6,199,124
 
 Oaxaca
@@ -20740,15 +20641,12 @@ San José Chiltepec
 3,050,000
 
 Oaxaca
-
-San José del Progreso
-
-3,000,000
-
 Oaxaca
 
+San José del Progreso
 San José Independencia
 
+3,000,000
 3,200,000
 
 Oaxaca
@@ -20776,24 +20674,24 @@ San Juan Chilateca
 1,500,000
 
 Oaxaca
-
-San Juan Colorado
-
-1,000,000
-
 Oaxaca
 
+San Juan Colorado
 San Juan Cotzocón
 
+1,000,000
 1,500,000
 
 Oaxaca
-Oaxaca
 
 San Juan de los Cués
-San Juan Mixtepec
 
 2,000,000
+
+Oaxaca
+
+San Juan Mixtepec
+
 8,000,000
 
 Oaxaca
@@ -20833,12 +20731,15 @@ San Sebastián Ixcapa
 2,000,000
 
 Oaxaca
-Oaxaca
 
 Santa Catarina Juquila
-Santa María Ecatepec
 
 7,000,000
+
+Oaxaca
+
+Santa María Ecatepec
+
 7,000,000
 
 Oaxaca
@@ -20848,15 +20749,12 @@ Santa María Huatulco
 2,000,000
 
 Oaxaca
-
-Santa María Huazolotitlán
-
-2,000,000
-
 Oaxaca
 
+Santa María Huazolotitlán
 Santa María Sola
 
+2,000,000
 1,000,000
 
 Oaxaca
@@ -20884,24 +20782,24 @@ Santiago Juxtlahuaca
 5,000,000
 
 Oaxaca
-
-Santiago Tetepec
-
-2,500,000
-
 Oaxaca
 
+Santiago Tetepec
 Santo Domingo de Morelos
 
+2,500,000
 1,740,971
 
 Oaxaca
-Oaxaca
 
 Santo Domingo Tehuantepec
-Santo Domingo Tonalá
 
 3,500,000
+
+Oaxaca
+
+Santo Domingo Tonalá
+
 1,500,000
 
 Oaxaca
@@ -20911,25 +20809,21 @@ Santo Domingo Yanhuitlán
 4,200,000
 
 Oaxaca
+Oaxaca
+Oaxaca
+Oaxaca
+Puebla
+Puebla
+Puebla
+Puebla
+Puebla
+Puebla
+Puebla
+Puebla
+Puebla
+Puebla
 
 Silacayoápam
-
-1,500,000
-
-Oaxaca
-Oaxaca
-Oaxaca
-Puebla
-Puebla
-Puebla
-Puebla
-Puebla
-Puebla
-Puebla
-Puebla
-Puebla
-Puebla
-
 Tlacolula de Matamoros
 Totontepec Villa de Morelos
 Villa de Tamazulápam del Progreso
@@ -20946,6 +20840,7 @@ San Martín Texmelucan
 
 120 de 256
 
+1,500,000
 9,195,617
 3,168,291
 3,500,000
@@ -20985,6 +20880,48 @@ Querétaro
 Querétaro
 Querétaro
 Querétaro
+Querétaro
+Quintana Roo
+Quintana Roo
+Quintana Roo
+Quintana Roo
+San Luis Potosí
+San Luis Potosí
+San Luis Potosí
+San Luis Potosí
+San Luis Potosí
+San Luis Potosí
+San Luis Potosí
+San Luis Potosí
+San Luis Potosí
+San Luis Potosí
+San Luis Potosí
+San Luis Potosí
+San Luis Potosí
+San Luis Potosí
+San Luis Potosí
+San Luis Potosí
+San Luis Potosí
+Sinaloa
+Sinaloa
+Sinaloa
+Sinaloa
+Sinaloa
+Sinaloa
+Sonora
+Sonora
+Sonora
+Sonora
+Sonora
+Sonora
+Sonora
+Sonora
+Sonora
+Sonora
+Sonora
+Tabasco
+Tabasco
+Tabasco
 
 San Pedro Cholula
 Tehuacán
@@ -21003,6 +20940,50 @@ Landa de Matamoros
 Pedro Escobedo
 Pinal de Amoles
 Tequisquiapan
+Tolimán
+Lázaro Cárdenas
+Othón P. Blanco
+Solidaridad
+Tulum
+Aquismón
+Catorce
+Cedral
+Cerritos
+Ciudad del Maíz
+Ciudad Valles
+Coxcatlán
+Guadalcázar
+Matehuala
+Moctezuma
+Rioverde
+San Luis Potosí
+Santa María del Río
+Tamuín
+Tancanhuitz
+Venado
+Villa de Arriaga
+Choix
+Culiacán
+El Fuerte
+Guasave
+Mazatlán
+Salvador Alvarado
+Cajeme
+Cananea
+Carbó
+Divisaderos
+Guaymas
+Hermosillo
+Huatabampo
+Puerto Peñasco
+Sahuaripa
+San Luis Río Colorado
+Ures
+Cárdenas
+Cunduacán
+Emiliano Zapata
+
+121 de 256
 
 2,000,000
 5,128,571
@@ -21021,39 +21002,6 @@ Tequisquiapan
 900,000
 1,000,000
 1,050,000
-
-Querétaro
-Quintana Roo
-Quintana Roo
-Quintana Roo
-Quintana Roo
-San Luis Potosí
-San Luis Potosí
-San Luis Potosí
-San Luis Potosí
-San Luis Potosí
-San Luis Potosí
-San Luis Potosí
-San Luis Potosí
-San Luis Potosí
-San Luis Potosí
-
-Tolimán
-Lázaro Cárdenas
-Othón P. Blanco
-Solidaridad
-Tulum
-Aquismón
-Catorce
-Cedral
-Cerritos
-Ciudad del Maíz
-Ciudad Valles
-Coxcatlán
-Guadalcázar
-Matehuala
-Moctezuma
-
 500,000
 2,500,000
 3,727,174
@@ -21069,41 +21017,6 @@ Moctezuma
 1,000,000
 3,000,000
 17,280,000
-
-San Luis Potosí
-San Luis Potosí
-San Luis Potosí
-San Luis Potosí
-San Luis Potosí
-San Luis Potosí
-San Luis Potosí
-Sinaloa
-Sinaloa
-Sinaloa
-Sinaloa
-Sinaloa
-Sinaloa
-Sonora
-Sonora
-Sonora
-
-Rioverde
-San Luis Potosí
-Santa María del Río
-Tamuín
-Tancanhuitz
-Venado
-Villa de Arriaga
-Choix
-Culiacán
-El Fuerte
-Guasave
-Mazatlán
-Salvador Alvarado
-Cajeme
-Cananea
-Carbó
-
 1,000,000
 2,500,000
 4,500,000
@@ -21120,31 +21033,6 @@ Carbó
 10,430,037
 3,500,000
 815,946
-
-Sonora
-Sonora
-Sonora
-Sonora
-Sonora
-Sonora
-Sonora
-Sonora
-Tabasco
-Tabasco
-Tabasco
-
-Divisaderos
-Guaymas
-Hermosillo
-Huatabampo
-Puerto Peñasco
-Sahuaripa
-San Luis Río Colorado
-Ures
-Cárdenas
-Cunduacán
-Emiliano Zapata
-
 4,873,602
 14,000,000
 5,000,000
@@ -21156,8 +21044,6 @@ Emiliano Zapata
 4,000,000
 30,000,000
 6,000,000
-
-121 de 256
 
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2015
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -21404,6 +21290,18 @@ Zacatecas
 Zacatecas
 Zacatecas
 Zacatecas
+Zacatecas
+Zacatecas
+Zacatecas
+Zacatecas
+Zacatecas
+Zacatecas
+Zacatecas
+Zacatecas
+Zacatecas
+Zacatecas
+Zacatecas
+Zacatecas
 
 Cuitláhuac
 El Higo
@@ -21452,23 +21350,7 @@ Apozol
 Atolinga
 El Plateado de Joaquín Amaro
 Fresnillo
-
-Zacatecas
-
 General Enrique Estrada
-
-Zacatecas
-Zacatecas
-Zacatecas
-Zacatecas
-Zacatecas
-Zacatecas
-Zacatecas
-Zacatecas
-Zacatecas
-Zacatecas
-Zacatecas
-
 Jalpa
 Juan Aldama
 Juchipila
@@ -21552,19 +21434,16 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 
 Zacatecas
+Zacatecas
+Zacatecas
+Zacatecas
 
 Valparaíso
-
-2,613,500
-
-Zacatecas
-Zacatecas
-Zacatecas
-
 Villa de Cos
 Villanueva
 Zacatecas
 
+2,613,500
 750,000
 5,000,000
 750,000
@@ -21685,12 +21564,8 @@ EN LA DELEGACIÓN MIGUEL HIDALGO, DISTRITO FEDERAL
 
 10,067,000
 
-AULA INFRAESTRUCTURA EDUCATIVA BASICA EN ESCUELAS
+AULA INFRAESTRUCTURA EDUCATIVA BASICA EN ESCUELAS PRIMARIA ESTHER TAPIA DE
 CASTELLANOS 2330 , EN EL MUNICIPIO DE CAMARGO, CHIHUAHUA
-
-PRIMARIA
-
-DE
 
 450,000
 
@@ -21704,10 +21579,8 @@ S/N CHILTOYAC., EN EL MUNICIPIO DE XALAPA, VERACRUZ DE IGNACIO DE LA LLAVE
 
 116,000
 
-BARDA PERIMETRAL, ESCUELA PRIMARIA JOSÉ VASCONCELOS
+BARDA PERIMETRAL, ESCUELA PRIMARIA JOSÉ VASCONCELOS C.C.T 30EPR3646Z,
 CÁRDENAS S/N, EN XALAPA, VERACRUZ DE IGNACIO DE LA LLAVE
-
-TAPIA
 
 LÁZARO
 
@@ -21719,12 +21592,6 @@ ANTIGUO A NAOLINCO 201 COL. PREDIO DE LA VIRGEN, EN EL MUNICIPIO DE XALAPA, VERA
 500,000
 
 124 de 256
-
-C.C.T
-
-ESTHER
-
-30EPR3646Z,
 
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2015
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -22923,10 +22790,8 @@ ESTADO DE MÉXICO
 
 1,141,793
 
-CONSTRUCCIÓN DE TECHUMBRE EN ESC. DE EDUCACIÓN ESPECIAL
+CONSTRUCCIÓN DE TECHUMBRE EN ESC. DE EDUCACIÓN ESPECIAL ALFONSO MARTÍNEZ
 DOMINGUEZ, COL PROVILEÓN., EN EL MUNICIPIO DE LINARES, NUEVO LEÓN
-
-MARTÍNEZ
 
 196,276
 
@@ -23049,8 +22914,6 @@ CONSTRUCCIÓN DE UN AULA DE USOS MÚLTIPLES, ESCUELA PRIMARIA JOSÉ VASCONCELOS,
 
 132 de 256
 
-ALFONSO
-
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2015
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
@@ -23067,10 +22930,8 @@ SOLIDARIDAD, MÉXICO
 
 848,854
 
-CONSTRUCCIÓN DE UN AULA EN EL "CENTRO DE ATENCIÓN
+CONSTRUCCIÓN DE UN AULA EN EL "CENTRO DE ATENCIÓN MÚLTIPLE NO. 13", CALLE
 TEMASCALTEPEC S/N COL. CUMBRIA, CUAUTITLÁN IZCALLI, MÉXICO
-
-NO. 13", CALLE
 
 930,000
 
@@ -23109,8 +22970,6 @@ METÁLICA A BASE DE PERFIL COMERCIAL Y LÁMINA ZINTRO ALUM CALIBRE 26, EN EL FRA
 EN LA CIUDAD DE JUCHITÁN DE ZARAGOZA, OAXACA.
 
 1,414,000
-
-MÚLTIPLE
 
 CONSTRUCCIÓN DE UNEME DEDICAM DE TAMPICO
 
@@ -23745,39 +23604,13 @@ REHABILITACIÓN DE ESPACIO PÚBLICO SAN JAVIER, EN EL MUNICIPIO DE GUANAJUATO, G
 
 2,000,000
 
-REHABILITACIÓN DE
+REHABILITACIÓN DE ESPACIOS EDUCATIVOS EN COMUNIDADES RURALES DE TEPETONGO,
 ZACATECAS
-
-ESPACIOS
-
-EDUCATIVOS
-
-EN
-
-COMUNIDADES
-
-RURALES
-
-DE
-
-TEPETONGO,
 
 250,000
 
 REHABILITACIÓN
 ZACATECAS
-
-ESPACIOS
-
-EDUCATIVOS
-
-EN
-
-COMUNIDADES
-
-RURALES
-
-DE
 
 ZACATECAS,
 
@@ -23792,6 +23625,18 @@ REHABILITACIÓN DE ESPACIOS EDUCATIVOS EN COMUNIDADES RURALES, EN EL MUNICIPIO D
 MAZAPIL, ZACATECAS
 
 250,000
+
+DE
+
+ESPACIOS
+
+EDUCATIVOS
+
+EN
+
+COMUNIDADES
+
+RURALES
 
 DE
 
@@ -23848,22 +23693,6 @@ REHABILITACIÓN DE PLAZA DE GALLOS, EN EL MUNICIPIO DE LEÓN, GUANAJUATO
 5,000,000
 
 REHABILITACIÓN DE PLAZA PÚBLICA EN MARFIL, EN EL MUNICIPIO DE GUANAJUATO, GUANAJUATO
-
-2,600,000
-DE
-
-2,161,257
-
-REHABILITACIÓN DEL CENTRO CULTURAL VITO ALESSIO ROBLES, EN EL MUNICIPIO DE SALTILLO,
-COAHUILA DE ZARAGOZA
-
-5,000,000
-
-REHABILITACIÓN DEL CENTRO DE EDUCACIÓN AMBIENTAL Y RECREATIVO RODOLFO LANDEROS
-GALLEGOS DE LA CIUDAD DE AGUASCALIENTES
-
-40,000,000
-
 REHABILITACIÓN DEL CENTRO
 BUENAVENTURA, CHIHUAHUA
 
@@ -23880,6 +23709,21 @@ EN
 EL
 
 MUNICIPIO
+
+2,600,000
+DE
+
+2,161,257
+
+REHABILITACIÓN DEL CENTRO CULTURAL VITO ALESSIO ROBLES, EN EL MUNICIPIO DE SALTILLO,
+COAHUILA DE ZARAGOZA
+
+5,000,000
+
+REHABILITACIÓN DEL CENTRO DE EDUCACIÓN AMBIENTAL Y RECREATIVO RODOLFO LANDEROS
+GALLEGOS DE LA CIUDAD DE AGUASCALIENTES
+
+40,000,000
 
 REHABILITACIÓN DEL CENTRO RECREATIVO DE SANTIAGO JUXTLAHUACA
 REHABILITACIÓN DEL ESTADIO DE FUTBOL DE VETERANOS ANTONINO ARCINIEGA MUÑOZ EN LA
@@ -25935,12 +25779,10 @@ PAVIMENTACIÓN DE CALLE FELIPE ÁNGELES, EN EL MUNICIPIO DE ARANDAS, EN JALISCO
 
 1,100,000
 
-PAVIMENTACIÓN DE CALLE GALENA EN LA CABECERA
+PAVIMENTACIÓN DE CALLE GALENA EN LA CABECERA MUNICIPAL, EN EL MUNICIPIO DE
 COAHUAYUTLA DE JOSÉ MARÍA IZAZAGA, GUERRERO
 
 2,700,000
-
-MUNICIPAL, EN EL MUNICIPIO DE
 
 PAVIMENTACIÓN DE CALLE HIDALGO, EN EL MUNICIPIO DE VALPARAÍSO, ZACATECAS
 
@@ -27806,10 +27648,8 @@ TAMAULIPAS
 
 2,295,503
 
-PAVIMENTACIÓN MATAMOROS ENTRE CAVAZOS LERMA
+PAVIMENTACIÓN MATAMOROS ENTRE CAVAZOS LERMA Y BENITO JUÁREZ ZONA CENTRO,
 TAMAULIPAS
-
-Y BENITO JUÁREZ ZONA CENTRO,
 
 2,849,780
 
@@ -28724,12 +28564,10 @@ INFRAESTRUCTURA URBANA EN ANGOSTURA, SINALOA
 INFRAESTRUCTURA URBANA EN CULIACÁN, SINALOA
 
 25,000,000
+120,000,000
 
 PROYECTOS DE INFRAESTRUCTURA MUNICIPAL EN BOCA DEL RÍO, VERACRUZ DE IGNACIO DE LA
 LLAVE
-
-120,000,000
-
 PROYECTOS DE DESARROLLO MUNICIPAL EN PUEBLA
 
 10,000,000
@@ -28800,12 +28638,14 @@ MONTO
 Previsiones para servicios personales para los servicios de educación básica en el Distrito Federal, para el Fondo de
 Aportaciones para la Nómina Educativa y Gasto Operativo (FONE) y para el Fondo de Aportaciones para la
 Educación Tecnológica y de Adultos
-Aportaciones para los servicios de educación básica y normal en el Distrito Federal
-
-166 de 256
 
 13,319,790,110
+
+Aportaciones para los servicios de educación básica y normal en el Distrito Federal
+
 33,560,375,150
+
+166 de 256
 
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2015
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -29469,8 +29309,7 @@ vi) Prima quinquenal (antigüedad)
 vii) Ayuda para despensa
 viii) Seguro de vida institucional
 ix) Seguro colectivo de retiro
-3
-x) Seguro de gastos médicos mayores _/
+x) Seguro de gastos médicos mayores 3_/
 xi) Seguro de separación individualizado
 xii) Apoyo económico para adquisición de vehículo
 II. Percepciones extraordinarias:
@@ -29497,19 +29336,23 @@ ANEXO 23.2.4. REMUNERACIÓN TOTAL ANUAL DEL PUESTO DE ESTRUCTURA ORGÁNICA DE SE
 Remuneración
 recibida
 REMUNERACIÓN TOTAL ANUAL NETA (RTA)
-Impuesto sobre la renta retenido
 
 2,416,292
+
+Impuesto sobre la renta retenido
+
 945,015
-3,361,307
 
 Percepción bruta anual
+
+3,361,307
+
 I. Percepciones ordinarias:
+a) Sueldos y salarios:
 
 3,084,204
 2,048,880
 
-a) Sueldos y salarios:
 i) Sueldo base
 
 278,520
@@ -29517,19 +29360,19 @@ i) Sueldo base
 ii) Compensación garantizada
 
 1,770,360
-1,035,324
 
 b) Prestaciones:
+
+1,035,324
+
 i) Aportaciones a seguridad social
 
 59,700
 
 ii) Prima vacacional
-
-11,605
-
 iii) Aguinaldo (sueldo base)
 
+11,605
 45,708
 
 iv) Gratificación de fin de año
@@ -29537,17 +29380,17 @@ iv) Gratificación de fin de año
 518,188
 
 v) Vales de fin de año
-vi) Vales de despensa mensuales
 
 10,000
+
+vi) Vales de despensa mensuales
+
 12,000
 
 vii) Seguro de vida institucional
-
-36,880
-
 viii) Seguro colectivo de retiro
 
+36,880
 162
 
 ix) Seguro de gastos médicos mayores
@@ -29559,9 +29402,11 @@ x) Seguro de separación individualizado
 310,436
 
 xi) Sistema de ahorro para el retiro
-II. Percepciones extraordinarias:
 
 4,845
+
+II. Percepciones extraordinarias:
+
 277,103
 
 a) Estímulo nivel medio por cumplimiento de metas
@@ -29610,19 +29455,15 @@ Personal de base:
 17,154
 
 4
-
-6,532
-
-10,830
-
-17,362
-
 5
 
+6,532
 6,732
 
+10,830
 10,969
 
+17,362
 17,701
 
 170 de 256
@@ -29660,19 +29501,15 @@ Secretaría de Servicios Parlamentarios
 19,541
 
 9
-
-8,775
-
-11,537
-
-20,312
-
 10
 
+8,775
 9,382
 
+11,537
 11,943
 
+20,312
 21,325
 
 13
@@ -29788,19 +29625,15 @@ Secretaría de Servicios Parlamentarios
 34,643
 
 16
-
-16,849
-
-19,558
-
-36,407
-
 17
 
+16,849
 17,671
 
+19,558
 19,642
 
+36,407
 37,312
 
 18
@@ -30247,8 +30080,7 @@ Secretaría de Servicios Parlamentarios
 ANEXO 23.3.3. REMUNERACIÓN TOTAL ANUAL DEL PUESTO DE ELECCIÓN DIPUTADO FEDERAL (pesos)
 
 Remuneración
-1
-recibida _/
+recibida 1_/
 REMUNERACIÓN TOTAL ANUAL NETA (RTA)
 
 1,446,145
@@ -30441,10 +30273,9 @@ Máximo
 Prestaciones
 Mínimo
 
-Percepción ordinaria total
-
 Máximo
 
+Percepción ordinaria total
 Mínimo
 
 Máximo
@@ -30541,9 +30372,6 @@ HOMÓLOGOS
 
 49,097
 
-COORDINADOR DE AUDITORES DE
-FISCALIZACIÓN
-
 21,839
 
 22,719
@@ -30601,24 +30429,31 @@ AUDITOR DE FISCALIZACIÓN "A"
 28,180
 
 AUDITOR JURÍDICO "A"
-AUDITOR ADMINISTRATIVO "A"
 
-19,253
 19,253
 
 20,019
-20,019
 
-8,188
 8,188
 
 8,161
-8,161
 
-27,441
 27,441
 
 28,180
+
+AUDITOR ADMINISTRATIVO "A"
+
+19,253
+
+20,019
+
+8,188
+
+8,161
+
+27,441
+
 28,180
 
 AUDITOR DE FISCALIZACIÓN "B"
@@ -30636,34 +30471,29 @@ AUDITOR DE FISCALIZACIÓN "B"
 25,977
 
 AUDITOR JURÍDICO "B"
-
-15,610
-
-17,942
-
-8,121
-
-8,035
-
-23,731
-
-25,977
-
 AUDITOR ADMINISTRATIVO "B"
 
 15,610
+15,610
 
+17,942
 17,942
 
 8,121
+8,121
 
+8,035
 8,035
 
 23,731
+23,731
 
+25,977
 25,977
 
 PERSONAL OPERATIVO DE CONFIANZA
+COORDINADOR DE AUDITORES DE
+FISCALIZACIÓN
 
 COORDINADOR DE ANALISTAS "A"
 
@@ -30903,17 +30733,14 @@ AUDITOR ESPECIAL
 369,783
 
 TITULAR DE UNIDAD
-
-3
-
-365,193
-
 DIRECTOR GENERAL Y HOMÓLOGOS
 
+3
 28
 
 309,281
 
+365,193
 323,152
 
 DIRECTOR DE ÁREA Y HOMÓLOGOS
@@ -30924,16 +30751,18 @@ DIRECTOR DE ÁREA Y HOMÓLOGOS
 
 160,122
 
-SRIO. TÉCNICO DE COORDINADOR Y DIR. GRAL.
-SUBDIRECTOR DE ÁREA Y HOMÓLOGOS
-
 3
-220
 
 76,800
-64,103
 
 112,784
+
+SUBDIRECTOR DE ÁREA Y HOMÓLOGOS
+
+220
+
+64,103
+
 83,709
 
 JEFE DE DEPARTAMENTO Y HOMÓLOGOS
@@ -30944,34 +30773,25 @@ JEFE DE DEPARTAMENTO Y HOMÓLOGOS
 
 61,218
 
-COORDINADOR DE AUDITORES DE FISCALIZACIÓN
-
 153
 
 51,220
 
 52,956
 
-COORDINADOR DE AUDITORES JURÍDICOS
-COORDINADOR DE AUDITORES ADMINISTRATIVOS
-
 8
+
+51,220
+
+52,956
+
 56
-
-51,220
-51,220
-
-52,956
-52,956
-
-PERSONAL OPERATIVO DE CONFIANZA
-
-AUDITOR DE FISCALIZACIÓN "A"
-
 263
 
+51,220
 46,107
 
+52,956
 47,615
 
 AUDITOR JURÍDICO "A"
@@ -31002,28 +30822,27 @@ AUDITOR ADMINISTRATIVO "A"
 
 43,516
 
+AUDITOR ADMINISTRATIVO "B"
+COORDINADOR DE ANALISTAS "A"
+
 40
+1
 
 38,934
 
 43,516
-
-AUDITOR DE FISCALIZACIÓN "B"
-AUDITOR JURÍDICO "B"
-AUDITOR ADMINISTRATIVO "B"
-COORDINADOR DE ANALISTAS "A"
-
-1
-
 41,507
 
 SECRETARIA PARTICULAR "A"
-OPERADOR SUPERVISOR "A"
 
 10
-1
 
 51,957
+
+OPERADOR SUPERVISOR "A"
+
+1
+
 28,188
 
 SECRETARIA PARTICULAR "B"
@@ -31049,6 +30868,17 @@ SUPERVISOR DE ÁREA ADMINISTRATIVA
 81
 
 24,599
+
+SRIO. TÉCNICO DE COORDINADOR Y DIR. GRAL.
+
+PERSONAL OPERATIVO DE CONFIANZA
+COORDINADOR DE AUDITORES DE FISCALIZACIÓN
+COORDINADOR DE AUDITORES JURÍDICOS
+COORDINADOR DE AUDITORES ADMINISTRATIVOS
+AUDITOR DE FISCALIZACIÓN "A"
+
+AUDITOR DE FISCALIZACIÓN "B"
+AUDITOR JURÍDICO "B"
 
 175 de 256
 
@@ -33762,25 +33592,29 @@ REMUNERACIÓN TOTAL ANUAL NETA (RTA)
 Impuesto sobre la renta retenido
 
 1,022,457
-3,316,532
-3,316,532
 
 Percepción bruta anual
+
+3,316,532
+
 I. Percepciones Ordinarias:
+
+3,316,532
+
+a) Sueldos y salarios:
 
 2,441,855
 
-a) Sueldos y salarios:
 I) Sueldo Base
-
-284,006
-
 II) Compensación Garantizada
 
+284,006
 2,157,849
-874,677
 
 b) Prestaciones:
+
+874,677
+
 I) Aportaciones de seguridad social
 
 53,822
@@ -33790,18 +33624,18 @@ II) Ahorro solidario (Artículo 100 de la Ley del ISSSTE)
 15,746
 
 III) Prima vacacional
-
-7,889
-
 IV) Aguinaldo (sueldo base)
 
+7,889
 46,150
 
 V) Gratificación de fin de año (Compensación Garantizada)
+
+350,650
+
 VI) Prima quinquenal (antigüedad)
 VII) Ayuda para despensa
 
-350,650
 924
 
 VIII) Seguro de vida institucional
@@ -34147,15 +33981,17 @@ REMUNERACIÓN TOTAL ANUAL NETA (RTA)
 2,287,211
 
 Impuesto sobre la renta retenido (35%) *
+Percepción bruta anual
 
 943,895
 3,231,106
 
-Percepción bruta anual
 I. Percepciones Ordinarias:
-a) Sueldos y salarios:
 
 3,094,738
+
+a) Sueldos y salarios:
+
 2,279,331
 
 I) Sueldo Base
@@ -34163,11 +33999,9 @@ I) Sueldo Base
 284,006
 
 II) Compensación Garantizada
-
-1,995,325
-
 b) Prestaciones:
 
+1,995,325
 815,407
 
 I) Aportaciones de seguridad social
@@ -34187,11 +34021,9 @@ IV) Aguinaldo (sueldo base)
 44,597
 
 V) Gratificación de fin de año (Compensación Garantizada)
-
-316,718
-
 VI) Prima quinquenal (antigüedad) 2/
 
+316,718
 2,700
 
 VII) Ayuda para despensa
@@ -34211,10 +34043,10 @@ X) Seguro de gastos médicos mayores
 13,558
 
 XI) Seguro de separación Individualizado
+XII) Apoyo económico para adquisición de vehículo
 
 325,619
 
-XII) Apoyo económico para adquisición de vehículo
 II. Percepciones Extraordinarias
 
 136,368
@@ -34454,9 +34286,11 @@ Percepción bruta anual
 I. Percepciones Ordinarias:
 
 3,274,204
-2,441,856
 
 a) Sueldos y salarios:
+
+2,441,856
+
 I) Sueldo Base
 
 284,006
@@ -34464,9 +34298,11 @@ I) Sueldo Base
 II) Compensación garantizada
 
 2,157,849
-832,348
 
 b) Prestaciones:
+
+832,348
+
 I) Aportaciones de seguridad social
 
 53,822
@@ -34553,9 +34389,6 @@ Mínimo
 
 Máximo
 
-Personal de Mando y Enlace / Homologos
-Comisionado Presidente/Comisionados
-
 135,103
 
 10,797
@@ -34566,15 +34399,6 @@ Comisionado Presidente/Comisionados
 
 197,335
 
-Coordinador
-
-KA2*
-
-HB1*
-JA1
-
-96,241
-
 103,315
 
 8,470
@@ -34584,6 +34408,19 @@ JA1
 104,711
 
 149,911
+
+Personal de Mando y Enlace / Homologos
+Comisionado Presidente/Comisionados
+
+HB1*
+
+Coordinador
+
+KA2*
+
+JA1
+
+96,241
 
 Director General
 
@@ -34825,7 +34662,6 @@ la Información y Protección de Datos, una vez aplicadas las disposiciones fisc
 *Niveles utilizados para determinar el presupuesto de servicios personales para el ejercicio 2015.
 ANEXO 23.13.2. REMUNERACIÓN TOTAL ANUAL DE LA MAXIMA REPRESENTACIÓN DEL INSTITUTO FEDERAL DE ACCESO A
 LA INFORMACIÓN Y PROTECCIÓN DE DATOS COMISIONADA PRESIDENTE / COMISIONADOS 2015 (pesos)
-
 Remuneración recibida
 REMUNERACIÓN TOTAL ANUAL NETA (RTA)
 
@@ -35158,69 +34994,51 @@ recibida
 
 NIVEL JERÁRQUICO: HA1
 REMUNERACIÓN TOTAL ANUAL NETA (RTA)
-
-2,187,040
-
 Impuesto sobre la renta retenido 1/
 Percepción bruta anual
 I. Percepciones Ordinarias:
-
-952,983
-3,140,023
-
 a) Sueldos y salarios:
-
-3,140,023
-2,279,331
-
 I) Sueldo Base
 II) Compensación Garantizada
 b) Prestaciones:
-
-284,006
-1,995,325
-860,692
-
 I) Aportaciones de seguridad social
 II) Ahorro solidario (Artículo 100 de la Ley del ISSSTE)
-
-53,640
-15,746
-
 III) Prima vacacional
 IV) Aguinaldo (sueldo base)
-
-7,889
-47,153
-
 V) Gratificación de fin de año (Compensación Garantizada)
 VI) Prima quinquenal (antigüedad) 2/
-
-341,081
-2,700
-
 VII) Ayuda para despensa
 VIII) Seguro de vida institucional
-
-4,380
-28,947
-
 IX) Seguro Colectivo de Retiro
 X) Seguro de Gastos médicos mayores
-
-245
-13,558
-
 XI) Seguro de Separación Individualizado
 XII) Apoyo económico para adquisición de vehículo
 II. Percepciones extraordinarias
-
-345,353
-0
-
 a) Pago por riesgo y potenciación de seguro de vida
 1/ Cálculo obtenido conforme a lo dispuesto en el art. 96 de la Ley del Impuesto Sobre la Renta.
 2/ Incluye la estimación de 5 quinquenios.
+
+2,187,040
+952,983
+3,140,023
+3,140,023
+2,279,331
+284,006
+1,995,325
+860,692
+53,640
+15,746
+7,889
+47,153
+341,081
+2,700
+4,380
+28,947
+245
+13,558
+345,353
+0
+
 ANEXO 24. PREVISIONES SALARIALES Y ECONÓMICAS DE LOS RAMOS 25 Y 33 (pesos)
 
 Creación de
@@ -35283,12 +35101,14 @@ Educación Básica, Normal, Tecnológica y de
 Adultos
 Administración Federal de Servicios Educativos en
 el Distrito Federal
+
+33
+
 Fondo de Aportaciones para la Nómina Educativa y
 Gasto Operativo
 Fondo de Aportaciones para la Educación
 Tecnológica y de Adultos
 Aportaciones Federales para Entidades Federativas
-33
 
 195 de 256
 
@@ -35597,6 +35417,10 @@ Secretaría de Servicios Parlamentarios
 
 17
 
+20
+
+21
+
 Túnel Emisor Oriente y Planta de Tratamiento Atotonilco
 Infraestructura de riego y Temporal Tecnificado
 Operación y Mantenimiento del Sistema Cutzamala
@@ -35604,9 +35428,6 @@ Operación y Mantenimiento del Sistema de Pozos de Abastecimiento del Valle de M
 Fomento para la Conservación y Aprovechamiento Sustentable de la Vida Silvestre
 Programa de Empleo Temporal (PET)
 Procuraduría General de la República
-
-20
-
 Investigar y perseguir los delitos del orden federal
 Investigar y perseguir los delitos relativos a la Delincuencia Organizada
 Desarrollo Social
@@ -35614,9 +35435,6 @@ Programa de Abasto Social de Leche a cargo de Liconsa, S.A. de C.V.
 Programa de Abasto Rural a cargo de Diconsa, S.A. de C.V. (DICONSA)
 Programa 3 x 1 para Migrantes
 Programa de Coinversión Social
-
-21
-
 Programa de Empleo Temporal (PET)
 PROSPERA Programa de Inclusión Social
 Programa de Apoyo Alimentario
@@ -36391,11 +36209,9 @@ Baja California
 92,685,850
 
 Baja California Sur
-
-41,822,635
-
 Campeche
 
+41,822,635
 65,698,517
 
 Coahuila
@@ -36411,11 +36227,9 @@ Chiapas
 164,450,038
 
 Chihuahua
-
-162,316,768
-
 Distrito Federal
 
+162,316,768
 36,796,771
 
 Durango
@@ -36453,11 +36267,9 @@ México
 292,861,819
 
 Michoacán
-
-148,246,140
-
 Morelos
 
+148,246,140
 58,400,805
 
 Nayarit
@@ -36465,9 +36277,11 @@ Nayarit
 86,805,439
 
 Nuevo León
-Oaxaca
 
 86,950,623
+
+Oaxaca
+
 320,400,711
 
 Puebla
@@ -36475,11 +36289,9 @@ Puebla
 163,159,736
 
 Querétaro
-
-61,947,934
-
 Quintana Roo
 
+61,947,934
 65,616,730
 
 San Luis Potosí
@@ -36495,11 +36307,9 @@ Sonora
 117,768,576
 
 Tabasco
-
-71,449,438
-
 Tamaulipas
 
+71,449,438
 121,939,335
 
 Tlaxcala
@@ -36507,18 +36317,19 @@ Tlaxcala
 130,610,313
 
 Veracruz
-Yucatán
 
 427,047,251
+
+Yucatán
+
 100,605,451
 
 Zacatecas
 
 155,348,386
-4,113,123,811
 
 TOTAL
-
+4,113,123,811
 */ Los recursos considerados en este Anexo serán destinados al Proceso de Formalización Laboral de los Trabajadores de la Salud en
 las entidades federativas establecido por la Secretaría de Salud, y serán transferidos a las entidades federativas a través del Fondo de
 Aportaciones para los Servicios de Salud del Ramo 33.
@@ -36532,11 +36343,9 @@ Aguascalientes
 24,785,897
 
 Baja California
-
-32,551,771
-
 Baja California Sur
 
+32,551,771
 7,082,193
 
 Campeche
@@ -36658,11 +36467,9 @@ Veracruz
 38,256,494
 
 Yucatán
-
-18,320,011
-
 Zacatecas
 
+18,320,011
 18,157,370
 
 TOTAL
@@ -37730,19 +37537,19 @@ Federativas
 Gasto No Programable
 24
 Deuda Pública
-28
 Participaciones a Entidades
+28
 Federativas y Municipios
 Erogaciones para las
-29
 Operaciones y Programas de
+29
 Saneamiento Financiero
-30
 Adeudos de Ejercicios Fiscales
+30
 Anteriores
 Erogaciones para los Programas
-34
 de Apoyo a Ahorradores y
+34
 Deudores de la Banca
 Obligaciones incurridas a través
 de los programas de apoyo a
@@ -37754,11 +37561,11 @@ D: ENTIDADES SUJETAS A CONTROL
 PRESUPUESTARIO DIRECTO
 Gasto Programable
 Instituto de Seguridad y Servicios
-GYN
 Sociales de los Trabajadores del
+GYN
 Estado 3/
-GYR
 Instituto Mexicano del Seguro
+GYR
 
 7,076,869,456
 
@@ -37979,16 +37786,16 @@ E: EMPRESAS PRODUCTIVAS DEL
 923,525,227,774
 ESTADO 4/ 5/
 Gasto Programable
-TOQ
 Comisión Federal de
+TOQ
 314,456,548,542
 0
 0
 0
 314,456,548,542
 Electricidad
-TZZ
 Petróleos Mexicanos
+TZZ
 540,580,079,232
 0
 0
@@ -38003,16 +37810,16 @@ Costo Financiero, que se
 0
 68,488,600,000
 distribuye para erogaciones de:
-TOQ
 Comisión Federal de
+TOQ
 14,500,000,000
 0
 0
 0
 14,500,000,000
 Electricidad
-TZZ
 Petróleos Mexicanos
+TZZ
 53,988,600,000
 0
 0
@@ -38215,23 +38022,19 @@ Reasignación
 
 ANEXO 38. AMPLIACIONES AL RAMO 09 COMUNICACIONES Y TRANSPORTES (pesos)
 Monto
-RAMO 09: Comunicaciones y Transportes
-
 16,388,828,395
 
+RAMO 09: Comunicaciones y Transportes
 K003 Proyectos de Infraestructura Económica de Carreteras
-
-100,000,000
-
 K004 Proyectos de Infraestructura Económica De Puertos
 K031 Proyectos de Infraestructura Económica de Carreteras
 Alimentadoras y Caminos Rurales
 K040 Proyectos de Infraestructura Económica Ferroviaria
 
-15,000,000
-
 209 de 256
 
+100,000,000
+15,000,000
 14,673,828,395
 1,600,000,000
 
@@ -38475,17 +38278,18 @@ tramo: entronque carretera estatal No. 37 río Colorado, Valle de Mexicali
 Sobrecarpeta en carretera estatal No. 1,
 tramo: carretera federal No. 2 - entronque
 ejido Chihuahua, Valle de Mexicali.
+
+-
+
+5.3
+
+-
+
+5.3
+
 Sobrecarpeta en carretera estatal No. 2,
 tramo: crucero ejido Toluca - entronque ejido
 Chiapas II, Valle de Mexicali.
-
--
-
-5.3
-
--
-
-5.3
 
 -
 
@@ -39368,6 +39172,10 @@ Pijijiapan Aeropuerto. Tramo: Aeropuerto
 
 Angel Albino Corzo - Siltepec
 
+Arenal-Embarcadero
+
+Río
+
 -
 
 10.0
@@ -39375,6 +39183,8 @@ Angel Albino Corzo - Siltepec
 -
 
 10.0
+
+La
 
 -
 
@@ -39416,23 +39226,16 @@ Cd. Cuauhtémoc- Pacayal Frontera
 10.0
 
 Sinaloa Nicolás Bravo
-
--
-
-5.0
-
--
-
-5.0
-
 Puente Vehicular Camino A Sta. Martha
 
 -
 
+5.0
 8.0
 
 -
 
+5.0
 8.0
 
 El paraíso - El Nopal
@@ -39466,17 +39269,11 @@ Brindis
 
 5.0
 
-Arenal-Embarcadero
-
 Ejido
 Francisco
 Campana
 
-Río
-
 Mujica-Ranchería
-
-La
 
 212 de 256
 
@@ -39950,21 +39747,16 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 
 Ramal a Monte Chico
-
--
-
-5.0
-
--
-
 E.C. (Caté - Pichucalco) - La Lagunita
 
 -
 
 5.0
+5.0
 
 -
 
+5.0
 5.0
 
 Pavimentación de Camino Rural, Tramo
@@ -40096,8 +39888,6 @@ Embarcadero Jericó Loma Bonita Tramo km
 
 CHIHUAHUA
 
-5.0
-
 -
 
 671.0
@@ -40225,10 +40015,7 @@ Temosachic-Cocomorahic
 
 50.0
 
-E.C.E.
-(Guachochi
-Balleza)
-Metatitos
+E.C.E. (Guachochi Balleza) Metatitos
 Tecorichi El Tigre El Vergel, Tramo: Km.
 0+000 al Km. 34+000
 
@@ -42698,17 +42485,21 @@ Colexio 3.5 Km
 
 5.0
 
-Rehabilitación de camino La Piedad Zaragoza 7 Km
+Rehabilitación de camino La Piedad
+Zaragoza 7 Km
+
+-
+
+-
+
+10.0
+
+-
+
+10.0
+
 Carretera San Marcos - Rancho Seco,
 Rancho Seco - El Sabino, Rancho Seco Tahuejo
-
--
-
-10.0
-
--
-
-10.0
 
 -
 
@@ -47739,13 +47530,9 @@ Estación
 
 -
 
-Monte
+Monte Obscuro
 
-Obscuro
-
--
-
-Palmar
+- Palmar
 
 233 de 256
 
@@ -49317,28 +49104,36 @@ EDUCACIÓN BÁSICA
 U031 Fortalecimiento a la Educación Temprana y el Desarrollo Infantil
 
 EDUCACIÓN SUPERIOR
-S245 Programa de Fortalecimiento de la Calidad en Instituciones Educativas: Programa
-de Apoyo para Escuelas Normales Rurales
-A2M Universidad Autónoma Metropolitana
-EROGACIONES PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES 1/
 
 950,000,000
 750,000,000
+
+S245 Programa de Fortalecimiento de la Calidad en Instituciones Educativas: Programa
+de Apoyo para Escuelas Normales Rurales
+
 400,000,000
+
+A2M Universidad Autónoma Metropolitana
+
 350,000,000
+
+EROGACIONES PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES 1/
+
 4,000,000
 
 E032 Diseño y aplicación de políticas de equidad de género
 
 4,000,000
+
+CULTURA
+
 2,111,567,258
 
 Ampliaciones a Cultura (Anexo 39.1)
+1/ Monto incluido en el Anexo 13 Erogaciones para la Igualdad entre Mujeres y Hombres
 
 2,111,567,258
 
-CULTURA
-1/ Monto incluido en el Anexo 13 Erogaciones para la Igualdad entre Mujeres y Hombres
 ANEXO 39.1 AMPLIACIONES A CULTURA (pesos)
 
 Monto
@@ -53802,9 +53597,10 @@ Monto
 RAMO:13 MARINA
 
 1,000,000
+Erogaciones para la Igualdad entre Mujeres y Hombres 1/
+
 1,000,000
 
-Erogaciones para la Igualdad entre Mujeres y Hombres 1/
 Actividades de apoyo administrativo
 
 1,000,000
@@ -53813,12 +53609,11 @@ Actividades de apoyo administrativo
 ANEXO 42. AMPLIACIONES AL RAMO 15 DESARROLLO AGRARIO, TERRITORIAL Y URBANO (pesos)
 Monto
 RAMO 15: Desarrollo Agrario, Territorial y Urbano
-
-225,000,000
-
 Sector Central
 
+225,000,000
 75,000,000
+
 L001 Obligaciones jurídicas Ineludibles/1
 
 50,000,000
@@ -53843,9 +53638,10 @@ E003 Ordenamiento y regulación de la propiedad rural
 1_/ El importe corresponde a aportaciones al FIFONAFE.
 ANEXO 43. AMPLIACIONES AL RAMO 16 MEDIO AMBIENTE Y RECURSOS NATURALES (pesos)
 Monto
+RAMO 16: Medio Ambiente y Recursos Naturales
+
 1,100,000,000
 
-RAMO 16: Medio Ambiente y Recursos Naturales
 K134 Programas Hídricos Integrales
 
 1,100,000,000
