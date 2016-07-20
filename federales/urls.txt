@@ -44,7 +44,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/149.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/15_080616.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/151_110814.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/152.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/153_30dic15.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/153_180716.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/155.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/157.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/158.pdf
@@ -132,7 +132,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/28.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/29.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/3_070416.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/31_270416.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/31_180716.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/33.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/35.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/36.pdf
@@ -218,6 +218,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPIPP_170616.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH_301215.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFPSDMH.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFRA.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF_2009.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFRPE.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFSA.pdf
@@ -229,7 +230,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV_171215.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGAPPCEA_270516.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGCC_010616.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGCFD_010616.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG_270416.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG_180716.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA_041214.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIFE.pdf
@@ -244,6 +245,8 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII_070416.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSDMS_170616.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSEDMTP.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSVD.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNSP_170616.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGSPD.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGT_171215.pdf
@@ -270,6 +273,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LOPDC.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGR_241214.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LORCME_110814.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJFA.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LOUAAAN.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LPDB.pdf
