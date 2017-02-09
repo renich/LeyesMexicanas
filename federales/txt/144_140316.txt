@@ -11,11 +11,6 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 4 de agosto de 193
 TEXTO VIGENTE
 Última reforma publicada DOF 14-03-2016
 
-Nota de vigencia: Las reformas del párrafo segundo del artículo 1o.; el párrafo primero del artículo 20; la
-denominación del Capítulo XIV, los artículos 260, 261, 262, 263 y 264; y las adiciones de una fracción VII al artículo
-1o.; un párrafo quinto al artículo 2o.; un segundo párrafo al artículo 5o.; y los artículos 265, 266, 267, 268, 269, 270,
-271, 272 y 273, publicadas en el DOF 14-03-2016, entrarán en vigor el 14 de septiembre de 2016.
-
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría
 de Gobernación.
 El C. Presidente Constitucional Substituto de los Estados Unidos Mexicanos, se ha servido dirigirme la
@@ -49,6 +44,10 @@ VII. Sociedad por acciones simplificada.
 Cualquiera de las sociedades a que se refieren las fracciones I a V, y VII de este artículo podrá
 constituirse como sociedad de capital variable, observándose entonces las disposiciones del Capítulo VIII
 de esta Ley.
+Artículo 2o.- Las sociedades mercantiles inscritas en el Registro Público de Comercio, tienen
+personalidad jurídica distinta de la de los socios.
+Salvo el caso previsto en el artículo siguiente, no podrán ser declaradas nulas las sociedades inscritas
+en el Registro Público de Comercio.
 
 1 de 49
 
@@ -60,10 +59,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 2o.- Las sociedades mercantiles inscritas en el Registro Público de Comercio, tienen
-personalidad jurídica distinta de la de los socios.
-Salvo el caso previsto en el artículo siguiente, no podrán ser declaradas nulas las sociedades inscritas
-en el Registro Público de Comercio.
 Las sociedades no inscritas en el Registro Público de Comercio que se hayan exteriorizado como
 tales, frente a terceros consten o no en escritura pública, tendrán personalidad jurídica.
 Las relaciones internas de las sociedades irregulares se regirán por el contrato social respectivo, y, en
@@ -106,6 +101,14 @@ III.-
 
 Su razón social o denominación;
 
+IV.-
+
+Su duración, misma que podrá ser indefinida;
+
+V.-
+
+El importe del capital social;
+
 2 de 49
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
@@ -115,14 +118,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-IV.-
-
-Su duración, misma que podrá ser indefinida;
-
-V.-
-
-El importe del capital social;
 
 VI.-
 
@@ -175,6 +170,10 @@ Artículo 8-A.- El ejercicio social de las sociedades mercantiles coincidirá co
 salvo que las mismas queden legalmente constituidas con posterioridad al 1o. de enero del año que
 corresponda, en cuyo caso el primer ejercicio se iniciará en la fecha de su constitución y concluirá el 31
 de diciembre del mismo año.
+En los casos en que una sociedad entre en liquidación o sea fusionada, su ejercicio social terminará
+anticipadamente en la fecha en que entre en liquidación o se fusione y se considerará que habrá un
+ejercicio durante todo el tiempo en que la sociedad esté en liquidación debiendo coincidir éste último con
+lo que al efecto establece el artículo 11 del Código Fiscal de la Federación.
 
 3 de 49
 
@@ -186,10 +185,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-En los casos en que una sociedad entre en liquidación o sea fusionada, su ejercicio social terminará
-anticipadamente en la fecha en que entre en liquidación o se fusione y se considerará que habrá un
-ejercicio durante todo el tiempo en que la sociedad esté en liquidación debiendo coincidir éste último con
-lo que al efecto establece el artículo 11 del Código Fiscal de la Federación.
 Artículo 9o.- Toda sociedad podrá aumentar o disminuir su capital, observando, según su naturaleza,
 los requisitos que exige esta Ley.
 La reducción del capital social, efectuada mediante reembolso a los socios o liberación concedida a
@@ -226,6 +221,11 @@ Artículo 12.- A pesar de cualquier pacto en contrario, el socio que aporte a la
 créditos, responderá de la existencia y legitimidad de ellos, así como de la solvencia del deudor, en la
 época de la aportación, y de que, si se tratare de títulos de crédito, éstos no han sido objeto de la
 publicación que previene la Ley para los casos de pérdida de valores de tal especie.
+Artículo 13.- El nuevo socio de una sociedad ya constituida responde de todas las obligaciones
+sociales contraidas antes de su admisión, aun cuando se modifique la razón social o la denominación. El
+pacto en contrario no producirá efecto en perjuicio de terceros.
+Artículo 14.- El socio que se separe o fuere excluido de una sociedad, quedará responsable para con
+los terceros, de todas las operaciones pendientes en el momento de la separación o exclusión.
 
 4 de 49
 
@@ -237,11 +237,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 13.- El nuevo socio de una sociedad ya constituida responde de todas las obligaciones
-sociales contraidas antes de su admisión, aun cuando se modifique la razón social o la denominación. El
-pacto en contrario no producirá efecto en perjuicio de terceros.
-Artículo 14.- El socio que se separe o fuere excluido de una sociedad, quedará responsable para con
-los terceros, de todas las operaciones pendientes en el momento de la separación o exclusión.
 El pacto en contrario no producirá efecto en perjuicio de terceros.
 Artículo 15.- En los casos de exclusión o separación de un socio, excepto en las sociedades de
 capital variable, la sociedad podrá retener la parte de capital y utilidades de aquél hasta concluir las
@@ -277,6 +272,8 @@ socios y asambleas, que sean contrarios a lo que dispone el artículo anterior. 
 no obstante esta prohibición, apareciere que no se han hecho las separaciones de las utilidades para
 formar o reconstituir el fondo de reserva, los administradores responsables quedarán ilimitada y
 solidariamente obligados a entregar a la sociedad, una cantidad igual a la que hubiere debido separarse.
+Quedan a salvo los derechos de los administradores para repetir contra los socios por el valor de lo
+que entreguen cuando el fondo de reserva se haya repartido.
 
 5 de 49
 
@@ -288,8 +285,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Quedan a salvo los derechos de los administradores para repetir contra los socios por el valor de lo
-que entreguen cuando el fondo de reserva se haya repartido.
 No se entenderá como reparto la capitalización de la reserva legal, cuando esto se haga, pero en este
 caso deberá volverse a constituir a partir del ejercicio siguiente a aquel en que se capitalice, en los
 términos del artículo 20.
@@ -327,6 +322,9 @@ figuren los de todos, se le añadirán las palabras y compañía u otras equival
 Artículo 28.- Cualquiera persona extraña a la sociedad que haga figurar o permita que figure su
 nombre en la razón social, quedará sujeta a la responsabilidad ilimitada y solidaria que establece el
 artículo 25.
+Artículo 29.- El ingreso o separación de un socio no impedirá que continúe la misma razón social
+hasta entonces empleada; pero si el nombre del socio que se separe apareciere en la razón social,
+deberá agregarse a ésta la palabra “sucesores”.
 
 6 de 49
 
@@ -338,9 +336,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 29.- El ingreso o separación de un socio no impedirá que continúe la misma razón social
-hasta entonces empleada; pero si el nombre del socio que se separe apareciere en la razón social,
-deberá agregarse a ésta la palabra “sucesores”.
 Artículo 30.- Cuando la razón social de una compañía sea la que hubiere servido a otra cuyos
 derechos y obligaciones han sido transferidos a la nueva, se agregará a la razón social la palabra
 “sucesores”.
@@ -377,6 +372,8 @@ en la administración.
 Artículo 41.- El administrador sólo podrá enajenar y gravar los bienes inmuebles de la compañía, con
 el consentimiento de la mayoría de los socios, o en el caso de que dicha enajenación constituya el objeto
 social o sea una consecuencia natural de éste.
+Artículo 42.- El administrador podrá, bajo su responsabilidad, dar poderes para la gestión de ciertos y
+determinados negocios sociales, pero para delegar su encargo necesitará el acuerdo de la mayoría de
 
 7 de 49
 
@@ -388,8 +385,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 42.- El administrador podrá, bajo su responsabilidad, dar poderes para la gestión de ciertos y
-determinados negocios sociales, pero para delegar su encargo necesitará el acuerdo de la mayoría de
 los socios, teniendo los de la minoría el derecho de retirarse cuando la delegación recayere en persona
 extraña a la sociedad.
 Artículo 43.- La cuenta de administración se rendirá semestralmente, si no hubiere pacto sobre el
@@ -426,6 +421,7 @@ Artículo 50.- El contrato de sociedad podrá rescindirse respecto de un socio:
 I.- Por uso de la firma o del capital social para negocios propios;
 II.- Por infracción al pacto social;
 III.- Por infracción a las disposiciones legales que rijan el contrato social;
+IV.- Por comisión de actos fraudulentos o dolosos contra la compañía;
 
 8 de 49
 
@@ -437,7 +433,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-IV.- Por comisión de actos fraudulentos o dolosos contra la compañía;
 V.- Por quiebra, interdicción o inhabilitación para ejercer el comercio.
 
 CAPITULO III
@@ -477,6 +472,8 @@ Artículo 58.- Sociedad de responsabilidad limitada es la que se constituye entr
 solamente están obligados al pago de sus aportaciones, sin que las partes sociales puedan estar
 representadas por títulos negociables, a la orden o al portador, pues sólo serán cedibles en los casos y
 con los requisitos que establece la presente Ley.
+Artículo 59.- La sociedad de responsabilidad limitada existirá bajo una denominación o bajo una
+razón social que se formará con el nombre de uno o más socios. La denominación o la razón social irá
 
 9 de 49
 
@@ -488,8 +485,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 59.- La sociedad de responsabilidad limitada existirá bajo una denominación o bajo una
-razón social que se formará con el nombre de uno o más socios. La denominación o la razón social irá
 inmediatamente seguida de las palabras “Sociedad de Responsabilidad Limitada” o de su abreviatura “S.
 de R. L.” La omisión de este requisito sujetará a los socios a la responsabilidad que establece el artículo
 25.
@@ -527,6 +522,9 @@ Artículo 70.- Cuando así lo establezca el contrato social, los socios, además
 generales, tendrán la de hacer aportaciones suplementarias en proporción a sus primitivas aportaciones.
 Queda prohibido pactar en el contrato social prestaciones accesorias consistentes en trabajo o
 servicio personal de los socios.
+Artículo 71.- La amortización de las partes sociales no estará permitida sino en la medida y forma que
+establezca el contrato social vigente en el momento en que las partes afectadas hayan sido adquiridas
+por los socios. La amortización se llevará a efecto con las utilidades líquidas de las que conforme a la Ley
 
 10 de 49
 
@@ -538,9 +536,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 71.- La amortización de las partes sociales no estará permitida sino en la medida y forma que
-establezca el contrato social vigente en el momento en que las partes afectadas hayan sido adquiridas
-por los socios. La amortización se llevará a efecto con las utilidades líquidas de las que conforme a la Ley
 pueda disponerse para el pago de dividendos. En el caso de que el contrato social lo prevenga
 expresamente, podrán expedirse a favor de los socios cuyas partes sociales se hubieren amortizado,
 certificados de goce con los derechos que establece el artículo 137 para las acciones de goce.
@@ -578,6 +573,8 @@ no ser que el contrato social exija una mayoría más elevada. Salvo estipulaci�
 no se obtiene en la primera reunión, los socios serán convocados por segunda vez, tomándose las
 decisiones por mayoría de votos, cualquiera que sea la porción del capital representado.
 Artículo 78.- Las asambleas tendrán las facultades siguientes:
+I.- Discutir, aprobar, modificar o reprobar el balance general correspondiente al ejercicio social
+clausurado y de tomar con estos motivos, las medidas que juzguen oportunas.
 
 11 de 49
 
@@ -589,8 +586,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-I.- Discutir, aprobar, modificar o reprobar el balance general correspondiente al ejercicio social
-clausurado y de tomar con estos motivos, las medidas que juzguen oportunas.
 II.- Proceder al reparto de utilidades.
 III.- Nombrar y remover a los gerentes.
 IV.- Designar, en su caso, el Consejo de Vigilancia.
@@ -623,6 +618,8 @@ Artículo 83.- Salvo pacto en contrario, la modificación del contrato social se
 los socios que representen, por lo menos, las tres cuartas partes del capital social; con excepción de los
 casos de cambio de objeto o de las reglas que determinen un aumento en las obligaciones de los socios,
 en los cuales se requerirá la unanimidad de votos.
+Artículo 84.- Si el contrato social así lo establece, se procederá a la constitución de un Consejo de
+Vigilancia, formado de socios o de personas extrañas a la sociedad.
 
 12 de 49
 
@@ -634,8 +631,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 84.- Si el contrato social así lo establece, se procederá a la constitución de un Consejo de
-Vigilancia, formado de socios o de personas extrañas a la sociedad.
 Artículo 85.- En el contrato social podrá estipularse que los socios tengan derecho a percibir
 intereses no mayores del nueve por ciento anual sobre sus aportaciones, aun cuando no hubiere
 beneficios; pero solamente por el período de tiempo necesario para la ejecución de los trabajos que
@@ -671,6 +666,8 @@ I.- La parte exhibida del capital social;
 II.- El número, valor nominal y naturaleza de la acciones en que se divide el capital social, salvo lo
 dispuesto en el segundo párrafo de la fracción IV del artículo 125;
 III.- La forma y términos en que deba pagarse la parte insoluta de las acciones;
+IV.- La participación en las utilidades concedidas a los fundadores;
+V.- El nombramiento de uno o varios comisarios;
 
 13 de 49
 
@@ -682,8 +679,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-IV.- La participación en las utilidades concedidas a los fundadores;
-V.- El nombramiento de uno o varios comisarios;
 VI.- Las facultades de la Asamblea General y las condiciones para la validez de sus deliberaciones,
 así como para el ejercicio del derecho de voto, en cuanto las disposiciones legales puedan ser
 modificadas por la voluntad de los socios.
@@ -717,6 +712,7 @@ por la fracción V.
 Artículo 93.- Cada suscripción se recogerá por duplicado en ejemplares del programa, y contendrá:
 I.- El nombre, nacionalidad y domicilio del suscriptor;
 II.- El número, expresado con letras, de las acciones suscritas; su naturaleza y valor;
+III.- La forma y términos en que el suscriptor se obligue a pagar la primera exhibición;
 
 14 de 49
 
@@ -728,7 +724,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-III.- La forma y términos en que el suscriptor se obligue a pagar la primera exhibición;
 IV.- Cuando las acciones hayan de pagarse con bienes distintos del numerario, la determinación de
 éstos;
 V.- La forma de hacer la convocatoria para la Asamblea General Constitutiva y las reglas conforme a
@@ -810,6 +805,8 @@ idéntica a la de los canjeados.
 Artículo 110.- Son aplicables a los bonos de fundador, en cuanto sea compatible con su naturaleza,
 las disposiciones de los artículos 111, 124, 126 y 127.
 
+SECCION SEGUNDA
+
 16 de 49
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
@@ -820,7 +817,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-SECCION SEGUNDA
 De las acciones
 Artículo 111.- Las acciones en que se divide el capital social de una sociedad anónima estarán
 representadas por títulos nominativos que servirán para acreditar y transmitir la calidad y los derechos de
@@ -858,6 +854,8 @@ accionistas.
 Tratándose de reservas de valuación o de revaluación, éstas deberán estar apoyadas en avalúos
 efectuados por valuadores independientes autorizados por la Comisión Nacional de Valores, instituciones
 de crédito o corredores públicos titulados.
+Artículo 117.- La distribución de las utilidades y del capital social se hará en proporción al importe
+exhibido de las acciones.
 
 17 de 49
 
@@ -869,8 +867,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 117.- La distribución de las utilidades y del capital social se hará en proporción al importe
-exhibido de las acciones.
 Los suscriptores y adquirentes de acciones pagadoras serán responsables por el importe insoluto de
 la acción durante cinco años, contados desde la fecha del registro de traspaso; pero no podrá reclamarse
 el pago al enajenante sin que antes se haga exclusión en los bienes del adquirente.
@@ -910,6 +906,7 @@ Los duplicados del programa en que se hayan verificado las suscripciones, se can
 definitivos o certificados provisionales, dentro de un plazo que no excederá de dos meses, contado a
 partir de la fecha del contrato social. Los duplicados servirán como certificados provisionales o títulos
 definitivos, en los casos que esta Ley señala.
+Artículo 125.- Los títulos de las acciones y los certificados provisionales deberán expresar:
 
 18 de 49
 
@@ -921,7 +918,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 125.- Los títulos de las acciones y los certificados provisionales deberán expresar:
 I.- El nombre, nacionalidad y domicilio del accionista;
 II.- La denominación, domicilio y duración de la sociedad;
 III.- La fecha de la constitución de la sociedad y los datos de su inscripción en el Registro Público de
@@ -954,6 +950,9 @@ pertenezcan, expresándose los números, series, clases y demás particularidade
 II.- La indicación de las exhibiciones que se efectúen;
 III.- Las transmisiones que se realicen en los términos que prescribe el artículo 129;
 IV.- (Se deroga).
+Artículo 129.- La sociedad considerará como dueño de las acciones a quien aparezca inscrito como
+tal en el registro a que se refiere el artículo anterior. A este efecto, la sociedad deberá inscribir en dicho
+registro, a petición de cualquier titular, las transmisiones que se efectúen.
 
 19 de 49
 
@@ -965,9 +964,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 129.- La sociedad considerará como dueño de las acciones a quien aparezca inscrito como
-tal en el registro a que se refiere el artículo anterior. A este efecto, la sociedad deberá inscribir en dicho
-registro, a petición de cualquier titular, las transmisiones que se efectúen.
 Artículo 130.- En el contrato social podrá pactarse que la transmisión de las acciones sólo se haga
 con la autorización del consejo de administración. El consejo podrá negar la autorización designando un
 comprador de las acciones al precio corriente en el mercado.
@@ -1002,6 +998,9 @@ de un año, contado a partir de la fecha de la publicación a que se refiere la 
 acciones sorteadas y, en su caso, las acciones de goce. Si vencido este plazo no se hubieren presentado
 los tenedores de las acciones amortizadas a recoger su precio y las acciones de goce, aquél se aplicará
 a la sociedad y éstas quedarán anuladas.
+Artículo 137.- Las acciones de goce tendrán derecho a las utilidades líquidas, después de que se
+haya pagado a las acciones no reembolsables el dividendo señalado en el contrato social. El mismo
+contrato podrá también conceder el derecho de voto a las acciones de goce.
 
 20 de 49
 
@@ -1013,9 +1012,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 137.- Las acciones de goce tendrán derecho a las utilidades líquidas, después de que se
-haya pagado a las acciones no reembolsables el dividendo señalado en el contrato social. El mismo
-contrato podrá también conceder el derecho de voto a las acciones de goce.
 En caso de liquidación, las acciones de goce concurrirán con las no reembolsadas, en el reparto del
 haber social, después de que éstas hayan sido íntegramente cubiertas, salvo que en el contrato social se
 establezca un criterio diverso para el reparto del excedente.
@@ -1053,6 +1049,10 @@ derechos que correspondan a la minoría en la designación, pero en todo caso la
 un veinticinco por ciento del capital social nombrará cuando menos un consejero. Este porcentaje será
 del diez por ciento, cuando se trate de aquellas sociedades que tengan inscritas sus acciones en la Bolsa
 de Valores.
+Artículo 145.- La Asamblea General de Accionistas, el Consejo de Administración o el Administrador,
+podrá nombrar uno o varios Gerentes Generales o Especiales, sean o no accionistas. Los
+nombramientos de los Gerentes serán revocables en cualquier tiempo por el Administrador o Consejo de
+Administración o por la Asamblea General de Accionistas.
 
 21 de 49
 
@@ -1064,10 +1064,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 145.- La Asamblea General de Accionistas, el Consejo de Administración o el Administrador,
-podrá nombrar uno o varios Gerentes Generales o Especiales, sean o no accionistas. Los
-nombramientos de los Gerentes serán revocables en cualquier tiempo por el Administrador o Consejo de
-Administración o por la Asamblea General de Accionistas.
 Artículo 146.- Los Gerentes tendrán las facultades que expresamente se les confieran; no
 necesitarán de autorización especial del Administrador o Consejo de Administración para los actos que
 ejecuten y gozarán, dentro de la órbita de las atribuciones que se les hayan asignado, de las más amplias
@@ -1102,6 +1098,10 @@ los restantes desempeñaran la administración, si reúnen el quórum estatutari
 II.- Cuando se revoque el nombramiento del Administrador único, o cuando habiendo varios
 Administradores se revoque el nombramiento de todos o de un número tal que los restantes no reúnan el
 quórum estatutario, los Comisarios designarán con carácter provisional a los Administradores faltantes.
+Iguales reglas se observarán en los casos de que la falta de los Administradores sea ocasionada por
+muerte, impedimento u otra causa.
+Artículo 156.- El Administrador que en cualquiera operación tenga un interés opuesto al de la
+sociedad, deberá manifestarlo a los demás Administradores y abstenerse de toda deliberación y
 
 22 de 49
 
@@ -1113,10 +1113,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Iguales reglas se observarán en los casos de que la falta de los Administradores sea ocasionada por
-muerte, impedimento u otra causa.
-Artículo 156.- El Administrador que en cualquiera operación tenga un interés opuesto al de la
-sociedad, deberá manifestarlo a los demás Administradores y abstenerse de toda deliberación y
 resolución. El Administrador que contravenga esta disposición, será responsable de los daños y
 perjuicios que se causen a la sociedad.
 Artículo 157. Los Administradores tendrán la responsabilidad inherente a su mandato y la derivada de
@@ -1152,6 +1148,9 @@ podrán ejercitar directamente la acción de responsabilidad civil contra los Ad
 se satisfagan los requisitos siguientes:
 I.- Que la demanda comprenda el monto total de las responsabilidades en favor de la sociedad y no
 únicamente el interés personal de los promoventes, y
+II.- Que, en su caso, los actores no hayan aprobado la resolución tomada por la Asamblea General de
+Accionistas sobre no haber lugar a proceder contra los Administradores demandados.
+Los bienes que se obtengan como resultado de la reclamación serán percibidos por la sociedad.
 
 23 de 49
 
@@ -1162,10 +1161,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-II.- Que, en su caso, los actores no hayan aprobado la resolución tomada por la Asamblea General de
-Accionistas sobre no haber lugar a proceder contra los Administradores demandados.
-Los bienes que se obtengan como resultado de la reclamación serán percibidos por la sociedad.
 
 SECCION CUARTA
 De la vigilancia de la sociedad
@@ -1198,6 +1193,10 @@ la información presentada por los administradores.
 C) La opinión del comisario sobre si, como consecuencia de lo anterior, la información presentada por
 los administradores refleja en forma veraz y suficiente la situación financiera y los resultados de la
 sociedad.
+V.- Hacer que se inserten en la Orden del Día de las sesiones del Consejo de Administración y de las
+Asambleas de Accionistas, los puntos que crean pertinentes;
+VI.- Convocar a Asambleas ordinarias y extraordinarias de accionistas, en caso de omisión de los
+Administradores y en cualquier otro caso en que lo juzguen conveniente;
 
 24 de 49
 
@@ -1209,10 +1208,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-V.- Hacer que se inserten en la Orden del Día de las sesiones del Consejo de Administración y de las
-Asambleas de Accionistas, los puntos que crean pertinentes;
-VI.- Convocar a Asambleas ordinarias y extraordinarias de accionistas, en caso de omisión de los
-Administradores y en cualquier otro caso en que lo juzguen conveniente;
 VII.- Asistir, con voz, pero sin voto, a todas la sesiones del Consejo de Administración, a las cuales
 deberán ser citados;
 VIII.- Asistir, con voz pero sin voto, a las Asambleas de Accionistas, y
@@ -1248,6 +1243,10 @@ Artículo 171.- Son aplicables a los Comisarios las disposiciones contenidas en 
 
 SECCION QUINTA
 De la información financiera
+Artículo 172.- Las sociedades anónimas, bajo la responsabilidad de sus administradores, presentarán
+a la Asamblea de Accionistas, anualmente, un informe que incluya por lo menos:
+A) Un informe de los administradores sobre la marcha de la sociedad en el ejercicio, así como sobre
+las políticas seguidas por los administradores y, en su caso, sobre los principales proyectos existentes.
 
 25 de 49
 
@@ -1259,10 +1258,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 172.- Las sociedades anónimas, bajo la responsabilidad de sus administradores, presentarán
-a la Asamblea de Accionistas, anualmente, un informe que incluya por lo menos:
-A) Un informe de los administradores sobre la marcha de la sociedad en el ejercicio, así como sobre
-las políticas seguidas por los administradores y, en su caso, sobre los principales proyectos existentes.
 B) Un informe en que declaren y expliquen las principales políticas y criterios contables y de
 información seguidos en la preparación de la información financiera.
 C) Un estado que muestre la situación financiera de la sociedad a la fecha de cierre del ejercicio.
@@ -1296,6 +1291,12 @@ Artículo 178.- La Asamblea General de Accionistas es el Organo Supremo de la So
 acordar y ratificar todos los actos y operaciones de ésta y sus resoluciones serán cumplidas por la
 persona que ella misma designe, o a falta de designación, por el Administrador o por el Consejo de
 Administración.
+En los estatutos se podrá prever que las resoluciones tomadas fuera de asamblea, por unanimidad de
+los accionistas que representen la totalidad de las acciones con derecho a voto o de la categoría especial
+de acciones de que se trate, en su caso, tendrán, para todos los efectos legales, la misma validez que si
+hubieren sido adoptadas reunidos en asamblea general o especial, respectivamente, siempre que se
+confirmen por escrito. En lo no previsto en los estatutos serán aplicables en lo conducente, las
+disposiciones de esta ley.
 
 26 de 49
 
@@ -1307,12 +1308,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-En los estatutos se podrá prever que las resoluciones tomadas fuera de asamblea, por unanimidad de
-los accionistas que representen la totalidad de las acciones con derecho a voto o de la categoría especial
-de acciones de que se trate, en su caso, tendrán, para todos los efectos legales, la misma validez que si
-hubieren sido adoptadas reunidos en asamblea general o especial, respectivamente, siempre que se
-confirmen por escrito. En lo no previsto en los estatutos serán aplicables en lo conducente, las
-disposiciones de esta ley.
 Artículo 179.- Las Asambleas Generales de Accionistas son ordinarias y extraordinarias. Unas y otras
 se reunirán en el domicilio social, y sin este requisito serán nulas, salvo caso fortuito o de fuerza mayor.
 Artículo 180.- Son asambleas ordinarias, las que se reúnen para tratar de cualquier asunto que no
@@ -1340,6 +1335,9 @@ IX.- Amortización por la sociedad de sus propias acciones y emisión de accione
 X.- Emisión de bonos;
 XI.- Cualquiera otra modificación del contrato social, y
 XII.- Los demás asuntos para los que la Ley o el contrato social exija un quórum especial.
+Estas asambleas podrán reunirse en cualquier tiempo.
+Artículo 183.- La convocatoria para las asambleas deberá hacerse por el Administrador o el Consejo
+de Administración, o por los Comisarios, salvo lo dispuesto en los artículos 168, 184 y 185.
 
 27 de 49
 
@@ -1351,9 +1349,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Estas asambleas podrán reunirse en cualquier tiempo.
-Artículo 183.- La convocatoria para las asambleas deberá hacerse por el Administrador o el Consejo
-de Administración, o por los Comisarios, salvo lo dispuesto en los artículos 168, 184 y 185.
 Artículo 184.- Los accionistas que representen por lo menos el treinta y tres por ciento del capital
 social, podrán pedir por escrito, en cualquier tiempo, al Administrador o Consejo de Administración o a los
 Comisarios, la Convocatoria de una Asamblea General de Accionistas, para tratar de los asuntos que
@@ -1391,6 +1386,8 @@ resoluciones se tomarán por el voto de las acciones que representen la mitad de
 Artículo 191.- Si la Asamblea no pudiere celebrarse el día señalado para su reunión, se hará una
 segunda convocatoria con expresión de esta circunstancia y en la junta se resolverá sobre los asuntos
 indicados en la Orden del Día, cualquiera que sea el número de acciones representadas.
+Tratándose de Asambleas Extraordinarias, las decisiones se tomarán siempre por el voto favorable
+del número de acciones que representen, por lo menos, la mitad del capital social.
 
 28 de 49
 
@@ -1402,8 +1399,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Tratándose de Asambleas Extraordinarias, las decisiones se tomarán siempre por el voto favorable
-del número de acciones que representen, por lo menos, la mitad del capital social.
 Artículo 192.- Los accionistas podrán hacerse representar en las Asambleas por mandatarios, ya sea
 que pertenezcan o no a la sociedad. La representación deberá conferirse en la forma que prescriban los
 estatutos y a falta de estipulación, por escrito.
@@ -1439,6 +1434,9 @@ Artículo 198. Sin perjuicio de lo que dispongan las leyes especiales, los accio
 anónimas podrán convenir entre ellos:
 I. Derechos y obligaciones que establezcan opciones de compra o venta de las acciones
 representativas del capital social de la sociedad, tales como:
+a) Que uno o varios accionistas solamente puedan enajenar la totalidad o parte de su tenencia
+accionaria, cuando el adquirente se obligue también a adquirir una proporción o la totalidad de las
+acciones de otro u otros accionistas, en iguales condiciones;
 
 29 de 49
 
@@ -1450,9 +1448,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-a) Que uno o varios accionistas solamente puedan enajenar la totalidad o parte de su tenencia
-accionaria, cuando el adquirente se obligue también a adquirir una proporción o la totalidad de las
-acciones de otro u otros accionistas, en iguales condiciones;
 b) Que uno o varios accionistas puedan exigir a otro socio la enajenación de la totalidad o parte de su
 tenencia accionaria, cuando aquéllos acepten una oferta de adquisición, en iguales condiciones;
 c) Que uno o varios accionistas tengan derecho a enajenar o adquirir de otro accionista, quien deberá
@@ -1487,6 +1482,8 @@ III.- Que la demanda señale la cláusula del contrato social o el precepto lega
 de violación.
 No podrá formularse oposición judicial contra las resoluciones relativas a la responsabilidad de los
 Administradores o de los Comisarios.
+Artículo 202.- La ejecución de las resoluciones impugnadas podrá suspenderse por el Juez, siempre
+que los, actores dieren fianza bastante para responder de los daños y perjuicios que pudieren causarse a
 
 30 de 49
 
@@ -1498,8 +1495,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 202.- La ejecución de las resoluciones impugnadas podrá suspenderse por el Juez, siempre
-que los, actores dieren fianza bastante para responder de los daños y perjuicios que pudieren causarse a
 la sociedad, por la inejecución de dichas resoluciones, en caso de que la sentencia declare infundada la
 oposición.
 Artículo 203.- La sentencia que se dicte con motivo de la oposición surtirá efectos respecto de todos
@@ -1538,6 +1533,9 @@ CAPITULO VII
 De la sociedad cooperativa
 Artículo 212.- Las sociedades cooperativas se regirán por su legislación especial.
 
+CAPITULO VIII
+De las sociedades de capital variable
+
 31 de 49
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
@@ -1548,8 +1546,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-CAPITULO VIII
-De las sociedades de capital variable
 Artículo 213.- En las sociedades de capital variable el capital social será susceptible de aumento por
 aportaciones posteriores de los socios o por la admisión de nuevos socios, y de disminución de dicho
 capital por retiro parcial o total de las aportaciones, sin más formalidades que las establecidas por este
@@ -1588,6 +1584,8 @@ CAPITULO IX
 De la fusión, transformación, y escisión de las sociedades
 Artículo 222.- La fusión de varias sociedades deberá ser decidida por cada una de ellas, en la forma
 y términos que correspondan según su naturaleza.
+Artículo 223. Los acuerdos sobre fusión se inscribirán en el Registro Público de Comercio y se
+publicarán en el sistema electrónico establecido por la Secretaría de Economía, de la misma manera,
 
 32 de 49
 
@@ -1599,8 +1597,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 223. Los acuerdos sobre fusión se inscribirán en el Registro Público de Comercio y se
-publicarán en el sistema electrónico establecido por la Secretaría de Economía, de la misma manera,
 cada sociedad deberá publicar su último balance, y aquélla o aquéllas que dejen de existir, deberán
 publicar, además, el sistema establecido para la extinción de su pasivo.
 Artículo 224.- La fusión no podrá tener efecto sino tres meses después de haberse efectuado la
@@ -1635,6 +1631,8 @@ II.- Las acciones o partes sociales de la sociedad que se escinda deberán estar
 III.- Cada uno de los socios de la sociedad escindente tendrá inicialmente una proporción del capital
 social de las escindidas, igual a la de que sea titular en la escindente;
 IV.- La resolución que apruebe la escisión deberá contener:
+a) La descripción de la forma, plazos y mecanismos en que los diversos conceptos de activo, pasivo y
+capital social serán transferidos;
 
 33 de 49
 
@@ -1646,8 +1644,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-a) La descripción de la forma, plazos y mecanismos en que los diversos conceptos de activo, pasivo y
-capital social serán transferidos;
 b) La descripción de las partes del activo, del pasivo y del capital social que correspondan a cada
 sociedad escindida, y en su caso a la escindente, con detalle suficiente para permitir la identificación de
 éstas;
@@ -1688,6 +1684,7 @@ X.- No se aplicará a las sociedades escindidas lo previsto en el artículo 141 
 
 CAPITULO X
 De la disolución de las sociedades
+Artículo 229.- Las sociedades se disuelven:
 
 34 de 49
 
@@ -1699,7 +1696,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 229.- Las sociedades se disuelven:
 I.- Por expiración del término fijado en el contrato social;
 II.- Por imposibilidad de seguir realizando el objeto principal de la sociedad o por quedar éste
 consumado;
@@ -1734,6 +1730,9 @@ responsables por las operaciones efectuadas.
 CAPITULO XI
 De la liquidación de las sociedades
 Artículo 234.- Disuelta la sociedad, se pondrá en liquidación.
+Artículo 235.- La liquidación estará a cargo de uno o más liquidadores, quienes serán representantes
+legales de la sociedad y responderán por los actos que ejecuten excediéndose de los límites de su
+encargo.
 
 35 de 49
 
@@ -1745,9 +1744,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 235.- La liquidación estará a cargo de uno o más liquidadores, quienes serán representantes
-legales de la sociedad y responderán por los actos que ejecuten excediéndose de los límites de su
-encargo.
 Artículo 236.- A falta de disposición del contrato social, el nombramiento de los liquidadores se hará
 por acuerdo de los socios, tomado en la proporción y forma que esta Ley señala, según la naturaleza de
 la sociedad, para el acuerdo sobre disolución. La designación de liquidadores deberá hacerse en el
@@ -1782,6 +1778,8 @@ los socios, en la forma que corresponda, según la naturaleza de la sociedad.
 El balance final, una vez aprobado, se depositará en el Registro Público de Comercio;
 VI.- Obtener del Registro Público de Comercio la cancelación de la inscripción del contrato social, una
 vez concluida la liquidación.
+Artículo 243.- Ningún socio podrá exigir de los liquidadores la entrega total del haber que le
+corresponda; pero sí la parcial que sea compatible con los intereses de los acreedores de la sociedad,
 
 36 de 49
 
@@ -1793,8 +1791,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 243.- Ningún socio podrá exigir de los liquidadores la entrega total del haber que le
-corresponda; pero sí la parcial que sea compatible con los intereses de los acreedores de la sociedad,
 mientras no estén extinguidos sus créditos pasivos, o se haya depositado su importe si se presentare
 inconveniente para hacer su pago.
 El acuerdo sobre distribución parcial deberá publicarse en el sistema electrónico establecido por la
@@ -1831,6 +1827,9 @@ liquidadores procederán a la distribución del remanente entre los socios con s
 reglas:
 I.- En el balance final se indicará la parte que a cada socio corresponda en el haber social;
 II. Dicho balance se publicará en el sistema electrónico establecido por la Secretaría de Economía.
+El mismo balance quedará, por igual término, así como los papeles y libros de la sociedad, a
+disposición de los accionistas, quienes gozarán de un plazo de quince días a partir de la última
+publicación, para presentar sus reclamaciones a los liquidadores.
 
 37 de 49
 
@@ -1842,9 +1841,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-El mismo balance quedará, por igual término, así como los papeles y libros de la sociedad, a
-disposición de los accionistas, quienes gozarán de un plazo de quince días a partir de la última
-publicación, para presentar sus reclamaciones a los liquidadores.
 III.- Transcurrido dicho plazo, los liquidadores convocarán a una Asamblea General de Accionistas
 para que apruebe en definitiva el balance. Esta Asamblea será presidida por uno de los liquidadores.
 Artículo 248.- Aprobado el balance general, los liquidadores procederán a hacer a los accionistas los
@@ -1881,6 +1877,8 @@ Artículo 254.- El contrato de asociación en participación debe constar por es
 registro.
 Artículo 255.- En los contratos de asociación en participación se fijarán los términos, proporciones de
 interés y demás condiciones en que deban realizarse.
+Artículo 256.- El asociante obra en nombre propio y no habrá relación jurídica entre los terceros y los
+asociados.
 
 38 de 49
 
@@ -1892,8 +1890,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 256.- El asociante obra en nombre propio y no habrá relación jurídica entre los terceros y los
-asociados.
 Artículo 257.- Respecto a terceros, los bienes aportados pertenecen en propiedad al asociante, a no
 ser que por la naturaleza de la aportación fuere necesaria alguna otra formalidad, o que se estipule lo
 contrario y se inscriba la cláusula relativa en el Registro Público de Comercio del lugar donde el asociante
@@ -1935,6 +1931,12 @@ I.
 
 Que haya uno o más accionistas;
 
+II.
+
+Que el o los accionistas externen su consentimiento para constituir una sociedad por
+acciones simplificada bajo los estatutos sociales que la Secretaría de Economía ponga a
+disposición mediante el sistema electrónico de constitución;
+
 39 de 49
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
@@ -1944,12 +1946,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-II.
-
-Que el o los accionistas externen su consentimiento para constituir una sociedad por
-acciones simplificada bajo los estatutos sociales que la Secretaría de Economía ponga a
-disposición mediante el sistema electrónico de constitución;
 
 III.
 
@@ -2000,6 +1996,13 @@ las sanciones administrativas o penales a que hubiere lugar, y
 IX. Las demás que se establezcan en las reglas del sistema electrónico de constitución.
 Artículo 264.- Los estatutos sociales a que se refiere el artículo anterior únicamente deberán contener
 los siguientes requisitos:
+I.
+
+Denominación;
+
+II.
+
+Nombre de los accionistas;
 
 40 de 49
 
@@ -2010,14 +2013,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-I.
-
-Denominación;
-
-II.
-
-Nombre de los accionistas;
 
 III.
 
@@ -2059,6 +2054,8 @@ Cuando la sociedad por acciones simplificada esté integrada por un solo accioni
 órgano supremo de la sociedad.
 Artículo 267.- La representación de la sociedad por acciones simplificada estará a cargo de un
 administrador, función que desempeñará un accionista.
+Cuando la sociedad por acciones simplificada esté integrada por un solo accionista, éste ejercerá las
+atribuciones de representación y tendrá el cargo de administrador.
 
 41 de 49
 
@@ -2070,8 +2067,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Cuando la sociedad por acciones simplificada esté integrada por un solo accionista, éste ejercerá las
-atribuciones de representación y tendrá el cargo de administrador.
 Se entiende que el administrador, por su sola designación, podrá celebrar o ejecutar todos los actos y
 contratos comprendidos en el objeto social o que se relacionen directamente con la existencia y el
 funcionamiento de la sociedad.
@@ -2121,6 +2116,8 @@ mercantil, conforme a las disposiciones de esta Ley.
 Artículo 270.- Salvo pacto en contrario, deberán privilegiarse los mecanismos alternativos de solución
 de controversias previstos en el Código de Comercio para sustanciar controversias que surjan entre los
 accionistas, así como de éstos con terceros.
+Artículo 271.- Salvo pacto en contrario, las utilidades se distribuirán en proporción a las acciones de
+cada accionista.
 
 42 de 49
 
@@ -2132,8 +2129,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 271.- Salvo pacto en contrario, las utilidades se distribuirán en proporción a las acciones de
-cada accionista.
 Artículo 272.- El administrador publicará en el sistema electrónico de la Secretaría de Economía, el
 informe anual sobre la situación financiera de la sociedad conforme a las reglas que emita la Secretaría
 de Economía de acuerdo con lo dispuesto en el artículo 263 de esta Ley.
