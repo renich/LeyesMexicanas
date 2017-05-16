@@ -38,7 +38,7 @@ while read url; do
 
     cd ../txt
     echo -n 'Convirtiendo ' ${pdf} '...'
-    pdftotext -eol unix ../pdf/${pdf} ../txt/${pdf%%.pdf}.txt
+    pdftotext -eol unix -enc UTF-8 -nopgbrk ../pdf/${pdf} ../txt/${pdf%%.pdf}.txt
 
     if (( $? == 0 )); then
         echo 'listo!'
