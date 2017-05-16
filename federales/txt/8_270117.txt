@@ -11,9 +11,6 @@ Nuevo Código Publicado en el Diario Oficial de la Federación el 31 de diciembr
 TEXTO VIGENTE
 Última reforma publicada DOF 27-01-2017
 
-Nota de vigencia: La adición de los párrafos cuarto y quinto del artículo 29-A, publicada en el DOF 30-11-2016,
-entrará en vigor el 1 de mayo de 2017.
-
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la
 República.
 JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus
@@ -44,6 +41,13 @@ Impuestos son las contribuciones establecidas en ley que deben pagar las persona
 morales que se encuentran en la situación jurídica o de hecho prevista por la misma y que sean
 distintas de las señaladas en las fracciones II, III y IV de este Artículo.
 
+II.
+
+Aportaciones de seguridad social son las contribuciones establecidas en ley a cargo de personas
+que son sustituidas por el Estado en el cumplimiento de obligaciones fijadas por la ley en materia
+de seguridad social o a las personas que se beneficien en forma especial por servicios de
+seguridad social proporcionados por el mismo Estado.
+
 1 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -53,13 +57,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-II.
-
-Aportaciones de seguridad social son las contribuciones establecidas en ley a cargo de personas
-que son sustituidas por el Estado en el cumplimiento de obligaciones fijadas por la ley en materia
-de seguridad social o a las personas que se beneficien en forma especial por servicios de
-seguridad social proporcionados por el mismo Estado.
 
 III.
 
@@ -100,6 +97,11 @@ y el Estado tenga derecho a percibir por cuenta ajena.
 La recaudación proveniente de todos los ingresos de la Federación, aun cuando se destinen a un fin
 específico, se hará por la Secretaría de Hacienda y Crédito Público o por las oficinas que dicha
 Secretaría autorice.
+Para efectos del párrafo anterior, las autoridades que remitan créditos fiscales al Servicio de
+Administración Tributaria para su cobro, deberán cumplir con los requisitos que mediante reglas de
+carácter general establezca dicho órgano.
+Artículo 4o.-A.- Los impuestos y sus accesorios exigibles por los Estados extranjeros cuya
+recaudación y cobro sea solicitado a México, de conformidad con los tratados internacionales sobre
 
 2 de 274
 
@@ -111,11 +113,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Para efectos del párrafo anterior, las autoridades que remitan créditos fiscales al Servicio de
-Administración Tributaria para su cobro, deberán cumplir con los requisitos que mediante reglas de
-carácter general establezca dicho órgano.
-Artículo 4o.-A.- Los impuestos y sus accesorios exigibles por los Estados extranjeros cuya
-recaudación y cobro sea solicitado a México, de conformidad con los tratados internacionales sobre
 asistencia mutua en el cobro de los que México sea parte, les serán aplicables las disposiciones de este
 Código referentes a la notificación y ejecución de los créditos fiscales.
 La Secretaría de Hacienda y Crédito Público o las oficinas que ésta autorice recaudarán, de
@@ -160,6 +157,10 @@ enterar una cantidad equivalente a la que debió haber retenido.
 Cuando los retenedores deban hacer un pago en bienes, solamente harán la entrega del bien de que
 se trate si quien debe recibirlo provee los fondos necesarios para efectuar la retención en moneda
 nacional.
+Quien haga pago de créditos fiscales deberá obtener de la oficina recaudadora, la forma oficial, el
+recibo oficial o la forma valorada, expedidos y controlados exclusivamente por la Secretaría de Hacienda
+y Crédito Público o la documentación que en las disposiciones respectivas se establezca en la que conste
+la impresión original de la máquina registradora. Tratándose de los pagos efectuados en las oficinas de
 
 3 de 274
 
@@ -171,10 +172,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Quien haga pago de créditos fiscales deberá obtener de la oficina recaudadora, la forma oficial, el
-recibo oficial o la forma valorada, expedidos y controlados exclusivamente por la Secretaría de Hacienda
-y Crédito Público o la documentación que en las disposiciones respectivas se establezca en la que conste
-la impresión original de la máquina registradora. Tratándose de los pagos efectuados en las oficinas de
 las instituciones de crédito, se deberá obtener la impresión de la máquina registradora, el sello, la
 constancia o el acuse de recibo electrónico con sello digital.
 Cuando las disposiciones fiscales establezcan opciones a los contribuyentes para el cumplimiento de
@@ -225,6 +222,12 @@ II.
 Las personas morales que hayan establecido en México la administración principal del negocio o
 su sede de dirección efectiva.
 
+Salvo prueba en contrario, se presume que las personas físicas de nacionalidad mexicana, son
+residentes en territorio nacional.
+Las personas físicas o morales que dejen de ser residentes en México de conformidad con este
+Código, deberán presentar un aviso ante las autoridades fiscales, a más tardar dentro de los 15 días
+inmediatos anteriores a aquél en el que suceda el cambio de residencia fiscal.
+
 4 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -235,11 +238,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Salvo prueba en contrario, se presume que las personas físicas de nacionalidad mexicana, son
-residentes en territorio nacional.
-Las personas físicas o morales que dejen de ser residentes en México de conformidad con este
-Código, deberán presentar un aviso ante las autoridades fiscales, a más tardar dentro de los 15 días
-inmediatos anteriores a aquél en el que suceda el cambio de residencia fiscal.
 Artículo 10.- Se considera domicilio fiscal:
 I.
 
@@ -297,6 +295,13 @@ II.
 
 (Se deroga).
 
+En los casos en que una sociedad entre en liquidación, sea fusionada o se escinda, siempre que la
+sociedad escindente desaparezca, el ejercicio fiscal terminará anticipadamente en la fecha en que entre
+en liquidación, sea fusionada o se escinda, respectivamente. En el primer caso, se considerará que habrá
+un ejercicio por todo el tiempo en que la sociedad esté en liquidación.
+Cuando las leyes fiscales establezcan que las contribuciones se calculen por mes, se entenderá que
+corresponde al mes de calendario.
+
 5 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -307,12 +312,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-En los casos en que una sociedad entre en liquidación, sea fusionada o se escinda, siempre que la
-sociedad escindente desaparezca, el ejercicio fiscal terminará anticipadamente en la fecha en que entre
-en liquidación, sea fusionada o se escinda, respectivamente. En el primer caso, se considerará que habrá
-un ejercicio por todo el tiempo en que la sociedad esté en liquidación.
-Cuando las leyes fiscales establezcan que las contribuciones se calculen por mes, se entenderá que
-corresponde al mes de calendario.
 Artículo 12. En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de
 enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en
 conmemoración del 21 de marzo; el 1o. y 5 de mayo; el 16 de septiembre; el tercer lunes de noviembre
@@ -350,17 +349,6 @@ contribuciones en días u horas inhábiles. También se podrá continuar en día
 diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de
 contabilidad o de bienes del particular.
 Artículo 14.- Se entiende por enajenación de bienes:
-
-6 de 274
-
-CÓDIGO FISCAL DE LA FEDERACIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 27-01-2017
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 I.
 
 Toda transmisión de propiedad, aun en la que el enajenante se reserve el dominio del bien
@@ -373,6 +361,16 @@ Las adjudicaciones, aun cuando se realicen a favor del acreedor.
 III.
 
 La aportación a una sociedad o asociación.
+
+6 de 274
+
+CÓDIGO FISCAL DE LA FEDERACIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 27-01-2017
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 IV. La que se realiza mediante el arrendamiento financiero.
 V.
@@ -421,6 +419,11 @@ contrato, excepto cuando se transmitan a través de factoraje con mandato de cob
 cobranza delegada así como en el caso de transmisión de derechos de crédito a cargo de
 personas físicas, en los que se considerará que existe enajenación hasta el momento en que se
 cobre los créditos correspondientes.
+IX. La que se realice mediante fusión o escisión de sociedades, excepto en los supuestos a que se
+refiere el artículo 14-B de este Código.
+Se entiende que se efectúan enajenaciones a plazo con pago diferido o en parcialidades, cuando se
+efectúen con clientes que sean público en general, se difiera más del 35% del precio para después del
+sexto mes y el plazo pactado exceda de doce meses. Se consideran operaciones efectuadas con el
 
 7 de 274
 
@@ -432,11 +435,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-IX. La que se realice mediante fusión o escisión de sociedades, excepto en los supuestos a que se
-refiere el artículo 14-B de este Código.
-Se entiende que se efectúan enajenaciones a plazo con pago diferido o en parcialidades, cuando se
-efectúen con clientes que sean público en general, se difiera más del 35% del precio para después del
-sexto mes y el plazo pactado exceda de doce meses. Se consideran operaciones efectuadas con el
 público en general cuando por las mismas se expidan los comprobantes fiscales simplificados a que se
 refiere este Código.
 Se considera que la enajenación se efectúa en territorio nacional, entre otros casos, si el bien se
@@ -490,6 +488,11 @@ por las leyes fiscales les correspondan a la sociedad o sociedades fusionadas,
 correspondientes al ejercicio que terminó por fusión.
 
 En escisión, siempre que se cumplan los requisitos siguientes:
+a)
+
+Los accionistas propietarios de por lo menos el 51% de las acciones con derecho a voto de
+la sociedad escindente y de las escindidas, sean los mismos durante un período de tres
+años contados a partir del año inmediato anterior a la fecha en la que se realice la escisión.
 
 8 de 274
 
@@ -501,11 +504,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-a)
-
-Los accionistas propietarios de por lo menos el 51% de las acciones con derecho a voto de
-la sociedad escindente y de las escindidas, sean los mismos durante un período de tres
-años contados a partir del año inmediato anterior a la fecha en la que se realice la escisión.
 Para los efectos del párrafo anterior, no se computarán las acciones que se consideran
 colocadas entre el gran público inversionista de conformidad con las reglas que al efecto
 expida el Servicio de Administración Tributaria y siempre que dichas acciones hayan sido
@@ -521,7 +519,6 @@ las acciones con derecho a voto o los socios de por lo menos el 51% de las parte
 antes señaladas, según corresponda, de la sociedad escindente, deberán mantener la
 misma proporción en el capital de las escindidas que tenían en la escindente antes de la
 escisión, así como en el de la sociedad escindente, cuando ésta subsista.
-
 b)
 
 Que cuando desaparezca una sociedad con motivo de escisión, la sociedad escindente
@@ -549,6 +546,10 @@ sociedad que subsista, la que surja con motivo de la fusión o la escindida que 
 perjuicio de lo establecido en este artículo, enterar los impuestos correspondientes o, en su caso, tendrá
 derecho a solicitar la devolución o a compensar los saldos a favor de la sociedad que desaparezca,
 siempre que se cumplan los requisitos que se establezcan en las disposiciones fiscales.
+En las declaraciones del ejercicio correspondientes a la sociedad fusionada o a la sociedad
+escindente que desaparezcan, se deberán considerar todos los ingresos acumulables y las deducciones
+autorizadas; el importe total de los actos o actividades gravados y exentos y de los acreditamientos; el
+valor de todos sus activos o deudas, según corresponda, que la misma tuvo desde el inicio del ejercicio y
 
 9 de 274
 
@@ -560,10 +561,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-En las declaraciones del ejercicio correspondientes a la sociedad fusionada o a la sociedad
-escindente que desaparezcan, se deberán considerar todos los ingresos acumulables y las deducciones
-autorizadas; el importe total de los actos o actividades gravados y exentos y de los acreditamientos; el
-valor de todos sus activos o deudas, según corresponda, que la misma tuvo desde el inicio del ejercicio y
 hasta el día de su desaparición. En este caso, se considerará como fecha de terminación del ejercicio
 aquélla que corresponda a la fusión o a la escisión.
 Lo dispuesto en este artículo, sólo se aplicará tratándose de fusión o escisión de sociedades
@@ -603,6 +600,9 @@ También se consideran regalías los pagos efectuados por el derecho a recibir p
 imágenes visuales, sonidos o ambos, o bien los pagos efectuados por el derecho a permitir el acceso al
 público a dichas imágenes o sonidos, cuando en ambos casos se transmitan por vía satélite, cable, fibra
 óptica u otros medios similares.
+Los pagos por concepto de asistencia técnica no se considerarán como regalías. Se entenderá por
+asistencia técnica la prestación de servicios personales independientes por los que el prestador se obliga
+a proporcionar conocimientos no patentables, que no impliquen la transmisión de información confidencial
 
 10 de 274
 
@@ -614,9 +614,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Los pagos por concepto de asistencia técnica no se considerarán como regalías. Se entenderá por
-asistencia técnica la prestación de servicios personales independientes por los que el prestador se obliga
-a proporcionar conocimientos no patentables, que no impliquen la transmisión de información confidencial
 relativa a experiencias industriales, comerciales o científicas, obligándose con el prestatario a intervenir
 en la aplicación de dichos conocimientos.
 Artículo 15-C. Para los efectos de este Código, se entenderá como entidad financiera a las
@@ -669,6 +666,8 @@ I.
 Aquéllas en las que una de las partes adquiere el derecho o la obligación de adquirir o enajenar a
 futuro mercancías, acciones, títulos, valores, divisas u otros bienes fungibles que cotizan en
 mercados reconocidos, a un precio establecido al celebrarlas, o a recibir o a pagar la diferencia
+entre dicho precio y el que tengan esos bienes al momento del vencimiento de la operación
+derivada, o bien el derecho o la obligación a celebrar una de estas operaciones.
 
 11 de 274
 
@@ -680,8 +679,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-entre dicho precio y el que tengan esos bienes al momento del vencimiento de la operación
-derivada, o bien el derecho o la obligación a celebrar una de estas operaciones.
 II.
 
 Aquéllas referidas a un indicador o a una canasta de indicadores, de índices, precios, tasas de
@@ -790,6 +787,9 @@ artículo, se considerarán, inclusive, las fracciones de peso; no obstante lo a
 ajustará para que las cantidades de 0.01 a 5.00 pesos en exceso de una decena, se ajusten a la decena
 inmediata anterior y de 5.01 a 9.99 pesos en exceso de una decena, se ajusten a la decena inmediata
 superior.
+El Servicio de Administración Tributaria realizará las operaciones aritméticas previstas en este artículo
+y publicará el factor de actualización así como las cantidades actualizadas en el Diario Oficial de la
+Federación.
 
 13 de 274
 
@@ -801,9 +801,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-El Servicio de Administración Tributaria realizará las operaciones aritméticas previstas en este artículo
-y publicará el factor de actualización así como las cantidades actualizadas en el Diario Oficial de la
-Federación.
 Cuando de conformidad con las disposiciones fiscales se deban realizar operaciones aritméticas, con
 el fin de determinar factores o proporciones, las mismas deberán calcularse hasta el diezmilésimo.
 Artículo 17-B.- Para los efectos de las disposiciones fiscales, se entenderá por asociación en
@@ -844,6 +841,8 @@ caso, la revocación correspondiente.
 En los documentos digitales, una firma electrónica avanzada amparada por un certificado vigente
 sustituirá a la firma autógrafa del firmante, garantizará la integridad del documento y producirá los mismos
 efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
+Se entiende por documento digital todo mensaje de datos que contiene información o escritura
+generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología.
 
 14 de 274
 
@@ -855,8 +854,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Se entiende por documento digital todo mensaje de datos que contiene información o escritura
-generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología.
 Los datos de creación de firmas electrónicas avanzadas podrán ser tramitados por los contribuyentes
 ante el Servicio de Administración Tributaria o cualquier prestador de servicios de certificación autorizado
 por el Banco de México.
@@ -900,6 +897,9 @@ recibirán el acuse de recibo que contenga el sello digital. El sello digital es
 acredita que un documento digital fue recibido por la autoridad correspondiente y estará sujeto a la misma
 regulación aplicable al uso de una firma electrónica avanzada. En este caso, el sello digital identificará a
 la dependencia que recibió el documento y se presumirá, salvo prueba en contrario, que el documento
+digital fue recibido en la hora y fecha que se consignen en el acuse de recibo mencionado. El Servicio de
+Administración Tributaria establecerá los medios para que los contribuyentes puedan verificar la
+autenticidad de los acuses de recibo con sello digital.
 
 15 de 274
 
@@ -911,9 +911,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-digital fue recibido en la hora y fecha que se consignen en el acuse de recibo mencionado. El Servicio de
-Administración Tributaria establecerá los medios para que los contribuyentes puedan verificar la
-autenticidad de los acuses de recibo con sello digital.
 Artículo 17-F.- El Servicio de Administración Tributaria podrá proporcionar los siguientes servicios de
 certificación de firmas electrónicas avanzadas:
 I.
@@ -989,6 +986,10 @@ Si se ofrece un servicio de terminación de vigencia de los certificados.
 Proporcionar los servicios de acceso al registro de certificados. A dicho registro podrá
 accederse por medios electrónicos.
 
+Las facultades mencionadas podrán ser ejercidas directamente en cualquier tiempo por el
+Servicio de Administración Tributaria, pudiendo hacerlo en forma separada o conjunta con las
+personas autorizadas en los términos de esta fracción.
+
 16 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -999,9 +1000,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Las facultades mencionadas podrán ser ejercidas directamente en cualquier tiempo por el
-Servicio de Administración Tributaria, pudiendo hacerlo en forma separada o conjunta con las
-personas autorizadas en los términos de esta fracción.
 Los particulares que acuerden el uso de la firma electrónica avanzada como medio de autenticación o
 firmado de documentos digitales, podrán solicitar al Servicio de Administración Tributaria que preste el
 servicio de verificación y autenticación de los certificados de firmas electrónicas avanzadas. Los
@@ -1056,6 +1054,13 @@ un tercero legalmente autorizado, quien deberá acompañar el acta de defunción
 
 IV. Se disuelvan, liquiden o extingan las sociedades, asociaciones y demás personas morales. En
 este caso, serán los liquidadores quienes presenten la solicitud correspondiente.
+V.
+
+La sociedad escindente o la sociedad fusionada desaparezca con motivo de la escisión o fusión,
+respectivamente. En el primer caso, la cancelación la podrá solicitar cualquiera de las sociedades
+escindidas; en el segundo, la sociedad que subsista.
+
+VI. Transcurra el plazo de vigencia del certificado.
 
 17 de 274
 
@@ -1067,13 +1072,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-V.
-
-La sociedad escindente o la sociedad fusionada desaparezca con motivo de la escisión o fusión,
-respectivamente. En el primer caso, la cancelación la podrá solicitar cualquiera de las sociedades
-escindidas; en el segundo, la sociedad que subsista.
-
-VI. Transcurra el plazo de vigencia del certificado.
 VII. Se pierda o inutilice por daños, el medio electrónico en el que se contengan los certificados.
 VIII. Se compruebe que al momento de su expedición, el certificado no cumplió los requisitos legales,
 situación que no afectará los derechos de terceros de buena fe.
@@ -1121,6 +1119,11 @@ Administración Tributaria para subsanar las irregularidades detectadas, en el c
 pruebas que a su derecho convenga, a fin de obtener un nuevo certificado. La autoridad fiscal deberá
 emitir la resolución sobre dicho procedimiento en un plazo máximo de tres días, contado a partir del día
 siguiente a aquel en que se reciba la solicitud correspondiente.
+Artículo 17-I.- La integridad y autoría de un documento digital con firma electrónica avanzada o sello
+digital será verificable mediante el método de remisión al documento original con la clave pública del
+autor.
+Artículo 17-J.- El titular de un certificado emitido por el Servicio de Administración Tributaria, tendrá
+las siguientes obligaciones:
 
 18 de 274
 
@@ -1132,11 +1135,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 17-I.- La integridad y autoría de un documento digital con firma electrónica avanzada o sello
-digital será verificable mediante el método de remisión al documento original con la clave pública del
-autor.
-Artículo 17-J.- El titular de un certificado emitido por el Servicio de Administración Tributaria, tendrá
-las siguientes obligaciones:
 I.
 
 Actuar con diligencia y establecer los medios razonables para evitar la utilización no autorizada
@@ -1187,6 +1185,10 @@ Código.
 TITULO SEGUNDO
 De los Derechos y Obligaciones de los Contribuyentes
 CAPITULO UNICO
+Artículo 18.- Toda promoción dirigida a las autoridades fiscales, deberá presentarse mediante
+documento digital que contenga firma electrónica avanzada. Los contribuyentes que exclusivamente se
+dediquen a las actividades agrícolas, ganaderas, pesqueras o silvícolas que no queden comprendidos en
+el tercer párrafo del artículo 31 de este Código, podrán no utilizar firma electrónica avanzada. El Servicio
 
 19 de 274
 
@@ -1198,10 +1200,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 18.- Toda promoción dirigida a las autoridades fiscales, deberá presentarse mediante
-documento digital que contenga firma electrónica avanzada. Los contribuyentes que exclusivamente se
-dediquen a las actividades agrícolas, ganaderas, pesqueras o silvícolas que no queden comprendidos en
-el tercer párrafo del artículo 31 de este Código, podrán no utilizar firma electrónica avanzada. El Servicio
 de Administración Tributaria, mediante reglas de carácter general, podrá determinar las promociones que
 se presentarán mediante documento impreso.
 Las promociones deberán enviarse a través del buzón tributario y deberán tener por lo menos los
@@ -1249,6 +1247,10 @@ Artículo 18-A. Las promociones que se presenten ante las autoridades fiscales e
 formulen consultas o solicitudes de autorización o régimen en los términos de los artículos 34, 34-A y 36
 Bis de este Código, para las que no haya forma oficial, deberán cumplir, en adición a los requisitos
 establecidos en el artículo 18 de este Código, con lo siguiente:
+I.-
+
+Señalar los números telefónicos, en su caso, del contribuyente y el de los autorizados en los
+términos del artículo 19 de este Código.
 
 20 de 274
 
@@ -1259,11 +1261,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-I.-
-
-Señalar los números telefónicos, en su caso, del contribuyente y el de los autorizados en los
-términos del artículo 19 de este Código.
 
 II.-
 
@@ -1305,6 +1302,9 @@ o representante legal, previo cotejo con su original.
 El otorgante de la representación podrá solicitar a las autoridades fiscales la inscripción de dicha
 representación en el registro de representantes legales de las autoridades fiscales y éstas expedirán la
 constancia de inscripción correspondiente. Con dicha constancia, se podrá acreditar la representación en
+los trámites que se realicen ante dichas autoridades. Para estos efectos, el Servicio de Administración
+Tributaría podrá simplificar los requisitos para acreditar la representación de las personas físicas o
+morales en el registro de representantes legales, mediante reglas de carácter general.
 
 21 de 274
 
@@ -1316,9 +1316,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-los trámites que se realicen ante dichas autoridades. Para estos efectos, el Servicio de Administración
-Tributaría podrá simplificar los requisitos para acreditar la representación de las personas físicas o
-morales en el registro de representantes legales, mediante reglas de carácter general.
 La solicitud de inscripción se hará mediante escrito libre debidamente firmado por quien otorga el
 poder y por el aceptante del mismo, acompañando el documento en el que conste la representación
 correspondiente, así como los demás documentos que mediante reglas de carácter general establezca el
@@ -1360,6 +1357,8 @@ que se les designe, que tengan conferida la dirección general, la gerencia gene
 la persona moral de que se trate, en el momento en el que se presentaron los documentos digitales.
 Artículo 20.- Las contribuciones y sus accesorios se causarán y pagarán en moneda nacional. Los
 pagos que deban efectuarse en el extranjero se podrán realizar en la moneda del país de que se trate.
+En los casos en que las leyes fiscales así lo establezcan, a fin de determinar las contribuciones y sus
+accesorios se aplicará el Índice Nacional de Precios al Consumidor, el cual será calculado por el Instituto
 
 22 de 274
 
@@ -1371,8 +1370,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-En los casos en que las leyes fiscales así lo establezcan, a fin de determinar las contribuciones y sus
-accesorios se aplicará el Índice Nacional de Precios al Consumidor, el cual será calculado por el Instituto
 Nacional de Estadística y Geografía y se publicará en el Diario Oficial de la Federación dentro de los
 primeros diez días del mes siguiente al que corresponda.
 Para determinar las contribuciones y sus accesorios se considerará el tipo de cambio a que se haya
@@ -1420,6 +1417,9 @@ III.
 Multas.
 
 IV. La indemnización a que se refiere el séptimo párrafo del artículo 21 de este Código.
+Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los
+conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del
+concepto impugnado y garantizado.
 
 23 de 274
 
@@ -1431,9 +1431,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los
-conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del
-concepto impugnado y garantizado.
 Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso. No obstante lo
 anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan
 de 1 hasta 50 centavos se ajusten a la unidad inmediata anterior y las que contengan cantidades de 51 a
@@ -1482,6 +1479,8 @@ V.
 El Indice Nacional de Precios al Consumidor de cada mes se calculará utilizando la fórmula de
 Laspeyres. Se aplicarán ponderadores para cada rubro del consumo familiar considerando los
 conceptos siguientes:
+Alimentos, bebidas y tabaco; ropa, calzado y accesorios; vivienda; muebles, aparatos y enseres
+domésticos; salud y cuidado personal; transporte; educación y esparcimiento; otros servicios.
 
 24 de 274
 
@@ -1493,8 +1492,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Alimentos, bebidas y tabaco; ropa, calzado y accesorios; vivienda; muebles, aparatos y enseres
-domésticos; salud y cuidado personal; transporte; educación y esparcimiento; otros servicios.
 El Instituto Nacional de Estadística y Geografía publicará en el Diario Oficial de la Federación las
 entidades federativas, zonas conurbadas, ciudades, artículos, servicios, conceptos de consumo y ramas
 a que se refieren las fracciones I y II de este artículo, así como las cotizaciones utilizadas para calcular el
@@ -1524,6 +1521,7 @@ se utiliza la siguiente formulación:
 2.1. Para determinar el valor de la UDI para los días del 26 al último día del mes m se utiliza:
 n = Número de días naturales contados desde el 26 del mes m y hasta el día 10 del mes
 siguiente.
+INPCq = Índice Nacional de Precios al Consumidor de la primera quincena del mes m.
 
 25 de 274
 
@@ -1535,7 +1533,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-INPCq = Índice Nacional de Precios al Consumidor de la primera quincena del mes m.
 INPCq-1 = Índice Nacional de Precios al Consumidor de la segunda quincena del mes inmediato
 anterior al mes m.
 2.2. Para determinar el valor de la UDI para los días del 1 al 10 del mes m se utiliza:
@@ -1575,6 +1572,9 @@ El cheque recibido por las autoridades fiscales que sea presentado en tiempo y n
 lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y
 se exigirá independientemente de los demás conceptos a que se refiere este artículo. Para tal efecto, la
 autoridad requerirá al librador del cheque para que, dentro de un plazo de tres días, efectúe el pago junto
+con la mencionada indemnización del 20%, o bien, acredite fehacientemente, con las pruebas
+documentales procedentes, que se realizó el pago o que dicho pago no se realizó por causas
+exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga
 
 26 de 274
 
@@ -1586,9 +1586,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-con la mencionada indemnización del 20%, o bien, acredite fehacientemente, con las pruebas
-documentales procedentes, que se realizó el pago o que dicho pago no se realizó por causas
-exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga
 el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad fiscal requerirá y
 cobrará el monto del cheque, la indemnización mencionada y los demás accesorios que correspondan,
 mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad que en su caso
@@ -1630,6 +1627,8 @@ Cuando en una solicitud de devolución existan errores en los datos contenidos e
 autoridad requerirá al contribuyente para que mediante escrito y en un plazo de 10 días aclare dichos
 datos, apercibiéndolo que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud
 de devolución correspondiente. En este supuesto no será necesario presentar una nueva solicitud
+cuando los datos erróneos sólo se hayan consignado en la solicitud o en los anexos. Dicho requerimiento
+suspenderá el plazo previsto para efectuar la devolución, durante el período que transcurra entre el día
 
 27 de 274
 
@@ -1641,8 +1640,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-cuando los datos erróneos sólo se hayan consignado en la solicitud o en los anexos. Dicho requerimiento
-suspenderá el plazo previsto para efectuar la devolución, durante el período que transcurra entre el día
 hábil siguiente en que surta efectos la notificación del requerimiento y la fecha en que se atienda el
 requerimiento.
 Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de cuarenta días siguientes
@@ -1688,6 +1685,8 @@ procedencia de la devolución, se autoriza ésta, la autoridad efectuará la dev
 dentro de los 10 días siguientes a aquél en el que se notifique la resolución respectiva. Cuando la
 devolución se efectúe fuera del plazo mencionado se pagarán intereses que se calcularán conforme a lo
 dispuesto en el artículo 22-A de este Código.
+El fisco federal deberá pagar la devolución que proceda actualizada conforme a lo previsto en el
+artículo 17-A de este Código, desde el mes en que se realizó el pago de lo indebido o se presentó la
 
 28 de 274
 
@@ -1699,8 +1698,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-El fisco federal deberá pagar la devolución que proceda actualizada conforme a lo previsto en el
-artículo 17-A de este Código, desde el mes en que se realizó el pago de lo indebido o se presentó la
 declaración que contenga el saldo a favor y hasta aquél en el que la devolución esté a disposición del
 contribuyente. Para el caso de depósito en cuenta, se entenderá que la devolución está a disposición del
 contribuyente a partir de la fecha en que la autoridad efectúe el depósito en la institución financiera
@@ -1744,6 +1741,8 @@ contribuyentes mediante este medio de comunicación.
 Artículo 22-A. Cuando los contribuyentes presenten una solicitud de devolución de un saldo a favor o
 de un pago de lo indebido, y la devolución se efectúe fuera del plazo establecido en el artículo anterior,
 las autoridades fiscales pagarán intereses que se calcularán a partir del día siguiente al del vencimiento
+de dicho plazo conforme a la tasa prevista en los términos del artículo 21 de este Código que se aplicará
+sobre la devolución actualizada.
 
 29 de 274
 
@@ -1755,8 +1754,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-de dicho plazo conforme a la tasa prevista en los términos del artículo 21 de este Código que se aplicará
-sobre la devolución actualizada.
 Cuando el contribuyente presente una solicitud de devolución que sea negada y posteriormente sea
 concedida por la autoridad en cumplimiento de una resolución dictada en un recurso administrativo o de
 una sentencia emitida por un órgano jurisdiccional, el cálculo de los intereses se efectuará a partir de:
@@ -1797,6 +1794,8 @@ Artículo 22-D. Las facultades de comprobación, para verificar la procedencia d
 se refiere el noveno párrafo del artículo 22 de este Código, se realizarán mediante el ejercicio de las
 facultades establecidas en las fracciones II ó III del artículo 42 de este Código. La autoridad fiscal podrá
 ejercer las facultades de comprobación a que se refiere este precepto por cada solicitud de devolución
+presentada por el contribuyente, aun cuando se encuentre referida a las mismas contribuciones,
+aprovechamientos y periodos, conforme a lo siguiente:
 
 30 de 274
 
@@ -1808,8 +1807,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-presentada por el contribuyente, aun cuando se encuentre referida a las mismas contribuciones,
-aprovechamientos y periodos, conforme a lo siguiente:
 I.
 
 El ejercicio de las facultades de comprobación deberá concluir en un plazo máximo de
@@ -1870,6 +1867,8 @@ Los contribuyentes que hayan ejercido la opción a que se refiere el primer pár
 artículo, que tuvieran remanente una vez efectuada la compensación, podrán solicitar su devolución.
 Si la compensación se hubiera efectuado y no procediera, se causarán recargos en los términos del
 artículo 21 de este Código sobre las cantidades compensadas indebidamente, actualizadas por el
+período transcurrido desde el mes en que se efectuó la compensación indebida hasta aquél en que se
+haga el pago del monto de la compensación indebidamente efectuada.
 
 31 de 274
 
@@ -1881,8 +1880,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-período transcurrido desde el mes en que se efectuó la compensación indebida hasta aquél en que se
-haga el pago del monto de la compensación indebidamente efectuada.
 No se podrán compensar las cantidades cuya devolución se haya solicitado o cuando haya prescrito la
 obligación para devolverlas, ni las cantidades que hubiesen sido trasladadas de conformidad con las
 leyes fiscales, expresamente y por separado o incluidas en el precio, cuando quien pretenda hacer la
@@ -1924,6 +1921,9 @@ que hayan recibido el subsidio y hasta la fecha en la que se devuelva al fisco f
 indebidamente recibida.
 Cuando una persona entregue indebidamente un subsidio, cuyo monto haya sido acreditado por dicha
 persona contra el pago de contribuciones federales, dicho acreditamiento será improcedente.
+Cuando sin tener derecho a ello se acredite contra el pago de contribuciones federales un estímulo
+fiscal o un subsidio, o se haga en cantidad mayor a la que se tenga derecho, las autoridades fiscales
+exigirán el pago de las contribuciones omitidas actualizadas y de los accesorios que correspondan.
 
 32 de 274
 
@@ -1935,9 +1935,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Cuando sin tener derecho a ello se acredite contra el pago de contribuciones federales un estímulo
-fiscal o un subsidio, o se haga en cantidad mayor a la que se tenga derecho, las autoridades fiscales
-exigirán el pago de las contribuciones omitidas actualizadas y de los accesorios que correspondan.
 Los estímulos fiscales o subsidios sólo se podrán acreditar hasta el monto de los pagos de impuestos
 que efectivamente se deban pagar. Si el estímulo o subsidio es mayor que el importe de la contribución a
 pagar, sólo se acreditará el estímulo o subsidio hasta el importe del pago.
@@ -1970,6 +1967,9 @@ dichas personas morales durante su gestión, así como por las que debieron paga
 enterarse durante la misma, en la parte del interés fiscal que no alcance a ser garantizada con
 los bienes de la persona moral que dirigen, cuando dicha persona moral incurra en cualquiera
 de los siguientes supuestos:
+
+IV.
+
 a)
 
 No solicite su inscripción en el registro federal de contribuyentes.
@@ -1993,6 +1993,10 @@ d)
 Desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de
 domicilio en los términos del Reglamento de este Código.
 
+Los adquirentes de negociaciones, respecto de las contribuciones que se hubieran causado
+en relación con las actividades realizadas en la negociación, cuando pertenecía a otra
+persona, sin que la responsabilidad exceda del valor de la misma.
+
 33 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -2002,12 +2006,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-IV.
-
-Los adquirentes de negociaciones, respecto de las contribuciones que se hubieran causado
-en relación con las actividades realizadas en la negociación, cuando pertenecía a otra
-persona, sin que la responsabilidad exceda del valor de la misma.
 
 V.
 
@@ -2075,6 +2073,9 @@ ya sea a través de la propiedad de valores, por contrato o de cualquier otra fo
 
 Las sociedades que, debiendo inscribir en el registro o libro de acciones o partes sociales a
 sus socios o accionistas, inscriban a personas físicas o morales que no comprueben haber
+retenido y enterado, en el caso de que así proceda, el impuesto sobre la renta causado por el
+enajenante de tales acciones o partes sociales, o haber recibido copia del dictamen respectivo
+y, en su caso, copia de la declaración en la que conste el pago del impuesto correspondiente.
 
 34 de 274
 
@@ -2086,9 +2087,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-retenido y enterado, en el caso de que así proceda, el impuesto sobre la renta causado por el
-enajenante de tales acciones o partes sociales, o haber recibido copia del dictamen respectivo
-y, en su caso, copia de la declaración en la que conste el pago del impuesto correspondiente.
 XII.
 
 Las sociedades escindidas, por las contribuciones causadas en relación con la transmisión de
@@ -2150,6 +2148,10 @@ periódicas o que estén obligadas a expedir comprobantes fiscales digitales por
 actividades que realicen o por los ingresos que perciban, o que hayan abierto una cuenta a su nombre en
 las entidades del sistema financiero o en las sociedades cooperativas de ahorro y préstamo, en las que
 reciban depósitos o realicen operaciones susceptibles de ser sujetas de contribuciones, deberán solicitar
+su inscripción en el registro federal de contribuyentes, proporcionar la información relacionada con su
+identidad, su domicilio y, en general, sobre su situación fiscal, mediante los avisos que se establecen en
+el Reglamento de este Código. Asimismo, las personas a que se refiere este párrafo estarán obligadas a
+manifestar al registro federal de contribuyentes su domicilio fiscal; en caso de cambio de domicilio fiscal
 
 35 de 274
 
@@ -2161,10 +2163,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-su inscripción en el registro federal de contribuyentes, proporcionar la información relacionada con su
-identidad, su domicilio y, en general, sobre su situación fiscal, mediante los avisos que se establecen en
-el Reglamento de este Código. Asimismo, las personas a que se refiere este párrafo estarán obligadas a
-manifestar al registro federal de contribuyentes su domicilio fiscal; en caso de cambio de domicilio fiscal
 deberán presentar el aviso correspondiente dentro de los diez días siguientes al día en el que tenga lugar
 dicho cambio, salvo que al contribuyente se le hayan iniciado facultades de comprobación y no se le haya
 notificado la resolución a que se refiere el artículo 50 de este Código, en cuyo caso deberá presentar el
@@ -2208,6 +2206,10 @@ obligación de contar con éste en el país en que residan, así como la informa
 párrafo de este artículo, en los términos y para los fines que establezca el Servicio de Administración
 Tributaria mediante reglas de carácter general, sin que dicha inscripción les otorgue la posibilidad de
 solicitar la devolución de contribuciones.
+Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas en que se haga constar
+actas constitutivas, de fusión, escisión o de liquidación de personas morales, que comprueben dentro del
+mes siguiente a la firma que han presentado solicitud de inscripción, o aviso de liquidación o de
+cancelación, según sea el caso, en el registro federal de contribuyentes, de la persona moral de que se
 
 36 de 274
 
@@ -2219,10 +2221,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas en que se haga constar
-actas constitutivas, de fusión, escisión o de liquidación de personas morales, que comprueben dentro del
-mes siguiente a la firma que han presentado solicitud de inscripción, o aviso de liquidación o de
-cancelación, según sea el caso, en el registro federal de contribuyentes, de la persona moral de que se
 trate, debiendo asentar en su protocolo la fecha de su presentación; en caso contrario, el fedatario
 deberá informar de dicha omisión al Servicio de Administración Tributaria dentro del mes siguiente a la
 autorización de la escritura.
@@ -2265,6 +2263,9 @@ La solicitud o los avisos a que se refiere el primer párrafo de este artículo 
 extemporánea, surtirán sus efectos a partir de la fecha en que sean presentados. Las autoridades fiscales
 podrán verificar la existencia y localización del domicilio fiscal manifestado por el contribuyente en el
 aviso de cambio de domicilio y, en el caso de que el lugar señalado no se considere domicilio fiscal en los
+términos del artículo 10 de este Código o los contribuyentes no sean localizados en dicho domicilio, el
+aviso de cambio de domicilio no surtirá sus efectos. Tal situación será notificada a los contribuyentes a
+través del buzón tributario.
 
 37 de 274
 
@@ -2276,9 +2277,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-términos del artículo 10 de este Código o los contribuyentes no sean localizados en dicho domicilio, el
-aviso de cambio de domicilio no surtirá sus efectos. Tal situación será notificada a los contribuyentes a
-través del buzón tributario.
 Las personas físicas que no se encuentren en los supuestos del párrafo primero de este artículo,
 podrán solicitar su inscripción al registro federal de contribuyentes, cumpliendo los requisitos establecidos
 mediante reglas de carácter general que para tal efecto publique el Servicio de Administración Tributaria.
@@ -2331,6 +2329,10 @@ contribuciones que efectúen, los contribuyentes deberán emitirlos mediante doc
 de la página de Internet del Servicio de Administración Tributaria. Las personas que adquieran bienes,
 disfruten de su uso o goce temporal, reciban servicios o aquéllas a las que les hubieren retenido
 contribuciones deberán solicitar el comprobante fiscal digital por Internet respectivo.
+Los contribuyentes a que se refiere el párrafo anterior deberán cumplir con las obligaciones siguientes:
+I.
+
+Contar con un certificado de firma electrónica avanzada vigente.
 
 38 de 274
 
@@ -2341,11 +2343,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Los contribuyentes a que se refiere el párrafo anterior deberán cumplir con las obligaciones siguientes:
-I.
-
-Contar con un certificado de firma electrónica avanzada vigente.
 
 II.
 
@@ -2392,6 +2389,13 @@ Para los efectos del segundo párrafo de esta fracción, el Servicio de Administ
 podrá proporcionar la información necesaria a los proveedores autorizados de certificación de
 comprobantes fiscales digitales por Internet.
 
+V.
+
+Una vez que al comprobante fiscal digital por Internet se le incorpore el sello digital del
+Servicio de Administración Tributaria o, en su caso, del proveedor de certificación de
+comprobantes fiscales digitales, deberán entregar o poner a disposición de sus clientes, a
+través de los medios electrónicos que disponga el citado órgano desconcentrado mediante
+
 39 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -2402,16 +2406,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-V.
-
-Una vez que al comprobante fiscal digital por Internet se le incorpore el sello digital del
-Servicio de Administración Tributaria o, en su caso, del proveedor de certificación de
-comprobantes fiscales digitales, deberán entregar o poner a disposición de sus clientes, a
-través de los medios electrónicos que disponga el citado órgano desconcentrado mediante
 reglas de carácter general, el archivo electrónico del comprobante fiscal digital por Internet y,
 cuando les sea solicitada por el cliente, su representación impresa, la cual únicamente
 presume la existencia de dicho comprobante fiscal.
-
 VI.
 
 Cumplir con las especificaciones que en materia de informática determine el Servicio de
@@ -2462,6 +2459,9 @@ terrestre o marítima, así como ventas en establecimientos autorizados para la 
 ventas de mercancías extranjeras o nacionales a pasajeros que arriben al país en puertos
 aéreos internacionales, conjuntamente con la clave genérica que para tales efectos
 establezca el Servicio de Administración Tributaria mediante reglas de carácter general,
+deberán contener los datos de identificación del turista o pasajero y del medio de transporte
+en que éste salga o arribe al país, según sea el caso, además de cumplir con los requisitos
+que señale el Servicio de Administración Tributaria mediante reglas de carácter general.
 
 40 de 274
 
@@ -2473,9 +2473,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-deberán contener los datos de identificación del turista o pasajero y del medio de transporte
-en que éste salga o arribe al país, según sea el caso, además de cumplir con los requisitos
-que señale el Servicio de Administración Tributaria mediante reglas de carácter general.
 V.
 
 La cantidad, unidad de medida y clase de los bienes o mercancías o descripción del servicio o
@@ -2531,6 +2528,15 @@ VI.
 El valor unitario consignado en número.
 Los comprobantes que se expidan en los supuestos que a continuación se indican, deberán
 cumplir adicionalmente con lo que en cada caso se especifica:
+a)
+
+Los que expidan los contribuyentes que enajenen lentes ópticos graduados, deberán
+separar el monto que corresponda por dicho concepto.
+
+b)
+
+Los que expidan los contribuyentes que presten el servicio de transportación escolar,
+deberán separar el monto que corresponda por dicho concepto.
 
 41 de 274
 
@@ -2542,19 +2548,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-VII.
-
-a)
-
-Los que expidan los contribuyentes que enajenen lentes ópticos graduados, deberán
-separar el monto que corresponda por dicho concepto.
-
-b)
-
-Los que expidan los contribuyentes que presten el servicio de transportación escolar,
-deberán separar el monto que corresponda por dicho concepto.
-
 c)
+
+VII.
 
 Los relacionados con las operaciones que dieron lugar a la emisión de los documentos
 pendientes de cobro de conformidad con lo establecido por el artículo 1o.-C, fracción III
@@ -2609,6 +2605,13 @@ a)
 
 El número y fecha del documento aduanero, tratándose de ventas de primera mano.
 
+b)
+
+En importaciones efectuadas a favor de un tercero, el número y fecha del documento
+aduanero, los conceptos y montos pagados por el contribuyente directamente al
+proveedor extranjero y los importes de las contribuciones pagadas con motivo de la
+importación.
+
 42 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -2619,14 +2622,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-b)
-
 IX.
-
-En importaciones efectuadas a favor de un tercero, el número y fecha del documento
-aduanero, los conceptos y montos pagados por el contribuyente directamente al
-proveedor extranjero y los importes de las contribuciones pagadas con motivo de la
-importación.
 
 Los contenidos en las disposiciones fiscales, que sean requeridos y dé a conocer el Servicio
 de Administración Tributaria, mediante reglas de carácter general.
@@ -2666,6 +2662,10 @@ necesaria para determinar los ajustes a que se refieren los artículos 22 y 23 d
 las declaraciones de pagos provisionales y del ejercicio, de las contribuciones federales, dicha
 documentación deberá conservarse por todo el tiempo en el que subsista la sociedad o contrato de que
 se trate.
+Los documentos con firma electrónica avanzada o sello digital, deberán conservarse de conformidad
+con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
+En el caso de que la autoridad fiscal esté ejerciendo facultades de comprobación respecto de
+ejercicios fiscales en los que se disminuyan pérdidas fiscales de ejercicios anteriores, o se reciban
 
 43 de 274
 
@@ -2677,10 +2677,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Los documentos con firma electrónica avanzada o sello digital, deberán conservarse de conformidad
-con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
-En el caso de que la autoridad fiscal esté ejerciendo facultades de comprobación respecto de
-ejercicios fiscales en los que se disminuyan pérdidas fiscales de ejercicios anteriores, o se reciban
 cantidades por concepto de préstamo, otorgado o recibido, independientemente del tipo de contrato
 utilizado, los contribuyentes deberán proporcionar la documentación que acredite el origen y procedencia
 de la pérdida fiscal o la documentación comprobatoria del préstamo, independientemente del ejercicio en
@@ -2721,6 +2717,11 @@ obligación de proporcionar la información sobre sus proveedores y la relaciona
 Las personas que presten los servicios que mediante reglas de carácter general determine el Servicio
 de Administración Tributaria, estarán obligadas a proporcionar al citado órgano desconcentrado la
 información a que se refiere este artículo, relacionándola con la clave del registro federal de
+contribuyentes. Los prestadores de servicios solicitarán de sus usuarios los datos que requieran para
+formar la clave antes citada, o la misma cuando ya cuente con ella.
+Los organismos descentralizados que presten servicios de seguridad social deberán proporcionar a
+las autoridades fiscales, cuando así se lo soliciten, la información sobre sus contribuyentes,
+identificándolos con la clave del registro federal de contribuyentes que les corresponda.
 
 44 de 274
 
@@ -2732,11 +2733,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-contribuyentes. Los prestadores de servicios solicitarán de sus usuarios los datos que requieran para
-formar la clave antes citada, o la misma cuando ya cuente con ella.
-Los organismos descentralizados que presten servicios de seguridad social deberán proporcionar a
-las autoridades fiscales, cuando así se lo soliciten, la información sobre sus contribuyentes,
-identificándolos con la clave del registro federal de contribuyentes que les corresponda.
 Los usuarios de los servicios mencionados, así como los cuentahabientes de las instituciones de
 crédito, deberán de proporcionar a los prestadores de servicios o a las instituciones mencionadas los
 datos que les requieran para cumplir con la obligación a que se refiere este artículo.
@@ -2776,6 +2772,12 @@ correspondan para los efectos del registro federal de contribuyentes. Tratándos
 pago provisional o mensual, los contribuyentes deberán presentar dichas declaraciones siempre que
 haya cantidad a pagar, saldo a favor o cuando no resulte cantidad a pagar con motivo de la aplicación de
 créditos, compensaciones o estímulos. Cuando no exista impuesto a pagar ni saldo a favor por alguna de
+las obligaciones que deban cumplir, en declaraciones normales o complementarias, los contribuyentes
+deberán informar a las autoridades fiscales las razones por las cuales no se realiza el pago.
+Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el
+país, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, están
+obligados a formular y presentar a nombre de sus representadas, las declaraciones, avisos y demás
+documentos que señalen las disposiciones fiscales, en los términos del párrafo primero de este artículo.
 
 45 de 274
 
@@ -2787,12 +2789,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-las obligaciones que deban cumplir, en declaraciones normales o complementarias, los contribuyentes
-deberán informar a las autoridades fiscales las razones por las cuales no se realiza el pago.
-Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el
-país, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, están
-obligados a formular y presentar a nombre de sus representadas, las declaraciones, avisos y demás
-documentos que señalen las disposiciones fiscales, en los términos del párrafo primero de este artículo.
 Los contribuyentes a que se refiere el tercer párrafo de este artículo, podrán enviar las solicitudes,
 declaraciones, avisos, informes, constancias o documentos, que exijan las disposiciones fiscales, por
 medio del servicio postal en pieza certificada en los casos en que el propio Servicio de Administración
@@ -2829,6 +2825,11 @@ derechos que al efecto se establezcan en la ley de la materia.
 El Servicio de Administración Tributaria podrá autorizar a proveedores de certificación de documentos
 digitales para que incorporen el sello digital de dicho órgano administrativo desconcentrado a los
 documentos digitales que cumplan con los requisitos establecidos en las disposiciones fiscales.
+Dichos proveedores para obtener y conservar la autorización deberán cumplir con los requisitos y
+obligaciones que establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
+Artículo 31-A. Los contribuyentes deberán presentar la información de las operaciones que se
+señalen en la forma oficial que al efecto aprueben las autoridades fiscales, dentro de los treinta días
+siguientes a aquél en el que se celebraron.
 
 46 de 274
 
@@ -2840,11 +2841,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Dichos proveedores para obtener y conservar la autorización deberán cumplir con los requisitos y
-obligaciones que establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
-Artículo 31-A. Los contribuyentes deberán presentar la información de las operaciones que se
-señalen en la forma oficial que al efecto aprueben las autoridades fiscales, dentro de los treinta días
-siguientes a aquél en el que se celebraron.
 Cuando los contribuyentes presenten la información de forma incompleta o con errores, tendrán un
 plazo de treinta días contado a partir de la notificación de la autoridad, para complementar o corregir la
 información presentada.
@@ -2887,6 +2883,12 @@ correspondía, los recargos se computarán sobre la diferencia, en los términos
 Código, a partir de la fecha en que se debió hacer el pago.
 Para los efectos de este artículo, una vez que las autoridades fiscales hayan iniciado el ejercicio de
 sus facultades de comprobación no tendrán efectos las declaraciones complementarias de ejercicios
+anteriores que presenten los contribuyentes revisados cuando éstas tengan alguna repercusión en el
+ejercicio que se esté revisando.
+Artículo 32-A. Las personas físicas con actividades empresariales y las personas morales, que en el
+ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a $100,000,000.00, que el
+valor de su activo determinado en los términos de las reglas de carácter general que al efecto emita el
+Servicio de Administración Tributaria, sea superior a $79,000,000.00 o que por lo menos trescientos de
 
 47 de 274
 
@@ -2898,12 +2900,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-anteriores que presenten los contribuyentes revisados cuando éstas tengan alguna repercusión en el
-ejercicio que se esté revisando.
-Artículo 32-A. Las personas físicas con actividades empresariales y las personas morales, que en el
-ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a $100,000,000.00, que el
-valor de su activo determinado en los términos de las reglas de carácter general que al efecto emita el
-Servicio de Administración Tributaria, sea superior a $79,000,000.00 o que por lo menos trescientos de
 sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior,
 podrán optar por dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus
 estados financieros por contador público autorizado. No podrán ejercer la opción a que se refiere este
@@ -2949,6 +2945,9 @@ determinarán de común acuerdo la retribución, considerando el costo promedio 
 operación por la prestación de estos servicios en que incurran dichas instituciones en su
 conjunto, aplicable para cada modalidad de los servicios de recepción y procesamiento de pagos
 y declaraciones, atendiendo a criterios de eficiencia.
+Las instituciones de crédito no podrán realizar cobros a los contribuyentes por los servicios que
+les proporcionen por la presentación de las declaraciones en los términos establecidos en el
+artículo 31 de este Código.
 
 48 de 274
 
@@ -2960,9 +2959,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Las instituciones de crédito no podrán realizar cobros a los contribuyentes por los servicios que
-les proporcionen por la presentación de las declaraciones en los términos establecidos en el
-artículo 31 de este Código.
 La Secretaría de Hacienda y Crédito Público efectuará la retención del impuesto al valor
 agregado que le sea trasladado con motivo de la prestación de los servicios a que se refiere esta
 fracción, el cual formará parte de los gastos de recaudación.
@@ -3011,6 +3007,14 @@ fideicomisarios y, en su caso, registro federal de contribuyentes de ellos.
 
 Tipo de fideicomiso.
 
+3.
+
+Número del registro federal de contribuyentes que identifique el fideicomiso, en su caso.
+
+4.
+
+Respecto del año inmediato anterior, la información siguiente:
+
 49 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -3023,13 +3027,6 @@ Secretaría de Servicios Parlamentarios
 
 B.
 
-3.
-
-Número del registro federal de contribuyentes que identifique el fideicomiso, en su caso.
-
-4.
-
-Respecto del año inmediato anterior, la información siguiente:
 a)
 
 Monto de las aportaciones efectuadas por los fideicomitentes al fideicomiso en el
@@ -3085,6 +3082,11 @@ posterioridad. Por tanto, los procedimientos aplicables para identificar cuentas
 cuentas reportables entre las cuentas nuevas entrarán en vigor a partir del 1 de enero de
 2016.
 
+II.
+
+Se llevará un registro especial de la aplicación de los procedimientos para identificar cuentas
+extranjeras y reportables entre las cuentas financieras.
+
 50 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -3094,11 +3096,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-II.
-
-Se llevará un registro especial de la aplicación de los procedimientos para identificar cuentas
-extranjeras y reportables entre las cuentas financieras.
 
 III.
 
@@ -3161,6 +3158,9 @@ presentar ante las autoridades fiscales la información a que se refiere el Est�
 Lo dispuesto en las fracciones VII, VIII y IX y en los párrafos tercero y cuarto del presente artículo
 también resultará aplicable respecto de los procedimientos para identificar cuentas reportables entre las
 cuentas financieras y para presentar ante las autoridades fiscales la información a que se refieren las
+disposiciones fiscales, conforme a los acuerdos amplios de intercambio de información que México tiene
+en vigor y autorizan el intercambio automático de información financiera en materia fiscal, así como los
+acuerdos interinstitucionales firmados con fundamento en ellos.
 
 51 de 274
 
@@ -3172,9 +3172,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-disposiciones fiscales, conforme a los acuerdos amplios de intercambio de información que México tiene
-en vigor y autorizan el intercambio automático de información financiera en materia fiscal, así como los
-acuerdos interinstitucionales firmados con fundamento en ellos.
 Artículo 32-C.- Las empresas de factoraje, y las sociedades financieras de objeto múltiple, estarán
 obligadas, en todos los casos, a notificar al deudor la transmisión de derechos de crédito operado en
 virtud de un contrato de factoraje financiero, excepto en el caso de factoraje con mandato de cobranza o
@@ -3221,6 +3218,10 @@ Los particulares tendrán derecho al otorgamiento de subsidios o estímulos prev
 ordenamientos aplicables, siempre que no se ubiquen en los supuestos previstos en las fracciones del
 presente artículo, salvo que tratándose de la fracción III, no tengan obligación de inscribirse en el Registro
 Federal de Contribuyentes.
+Las entidades y dependencias que tengan a su cargo la aplicación de subsidios o estímulos deberán
+abstenerse de aplicarlos a las personas que se ubiquen en los supuestos previstos en las fracciones del
+presente articulo, salvo que tratándose de la fracción III, no tengan obligación de inscribirse en el Registro
+Federal de Contribuyentes.
 
 52 de 274
 
@@ -3232,10 +3233,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Las entidades y dependencias que tengan a su cargo la aplicación de subsidios o estímulos deberán
-abstenerse de aplicarlos a las personas que se ubiquen en los supuestos previstos en las fracciones del
-presente articulo, salvo que tratándose de la fracción III, no tengan obligación de inscribirse en el Registro
-Federal de Contribuyentes.
 Los particulares que tengan derecho al otorgamiento de subsidio o estímulos y que se ubiquen en los
 supuestos de las fracciones I y II de este artículo, no se consideran comprendidos en dichos supuestos
 cuando celebren convenio con las autoridades fiscales en los términos que este Código establece para
@@ -3276,6 +3273,8 @@ información relativa a:
 I. Las personas a las que en el mes inmediato anterior les hubieren efectuado retenciones de
 impuesto sobre la renta, así como de los residentes en el extranjero a los que les hayan efectuado pagos
 de acuerdo con lo previsto en el Título V de la Ley del Impuesto sobre la Renta.
+II. Los proveedores a los que les hubiere efectuado pagos, desglosando el valor de los actos o
+actividades por tasa a la cual trasladaron o les fue trasladado el impuesto al valor agregado y el impuesto
 
 53 de 274
 
@@ -3287,8 +3286,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-II. Los proveedores a los que les hubiere efectuado pagos, desglosando el valor de los actos o
-actividades por tasa a la cual trasladaron o les fue trasladado el impuesto al valor agregado y el impuesto
 especial sobre producción y servicios, incluyendo actividades por las que el contribuyente no está
 obligado al pago.
 La información a que se refiere el párrafo anterior se deberá presentar a más tardar el día 17 del mes
@@ -3342,6 +3339,7 @@ certificación que permita mantener la autorización de que se trate.
 
 TITULO TERCERO
 De las Facultades de las Autoridades Fiscales
+CAPITULO I
 
 54 de 274
 
@@ -3353,7 +3351,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-CAPITULO I
 Artículo 33.- Las autoridades fiscales para el mejor cumplimiento de sus facultades, estarán a lo
 siguiente:
 I.-
@@ -3410,6 +3407,9 @@ que los contribuyentes designen síndicos que los representen ante las autoridad
 cuales podrán solicitar opiniones o recomendaciones a las autoridades fiscales, respecto de los
 asuntos que les sean planteados por los contribuyentes.
 Los síndicos deberán reunir los siguientes requisitos:
+a)
+
+Ser licenciado en derecho, contador público o carrera afín.
 
 55 de 274
 
@@ -3420,10 +3420,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-a)
-
-Ser licenciado en derecho, contador público o carrera afín.
 
 b)
 
@@ -3475,6 +3471,9 @@ particulares puedan interponer los medios de defensa. Las resoluciones que se em
 fiscal no podrán ser impugnadas por los particulares.
 Artículo 33-B. Se faculta al Servicio de Administración Tributaria para que lleve a cabo la celebración
 de sorteos de lotería fiscal, en los que participen las personas físicas que no realicen actividades
+empresariales y que efectúen pagos a través de los medios electrónicos que determine dicho órgano, en
+la adquisición de bienes o servicios, siempre que estén inscritas en el Registro Federal de Contribuyentes
+y obtengan los comprobantes fiscales digitales por Internet correspondientes a dichas adquisiciones.
 
 56 de 274
 
@@ -3486,9 +3485,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-empresariales y que efectúen pagos a través de los medios electrónicos que determine dicho órgano, en
-la adquisición de bienes o servicios, siempre que estén inscritas en el Registro Federal de Contribuyentes
-y obtengan los comprobantes fiscales digitales por Internet correspondientes a dichas adquisiciones.
 Estos sorteos deberán realizarse de conformidad con las reglas de carácter general y las bases
 específicas que para cada sorteo emita dicho órgano desconcentrado.
 Los premios se otorgarán a las personas físicas ganadoras del sorteo, siempre que no se ubiquen en
@@ -3536,6 +3532,8 @@ relativas a la metodología utilizada en la determinación de los precios o mont
 contraprestaciones, en operaciones con partes relacionadas, en los términos del artículo 179 de la Ley
 del Impuesto sobre la Renta, siempre que el contribuyente presente la información, datos y
 documentación, necesarios para la emisión de la resolución correspondiente. Estas resoluciones podrán
+derivar de un acuerdo con las autoridades competentes de un país con el que se tenga un tratado para
+evitar la doble tributación.
 
 57 de 274
 
@@ -3547,8 +3545,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-derivar de un acuerdo con las autoridades competentes de un país con el que se tenga un tratado para
-evitar la doble tributación.
 Las resoluciones que en su caso se emitan en los términos de este artículo, podrán surtir sus efectos
 en el ejercicio en que se soliciten, en el ejercicio inmediato anterior y hasta por los tres ejercicios fiscales
 siguientes a aquél en que se soliciten. La vigencia podrá ser mayor cuando deriven de un procedimiento
@@ -3588,6 +3584,9 @@ inversiones en activo fijo, y a las que se refiere el artículo 59 de la Ley del
 Artículo 37.- Las instancias o peticiones que se formulen a las autoridades fiscales deberán ser
 resueltas en un plazo de tres meses; transcurrido dicho plazo sin que se notifique la resolución, el
 interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa
+en cualquier tiempo posterior a dicho plazo, mientras no se dicte la resolución, o bien, esperar a que ésta
+se dicte.
+El plazo para resolver las consultas a que hace referencia el artículo 34-A será de ocho meses.
 
 58 de 274
 
@@ -3599,9 +3598,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-en cualquier tiempo posterior a dicho plazo, mientras no se dicte la resolución, o bien, esperar a que ésta
-se dicte.
-El plazo para resolver las consultas a que hace referencia el artículo 34-A será de ocho meses.
 Cuando se requiera al promovente que cumpla los requisitos omitidos o proporcione los elementos
 necesarios para resolver, el término comenzará a correr desde que el requerimiento haya sido cumplido.
 Artículo 38.- Los actos administrativos que se deban notificar deberán tener, por lo menos, los
@@ -3648,6 +3644,11 @@ El Servicio de Administración Tributaria establecerá los medios a través de l
 comprobar la integridad y autoría del documento señalado en el párrafo anterior.
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará,
 además, la causa legal de la responsabilidad.
+Artículo 39.- El Ejecutivo Federal mediante resoluciones de carácter general podrá:
+I.
+
+Condonar o eximir, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su
+pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se
 
 59 de 274
 
@@ -3659,18 +3660,12 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 39.- El Ejecutivo Federal mediante resoluciones de carácter general podrá:
-I.
-
-Condonar o eximir, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su
-pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se
 afecte la situación de algún lugar o región del país, una rama de actividad, la producción o venta
 de productos, o la realización de una actividad, así como en casos de catástrofes sufridas por
 fenómenos meteorológicos, plagas o epidemias.
 Sin que las facultades otorgadas en esta fracción puedan entenderse referidas a los casos en
 que la afectación o posible afectación a una determinada rama de la industria obedezca a lo
 dispuesto en una Ley Tributaria Federal o Tratado Internacional.
-
 II.
 
 Dictar las medidas relacionadas con la administración, control, forma de pago y procedimientos
@@ -3720,6 +3715,11 @@ Solicitar a la autoridad competente se proceda por desobediencia o resistencia, 
 contribuyente, responsable solidario o tercero relacionado con ellos, a un mandato legítimo de
 autoridad competente.
 
+Las autoridades fiscales no aplicarán la medida de apremio prevista en la fracción I, cuando los
+contribuyentes, responsables solidarios o terceros relacionados con ellos, no atiendan las solicitudes de
+información o los requerimientos de documentación que les realicen las autoridades fiscales, o al
+atenderlos no proporcionen lo solicitado; cuando se nieguen a proporcionar la contabilidad con la cual
+
 60 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -3730,10 +3730,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Las autoridades fiscales no aplicarán la medida de apremio prevista en la fracción I, cuando los
-contribuyentes, responsables solidarios o terceros relacionados con ellos, no atiendan las solicitudes de
-información o los requerimientos de documentación que les realicen las autoridades fiscales, o al
-atenderlos no proporcionen lo solicitado; cuando se nieguen a proporcionar la contabilidad con la cual
 acrediten el cumplimiento de las disposiciones fiscales a que estén obligados, o cuando destruyan o
 alteren la misma.
 No se aplicarán medidas de apremio cuando los contribuyentes, responsables solidarios o terceros
@@ -3791,6 +3787,12 @@ requerir a éste para que, bajo protesta de decir verdad, manifieste si tiene co
 de que el bien que pretende asegurarse es propiedad del contribuyente y, en su caso,
 proporcione la documentación con la que cuente para acreditar su dicho.
 
+b)
+
+Cuentas por cobrar, acciones, bonos, cupones vencidos, valores mobiliarios y, en
+general, créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la
+Federación, estados y municipios y de instituciones o empresas de reconocida solvencia.
+
 61 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -3800,12 +3802,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-b)
-
-Cuentas por cobrar, acciones, bonos, cupones vencidos, valores mobiliarios y, en
-general, créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la
-Federación, estados y municipios y de instituciones o empresas de reconocida solvencia.
 
 c)
 
@@ -3862,6 +3858,12 @@ Tratándose de las visitas a contribuyentes con locales, puestos fijos o semifij
 pública a que se refiere el inciso b) de la fracción I de este artículo, el aseguramiento se
 practicará sobre las mercancías que se enajenen en dichos lugares, sin que sea necesario
 establecer un monto de la determinación provisional de adeudos fiscales presuntos.
+IV.
+
+El aseguramiento de los bienes a que se refiere el inciso f) de la fracción III de este artículo,
+se realizará conforme a lo siguiente:
+La solicitud de aseguramiento precautorio se formulará mediante oficio dirigido a la Comisión
+Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión
 
 62 de 274
 
@@ -3873,12 +3875,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-IV.
-
-El aseguramiento de los bienes a que se refiere el inciso f) de la fracción III de este artículo,
-se realizará conforme a lo siguiente:
-La solicitud de aseguramiento precautorio se formulará mediante oficio dirigido a la Comisión
-Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión
 Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien, a la entidad financiera o
 sociedad cooperativa de ahorro y préstamo que corresponda.
 Cuando la solicitud de aseguramiento se realice a través de las comisiones señaladas en el
@@ -3900,7 +3896,6 @@ de adeudos fiscales presuntos que la autoridad fiscal realice para efectos del a
 ya sea que se practique sobre una sola cuenta o contrato o más de uno. Lo anterior, siempre
 y cuando previo al aseguramiento, la autoridad fiscal cuente con información de las cuentas o
 contratos y los saldos que existan en los mismos.
-
 V.
 
 La autoridad fiscal notificará al contribuyente, responsable solidario o tercero relacionado con
@@ -3926,6 +3921,12 @@ vía pública, cuando el contribuyente visitado no demuestre estar inscrito en e
 de contribuyentes, o bien, no exhiba los comprobantes que amparen la legal posesión o
 propiedad de dichas mercancías.
 
+VII.
+
+Cuando el ejercicio de facultades de comprobación no se concluya dentro de los plazos que
+establece este Código; se acredite fehacientemente que ha cesado la conducta que dio origen
+al aseguramiento precautorio, o bien exista orden de suspensión emitida por autoridad
+
 63 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -3936,11 +3937,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-VII.
-
-Cuando el ejercicio de facultades de comprobación no se concluya dentro de los plazos que
-establece este Código; se acredite fehacientemente que ha cesado la conducta que dio origen
-al aseguramiento precautorio, o bien exista orden de suspensión emitida por autoridad
 competente que el contribuyente haya obtenido, la autoridad deberá ordenar que se levante la
 medida a más tardar el tercer día siguiente a que ello suceda.
 En el caso de que se hayan asegurado los bienes a que se refiere el inciso f) de la fracción III
@@ -3970,7 +3966,6 @@ Tratándose de los supuestos establecidos en el inciso b) de la fracción I de e
 aseguramiento precautorio quedará sin efectos cuando se acredite la inscripción al registro
 federal de contribuyentes o se acredite la legal posesión o propiedad de la mercancía, según
 sea el caso.
-
 Para la práctica del aseguramiento precautorio se observarán las disposiciones contenidas en la
 Sección II del Capítulo III del Título V de este Código, en aquello que no se oponga a lo previsto en este
 artículo.
@@ -3983,6 +3978,9 @@ I.
 Imponer la multa que corresponda en los términos de este Código y requerir hasta en tres
 ocasiones la presentación del documento omitido otorgando al contribuyente un plazo de quince
 días para el cumplimiento de cada requerimiento. Si no se atienden los requerimientos se
+impondrán las multas correspondientes, que tratándose de declaraciones, será una multa por
+cada obligación omitida. La autoridad después del tercer requerimiento respecto de la misma
+obligación, podrá aplicar lo dispuesto en la siguiente fracción.
 
 64 de 274
 
@@ -3994,9 +3992,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-impondrán las multas correspondientes, que tratándose de declaraciones, será una multa por
-cada obligación omitida. La autoridad después del tercer requerimiento respecto de la misma
-obligación, podrá aplicar lo dispuesto en la siguiente fracción.
 II.
 
 Tratándose de la omisión en la presentación de una declaración periódica para el pago de
@@ -4040,6 +4035,11 @@ Artículo 41-B. Las autoridades fiscales podrán llevar a cabo verificaciones pa
 proporcionados al registro federal de contribuyentes, relacionados con la identidad, domicilio y demás
 datos que se hayan manifestado para los efectos de dicho registro, sin que por ello se considere que las
 autoridades fiscales inician sus facultades de comprobación.
+Artículo 42. Las autoridades fiscales a fin de comprobar que los contribuyentes, los responsables
+solidarios o los terceros con ellos relacionados han cumplido con las disposiciones fiscales y aduaneras
+y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la
+comisión de delitos fiscales y para proporcionar información a otras autoridades fiscales, estarán
+facultadas para:
 
 65 de 274
 
@@ -4051,11 +4051,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 42. Las autoridades fiscales a fin de comprobar que los contribuyentes, los responsables
-solidarios o los terceros con ellos relacionados han cumplido con las disposiciones fiscales y aduaneras
-y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la
-comisión de delitos fiscales y para proporcionar información a otras autoridades fiscales, estarán
-facultadas para:
 I.-
 
 Rectificar los errores aritméticos, omisiones u otros que aparezcan en las declaraciones,
@@ -4124,6 +4119,9 @@ La visita domiciliaria que tenga por objeto verificar todos o cualquiera de las 
 referidas en los incisos anteriores, deberá realizarse conforme al procedimiento previsto en el
 artículo 49 de este Código y demás formalidades que resulten aplicables, en términos de la Ley
 Aduanera.
+Las autoridades fiscales podrán solicitar a los contribuyentes la información necesaria para su
+inscripción y actualización de sus datos en el citado registro e inscribir a quienes de conformidad
+con las disposiciones fiscales deban estarlo y no cumplan con este requisito.
 
 66 de 274
 
@@ -4135,9 +4133,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Las autoridades fiscales podrán solicitar a los contribuyentes la información necesaria para su
-inscripción y actualización de sus datos en el citado registro e inscribir a quienes de conformidad
-con las disposiciones fiscales deban estarlo y no cumplan con este requisito.
 VI.-
 
 Practicar u ordenar se practique avalúo o verificación física de toda clase de bienes, incluso
@@ -4182,6 +4177,9 @@ fiscales.
 El Servicio de Administración Tributaria establecerá mediante reglas de carácter general, el
 procedimiento para informar al contribuyente el momento oportuno para acudir a sus oficinas y la forma
 en que éste puede ejercer su derecho a ser informado.
+Artículo 42-A.- Las autoridades fiscales podrán solicitar de los contribuyentes, responsables
+solidarios o terceros, datos, informes o documentos, para planear y programar actos de fiscalización, sin
+que se cumpla con lo dispuesto por las fracciones IV a IX del artículo 48 de este Código.
 
 67 de 274
 
@@ -4193,9 +4191,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 42-A.- Las autoridades fiscales podrán solicitar de los contribuyentes, responsables
-solidarios o terceros, datos, informes o documentos, para planear y programar actos de fiscalización, sin
-que se cumpla con lo dispuesto por las fracciones IV a IX del artículo 48 de este Código.
 No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación,
 cuando únicamente soliciten los datos, informes y documentos a que se refiere este artículo, pudiendo
 ejercerlas en cualquier momento.
@@ -4248,6 +4243,8 @@ contabilidad.
 En los casos en que al presentarse los visitadores al lugar en donde deba practicarse la
 diligencia, descubran bienes o mercancías cuya importación, tenencia, producción, explotación,
 captura o transporte deba ser manifestada a las autoridades fiscales o autorizada por ellas, sin
+que se hubiera cumplido con la obligación respectiva, los visitadores procederán al
+aseguramiento de dichos bienes o mercancías.
 
 68 de 274
 
@@ -4259,8 +4256,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-que se hubiera cumplido con la obligación respectiva, los visitadores procederán al
-aseguramiento de dichos bienes o mercancías.
 III.
 
 Al iniciarse la visita en el domicilio fiscal los visitadores que en ella intervengan se deberán
@@ -4308,6 +4303,9 @@ I.
 
 De toda visita en el domicilio fiscal se levantará acta en la que se hará constar en forma
 circunstanciada los hechos u omisiones que se hubieren conocido por los visitadores. Los
+hechos u omisiones consignados por los visitadores en las actas hacen prueba de la existencia
+de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las
+contribuciones a cargo del visitado en el periodo revisado.
 
 69 de 274
 
@@ -4319,9 +4317,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-hechos u omisiones consignados por los visitadores en las actas hacen prueba de la existencia
-de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las
-contribuciones a cargo del visitado en el periodo revisado.
 II.
 
 Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberán
@@ -4373,6 +4368,9 @@ dos meses entre la fecha de la última acta parcial y el acta final. Este plazo 
 una sola vez por un plazo de un mes a solicitud del contribuyente.
 Dentro de un plazo no mayor de quince días hábiles contados a partir de la fecha de la última
 acta parcial, exclusivamente en los casos a que se refiere el párrafo anterior, el contribuyente
+podrá designar un máximo de dos representantes, con el fin de tener acceso a la información
+confidencial proporcionada u obtenida de terceros independientes respecto de operaciones
+comparables que afecte la posición competitiva de dichos terceros. La designación de
 
 70 de 274
 
@@ -4384,9 +4382,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-podrá designar un máximo de dos representantes, con el fin de tener acceso a la información
-confidencial proporcionada u obtenida de terceros independientes respecto de operaciones
-comparables que afecte la posición competitiva de dichos terceros. La designación de
 representantes deberá hacerse por escrito y presentarse ante la autoridad fiscal competente. Se
 tendrá por consentida la información confidencial proporcionada u obtenida de terceros
 independientes, si el contribuyente omite designar, dentro del plazo conferido, a los citados
@@ -4438,6 +4433,9 @@ comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona co
 entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la
 propia acta sin que esto afecte la validez y valor probatorio de la misma.
 
+VII.- Las actas parciales se entenderá que forman parte integrante del acta final de la visita aunque
+no se señale así expresamente.
+
 71 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -4448,8 +4446,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-VII.- Las actas parciales se entenderá que forman parte integrante del acta final de la visita aunque
-no se señale así expresamente.
 VIII. Cuando de la revisión de las actas de visita y demás documentación vinculada a éstas, se
 observe que el procedimiento no se ajustó a las normas aplicables, que pudieran afectar la
 legalidad de la determinación del crédito fiscal, la autoridad podrá de oficio, por una sola vez,
@@ -4506,6 +4502,9 @@ autoridad informe al contribuyente la reposición del procedimiento.
 Dicha suspensión no podrá exceder de un plazo de dos meses contados a partir de que la
 autoridad notifique al contribuyente la reposición del procedimiento.
 
+VI. Cuando la autoridad se vea impedida para continuar el ejercicio de sus facultades de
+comprobación por caso fortuito o fuerza mayor, hasta que la causa desaparezca, lo cual se
+
 72 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -4516,8 +4515,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-VI. Cuando la autoridad se vea impedida para continuar el ejercicio de sus facultades de
-comprobación por caso fortuito o fuerza mayor, hasta que la causa desaparezca, lo cual se
 deberá publicar en el Diario Oficial de la Federación y en la página de Internet del Servicio de
 Administración Tributaria.
 Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente
@@ -4573,6 +4570,11 @@ Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contr
 responsable solidario, mediante oficio, la conclusión de la revisión de gabinete de los
 documentos presentados.
 
+VI.-
+
+El oficio de observaciones a que se refiere la fracción IV de este artículo se notificará
+cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en esta
+
 73 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -4583,10 +4585,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-VI.-
-
-El oficio de observaciones a que se refiere la fracción IV de este artículo se notificará
-cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en esta
 última fracción citada. El contribuyente o el responsable solidario, contará con un plazo de
 veinte días, contados a partir del día siguiente al en que surta efectos la notificación del oficio de
 observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u
@@ -4599,7 +4597,6 @@ si en el plazo probatorio el contribuyente no presenta documentación comprobato
 desvirtúe.
 El plazo que se señala en el primero y segundo párrafos de esta fracción es independiente del
 que se establece en el artículo 46-A de este Código.
-
 VII.
 
 Tratándose de la revisión a que se refiere la fracción IV de este artículo, cuando ésta se
@@ -4641,6 +4638,9 @@ orden de verificación al visitado, a su representante legal, al encargado o a q
 frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de
 inspección.
 
+III.- Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia,
+requiriéndola para que designe dos testigos; si éstos no son designados o los designados no
+
 74 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -4651,8 +4651,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-III.- Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia,
-requiriéndola para que designe dos testigos; si éstos no son designados o los designados no
 aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el
 acta que levanten, sin que esta circunstancia invalide los resultados de la inspección.
 IV.- En toda visita domiciliaria se levantará acta en la que se harán constar en forma circunstanciada
@@ -4699,6 +4697,8 @@ En dicha resolución deberán señalarse los plazos en que la misma puede ser im
 recurso administrativo y en el juicio contencioso administrativo. Cuando en la resolución se omita el
 señalamiento de referencia, el contribuyente contará con el doble del plazo que establecen las
 disposiciones legales para interponer el recurso administrativo o el juicio contencioso administrativo.
+Artículo 51.- Las autoridades fiscales que al ejercer las facultades de comprobación a que se refiere
+el artículo 48 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las
 
 75 de 274
 
@@ -4710,8 +4710,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 51.- Las autoridades fiscales que al ejercer las facultades de comprobación a que se refiere
-el artículo 48 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las
 disposiciones fiscales, determinarán las contribuciones o aprovechamientos omitidos mediante
 resolución.
 Cuando las autoridades fiscales conozcan de terceros, hechos u omisiones que puedan entrañar
@@ -4832,6 +4830,8 @@ a)
 Determinada la irregularidad, ésta será notificada al contador público registrado en un
 plazo que no excederá de seis meses contados a partir de la terminación de la revisión
 del dictamen, a efecto de que en un plazo de quince días siguientes a que surta efectos
+dicha notificación manifieste por escrito lo que a su derecho convenga, y ofrezca y exhiba
+las pruebas que considere pertinentes.
 
 77 de 274
 
@@ -4843,8 +4843,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-dicha notificación manifieste por escrito lo que a su derecho convenga, y ofrezca y exhiba
-las pruebas que considere pertinentes.
 b)
 
 Agotado el periodo probatorio a que se refiere la fracción anterior, con vista en los
@@ -4903,6 +4901,11 @@ contribuyente, o si éstos no se presentan dentro de los plazos que establece el
 de este Código, o dicha información y documentos son incompletos, las citadas autoridades
 podrán, a su juicio, ejercer directamente con el contribuyente sus facultades de comprobación.
 
+III.
+
+Las autoridades fiscales podrán, en cualquier tiempo, solicitar a los terceros relacionados con
+el contribuyente o responsables solidarios, la información y documentación para verificar si
+
 78 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -4913,10 +4916,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-III.
-
-Las autoridades fiscales podrán, en cualquier tiempo, solicitar a los terceros relacionados con
-el contribuyente o responsables solidarios, la información y documentación para verificar si
 son ciertos los datos consignados en el dictamen y en los demás documentos, en cuyo caso,
 la solicitud respectiva se hará por escrito, notificando copia de la misma al contribuyente.
 La visita domiciliaria o el requerimiento de información que se realice a un contribuyente que
@@ -4982,6 +4981,11 @@ j)
 Tratándose de las revisiones electrónicas a que se refiere la fracción IX del artículo 42
 del presente Código.
 
+k)
+
+Cuando habiendo ejercido la opción a que se refiere el artículo 32-A de este Código, el
+dictamen de los estados financieros se haya presentado en forma extemporánea.
+
 79 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -4991,11 +4995,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-k)
-
-Cuando habiendo ejercido la opción a que se refiere el artículo 32-A de este Código, el
-dictamen de los estados financieros se haya presentado en forma extemporánea.
 
 l)
 
@@ -5058,6 +5057,11 @@ o en la comisión de otras irregularidades, a través de una resolución provisi
 su caso, se le podrá acompañar un oficio de preliquidación, cuando los hechos consignados
 sugieran el pago de algún crédito fiscal.
 
+II.
+
+En la resolución provisional se le requerirá al contribuyente, responsable solidario o tercero,
+para que en un plazo de quince días siguientes a la notificación de la citada resolución,
+
 80 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -5068,10 +5072,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-II.
-
-En la resolución provisional se le requerirá al contribuyente, responsable solidario o tercero,
-para que en un plazo de quince días siguientes a la notificación de la citada resolución,
 manifieste lo que a su derecho convenga y proporcione la información y documentación,
 tendiente a desvirtuar las irregularidades o acreditar el pago de las contribuciones o
 aprovechamientos consignados en la resolución provisional.
@@ -5081,7 +5081,6 @@ dentro del plazo señalado en el párrafo que antecede, mediante el pago total d
 contribuciones y aprovechamientos omitidos, junto con sus accesorios, en los términos
 contenidos en el oficio de preliquidación, en cuyo caso, gozará del beneficio de pagar una
 multa equivalente al 20% de las contribuciones omitidas.
-
 III.
 
 Una vez recibidas y analizadas las pruebas aportadas por el contribuyente, dentro de los diez
@@ -5131,6 +5130,8 @@ Concluidos los plazos otorgados a los contribuyentes para hacer valer lo que a s
 respecto de los hechos u omisiones dados a conocer durante el desarrollo de las facultades de
 comprobación a que se refiere la fracción IX del artículo 42 de este Código, se tendrá por perdido el
 derecho para realizarlo.
+Los actos y resoluciones administrativos, así como las promociones de los contribuyentes a que se
+refiere este artículo, se notificarán y presentarán en documentos digitales a través del buzón tributario.
 
 81 de 274
 
@@ -5142,8 +5143,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Los actos y resoluciones administrativos, así como las promociones de los contribuyentes a que se
-refiere este artículo, se notificarán y presentarán en documentos digitales a través del buzón tributario.
 Las autoridades fiscales deberán concluir el procedimiento de revisión electrónica a que se refiere
 este artículo dentro de un plazo máximo de seis meses contados a partir de la notificación de la
 resolución provisional, excepto en materia de comercio exterior, en cuyo caso el plazo no podrá exceder
@@ -5194,6 +5193,10 @@ a)
 Omisión del registro de operaciones, ingresos o compras, así como alteración del costo, por
 más de 3% sobre los declarados en el ejercicio.
 
+b)
+
+Registro de compras, gastos o servicios no realizados o no recibidos.
+
 82 de 274
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
@@ -5203,10 +5206,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-b)
-
-Registro de compras, gastos o servicios no realizados o no recibidos.
 
 c)
 
