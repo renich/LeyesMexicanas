@@ -5,21 +5,21 @@
 path=${1}
 path=${path:="${HOME}/src/LeyesMexicanas/federales"}
 
-# Obteniendo leyes
+# obteniendo leyes
 $HOME/bin/ley2txt "${path}"
 
 # ir a la ruta
 cd "${path}"
 
-# Hacer sha512sum
+# hacer sha512sum
 find "${path}/txt" -type f -exec cat {} \; | sha512sum > federales.sha512
 
-# Hacer commit del dia
+# hacer commit del dia
 echo 'Haciendo commit...'
 git add .
 git commit -a -m "Actualización de $( TZ='America/Mexico_City' date )"
 
-# Enviar a Github
+# enviar a Github
 git push origin master
 
 exit 0
