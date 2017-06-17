@@ -38,13 +38,13 @@ distribución de los fondos que en la misma se establecen.
 La información financiera que generen las entidades federativas y los municipios, relativa a la
 coordinación fiscal, se deberá regir por los principios de transparencia y de contabilidad gubernamental,
 en los términos de la Ley General de Contabilidad Gubernamental.
+Artículo reformado DOF 28-12-1989, 31-12-2000, 09-12-2013
+
 Artículo 2o.- El Fondo General de Participaciones se constituirá con el 20% de la recaudación federal
 participable que obtenga la federación en un ejercicio.
-La recaudación federal participable será la que obtenga la Federación por todos sus impuestos, así
-como por los derechos de minería, disminuidos con el total de las devoluciones por dichas contribuciones
-y excluyendo los conceptos que a continuación se relacionan:
+Párrafo reformado DOF 26-12-1990, 15-12-1995
 
-1 de 90
+1 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -54,10 +54,16 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+La recaudación federal participable será la que obtenga la Federación por todos sus impuestos, así
+como por los derechos de minería, disminuidos con el total de las devoluciones por dichas contribuciones
+y excluyendo los conceptos que a continuación se relacionan:
+Párrafo reformado DOF 11-08-2014
+
 I.
 
 El impuesto sobre la renta derivado de los contratos y asignaciones para la exploración y
 extracción de hidrocarburos a que se refiere la Ley de Ingresos sobre Hidrocarburos;
+Fracción reformada DOF 11-08-2014
 
 II.
 
@@ -94,25 +100,42 @@ VIII.
 
 Las cantidades que se distribuyan a las entidades federativas de acuerdo con lo previsto en
 los artículos 4o.-A y 4o.-B de esta Ley;
+Fracción reformada DOF 11-08-2014
 
 IX.
 
 El excedente de los ingresos que obtenga la Federación por aplicar una tasa superior al 1% a
 los ingresos por la obtención de premios a que se refieren los artículos 138 y 169 de la Ley del
 Impuesto sobre la Renta, y
+Fracción reformada DOF 11-08-2014
 
 X.
 
 El impuesto por la actividad de exploración y extracción de hidrocarburos previsto en el Título
 Cuarto de la Ley de Ingresos sobre Hidrocarburos.
+Fracción adicionada DOF 11-08-2014
+Párrafo reformado DOF 03-12-1993. Párrafo con fracciones reformado DOF 09-12-2013
 
 Adicionalmente, la recaudación federal participable estará integrada por el 80.29% de los ingresos
 petroleros del Gobierno Federal a que se refiere el artículo 2, fracción XXX Bis, de la Ley Federal de
 Presupuesto y Responsabilidad Hacendaria, así como de los ingresos excedentes a que se refiere el
 tercer párrafo del artículo 93 de la misma ley.
+Párrafo adicionado DOF 11-08-2014
+
 El Fondo General de Participaciones se distribuirá conforme a la fórmula siguiente:
 
 Pi ,t  Pi ,07  FGP07 ,t 0.6C1i ,t  0.3 C 2i ,t  0.1C 3i ,t 
+
+2 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 PIBi ,t 1
 ni
 PIBi ,t 2
@@ -129,21 +152,11 @@ i
 IEi ,t 
 con
 
-2 de 90
+C 3 i ,t 
 
 1 3 IEi ,t  j
 
 3 j 1 IEi ,t  j 1
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
-C 3 i ,t 
 
 IEi ,t 1 ni
 
@@ -180,6 +193,17 @@ con el otorgamiento de beneficios, programas, subvenciones, o subsidios, aun cua
 denominación distinta en la legislación local correspondiente, y que estén dirigidos a determinado
 sector de la población o de la economía, no se considerarán ingresos para efectos de la determinación
 de coeficientes de participaciones.
+
+3 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 En lo que corresponde a los derechos, se considerarán aquellas contribuciones establecidas en
 Ley por el uso o aprovechamiento de los bienes del dominio público de la entidad, así como por los
 servicios que presten las entidades en sus funciones de derecho público, excepto cuando se presten
@@ -189,16 +213,6 @@ entidades.
 La Comisión Permanente de Funcionarios Fiscales podrá aprobar otros impuestos y derechos
 respecto de los cuales exista información certera y verificable, atendiendo a criterios de equidad entre
 las entidades federativas.
-
-3 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 IEi,t es un promedio móvil de tres años de las tasas de crecimiento en la recaudación de los
 impuestos y derechos locales de la entidad i, referidos en la variable anterior.
@@ -211,6 +225,8 @@ es la suma sobre todas las entidades de la variable que le sigue.
 
 i
 
+Párrafo reformado DOF 26-12-1990, 31-12-1999. Párrafo con “fórmula” reformado DOF 21-12-2007, 09-12-2013
+
 Las entidades deberán informar de la totalidad de la recaudación que efectúen de cada uno de sus
 impuestos y derechos locales, en los formatos que para ello emita la Secretaría de Hacienda y Crédito
 Público. La fórmula anterior no será aplicable en el evento de que en el año de cálculo la recaudación
@@ -219,6 +235,8 @@ realizará en función de la cantidad efectivamente generada en el año de cálc
 coeficiente efectivo que cada entidad haya recibido de dicho Fondo en el año 2007. La Secretaría de
 Hacienda y Crédito Público podrá solicitar a las entidades la información que estime necesaria para
 verificar las cifras recaudatorias locales presentadas por las entidades.
+Párrafo reformado DOF 26-12-1990, 03-12-1993, 21-12-2007, 09-12-2013
+
 También se adicionará al Fondo General un monto equivalente al 80% del impuesto recaudado en
 1989 por las entidades federativas, por concepto de las bases especiales de tributación. Dicho monto se
 actualizará en los términos del artículo 17-A del Código Fiscal de la Federación, desde el sexto mes de
@@ -226,6 +244,8 @@ actualizará en los términos del artículo 17-A del Código Fiscal de la Federa
 doce y se distribuirá mensualmente a las entidades, en la proporción que representa la recaudación de
 estas bases de cada entidad, respecto del 80% de la recaudación por bases especiales de tributación en
 el año de 1989.
+Párrafo adicionado DOF 26-12-1990
+
 Adicionalmente, las entidades participarán en los accesorios de las contribuciones que forman parte
 de la recaudación federal participable, que se señalen en los convenios respectivos. En los productos de
 la Federación relacionados con bienes o bosques, que las leyes definen como nacionales, ubicados en el
@@ -236,20 +256,10 @@ celebrar con la Federación convenio de colaboración administrativa en materia 
 automóviles nuevos, supuesto en el cual la entidad de que se trate recibirá el 100% de la recaudación
 que se obtenga por este impuesto, del que corresponderá cuando menos el 20% a los municipios de la
 entidad, que se distribuirá entre ellos en la forma que determine la legislatura respectiva.
-Artículo 2-A.- En el rendimiento de las contribuciones que a continuación se señalan, participarán los
-Municipios, en la forma siguiente:
-I.-
+Párrafo adicionado DOF 30-12-1996
+Reforma DOF 21-12-2007: Derogó del artículo el entonces párrafo noveno (antes reformado DOF 26-12-1990, 20-12-1991, 15-12-1995,
 
-En la proporción de la recaudación federal participable en la forma siguiente:
-0.136% de la recaudación federal participable, a aquellos Municipios colindantes con la frontera o
-los litorales por los que se realicen materialmente la entrada al país o la salida de él de los bienes
-que se importen o exporten, siempre que la entidad federativa de que se trate celebre convenio
-con la Federación en materia de vigilancia y control de introducción ilegal al territorio nacional de
-mercancías de procedencia extranjera y en dichos convenios se establezcan descuentos en las
-participaciones a que se refiere esta fracción, en los casos en que se detecten mercancías de
-procedencia extranjera respecto de las cuales no se acredite su legal estancia en el país.
-
-4 de 90
+4 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -258,6 +268,31 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+30-12-1996)
+Reforma DOF 09-12-2013: Derogó del artículo el entonces párrafo tercero (antes reformado DOF 03-12-1993, 29-12-1993)
+Reforma DOF 09-12-2013: Derogó del artículo el entonces párrafo cuarto (antes adicionado DOF 26-12-1990, reformado DOF 15-12-1995,
+30-12-1996, 29-12-1997, 21-12-2007)
+Artículo reformado DOF 30-12-1980, 31-12-1981, 31-12-1982, 30-12-1983. Fe de erratas DOF 28-03-1984. Reformado DOF 31-12-1986,
+31-12-1987, 28-12-1989
+
+Artículo 2-A.- En el rendimiento de las contribuciones que a continuación se señalan, participarán los
+Municipios, en la forma siguiente:
+Párrafo reformado DOF 30-12-1983
+
+I.-
+
+En la proporción de la recaudación federal participable en la forma siguiente:
+Párrafo reformado DOF 09-12-2013
+
+0.136% de la recaudación federal participable, a aquellos Municipios colindantes con la frontera o
+los litorales por los que se realicen materialmente la entrada al país o la salida de él de los bienes
+que se importen o exporten, siempre que la entidad federativa de que se trate celebre convenio
+con la Federación en materia de vigilancia y control de introducción ilegal al territorio nacional de
+mercancías de procedencia extranjera y en dichos convenios se establezcan descuentos en las
+participaciones a que se refiere esta fracción, en los casos en que se detecten mercancías de
+procedencia extranjera respecto de las cuales no se acredite su legal estancia en el país.
+Párrafo reformado DOF 15-12-1995
 
 La distribución entre los municipios se realizará mediante la aplicación del coeficiente de
 participación que se determinará para cada uno de ellos conforme a la siguiente fórmula:
@@ -274,18 +309,32 @@ CCiT-1
 = Coeficiente de participaciones del municipio i en el año inmediato anterior a aquel
 para el cual se efectúa el cálculo.
 
-IPDAiT-1 = Recaudación local de predial y de los derechos de agua en el municipio i en el año
-inmediato anterior para el cual se efectúa el cálculo.
+IPDAiT-1 = Recaudación local de predial y de los derechos de agua en el municipio i en el
+año inmediato anterior para el cual se efectúa el cálculo.
 IPDAiT-2 = Recaudación local del predial y de los derechos de agua en el municipio i en el
 segundo año inmediato anterior para el cual se efectúa el cálculo.
+Fracción reformada DOF 31-12-1986, 29-12-1993
+
 II.-
 
 La transferencia del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo que, en
 términos del artículo 92 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se
 realice a los municipios colindantes con la frontera o litorales por los que se realice materialmente
 la salida del país de los hidrocarburos.
+
+5 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 La Comisión Nacional de Hidrocarburos informará mensualmente a la Secretaría de Hacienda y
 Crédito Público los montos y municipios a que se refiere el párrafo anterior.
+Fe de erratas a la fracción DOF 15-04-1982. Reformada DOF 30-12-1983, 31-12-1986, 03-12-1993, 29-12-1993, 11-08-2014
 
 III.- 1% de la recaudación federal participable, en la siguiente forma:
 a)
@@ -297,18 +346,9 @@ b)
 El 83.2% incrementará dicho Fondo de Fomento Municipal y sólo corresponderá a las
 entidades que se coordinen en materia de derechos, siempre que se ajusten estrictamente a
 los lineamientos establecidos en el artículo 10-A de esta Ley.
+Fracción adicionada DOF 31-12-1986. Reformada DOF 28-12-1989, 26-12-1990, 03-12-1993, 15-12-1995
 
 El Fondo de Fomento Municipal se distribuirá entre las entidades conforme a la fórmula siguiente:
-
-5 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 Donde:
 es el coeficiente de distribución del 70% del excedente del Fondo de Fomento Municipal con
@@ -324,6 +364,17 @@ se deje de ser elegible para la distribución de esta porción del Fondo.
 Fi,t es la participación del fondo al que se refiere este artículo de la entidad i en el año t.
 es la participación del fondo al que se refiere este artículo que la entidad i recibió en el año
 2013.
+
+6 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 es el crecimiento en el Fondo de Fomento Municipal entre el año 2013 y el periodo t.
 es la recaudación local de predial y de los derechos de agua, que registren un flujo de efectivo,
 de la entidad i en el año t, reportada en los formatos que emita la Secretaría de Hacienda y Crédito
@@ -341,8 +392,41 @@ Estadística y Geografía para la entidad i.
 es la última información oficial de población que hubiere dado a conocer el Instituto Nacional
 de Estadística y Geografía de los municipios que hayan convenido la coordinación del cobro de predial
 para la entidad i.
+Párrafo adicionado DOF 30-12-1983. Reformado DOF 28-12-1989. Párrafo con “fórmula” reformado DOF 26-12-1990, 21-12-2007,
+09-12-2013
 
-6 de 90
+Los Estados entregarán íntegramente a sus municipios las cantidades que reciban del Fondo de
+Fomento Municipal, de acuerdo con lo que establezcan las legislaturas locales, garantizando que no sea
+menor a lo recaudado por los conceptos que se dejan de recibir por la coordinación en materia de
+derechos.
+Párrafo reformado DOF 26-12-1990
+
+Las cantidades que correspondan a los municipios en los términos de las fracciones I y II, se pagarán
+por la Federación directamente a dichos municipios.
+Párrafo reformado DOF 31-12-1986
+
+La fórmula del Fondo de Fomento Municipal no será aplicable en el evento de que en el año que se
+calcula, el monto de dicho Fondo sea inferior al obtenido en el año 2013. En dicho supuesto, la
+distribución se realizará en relación con la cantidad efectivamente generada en el año que se calcula y de
+acuerdo al coeficiente efectivo que cada entidad haya recibido del Fondo de Fomento Municipal en el
+2013.
+Párrafo adicionado DOF 21-12-2007. Reformado DOF 09-12-2013
+Reforma DOF 30-12-1983: Derogó del artículo el entonces párrafo cuarto (antes con fe de erratas DOF 15-04-1982)
+Artículo adicionado DOF 30-12-1980. Reformado DOF 31-12-1981
+
+Artículo 3o.- La Secretaría de Hacienda y Crédito Público tiene la obligación de publicar en el Diario
+Oficial de la Federación el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como el
+monto, estimados, que recibirá cada Entidad Federativa del fondo general y del fondo de fomento
+municipal, para cada ejercicio fiscal a más tardar el 31 de enero del ejercicio de que se trate.
+Párrafo adicionado DOF 31-12-1999. Reformado DOF 14-07-2003
+
+En los informes trimestrales sobre las finanzas públicas que la Secretaría de Hacienda y Crédito
+Público entrega a la Cámara de Diputados deberá incluir la evolución de la recaudación federal
+participable, el importe de las participaciones entregadas de cada fondo a las entidades en ese lapso y,
+en su caso, el ajuste realizado al término de cada ejercicio fiscal.
+Párrafo adicionado DOF 31-12-1999
+
+7 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -352,37 +436,30 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Los Estados entregarán íntegramente a sus municipios las cantidades que reciban del Fondo de
-Fomento Municipal, de acuerdo con lo que establezcan las legislaturas locales, garantizando que no sea
-menor a lo recaudado por los conceptos que se dejan de recibir por la coordinación en materia de
-derechos.
-Las cantidades que correspondan a los Municipios en los términos de las fracciones I y II, se pagarán
-por la Federación directamente a dichos municipios.
-La fórmula del Fondo de Fomento Municipal no será aplicable en el evento de que en el año que se
-calcula, el monto de dicho Fondo sea inferior al obtenido en el año 2013. En dicho supuesto, la
-distribución se realizará en relación con la cantidad efectivamente generada en el año que se calcula y de
-acuerdo al coeficiente efectivo que cada entidad haya recibido del Fondo de Fomento Municipal en el
-2013.
-Artículo 3o.- Primer y segundo párrafos (Se derogan).
-La Secretaría de Hacienda y Crédito Público tiene la obligación de publicar en el Diario Oficial de la
-Federación el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como el monto,
-estimados, que recibirá cada Entidad Federativa del fondo general y del fondo de fomento municipal, para
-cada ejercicio fiscal a más tardar el 31 de enero del ejercicio de que se trate.
-En los informes trimestrales sobre las finanzas públicas que la Secretaría de Hacienda y Crédito
-Público entrega a la Cámara de Diputados deberá incluir la evolución de la recaudación federal
-participable, el importe de las participaciones entregadas de cada fondo a las entidades en ese lapso y,
-en su caso, el ajuste realizado al término de cada ejercicio fiscal.
+Reforma DOF 21-12-2007: Derogó del artículo el entonces párrafo primero
+Reforma DOF 21-12-2007: Derogó del artículo el entonces párrafo segundo (antes reformado DOF 15-12-1995, 30-12-1996)
+Artículo reformado DOF 31-12-1982, 30-12-1983, 31-12-1987, 28-12-1989, 26-12-1990
+
 Artículo 3-A.- Las entidades federativas adheridas al Sistema Nacional de Coordinación Fiscal,
 participarán de la recaudación que se obtenga del impuesto especial sobre producción y servicios, por la
 realización de los actos o actividades gravados con dicho impuesto sobre los bienes que a continuación
 se mencionan, conforme a las proporciones siguientes:
-I.- El 20% de la recaudación si se trata de cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas
-fermentadas y bebidas alcohólicas.
-II.- El 8% de la recaudación si se trata de tabacos labrados.
+I.-
+
+El 20% de la recaudación si se trata de cerveza, bebidas refrescantes, alcohol, bebidas
+alcohólicas fermentadas y bebidas alcohólicas.
+Fracción reformada DOF 31-12-1999
+
+II.-
+
+El 8% de la recaudación si se trata de tabacos labrados.
+
 Esta participación se distribuirá en función del porcentaje que represente la enajenación de cada uno
 de los bienes a que se refiere este artículo en cada entidad federativa, de la enajenación nacional, y se
 liquidará conforme a lo establecido en el artículo 7o. de esta Ley.
 Los municipios recibirán como mínimo el 20% de la participación que le corresponda al estado.
+Artículo adicionado DOF 15-12-1995
+
 Artículo 3-B.- Las entidades adheridas al Sistema Nacional de Coordinación Fiscal participarán al
 100% de la recaudación que se obtenga del impuesto sobre la renta que efectivamente se entere a la
 Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal
@@ -392,17 +469,6 @@ paramunicipales, siempre que el salario sea efectivamente pagado por los entes m
 a sus participaciones u otros ingresos locales.
 Para efectos del párrafo anterior, se considerará la recaudación que se obtenga por el Impuesto sobre
 la Renta, una vez descontadas las devoluciones por dicho concepto.
-
-7 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Asimismo, para que resulte aplicable lo dispuesto en el primer párrafo de este artículo, las entidades
 deberán enterar a la Federación el 100% de la retención que deben efectuar del Impuesto sobre la Renta
 correspondiente a los ingresos por salarios que las entidades paguen con cargo a recursos federales.
@@ -410,6 +476,8 @@ Las entidades deberán participar a sus municipios o demarcaciones territoriales
 recaudación del impuesto al que se refiere el párrafo primero de este artículo, correspondiente al personal
 que preste o desempeñe un servicio personal subordinado en el municipio o demarcación territorial de
 que se trate.
+Artículo adicionado DOF 29-12-1997. Reformado DOF 31-12-1999, 09-12-2013
+
 Artículo 4o.- El Fondo de Fiscalización y Recaudación estará conformado por un monto equivalente
 al 1.25% de la recaudación federal participable de cada ejercicio.
 Las entidades que se ajusten a lo establecido en el artículo 10-A de esta Ley, recibirán mensualmente
@@ -419,6 +487,16 @@ Fiscalización.
 Adicionalmente, de forma trimestral, se distribuirán los recursos de este Fondo, disminuyendo las
 cantidades entregadas mediante los anticipos señalados en el párrafo anterior, de acuerdo con la
 siguiente fórmula:
+
+8 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 CVi ,t 1
 ni
@@ -439,16 +517,6 @@ Ti,t es la participación de la entidad i en el año t.
 Ti,13 es la participación que la entidad i recibió en el año 2013, por concepto del Fondo de
 Fiscalización.
 
-8 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 FOFIR13,t es la diferencia entre el Fondo de Fiscalización y Recaudación del año t y el Fondo de
 Fiscalización del año 2013.
 CVi,t son las cifras virtuales de la entidad i en el año t que dé a conocer el Servicio de
@@ -462,6 +530,17 @@ Ri,t es la recaudación de impuestos y derechos locales de la entidad i en el a�
 Público.
 ILDi,t corresponde a la recaudación de impuestos y derechos que se recauden en la entidad i en el
 año t, contenida en la última cuenta pública oficial más las Participaciones Federales que se hayan
+
+9 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 percibido en dicho ejercicio, incluyendo los incentivos derivados de la aplicación del Convenio de
 Colaboración Administrativa en Materia Fiscal Federal.
 ni es la última información oficial de población que dé a conocer el Instituto Nacional de Estadística
@@ -492,19 +571,11 @@ función de la cantidad efectivamente generada en el año de cálculo y de acuer
 efectivo que cada entidad haya recibido por concepto del Fondo de Fiscalización en el año 2013.
 Los municipios y demarcaciones territoriales del Distrito Federal recibirán como mínimo el 20% de la
 recaudación que del Fondo de Fiscalización y Recaudación corresponda a las entidades.
-
-9 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 La Secretaría de Hacienda y Crédito Público podrá verificar el cumplimiento de las labores de
 fiscalización efectuadas por las entidades federativas en los términos de este artículo.
+Artículo reformado DOF 30-12-1983. Derogado DOF 28-12-1989. Adicionado DOF 26-12-1990. Reformado DOF 03-12-1993, 29-12-1993,
+15-12-1995, 21-12-2007, 09-12-2013
+
 Artículo 4o-A.- La recaudación derivada de la aplicación de las cuotas previstas en el artículo 2o-A,
 fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, se dividirá en dos partes:
 I.
@@ -515,14 +586,28 @@ permisionarios para el expendio al público y la distribución de gasolinas y di
 Secretaría de Hacienda y Crédito Público, complementada, en su caso, con la información del
 Servicio de Administración Tributaria y de la Comisión Reguladora de Energía, siempre y cuando
 se encuentren adheridas al Sistema Nacional de Coordinación Fiscal.
+Párrafo reformado DOF 11-08-2014
+
 Los recursos que obtengan las entidades federativas, municipios y demarcaciones territoriales,
 de acuerdo a lo previsto en esta fracción, podrán afectarse en términos del artículo 9o. de esta
+
+10 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Ley, siempre que la afectación correspondiente en ningún caso exceda del 25% de los recursos
 que les correspondan.
 Tratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para cada año podrá
 destinarse al servicio de las mismas lo que resulte mayor entre aplicar el porcentaje a que se
 refiere el párrafo anterior a los recursos correspondientes al año de que se trate o a los recursos
 correspondientes al año en que las obligaciones hayan sido contratadas.
+Fracción reformada DOF 09-12-2013
 
 II.
 
@@ -543,8 +628,8 @@ i ,t 1
 
 Donde:
 Ti,t es la transferencia de la entidad i en el año t.
-PIBpci,t-1 es el último Producto Interno Bruto per cápita no minero y no petrolero de la entidad i
-construido con los últimos datos oficiales del Instituto Nacional de Estadística y Geografía.
+PIBpci,t-1 es el último Producto Interno Bruto per cápita no minero y no petrolero de la entidad
+i construido con los últimos datos oficiales del Instituto Nacional de Estadística y Geografía.
 FCt es el Fondo de Compensación en el año t.
 
 
@@ -554,8 +639,22 @@ es la sumatoria de la variable que le sigue.
 
 La Secretaría de Hacienda y Crédito Público enterará a las entidades las cantidades a que se
 refiere este artículo, dentro del mes siguiente al entero de dichas cantidades por parte de
+Petróleos Mexicanos, de los permisionarios para actividades de tratamiento y refinación de
+petróleo, y por aquéllos que realicen la importación al país de gasolinas y diesel.
+Párrafo reformado DOF 11-08-2014
 
-10 de 90
+La Comisión Permanente de Funcionarios Fiscales, en conjunto con la Secretaría de Hacienda y
+Crédito Público, deberá presentar al Congreso de la Unión una evaluación sobre los resultados y
+desempeño del Fondo a que se refiere esta fracción, así como sobre la conveniencia de
+conservar o modificar las reglas de su distribución. Dicha evaluación deberá presentarse en el
+mes de enero del año 2018 y posteriormente cada 5 años en caso de no modificarse las reglas
+de distribución.
+Fracción reformada DOF 09-12-2013
+
+Los municipios y demarcaciones territoriales recibirán como mínimo el 20% de la recaudación que
+corresponda a las entidades federativas en términos de este artículo. La distribución del porcentaje
+
+11 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -565,25 +664,20 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Petróleos Mexicanos, de los permisionarios para actividades de tratamiento y refinación de
-petróleo, y por aquéllos que realicen la importación al país de gasolinas y diesel.
-La Comisión Permanente de Funcionarios Fiscales, en conjunto con la Secretaría de Hacienda y
-Crédito Público, deberá presentar al Congreso de la Unión una evaluación sobre los resultados y
-desempeño del Fondo a que se refiere esta fracción, así como sobre la conveniencia de
-conservar o modificar las reglas de su distribución. Dicha evaluación deberá presentarse en el
-mes de enero del año 2018 y posteriormente cada 5 años en caso de no modificarse las reglas
-de distribución.
-Los municipios y demarcaciones territoriales recibirán como mínimo el 20% de la recaudación que
-corresponda a las entidades federativas en términos de este artículo. La distribución del porcentaje
 mencionado por parte de las entidades federativas a los municipios y demarcaciones territoriales deberá
 realizarse cuando menos en un 70% atendiendo a los niveles de población.
 Las entidades deberán incluir en las publicaciones a que se refiere el artículo 6o., último párrafo de
 esta Ley, los recursos que en términos de este artículo correspondan a sus municipios, y en el caso del
 Distrito Federal, a sus demarcaciones territoriales, así como acreditar su cumplimiento a la Secretaría de
 Hacienda y Crédito Público.
+Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-07-2008. Reformado DOF 09-12-2013
+Artículo adicionado DOF 21-12-2007
+
 Artículo 4o-B. El Fondo de Extracción de Hidrocarburos estará conformado por los recursos que le
 transfiera el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, en términos del artículo
 91 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+Párrafo reformado DOF 31-12-2008, 11-08-2014
+
 El Fondo a que se refiere este artículo será distribuido entre aquellas entidades que formen parte de la
 clasificación de extracción de petróleo y gas definida en el último censo económico realizado por el
 Instituto Nacional de Estadística y Geografía, de acuerdo a la fórmula siguiente:
@@ -593,17 +687,6 @@ Donde FEXHIt se refiere al Fondo de Extracción de Hidrocarburos en el año a re
 es el coeficiente relativo a la extracción de petróleo y gas.
 
 es el coeficiente relativo a la producción de gas asociado y no asociado.
-
-11 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 EXPi,t-1 es el valor de extracción bruta de los hidrocarburos de la entidad federativa i conforme a la
 clasificación de extracción de petróleo y gas definida en el último censo económico realizado por el
 Instituto Nacional de Estadística y Geografía.
@@ -612,46 +695,14 @@ año anterior para el cual se realiza el cálculo, según el Sistema de Informac
 
 
 
-i
 es la sumatoria de la variable que le sigue, sobre las entidades que formen parte de la
 clasificación de extracción de petróleo y gas definida en el último censo económico realizado por el
 Instituto Nacional de Estadística y Geografía.
+i
 
-La Secretaría de Hacienda y Crédito Público enterará a las entidades federativas las cantidades
-correspondientes mensualmente, de forma provisional y, en su caso, efectuará el ajuste anual que
-corresponda, conforme a las disposiciones que al efecto emita.
-Los municipios recibirán cuando menos el 20% de los recursos percibidos por las entidades
-federativas, incluyendo las cantidades que se perciban en tal caso por concepto de compensación.
-Las entidades adheridas al Sistema Nacional de Coordinación Fiscal que reciban ingresos por
-concepto del Fondo a que hace referencia el presente artículo, podrán celebrar con la Federación un
-convenio a fin de que los ingresos excedentes respecto a lo estimado y calendarizado en las
-disposiciones aplicables, se destinen en un porcentaje establecido en el citado convenio al Fondo de
-Estabilización de Extracción de Hidrocarburos.
-El Fondo de Estabilización de Extracción de Hidrocarburos tendrá por finalidad compensar la
-disminución en la ministración de los recursos obtenidos por el Fondo de Extracción de Hidrocarburos,
-respecto a lo estimado y calendarizado para el ejercicio fiscal en cuestión.
-El Fondo de Estabilización de Extracción de Hidrocarburos se sujetará a las reglas de operación que
-al efecto emita la Secretaría de Hacienda y Crédito Público, previa opinión de las entidades que reciban
-ingresos por concepto del Fondo de Extracción de Hidrocarburos.
-Artículo 5o.- Los cálculos de participaciones a que se refieren los artículos 2o. y 2o.-A de esta Ley se
-harán para todas las entidades, aunque algunas o varias de ellas no se encuentren adheridas al Sistema
-Nacional de Coordinación Fiscal. Las participaciones que correspondan a las entidades que dejen de
-estar adheridas al Sistema Nacional de Coordinación Fiscal serán deducidas del Fondo General de
-Participaciones, del Fondo de Fomento Municipal y del Fondo de Fiscalización y Recaudación.
-Artículo 6o.- Las participaciones federales que recibirán los Municipios del total del Fondo General de
-Participaciones incluyendo sus incrementos, nunca serán inferiores al 20% de las cantidades que
-correspondan al Estado, el cual habrá de cubrírselas. Las legislaturas locales establecerán su distribución
-entre los Municipios mediante disposiciones de carácter general, atendiendo principalmente a los
-incentivos recaudatorios y principios resarcitorios, en la parte municipal, considerados en el artículo 2o.
-del presente ordenamiento.
-La Federación entregará las participaciones a los municipios por conducto de los Estados; dentro de
-los cinco días siguientes a aquel en que el Estado las reciba; el retraso dará lugar al pago de intereses, a
-la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de
-contribuciones; en caso de incumplimiento la Federación hará la entrega directa a los Municipios
-descontando la participación del monto que corresponda al Estado, previa opinión de la Comisión
-Permanente de Funcionarios Fiscales.
+Párrafo con “fórmula” reformado DOF 31-12-2008, 09-12-2013
 
-12 de 90
+12 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -661,9 +712,71 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+La Secretaría de Hacienda y Crédito Público enterará a las entidades federativas las cantidades
+correspondientes mensualmente, de forma provisional y, en su caso, efectuará el ajuste anual que
+corresponda, conforme a las disposiciones que al efecto emita.
+Párrafo reformado DOF 11-08-2014
+
+Los municipios recibirán cuando menos el 20% de los recursos percibidos por las entidades
+federativas, incluyendo las cantidades que se perciban en tal caso por concepto de compensación.
+Párrafo reformado DOF 09-12-2013
+
+Las entidades adheridas al Sistema Nacional de Coordinación Fiscal que reciban ingresos por
+concepto del Fondo a que hace referencia el presente artículo, podrán celebrar con la Federación un
+convenio a fin de que los ingresos excedentes respecto a lo estimado y calendarizado en las
+disposiciones aplicables, se destinen en un porcentaje establecido en el citado convenio al Fondo de
+Estabilización de Extracción de Hidrocarburos.
+Párrafo adicionado DOF 09-12-2013
+
+El Fondo de Estabilización de Extracción de Hidrocarburos tendrá por finalidad compensar la
+disminución en la ministración de los recursos obtenidos por el Fondo de Extracción de Hidrocarburos,
+respecto a lo estimado y calendarizado para el ejercicio fiscal en cuestión.
+Párrafo adicionado DOF 09-12-2013
+
+El Fondo de Estabilización de Extracción de Hidrocarburos se sujetará a las reglas de operación que
+al efecto emita la Secretaría de Hacienda y Crédito Público, previa opinión de las entidades que reciban
+ingresos por concepto del Fondo de Extracción de Hidrocarburos.
+Párrafo adicionado DOF 09-12-2013
+Artículo adicionado DOF 21-12-2007
+
+Artículo 5o.- Los cálculos de participaciones a que se refieren los artículos 2o. y 2o.-A de esta Ley se
+harán para todas las entidades, aunque algunas o varias de ellas no se encuentren adheridas al Sistema
+Nacional de Coordinación Fiscal. Las participaciones que correspondan a las entidades que dejen de
+estar adheridas al Sistema Nacional de Coordinación Fiscal serán deducidas del Fondo General de
+Participaciones, del Fondo de Fomento Municipal y del Fondo de Fiscalización y Recaudación.
+Artículo reformado DOF 31-12-1981, 31-12-1987, 28-12-1989, 21-12-2007, 09-12-2013
+
+Artículo 6o.- Las participaciones federales que recibirán los Municipios del total del Fondo General de
+Participaciones incluyendo sus incrementos, nunca serán inferiores al 20% de las cantidades que
+correspondan al Estado, el cual habrá de cubrírselas. Las legislaturas locales establecerán su distribución
+entre los Municipios mediante disposiciones de carácter general, atendiendo principalmente a los
+incentivos recaudatorios y principios resarcitorios, en la parte municipal, considerados en el artículo 2o.
+del presente ordenamiento.
+Párrafo reformado DOF 28-12-1989, 09-12-2013
+
+La Federación entregará las participaciones a los municipios por conducto de los Estados; dentro de
+los cinco días siguientes a aquel en que el Estado las reciba; el retraso dará lugar al pago de intereses, a
+la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de
+contribuciones; en caso de incumplimiento la Federación hará la entrega directa a los Municipios
+descontando la participación del monto que corresponda al Estado, previa opinión de la Comisión
+Permanente de Funcionarios Fiscales.
+Párrafo reformado DOF 31-12-1982, 30-12-1983
+
 Los municipios y, tratándose del Distrito Federal, sus demarcaciones territoriales, recibirán como
 mínimo el 20% de la recaudación que corresponda al Estado en los términos del último párrafo del
 artículo 2o. de esta Ley.
+Párrafo adicionado DOF 31-12-1982. Reformado DOF 28-12-1989, 20-12-1991, 30-12-1996, 21-12-2007
+
+13 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Las participaciones serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán
 ser objeto de deducciones, sin perjuicio de lo dispuesto en el artículo 9 de esta Ley. Los Gobiernos de las
 entidades, a más tardar el 15 de febrero, deberán publicar en su Periódico Oficial, así como en su página
@@ -675,12 +788,19 @@ participaciones entregadas y, en su caso, el ajuste realizado al término de cad
 Secretaría de Hacienda y Crédito Público publicará en el Diario Oficial de la Federación la lista de las
 entidades que incumplan con esta disposición. Las publicaciones anteriores se deberán realizar conforme
 a los lineamientos que al efecto emita la Secretaría de Hacienda y Crédito Público.
+Párrafo adicionado DOF 30-12-1983. Reformado DOF 31-12-2000, 14-07-2003, 21-12-2007, 09-12-2013
+
 El incumplimiento a las obligaciones de información previstas en este artículo será sancionado en los
 términos de la legislación en materia de responsabilidades administrativas de los servidores públicos.
+Párrafo adicionado DOF 09-12-2013
+Artículo reformado DOF 31-12-1981
+
 Artículo 7o.- El Fondo General de Participaciones se determinará por cada ejercicio fiscal de la
 Federación, la cual en forma provisional hará un cálculo mensual considerando la recaudación federal
 participable obtenida en el mes inmediato anterior. En igual forma se procederá con las participaciones a
 que se refieren los artículos 2o.-A, fracciones I y III, y 3o.-A de esta Ley.
+Párrafo reformado DOF 28-12-1989, 29-12-1993, 15-12-1995
+
 Las Entidades dentro del mismo mes en que se realice el cálculo mencionado en el párrafo que
 antecede, recibirán las cantidades que les correspondan conforme a esta Ley, en concepto de anticipos a
 cuenta de participaciones.
@@ -692,19 +812,24 @@ del año anterior a la Cámara de Diputados del H. Congreso de la Unión para su
 determinará las participaciones que correspondan a la recaudación obtenida en el ejercicio, aplicará las
 cantidades que hubiera afectado provisionalmente a los Fondos y formulará de inmediato las
 liquidaciones que procedan.
+Párrafo reformado DOF 31-12-1999
+
 Durante los primeros cinco meses de cada ejercicio, las participaciones en el Fondo General de
 Participaciones a que se refiere la fórmula del artículo 2o., así como las que se establecen en los
 artículos 2o.-A, fracciones I y III y 3o.-A de esta Ley, se calcularán provisionalmente con los coeficientes
 del ejercicio inmediato anterior, en tanto se cuente con la información necesaria para calcular los nuevos
 coeficientes.
+Párrafo adicionado DOF 28-12-1989. Reformado DOF 26-12-1990, 29-12-1993, 15-12-1995, 21-12-2007
+Fe de erratas al artículo DOF 12-02-1979. Reformado DOF 30-12-1983. Fe de erratas DOF 28-03-1984. Reformado DOF 31-12-1986,
+31-12-1987
+
 Artículo 8o.- Para los efectos de las participaciones a que esta Ley se refiere y de los incentivos que
 se establezcan en los convenios de colaboración administrativa, las Entidades, los Municipios y la
 Federación estarán al resultado de la determinación y pago, que hubieren efectuado de créditos fiscales
 derivados de la aplicación de leyes sobre ingresos federales.
-La Federación por conducto de la Secretaría de Hacienda y Crédito Público informará bajo los
-lineamientos que se establezcan, del comportamiento de las participaciones a las partes beneficiadas.
+Párrafo reformado DOF 31-12-1981, 15-12-1995
 
-13 de 90
+14 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -713,6 +838,11 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+La Federación por conducto de la Secretaría de Hacienda y Crédito Público informará bajo los
+lineamientos que se establezcan, del comportamiento de las participaciones a las partes beneficiadas.
+Párrafo adicionado DOF 31-12-1981
+Reforma DOF 26-12-1990: Derogó del artículo el entonces párrafo segundo
 
 Artículo 9o.- Las participaciones que correspondan a las Entidades y los Municipios son
 inembargables; no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo aquéllas
@@ -732,6 +862,9 @@ originados del incumplimiento de metas pactadas con la Federación en materia de
 contribuciones. Asimismo, procederán las compensaciones entre las participaciones federales e
 incentivos de las Entidades y de los Municipios y las obligaciones que tengan con la Federación, cuando
 exista acuerdo entre las partes interesadas o esta Ley así lo autorice.
+Fe de erratas al artículo DOF 12-02-1979. Reformado DOF 31-12-1981. Fe de erratas DOF 15-04-1982. Reformado DOF 30-12-1983,
+28-12-1989, 26-12-1990, 15-12-1995, 21-12-2007, 09-12-2013, 27-04-2016
+
 Artículo 9-A.- La Federación, a través de la Secretaría de Hacienda y Crédito Público, y los estados y
 municipios en donde existan puentes de peaje operados por la primera, podrán convenir en crear fondos
 cuyos recursos se destinen a la construcción, mantenimiento, reparación y ampliación de obras de
@@ -753,14 +886,8 @@ En el caso de que el nivel recaudatorio, una vez firmado el convenio, se encuent
 nivel recaudatorio. Si en el momento de firmar nuevamente el convenio, el municipio se encuentra en este
 supuesto, no será sujeto de refrendo el convenio citado hasta no cumplir nuevamente con el nivel
 recaudatorio exigido y hasta el próximo ejercicio fiscal.
-El aforo vehicular de los puentes estará sujeto a las disposiciones aplicables de la Ley Federal de
-Transparencia y Acceso a la Información Pública Gubernamental.
-Lo señalado en el presente artículo no será aplicable tratándose de los puentes administrados por el
-fideicomiso número 1936 del Fondo de Apoyo al Rescate Carretero.
 
-CAPITULO II
-
-14 de 90
+15 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -770,32 +897,48 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+El aforo vehicular de los puentes estará sujeto a las disposiciones aplicables de la Ley Federal de
+Transparencia y Acceso a la Información Pública Gubernamental.
+Lo señalado en el presente artículo no será aplicable tratándose de los puentes administrados por el
+fideicomiso número 1936 del Fondo de Apoyo al Rescate Carretero.
+Artículo adicionado DOF 20-07-1992. Reformado DOF 15-12-1995, 14-07-2003, 30-12-2003
+
+CAPITULO II
 Del Sistema Nacional de Coordinación Fiscal
 Artículo 10.- Las Entidades que deseen adherirse al Sistema Nacional de Coordinación Fiscal para
 recibir las participaciones que establezca esta Ley, lo harán mediante convenio que celebren con la
 Secretaría de Hacienda y Crédito Público, que deberá ser autorizado o aprobado por su legislatura.
 También, con autorización de la legislatura podrán dar por terminado el convenio.
+Párrafo reformado DOF 31-12-2000
+
 La Secretaría de Hacienda y Crédito Público y el Gobierno de la Entidad de que se trate, ordenarán la
 publicación en el Diario Oficial de la Federación y en el Periódico Oficial de la Entidad, respectivamente,
 del convenio celebrado, por el cual la Entidad se adhiera; del acto por el que se separe del sistema; y de
 los decretos de la Legislatura de la Entidad por los cuales se autoricen o se aprueben dichos actos, que
 surtirán efectos a partir del día siguiente a la publicación que se efectúe en último lugar.
+Párrafo reformado DOF 31-12-2000
+
 La adhesión al Sistema Nacional de Coordinación Fiscal deberá llevarse a cabo integralmente y no
 sólo en relación con algunos de los ingresos de la Federación.
 Las Entidades que no deseen adherirse al Sistema Nacional de Coordinación Fiscal, participarán en
 los impuestos especiales a que se refiere el inciso 5o. de la fracción XXIX, del artículo 73 constitucional,
 en los términos que establecen las leyes respectivas.
+Párrafo reformado DOF 31-12-2000
+Reforma DOF 31-12-2000: Derogó del artículo el entonces párrafo cuarto
+
 Artículo 10-A.- Las entidades federativas que opten por coordinarse en derechos, no mantendrán en
 vigor derechos estatales o municipales por:
-I.-
+Fe de erratas al párrafo DOF 15-04-1982. Reformado DOF 31-12-1987, 28-12-1989
 
-II.-
+I.-
 
 Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos
 o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades
 comerciales o industriales y de prestación de servicios. Asimismo, los que resulten como
 consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la
 ampliación de horario, con excepción de las siguientes:
+Párrafo reformado DOF 03-12-1993
+
 a).-
 
 Licencias de construcción.
@@ -817,25 +960,7 @@ e).-
 
 Expedición de placas y tarjeta para la circulación de vehículos.
 
-f).-
-
-Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o
-locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de
-servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o
-parcialmente con el público en general.
-
-g).-
-
-Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la
-realización de publicidad, excepto los que se realicen por medio de televisión, radio,
-periódicos y revistas.
-
-Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
-a).-
-
-Registro Civil
-
-15 de 90
+16 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -845,16 +970,39 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+f).-
+
+Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o
+locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de
+servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o
+parcialmente con el público en general.
+Inciso adicionado DOF 15-12-1995
+
+g).-
+
+Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la
+realización de publicidad, excepto los que se realicen por medio de televisión, radio,
+periódicos y revistas.
+Inciso adicionado DOF 15-12-1995
+
+II.-
+
+III.-
+
+Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+a).-
+
+Registro Civil
+
 b).-
 
 Registro de la Propiedad y del Comercio.
-
-III.-
 
 Uso de las vías públicas o la tenencia de bienes sobre las mismas. No se considerarán
 comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de
 vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos,
 ni por el uso o tenencia de anuncios.
+Fracción reformada DOF 28-12-1989, 15-12-1995
 
 IV.-
 
@@ -866,40 +1014,31 @@ Los conceptos a que se refieren las fracciones anteriores, sin excepción alguna
 las actividades o servicios que realicen o presten las personas respecto del uso, goce,
 explotación o aprovechamiento de bienes de dominio público en materia eléctrica, de
 hidrocarburos o de telecomunicaciones.
+Fracción adicionada DOF 27-04-2016
 
 Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a
 que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los
 que se refieren los incisos del a) al g) de la fracción I y la fracción III.
+Párrafo reformado DOF 15-12-1995
+
 Las certificaciones de documentos así como la reposición de éstos por extravío o destrucción parcial o
 total, no quedará comprendida dentro de lo dispuesto en las fracciones I y II de este artículo. Tampoco
 quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las
 Entidades Federativas o a los Municipios.
+Fe de erratas al párrafo DOF 15-04-1982
+
 En ningún caso lo dispuesto en este artículo, se entenderá que limita la facultad de los Estados y
 Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar
 actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con
 las salvedades expresamente señaladas en este artículo.
+Párrafo reformado DOF 03-12-1993
+
 Para los efectos de coordinación con las Entidades, se considerarán derechos, aún cuando tengan
 una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las
 características de derecho conforme al Código Fiscal de la Federación y la Ley de Ingresos de la
 Federación.
-También se considerarán como derechos para los efectos de este artículo, las contribuciones u otros
-cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el
-Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones,
-donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
-Artículo 10-B.- Las Entidades podrán no coordinarse en derechos sin perjuicio de continuar adheridas
-al Sistema Nacional de Coordinación Fiscal.
-La Secretaría de Hacienda y Crédito Público hará la declaratoria de las Entidades que no tienen
-establecido o suspendan el cobro de los derechos a que se refiere el artículo anterior y que, por lo tanto,
-están coordinadas en esta materia, la cual se publicará en el Periódico Oficial de la Entidad y en el Diario
-Oficial de la Federación.
-Cuando en la legislación de alguna entidad o municipio se establezcan derechos que contravengan lo
-dispuesto en el artículo que antecede, la Secretaría de Hacienda y Crédito Público hará del conocimiento
-de la entidad de que se trate la violación específica, para que en un plazo de cinco días manifieste lo que
-a su derecho convenga. Transcurrido dicho plazo la propia Secretaría, en su caso, emitirá la declaratoria
-correspondiente, misma que se publicará en el Diario Oficial de la Federación y empezará a regir a partir
-del día siguiente al de su publicación, quedando sin efectos la coordinación en materia de derechos en
 
-16 de 90
+17 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -909,8 +1048,35 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+También se considerarán como derechos para los efectos de este artículo, las contribuciones u otros
+cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el
+Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones,
+donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+Párrafo adicionado DOF 03-12-1993
+Reforma DOF 31-12-2000: Derogó del artículo el entonces párrafo séptimo
+Artículo adicionado DOF 31-12-1981
+
+Artículo 10-B.- Las Entidades podrán no coordinarse en derechos sin perjuicio de continuar adheridas
+al Sistema Nacional de Coordinación Fiscal.
+Párrafo reformado DOF 31-12-2000
+
+La Secretaría de Hacienda y Crédito Público hará la declaratoria de las Entidades que no tienen
+establecido o suspendan el cobro de los derechos a que se refiere el artículo anterior y que, por lo tanto,
+están coordinadas en esta materia, la cual se publicará en el Periódico Oficial de la Entidad y en el Diario
+Oficial de la Federación.
+Párrafo reformado DOF 31-12-2000
+
+Cuando en la legislación de alguna entidad o municipio se establezcan derechos que contravengan lo
+dispuesto en el artículo que antecede, la Secretaría de Hacienda y Crédito Público hará del conocimiento
+de la entidad de que se trate la violación específica, para que en un plazo de cinco días manifieste lo que
+a su derecho convenga. Transcurrido dicho plazo la propia Secretaría, en su caso, emitirá la declaratoria
+correspondiente, misma que se publicará en el Diario Oficial de la Federación y empezará a regir a partir
+del día siguiente al de su publicación, quedando sin efectos la coordinación en materia de derechos en
 esta última fecha. En el caso de que el Estado esté inconforme con esta declaratoria, podrá acudir ante la
 Suprema Corte de Justicia de la Nación en los términos del artículo 12 de esta Ley.
+Párrafo reformado DOF 03-12-1993
+Artículo adicionado DOF 31-12-1981
+
 Artículo 10-C.- Las entidades adheridas al Sistema Nacional de Coordinación Fiscal, sin que se
 considere un incumplimiento de los convenios a que se refiere el artículo 10 de esta Ley ni de lo
 dispuesto en el artículo 41 de la Ley del Impuesto al Valor Agregado, y en adición a los impuestos a que
@@ -947,6 +1113,16 @@ VI.
 El impuesto se cause en el momento en que efectivamente se perciban los ingresos y sobre
 el monto que de ellos se perciba.
 
+18 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 VII.
 
 El impuesto no se aplique en dos o más etapas del proceso de comercialización.
@@ -955,12 +1131,16 @@ VIII.
 
 (Se deroga).
 
+Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-07-2008. Derogada DOF 09-12-2013
+
 Las entidades podrán convenir con el Ejecutivo Federal, a través de la Secretaría de Hacienda y
 Crédito Público, que los impuestos locales que en términos de este artículo, en su caso, establezca la
 entidad, se paguen en las mismas declaraciones del impuesto sobre la renta identificados por entidad.
 Los municipios recibirán como mínimo el 20% de la recaudación que corresponda a las entidades
 federativas en términos de este artículo. Tratándose del Distrito Federal, la distribución de dichos
 recursos se efectuará a sus demarcaciones territoriales.
+Artículo adicionado DOF 21-12-2007
+
 Artículo 10-D.- Para los efectos de lo previsto en el artículo 10-C de esta Ley, se estará a lo siguiente:
 I.
 
@@ -973,21 +1153,13 @@ Se considerará que la venta o consumo final de los bienes se efectúa en el ter
 entidad cuando en el mismo se realice la entrega de los mismos por parte del productor,
 envasador, distribuidor o importador, según sea el caso, para su posterior venta al público
 en general o consumo.
+Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-07-2008. Reformada DOF 09-12-2013
+Reforma DOF 09-12-2013: Derogó del artículo el entonces párrafo segundo
+Artículo adicionado DOF 21-12-2007
 
 Artículo 10-E.- Las entidades que estén adheridas al Sistema Nacional de Coordinación Fiscal
 deberán llevar un registro estatal vehicular, que se integrará con los datos de los vehículos que los
 contribuyentes inscriban o registren en la circunscripción territorial de cada entidad.
-
-17 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Los datos de los vehículos y de los contribuyentes que deberá contener el registro estatal vehicular
 serán:
 I.
@@ -1007,12 +1179,25 @@ Federal de Contribuyentes.
 Para efecto de intercambio de información, el registro estatal vehicular estará enlazado a los medios o
 sistemas de la Secretaría de Hacienda y Crédito Público que se determinen mediante disposiciones de
 carácter general.
+Artículo adicionado DOF 21-12-2007
+
 Artículo 11.- Cuando alguna entidad que se hubiera adherido al Sistema Nacional de Coordinación
 Fiscal viole lo previsto por los artículos 73 fracción XXIX, 117 fracciones IV a VII y IX o 118 fracción I, de
 la Constitución Política de los Estados Unidos Mexicanos o falte al cumplimiento del o de los convenios
 celebrados con la Secretaría de Hacienda y Crédito Público, ésta, oyendo a la entidad afectada y
 teniendo en cuenta el dictamen técnico que formule la Comisión Permanente de Funcionarios Fiscales,
 podrá disminuir las participaciones de la entidad en una cantidad equivalente al monto estimado de la
+
+19 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 recaudación que la misma obtenga o del estímulo fiscal que otorgue, en contravención a dichas
 disposiciones.
 La Secretaría de Hacienda y Crédito Público comunicará esta resolución a la entidad de que se trate,
@@ -1023,6 +1208,8 @@ correspondiente, la notificará a la entidad de que se trate y ordenará la publ
 Diario Oficial de la Federación. Dicha declaratoria surtirá sus efectos 90 días después de su publicación.
 Las cantidades en que se reduzcan las participaciones de una entidad, en los términos de este
 precepto, incrementarán al Fondo General de Participaciones en el siguiente año.
+Párrafo reformado DOF 28-12-1989, 21-12-2007
+
 Artículo 11-A.- Las personas que resulten afectadas por incumplimiento de las disposiciones del
 Sistema Nacional de Coordinación Fiscal y de las de coordinación en materia de derechos podrán
 presentar recurso de inconformidad ante la Secretaría de Hacienda y Crédito Público dentro de los
@@ -1030,24 +1217,18 @@ cuarenta y cinco días hábiles siguientes a aquél en que haya surtido efectos 
 requerimiento o, en su caso, a partir de la fecha de pago de la contribución que corresponda. No
 procederá la interposición del recurso de inconformidad cuando se refiera a la interpretación directa del
 texto constitucional.
+Párrafo reformado DOF 26-12-1990, 21-12-2007
+
 El recurso de inconformidad, podrá presentarse por un conjunto de contribuyentes que tengan un
 representante común. Para estos efectos los sindicatos, las cámaras de comercio y de industria y sus
 confederaciones, podrán fungir como representantes.
+Párrafo adicionado DOF 26-12-1990
+
 El recurso de inconformidad se tramitará conforme a las disposiciones que sobre el recurso de
 revocación establece el Código Fiscal de la Federación, con las siguientes modalidades:
 I.-
 
 La Secretaría de Hacienda y Crédito Público oirá a la entidad de que se trate.
-
-18 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 II.-
 
@@ -1062,11 +1243,28 @@ será aplicable lo que al respecto establece el Código Fiscal de la Federación
 La resolución podrá ser impugnada por los promoventes del recurso ante el Tribunal Federal de
 Justicia Fiscal y Administrativa y por la entidad afectada ante la Suprema Corte de Justicia de la Nación,
 en los términos establecidos en el artículo 12 de la presente Ley.
+Párrafo reformado DOF 31-12-2000, 21-12-2007
+Reforma DOF 21-12-2007: Derogó del artículo el entonces párrafo quinto
+Artículo adicionado DOF 28-12-1989
+
 Artículo 12.- La Entidad inconforme con la declaratoria por la que se considera que deja de estar
 adherida al Sistema Nacional de Coordinación Fiscal podrá ocurrir ante la Suprema Corte de Justicia de
 la Nación, conforme al artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y de la
+
+20 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Ley Orgánica del Poder Judicial Federal, demandando la anulación de la declaratoria que se haya dictado
 conforme al artículo anterior de esta Ley.
+Párrafo reformado DOF 31-12-2000
+
 Desde la admisión de la demanda se suspenderán los efectos de la declaratoria impugnada, por 150
 días. El fallo de la Suprema Corte de Justicia de la Nación producirá efectos 30 días después de su
 publicación en el Diario Oficial de la Federación.
@@ -1078,6 +1276,8 @@ convenios relativos a la coordinación fiscal en perjuicio de un entidad federat
 cumplimiento ante la Suprema Corte de Justicia de la Nación, siguiendo, en lo aplicable el procedimiento
 establecido en la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de
 los Estados Unidos Mexicanos.
+Párrafo reformado DOF 15-12-1995
+Reforma DOF 11-05-1995: Derogó del artículo los entonces párrafos segundo, tercero y cuarto
 
 CAPITULO III
 De la Colaboración Administrativa entre las Entidades y la Federación
@@ -1094,19 +1294,10 @@ que en el propio convenio se establezcan o, en su defecto, a partir del día sig
 el Diario Oficial de la Federación.
 La Federación o la Entidad podrán dar por terminados parcial o totalmente los convenios a que se
 refiere este precepto, terminación que será publicada y tendrá efectos conforme al párrafo anterior.
-
-19 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 En los convenios señalados en este precepto se fijarán las percepciones que recibirán las Entidades o
 sus Municipios, por las actividades de administración fiscal que realicen.
+Fe de erratas al artículo DOF 12-02-1979. Reformado DOF 30-12-1980, 15-12-1995, 31-12-2000
+
 Artículo 14.- Las autoridades fiscales de las entidades que se encuentren adheridas al Sistema
 Nacional de Coordinación Fiscal y las de sus Municipios, en su caso, serán consideradas, en el ejercicio
 de las facultades a que se refieren los convenios o acuerdos respectivos, como autoridades fiscales
@@ -1115,6 +1306,18 @@ procederán los recursos y medios de defensa que establezcan las leyes federales
 La Secretaría de Hacienda y Crédito Público conservará la facultad de fijar a las entidades y a sus
 Municipios los criterios generales de interpretación y de aplicación de las disposiciones fiscales y de las
 reglas de colaboración administrativa que señalen los convenios y acuerdos respectivos.
+Artículo reformado DOF 30-12-1980
+
+21 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 15.- La recaudación de los ingresos federales se hará por las oficinas autorizadas por la
 Secretaría de Hacienda y Crédito Público o por las oficinas autorizadas por las entidades, según se
 establezca en los convenios o acuerdos respectivos.
@@ -1123,36 +1326,47 @@ rendirá cuenta pormenorizada de recaudación. La Secretaría, también directam
 entidades de las cantidades que les correspondan en el Fondo establecido en el artículo 2o. y 2-A,
 fracción III y pondrá a su disposición la información correspondiente. Se podrá establecer, si existe
 acuerdo entre las partes interesadas, un procedimiento de compensación permanente.
+Párrafo reformado DOF 28-12-1989, 09-12-2013
+
 Las entidades coordinadas con la Federación en materia de automóviles nuevos, deberán rendir
 cuenta comprobada por la totalidad de la recaudación que efectúen de cada uno de estos impuestos.
+Párrafo reformado DOF 31-12-1987, 28-12-1989, 26-12-1990, 30-12-1996, 21-12-2007
+
 La falta de entero en los plazos establecidos dará lugar a que las cantidades respectivas se actualicen
 por inflación y a que se causen, a cargo de la Entidad o de la Federación, intereses a la tasa de recargos
 que establezca anualmente el Congreso de la Unión para los casos de autorizaciones de pago a plazo de
 contribuciones.
+Párrafo reformado DOF 28-12-1989
+
 La Secretaría de Hacienda y Crédito Público podrá compensar las cantidades no concentradas por la
 entidad, con las cantidades que a ésta correspondan en los fondos de participaciones establecidos por
 esta Ley.
+Fe de erratas al artículo DOF 12-02-1979. Reformado DOF 30-12-1983
+
 Artículo 15-A.- (Se deroga).
+Artículo adicionado DOF 31-12-1988. Derogado DOF 28-12-1989
 
 CAPITULO IV
 De los Organismos en Materia de Coordinación
 Artículo 16.- El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público y los
 gobiernos de las entidades, por medio de su órgano hacendario, participarán en el desarrollo, vigilancia y
 perfeccionamiento del Sistema Nacional de Coordinación Fiscal, a través de:
-I.- La Reunión Nacional de Funcionarios Fiscales.
-II.- La Comisión Permanente de Funcionarios Fiscales.
-III.- El Instituto para el Desarrollo Técnico de las Haciendas Públicas (INDETEC).
-IV.- La Junta de Coordinación Fiscal.
+I.-
 
-20 de 90
+La Reunión Nacional de Funcionarios Fiscales.
 
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+II.-
 
-Última Reforma DOF 18-07-2016
+La Comisión Permanente de Funcionarios Fiscales.
 
-Secretaría General
-Secretaría de Servicios Parlamentarios
+III.-
+
+El Instituto para el Desarrollo Técnico de las Haciendas Públicas (INDETEC).
+
+IV.-
+
+La Junta de Coordinación Fiscal.
+Fracción adicionada DOF 28-12-1989
 
 Artículo 17.- La Reunión Nacional de Funcionarios Fiscales se integrará por el Secretario de
 Hacienda y Crédito Público y por el titular del órgano hacendario de cada entidad. La Reunión será
@@ -1160,85 +1374,76 @@ presidida conjuntamente por el Secretario de Hacienda y Crédito Público y el f
 jerarquía presente en la Reunión, de la entidad en que ésta se lleve a cabo.
 El Secretario de Hacienda y Crédito Público podrá ser suplido por el Subsecretario de Ingresos, y los
 titulares del área hacendaria de las entidades por la persona que al efecto designen.
+
+22 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 18.- La Reunión Nacional de Funcionarios Fiscales sesionará, cuando menos una vez al año
 en el lugar del territorio nacional que elijan sus integrantes. Será convocada por el Secretario de
 Hacienda y Crédito Público o por la Comisión Permanente de Funcionarios Fiscales.
 En la convocatoria se señalarán los asuntos de que deba ocuparse la Reunión.
 Artículo 19.- Serán facultades de la Reunión Nacional de Funcionarios Fiscales:
-I.- Aprobar los reglamentos de funcionamiento de la propia Reunión Nacional, de la Comisión
-Permanente de Funcionarios Fiscales y de sus grupos de trabajo, del Instituto para el Desarrollo Técnico
-de las Haciendas Públicas y de la Junta de Coordinación Fiscal.
-II.- Establecer, en su caso, las aportaciones ordinarias y extraordinarias que deban cubrir la
+I.-
+
+Aprobar los reglamentos de funcionamiento de la propia Reunión Nacional, de la Comisión
+Permanente de Funcionarios Fiscales y de sus grupos de trabajo, del Instituto para el Desarrollo
+Técnico de las Haciendas Públicas y de la Junta de Coordinación Fiscal.
+Fracción reformada DOF 20-12-1991, 09-12-2013
+
+II.-
+
+Establecer, en su caso, las aportaciones ordinarias y extraordinarias que deban cubrir la
 Federación y las entidades, para el sostenimiento de los órganos citados en la fracción anterior.
-III.- Fungir como asamblea general del Instituto para el Desarrollo Técnico de las Haciendas Públicas
-y aprobar sus presupuestos y programas.
-IV.- Proponer al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público y a los
-Gobiernos de las Entidades por conducto del titular de su órgano hacendario, las medidas que estime
-convenientes para actualizar o mejorar el Sistema Nacional de Coordinación Fiscal.
+
+III.-
+
+Fungir como asamblea general del Instituto para el Desarrollo Técnico de las Haciendas
+Públicas y aprobar sus presupuestos y programas.
+
+IV.-
+
+Proponer al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público y a
+los Gobiernos de las Entidades por conducto del titular de su órgano hacendario, las medidas
+que estime convenientes para actualizar o mejorar el Sistema Nacional de Coordinación Fiscal.
+Fracción reformada DOF 31-12-2000
+
 Artículo 20.- La Comisión Permanente de Funcionarios Fiscales se integrará conforme a las
 siguientes reglas:
-I.- Estará formada por la Secretaría de Hacienda y Crédito Público y por ocho entidades. Será
-presidida conjuntamente por el Secretario de Hacienda y Crédito Público, que podrá ser suplido por el
-Subsecretario de Ingresos de dicha Secretaría, y por el titular del órgano hacendario que elija la Comisión
-entre sus miembros. En esta elección no participará la Secretaría de Hacienda y Crédito Público.
-II.- Las entidades estarán representadas por las ocho que al efecto elijan, las cuales actuarán a través
-del titular de su órgano hacendario o por la persona que éste designe para suplirlo.
-III.- Las entidades que integren la Comisión Permanente serán elegidas por cada uno de los grupos
+I.-
+
+Estará formada por la Secretaría de Hacienda y Crédito Público y por ocho entidades. Será
+presidida conjuntamente por el Secretario de Hacienda y Crédito Público, que podrá ser suplido
+por el Subsecretario de Ingresos de dicha Secretaría, y por el titular del órgano hacendario que
+elija la Comisión entre sus miembros. En esta elección no participará la Secretaría de Hacienda
+y Crédito Público.
+
+II.-
+
+Las entidades estarán representadas por las ocho que al efecto elijan, las cuales actuarán a
+través del titular de su órgano hacendario o por la persona que éste designe para suplirlo.
+
+III.-
+
+Las entidades que integren la Comisión Permanente serán elegidas por cada uno de los grupos
 que a continuación se expresan, debiendo representarlos en forma rotativa:
 GRUPO UNO: Baja California, Baja California Sur, Sonora y Sinaloa.
 GRUPO DOS: Chihuahua, Coahuila, Durango y Zacatecas.
 GRUPO TRES: Hidalgo, Nuevo León, Tamaulipas y Tlaxcala.
 GRUPO CUATRO: Aguascalientes, Colima, Jalisco y Nayarit.
+Fe de erratas al párrafo DOF 12-02-1979
+
 GRUPO CINCO: Guanajuato, Michoacán, Querétaro y San Luis Potosí.
-
-21 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 GRUPO SEIS: Distrito Federal, Guerrero, México y Morelos.
 GRUPO SIETE: Chiapas, Oaxaca, Puebla y Veracruz.
-GRUPO OCHO: Campeche, Quintana Roo, Tabasco y Yucatán.
-Con base en un análisis de las características socio-económicas y geográficas que tengan las
-entidades federativas, cada 10 años, la Comisión Permanente de Funcionarios Fiscales podrá proponer a
-la Reunión Nacional de Funcionarios Fiscales una reclasificación de los ocho grupos señalados en esta
-fracción, que deberá ser aprobada mediante votación unánime de esta última.
-IV.- Las entidades miembros de la Comisión Permanente durarán en su encargo dos años y se
-renovarán anualmente por mitad; pero continuarán en funciones, aún después de terminado su período,
-en tanto no sean elegidas las que deban sustituirlas.
-V.- La Comisión Permanente será convocada por el Secretario de Hacienda y Crédito Público, por el
-Subsecretario de Ingresos o por tres de los miembros de dicha Comisión. En la convocatoria se
-señalarán los asuntos que deban tratarse.
-VI. Será invitado permanente a las reuniones de la Comisión Permanente de Funcionarios Fiscales, el
-Presidente de la Conferencia Nacional de Municipios de México, siempre que las reuniones no
-correspondan a sesiones de trabajo con la participación exclusiva de los funcionarios a que se refiere la
-fracción II de este artículo.
-Artículo 21.- Serán facultades de la Comisión Permanente de Funcionarios Fiscales:
-I.- Preparar las Reuniones Nacionales de Funcionarios Fiscales y establecer los asuntos de que
-deban ocuparse.
-II.- Preparar los proyectos de distribución de aportaciones ordinarias y extraordinarias que deban
-cubrir la Federación y las Entidades para el sostenimiento de los órganos de coordinación, los cuales
-someterá a la aprobación de la Reunión Nacional de Funcionarios Fiscales.
-III.- Fungir como consejo directivo del Instituto para el Desarrollo Técnico de las Haciendas Públicas y
-formular informes de las actividades de dicho Instituto y de la propia Comisión Permanente, que someterá
-a la aprobación de la Reunión Nacional.
-IV.- Vigilar la creación e incremento de los fondos señalados en esta Ley, su distribución entre las
-Entidades y las liquidaciones anuales que de dichos fondos formule la Secretaría de Hacienda y Crédito
-Público, así como vigilar la determinación, liquidación y pago de participaciones a los Municipios que de
-acuerdo con esta Ley deben efectuar la Secretaría de Hacienda y Crédito Público y las Entidades;
-V.- Formular los dictámenes técnicos a que se refiere el artículo 11 de esta Ley.
-VI.- Las demás que le encomienden la Reunión Nacional de Funcionarios Fiscales, la Secretaría de
-Hacienda y Crédito Público y los titulares de los órganos hacendarios de las entidades.
-Artículo 22.- El Instituto para el Desarrollo Técnico de las Haciendas Públicas (INDETEC), es un
-organismo público, con personalidad jurídica y patrimonio propios, con las siguientes funciones:
-I.- Realizar estudios relativos al sistema nacional de coordinación fiscal.
 
-22 de 90
+23 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1248,43 +1453,170 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-II.- Hacer estudios permanentes de la legislación tributaria vigente en la Federación y en cada una de
-las entidades, así como de las respectivas administraciones.
-III.- Sugerir medidas encaminadas a coordinar la acción impositiva federal y local, para lograr la más
-equitativa distribución de los ingresos entre la Federación y las entidades.
-IV.- Desempeñar las funciones de secretaría técnica de la Reunión Nacional y de la Comisión
+GRUPO OCHO: Campeche, Quintana Roo, Tabasco y Yucatán.
+Con base en un análisis de las características socio-económicas y geográficas que tengan las
+entidades federativas, cada 10 años, la Comisión Permanente de Funcionarios Fiscales podrá
+proponer a la Reunión Nacional de Funcionarios Fiscales una reclasificación de los ocho grupos
+señalados en esta fracción, que deberá ser aprobada mediante votación unánime de esta
+última.
+Párrafo adicionado DOF 09-12-2013
+
+IV.-
+
+Las entidades miembros de la Comisión Permanente durarán en su encargo dos años y se
+renovarán anualmente por mitad; pero continuarán en funciones, aún después de terminado su
+período, en tanto no sean elegidas las que deban sustituirlas.
+
+V.-
+
+La Comisión Permanente será convocada por el Secretario de Hacienda y Crédito Público, por
+el Subsecretario de Ingresos o por tres de los miembros de dicha Comisión. En la convocatoria
+se señalarán los asuntos que deban tratarse.
+
+VI.
+
+Será invitado permanente a las reuniones de la Comisión Permanente de Funcionarios Fiscales,
+el Presidente de la Conferencia Nacional de Municipios de México, siempre que las reuniones
+no correspondan a sesiones de trabajo con la participación exclusiva de los funcionarios a que
+se refiere la fracción II de este artículo.
+Fracción adicionada DOF 09-12-2013
+
+Artículo 21.- Serán facultades de la Comisión Permanente de Funcionarios Fiscales:
+Fe de erratas al párrafo DOF 12-02-1979
+
+I.-
+
+Preparar las Reuniones Nacionales de Funcionarios Fiscales y establecer los asuntos de que
+deban ocuparse.
+
+II.-
+
+Preparar los proyectos de distribución de aportaciones ordinarias y extraordinarias que deban
+cubrir la Federación y las Entidades para el sostenimiento de los órganos de coordinación, los
+cuales someterá a la aprobación de la Reunión Nacional de Funcionarios Fiscales.
+
+III.-
+
+Fungir como consejo directivo del Instituto para el Desarrollo Técnico de las Haciendas Públicas
+y formular informes de las actividades de dicho Instituto y de la propia Comisión Permanente,
+que someterá a la aprobación de la Reunión Nacional.
+
+IV.-
+
+Vigilar la creación e incremento de los fondos señalados en esta Ley, su distribución entre las
+Entidades y las liquidaciones anuales que de dichos fondos formule la Secretaría de Hacienda y
+Crédito Público, así como vigilar la determinación, liquidación y pago de participaciones a los
+Municipios que de acuerdo con esta Ley deben efectuar la Secretaría de Hacienda y Crédito
+Público y las Entidades;
+Fracción reformada DOF 30-12-1980, 31-12-2000
+
+V.-
+
+Formular los dictámenes técnicos a que se refiere el artículo 11 de esta Ley.
+
+VI.-
+
+Las demás que le encomienden la Reunión Nacional de Funcionarios Fiscales, la Secretaría de
+Hacienda y Crédito Público y los titulares de los órganos hacendarios de las entidades.
+
+Artículo 22.- El Instituto para el Desarrollo Técnico de las Haciendas Públicas (INDETEC), es un
+organismo público, con personalidad jurídica y patrimonio propios, con las siguientes funciones:
+I.-
+
+Realizar estudios relativos al sistema nacional de coordinación fiscal.
+
+24 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+II.-
+
+Hacer estudios permanentes de la legislación tributaria vigente en la Federación y en cada una
+de las entidades, así como de las respectivas administraciones.
+Fe de erratas a la fracción DOF 12-02-1979
+
+III.-
+
+Sugerir medidas encaminadas a coordinar la acción impositiva federal y local, para lograr la
+más equitativa distribución de los ingresos entre la Federación y las entidades.
+Fe de erratas a la fracción DOF 12-02-1979
+
+IV.-
+
+Desempeñar las funciones de secretaría técnica de la Reunión Nacional y de la Comisión
 Permanente de Funcionarios Fiscales.
-V.- Actuar como consultor técnico de las haciendas públicas.
-VI.- Promover el desarrollo técnico de las haciendas públicas municipales.
-VII.- Capacitar técnicos y funcionarios fiscales.
+
+V.-
+
+Actuar como consultor técnico de las haciendas públicas.
+
+VI.-
+
+Promover el desarrollo técnico de las haciendas públicas municipales.
+
+VII.-
+
+Capacitar técnicos y funcionarios fiscales.
+
 VIII.- Desarrollar los programas que apruebe la Reunión Nacional de Funcionarios Fiscales.
 Para el desempeño de las funciones indicadas el Instituto podrá participar en programas con otras
 instituciones u organismos que realicen actividades similares.
 Artículo 23.- Los órganos del Instituto a que se refiere el artículo anterior, serán:
-I.- El director general, que tendrá la representación del mismo.
-II.- La asamblea general que aprobará sus estatutos, reglamentos, programas y presupuesto. La
+I.-
+
+El director general, que tendrá la representación del mismo.
+
+II.-
+
+La asamblea general que aprobará sus estatutos, reglamentos, programas y presupuesto. La
 Reunión Nacional de Funcionarios Fiscales Fungirá como asamblea general del Instituto.
-III.- El consejo directivo que tendrá las facultades que señalen los estatutos. Fungirá como consejo
+
+III.-
+
+El consejo directivo que tendrá las facultades que señalen los estatutos. Fungirá como consejo
 directivo la Comisión Permanente de Funcionarios Fiscales.
+
 Artículo 24.- La Junta de Coordinación Fiscal se integra por los representantes que designe la
 Secretaría de Hacienda y Crédito Público y los titulares de los órganos hacendarios de las ocho entidades
 que forman la Comisión Permanente de Funcionarios Fiscales.
+Artículo adicionado DOF 28-12-1989
 
-CAPITULO V
+CAPÍTULO V
 De los Fondos de Aportaciones Federales
+Capítulo adicionado DOF 29-12-1997
+
 Artículo 25.- Con independencia de lo establecido en los capítulos I a IV de esta Ley, respecto de la
 participación de los Estados, Municipios y el Distrito Federal en la recaudación federal participable, se
 establecen las aportaciones federales, como recursos que la Federación transfiere a las haciendas
 públicas de los Estados, Distrito Federal, y en su caso, de los Municipios, condicionando su gasto a la
 consecución y cumplimiento de los objetivos que para cada tipo de aportación establece esta Ley, para
 los Fondos siguientes:
+Párrafo reformado DOF 31-12-1998
+
 I.
 
 Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo;
+Fracción reformada DOF 09-12-2013
 
 II.
 
 Fondo de Aportaciones para los Servicios de Salud;
+
+25 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 III.
 
@@ -1294,16 +1626,7 @@ IV.
 
 Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones
 Territoriales del Distrito Federal;
-
-23 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
+Fracción reformada DOF 31-12-1998, 31-12-2000
 
 V.
 
@@ -1312,14 +1635,22 @@ Fondo de Aportaciones Múltiples.
 VI.-
 
 Fondo de Aportaciones para la Educación Tecnológica y de Adultos, y
+Fracción adicionada DOF 31-12-1998
 
 VII.- Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal.
+Fracción adicionada DOF 31-12-1998
+
 VIII.- Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas.
+Fracción adicionada DOF 27-12-2006
+
 Dichos Fondos se integrarán, distribuirán, administrarán, ejercerán y supervisarán, de acuerdo a lo
 dispuesto en el presente Capítulo.
 El Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo será administrado por la
 Secretaría de Hacienda y Crédito Público, y la transferencia de los recursos de dicho Fondo se realizará
 en los términos previstos en el artículo 26-A de esta Ley.
+Párrafo adicionado DOF 09-12-2013
+Artículo adicionado DOF 29-12-1997
+
 Artículo 26.- Con cargo a las aportaciones del Fondo de Aportaciones para la Nómina Educativa y
 Gasto Operativo que les correspondan, los Estados y el Distrito Federal serán apoyados con recursos
 económicos complementarios para ejercer las atribuciones, en materia de educación básica y normal,
@@ -1341,6 +1672,18 @@ anterior.
 Asimismo, el Fondo incluirá recursos para apoyar a las entidades federativas a cubrir gastos de
 operación relacionados exclusivamente con las atribuciones a que se refiere el párrafo primero de este
 artículo.
+Artículo adicionado DOF 29-12-1997. Reformado DOF 09-12-2013
+
+26 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 26-A.- El ejercicio de los recursos en materia de servicios personales a que se refiere el
 artículo anterior, se sujetará a lo siguiente:
 I.
@@ -1353,16 +1696,6 @@ registrar cada nómina. El sistema de administración de nómina deberá identif
 nivel, tipo y modalidad educativa y la clave del centro de trabajo a la que corresponda la plaza.
 Las autoridades educativas de las entidades federativas deberán proporcionar a la Secretaría
 de Educación Pública toda la información que ésta les requiera en términos de este artículo;
-
-24 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 II.
 
@@ -1407,10 +1740,20 @@ En todo caso, sólo procederán pagos retroactivos hasta por cuarenta y cinco d�
 siempre y cuando se acredite la asistencia del personal durante dicho periodo en la plaza
 respectiva, debiendo precisar la autoridad educativa de la entidad federativa el tipo de plaza y
 el periodo que comprende.
+
+27 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 En los casos en que por causa no imputable al personal no se realice el pago, a solicitud del
 interesado y conforme al procedimiento establecido en su caso, los pagos no realizados
 deberán efectuarse en un plazo no mayor a 30 días;
-
 VI.
 
 La Secretaría de Educación Pública retendrá y enterará las cantidades que por ley deban
@@ -1424,22 +1767,12 @@ Para efectos de la comprobación de las erogaciones, los registros en medios ele
 correspondientes a los abonos en las cuentas del personal, fungirán como comprobantes de
 la entrega de los recursos. Tratándose de los pagos que, por no existir servicios bancarios en
 la localidad correspondiente, se realicen a través de otros mecanismos, la comprobación de
-
-25 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 las erogaciones se realizará en términos de la Ley Federal de Presupuesto y Responsabilidad
 Hacendaria y demás disposiciones aplicables.
 Sin perjuicio de lo anterior, las autoridades educativas de las entidades federativas entregarán
 a cada uno de sus trabajadores el recibo de nómina respectivo, desglosando los conceptos de
 pago y descuentos correspondientes;
+
 VIII.
 
 Las entidades federativas realizarán los registros e informarán sobre las aportaciones
@@ -1459,6 +1792,8 @@ Tratándose del gasto de operación a que se refiere el último párrafo del art
 recursos podrán utilizarse en los fines a que se refiere el párrafo anterior. Para tal efecto, las Secretarías
 de Hacienda y Crédito Público y de Educación Pública emitirán los lineamientos para especificar el
 destino de estos recursos.
+Artículo adicionado DOF 09-12-2013
+
 Artículo 27.- El monto del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo se
 determinará cada año en el Presupuesto de Egresos de la Federación correspondiente, exclusivamente a
 partir de los siguientes elementos:
@@ -1477,11 +1812,21 @@ que, en su caso, se pacte en términos del artículo 27-A de esta Ley;
 III.
 
 La creación de plazas, que en su caso, se autorice.
+
+28 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 No podrán crearse plazas con cargo a este Fondo, salvo que estén plenamente justificadas en
 términos de la Ley General del Servicio Profesional Docente y las demás disposiciones
 aplicables, así como los recursos necesarios para su creación estén expresamente aprobados
 en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente, y
-
 IV.
 
 Los gastos de operación y la actualización que se determine para el ejercicio que se
@@ -1493,29 +1838,21 @@ Donde:
 
 /
 
-26 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 GOt es el monto total del recurso destinado a gasto operativo del FONE.
 GOi es el monto del recurso destinado a gasto operativo del FONE para la entidad
 federativa i.
 =
 /
-GOi,2013 es el Gasto de Operación presupuestado para la entidad federativa i en el PEF
-2013.
+GOi,2013 es el Gasto de Operación presupuestado para la entidad federativa i en el
+PEF 2013.
 GO2013 es el Gasto de Operación presupuestado en el PEF 2013.
-MPi es la participación de la entidad federativa i en la matrícula potencial nacional en el
-año anterior para el cual se efectúa el cálculo. Por matrícula potencial se entiende el número
-de niños en edad de cursar educación básica.
+MPi es la participación de la entidad federativa i en la matrícula potencial nacional en
+el año anterior para el cual se efectúa el cálculo. Por matrícula potencial se entiende el
+número de niños en edad de cursar educación básica.
 Hni es el número de habitantes entre 5 y 14 años en la entidad federativa i.
 HN es el número de habitantes entre 5 y 14 años del país.
+Artículo adicionado DOF 29-12-1997. Reformado DOF 21-12-2007, 09-12-2013
+
 Artículo 27-A.- El Ejecutivo Federal y los gobiernos de las entidades federativas, conforme a lo
 dispuesto en el artículo 25 de la Ley General de Educación, concurrirán en el financiamiento del gasto en
 servicios personales para la educación pública, conforme a lo siguiente:
@@ -1544,6 +1881,16 @@ b)
 
 Los objetivos, metas y resultados alcanzados del Servicio Profesional Docente, y
 
+29 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 c)
 
 La negociación del incremento en remuneraciones, la cual se llevará a cabo por parte de
@@ -1562,20 +1909,11 @@ IV.
 
 La Secretaría de Educación Pública y las autoridades educativas de las entidades federativas
 darán acceso al sistema establecido para el registro del personal educativo, para efectos de
-
-27 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 consulta, a las instancias locales y federales de control, evaluación y fiscalización que así lo
 soliciten. La información se hará pública en términos de las disposiciones aplicables en
 materia de transparencia y rendición de cuentas.
+Artículo adicionado DOF 09-12-2013
+
 Artículo 28.- Las autoridades federales y de las entidades federativas, tanto en materia educativa
 como las responsables del ejercicio presupuestario, se reunirán con una periodicidad no mayor de un
 año, con el fin de analizar alternativas y propuestas que apoyen una mayor equidad e impulsen la mejor
@@ -1585,39 +1923,33 @@ Para tal efecto, los gobiernos estatales y del Distrito Federal proporcionarán 
 través de la Secretaría de Educación Pública, la información financiera y operativa que les sea requerida
 para el mejor cumplimiento de las atribuciones que en materia de planeación, programación y evaluación
 del Sistema Educativo Nacional, correspondan a la Federación.
+Artículo adicionado DOF 29-12-1997
+
 Artículo 29.- Con cargo a las aportaciones que del Fondo de Aportaciones para los Servicios de
 Salud les correspondan, los Estados y el Distrito Federal recibirán los recursos económicos que los
 apoyen para ejercer las atribuciones que en los términos de los artículos 3o., 13 y 18 de la Ley General
 de Salud les competan.
+Artículo adicionado DOF 29-12-1997
+
 Artículo 30.- El monto del Fondo de Aportaciones para los Servicios de Salud se determinará cada
 año en el Presupuesto de Egresos de la Federación correspondiente, exclusivamente a partir de los
 siguientes elementos:
-I. Por el inventario de infraestructura médica y las plantillas de personal, utilizados para los cálculos de
-los recursos presupuestarios transferidos a las entidades federativas, con motivo de la suscripción de los
-Acuerdos de Coordinación para la Descentralización Integral de los Servicios de Salud respectivos,
-incluyendo las erogaciones que correspondan por concepto de impuestos federales y aportaciones de
-seguridad social;
-II. Por los recursos que con cargo a las Previsiones para Servicios Personales contenidas al efecto en
-el Presupuesto de Egresos de la Federación que se hayan transferido a las entidades federativas,
-durante el ejercicio fiscal inmediato anterior a aquel que se presupueste, para cubrir el gasto en servicios
-personales, incluidas las ampliaciones presupuestarias que en el transcurso de ese ejercicio se hubieren
-autorizado por concepto de incrementos salariales, prestaciones, así como aquellas medidas económicas
-que, en su caso, se requieran para integrar el ejercicio fiscal que se presupueste;
-III. Por los recursos que la Federación haya transferido a las entidades federativas, durante el ejercicio
-fiscal inmediato anterior a aquel que se presupueste, para cubrir el gasto de operación e inversión,
-excluyendo los gastos eventuales de inversión en infraestructura y equipamiento que la Federación y las
-entidades correspondientes convengan como no susceptibles de presupuestarse en el ejercicio siguiente
-y por los recursos que para iguales fines sean aprobados en el Presupuesto de Egresos de la Federación
-en adición a los primeros; y
-IV. Por otros recursos que, en su caso, se destinen expresamente en el Presupuesto de Egresos de la
-Federación a fin de promover la equidad en los servicios de salud, mismos que serán distribuidos
-conforme a lo dispuesto en el artículo siguiente.
-Artículo 31.- Para la distribución de los recursos a que se refiere la fracción IV del artículo anterior, se
-aplicará la siguiente fórmula de asignación de recursos, donde  representa la sumatoria correspondiente
-a las entidades federativas y el subíndice i se refiere a la i-ésima entidad federativa.
- Fi =  (M*Ti)
+I.
 
-28 de 90
+Por el inventario de infraestructura médica y las plantillas de personal, utilizados para los
+cálculos de los recursos presupuestarios transferidos a las entidades federativas, con motivo de
+la suscripción de los Acuerdos de Coordinación para la Descentralización Integral de los
+Servicios de Salud respectivos, incluyendo las erogaciones que correspondan por concepto de
+impuestos federales y aportaciones de seguridad social;
+
+II.
+
+Por los recursos que con cargo a las Previsiones para Servicios Personales contenidas al efecto
+en el Presupuesto de Egresos de la Federación que se hayan transferido a las entidades
+federativas, durante el ejercicio fiscal inmediato anterior a aquel que se presupueste, para cubrir
+el gasto en servicios personales, incluidas las ampliaciones presupuestarias que en el
+
+30 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1627,11 +1959,34 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+transcurso de ese ejercicio se hubieren autorizado por concepto de incrementos salariales,
+prestaciones, así como aquellas medidas económicas que, en su caso, se requieran para
+integrar el ejercicio fiscal que se presupueste;
+III.
+
+Por los recursos que la Federación haya transferido a las entidades federativas, durante el
+ejercicio fiscal inmediato anterior a aquel que se presupueste, para cubrir el gasto de operación
+e inversión, excluyendo los gastos eventuales de inversión en infraestructura y equipamiento
+que la Federación y las entidades correspondientes convengan como no susceptibles de
+presupuestarse en el ejercicio siguiente y por los recursos que para iguales fines sean
+aprobados en el Presupuesto de Egresos de la Federación en adición a los primeros; y
+
+IV.
+
+Por otros recursos que, en su caso, se destinen expresamente en el Presupuesto de Egresos
+de la Federación a fin de promover la equidad en los servicios de salud, mismos que serán
+distribuidos conforme a lo dispuesto en el artículo siguiente.
+Artículo adicionado DOF 29-12-1997
+
+Artículo 31.- Para la distribución de los recursos a que se refiere la fracción IV del artículo anterior, se
+aplicará la siguiente fórmula de asignación de recursos, donde  representa la sumatoria correspondiente
+a las entidades federativas y el subíndice i se refiere a la i-ésima entidad federativa.
+Fi = (M*Ti)
 En donde:
 M=
 
-Monto aprobado en el Presupuesto de Egresos de la Federación a que se refiere la fracción
-IV del artículo 30.
+Monto aprobado en el Presupuesto de Egresos de la Federación a que se refiere la
+fracción IV del artículo 30.
 
 Fi =
 
@@ -1662,15 +2017,29 @@ En donde:
 POBi = Población abierta en i-ésima entidad federativa.
 PMIN = Presupuesto mínimo per cápita aceptado.
 REMi = Razón estandarizada de mortalidad de la i-ésima entidad federativa.
+
+31 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 IEMi = Indice estandarizado de marginación de la i-ésima entidad federativa.
 Gti
 
-= Gasto total federal que para población abierta se ejerza en las entidades federativas sin incluir
-M del ejercicio correspondiente.
+= Gasto total federal que para población abierta se ejerza en las entidades federativas sin
+incluir M del ejercicio correspondiente.
 
 La Secretaría de Salud dará a conocer anualmente, en el seno del Consejo Nacional de Salud y, a
 más tardar el 31 de enero, en el Diario Oficial de la Federación, las cifras que corresponden a las
 variables integrantes de la fórmula anterior resultantes de los sistemas oficiales de información.
+Párrafo reformado DOF 09-12-2013
+Artículo adicionado DOF 29-12-1997
+
 Artículo 32.- El Fondo de Aportaciones para la Infraestructura Social se determinará anualmente en el
 Presupuesto de Egresos de la Federación con recursos federales por un monto equivalente, sólo para
 efectos de referencia, al 2.5294% de la recaudación federal participable a que se refiere el artículo 2o. de
@@ -1681,19 +2050,10 @@ el 2.2228% al Fondo para la Infraestructura Social Municipal y de las Demarcacio
 Distrito Federal.
 Este fondo se enterará mensualmente en los primeros diez meses del año por partes iguales a las
 entidades por conducto de la Federación y, a los municipios y demarcaciones territoriales a través de las
-
-29 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 entidades, de manera ágil y directa, sin más limitaciones ni restricciones, incluyendo las de carácter
 administrativo, que las correspondientes a los fines que se establecen en el artículo 33 de esta Ley.
+Artículo adicionado DOF 29-12-1997. Reformado DOF 31-12-1998, 09-12-2013
+
 Artículo 33.- Las aportaciones federales que con cargo al Fondo de Aportaciones para la
 Infraestructura Social reciban las entidades, los municipios y las demarcaciones territoriales, se
 destinarán exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones que
@@ -1704,43 +2064,28 @@ A.
 
 Los recursos del Fondo de Aportaciones para la Infraestructura Social, se destinarán a los
 siguientes rubros:
-I. Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones
-Territoriales del Distrito Federal: agua potable, alcantarillado, drenaje y letrinas, urbanización,
-electrificación rural y de colonias pobres, infraestructura básica del sector salud y educativo,
-mejoramiento de vivienda, así como mantenimiento de infraestructura, conforme a lo señalado
-en el catálogo de acciones establecido en los Lineamientos del Fondo que emita la Secretaría
-de Desarrollo Social.
-II. Fondo de Infraestructura Social para las Entidades: obras y acciones que beneficien
-preferentemente a la población de los municipios, demarcaciones territoriales y localidades
-que presenten mayores niveles de rezago social y pobreza extrema en la entidad.
-Asimismo, las obras y acciones que se realicen con los recursos del fondo a que se refiere
-este artículo, se deberán orientar preferentemente conforme al Informe anual de la situación
-de pobreza y rezago social de las entidades y sus respectivos municipios o demarcaciones
-territoriales que realice la Secretaría de Desarrollo Social, mismo que se deberá publicar en el
-Diario Oficial de la Federación a más tardar el último día hábil de enero.
-En el caso de los municipios y de las demarcaciones territoriales, éstos podrán disponer de
-hasta un 2% del total de recursos del Fondo para la Infraestructura Social Municipal y de las
-Demarcaciones Territoriales del Distrito Federal que les correspondan para la realización de
-un Programa de Desarrollo Institucional Municipal y de las Demarcaciones Territoriales del
-Distrito Federal. Este programa será convenido entre el Ejecutivo Federal a través de la
-Secretaría de Desarrollo Social, el Gobierno de la entidad correspondiente y el municipio o
-demarcación territorial de que se trate. Los recursos de este programa podrán utilizarse para
-la elaboración de proyectos con la finalidad de fortalecer las capacidades de gestión del
-municipio o demarcación territorial, de acuerdo con lo señalado en el catálogo de acciones
-establecido en los Lineamientos del Fondo que emita la Secretaría de Desarrollo Social.
-Adicionalmente, las entidades, los municipios o demarcaciones territoriales podrán destinar
-hasta el 3% de los recursos que les correspondan de este Fondo para ser aplicados como
-gastos indirectos para la verificación y seguimiento de las obras y acciones que se realicen,
-así como para la realización de estudios y la evaluación de proyectos que cumplan con los
-fines específicos a que se refiere este artículo.
-
-B. La Secretaría de Desarrollo Social, las entidades y los municipios o demarcaciones territoriales y la
-Secretaría de Hacienda y Crédito Público, tendrán las siguientes obligaciones:
 I.
 
-De la Secretaría de Desarrollo Social:
+Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones
+Territoriales del Distrito Federal: agua potable, alcantarillado, drenaje y letrinas,
+urbanización, electrificación rural y de colonias pobres, infraestructura básica del sector
+salud y educativo, mejoramiento de vivienda, así como mantenimiento de infraestructura,
+conforme a lo señalado en el catálogo de acciones establecido en los Lineamientos del
+Fondo que emita la Secretaría de Desarrollo Social.
 
-30 de 90
+II.
+
+Fondo de Infraestructura Social para las Entidades: obras y acciones que beneficien
+preferentemente a la población de los municipios, demarcaciones territoriales y localidades
+que presenten mayores niveles de rezago social y pobreza extrema en la entidad.
+
+Asimismo, las obras y acciones que se realicen con los recursos del fondo a que se refiere este
+artículo, se deberán orientar preferentemente conforme al Informe anual de la situación de
+pobreza y rezago social de las entidades y sus respectivos municipios o demarcaciones
+territoriales que realice la Secretaría de Desarrollo Social, mismo que se deberá publicar en el
+Diario Oficial de la Federación a más tardar el último día hábil de enero.
+
+32 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1750,23 +2095,45 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+En el caso de los municipios y de las demarcaciones territoriales, éstos podrán disponer de hasta
+un 2% del total de recursos del Fondo para la Infraestructura Social Municipal y de las
+Demarcaciones Territoriales del Distrito Federal que les correspondan para la realización de un
+Programa de Desarrollo Institucional Municipal y de las Demarcaciones Territoriales del Distrito
+Federal. Este programa será convenido entre el Ejecutivo Federal a través de la Secretaría de
+Desarrollo Social, el Gobierno de la entidad correspondiente y el municipio o demarcación
+territorial de que se trate. Los recursos de este programa podrán utilizarse para la elaboración de
+proyectos con la finalidad de fortalecer las capacidades de gestión del municipio o demarcación
+territorial, de acuerdo con lo señalado en el catálogo de acciones establecido en los Lineamientos
+del Fondo que emita la Secretaría de Desarrollo Social.
+Adicionalmente, las entidades, los municipios o demarcaciones territoriales podrán destinar hasta
+el 3% de los recursos que les correspondan de este Fondo para ser aplicados como gastos
+indirectos para la verificación y seguimiento de las obras y acciones que se realicen, así como
+para la realización de estudios y la evaluación de proyectos que cumplan con los fines
+específicos a que se refiere este artículo.
+B.
+
+La Secretaría de Desarrollo Social, las entidades y los municipios o demarcaciones territoriales y
+la Secretaría de Hacienda y Crédito Público, tendrán las siguientes obligaciones:
+I.
+
 II.
 
+De la Secretaría de Desarrollo Social:
 a)
 
-Publicar el Informe anual sobre la situación de pobreza y rezago social de las entidades y
-sus respectivos municipios o demarcaciones territoriales, con base en lo que establece la
-Ley General de Desarrollo Social, para la medición de la pobreza, y
+Publicar el Informe anual sobre la situación de pobreza y rezago social de las entidades
+y sus respectivos municipios o demarcaciones territoriales, con base en lo que
+establece la Ley General de Desarrollo Social, para la medición de la pobreza, y
 
 b)
 
 Proporcionar capacitación a las entidades y a sus respectivos municipios o
 demarcaciones territoriales, sobre el funcionamiento del Fondo de Aportaciones para la
-Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal,
-del Fondo de Aportaciones para la Infraestructura Social de las Entidades y del Programa
-de Desarrollo Institucional Municipal y de las Demarcaciones Territoriales del Distrito
-Federal, en términos de lo establecido en los Lineamientos del Fondo que emita la
-Secretaría de Desarrollo Social;
+Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito
+Federal, del Fondo de Aportaciones para la Infraestructura Social de las Entidades y del
+Programa de Desarrollo Institucional Municipal y de las Demarcaciones Territoriales del
+Distrito Federal, en términos de lo establecido en los Lineamientos del Fondo que emita
+la Secretaría de Desarrollo Social;
 
 De las entidades, municipios y demarcaciones territoriales:
 a)
@@ -1790,6 +2157,16 @@ página oficial de Internet de la entidad federativa, conforme a los lineamiento
 información pública del Consejo Nacional de Armonización Contable, en los términos de
 la Ley General de Contabilidad Gubernamental;
 
+33 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 d)
 
 Proporcionar a la Secretaría de Desarrollo Social, la información que sobre la utilización
@@ -1807,13 +2184,13 @@ f)
 
 Reportar trimestralmente a la Secretaría de Desarrollo Social, a través de sus
 Delegaciones Estatales o instancia equivalente en el Distrito Federal, así como a la
-Secretaría de Hacienda y Crédito Público, el seguimiento sobre el uso de los recursos del
-Fondo, en los términos que establecen los artículos 48 y 49 de esta Ley, así como con
-base en el Informe anual sobre la situación de pobreza y rezago social de las entidades y
-sus respectivos municipios o demarcaciones territoriales. Asimismo, las entidades, los
-municipios y las demarcaciones territoriales, deberán proporcionar la información
-adicional que solicite dicha Secretaría para la supervisión y seguimiento de los recursos,
-y
+Secretaría de Hacienda y Crédito Público, el seguimiento sobre el uso de los recursos
+del Fondo, en los términos que establecen los artículos 48 y 49 de esta Ley, así como
+con base en el Informe anual sobre la situación de pobreza y rezago social de las
+entidades y sus respectivos municipios o demarcaciones territoriales. Asimismo, las
+entidades, los municipios y las demarcaciones territoriales, deberán proporcionar la
+información adicional que solicite dicha Secretaría para la supervisión y seguimiento de
+los recursos, y
 
 g)
 
@@ -1821,8 +2198,25 @@ Publicar en su página oficial de Internet las obras financiadas con los recurso
 Fondo. Dichas publicaciones deberán contener, entre otros datos, la información del
 contrato bajo el cual se celebra, informes trimestrales de los avances y, en su caso,
 evidencias de conclusión.
+Los municipios que no cuenten con página oficial de Internet, convendrán con el
+gobierno de la entidad federativa correspondiente, para que éste publique la
+información correspondiente al municipio, y
 
-31 de 90
+III.
+
+De la Secretaría de Hacienda y Crédito Público, generar un sistema geo referenciado para
+difundir a través de su página oficial de Internet, las obras en cada municipio o demarcación
+territorial financiadas con los recursos provenientes de este Fondo. Dicho sistema deberá
+contener la información del contrato bajo el cual se celebra, informes trimestrales de los
+avances y, en su caso, evidencias de conclusión.
+Artículo adicionado DOF 29-12-1997. Reformado DOF 31-12-1998, 09-12-2013
+
+Artículo 34.- El Ejecutivo Federal, a través de la Secretaría de Desarrollo Social, distribuirá el Fondo
+de Aportaciones para la Infraestructura Social entre las entidades, conforme a la siguiente fórmula:
+Fi,t=Fi,2013+ΔF2013,t (0.8zi,t+0.2ei,t)
+Donde:
+
+34 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1831,22 +2225,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Los municipios que no cuenten con página oficial de Internet, convendrán con el gobierno
-de la entidad federativa correspondiente, para que éste publique la información
-correspondiente al municipio, y
-III.
-
-De la Secretaría de Hacienda y Crédito Público, generar un sistema geo referenciado para
-difundir a través de su página oficial de Internet, las obras en cada municipio o demarcación
-territorial financiadas con los recursos provenientes de este Fondo. Dicho sistema deberá
-contener la información del contrato bajo el cual se celebra, informes trimestrales de los
-avances y, en su caso, evidencias de conclusión.
-
-Artículo 34.- El Ejecutivo Federal, a través de la Secretaría de Desarrollo Social, distribuirá el Fondo
-de Aportaciones para la Infraestructura Social entre las entidades, conforme a la siguiente fórmula:
-Fi,t=Fi,2013+ΔF2013,t (0.8zi,t+0.2ei,t)
-Donde:
 
 Y las variables de cálculo se definen de la siguiente manera:
 Fi,t= Monto del FAIS de la entidad i en el año t.
@@ -1860,17 +2238,6 @@ Desarrollo Social al año t.
 reciente publicada por el Consejo Nacional de Evaluación de la Política de Desarrollo Social al año t.
 = Población en Pobreza Extrema de la entidad i, de acuerdo con la información más
 reciente provista por el Consejo Nacional de Evaluación de la Política de Desarrollo Social; y
-
-32 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 = Población en Pobreza Extrema de la entidad i, de acuerdo con la información inmediata
 anterior a la más reciente provista por el Consejo Nacional de Evaluación de la Política de Desarrollo
 Social.
@@ -1885,6 +2252,8 @@ Para efectos de la formulación anual del Proyecto de Presupuesto de Egresos de 
 Ejecutivo Federal, por conducto de la Secretaría de Desarrollo Social, publicará, a más tardar el 15 de
 agosto de cada año, en el Diario Oficial de la Federación las variables y fuentes de información para el
 cálculo de esta fórmula y dará a conocer los porcentajes de participación que se asignará a cada entidad.
+Artículo adicionado DOF 29-12-1997. Reformado DOF 31-12-1999, 09-12-2013
+
 Artículo 35.- Las entidades distribuirán entre los municipios y las demarcaciones territoriales los
 recursos del Fondo para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del
 Distrito Federal, con una fórmula igual a la señalada en el artículo anterior, que enfatice el carácter
@@ -1892,6 +2261,17 @@ redistributivo de estas aportaciones hacia aquellos municipios y demarcaciones t
 magnitud y profundidad de pobreza extrema. Para ello, utilizarán la información de pobreza extrema más
 reciente a nivel municipal y de las demarcaciones territoriales, a que se refiere el artículo anterior,
 publicada por el Consejo Nacional de Evaluación de la Política de Desarrollo Social.
+
+35 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Con objeto de apoyar a las entidades en la aplicación de sus fórmulas, la Secretaría de Desarrollo
 Social publicará en el Diario Oficial de la Federación, a más tardar en los primeros diez días del ejercicio
 fiscal de que se trate, las variables y fuentes de información disponibles a nivel municipal y de las
@@ -1914,19 +2294,10 @@ Las entidades deberán entregar a sus respectivos municipios y demarcaciones ter
 recursos que les corresponden conforme al calendario de enteros en que la Federación lo haga a las
 entidades, en los términos del último párrafo del artículo 32 de la presente Ley. Dicho calendario deberá
 comunicarse a los gobiernos municipales y de las demarcaciones territoriales por parte de los gobiernos
-
-33 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 de las entidades y publicarse por estos últimos a más tardar el día 31 de enero de cada ejercicio fiscal, en
 su respectivo órgano de difusión oficial.
+Artículo adicionado DOF 29-12-1997. Reformado DOF 31-12-1998, 31-12-1999, 09-12-2013
+
 Artículo 36.- El Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las
 Demarcaciones Territoriales del Distrito Federal se determinará anualmente en el Presupuesto de
 Egresos de la Federación con recursos federales, por un monto equivalente, sólo para efectos de
@@ -1947,11 +2318,27 @@ entregados en la misma forma que al resto de los Estados y Municipios, pero calc
 0.2123% de la recaudación federal participable, según estimación que de la misma se realice en
 el propio presupuesto, con base en lo que al efecto establezca la Ley de Ingresos de la
 Federación para ese ejercicio.
+Párrafo reformado DOF 31-12-1999. Párrafo con fracciones reformado DOF 31-12-2000
 
 Al efecto, los Gobiernos Estatales y del Distrito Federal deberán publicar en su respectivo Periódico
 Oficial las variables y fórmulas utilizadas para determinar los montos que correspondan a cada Municipio
 o Demarcación Territorial por concepto de este Fondo, así como el calendario de ministraciones, a más
 tardar el 31 de enero de cada año.
+
+36 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+Párrafo adicionado DOF 31-12-2000. Reformado DOF 14-07-2003
+Reforma DOF 09-12-2013: Derogó del artículo el entonces párrafo tercero
+Artículo adicionado DOF 29-12-1997. Reformado DOF 31-12-1998
+
 Artículo 37.- Las aportaciones federales que, con cargo al Fondo de Aportaciones para el
 Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, reciban los
 municipios a través de las entidades y las demarcaciones territoriales por conducto del Distrito Federal,
@@ -1962,6 +2349,8 @@ infraestructura, y a la atención de las necesidades directamente vinculadas con
 sus habitantes. Respecto de las aportaciones que reciban con cargo al Fondo a que se refiere este
 artículo, los municipios y las demarcaciones territoriales del Distrito Federal tendrán las mismas
 obligaciones a que se refiere el artículo 33, apartado B, fracción II, incisos a) y c), de esta Ley.
+Artículo adicionado DOF 29-12-1997. Reformado DOF 31-12-1998, 31-12-1999, 31-12-2000, 21-12-2007, 09-12-2013
+
 Artículo 38.- El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, distribuirá
 el Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales
 del Distrito Federal a que se refiere el inciso a) del artículo 36 de esta Ley, en proporción directa al
@@ -1975,22 +2364,15 @@ Geografía e Informática.
 Las Entidades a su vez distribuirán los recursos que correspondan a sus Municipios y las
 Demarcaciones Territoriales del Distrito Federal, en proporción directa al número de habitantes con que
 cuente cada uno de los Municipios y Demarcaciones Territoriales antes referidos.
-
-34 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
+Artículo adicionado DOF 29-12-1997. Reformado DOF 31-12-1998, 31-12-2000
 
 Artículo 39.- El Fondo de Aportaciones Múltiples se determinará anualmente en el Presupuesto de
 Egresos de la Federación por un monto equivalente, sólo para efectos de referencia, al 0.814% de la
 recaudación federal participable a que se refiere el artículo 2o. de esta Ley, según estimación que de la
 misma se realice en el propio presupuesto, con base a lo que al efecto establezca la Ley de Ingresos de
 la Federación para ese ejercicio.
+Artículo adicionado DOF 29-12-1997. Reformado DOF 09-12-2013
+
 Artículo 40.- Las aportaciones federales que con cargo al Fondo de Aportaciones Múltiples reciban
 los Estados de la Federación y el Distrito Federal se destinarán en un 46% al otorgamiento de desayunos
 escolares; apoyos alimentarios; y de asistencia social a través de instituciones públicas, con base en lo
@@ -2000,19 +2382,37 @@ y superior en su modalidad universitaria según las necesidades de cada nivel.
 Las entidades tendrán la obligación de hacer del conocimiento de sus habitantes, los montos que
 reciban, las obras y acciones realizadas, el costo de cada una, su ubicación y beneficiarios. Asimismo,
 deberán informar a sus habitantes, al término de cada ejercicio, sobre los resultados alcanzados.
+Artículo adicionado DOF 29-12-1997. Reformado DOF 24-06-2009, 09-12-2013
+
 Artículo 41.- El Fondo de Aportaciones Múltiples se distribuirá entre las entidades federativas de
 acuerdo a las asignaciones y reglas que se establezcan en el Presupuesto de Egresos de la Federación.
+
+37 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 La Secretaría de Salud y la Secretaría de Educación Pública darán a conocer, a más tardar el 31 de
 enero del ejercicio de que se trate en el Diario Oficial de la Federación, el monto correspondiente a cada
 entidad por cada uno de los componentes del Fondo y la fórmula utilizada para la distribución de los
 recursos, así como las variables utilizadas y la fuente de la información de las mismas, para cada uno de
 los componentes del Fondo.
+Párrafo adicionado DOF 09-12-2013
+Artículo adicionado DOF 29-12-1997
+
 Artículo 42.- Con cargo a las aportaciones del Fondo de Aportaciones para la Educación Tecnológica
 y de Adultos que les correspondan, los Estados y el Distrito Federal, recibirán los recursos económicos
 complementarios para prestar los servicios de educación tecnológica y de educación para adultos, cuya
 operación asuman de conformidad con los convenios de coordinación suscritos con el Ejecutivo Federal,
 para la transferencia de recursos humanos, materiales y financieros necesarios para la prestación de
 dichos servicios.
+Artículo adicionado DOF 29-12-1997. Reformado DOF 31-12-1998
+
 Artículo 43.- El monto del Fondo de Aportaciones para la Educación Tecnológica y de Adultos se
 determinará anualmente en el Presupuesto de Egresos de la Federación con recursos federales,
 exclusivamente a partir de los siguientes elementos:
@@ -2029,24 +2429,15 @@ Por los recursos presupuestarios que con cargo al Fondo de Aportaciones para la 
 Tecnológica y de Adultos se hayan transferido a las Entidades Federativas de acuerdo con el
 Presupuesto de Egresos de la Federación durante el ejercicio inmediato anterior a aquél que se
 presupueste, adicionándole lo siguiente:
+
+III.-
+
 a)
 
 Las ampliaciones presupuestarias que en el transcurso de ese mismo ejercicio se
 hubieren autorizado con cargo a las Previsiones para el Fondo de Aportaciones para la
 Educación Tecnológica y de Adultos, contenidas en el propio Presupuesto de Egresos de
 la Federación,
-
-35 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
-III.-
 
 b)
 
@@ -2067,9 +2458,23 @@ educación básica y formación para el trabajo. Las fórmulas, así como las va
 y la fuente de información correspondiente, a que se refiere esta fracción deberán publicarse por
 la Secretaría de Educación Pública, a más tardar el 31 de enero de cada año en el Diario Oficial
 de la Federación.
+Fracción reformada DOF 09-12-2013
+
+38 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 La información que presenten las entidades y la Secretaría de Educación Pública, por este Fondo,
 deberá sujetarse al artículo 73 de la Ley General de Contabilidad Gubernamental.
+Párrafo adicionado DOF 09-12-2013
+Artículo adicionado DOF 31-12-1998
+
 Artículo 44.- El Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal
 se constituirá con cargo a recursos federales, mismos que serán determinados anualmente en el
 Presupuesto de Egresos de la Federación. La Secretaría de Gobernación formulará a la Secretaría de
@@ -2099,17 +2504,6 @@ Este Fondo se enterará mensualmente por la Secretaría de Hacienda y Crédito P
 primeros diez meses del año a los Estados y al Distrito Federal, de manera ágil y directa sin más
 limitaciones ni restricciones, incluyendo aquéllas de carácter administrativo, salvo que no se cumpla lo
 dispuesto en este artículo.
-
-36 de 90
-
-LEY DE COORDINACIÓN FISCAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 18-07-2016
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Los Estados y el Distrito Federal reportarán trimestralmente a la Secretaría de Gobernación, a través
 del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, el ejercicio de los recursos del
 Fondo y el avance en el cumplimiento de las metas, así como las modificaciones o adecuaciones
@@ -2123,6 +2517,19 @@ trimestralmente y al término de cada ejercicio, entre otros medios, a través d
 de la entidad correspondiente, los montos que reciban, el ejercicio, destino y resultados obtenidos
 respecto de este Fondo. Lo anterior, en términos de la Ley General de Contabilidad Gubernamental y
 conforme a los formatos aprobados por el Consejo Nacional de Armonización Contable.
+
+39 de 93
+
+LEY DE COORDINACIÓN FISCAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 18-07-2016
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+Artículo adicionado DOF 31-12-1998. Reformado DOF 31-12-1999, 26-08-2004, 10-02-2005, 27-12-2006, 21-12-2007, 09-12-2013
+
 Artículo 45.- Las aportaciones federales que, con cargo al Fondo de Aportaciones para la Seguridad
 Pública de los Estados y del Distrito Federal, reciban dichas entidades se destinarán exclusivamente a:
 I.
@@ -2171,8 +2578,19 @@ las procuradurías de justicia de los Estados y del Distrito Federal, tendrán e
 para los presupuestos de egresos de la Federación de los ejercicios subsecuentes y las
 responsabilidades laborales que deriven de tales recursos estarán a cargo de los gobiernos de los
 Estados y del Distrito Federal.
+Dichos recursos deberán aplicarse conforme a la Ley General del Sistema Nacional de Seguridad
+Pública y los acuerdos aprobados por el Consejo Nacional de Seguridad Pública.
+Los Estados y el Distrito Federal proporcionarán al Ejecutivo Federal, por conducto del Secretariado
+Ejecutivo del Sistema Nacional de Seguridad Pública, la información financiera, operativa y estadística
+que les sea requerida.
+Artículo adicionado DOF 31-12-1998. Reformado DOF 31-12-1999, 27-12-2006, 09-12-2013
 
-37 de 90
+Artículo 46. El Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas se
+determinará anualmente en el Presupuesto de Egresos de la Federación correspondiente con recursos
+federales por un monto equivalente al 1.40 por ciento de la recaudación federal participable a que se
+refiere el artículo 2o. de esta Ley.
+
+40 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2182,15 +2600,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Dichos recursos deberán aplicarse conforme a la Ley General del Sistema Nacional de Seguridad
-Pública y los acuerdos aprobados por el Consejo Nacional de Seguridad Pública.
-Los Estados y el Distrito Federal proporcionarán al Ejecutivo Federal, por conducto del Secretariado
-Ejecutivo del Sistema Nacional de Seguridad Pública, la información financiera, operativa y estadística
-que les sea requerida.
-Artículo 46. El Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas se
-determinará anualmente en el Presupuesto de Egresos de la Federación correspondiente con recursos
-federales por un monto equivalente al 1.40 por ciento de la recaudación federal participable a que se
-refiere el artículo 2o. de esta Ley.
 Los montos del fondo a que se refiere este artículo se enterarán mensualmente por la Secretaría de
 Hacienda y Crédito Público a los Estados y al Distrito Federal de manera ágil y directa, de acuerdo con la
 fórmula siguiente:
@@ -2199,9 +2608,9 @@ Ti ,t  Ti ,07  FAFEF07,t Ci ,t
  1 
 
  ni
-PIBpc
-i
-Ci ,t  
+PIBpci 
+
+Ci ,t 
  1 
 i  PIBpc  ni
 i
@@ -2225,10 +2634,25 @@ es la sumatoria sobre todas las entidades de la variable que le sigue.
 
 i
 
+Párrafo con “fórmula” reformado DOF 21-12-2007
+
 La fórmula anterior no será aplicable en el evento de que en el año de cálculo el monto del Fondo de
 Aportaciones para el Fortalecimiento de las Entidades Federativas sea inferior al observado en el año
+2007. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en
+el año de cálculo y de acuerdo al coeficiente efectivo que cada entidad haya recibido de dicho Fondo en
+el año 2007.
+Párrafo adicionado DOF 21-12-2007
+Artículo adicionado DOF 31-12-1998. Reformado DOF 13-03-2002, 27-12-2006
 
-38 de 90
+Artículo 47. Los recursos del Fondo de Aportaciones para el Fortalecimiento de las Entidades
+Federativas se destinarán:
+I.
+
+A la inversión en infraestructura física, incluyendo la construcción, reconstrucción,
+ampliación, mantenimiento y conservación de infraestructura; así como la adquisición de
+bienes para el equipamiento de las obras generadas o adquiridas; infraestructura
+
+41 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2238,21 +2662,10 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-2007. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en
-el año de cálculo y de acuerdo al coeficiente efectivo que cada entidad haya recibido de dicho Fondo en
-el año 2007.
-Artículo 47. Los recursos del Fondo de Aportaciones para el Fortalecimiento de las Entidades
-Federativas se destinarán:
-I.
-
-A la inversión en infraestructura física, incluyendo la construcción, reconstrucción,
-ampliación, mantenimiento y conservación de infraestructura; así como la adquisición de
-bienes para el equipamiento de las obras generadas o adquiridas; infraestructura
 hidroagrícola, y hasta un 3 por ciento del costo del programa o proyecto programado en el
 ejercicio fiscal correspondiente, para gastos indirectos por concepto de realización de
 estudios, elaboración y evaluación de proyectos, supervisión y control de estas obras de
 infraestructura;
-
 II.
 
 Al saneamiento financiero, preferentemente a través de la amortización de deuda pública,
@@ -2306,7 +2719,17 @@ complementarse con inversión privada, en forma inmediata o futura, así como a 
 proyectos, supervisión, liberación del derecho de vía, y otros bienes y servicios relacionados
 con las mismas.
 
-39 de 90
+Los recursos del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas, tienen
+por objeto fortalecer los presupuestos de las mismas y a las regiones que conforman. Para este fin y con
+las mismas restricciones, las Entidades Federativas podrán convenir entre ellas o con el Gobierno
+Federal, la aplicación de estos recursos, los que no podrán destinarse para erogaciones de gasto
+corriente o de operación, salvo en los casos previstos expresamente en las fracciones anteriores. Las
+Entidades Federativas deberán presentar a la Secretaría de Hacienda y Crédito Público un informe
+trimestral detallado sobre la aplicación de los recursos a más tardar 20 días naturales después de
+terminado el trimestre.
+Artículo adicionado DOF 27-12-2006
+
+42 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2316,14 +2739,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Los recursos del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas, tienen
-por objeto fortalecer los presupuestos de las mismas y a las regiones que conforman. Para este fin y con
-las mismas restricciones, las Entidades Federativas podrán convenir entre ellas o con el Gobierno
-Federal, la aplicación de estos recursos, los que no podrán destinarse para erogaciones de gasto
-corriente o de operación, salvo en los casos previstos expresamente en las fracciones anteriores. Las
-Entidades Federativas deberán presentar a la Secretaría de Hacienda y Crédito Público un informe
-trimestral detallado sobre la aplicación de los recursos a más tardar 20 días naturales después de
-terminado el trimestre.
 Artículo 48. Los Estados y el Distrito Federal enviarán al Ejecutivo Federal, por conducto de la
 Secretaría de Hacienda y Crédito Público, informes sobre el ejercicio y destino de los recursos de los
 Fondos de Aportaciones Federales a que se refiere este Capítulo.
@@ -2345,6 +2760,9 @@ posteriores a la fecha señalada en el párrafo anterior.
 Las entidades federativas enterarán al ente ejecutor local del gasto, el presupuesto que le
 corresponda en un máximo de cinco días hábiles, una vez recibida la ministración correspondiente de
 cada uno de los Fondos contemplados en el Capítulo V del presente ordenamiento.
+Párrafo adicionado DOF 09-12-2013
+Artículo adicionado DOF 27-12-2006
+
 Artículo 49. Las aportaciones y sus accesorios que con cargo a los Fondos a que se refiere este
 Capítulo reciban las entidades y, en su caso, los municipios las alcaldías de la Ciudad de México, no
 serán embargables, ni los gobiernos correspondientes podrán, bajo ninguna circunstancia, gravarlas ni
@@ -2352,6 +2770,8 @@ afectarlas en garantía o destinarse a mecanismos de fuente de pago, salvo por l
 artículos 50, 51 y 52 de esta Ley. Dichas aportaciones y sus accesorios, en ningún caso podrán
 destinarse a fines distintos a los expresamente previstos en los artículos 26, 29, 33, 37, 40, 42, 45, 47, así
 como lo dispuesto en el presente artículo de esta Ley.
+Párrafo reformado DOF 21-12-2007, 09-12-2013, 18-07-2016
+
 Las aportaciones federales serán administradas y ejercidas por los gobiernos de las entidades
 federativas y, en su caso, de los municipios y las alcaldías de la Ciudad de México que las reciban,
 conforme a sus propias leyes en lo que no se contrapongan a la legislación federal, salvo en el caso de
@@ -2359,8 +2779,18 @@ los recursos para el pago de servicios personales previsto en el Fondo de Aporta
 Educativa y Gasto Operativo, en el cual se observará lo dispuesto en el artículo 26 de esta Ley. En todos
 los casos deberán registrarlas como ingresos que deberán destinarse específicamente a los fines
 establecidos en los artículos citados en el párrafo anterior.
+Párrafo reformado DOF 09-12-2013, 18-07-2016
 
-40 de 90
+Para efectos del entero de los Fondos de Aportaciones a que se refiere el artículo 25 de esta Ley,
+salvo por lo dispuesto en el artículo 52 de este capítulo, no procederán los anticipos a que se refiere el
+segundo párrafo del artículo 7o. de la misma.
+Párrafo adicionado DOF 09-12-2013
+
+El control, la evaluación y fiscalización del manejo de los recursos federales a que se refiere este
+Capítulo quedará a cargo de las siguientes autoridades, en las etapas que se indican:
+Párrafo reformado DOF 01-10-2007
+
+43 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2370,11 +2800,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Para efectos del entero de los Fondos de Aportaciones a que se refiere el artículo 25 de esta Ley,
-salvo por lo dispuesto en el artículo 52 de este capítulo, no procederán los anticipos a que se refiere el
-segundo párrafo del artículo 7o. de la misma.
-El control, la evaluación y fiscalización del manejo de los recursos federales a que se refiere este
-Capítulo quedará a cargo de las siguientes autoridades, en las etapas que se indican:
 I.-
 
 Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria
@@ -2394,6 +2819,7 @@ III.
 La fiscalización sobre el ejercicio de los recursos de los Fondos a que se refiere el presente
 Capítulo corresponde a la Auditoría Superior de la Federación en los términos de la Ley de
 Fiscalización y Rendición de Cuentas de la Federación;
+Fracción reformada DOF 01-10-2007, 18-07-2016
 
 IV.
 
@@ -2412,6 +2838,7 @@ Aportaciones para la Nómina Educativa y Gasto Operativo.
 La Secretaría deducirá el monto correspondiente de los Fondos antes referidos, y lo
 transferirá a la Auditoría Superior de la Federación a más tardar el último día hábil del mes
 de junio de cada ejercicio fiscal;
+Fracción reformada DOF 01-10-2007, 18-07-2016
 
 V.
 
@@ -2426,8 +2853,11 @@ Para efectos de la evaluación a que se refiere el párrafo anterior, se transfe
 por ciento de los recursos de los fondos de aportaciones federales aprobados en el
 Presupuesto de Egresos de la Federación, con excepción del componente de servicios
 personales previsto en el Fondo de Aportaciones para la Nómina Educativa y Gasto
+Operativo, al mecanismo que para tal efecto establezca la Secretaría de Hacienda y Crédito
+Público.
+Fracción adicionada DOF 01-10-2007. Reformada DOF 18-07-2016
 
-41 de 90
+44 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2437,26 +2867,33 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Operativo, al mecanismo que para tal efecto establezca la Secretaría de Hacienda y Crédito
-Público.
 En el caso de los recursos para el pago de servicios personales previsto en el Fondo de Aportaciones
 para la Nómina Educativa y Gasto Operativo, las autoridades de control interno de los gobiernos federal y
 de las entidades federativas supervisarán, en el ámbito de sus respectivas competencias, el proceso de
 integración y pago de la nómina del personal educativo. Asimismo, la Auditoría Superior de la Federación
 fiscalizará la aplicación de dichos recursos.
+Párrafo adicionado DOF 09-12-2013
+
 Cuando las autoridades de las entidades federativas, de los municipios o de las demarcaciones
 territoriales del Distrito Federal, que en el ejercicio de sus atribuciones de control y supervisión conozcan
 que los recursos de los Fondos no han sido aplicados a los fines que por cada Fondo se señale en la
 Ley, deberán hacerlo del conocimiento de la Auditoría Superior de la Federación y de la Secretaría de la
 Función Pública en forma inmediata.
+Párrafo reformado DOF 09-12-2013
+
 Por su parte, cuando la entidad de fiscalización del Poder Legislativo local, detecte que los recursos
 de los Fondos no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento
 inmediato de la Auditoría Superior de la Federación de la Cámara de Diputados del Congreso de la
 Unión.
+Párrafo reformado DOF 09-12-2013
+
 Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos
 federales o locales por el manejo o aplicación indebidos de los recursos de los Fondos a que se refiere
 este Capítulo, serán determinadas y sancionadas por las autoridades federales, en los términos de las
 leyes federales aplicables.
+Párrafo reformado DOF 09-12-2013, 18-07-2016
+Artículo adicionado DOF 27-12-2006
+
 Artículo 50. Las aportaciones que con cargo a los Fondos a que se refiere el artículo 25, en sus
 fracciones III y VIII, de esta Ley correspondan a las Entidades Federativas o Municipios, podrán afectarse
 para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de dichas
@@ -2466,6 +2903,8 @@ autorización de las legislaturas locales y se inscriban a petición de las Enti
 Municipios, según corresponda, ante la Secretaría de Hacienda y Crédito Público, en el Registro de
 Obligaciones y Empréstitos de Entidades y Municipios, así como en el registro único de obligaciones y
 empréstitos a que se refiere el quinto párrafo del artículo 9o. del presente ordenamiento.
+Párrafo reformado DOF 09-12-2013
+
 Los financiamientos que den origen a las obligaciones a que hace referencia el párrafo anterior
 únicamente podrán destinarse a los fines establecidos en el artículo 33 de esta Ley, para el caso de las
 aportaciones con cargo al Fondo de Aportaciones para la Infraestructura Social, y a los fines establecidos
@@ -2478,11 +2917,9 @@ Tratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para ca
 destinarse al servicio de las mismas lo que resulte mayor entre aplicar el porcentaje a que se refiere el
 párrafo anterior a los recursos correspondientes al año de que se trate o a los recursos correspondientes
 al año en que las obligaciones hayan sido contratadas.
-Las obligaciones de los Municipios a que se refiere el segundo párrafo de este artículo se inscribirán
-en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, cuando cuenten con
-la garantía del Gobierno del Estado respectivo, salvo cuando a juicio de la Secretaría de Hacienda y
+Párrafo adicionado DOF 21-12-2007
 
-42 de 90
+45 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2492,17 +2929,24 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Las obligaciones de los Municipios a que se refiere el segundo párrafo de este artículo se inscribirán
+en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, cuando cuenten con
+la garantía del Gobierno del Estado respectivo, salvo cuando a juicio de la Secretaría de Hacienda y
 Crédito Público tengan suficientes aportaciones con cargo al Fondo a que se refiere el artículo 25,
 fracción III, de esta Ley, para responder a sus compromisos.
 Las Entidades Federativas y Municipios efectuarán los pagos de las obligaciones contraídas en los
 términos de este artículo, con cargo a las aportaciones que les correspondan de los Fondos a que el
 mismo se refiere, a través de mecanismos de garantía o de fuente de pago, sin perjuicio de los
 instrumentos y sistemas de registro establecidos, en su caso, en las leyes estatales de deuda.
+Artículo adicionado DOF 27-12-2006
+
 Artículo 51.- Las aportaciones que con cargo al Fondo a que se refiere el artículo 25, fracción IV de
 esta Ley correspondan a los municipios y a las demarcaciones territoriales del Distrito Federal podrán
 afectarse como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos
 por concepto de agua y descargas de aguas residuales, cuando así lo dispongan las leyes locales y de
 conformidad con lo dispuesto en este artículo.
+Párrafo reformado DOF 09-12-2013
+
 En caso de incumplimiento por parte de los municipios o de las demarcaciones territoriales del Distrito
 Federal a sus obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas
 de aguas residuales, la Comisión Nacional del Agua podrá solicitar al gobierno local correspondiente,
@@ -2511,6 +2955,8 @@ Fondo mencionado en el párrafo anterior que correspondan al municipio o Demarca
 se trate, conforme a lo dispuesto por el artículo 36 de esta Ley. La Comisión Nacional del Agua sólo
 podrá solicitar la retención y pago señalados cuando el adeudo tenga una antigüedad mayor de 90 días
 naturales.
+Párrafo reformado DOF 09-12-2013
+
 Lo previsto en el párrafo anterior, será aplicable aun y cuando el servicio de suministro de agua no sea
 proporcionado directamente por la Comisión Nacional del Agua, sino a través de organismos prestadores
 del servicio.
@@ -2518,6 +2964,8 @@ La Comisión Nacional del Agua podrá ceder, afectar y en términos generales tr
 derivados de la retención a que se refiere este artículo a fideicomisos u otros mecanismos de fuente de
 pago o de garantía constituidos para el financiamiento de infraestructura prioritaria en las materias de
 abastecimiento de agua potable, drenaje o saneamiento de aguas residuales.
+Artículo adicionado DOF 21-12-2007
+
 Artículo 52.- Las aportaciones que con cargo a los Fondos de Aportaciones Múltiples y para la
 Seguridad Pública de los Estados y el Distrito Federal, a que se refiere el artículo 25 de esta Ley,
 fracciones V y VII, respectivamente, que correspondan a las entidades, podrán afectarse para garantizar
@@ -2531,11 +2979,8 @@ como resultado de los mecanismos referidos, así como su compensación a través
 Los recursos netos que se obtengan de los mecanismos antes referidos, únicamente podrán
 destinarse a infraestructura directamente relacionada con los fines establecidos en los artículos 40 y 45
 de esta Ley, en términos de los convenios respectivos.
-Para las obligaciones al amparo de este artículo, no podrán destinarse más del 25% de los recursos
-que anualmente correspondan por concepto de los fondos a que se refiere el párrafo anterior, para servir
-dichas obligaciones, excepto por lo establecido en el párrafo siguiente.
 
-43 de 90
+46 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2545,10 +2990,14 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Para las obligaciones al amparo de este artículo, no podrán destinarse más del 25% de los recursos
+que anualmente correspondan por concepto de los fondos a que se refiere el párrafo anterior, para servir
+dichas obligaciones, excepto por lo establecido en el párrafo siguiente.
 Tratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para cada año podrá
 destinarse al servicio de las mismas lo que resulte mayor entre aplicar el porcentaje a que se refiere el
 párrafo anterior a los recursos correspondientes al año de que se trate o a los recursos correspondientes
 al año en que las obligaciones hayan sido contratadas.
+Artículo adicionado DOF 09-12-2013
 
 TRANSITORIOS
 Artículo Primero.- Esta Ley entrará en vigor, en toda la República, el día 1o. de enero de 1980, salvo
@@ -2581,13 +3030,8 @@ entidades, y se determinará el tanto por ciento que el resultado que correspond
 represente en el total. Dicho tanto por ciento será la proporción en la que cada entidad participará en el
 Fondo General de Participaciones durante el ejercicio de 1980.
 A partir del ejercicio de 1981, se aplicará en sus términos la formula del artículo 3o. de esta Ley.
-Artículo Sexto.- Los Estados que se adhieran al Sistema Nacional de Coordinación Fiscal y el Distrito
-Federal, percibirán, a partir de la fecha en que esta Ley entre en vigor, las participaciones que les
-correspondan sobre la recaudación federal que se obtenga a partir del 1o. de enero de 1980, aun cuando
-por los cuales ya no percibirán participaciones conforme a las diferentes leyes y decretos que las
-otorguen o que queden derogadas por la Ley del Impuesto al Valor Agregado.
 
-44 de 90
+47 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2597,6 +3041,11 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo Sexto.- Los Estados que se adhieran al Sistema Nacional de Coordinación Fiscal y el Distrito
+Federal, percibirán, a partir de la fecha en que esta Ley entre en vigor, las participaciones que les
+correspondan sobre la recaudación federal que se obtenga a partir del 1o. de enero de 1980, aun cuando
+por los cuales ya no percibirán participaciones conforme a las diferentes leyes y decretos que las
+otorguen o que queden derogadas por la Ley del Impuesto al Valor Agregado.
 Las entidades que no se adhieran al Sistema Nacional de Coordinación Fiscal continuarán percibiendo
 las participaciones que les correspondan, conforme a las leyes y decretos que quedarán derogados por
 los impuestos causados con anterioridad a dicha derogación y las de impuestos especiales a que se
@@ -2613,7 +3062,7 @@ mes de diciembre de mil novecientos setenta y ocho.- José López Portillo.- Rú
 Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Gobernación, Jesús Reyes
 Heroles.- Rúbrica.
 
-45 de 90
+48 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2624,6 +3073,9 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
+
+A partir de 1993
+
 Ley que establece las reducciones impositivas acordadas en el Pacto para la Estabilidad,
 la Competitividad y el Empleo.
 Publicada en el Diario Oficial de la Federación el 3 de diciembre de 1993
@@ -2662,10 +3114,8 @@ impuesto será del 13% del valor de exportación de la energía.
 Del monto que se recaude por esta contribución se participará con un 6% al Municipio productor
 colindante con la frontera por el que se realice materialmente la exportación. El remanente se destinará a
 la Comisión Federal de Electricidad para el financiamiento de los programas de aislamiento térmico.
-Sobre el impuesto a que se refiere este artículo, no se pagará el adicional del 2% a la exportación que
-establece el artículo 35, fracción II, apartado B, inciso a) de la Ley Aduanera.
 
-46 de 90
+49 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2675,6 +3125,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Sobre el impuesto a que se refiere este artículo, no se pagará el adicional del 2% a la exportación que
+establece el artículo 35, fracción II, apartado B, inciso a) de la Ley Aduanera.
 México, D.F. a 2 de diciembre de 1993.- Sen. Eduardo Robledo Rincón, Presidente.- Dip.
 Cuauhtémoc López Sánchez, Presidente.- Sen. Israel Soberanis Nogueda, Secretario.- Dip. Juan
 Adrián Ramírez García, Secretario.- Rúbricas".
@@ -2684,7 +3136,7 @@ residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de
 Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 
-47 de 90
+50 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2736,7 +3188,7 @@ residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 mes de diciembre de mil noveciento noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario
 de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 
-48 de 90
+51 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2770,7 +3222,7 @@ residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 de mayo de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario
 de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.
 
-49 de 90
+52 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2868,7 +3320,7 @@ Para los estados en que se aplique lo dispuesto en la fracción II del artículo
 del Impuesto Sobre Automóviles Nuevos, el impuesto asignable para los años de 1995 y
 1996 se determinará conforme a este artículo.
 
-50 de 90
+53 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2899,7 +3351,7 @@ residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El
 Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 
-51 de 90
+54 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2950,7 +3402,7 @@ Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
 Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
 
-52 de 90
+55 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2964,7 +3416,7 @@ residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 mes de diciembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El
 Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 
-53 de 90
+56 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3021,7 +3473,7 @@ descrito, se aplicará estrictamente la fórmula a que se refiere el artículo 3
 Sexto.- El Programa de Apoyos a la Educación Básica que se encuentra operando en algunos
 Municipios, seguirá siendo financiado con recursos del Fondo para la Infraestructura Social Municipal,
 
-54 de 90
+57 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3056,7 +3508,7 @@ residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El
 Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 
-55 de 90
+58 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3097,7 +3549,7 @@ residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 del mes de diciembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El
 Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
 
-56 de 90
+59 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3126,7 +3578,7 @@ Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el
 residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días
 del mes de diciembre de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 
-57 de 90
+60 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3202,7 +3654,7 @@ El Acuerdo a la Secretaría de Hacienda y Crédito Público y al Departamento de
 para la Colaboración Administrativa de este último en Materia Fiscal Federal, publicado en el
 Diario Oficial de la Federación de 23 de mayo de 1997.
 
-58 de 90
+61 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3223,7 +3675,7 @@ residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 del mes de diciembre de dos mil.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación,
 Santiago Creel Miranda.- Rúbrica.
 
-59 de 90
+62 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3275,7 +3727,7 @@ residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 del mes de diciembre de dos mil.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación,
 Santiago Creel Miranda.- Rúbrica.
 
-60 de 90
+63 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3313,7 +3765,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 de marzo de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago
 Creel Miranda.- Rúbrica.
 
-61 de 90
+64 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3345,7 +3797,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 de julio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel
 Miranda.- Rúbrica.
 
-62 de 90
+65 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3376,7 +3828,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 de julio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel
 Miranda.- Rúbrica.
 
-63 de 90
+66 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3412,7 +3864,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 del mes de diciembre de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación,
 Santiago Creel Miranda.- Rúbrica.
 
-64 de 90
+67 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3441,7 +3893,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 del mes de agosto de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación,
 Santiago Creel Miranda.- Rúbrica.
 
-65 de 90
+68 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3470,7 +3922,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 mes de febrero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación,
 Santiago Creel Miranda.- Rúbrica.
 
-66 de 90
+69 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3512,7 +3964,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 mes de diciembre de dos mil seis.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de
 Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 
-67 de 90
+70 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3549,7 +4001,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 del mes de septiembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario
 de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 
-68 de 90
+71 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3608,7 +4060,7 @@ Demarcaciones Territoriales del Distrito Federal para el pago de dichos derechos
 aprovechamientos, en términos de lo previsto en el artículo 51 de la Ley de Coordinación
 Fiscal.
 
-69 de 90
+72 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3629,11 +4081,12 @@ siguientes a la fecha de entrada en vigor de dicha fracción, recibirán los rec
 en el mismo desde el inicio de la aplicación de las cuotas correspondientes y, en caso
 contrario, sobre la recaudación obtenida a partir del mes siguiente a aquél en que se celebre
 el convenio de coordinación.
-El 1 de enero de 2015, quedará derogada la fracción I del artículo 4o.-A de la Ley de
+[El 1 de enero de 2015, quedará derogada la fracción I del artículo 4o.-A de la Ley de
 Coordinación Fiscal. A partir de esa fecha, las cuotas federales aplicables a la venta final de
 gasolinas y diesel, previstas en el artículo 2o.-A, fracción II, de la Ley del Impuesto Especial
 sobre Producción y Servicios, se disminuirán en 9/11. El remanente de 2/11 se destinará al
-Fondo de Compensación a que se refiere la fracción II del primer artículo mencionado.
+Fondo de Compensación a que se refiere la fracción II del primer artículo mencionado.]
+Párrafo reformado DOF 12-12-2011. Párrafo que “queda sin efecto” DOF 09-12-2013
 
 IV.
 
@@ -3676,7 +4129,7 @@ contados a partir de la entrada en vigor de este Decreto, deberá notificar a la
 Diputados del Congreso de la Unión, la metodología a utilizar para estimar los niveles de
 población por entidad federativa. Dicho Instituto deberá rendir un informe trimestral a dicha
 
-70 de 90
+73 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3707,7 +4160,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 diciembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de
 Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 
-71 de 90
+74 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3764,7 +4217,7 @@ final, con independencia del domicilio fiscal del contribuyente o del consumidor
 2) Al artículo 27, fracción I, de la Ley del Impuesto Especial sobre Producción y Servicios, en la
 porción normativa que señala: “…Se exceptúan de lo anterior los impuestos locales a la venta o
 
-72 de 90
+75 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3836,7 +4289,7 @@ Producción y Servicios, y la señora Ministra Sánchez Cordero de García Ville
 estimar que vulnera el principio de legalidad tributaria, y reservó su derecho para formular voto particular;
 y el señor Ministro Góngora Pimentel reservó su derecho para formular voto concurrente.
 
-73 de 90
+76 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3863,7 +4316,7 @@ de Inconstitucionalidad 29/2008, promovida por diputados integrantes de la Sexag
 Legislatura del Congreso de la Unión.
 Publicado en el Diario Oficial de la Federación el 24 de julio de 2008
 
-74 de 90
+77 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3893,7 +4346,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
-75 de 90
+78 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3924,7 +4377,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
-76 de 90
+79 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3958,7 +4411,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación,
 Alejandro Alfonso Poiré Romero.- Rúbrica.
 
-77 de 90
+80 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4019,7 +4472,7 @@ Registrar las plazas a que se refiere la fracción anterior en el módulo corres
 servicios personales del Sistema de Información y Gestión Educativa a que se refiere el
 artículo 12, fracción X, de la Ley General de Educación, y
 
-78 de 90
+81 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4083,7 +4536,7 @@ Porcentaje de Retención
 Lo anterior podrá ser aplicable sin perjuicio de lo establecido en las legislaciones locales en la materia,
 vigentes en la fecha de publicación de esta Ley.
 
-79 de 90
+82 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4136,7 +4589,7 @@ afectación de los recursos del Fondo de Aportaciones para el Fortalecimiento de
 Demarcaciones Territoriales del Distrito Federal, para el pago de dichos derechos o aprovechamientos,
 en términos de lo previsto en el artículo 51 de la Ley de Coordinación Fiscal. En el caso de
 
-80 de 90
+83 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4201,7 +4654,7 @@ derechos por descargas por así disponerlo la ley respectiva, la Comisión Nacio
 podrá disminuir la totalidad de los adeudos a cargo de dichos contribuyentes de conformidad
 con las reglas que al efecto emita la Secretaría de Hacienda y Crédito Público.
 
-81 de 90
+84 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4227,7 +4680,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio
 Chong.- Rúbrica.
 
-82 de 90
+85 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4296,7 +4749,7 @@ TRANSITORIOS
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación.
 
-83 de 90
+86 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4352,7 +4805,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio
 Chong.- Rúbrica.
 
-84 de 90
+87 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4403,7 +4856,7 @@ Entidades Federativas y los Municipios, relativo a los adeudos del ejercicio fis
 Federativas, será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento para el
 2019 y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.
 
-85 de 90
+88 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4459,7 +4912,7 @@ manifieste si el ente público cumple con dicha disposición.
 Asimismo, para efectos del párrafo anterior, el Estado o Municipio deberá estar al corriente en el
 cumplimiento de las obligaciones establecidas en los transitorios Sexto y Séptimo, segundo párrafo, del
 
-86 de 90
+89 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4512,7 +4965,7 @@ disposiciones del Registro de Obligaciones y Empréstitos de Entidades y Municip
 VIGÉSIMO.- El Consejo Nacional de Armonización Contable deberá emitir, en un plazo máximo de
 180 días naturales siguientes a la entrada en vigor del presente Decreto, las normas necesarias para
 
-87 de 90
+90 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4536,7 +4989,7 @@ Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el
 Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintisiete de abril de dos mil
 dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 
-88 de 90
+91 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4588,7 +5041,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
 Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciocho de julio de dos mil
 
-89 de 90
+92 de 93
 
 LEY DE COORDINACIÓN FISCAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4600,5 +5053,5 @@ Secretaría de Servicios Parlamentarios
 
 dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 
-90 de 90
+93 de 93
 
