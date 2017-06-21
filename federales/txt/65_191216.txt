@@ -11,11 +11,6 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 19 de julio de 199
 TEXTO VIGENTE
 Última reforma publicada DOF 19-12-2016
 
-Nota de vigencia: Las reformas a los artículos 13; 16, fracción VIII; 17; 19 BIS, párrafo primero; 23, párrafo
-primero; 41, párrafos segundo, tercero y cuarto; 58 BIS, párrafo primero; 62; 65, así como a la denominación del
-Capítulo III; y las adiciones de la fracción I Bis al artículo 2o. y los párrafos quinto, sexto y séptimo al artículo 41,
-publicadas en el DOF 19-12-2016, entrarán en vigor el 17 de junio de 2017.
-
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la
 República.
 CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, a sus
@@ -46,6 +41,9 @@ abrigo y atención de embarcaciones, compuesto por el recinto portuario y, en su
 desarrollo, así como por accesos y áreas de uso común para la navegación interna y afectas a su
 funcionamiento; con servicios, terminales e instalaciones, públicos y particulares, para la transferencia de
 bienes y transbordo de personas entre los modos de transporte que enlaza.
+III. Recinto portuario: La zona federal delimitada y determinada por la Secretaría y por la de Desarrollo
+Social en los puertos, terminales y marinas, que comprende las áreas de agua y terrenos de dominio
+público destinados al establecimiento de instalaciones y a la prestación de servicios portuarios.
 
 1 de 29
 
@@ -57,9 +55,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-III. Recinto portuario: La zona federal delimitada y determinada por la Secretaría y por la de Desarrollo
-Social en los puertos, terminales y marinas, que comprende las áreas de agua y terrenos de dominio
-público destinados al establecimiento de instalaciones y a la prestación de servicios portuarios.
 IV. Terminal: La unidad establecida en un puerto o fuera de él, formada por obras, instalaciones y
 superficies, incluida su zona de agua, que permite la realización integra de la operación portuaria a la que
 se destina.
@@ -99,6 +94,9 @@ Bienes Nacionales;
 II. El Código de Comercio, y
 III. Las disposiciones de la legislación común.
 
+CAPITULO II
+Puertos, terminales, marinas e instalaciones portuarias
+
 2 de 29
 
 LEY DE PUERTOS
@@ -109,8 +107,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-CAPITULO II
-Puertos, terminales, marinas e instalaciones portuarias
 ARTICULO 5o.- Corresponde al Ejecutivo Federal habilitar toda clase de puertos, así como terminales
 de uso público fuera de los mismos, mediante decreto en el que se determinará su denominación,
 localización geográfica y su clasificación por navegación.
@@ -144,6 +140,9 @@ específicos de la captura y del proceso de la industria pesquera, y
 d) Turísticos, cuando se dediquen, preponderantemente, a la actividad de cruceros turísticos y
 marinas.
 ARTICULO 10.- Las terminales, marinas e instalaciones portuarias se clasifican por su uso en:
+I. Públicas, cuando se trate de terminales de contenedores y carga general o exista obligación de
+ponerlas a disposición de cualquier solicitante, y
+Fracción reformada DOF 11-06-2012
 
 3 de 29
 
@@ -154,10 +153,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-I. Públicas, cuando se trate de terminales de contenedores y carga general o exista obligación de
-ponerlas a disposición de cualquier solicitante, y
-Fracción reformada DOF 11-06-2012
 
 II. Particulares, cuando el titular las destine para sus propios fines, y a los de terceros mediante
 contrato, siempre y cuando los servicios y la carga de que se trate sean de naturaleza similar a los
@@ -207,6 +202,10 @@ impulsar la competitividad de los puertos mexicanos en sus instalaciones, servic
 los intereses de la Nación;
 Fracción reformada DOF 11-06-2012
 
+II. Bis. Fomentar que los distintos tipos de servicios de transporte que convergen en los puertos
+nacionales se interconecten de manera eficiente;
+Fracción adicionada DOF 11-06-2012
+
 4 de 29
 
 LEY DE PUERTOS
@@ -216,10 +215,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-II. Bis. Fomentar que los distintos tipos de servicios de transporte que convergen en los puertos
-nacionales se interconecten de manera eficiente;
-Fracción adicionada DOF 11-06-2012
 
 II. Ter. Fomentar que los servicios mediante los cuales se atiendan embarcaciones, personas y bienes
 en navegación entre puertos o puntos nacionales, sean prestados de manera eficiente;
@@ -263,6 +258,10 @@ ARTICULO 17.- En cada puerto habilitado existirá una capitanía de puerto, a la
 las funciones que le otorga la Ley de Navegación y Comercio Marítimos.
 Artículo reformado DOF 11-06-2012, 19-12-2016
 
+ARTICULO 18.- La Armada de México, así como las corporaciones federales, estatales y municipales
+de policía, auxiliarán en la conservación del orden y seguridad del recinto portuario, a solicitud de la
+capitanía del mismo.
+
 5 de 29
 
 LEY DE PUERTOS
@@ -273,9 +272,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-ARTICULO 18.- La Armada de México, así como las corporaciones federales, estatales y municipales
-de policía, auxiliarán en la conservación del orden y seguridad del recinto portuario, a solicitud de la
-capitanía del mismo.
 ARTICULO 19.- Las capitanías de puerto, así como las autoridades aduanales, sanitarias, migratorias
 o cualquier otra que ejerza sus funciones dentro de los puertos, se coordinarán en los términos que
 establezca el reglamento que para tal efecto se expida.
@@ -324,6 +320,11 @@ ARTICULO 20.- Para la explotación, uso y aprovechamiento de bienes del dominio 
 puertos, terminales y marinas, así como para la construcción de obras en los mismos y para la prestación
 de servicios portuarios, sólo se requerirá de concesión, permiso o autorización que otorgue la Secretaría
 conforme a lo siguiente:
+Párrafo reformado DOF 11-06-2012
+
+I.
+
+Concesiones para la administración portuaria integral;
 
 6 de 29
 
@@ -335,18 +336,11 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Párrafo reformado DOF 11-06-2012
-
-I.
-
-Concesiones para la administración portuaria integral;
-
 II.
-
-Fuera de las áreas concesionadas a una administración portuaria integral;
 
 III.
 
+Fuera de las áreas concesionadas a una administración portuaria integral;
 a)
 
 Concesiones sobre bienes de dominio público que, además, incluirán la construcción,
@@ -394,6 +388,9 @@ portuarios correspondientes, por lo que no se requerirá de permiso específico 
 ARTICULO 23.- La Secretaría podrá otorgar las concesiones hasta por un plazo de cincuenta años,
 tomando en cuenta las características de los proyectos y los montos de inversión. Las concesiones
 podrán ser prorrogadas hasta por un plazo igual al señalado originalmente. Para tales efectos, el
+concesionario deberá presentar la solicitud correspondiente a más tardar un año antes de la conclusión
+de la concesión. La Secretaría fijará los requisitos que deberán cumplirse.
+Párrafo reformado DOF 19-12-2016
 
 7 de 29
 
@@ -404,10 +401,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-concesionario deberá presentar la solicitud correspondiente a más tardar un año antes de la conclusión
-de la concesión. La Secretaría fijará los requisitos que deberán cumplirse.
-Párrafo reformado DOF 19-12-2016
 
 La Secretaría contestará en definitiva las solicitudes de prórroga a que se refiere el párrafo anterior,
 dentro de un plazo de 120 días naturales contados a partir de la fecha de presentación de la misma.
@@ -455,6 +448,8 @@ III.
 Las bases del concurso incluirán los criterios con los que se seleccionará al ganador, que
 tomarán en cuenta, según sea el caso, las contraprestaciones ofrecidas por el otorgamiento de
 la concesión, la calidad del servicio que se propone, las inversiones comprometidas, los
+volúmenes de operación, los precios y tarifas para el usuario y las demás condiciones que se
+consideren convenientes;
 
 8 de 29
 
@@ -466,8 +461,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-volúmenes de operación, los precios y tarifas para el usuario y las demás condiciones que se
-consideren convenientes;
 IV.
 
 Podrán participar uno o varios interesados que demuestren su solvencia moral y económica, así
@@ -526,6 +519,13 @@ I.
 
 Los fundamentos legales y los motivos de su otorgamiento;
 
+II.
+
+La descripción de los bienes, obras e instalaciones del dominio público que se concesionan, así
+como los compromisos de mantenimiento, productividad y aprovechamiento de los mismos, así
+como los compromisos sobre áreas, prestación de servicios dentro del puerto, las terminales e
+instalaciones portuarias para la atención de embarcaciones, personas y bienes relacionados
+
 9 de 29
 
 LEY DE PUERTOS
@@ -536,12 +536,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-II.
-
-La descripción de los bienes, obras e instalaciones del dominio público que se concesionan, así
-como los compromisos de mantenimiento, productividad y aprovechamiento de los mismos, así
-como los compromisos sobre áreas, prestación de servicios dentro del puerto, las terminales e
-instalaciones portuarias para la atención de embarcaciones, personas y bienes relacionados
 con la navegación de cabotaje o que requieran para su atención y los compromisos
 relacionados con tarifas, costos y uso necesario de los mismos para el cabotaje;
 Fracción reformada DOF 11-06-2012
@@ -608,6 +602,9 @@ Las causas de revocación.
 En los títulos de concesión para la administración portuaria integral se establecerán las bases
 generales a que habrá de sujetarse su organización y funcionamiento y se incluirá, como parte de los
 mismos, el programa maestro de desarrollo portuario correspondiente.
+ARTICULO 27.- La Secretaria podrá establecer en los títulos de concesión para la administración
+portuaria integral, que la operación de terminales, marinas e instalaciones y la prestación de servicios se
+realicen a través de terceros.
 
 10 de 29
 
@@ -619,9 +616,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-ARTICULO 27.- La Secretaria podrá establecer en los títulos de concesión para la administración
-portuaria integral, que la operación de terminales, marinas e instalaciones y la prestación de servicios se
-realicen a través de terceros.
 ARTICULO 28.- Los permisos y autorizaciones a que se refiere el artículo 20 se otorgarán en los
 términos que establezcan los reglamentos de la presente ley, pero en todo caso la resolución de
 otorgamiento, deberá emitirse fundada y motivada, en un plazo que no exceda de noventa días naturales,
@@ -661,6 +655,8 @@ caso de revocación de la misma, los bienes reversibles pasarán a ser propiedad
 ARTICULO 32.- Las concesiones terminarán por:
 I. Vencimiento del plazo establecido en el título o de la prorroga que se hubiere otorgado;
 II. Renuncia del titular;
+III. Revocación;
+IV. Rescate;
 
 11 de 29
 
@@ -672,8 +668,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-III. Revocación;
-IV. Rescate;
 V. Desaparición del objeto o de la finalidad de la concesión, y
 VI. Liquidación, extinción o quiebra si se trata de persona moral, o muerte del concesionario, si es
 persona física.
@@ -705,6 +699,8 @@ XII. No otorgar o no mantener en vigor la garantía de cumplimiento de las conce
 las pólizas de seguros de daños a terceros;
 XIII. Incumplir con las obligaciones señaladas en el título de concesión en materia de protección
 ecológica, y
+XIV. Incumplir, de manera reiterada, con cualquiera de las obligaciones o condiciones establecidas en
+esta ley o en sus reglamentos.
 
 12 de 29
 
@@ -716,8 +712,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-XIV. Incumplir, de manera reiterada, con cualquiera de las obligaciones o condiciones establecidas en
-esta ley o en sus reglamentos.
 ARTICULO 34.- La revocación será declarada administrativamente por la Secretaría, conforme al
 procedimiento siguiente:
 I. La Secretaría notificará al titular o a su representante legal, del inicio del procedimiento y de las
@@ -757,6 +751,8 @@ a una sociedad mercantil, mediante la concesión para el uso, aprovechamiento y 
 bienes y la prestación de los servicios respectivos.
 Asimismo, se podrá encomendar, mediante concesión, la administración portuaria integral de un
 conjunto de terminales, instalaciones y puertos de influencia preponderantemente estatal, dentro de una
+entidad federativa, a una sociedad mercantil constituida por el Gobierno Federal o Estatal
+correspondiente.
 
 13 de 29
 
@@ -768,8 +764,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-entidad federativa, a una sociedad mercantil constituida por el Gobierno Federal o Estatal
-correspondiente.
 ARTICULO 39.- La administración portuaria integral será autónoma en su gestión operativa y
 financiera, por lo que sus órganos de gobierno establecerán sus políticas y normas internas, sin mas
 limitaciones que las que establezcan las disposiciones legales y administrativas aplicables.
@@ -807,6 +801,10 @@ Fracción adicionada DOF 26-12-2013
 
 ARTICULO 41.- El administrador portuario se sujetará a un programa maestro de desarrollo portuario,
 el cual será parte integrante del título de concesión y deberá contener:
+I.
+
+Los usos, destinos y modos de operación previstos para las diferentes zonas del puerto o
+grupos de ellos, así como la justificación de los mismos, y
 
 14 de 29
 
@@ -817,11 +815,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-I.
-
-Los usos, destinos y modos de operación previstos para las diferentes zonas del puerto o
-grupos de ellos, así como la justificación de los mismos, y
 
 II.
 
@@ -875,6 +868,8 @@ recomendaciones en relación con aquellos aspectos que afecten la actividad urba
 ecológico de la zona, para lo cual el administrador portuario deberá informar a la comisión sobre el
 programa maestro de desarrollo portuario y sus modificaciones, así como de los principales proyectos de
 inversión para la expansión y modernización del puerto.
+La comisión sesionará por lo menos una vez cada tres meses y sus resoluciones se tomarán por
+mayoría de votos.
 
 15 de 29
 
@@ -886,8 +881,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-La comisión sesionará por lo menos una vez cada tres meses y sus resoluciones se tomarán por
-mayoría de votos.
 Cuando el administrador portuario decida no seguir dichas recomendaciones, lo notificará dentro de
 un plazo de 30 días al presidente de la comisión, quien podrá informar de ello a las autoridades
 competentes para que resuelvan lo que corresponda.
@@ -926,6 +919,10 @@ ARTICULO 48.- La Secretaría, en casos excepcionales, con vista en el interés p
 modificar temporalmente los usos de los puertos, terminales, marinas e instalaciones portuarias. En tal
 caso, el afectado percibirá la indemnización que corresponda por el uso público de la instalación
 respectiva.
+ARTICULO 49.- Los administradores portuarios, los operadores de terminales, marinas e
+instalaciones y las empresas de prestación de servicios portuarios podrán realizar las operaciones que
+les correspondan con equipo y personal propios; mediante la celebración de contratos de carácter
+mercantil con empresas cuyo objeto social incluya ofrecer los servicios a que se refiere la fracción III del
 
 16 de 29
 
@@ -937,10 +934,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-ARTICULO 49.- Los administradores portuarios, los operadores de terminales, marinas e
-instalaciones y las empresas de prestación de servicios portuarios podrán realizar las operaciones que
-les correspondan con equipo y personal propios; mediante la celebración de contratos de carácter
-mercantil con empresas cuyo objeto social incluya ofrecer los servicios a que se refiere la fracción III del
 artículo 44 y cuenten con trabajadores bajo su subordinación y dependencia dotados de los útiles
 indispensables para el desempeño de sus labores; o con otros prestadores de servicios portuarios.
 ARTICULO 50.- Los actos y contratos relativos a los servicios portuarios serán de carácter mercantil.
@@ -990,6 +983,10 @@ En los casos previstos en el artículo 46 no se requerirá de concurso para la a
 contratos respectivos.
 ARTICULO 54.- Cuando los interesados en operar una terminal o instalación, o en prestar servicios en
 el área a cargo de un administrador portuario, le soliciten la adjudicación directa del contrato respectivo o
+la apertura del concurso correspondiente, éste deberá dar respuesta a la solicitud en un plazo no mayor
+de 60 días hábiles. En caso de inconformidad, los interesados podrán recurrir a la Secretaría para que
+resuelva lo conducente.
+Artículo reformado DOF 11-06-2012
 
 17 de 29
 
@@ -1000,11 +997,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-la apertura del concurso correspondiente, éste deberá dar respuesta a la solicitud en un plazo no mayor
-de 60 días hábiles. En caso de inconformidad, los interesados podrán recurrir a la Secretaría para que
-resuelva lo conducente.
-Artículo reformado DOF 11-06-2012
 
 ARTICULO 55.- El administrador portuario responderá ante la Secretaría por las obligaciones
 establecidas en el título de concesión respectivo, independientemente de los contratos de cesión parcial
@@ -1043,6 +1035,9 @@ El Comité de Planeación conocerá, entre otros asuntos, del programa maestro d
 y sus modificaciones; de la asignación de áreas, terminales y contratos de servicios portuarios que realice
 el administrador portuario; así como de cualquier asunto que afecte la operatividad de largo plazo del
 puerto.
+El Comité de Planeación se reunirá por lo menos tres veces al año o en cualquier tiempo, a solicitud
+de cualquiera de sus integrantes y sus acuerdos se tomarán por mayoría de votos de los presentes.
+Artículo adicionado DOF 11-06-2012
 
 18 de 29
 
@@ -1053,10 +1048,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-El Comité de Planeación se reunirá por lo menos tres veces al año o en cualquier tiempo, a solicitud
-de cualquiera de sus integrantes y sus acuerdos se tomarán por mayoría de votos de los presentes.
-Artículo adicionado DOF 11-06-2012
 
 ARTICULO 59.- Todos los actos de los concesionarios, permisionarios, operadores de terminales,
 marinas e instalaciones portuarias y prestadores de servicios, se sujetarán a las disposiciones aplicables
@@ -1098,6 +1089,8 @@ ley y, en lo no previsto, de acuerdo con lo establecido en la Ley Federal sobre 
 Normalización.
 
 CAPITULO IX
+Infracciones y sanciones
+ARTICULO 65.- La Secretaría sancionará las infracciones a esta Ley con las multas siguientes:
 
 19 de 29
 
@@ -1109,8 +1102,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Infracciones y sanciones
-ARTICULO 65.- La Secretaría sancionará las infracciones a esta Ley con las multas siguientes:
 I. No cumplir con las condiciones de construcción, operación y explotación de los puertos, terminales,
 marinas e instalaciones portuarias de acuerdo con lo establecido en los reglamentos, programa maestro
 de desarrollo portuario, título de concesión y normas oficiales mexicanas, el equivalente a la cantidad de
@@ -1147,6 +1138,9 @@ diez mil a cincuenta mil veces el valor de la Unidad de Medida y Actualización 
 la infracción, y
 XIII. Las demás infracciones a esta Ley o a sus reglamentos, el equivalente a la cantidad de cien a
 setenta mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción.
+En caso de reincidencia se aplicará una multa por el doble de la cantidad que resulte conforme a este
+artículo.
+Artículo reformado DOF 19-12-2016
 
 20 de 29
 
@@ -1157,10 +1151,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-En caso de reincidencia se aplicará una multa por el doble de la cantidad que resulte conforme a este
-artículo.
-Artículo reformado DOF 19-12-2016
 
 ARTICULO 66.- Al imponer las sanciones a que se refiere el artículo anterior, la Secretaría deberá
 considerar:
@@ -1196,6 +1186,8 @@ Marítimos, y
 III. Todas las disposiciones que se opongan a lo previsto en esta ley.
 Se deja sin efectos el artículo 110 de la Ley de Vías Generales de Comunicación sólo por lo que hace
 a puertos, terminales, marinas e instalaciones portuarias, así como a servicios portuarios.
+CUARTO. Las concesiones otorgadas con anterioridad a la fecha de entrada en vigor de la presente
+ley continuarán vigentes hasta la conclusión de su vigencia.
 
 21 de 29
 
@@ -1207,8 +1199,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-CUARTO. Las concesiones otorgadas con anterioridad a la fecha de entrada en vigor de la presente
-ley continuarán vigentes hasta la conclusión de su vigencia.
 Los titulares de las concesiones en un puerto que se encomiende a una administración portuaria
 integral podrán optar, dentro de la vigencia original de su título, por sujetarse al régimen de contratos
 previsto por el presente ordenamiento, pero en todo caso quedarán sujetos a las reglas de operación
