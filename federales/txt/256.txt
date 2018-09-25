@@ -58,8 +58,7 @@ reserva de dominio, arrendamiento con opción de compra, compraventa en abonos, 
 Crédito Garantizado y tendrán el mismo tratamiento que otorga la presente Ley.
 Fracción reformada DOF 13-06-2003
 
-III. Crédito Garantizado a la Vivienda. El Crédito Garantizado que se otorgue relacionado con
-vivienda.
+III. Crédito Garantizado a la Vivienda. El Crédito Garantizado que se otorgue relacionado con vivienda.
 IV. Desarrollador Inmobiliario. Es la empresa mercantil, propiedad de una persona física o moral, que
 se dedica de forma habitual a la construcción, remodelación o venta de bienes inmuebles, utilizando u
 otorgando Crédito Garantizado.
@@ -67,8 +66,8 @@ V. Entidades. Son las empresas mercantiles, que directamente o a través de cual
 se dediquen habitualmente al otorgamiento de Crédito Garantizado.
 VI. Reglas. Las disposiciones de carácter general que emita, conforme a esta Ley, la Secretaría de
 Hacienda y Crédito Público, y que deberán publicarse en el Diario Oficial de la Federación.
-VII. Subrogación de Acreedor. Es la sustitución de la Entidad acreedora en un Crédito Garantizado
-por otra, en los términos de la presente Ley.
+VII. Subrogación de Acreedor. Es la sustitución de la Entidad acreedora en un Crédito Garantizado por
+otra, en los términos de la presente Ley.
 VIII. Subrogación de Deudor. Es la sustitución de Deudor en un Crédito Garantizado por otro, en los
 términos de la presente Ley.
 IX. Valuador profesional es la persona que cuenta con cédula profesional de postgrado en valuación
@@ -94,6 +93,7 @@ medio electrónico ubicado en dicho establecimiento, un folleto impreso, cuyo ob
 términos y condiciones de los Créditos Garantizados a la Vivienda que ofrece la Entidad y cuyo contenido
 mínimo será:
 I. Denominación comercial de la Entidad;
+II. Cuantía máxima del crédito respecto al monto de valuación;
 
 2 de 17
 
@@ -105,7 +105,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-II. Cuantía máxima del crédito respecto al monto de valuación;
 III. Tasa de interés ordinaria, moratoria y el Costo Anual Total;
 IV. Plazos, sistema de amortización y periodicidad;
 V. Condiciones de pago anticipado del Crédito Garantizado a la Vivienda;
@@ -123,24 +122,24 @@ XI. Los demás requisitos que, en su caso, establezcan las Reglas.
 Las Reglas podrán establecer el formato de la información de manera que se permita al solicitante su
 comparación, con el objeto de que elija de manera informada el crédito que más convenga a sus
 intereses. La entrega de este folleto será gratuita, aun cuando el solicitante opte por no contratar el
-Crédito Garantizado a la Vivienda con la Entidad. Asimismo, las Entidades deberán de permitir la
-consulta de la información que tengan los folletos por medios electrónicos remotos.
+Crédito Garantizado a la Vivienda con la Entidad. Asimismo, las Entidades deberán de permitir la consulta
+de la información que tengan los folletos por medios electrónicos remotos.
 
 Título II.- Contratación de Créditos Garantizados
 Capítulo I.- Oferta Vinculante
 Artículo 6.- Las Entidades, tratándose de Créditos Garantizados a la Vivienda, estarán obligadas a
-extender sin costo alguno, una oferta vinculante a petición del solicitante y con base en la información
-que de buena fe declare éste, sin requerir la presentación de los documentos que soporten dicha
-información.
+extender sin costo alguno, una oferta vinculante a petición del solicitante y con base en la información que
+de buena fe declare éste, sin requerir la presentación de los documentos que soporten dicha información.
 A tal efecto, las Entidades a petición del cliente deberán proporcionar una solicitud de crédito, la que
 contendrá todos los requisitos que deberá declarar el solicitante a efecto de obtener la oferta vinculante.
 Dicha solicitud deberá establecer todos los documentos y requisitos necesarios para la contratación del
 crédito y que se deban presentar al aceptar la oferta.
 La oferta vinculante tendrá el objeto de establecer los términos y condiciones específicos mediante los
-cuales la Entidad se obliga a otorgar el Crédito Garantizado a la Vivienda al solicitante, y deberá
-contener, al menos:
+cuales la Entidad se obliga a otorgar el Crédito Garantizado a la Vivienda al solicitante, y deberá contener,
+al menos:
 I. Importe del préstamo y forma de entrega del mismo;
 II. Forma de amortización;
+III. La tasa de interés ordinaria, moratoria y el Costo Anual Total;
 
 3 de 17
 
@@ -152,12 +151,11 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-III. La tasa de interés ordinaria, moratoria y el Costo Anual Total;
 IV. Comisiones aplicables;
-V. Aceptación expresa por parte de la Entidad que otorga el crédito, de que recibirá el pago
-adelantado del mismo por parte de cualquiera otra Entidad y le cederá todos sus derechos derivados del
-contrato correspondiente, así como la aceptación expresa de que admitirá la sustitución de deudor, en
-términos de los artículos 13 y 14 de la presente Ley;
+V. Aceptación expresa por parte de la Entidad que otorga el crédito, de que recibirá el pago adelantado
+del mismo por parte de cualquiera otra Entidad y le cederá todos sus derechos derivados del contrato
+correspondiente, así como la aceptación expresa de que admitirá la sustitución de deudor, en términos de
+los artículos 13 y 14 de la presente Ley;
 Fracción reformada DOF 13-06-2003
 
 VI. Gastos a cargo del acreditado;
@@ -167,16 +165,15 @@ Las Reglas especificarán el formato de la solicitud de crédito y de la oferta 
 facilitar la comparación que realice el solicitante frente a ofertas de otras Entidades.
 La oferta vinculante se formulará por escrito y obligará a la Entidad por un plazo de 20 días naturales
 contados a partir de su fecha de recepción. Lo anterior surtirá efectos, siempre y cuando dentro de dicho
-plazo el solicitante dé aviso por escrito de la aceptación de la oferta vinculante y se presente
-debidamente requisitada toda la documentación soporte de la información que se haya declarado en la
-solicitud. Lo anterior en el entendido de que la Entidad no podrá solicitar ningún documento adicional a
-los señalados en dicha solicitud.
-La Entidad estará obligada a otorgar el Crédito Garantizado a la Vivienda en los términos y
-condiciones establecidos en la oferta vinculante, siempre y cuando, la Entidad compruebe: la identidad
-del solicitante; la veracidad y autenticidad de los datos que hubiese proporcionado el solicitante; la
-capacidad crediticia del solicitante conforme a las sanas prácticas y condiciones de mercado; la
-realización de un avalúo practicado por un valuador autorizado, y el cumplimiento de las demás
-formalidades que requiera la Ley.
+plazo el solicitante dé aviso por escrito de la aceptación de la oferta vinculante y se presente debidamente
+requisitada toda la documentación soporte de la información que se haya declarado en la solicitud. Lo
+anterior en el entendido de que la Entidad no podrá solicitar ningún documento adicional a los señalados
+en dicha solicitud.
+La Entidad estará obligada a otorgar el Crédito Garantizado a la Vivienda en los términos y condiciones
+establecidos en la oferta vinculante, siempre y cuando, la Entidad compruebe: la identidad del solicitante;
+la veracidad y autenticidad de los datos que hubiese proporcionado el solicitante; la capacidad crediticia
+del solicitante conforme a las sanas prácticas y condiciones de mercado; la realización de un avalúo
+practicado por un valuador autorizado, y el cumplimiento de las demás formalidades que requiera la Ley.
 Si una vez realizado el avalúo, existieren diferencias entre éste y el valor declarado de la garantía, la
 Entidad procurará mantener la tasa de interés ofrecida en la oferta vinculante.
 
@@ -191,6 +188,8 @@ renovará cada 3 años. Asimismo, la Sociedad Hipotecaria Federal, S.N.C. podrá
 dichas reglas, la metodología para la valuación de los bienes inmuebles.
 Artículo 7 bis. Obligaciones y prohibiciones de los Valuadores Profesionales.
 Los Valuadores Profesionales tendrán las siguientes obligaciones:
+I. Guardar confidencialidad respecto con la información que conozcan y manejen con motivo de la
+realización de los avalúos, salvo que la utilicen con fines estadísticos;
 
 4 de 17
 
@@ -202,8 +201,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-I. Guardar confidencialidad respecto con la información que conozcan y manejen con motivo de la
-realización de los avalúos, salvo que la utilicen con fines estadísticos;
 II. De manera oportuna, poner en conocimiento de la Sociedad Hipotecaria Federal S.N.C. y de la
 Unidad de Valuación respectiva, cualquier acto o situación que, en el ejercicio de la función valuatoria,
 pudiera traducirse en beneficio, daño o perjuicio para éstas, o para cualquiera de las personas
@@ -237,8 +234,11 @@ Las Unidades de Valuación tendrán las siguientes obligaciones:
 I. Guardar confidencialidad respecto a la información que conozcan y manejen con motivo de la
 certificación de los avalúos, salvo que la utilicen con fines estadísticos;
 II. Poner en conocimiento de la Sociedad Hipotecaria Federal S.N.C., oportunamente, cualquier acto o
-situación que, en el ejercicio de la función valuatoria, pudiera traducirse en beneficio, daño o perjuicio
-para ésta, o para cualquiera de las personas involucradas en los avalúos que certifiquen;
+situación que, en el ejercicio de la función valuatoria, pudiera traducirse en beneficio, daño o perjuicio para
+ésta, o para cualquiera de las personas involucradas en los avalúos que certifiquen;
+III. Permitir a la Sociedad Hipotecaria Federal S.N.C. realizar la supervisión y las auditorías
+relacionadas en materia de avalúos; así como los aspectos técnicos, contables, corporativos, formativos,
+metodológicos, informáticos y operativos de dichas unidades de valuación;
 
 5 de 17
 
@@ -250,9 +250,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-III. Permitir a la Sociedad Hipotecaria Federal S.N.C. realizar la supervisión y las auditorías
-relacionadas en materia de avalúos; así como los aspectos técnicos, contables, corporativos, formativos,
-metodológicos, informáticos y operativos de dichas unidades de valuación;
 IV. Remover o, en su caso, sustituir a los Valuadores Profesionales y controladores cuando así lo
 indique la Sociedad Hipotecaria Federal S.N.C. o cualquier otra autoridad competente;
 V. Asumir la responsabilidad de los Valuadores Profesionales y controladores a su servicio, derivada
@@ -260,21 +257,21 @@ de los actos respectivos en materia valuatoria;
 VI. Sancionar a sus Valuadores Profesionales y/o controladores, cuando éstos no cumplan con la
 normatividad correspondiente en materia de avalúos, con las obligaciones contenidas en esta ley, o
 incurran en alguna prohibición contenida en ésta, y
-VII. Las demás que establezcan las reglas de carácter general, así como las que al efecto determine
-la Sociedad Hipotecaria Federal S.N.C., siempre y cuando no contraríe lo establecido en la presente ley.
+VII. Las demás que establezcan las reglas de carácter general, así como las que al efecto determine la
+Sociedad Hipotecaria Federal S.N.C., siempre y cuando no contraríe lo establecido en la presente ley.
 Las Unidades de Valuación no podrán:
 I. Transmitir total o parcialmente, bajo cualquier título, los efectos que deriven de la Inscripción;
 II. Ostentarse como tales en tanto no tengan la Inscripción correspondiente;
 III. Certificar dictámenes de valuación al amparo de la inscripción que les otorgue la Sociedad
 Hipotecaria Federal S.N.C., respecto de bienes diferentes a los inmuebles;
 IV. Certificar avalúos sobre Inmuebles respecto de los que la Unidad de Valuación, sus socios,
-directivos o empleados, así como sus Valuadores Profesionales o controladores, el cónyuge, los
-parientes por consanguinidad dentro del cuarto grado, por afinidad o civiles de éstos, tengan interés que
-pueda influir negativamente en la imparcialidad que debe imperar en los avalúos; así como de aquellos
-que sean propiedad de clientes que representen el cuarenta por ciento o más de la facturación de la
-Unidad de Valuación respectiva, en el año fiscal en curso;
-V. Certificar avalúos en los que pueda resultar algún beneficio ilícito para ellas, sus socios, directivos
-o empleados; o bien cuando estén implicadas personas con las que sus Valuadores Profesionales o
+directivos o empleados, así como sus Valuadores Profesionales o controladores, el cónyuge, los parientes
+por consanguinidad dentro del cuarto grado, por afinidad o civiles de éstos, tengan interés que pueda
+influir negativamente en la imparcialidad que debe imperar en los avalúos; así como de aquellos que sean
+propiedad de clientes que representen el cuarenta por ciento o más de la facturación de la Unidad de
+Valuación respectiva, en el año fiscal en curso;
+V. Certificar avalúos en los que pueda resultar algún beneficio ilícito para ellas, sus socios, directivos o
+empleados; o bien cuando estén implicadas personas con las que sus Valuadores Profesionales o
 controladores, el cónyuge o los parientes consanguíneos hasta el cuarto grado, por afinidad o civiles de
 éstos tengan enemistad manifiesta; y
 VI. Las demás que establezcan las reglas de carácter general, así como las que al efecto determine la
@@ -287,6 +284,11 @@ establezcan las disposiciones que al efecto emita la citada Sociedad.
 Artículo adicionado DOF 07-02-2005
 
 Capítulo III.- Formalización del Crédito Garantizado
+Artículo 8.- (Se deroga).
+Artículo derogado DOF 15-06-2007
+
+Artículo 9.- Los fedatarios públicos frente a los cuales se otorgue la escritura tendrán las siguientes
+obligaciones:
 
 6 de 17
 
@@ -298,11 +300,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 8.- (Se deroga).
-Artículo derogado DOF 15-06-2007
-
-Artículo 9.- Los fedatarios públicos frente a los cuales se otorgue la escritura tendrán las siguientes
-obligaciones:
 I. Comprobar que las cláusulas financieras contenidas en el contrato de crédito coincidan con los
 términos y condiciones ofertados en la oferta vinculante;
 II. Comprobar que no se incluyan gastos o comisiones a cargo del acreditado, que debieran haberse
@@ -314,10 +311,10 @@ Artículo 10. (Se deroga).
 Artículo reformado DOF 13-06-2003. Derogado DOF 15-06-2007
 
 Artículo 11.- La Sociedad Hipotecaria Federal publicará mensualmente en el Diario Oficial de la
-Federación, información relativa exclusivamente a las condiciones del mercado de Créditos
-Garantizados con garantía hipotecaria, que le permita a los interesados evaluar las ofertas vinculantes
-que reciban. Dicha información también tendrá que ser divulgada a través de la página de Internet de la
-Sociedad Hipotecaria Federal u otros medios electrónicos.
+Federación, información relativa exclusivamente a las condiciones del mercado de Créditos Garantizados
+con garantía hipotecaria, que le permita a los interesados evaluar las ofertas vinculantes que reciban.
+Dicha información también tendrá que ser divulgada a través de la página de Internet de la Sociedad
+Hipotecaria Federal u otros medios electrónicos.
 Artículo 12.- (Se deroga).
 Artículo derogado DOF 15-06-2007
 
@@ -326,8 +323,8 @@ Capítulo I.- Subrogación de Deudor
 Artículo 13. Cuando se celebre la compraventa de un bien inmueble sobre la que recaiga un Crédito
 Garantizado que aún no haya sido amortizado en su totalidad, el comprador se podrá subrogar en los
 derechos y obligaciones del Deudor, sin necesidad de que se constituya una nueva garantía, con el fin de
-evitar que se dupliquen los gastos inherentes al Crédito, en perjuicio del adquirente. Lo anterior, siempre
-y cuando el comprador presente a la Entidad, una solicitud de crédito y se cumplan con los demás
+evitar que se dupliquen los gastos inherentes al Crédito, en perjuicio del adquirente. Lo anterior, siempre y
+cuando el comprador presente a la Entidad, una solicitud de crédito y se cumplan con los demás
 requisitos y obligaciones que establece el artículo 6 de la presente Ley.
 Artículo reformado DOF 13-06-2003
 
@@ -342,7 +339,12 @@ Artículo reformado DOF 13-06-2003
 
 Capítulo II.- Subrogación de Acreedor
 Artículo 15.- En caso de que un Crédito Garantizado se pague anticipadamente mediante la
-contratación de uno nuevo con otra Entidad, dicha Entidad quedará subrogada por ministerio de ley en
+contratación de uno nuevo con otra Entidad, dicha Entidad quedará subrogada por ministerio de ley en los
+derechos del acreedor subrogante y se mantendrá inalterada la garantía original y su prelación, a efecto
+de evitar la constitución de una nueva garantía y los gastos inherentes de la misma.
+En la Subrogación de Acreedor, cuando el acreedor subrogado sea una institución de crédito, una
+sociedad financiera de objeto múltiple de las reguladas por tener vínculos con una institución de banca
+múltiple, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Fondo de la Vivienda del
 
 7 de 17
 
@@ -354,29 +356,24 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-los derechos del acreedor subrogante y se mantendrá inalterada la garantía original y su prelación, a
-efecto de evitar la constitución de una nueva garantía y los gastos inherentes de la misma.
-En la Subrogación de Acreedor, cuando el acreedor subrogado sea una institución de crédito, una
-sociedad financiera de objeto múltiple de las reguladas por tener vínculos con una institución de banca
-múltiple, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Fondo de la Vivienda del
 Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o el Instituto de Seguridad
 Social para las Fuerzas Armadas Mexicanas; no será necesario formalizar dicha subrogación en escritura
 pública, siendo suficiente que se cumpla con el siguiente procedimiento:
 I.
 
 Que el acreedor subrogante, dentro de un plazo de quince días naturales contado a partir del
-requerimiento que le formule el deudor, emita un documento en el que conste el importe del
-total del adeudo del Crédito Garantizado, calculado a la fecha en que se pretenda liquidar dicho
+requerimiento que le formule el deudor, emita un documento en el que conste el importe del total
+del adeudo del Crédito Garantizado, calculado a la fecha en que se pretenda liquidar dicho
 adeudo. El documento citado deberá incluir una descripción pormenorizada de los conceptos
 que integran el importe total.
-Cuando el deudor no esté de acuerdo con el importe contenido en el documento a que se
-refiere el párrafo anterior, podrá presentar una solicitud de aclaración al acreedor subrogante y
-éste deberá confirmar el importe o, en su caso, emitir un nuevo documento con el importe
-correcto en un plazo no mayor a diez días naturales contado a partir de la presentación de la
-solicitud mencionada.
+Cuando el deudor no esté de acuerdo con el importe contenido en el documento a que se refiere
+el párrafo anterior, podrá presentar una solicitud de aclaración al acreedor subrogante y éste
+deberá confirmar el importe o, en su caso, emitir un nuevo documento con el importe correcto
+en un plazo no mayor a diez días naturales contado a partir de la presentación de la solicitud
+mencionada.
 La solicitud respectiva podrá presentarse mediante escrito ante la sucursal en la que radica el
-crédito garantizado, o bien, en la unidad especializada de la institución de que se trate. En
-todos los casos, la institución estará obligada a acusar recibo de dicha solicitud.
+crédito garantizado, o bien, en la unidad especializada de la institución de que se trate. En todos
+los casos, la institución estará obligada a acusar recibo de dicha solicitud.
 El incumplimiento a lo dispuesto en esta fracción por parte del acreedor subrogante,
 independientemente del pago de los daños y perjuicios a que haya lugar, será sancionado con
 multa administrativa por un importe de diez mil a quince mil días de salario mínimo general
@@ -397,10 +394,10 @@ III.
 
 Que para que surta efectos frente a tercero, el documento a que se refiere la fracción I de este
 artículo, el documento que acredite el pago total del adeudo del Crédito Garantizado y el
-documento público o privado ratificado ante fedatario público en el que conste la Subrogación
-de Acreedor, se inscriban en el folio electrónico a que hace referencia el artículo 21 del Código
-de Comercio, tanto del acreedor subrogante como del subrogado, de manera directa,
-inmediata, automatizada y sin costo alguno, y
+documento público o privado ratificado ante fedatario público en el que conste la Subrogación de
+Acreedor, se inscriban en el folio electrónico a que hace referencia el artículo 21 del Código de
+Comercio, tanto del acreedor subrogante como del subrogado, de manera directa, inmediata,
+automatizada y sin costo alguno, y
 
 IV.
 
@@ -409,6 +406,13 @@ Registro Público de Comercio, relativo a la subrogación referida en la fracci�
 folio real del inmueble que corresponda en el Registro Público de la Propiedad o registros
 especiales. Lo anterior, a fin de que en dicho folio se mantenga la anotación relativa al acto de
 subrogación hasta en tanto subsista el gravamen correspondiente.
+
+De conformidad con lo establecido en el artículo 17 de la presente Ley, el Instituto del Fondo Nacional
+de la Vivienda para los Trabajadores, el Fondo de la Vivienda del Instituto de Seguridad y Servicios
+Sociales de los Trabajadores del Estado y el Instituto de Seguridad Social para las Fuerzas Armadas
+Mexicanas, no podrán ser acreedores subrogantes pero sí acreedores subrogados en los términos del
+párrafo segundo del presente artículo.
+Artículo reformado DOF 10-01-2014
 
 8 de 17
 
@@ -420,20 +424,13 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-De conformidad con lo establecido en el artículo 17 de la presente Ley, el Instituto del Fondo Nacional
-de la Vivienda para los Trabajadores, el Fondo de la Vivienda del Instituto de Seguridad y Servicios
-Sociales de los Trabajadores del Estado y el Instituto de Seguridad Social para las Fuerzas Armadas
-Mexicanas, no podrán ser acreedores subrogantes pero sí acreedores subrogados en los términos del
-párrafo segundo del presente artículo.
-Artículo reformado DOF 10-01-2014
-
 Título IV.- Disposiciones Comunes
 Artículo 16.- (Se deroga el primer párrafo).
 Párrafo derogado DOF 15-06-2007
 
 La comisión que se establezca por pago anticipado en la Subrogación de Acreedor en los Créditos
-Garantizados a tasa variable, no podrá ser superior al uno por ciento del monto remanente del crédito
-que falte por amortizar.
+Garantizados a tasa variable, no podrá ser superior al uno por ciento del monto remanente del crédito que
+falte por amortizar.
 Artículo 17.- Se exceptúa de lo dispuesto en la presente Ley a los Créditos Garantizados que se
 otorguen en cumplimiento de obligaciones derivadas de contratos colectivos de trabajo. Asimismo se
 exceptúa exclusivamente de los artículos 13, 14 y 15 de la presente Ley a los Créditos Garantizados que
@@ -441,9 +438,9 @@ otorguen, financien o garanticen el Instituto del Fondo Nacional de la Vivienda 
 Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, al
 Fondo para las Habitaciones Populares, o a cualquier otra entidad pública que realice dichas actividades.
 Los créditos otorgados, financiados o garantizados por la Sociedad Hipotecaria Federal, S.N.C.
-estarán sujetos al artículo 15 de la presente Ley siempre y cuando la nueva Entidad se subrogue a su
-vez, en los términos y condiciones originales del contrato original con la Sociedad Hipotecaria Federal,
-S.N.C. Lo establecido en los artículos 13 y 14 de la presente Ley aplicará únicamente cuando la Entidad
+estarán sujetos al artículo 15 de la presente Ley siempre y cuando la nueva Entidad se subrogue a su vez,
+en los términos y condiciones originales del contrato original con la Sociedad Hipotecaria Federal, S.N.C.
+Lo establecido en los artículos 13 y 14 de la presente Ley aplicará únicamente cuando la Entidad
 mantenga las mismas condiciones de la transacción original con la Sociedad Hipotecaria Federal, S.N.C.
 Artículo 18.- La Comisión Nacional Bancaria y de Valores respecto de las entidades financieras que
 otorguen Crédito Garantizado y la Procuraduría Federal de Protección al Consumidor, respecto de las
@@ -452,10 +449,10 @@ competencias, vigilarán y supervisarán el cumplimiento de la presente Ley y de
 ella emanen. Lo anterior, sin perjuicio de las facultades con que cuenta la Comisión Nacional para la
 Defensa de los Usuarios de los Servicios Financieros en términos de su Ley.
 Artículo 19.- Sin perjuicio de lo dispuesto en los artículos 13, 14 y 15 de la presente Ley y con el
-objetivo de lograr una mayor disminución de los costos de transacción para la Subrogación de Deudor y
-la Subrogación de Acreedor, la Secretaría de Economía podrá celebrar convenios de coordinación con
-los Estados y Municipios para eliminar los costos registrales y los aranceles notariales, procurando que
-en los casos de subrogación no se carguen los mismos costos de una nueva transacción, y si es posible,
+objetivo de lograr una mayor disminución de los costos de transacción para la Subrogación de Deudor y la
+Subrogación de Acreedor, la Secretaría de Economía podrá celebrar convenios de coordinación con los
+Estados y Municipios para eliminar los costos registrales y los aranceles notariales, procurando que en los
+casos de subrogación no se carguen los mismos costos de una nueva transacción, y si es posible,
 eliminarlos. Lo anterior, con el objeto de beneficiar a los acreditados a incentivar la reactivación del
 crédito.
 Artículo reformado DOF 10-01-2014
@@ -464,6 +461,14 @@ Artículo 19-Bis. En los Créditos con garantía hipotecaria, las Entidades debe
 fedatario público que corresponda, la escritura donde conste la extinción de dicho gravamen una vez que
 el acreditado haya pagado el saldo insoluto garantizado o por cualquier causa el referido crédito se haya
 extinguido.
+La Entidad deberá poner a disposición del acreditado el primer testimonio del instrumento público
+respectivo dentro de los sesenta días hábiles siguientes a la fecha en que se haya extinguido el referido
+crédito.
+En el caso de que la ley de la materia no exija instrumento público para la liberación del gravamen, la
+Entidad en un lapso no mayor a veinte días deberá de hacer entrega al acreditado de la constancia de
+liberación de la obligación a su cargo, por cumplimiento para su inscripción en el Registro Público de la
+Propiedad y del Comercio, corriendo a cargo de la Entidad las certificaciones o ratificaciones de firma ante
+notario para la cancelación.
 
 9 de 17
 
@@ -475,14 +480,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-La Entidad deberá poner a disposición del acreditado el primer testimonio del instrumento público
-respectivo dentro de los sesenta días hábiles siguientes a la fecha en que se haya extinguido el referido
-crédito.
-En el caso de que la ley de la materia no exija instrumento público para la liberación del gravamen, la
-Entidad en un lapso no mayor a veinte días deberá de hacer entrega al acreditado de la constancia de
-liberación de la obligación a su cargo, por cumplimiento para su inscripción en el Registro Público de la
-Propiedad y del Comercio, corriendo a cargo de la Entidad las certificaciones o ratificaciones de firma
-ante notario para la cancelación.
 En caso de Subrogación de Acreedor, el acreedor subrogado deberá observar lo previsto en los tres
 párrafos anteriores, según corresponda.
 Párrafo adicionado DOF 10-01-2014
@@ -490,9 +487,9 @@ Párrafo adicionado DOF 10-01-2014
 El incumplimiento a lo dispuesto en este artículo será sancionado con multa administrativa por un
 importe de quince mil a veinte mil días de salario mínimo general vigente en el Distrito Federal calculado
 en la fecha de la infracción, que será impuesta por la Comisión Nacional para la Protección y Defensa de
-los Usuarios de Servicios Financieros respecto de las entidades financieras, y por la Procuraduría
-Federal del Consumidor respecto de las demás Entidades, en el ámbito de sus respectivas
-competencias, conforme a los procedimientos establecidos en las leyes que les resulten aplicables.
+los Usuarios de Servicios Financieros respecto de las entidades financieras, y por la Procuraduría Federal
+del Consumidor respecto de las demás Entidades, en el ámbito de sus respectivas competencias,
+conforme a los procedimientos establecidos en las leyes que les resulten aplicables.
 Párrafo adicionado DOF 10-01-2014
 Artículo adicionado DOF 25-05-2010
 
@@ -509,9 +506,9 @@ aplicará a los créditos contratados con anterioridad a su entrada en vigor.
 Artículo reformado DOF 13-06-2003
 
 SEGUNDO. La Secretaría de Hacienda y Crédito Público, la Secretaría de Economía, el Banco de
-México y la Sociedad Hipotecaria Federal deberán publicar, en un término que no exceda de seis meses
-a partir de la entrada en vigor de la presente Ley, las disposiciones que a cada una corresponda expedir.
-En tanto la Sociedad Hipotecaria Federal publica las reglas a que se refiere el artículo 7 de esta Ley, las
+México y la Sociedad Hipotecaria Federal deberán publicar, en un término que no exceda de seis meses a
+partir de la entrada en vigor de la presente Ley, las disposiciones que a cada una corresponda expedir. En
+tanto la Sociedad Hipotecaria Federal publica las reglas a que se refiere el artículo 7 de esta Ley, las
 Entidades deberán ofrecer un listado de valuadores al acreditado, con el objeto de que éste se encuentre
 en posibilidad de elegir un perito valuador.
 Artículo reformado DOF 13-06-2003
@@ -540,9 +537,9 @@ DECRETO por el que se reforman diversas disposiciones de la Ley de Transparencia
 Fomento a la Competencia en el Crédito Garantizado.
 Publicado en el Diario Oficial de la Federación el 13 de junio de 2003
 
-ARTÍCULO ÚNICO.- Se reforman el artículo 3, en sus fracciones I y II, el artículo 6, en su fracción V,
-y los artículos 10, 13 y 14, y los Transitorios Primero y Segundo de la Ley de Transparencia y Fomento a
-la Competencia en el Crédito Garantizado, para quedar como sigue:
+ARTÍCULO ÚNICO.- Se reforman el artículo 3, en sus fracciones I y II, el artículo 6, en su fracción V, y
+los artículos 10, 13 y 14, y los Transitorios Primero y Segundo de la Ley de Transparencia y Fomento a la
+Competencia en el Crédito Garantizado, para quedar como sigue:
 ..........
 
 TRANSITORIO
@@ -554,8 +551,8 @@ González Hernández, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
 Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
 Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes
-de junio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago
-Creel Miranda.- Rúbrica.
+de junio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel
+Miranda.- Rúbrica.
 
 11 de 17
 
@@ -614,22 +611,21 @@ Nacional Bancaria y de Valores.
 Publicado en el Diario Oficial de la Federación el 15 de junio de 2007
 
 TRANSITORIOS
-ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en
-el Diario Oficial de la Federación.
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el
+Diario Oficial de la Federación.
 ARTÍCULO SEGUNDO.- Las infracciones a las disposiciones de carácter general expedidas por el
 Banco de México, en materia del costo anual total (CAT), tarjetas de crédito, publicidad, estados de
 cuenta y contratos, cometidas por las instituciones de crédito y las sociedades financieras de objeto
 limitado, antes de la entrada en vigor de esta Ley, se sancionarán por el propio Banco conforme a las
 leyes vigentes al momento de realizarse las citadas infracciones.
-ARTÍCULO TERCERO.- Las Entidades dispondrán de un plazo de hasta ciento ochenta días
-naturales a partir de la entrada en vigor del presente decreto, a efecto de adecuarse a las disposiciones
-del mismo.
+ARTÍCULO TERCERO.- Las Entidades dispondrán de un plazo de hasta ciento ochenta días naturales
+a partir de la entrada en vigor del presente decreto, a efecto de adecuarse a las disposiciones del mismo.
 ARTÍCULO CUARTO.- Para los efectos de lo dispuesto en el artículo 48 Bis 2 de la Ley de
 Instituciones de Crédito, el Banco de México dispondrá de treinta días a partir de la entrada en vigor del
 presente decreto, para emitir las disposiciones de carácter general.
 ARTÍCULO QUINTO.- Al entrar en vigor el presente Decreto se abrogará la Ley para la Transparencia
-y Ordenamiento de los Servicios Financieros publicada en el Diario Oficial de la Federación el 26 de
-enero de 2004.
+y Ordenamiento de los Servicios Financieros publicada en el Diario Oficial de la Federación el 26 de enero
+de 2004.
 ARTÍCULO SEXTO.- Al entrar en vigor el presente Decreto se derogan de la Ley de Transparencia y
 de Fomento a la Competencia en el Crédito Garantizado los preceptos legales siguientes:
 I.
@@ -640,8 +636,8 @@ II.
 
 El artículo 4. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se
 trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al
-amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a
-lo señalado en el artículo 12 de la presente Ley para la Transparencia y Ordenamiento de los
+amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo
+señalado en el artículo 12 de la presente Ley para la Transparencia y Ordenamiento de los
 Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de
 carácter general que en materia de publicidad prevé esta última Ley.
 
@@ -649,8 +645,8 @@ III.
 
 El artículo 8. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se
 trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al
-amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a
-lo señalado en el artículo 11 de la presente Ley para la Transparencia y Ordenamiento de los
+amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo
+señalado en el artículo 11 de la presente Ley para la Transparencia y Ordenamiento de los
 Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de
 carácter general que en materia de contratos de adhesión prevé esta última Ley, en el entendido
 de que dichas disposiciones contemplarán el contenido mínimo señalado en las fracciones I a VI
@@ -670,16 +666,16 @@ IV. El artículo 12. Sin perjuicio de lo anterior cuando las autoridades que res
 conforme a lo señalado en el artículo 13 de la presente Ley para la Transparencia y
 Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia,
 las disposiciones de carácter general que en materia de estados de cuenta prevé esta última Ley,
-deberán incluir el cálculo del Costo Anual Total que corresponda al resto de la vigencia del
-Crédito Garantizado a la Vivienda.
+deberán incluir el cálculo del Costo Anual Total que corresponda al resto de la vigencia del Crédito
+Garantizado a la Vivienda.
 ARTÍCULO SÉPTIMO.- Al entrar en vigor el presente Decreto se derogan de la Ley General de
 Organizaciones y Actividades Auxiliares del Crédito los artículos 87- I, fracción II; 87- L, segundo párrafo,
 y 87- M, fracción IV.
-ARTÍCULO OCTAVO.- Las disposiciones de carácter general que el Banco de México haya emitido
-en materia de publicidad, estados de cuenta o contratos de adhesión dirigidas a las instituciones de
-crédito o sociedades financieras de objeto limitado continuarán vigentes hasta en tanto entren en vigor
-las disposiciones de carácter general que, conforme a lo previsto en este ordenamiento, expida la
-Comisión Nacional Bancaria y de Valores respecto de los temas mencionados.
+ARTÍCULO OCTAVO.- Las disposiciones de carácter general que el Banco de México haya emitido en
+materia de publicidad, estados de cuenta o contratos de adhesión dirigidas a las instituciones de crédito o
+sociedades financieras de objeto limitado continuarán vigentes hasta en tanto entren en vigor las
+disposiciones de carácter general que, conforme a lo previsto en este ordenamiento, expida la Comisión
+Nacional Bancaria y de Valores respecto de los temas mencionados.
 México, D.F., 26 de abril de 2007.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge
 Zermeño Infante, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Antonio Xavier
 Lopez Adame, Secretario.- Rúbricas."
@@ -701,9 +697,9 @@ Secretaría de Servicios Parlamentarios
 
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley
 para la Transparencia y Ordenamiento de los Servicios Financieros, de la Ley de
-Instituciones de Crédito, de la Ley para Regular las Sociedades de Información Crediticia,
-de la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado, y
-de la Ley del Banco de México.
+Instituciones de Crédito, de la Ley para Regular las Sociedades de Información
+Crediticia, de la Ley de Transparencia y de Fomento a la Competencia en el Crédito
+Garantizado, y de la Ley del Banco de México.
 Publicado en el Diario Oficial de la Federación el 25 de mayo de 2010
 
 ARTÍCULO CUARTO. Se adiciona el artículo 19-Bis de la Ley de Transparencia y de Fomento a la
@@ -714,17 +710,17 @@ TRANSITORIOS
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación.
 Segundo. El Banco de México expedirá las disposiciones de carácter general a que se refiere el
-artículo 4 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros en un plazo
-de sesenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto.
+artículo 4 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros en un plazo de
+sesenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto.
 Tercero. Las Entidades contarán con un plazo de noventa días naturales, contados a partir del día
-siguiente a la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto por el artículo
-4 Bis 1 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y 48 Bis 2 de la Ley
-de Instituciones de Crédito en materia de producto básico de tarjeta de crédito.
+siguiente a la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto por el artículo 4
+Bis 1 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y 48 Bis 2 de la Ley de
+Instituciones de Crédito en materia de producto básico de tarjeta de crédito.
 Cuarto. Las Personas que operen antes de la entrada en vigor del presente Decreto como Cámaras
 de Compensación en términos de lo dispuesto por los artículos 19 y 19 Bis de la Ley para la
 Transparencia y Ordenamiento de los Servicios Financieros, tendrán un plazo de noventa días naturales
-contados a partir de la fecha en que entren en vigor las disposiciones de carácter general que se emitan
-al amparo de los citados preceptos, para presentar la solicitud de autorización respectiva.
+contados a partir de la fecha en que entren en vigor las disposiciones de carácter general que se emitan al
+amparo de los citados preceptos, para presentar la solicitud de autorización respectiva.
 Quinto. Las Sociedades contarán con un plazo de ciento ochenta días naturales contados a partir del
 día siguiente de la entrada en vigor del presente Decreto para cumplir con las obligaciones a que se
 refieren los artículos 2 y 36 Bis de la Ley para Regular las Sociedades de Información Crediticia.
@@ -789,13 +785,13 @@ Las disposiciones generales que detallen los procedimientos registrales previsto
 deberán ser emitidas por la Secretaría de Economía dentro de los sesenta días naturales
 siguientes a la entrada en vigor del presente Decreto.
 Asimismo, la Secretaría de Economía deberá implementar un formato conforme al artículo 20
-del Código de Comercio para la inscripción de la subrogación referida en el artículo 15 de la
-Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado dentro de un
-plazo no mayor a 6 meses siguientes a la entrada en vigor del presente Decreto.
+del Código de Comercio para la inscripción de la subrogación referida en el artículo 15 de la Ley
+de Transparencia y de Fomento a la Competencia en el Crédito Garantizado dentro de un plazo
+no mayor a 6 meses siguientes a la entrada en vigor del presente Decreto.
 
 TRANSITORIO
-ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO,
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de
+la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO,
 fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales
 entrarán en vigor en las fechas que en dichas disposiciones se establecen.
 México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl
