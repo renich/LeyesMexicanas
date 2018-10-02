@@ -243,6 +243,8 @@ ARTÍCULO 4.- Es materia de esta Ley la bioseguridad de todos los OGMs obtenidos
 través de la aplicación de las técnicas de la biotecnología moderna a que se refiere el presente
 ordenamiento, que se utilicen con fines agrícolas, pecuarios, acuícolas, forestales, industriales,
 comerciales, de biorremediación y cualquier otro, con las excepciones que establece esta Ley.
+ARTÍCULO 5.- También es materia de esta Ley la autorización de los OGMs que se destinen a su uso
+o consumo humano o al procesamiento de alimentos para consumo humano, para poder realizar su
 
 5 de 44
 
@@ -254,8 +256,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-ARTÍCULO 5.- También es materia de esta Ley la autorización de los OGMs que se destinen a su uso
-o consumo humano o al procesamiento de alimentos para consumo humano, para poder realizar su
 comercialización e importación para su comercialización. Asimismo es materia de este ordenamiento la
 autorización de OGMs, distintos de los anteriores, que se destinen a una finalidad de salud pública o a la
 biorremediación.
@@ -294,6 +294,8 @@ los términos de la Ley General de Salud y sus reglamentos, salvo en lo relativo
 expedición de autorizaciones que regula esta Ley;
 II. Las medidas que en materia de sanidad animal, vegetal y acuícola corresponda adoptar a la
 Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, en los términos de la Ley
+Federal de Sanidad Animal, de la Ley Federal de Sanidad Vegetal, de la Ley de Pesca, de la Ley de
+Desarrollo Rural Sustentable, y de las demás disposiciones aplicables, y
 
 6 de 44
 
@@ -305,8 +307,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Federal de Sanidad Animal, de la Ley Federal de Sanidad Vegetal, de la Ley de Pesca, de la Ley de
-Desarrollo Rural Sustentable, y de las demás disposiciones aplicables, y
 III. Las medidas que en materia ambiental corresponda adoptar a la Secretaría de Medio Ambiente y
 Recursos Naturales en los términos de la Ley General del Equilibrio Ecológico y la Protección al
 Ambiente, de la Ley General de Vida Silvestre, de la Ley General de Desarrollo Forestal Sustentable y de
@@ -346,6 +346,8 @@ conformidad con las previsiones y los procedimientos administrativos establecido
 V. La protección de la salud humana, del medio ambiente y de la diversidad biológica exigen que se
 preste la atención debida al control y manejo de los posibles riesgos derivados de las actividades con
 OGMs, mediante una evaluación previa de dichos riesgos y el monitoreo posterior a su liberación;
+VI. Los conocimientos, las opiniones y la experiencia de los científicos, particularmente los del país,
+constituyen un valioso elemento de orientación para que la regulación y administración de las actividades
 
 7 de 44
 
@@ -357,8 +359,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-VI. Los conocimientos, las opiniones y la experiencia de los científicos, particularmente los del país,
-constituyen un valioso elemento de orientación para que la regulación y administración de las actividades
 con OGMs se sustenten en estudios y dictámenes científicamente fundamentados, por lo cual debe
 fomentarse la investigación científica y el desarrollo tecnológico en bioseguridad y en biotecnología;
 VII. En la utilización confinada de OGMs con fines de enseñanza, investigación científica y
@@ -400,6 +400,9 @@ de ella deriven, los procedimientos de inspección y vigilancia para verificar y
 de esta Ley y de las disposiciones que de ella deriven, la implantación de medidas de seguridad y de
 urgente aplicación, y la aplicación de sanciones por violaciones a los preceptos de esta Ley y las
 disposiciones que de ella emanen, son la forma en que el Estado Mexicano actúa con precaución, de
+manera prudente y con bases científicas y técnicas para prevenir, reducir o evitar los posibles riesgos que
+las actividades con OGMs pudieran ocasionar a la salud humana o al medio ambiente y la diversidad
+biológica;
 
 8 de 44
 
@@ -411,9 +414,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-manera prudente y con bases científicas y técnicas para prevenir, reducir o evitar los posibles riesgos que
-las actividades con OGMs pudieran ocasionar a la salud humana o al medio ambiente y la diversidad
-biológica;
 XVI. La bioseguridad de los productos agropecuarios, pesqueros y acuícolas se encuentra
 estrechamente relacionada con la sanidad vegetal, animal y acuícola, por lo que la política en estas
 materias deberá comprender los aspectos ambientales, de diversidad biológica, de salud humana y de
@@ -448,6 +448,8 @@ IV. Realizar el monitoreo de los efectos que pudiera causar la liberación de OG
 accidental, al medio ambiente y a la diversidad biológica, de conformidad con lo que dispongan esta Ley
 y las normas oficiales mexicanas que de ella deriven;
 V. Participar en la elaboración y expedición de las listas a que se refiere esta Ley;
+VI. Suspender los efectos de los permisos, cuando disponga de información científica y técnica de la
+que se deduzca que la actividad permitida supone riesgos superiores a los previstos, que puedan afectar
 
 9 de 44
 
@@ -459,8 +461,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-VI. Suspender los efectos de los permisos, cuando disponga de información científica y técnica de la
-que se deduzca que la actividad permitida supone riesgos superiores a los previstos, que puedan afectar
 negativamente al medio ambiente, a la diversidad biológica o a la salud humana o la sanidad animal,
 vegetal o acuícola. Estos dos últimos supuestos, a solicitud expresa de la SAGARPA o de la SSA, según
 su competencia conforme a esta Ley, con apoyo en elementos técnicos y científicos;
@@ -495,6 +495,10 @@ VII. En los demás organismos y productos que determine el reglamento de esta Le
 ARTÍCULO 13.- En los casos establecidos en el artículo anterior, corresponde a la SAGARPA el
 ejercicio de las siguientes atribuciones:
 I. Participar en la formulación y aplicar la política general de bioseguridad;
+II. Analizar y evaluar caso por caso los posibles riesgos que las actividades con OGMs pudieran
+ocasionar a la sanidad animal, vegetal y acuícola, así como al medio ambiente y a la diversidad biológica,
+con base en los estudios de riesgo y los reportes de resultados que elaboren y presenten los interesados,
+en los términos de esta Ley;
 
 10 de 44
 
@@ -506,10 +510,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-II. Analizar y evaluar caso por caso los posibles riesgos que las actividades con OGMs pudieran
-ocasionar a la sanidad animal, vegetal y acuícola, así como al medio ambiente y a la diversidad biológica,
-con base en los estudios de riesgo y los reportes de resultados que elaboren y presenten los interesados,
-en los términos de esta Ley;
 III. Resolver y expedir permisos para la realización de actividades con OGMs, así como establecer y
 dar seguimiento a las condiciones y medidas a las que se deberán sujetar dichas actividades, conforme a
 las disposiciones del presente ordenamiento;
@@ -545,6 +545,10 @@ que adjunten los interesados a sus solicitudes de permisos para liberación en p
 liberación comercial;
 II. Requerir a la SAGARPA la suspensión de los efectos de los permisos que expida dicha Secretaría,
 cuando disponga de información científica y técnica de la que se deduzca que la liberación permitida
+supone riesgos superiores a los previstos que pueden afectar negativamente el medio ambiente y la
+diversidad biológica, y
+III. El ejercicio de las facultades establecidas en las fracciones I, II, IV, V, VII y VIII del artículo 11 de
+esta Ley.
 
 11 de 44
 
@@ -556,10 +560,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-supone riesgos superiores a los previstos que pueden afectar negativamente el medio ambiente y la
-diversidad biológica, y
-III. El ejercicio de las facultades establecidas en las fracciones I, II, IV, V, VII y VIII del artículo 11 de
-esta Ley.
 El dictamen de bioseguridad a que se refiere la fracción I de este artículo tendrá carácter vinculante,
 previo al otorgamiento de los permisos que le corresponda emitir a la SAGARPA, y se expedirá en los
 términos del artículo 66 de esta Ley.
@@ -592,6 +592,11 @@ para evitar afectaciones negativas a la diversidad biológica, a la salud humana
 vegetal y acuícola, según se trate.
 ARTÍCULO 18.- Corresponde a la SHCP el ejercicio de las siguientes facultades, respecto de la
 importación de OGMs y de productos que los contengan:
+I. Revisar en las aduanas de entrada del territorio nacional, que los OGMs que se importen y destinen
+a su liberación al ambiente o a las finalidades establecidas en el artículo 91 de esta Ley, cuenten con el
+permiso y/o la autorización respectiva, según sea el caso en los términos de este ordenamiento;
+II. Revisar que la documentación que acompañe a los OGMs que se importen al país, contenga los
+requisitos de identificación establecidos en las normas oficiales mexicanas que deriven de esta Ley;
 
 12 de 44
 
@@ -603,11 +608,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-I. Revisar en las aduanas de entrada del territorio nacional, que los OGMs que se importen y destinen
-a su liberación al ambiente o a las finalidades establecidas en el artículo 91 de esta Ley, cuenten con el
-permiso y/o la autorización respectiva, según sea el caso en los términos de este ordenamiento;
-II. Revisar que la documentación que acompañe a los OGMs que se importen al país, contenga los
-requisitos de identificación establecidos en las normas oficiales mexicanas que deriven de esta Ley;
 III. Participar, de manera conjunta con las Secretarías, en la expedición de normas oficiales mexicanas
 relativas al almacenamiento o depósito de OGMs o de productos que los contengan en los recintos
 aduaneros del territorio nacional;
@@ -644,6 +644,12 @@ República, a propuesta del Director General del CONACyT, aprobada por la propia
 las atribuciones y facultades que se determinen en las disposiciones reglamentarias que deriven de este
 ordenamiento, y ejecutará y dará seguimiento a los acuerdos de la propia Comisión y ejercerá las demás
 funciones que se le encomienden;
+V. La Secretaría Ejecutiva de la CIBIOGEM contará con la estructura orgánica que se apruebe en los
+términos de las disposiciones aplicables, y será considerada una unidad administrativa por función del
+CONACyT, de conformidad con la Ley Orgánica de dicha entidad paraestatal, y
+VI. La CIBIOGEM también contará con un Comité Técnico integrado por los coordinadores, directores
+generales o equivalentes competentes en la materia que designen los titulares de las dependencias y
+entidades que formen parte de la CIBIOGEM. Dicho Comité podrá proponer la creación de subcomités
 
 13 de 44
 
@@ -655,12 +661,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-V. La Secretaría Ejecutiva de la CIBIOGEM contará con la estructura orgánica que se apruebe en los
-términos de las disposiciones aplicables, y será considerada una unidad administrativa por función del
-CONACyT, de conformidad con la Ley Orgánica de dicha entidad paraestatal, y
-VI. La CIBIOGEM también contará con un Comité Técnico integrado por los coordinadores, directores
-generales o equivalentes competentes en la materia que designen los titulares de las dependencias y
-entidades que formen parte de la CIBIOGEM. Dicho Comité podrá proponer la creación de subcomités
 especializados para la atención de asuntos específicos y tendrá las atribuciones que se determinen en
 las disposiciones reglamentarias que deriven de esta Ley.
 ARTÍCULO 20.- Se crea el Consejo Consultivo Científico de la CIBIOGEM que fungirá como órgano
@@ -700,6 +700,13 @@ Científico, conforme al presupuesto que se autorice en los términos de las dis
 Dichos recursos serán administrados y ejercidos por el Secretario Ejecutivo de la CIBIOGEM.
 Los programas, proyectos, apoyos, así como las demás acciones que se lleven a cabo por la
 aplicación de la presente Ley y demás disposiciones en la materia, en los que se ejerzan recursos de
+carácter federal, se sujetarán a la disponibilidad de recursos que se determinen para tal fin en el
+Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente, y deberán observar las
+disposiciones aplicables en materia presupuestaria.
+ARTÍCULO 24.- Las Secretarías podrán establecer comités técnicos científicos que les proporcionen
+apoyo en la resolución de expedientes de solicitudes de permisos y autorizaciones, así como en materia
+de avisos. Las disposiciones reglamentarias de esta Ley determinarán las bases de organización y
+funcionamiento de dichos comités.
 
 14 de 44
 
@@ -710,14 +717,6 @@ Nueva Ley DOF 18-03-2005
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-carácter federal, se sujetarán a la disponibilidad de recursos que se determinen para tal fin en el
-Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente, y deberán observar las
-disposiciones aplicables en materia presupuestaria.
-ARTÍCULO 24.- Las Secretarías podrán establecer comités técnicos científicos que les proporcionen
-apoyo en la resolución de expedientes de solicitudes de permisos y autorizaciones, así como en materia
-de avisos. Las disposiciones reglamentarias de esta Ley determinarán las bases de organización y
-funcionamiento de dichos comités.
 
 CAPÍTULO V
 De la Coordinación con las Entidades Federativas
@@ -749,6 +748,12 @@ VII. Determinarán las acciones para promover y participar conjuntamente en el a
 investigación científica y tecnológica en bioseguridad y biotecnología;
 VIII. Se establecerá la obligación de presentar informes detallados sobre el cumplimiento del objeto de
 los convenios y acuerdos de coordinación, y
+IX. Contendrán las demás estipulaciones que las partes consideren necesarias para el correcto
+cumplimiento del convenio o acuerdo.
+Los convenios a que se refiere este artículo deberán publicarse en el Diario Oficial de la Federación
+y en el órgano de difusión oficial del gobierno local respectivo.
+ARTÍCULO 27.- Los gobiernos de las entidades federativas tendrán acceso permanente a la
+información que se inscriba en el Registro Nacional de Bioseguridad de los Organismos Genéticamente
 
 15 de 44
 
@@ -760,12 +765,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-IX. Contendrán las demás estipulaciones que las partes consideren necesarias para el correcto
-cumplimiento del convenio o acuerdo.
-Los convenios a que se refiere este artículo deberán publicarse en el Diario Oficial de la Federación
-y en el órgano de difusión oficial del gobierno local respectivo.
-ARTÍCULO 27.- Los gobiernos de las entidades federativas tendrán acceso permanente a la
-información que se inscriba en el Registro Nacional de Bioseguridad de los Organismos Genéticamente
 Modificados. Asimismo, la CIBIOGEM, por conducto de su Secretaría Ejecutiva, notificará las solicitudes
 de permisos de liberación comercial al ambiente de OGMs, a los gobiernos de las entidades federativas
 en las que se pretenda llevar a cabo dicha actividad, a efecto de que tengan conocimiento de esa
@@ -803,6 +802,11 @@ ARTÍCULO 30.- El programa para el desarrollo de la bioseguridad y la biotecnolo
 cuando menos, diagnósticos, políticas, estrategias y acciones generales y sectoriales en cuanto a:
 I. Investigación científica;
 II. Innovación y desarrollo tecnológico;
+III. Formación de investigadores, tecnólogos y profesionales de alto nivel;
+IV. Apoyo a los centros públicos de investigación;
+V. Proyectos de investigación científica y de innovación y desarrollo tecnológico orientados a la
+solución de problemas nacionales y en actividades que redunden en beneficio para los productores
+agropecuarios, forestales y acuícolas del país;
 
 16 de 44
 
@@ -814,11 +818,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-III. Formación de investigadores, tecnólogos y profesionales de alto nivel;
-IV. Apoyo a los centros públicos de investigación;
-V. Proyectos de investigación científica y de innovación y desarrollo tecnológico orientados a la
-solución de problemas nacionales y en actividades que redunden en beneficio para los productores
-agropecuarios, forestales y acuícolas del país;
 VI. Nuevos centros de investigación y transferencia tecnológica en áreas primordiales del desarrollo
 nacional, de acuerdo con las necesidades locales o regionales de conservación y protección ambiental o
 de producción silvícola, agropecuaria e industrial;
@@ -850,6 +849,12 @@ ARTÍCULO 33.- Una vez que las Secretarías correspondientes reciban una solicit
 liberación al ambiente de OGMs, y siempre y cuando cumpla con la información y los requisitos
 establecidos en esta Ley, deberán remitirla al Registro, para su inscripción y publicidad respectivas. Una
 vez realizado lo anterior, la Secretaría a la que le corresponda resolver la solicitud de permiso de
+liberación de OGMs al ambiente, pondrá a disposición del público dicha solicitud, para su consulta
+pública, debiendo observar las previsiones sobre confidencialidad establecidas en esta Ley. Dicha
+Secretaría podrá hacer uso de los medios que considere idóneos a efecto de poner a disposición del
+público la solicitud del permiso respectivo.
+Cualquier persona, incluyendo a los gobiernos de las entidades federativas en las que se pretenda
+realizar la liberación respectiva, podrá emitir su opinión, que deberá estar sustentada técnica y
 
 17 de 44
 
@@ -861,12 +866,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-liberación de OGMs al ambiente, pondrá a disposición del público dicha solicitud, para su consulta
-pública, debiendo observar las previsiones sobre confidencialidad establecidas en esta Ley. Dicha
-Secretaría podrá hacer uso de los medios que considere idóneos a efecto de poner a disposición del
-público la solicitud del permiso respectivo.
-Cualquier persona, incluyendo a los gobiernos de las entidades federativas en las que se pretenda
-realizar la liberación respectiva, podrá emitir su opinión, que deberá estar sustentada técnica y
 científicamente, en un plazo no mayor de veinte días hábiles contados a partir de la fecha en que la
 solicitud respectiva sea puesta a disposición del público en los términos de este artículo.
 Las opiniones que se emitan de conformidad con lo establecido en el párrafo anterior serán
@@ -900,6 +899,12 @@ forma experimental, en programa piloto o comercial, según sea el caso, en los t
 que se establezcan en los propios permisos. Lo anterior, sin perjuicio de que la importación de los OGMs
 de que se trate, quede sujeta al régimen fitosanitario o acuícola establecido en la legislación de la materia
 que corresponda.
+ARTÍCULO 37.- Las medidas de monitoreo, prevención, control y seguridad de los posibles riesgos de
+la utilización del OGM que establezca la Secretaría correspondiente en los permisos, podrán comprender
+entre otros, los siguientes aspectos:
+I. Manejo del OGM;
+II. Medidas de seguridad para que el posible riesgo se mantenga dentro de los límites de tolerancia
+aceptados en la evaluación, y
 
 18 de 44
 
@@ -911,12 +916,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-ARTÍCULO 37.- Las medidas de monitoreo, prevención, control y seguridad de los posibles riesgos de
-la utilización del OGM que establezca la Secretaría correspondiente en los permisos, podrán comprender
-entre otros, los siguientes aspectos:
-I. Manejo del OGM;
-II. Medidas de seguridad para que el posible riesgo se mantenga dentro de los límites de tolerancia
-aceptados en la evaluación, y
 III. Monitoreo de la actividad de que se trate, en relación con los posibles riesgos que dicha actividad
 pudiera generar.
 ARTÍCULO 38.- La Secretaría que expida el permiso podrá modificar las medidas de monitoreo,
@@ -950,6 +949,11 @@ II. La identificación de la zona donde se pretende liberar experimentalmente el
 especificación de la superficie total en la que se realizará la liberación;
 III. Un estudio de los posibles riesgos que la liberación de los OGMs pudiera generar al medio
 ambiente y a la diversidad biológica. Además, en los casos que sean de la competencia de la SAGARPA,
+el estudio deberá contener lo relativo a los posibles riesgos que la liberación de dichos organismos
+pudieran causar a la sanidad animal, vegetal o acuícola;
+IV. Las medidas y procedimientos de monitoreo de la actividad y de bioseguridad, que se llevarán a
+cabo al momento de realizarla y las posteriores a la liberación;
+V. En su caso, los antecedentes de liberación de los OGMs de que se trate en otros países;
 
 19 de 44
 
@@ -961,11 +965,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-el estudio deberá contener lo relativo a los posibles riesgos que la liberación de dichos organismos
-pudieran causar a la sanidad animal, vegetal o acuícola;
-IV. Las medidas y procedimientos de monitoreo de la actividad y de bioseguridad, que se llevarán a
-cabo al momento de realizarla y las posteriores a la liberación;
-V. En su caso, los antecedentes de liberación de los OGMs de que se trate en otros países;
 VI. En su caso, se presentarán consideraciones sobre los riesgos de las alternativas tecnológicas con
 las que se cuente para contender con el problema para el cual se construyó el organismo genéticamente
 modificado que se pretende liberar, y
@@ -997,6 +996,13 @@ C. Adoptar las medidas de bioseguridad necesarias.
 ARTÍCULO 46.- El titular del permiso de liberación experimental al ambiente, deberá informar a la
 Secretaría que lo expidió, mediante un reporte, los resultados de la o las liberaciones realizadas en
 relación con los posibles riesgos para el medio ambiente y la diversidad biológica. Las características y
+contenido del reporte a que se refiere este artículo se establecerán en las normas oficiales mexicanas
+que deriven de esta Ley.
+ARTÍCULO 47.- El titular del permiso estará obligado a informar inmediatamente a la Secretaría
+correspondiente, cualquier situación que en la realización de la liberación permitida, pudiera incrementar
+o disminuir los posibles riesgos para el medio ambiente, la diversidad biológica y/o la salud humana.
+ARTÍCULO 48.- La Secretaría correspondiente podrá limitar la vigencia del permiso de liberación
+experimental al ambiente considerando los elementos del expediente.
 
 20 de 44
 
@@ -1008,13 +1014,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-contenido del reporte a que se refiere este artículo se establecerán en las normas oficiales mexicanas
-que deriven de esta Ley.
-ARTÍCULO 47.- El titular del permiso estará obligado a informar inmediatamente a la Secretaría
-correspondiente, cualquier situación que en la realización de la liberación permitida, pudiera incrementar
-o disminuir los posibles riesgos para el medio ambiente, la diversidad biológica y/o la salud humana.
-ARTÍCULO 48.- La Secretaría correspondiente podrá limitar la vigencia del permiso de liberación
-experimental al ambiente considerando los elementos del expediente.
 ARTÍCULO 49.- Las liberaciones experimentales al ambiente de OGMs se realizarán al amparo y
 conforme a los términos y condiciones que establezca el permiso. En caso de que dicho permiso
 comprenda la realización de diversas liberaciones del mismo OGM en la misma área geográfica
@@ -1046,6 +1045,13 @@ cuente con la autorización del OGM que expida la SSA de conformidad con esta Le
 organismo sea para uso o consumo humano. El interesado podrá iniciar el trámite para obtener dicho
 permiso ante la Secretaría competente, pero no le será otorgado hasta que acredite en el expediente
 respectivo haber obtenido la autorización de la SSA.
+ARTÍCULO 51.- Los interesados en importar OGMs para su liberación al ambiente en programa piloto,
+además de lo establecido en el artículo anterior, deberán adjuntar a su solicitud la información y
+documentación que acredite que el OGM esté permitido conforme la legislación del país de origen, para
+su liberación, al menos, en esta clase de etapa, adjuntando para tales efectos la autorización o
+documentación oficial que ampare dicha situación.
+ARTÍCULO 52.- La resolución a una solicitud de permiso para liberación al ambiente de OGMs en
+programa piloto deberá expedirse en un plazo máximo de tres meses contados a partir del día siguiente a
 
 21 de 44
 
@@ -1057,13 +1063,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-ARTÍCULO 51.- Los interesados en importar OGMs para su liberación al ambiente en programa piloto,
-además de lo establecido en el artículo anterior, deberán adjuntar a su solicitud la información y
-documentación que acredite que el OGM esté permitido conforme la legislación del país de origen, para
-su liberación, al menos, en esta clase de etapa, adjuntando para tales efectos la autorización o
-documentación oficial que ampare dicha situación.
-ARTÍCULO 52.- La resolución a una solicitud de permiso para liberación al ambiente de OGMs en
-programa piloto deberá expedirse en un plazo máximo de tres meses contados a partir del día siguiente a
 aquel en que la Secretaría que deba resolver haya recibido la solicitud del permiso y la información
 aportada por el interesado esté completa.
 La vigencia del permiso se determinará considerando los elementos del expediente.
@@ -1093,6 +1092,15 @@ liberar;
 VI. En su caso, la información que disponga el solicitante sobre datos o resultados de la
 comercialización del mismo OGM en otros países, y
 VII. La demás información que determinen las normas oficiales mexicanas que deriven de esta Ley.
+Lo anterior, con la finalidad de que las Secretarías correspondientes cuenten con la información para
+que realicen el análisis y la evaluación de los posibles riesgos al medio ambiente y la diversidad biológica
+o a la sanidad animal, vegetal o acuícola, según les corresponda conforme a esta Ley.
+ARTÍCULO 56.- Los interesados en importar OGMs para su liberación comercial, además de lo
+establecido en el artículo anterior, deberán adjuntar la información y documentación que acredite que el
+OGM esté permitido conforme la legislación del país de origen para su comercialización, adjuntando para
+tales efectos la autorización o documentación oficial que ampare dicha situación.
+ARTÍCULO 57.- La resolución a una solicitud de permiso para liberación comercial al ambiente,
+deberá expedirse en el plazo de cuatro meses contados a partir del día siguiente a aquel en que la
 
 22 de 44
 
@@ -1104,15 +1112,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Lo anterior, con la finalidad de que las Secretarías correspondientes cuenten con la información para
-que realicen el análisis y la evaluación de los posibles riesgos al medio ambiente y la diversidad biológica
-o a la sanidad animal, vegetal o acuícola, según les corresponda conforme a esta Ley.
-ARTÍCULO 56.- Los interesados en importar OGMs para su liberación comercial, además de lo
-establecido en el artículo anterior, deberán adjuntar la información y documentación que acredite que el
-OGM esté permitido conforme la legislación del país de origen para su comercialización, adjuntando para
-tales efectos la autorización o documentación oficial que ampare dicha situación.
-ARTÍCULO 57.- La resolución a una solicitud de permiso para liberación comercial al ambiente,
-deberá expedirse en el plazo de cuatro meses contados a partir del día siguiente a aquel en que la
 Secretaría que deba resolver haya recibido la solicitud del permiso y la información aportada por el
 interesado esté completa.
 ARTÍCULO 58.- Las actividades e importaciones subsecuentes al permiso de liberación comercial al
@@ -1144,6 +1143,14 @@ de un determinado nivel de riesgo, de ausencia de riesgo, o de la existencia de 
 IV. Deben tener como base mínima los posibles riesgos que se impondrían por la liberación de los
 organismos hospederos no modificados genéticamente o de los organismos parentales, cuando fueran
 liberados en ese medio ambiente;
+V. Se deberá considerar el organismo receptor, la modificación genética, incluyendo la construcción
+genética y el método de inserción, y el ambiente en el que se pretende liberar el OGM, y
+VI. La naturaleza y el nivel de detalle de la información que contengan pueden variar de un caso a
+otro, dependiendo del OGM de que se trate, su uso previsto y el probable ambiente receptor.
+ARTÍCULO 62.- Las etapas básicas a seguir en el estudio y la evaluación del riesgo son las
+siguientes:
+I. La identificación de características nuevas asociadas con el OGM que pudieran tener posibles
+riesgos en la diversidad biológica;
 
 23 de 44
 
@@ -1155,14 +1162,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-V. Se deberá considerar el organismo receptor, la modificación genética, incluyendo la construcción
-genética y el método de inserción, y el ambiente en el que se pretende liberar el OGM, y
-VI. La naturaleza y el nivel de detalle de la información que contengan pueden variar de un caso a
-otro, dependiendo del OGM de que se trate, su uso previsto y el probable ambiente receptor.
-ARTÍCULO 62.- Las etapas básicas a seguir en el estudio y la evaluación del riesgo son las
-siguientes:
-I. La identificación de características nuevas asociadas con el OGM que pudieran tener posibles
-riesgos en la diversidad biológica;
 II. La evaluación de que estos posibles riesgos ocurran realmente, teniendo en cuenta el nivel y el tipo
 de exposición del OGM;
 III. La evaluación de las consecuencias si posibles riesgos ocurrieran realmente;
@@ -1196,16 +1195,6 @@ se trate.
 ARTÍCULO 65.- Las características y requisitos de los estudios de evaluación de los posibles riesgos,
 se establecerán en las normas oficiales mexicanas que deriven de esta Ley.
 
-24 de 44
-
-LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 18-03-2005
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 CAPÍTULO IV
 De los Dictámenes
 ARTÍCULO 66.- Los dictámenes que deberá emitir la SEMARNAT únicamente se requerirán
@@ -1215,6 +1204,16 @@ en un plazo de sesenta días contados a partir de que la SEMARNAT reciba el expe
 remitido por la SAGARPA. Dicho plazo comprende tanto la expedición del dictamen correspondiente,
 como su remisión a la SAGARPA. La SAGARPA expedirá el permiso de liberación de OGMs al ambiente
 que corresponda, siempre que el dictamen que emita la SEMARNAT sea favorable.
+
+24 de 44
+
+LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 18-03-2005
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 CAPÍTULO V
 De la Reconsideración de las Resoluciones Negativas
@@ -1248,6 +1247,12 @@ Confidencialidad
 ARTÍCULO 70.- Los interesados podrán identificar claramente en su solicitud de permiso, aquella
 información que deba considerarse como confidencial conforme al régimen de propiedad industrial o de
 derechos de autor. La Secretaría correspondiente se sujetará a lo establecido en las leyes de la materia y
+se abstendrá de mandar registrar y de facilitar a terceros la información y los datos que estén protegidos
+por dichas leyes.
+ARTÍCULO 71.- No tendrán el carácter de confidencial:
+I. La descripción general de los OGMs;
+II. La identificación del interesado o responsable de la actividad;
+III. La finalidad y el lugar o lugares de la actividad;
 
 25 de 44
 
@@ -1259,12 +1264,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-se abstendrá de mandar registrar y de facilitar a terceros la información y los datos que estén protegidos
-por dichas leyes.
-ARTÍCULO 71.- No tendrán el carácter de confidencial:
-I. La descripción general de los OGMs;
-II. La identificación del interesado o responsable de la actividad;
-III. La finalidad y el lugar o lugares de la actividad;
 IV. Los sistemas y las medidas de bioseguridad, monitoreo, control y emergencia, y
 V. Los estudios sobre los posibles riesgos a la salud humana o al medio ambiente y a la diversidad
 biológica.
@@ -1297,6 +1296,14 @@ científicos y técnicos más modernos y avanzados en materia de manejo de riesg
 disposición final y eliminación de residuos de OGMs generados en la realización de la actividad, y
 III. En el caso de la utilización confinada con fines de enseñanza o de investigación científica y
 tecnológica, integrar una comisión interna de bioseguridad y aplicar los principios de las buenas prácticas
+de la investigación científica, así como las reglas de bioseguridad que defina la comisión interna de
+bioseguridad. Dicha comisión interna estará encargada de la seguridad en las instalaciones y de las
+buenas prácticas y la seguridad en el manejo de OGMs utilizados en la actividad señalada.
+Las normas oficiales mexicanas que deriven de esta Ley establecerán:
+A) Los requisitos y las características generales que debe contener el libro de registro a que se refiere
+este artículo, para cada tipo de actividad;
+B) Los requisitos y características relativas al confinamiento, tratamiento, disposición final, destrucción
+y eliminación de residuos de OGMs;
 
 26 de 44
 
@@ -1308,14 +1315,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-de la investigación científica, así como las reglas de bioseguridad que defina la comisión interna de
-bioseguridad. Dicha comisión interna estará encargada de la seguridad en las instalaciones y de las
-buenas prácticas y la seguridad en el manejo de OGMs utilizados en la actividad señalada.
-Las normas oficiales mexicanas que deriven de esta Ley establecerán:
-A) Los requisitos y las características generales que debe contener el libro de registro a que se refiere
-este artículo, para cada tipo de actividad;
-B) Los requisitos y características relativas al confinamiento, tratamiento, disposición final, destrucción
-y eliminación de residuos de OGMs;
 C) Las condiciones de manejo que se requieran en las diversas formas de utilización confinada de
 dichos organismos, y
 D) Acciones a realizar en caso de liberación accidental de OGMs.
@@ -1346,6 +1345,14 @@ II. La integración de las comisiones internas de bioseguridad, incluyendo el no
 responsables de dichas comisiones;
 III. La primera utilización de laboratorios o instalaciones específicas de enseñanza o investigación
 científica y tecnológica en las que se manejen, generen y produzcan OGMs;
+IV. La producción de OGMs que se utilicen en procesos industriales, y
+V. La primera utilización de instalaciones específicas en donde se produzcan los OGMs a que se
+refiere la fracción anterior.
+ARTÍCULO 80.- También requiere de presentación de aviso la importación de OGMs para su
+utilización confinada con fines industriales o comerciales, únicamente cuando se reúnan los supuestos
+siguientes:
+I. Que se trate de OGMs que no requieran de permiso, en virtud de que se destinen exclusivamente a
+su utilización confinada y por tanto no se importen para su liberación al ambiente, y
 
 27 de 44
 
@@ -1357,14 +1364,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-IV. La producción de OGMs que se utilicen en procesos industriales, y
-V. La primera utilización de instalaciones específicas en donde se produzcan los OGMs a que se
-refiere la fracción anterior.
-ARTÍCULO 80.- También requiere de presentación de aviso la importación de OGMs para su
-utilización confinada con fines industriales o comerciales, únicamente cuando se reúnan los supuestos
-siguientes:
-I. Que se trate de OGMs que no requieran de permiso, en virtud de que se destinen exclusivamente a
-su utilización confinada y por tanto no se importen para su liberación al ambiente, y
 II. Que se trate de OGMs que no requieran autorización sanitaria debido a que no se destinarán a uso
 o consumo humano o a finalidades de salud pública.
 ARTÍCULO 81.- Los sujetos que deben presentar a la Secretaría correspondiente el aviso respectivo,
@@ -1394,6 +1393,14 @@ III. La prohibición de la utilización confinada del organismo genéticamente m
 o su importación para esa actividad.
 Dicha resolución podrá ser impugnada a través del recurso de revisión establecido en el presente
 ordenamiento.
+ARTÍCULO 85.- Las personas cuya actividad de utilización confinada esté sujeta al requisito de
+presentación de aviso estarán obligadas a observar y cumplir las demás disposiciones del presente
+ordenamiento y de las normas oficiales mexicanas que deriven del mismo, en lo que le sea aplicable.
+
+TÍTULO CUARTO
+Zonas Restringidas
+CAPÍTULO I
+Centros de Origen y de Diversidad Genética
 
 28 de 44
 
@@ -1405,14 +1412,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-ARTÍCULO 85.- Las personas cuya actividad de utilización confinada esté sujeta al requisito de
-presentación de aviso estarán obligadas a observar y cumplir las demás disposiciones del presente
-ordenamiento y de las normas oficiales mexicanas que deriven del mismo, en lo que le sea aplicable.
-
-TÍTULO CUARTO
-Zonas Restringidas
-CAPÍTULO I
-Centros de Origen y de Diversidad Genética
 ARTÍCULO 86.- Las especies de las que los Estados Unidos Mexicanos sea centro de origen y de
 diversidad genética así como las áreas geográficas en las que se localicen, serán determinadas
 conjuntamente mediante acuerdos por la SEMARNAT y la SAGARPA, con base en la información con la
@@ -1446,6 +1445,16 @@ que se pretende obtener, y dichas actividades sean permitidas por la SEMARNAT en
 Ley.
 Para los efectos de lo dispuesto en el párrafo anterior, queda prohibido realizar actividades con OGMs
 en las zonas núcleo de las áreas naturales protegidas.
+En caso de que algún centro de origen o centro de diversidad genética se ubique dentro de alguna
+área natural protegida, las declaratorias de creación y los programas de manejo de dichas áreas se
+modificarán en los términos de la legislación de la materia, conforme se realicen las determinaciones a
+que se refiere el Artículo 86 de la presente Ley.
+
+CAPÍTULO III
+Zonas Libres de OGMs
+ARTÍCULO 90.- Se podrán establecer zonas libres de OGMs para la protección de productos
+agrícolas orgánicos y otros de interés de la comunidad solicitante, conforme a los siguientes lineamientos
+generales:
 
 29 de 44
 
@@ -1457,16 +1466,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-En caso de que algún centro de origen o centro de diversidad genética se ubique dentro de alguna
-área natural protegida, las declaratorias de creación y los programas de manejo de dichas áreas se
-modificarán en los términos de la legislación de la materia, conforme se realicen las determinaciones a
-que se refiere el Artículo 86 de la presente Ley.
-
-CAPÍTULO III
-Zonas Libres de OGMs
-ARTÍCULO 90.- Se podrán establecer zonas libres de OGMs para la protección de productos
-agrícolas orgánicos y otros de interés de la comunidad solicitante, conforme a los siguientes lineamientos
-generales:
 I. Las zonas libres se establecerán cuando se trate de OGMs de la misma especie a las que se
 produzcan mediante procesos de producción de productos agrícolas orgánicos, y se demuestre científica
 y técnicamente que no es viable su coexistencia o que no cumplirían con los requisitos normativos para
@@ -1496,6 +1495,14 @@ ARTÍCULO 91.- Los OGMs objeto de autorización son los siguientes:
 I. Los que se destinen a su uso o consumo humano, incluyendo granos;
 II. Los que se destinen al procesamiento de alimentos para consumo humano;
 III. Los que tengan finalidades de salud pública, y
+IV. Los que se destinen a la biorremediación.
+Para los efectos de esta Ley, también se consideran OGMs para uso o consumo humano aquellos
+que sean para consumo animal y que puedan ser consumidos directamente por el ser humano.
+ARTÍCULO 92.- La solicitud de autorización de un OGM deberá acompañarse de los siguientes
+requisitos:
+I. El estudio de los posibles riesgos que el uso o consumo humano del OGM de que se trate pudiera
+representar a la salud humana, en el que se incluirá la información científica y técnica relativa a su
+inocuidad, y
 
 30 de 44
 
@@ -1507,14 +1514,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-IV. Los que se destinen a la biorremediación.
-Para los efectos de esta Ley, también se consideran OGMs para uso o consumo humano aquellos
-que sean para consumo animal y que puedan ser consumidos directamente por el ser humano.
-ARTÍCULO 92.- La solicitud de autorización de un OGM deberá acompañarse de los siguientes
-requisitos:
-I. El estudio de los posibles riesgos que el uso o consumo humano del OGM de que se trate pudiera
-representar a la salud humana, en el que se incluirá la información científica y técnica relativa a su
-inocuidad, y
 II. Los demás requisitos que se determinen en las normas oficiales mexicanas que deriven de esta
 Ley.
 Los lineamientos, criterios, características y requisitos de los estudios de los posibles riesgos que los
@@ -1543,6 +1542,15 @@ B) Cuando la información proporcionada por el interesado sea falsa, esté incom
 insuficiente, o
 C) Cuando la SSA concluya que los riesgos que pueden presentar dichos organismos afectarán
 negativamente a la salud humana, pudiéndole causar daños graves o irreversibles.
+La SSA basará sus resoluciones de acuerdo con la identificación científica y técnicamente sustentada
+de los posibles riesgos que pudieran generar los OGMs, y de la posibilidad real de afectación a la salud
+humana por dichos organismos.
+ARTÍCULO 97.- Los OGMs autorizados por la SSA podrán ser libremente comercializados e
+importados para su comercialización, al igual que los productos que contengan dichos organismos y los
+productos derivados de los mismos. Lo anterior sin perjuicio de que dichos organismos autorizados, los
+productos que los contengan y los productos derivados queden sujetos al régimen de control sanitario
+general que establece la Ley General de Salud y sus reglamentos y, en caso de que les sean aplicables,
+los requisitos fitozoosanitarios que correspondan.
 
 31 de 44
 
@@ -1554,15 +1562,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-La SSA basará sus resoluciones de acuerdo con la identificación científica y técnicamente sustentada
-de los posibles riesgos que pudieran generar los OGMs, y de la posibilidad real de afectación a la salud
-humana por dichos organismos.
-ARTÍCULO 97.- Los OGMs autorizados por la SSA podrán ser libremente comercializados e
-importados para su comercialización, al igual que los productos que contengan dichos organismos y los
-productos derivados de los mismos. Lo anterior sin perjuicio de que dichos organismos autorizados, los
-productos que los contengan y los productos derivados queden sujetos al régimen de control sanitario
-general que establece la Ley General de Salud y sus reglamentos y, en caso de que les sean aplicables,
-los requisitos fitozoosanitarios que correspondan.
 ARTÍCULO 98.- Serán aplicables al procedimiento administrativo de autorización, las disposiciones
 relativas del Título Segundo, en cuanto a la Reconsideración de las Resoluciones Negativas, Revisión de
 los Permisos y Confidencialidad.
@@ -1598,6 +1597,16 @@ de cultivo, así como los cambios en las características reproductivas y produc
 La evaluación de la conformidad de dichas normas oficiales mexicanas la realizarán la SSA, la
 SAGARPA y la Secretaría de Economía en el ámbito de sus respectivas competencias y las personas
 acreditadas y aprobadas conforme a lo dispuesto en la Ley Federal sobre Metrología y Normalización.
+ARTÍCULO 102.- Los requisitos de información que deberá contener la documentación que acompañe
+a los OGMs que se importen conforme a esta Ley, se establecerán en normas oficiales mexicanas que
+deriven del presente ordenamiento, considerando en su expedición la finalidad a la que se destinen
+dichos organismos y lo que se establezca en tratados internacionales de los que los Estados Unidos
+Mexicanos sean parte. Las normas oficiales mexicanas a que se refiere este artículo, serán expedidas
+conjuntamente por la SAGARPA, la SSA y la Secretaría de Economía. En caso de que la importación de
+OGMs se realice con la finalidad de su liberación al ambiente, las normas oficiales mexicanas a que se
+refiere este artículo serán expedidas por las Secretarías señaladas conjuntamente con la SEMARNAT.
+
+TÍTULO SÉPTIMO
 
 32 de 44
 
@@ -1609,16 +1618,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-ARTÍCULO 102.- Los requisitos de información que deberá contener la documentación que acompañe
-a los OGMs que se importen conforme a esta Ley, se establecerán en normas oficiales mexicanas que
-deriven del presente ordenamiento, considerando en su expedición la finalidad a la que se destinen
-dichos organismos y lo que se establezca en tratados internacionales de los que los Estados Unidos
-Mexicanos sean parte. Las normas oficiales mexicanas a que se refiere este artículo, serán expedidas
-conjuntamente por la SAGARPA, la SSA y la Secretaría de Economía. En caso de que la importación de
-OGMs se realice con la finalidad de su liberación al ambiente, las normas oficiales mexicanas a que se
-refiere este artículo serán expedidas por las Secretarías señaladas conjuntamente con la SEMARNAT.
-
-TÍTULO SÉPTIMO
 De las Listas de OGMs
 ARTÍCULO 103.- Las listas de OGMs que conforme a esta Ley se expidan y publiquen serán las
 siguientes:
@@ -1648,6 +1647,14 @@ manejo y liberación de dichos organismos puedan realizarse sin condiciones, as�
 se deban cumplir condiciones específicas.
 ARTÍCULO 105.- La lista de OGMs que cuenten con autorización, será elaborada y expedida por la
 SSA, considerando los resultados de la evaluación caso por caso de los posibles riesgos de dichos
+organismos para la salud humana, y se publicará para su conocimiento y difusión en el Diario Oficial de
+la Federación. Sus finalidades serán indicar la situación jurídica en que se encuentren esos OGMs, y
+determinar los casos en los cuales los OGMs autorizados conforme a esta Ley puedan ser
+comercializados e importados.
+ARTÍCULO 106.- La lista de OGMs para realizar actividades de utilización confinada de dichos
+organismos con fines de enseñanza y de investigación científica y tecnológica será expedida
+conjuntamente por las Secretarías, y se publicará para su conocimiento y difusión en el Diario Oficial de
+la Federación.
 
 33 de 44
 
@@ -1659,14 +1666,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-organismos para la salud humana, y se publicará para su conocimiento y difusión en el Diario Oficial de
-la Federación. Sus finalidades serán indicar la situación jurídica en que se encuentren esos OGMs, y
-determinar los casos en los cuales los OGMs autorizados conforme a esta Ley puedan ser
-comercializados e importados.
-ARTÍCULO 106.- La lista de OGMs para realizar actividades de utilización confinada de dichos
-organismos con fines de enseñanza y de investigación científica y tecnológica será expedida
-conjuntamente por las Secretarías, y se publicará para su conocimiento y difusión en el Diario Oficial de
-la Federación.
 ARTÍCULO 107.- En la formulación, expedición y modificación de las listas informativas de OGMs, se
 estará a lo que se establezca en las disposiciones reglamentarias que deriven del presente
 ordenamiento, tomando en cuenta los siguientes lineamientos:
@@ -1696,6 +1695,14 @@ sobre bioseguridad. En dicho Sistema, la CIBIOGEM deberá integrar, entre otros 
 correspondiente al Registro.
 La CIBIOGEM reunirá informes y documentos relevantes que resulten de las actividades científicas,
 académicas, trabajos técnicos o de cualquier otra índole en materia de bioseguridad, incluyendo la
+inocuidad de OGMs, realizados por personas físicas o morales, nacionales o extranjeras, los que serán
+remitidos y organizados por el Sistema Nacional de Información sobre Bioseguridad. Además, elaborará y
+publicará anualmente un informe detallado de la situación general existente en el país en materia de
+biotecnología y bioseguridad materia de esta Ley.
+La CIBIOGEM, además, realizará los estudios y las consideraciones socioeconómicas resultantes de
+los efectos de los OGMs que se liberen al ambiente en el territorio nacional, y establecerá los
+mecanismos para realizar la consulta y participación de los pueblos y comunidades indígenas asentadas
+en las zonas donde se pretenda la liberación de OGMs, considerando el valor de la diversidad biológica.
 
 34 de 44
 
@@ -1707,14 +1714,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-inocuidad de OGMs, realizados por personas físicas o morales, nacionales o extranjeras, los que serán
-remitidos y organizados por el Sistema Nacional de Información sobre Bioseguridad. Además, elaborará y
-publicará anualmente un informe detallado de la situación general existente en el país en materia de
-biotecnología y bioseguridad materia de esta Ley.
-La CIBIOGEM, además, realizará los estudios y las consideraciones socioeconómicas resultantes de
-los efectos de los OGMs que se liberen al ambiente en el territorio nacional, y establecerá los
-mecanismos para realizar la consulta y participación de los pueblos y comunidades indígenas asentadas
-en las zonas donde se pretenda la liberación de OGMs, considerando el valor de la diversidad biológica.
 Asimismo, la Secretaría Ejecutiva de la CIBIOGEM fungirá como Centro Focal Nacional ante el
 Secretariado del Protocolo de Cartagena sobre Seguridad de la Biotecnología del Convenio sobre la
 Diversidad Biológica, siendo la responsable del enlace con dicho Secretariado y de dar cumplimiento a lo
@@ -1749,6 +1748,13 @@ y la SSA contribuirán a la organización y funcionamiento del Registro.
 
 TÍTULO NOVENO
 De las Normas Oficiales Mexicanas en Materia de Bioseguridad
+ARTÍCULO 110.- Para garantizar la bioseguridad de las actividades con OGMs, las Secretarías, de
+manera conjunta o con la participación de otras dependencias de la Administración Pública Federal,
+expedirán normas oficiales mexicanas que tengan por objeto establecer lineamientos, criterios,
+especificaciones técnicas y procedimientos conforme a las disposiciones de esta Ley.
+ARTÍCULO 111.- En la formulación de normas oficiales mexicanas en materia de bioseguridad deberá
+considerarse que el cumplimiento de sus previsiones deberá realizarse de conformidad con las
+características de cada actividad o proceso productivo con OGMs.
 
 35 de 44
 
@@ -1760,13 +1766,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-ARTÍCULO 110.- Para garantizar la bioseguridad de las actividades con OGMs, las Secretarías, de
-manera conjunta o con la participación de otras dependencias de la Administración Pública Federal,
-expedirán normas oficiales mexicanas que tengan por objeto establecer lineamientos, criterios,
-especificaciones técnicas y procedimientos conforme a las disposiciones de esta Ley.
-ARTÍCULO 111.- En la formulación de normas oficiales mexicanas en materia de bioseguridad deberá
-considerarse que el cumplimiento de sus previsiones deberá realizarse de conformidad con las
-características de cada actividad o proceso productivo con OGMs.
 ARTÍCULO 112.- La aplicación de las normas oficiales mexicanas en materia de bioseguridad, así
 como los actos de inspección y vigilancia corresponderán exclusivamente a las Secretarías competentes
 en los términos de esta Ley. El cumplimiento de dichas normas podrá ser evaluado por los organismos de
@@ -1801,6 +1800,12 @@ II. Se causen daños o efectos adversos y significativos a la salud humana o a l
 a la sanidad animal, vegetal o acuícola, o
 III. Se liberen accidentalmente OGMs no permitidos y/o no autorizados al ambiente.
 En estos casos, las medidas podrán ser las siguientes:
+A. Clausura temporal, parcial o total, de los lugares y/o de las instalaciones en que se manejen o
+almacenen OGMs o se desarrollen las actividades que den lugar a los supuestos que originan la
+imposición de la medida;
+B. El aseguramiento precautorio de OGMs, además de los bienes, vehículos, utensilios e instrumentos
+directamente relacionados con la acción u omisión que da lugar a la medida;
+C. La suspensión temporal, total o parcial, de la actividad que motive la imposición de la medida;
 
 36 de 44
 
@@ -1812,12 +1817,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-A. Clausura temporal, parcial o total, de los lugares y/o de las instalaciones en que se manejen o
-almacenen OGMs o se desarrollen las actividades que den lugar a los supuestos que originan la
-imposición de la medida;
-B. El aseguramiento precautorio de OGMs, además de los bienes, vehículos, utensilios e instrumentos
-directamente relacionados con la acción u omisión que da lugar a la medida;
-C. La suspensión temporal, total o parcial, de la actividad que motive la imposición de la medida;
 D. La repatriación de OGMs a su país de origen;
 E. La realización de las acciones y medidas necesarias para evitar que se continúen presentando los
 supuestos que motiven la imposición de la medida, y
@@ -1850,6 +1849,13 @@ o algunas de las sanciones establecidas en esta Ley, dicha Secretaría deberá c
 como atenuante de la infracción cometida.
 ARTÍCULO 117.- En caso de liberaciones accidentales de OGMs que se verifiquen en el territorio
 nacional, y que pudieran tener efectos adversos significativos a la diversidad biológica o a la salud
+humana de otro país, la Secretaría competente notificará tal situación a la autoridad correspondiente del
+país que pudiera resultar afectado por dicha liberación. Dicha notificación deberá incluir:
+I. Información sobre las cantidades estimadas y las características y/o rasgos importantes del OGM;
+II. Información sobre las circunstancias y la fecha estimada de la liberación accidental, así como el uso
+que tiene el OGM en el territorio nacional;
+III. Información disponible sobre los posibles efectos adversos para la diversidad biológica y la salud
+humana;
 
 37 de 44
 
@@ -1861,13 +1867,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-humana de otro país, la Secretaría competente notificará tal situación a la autoridad correspondiente del
-país que pudiera resultar afectado por dicha liberación. Dicha notificación deberá incluir:
-I. Información sobre las cantidades estimadas y las características y/o rasgos importantes del OGM;
-II. Información sobre las circunstancias y la fecha estimada de la liberación accidental, así como el uso
-que tiene el OGM en el territorio nacional;
-III. Información disponible sobre los posibles efectos adversos para la diversidad biológica y la salud
-humana;
 IV. Información disponible sobre las posibles medidas de regulación, atención y control del riesgo, y
 V. Un punto de contacto para obtener información adicional.
 Sin perjuicio de lo anterior, las Secretarías, en el ámbito de sus competencias conforme a esta Ley,
@@ -1898,6 +1897,14 @@ todas las actividades en materia de bioseguridad;
 V. Presente a las Secretarías competentes, información y/o documentación a que se refiere este
 ordenamiento que sea falsa, incluyendo la relativa a los posibles riesgos que las actividades con OGMs
 pudieran ocasionar a la salud humana o a la diversidad biológica;
+VI. Incumpla las medidas sanitarias, de monitoreo, control y prevención señaladas por los interesados
+en la información y documentación aportada para obtener los permisos y las autorizaciones respectivas, y
+las establecidas por las Secretarías en los propios permisos y autorizaciones;
+VII. Incumpla las medidas de control y de respuesta en caso de emergencia señaladas por los
+interesados en sus estudios de los posibles riesgos que las actividades con OGMs puedan ocasionar a la
+salud humana o a la diversidad biológica o a la sanidad animal, vegetal o acuícola;
+VIII. Incumpla la obligación de informar o hacer del conocimiento a las Secretarías, en los supuestos
+establecidos en esta Ley;
 
 38 de 44
 
@@ -1909,14 +1916,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-VI. Incumpla las medidas sanitarias, de monitoreo, control y prevención señaladas por los interesados
-en la información y documentación aportada para obtener los permisos y las autorizaciones respectivas, y
-las establecidas por las Secretarías en los propios permisos y autorizaciones;
-VII. Incumpla las medidas de control y de respuesta en caso de emergencia señaladas por los
-interesados en sus estudios de los posibles riesgos que las actividades con OGMs puedan ocasionar a la
-salud humana o a la diversidad biológica o a la sanidad animal, vegetal o acuícola;
-VIII. Incumpla la obligación de informar o hacer del conocimiento a las Secretarías, en los supuestos
-establecidos en esta Ley;
 IX. Incumpla la obligación de adoptar e implementar los requisitos y medidas adicionales de
 bioseguridad determinadas por las Secretarías, en los casos de actividades de utilización confinada
 sujetas a aviso, en que así se determine;
@@ -1946,17 +1945,6 @@ XVIII. No suspenda la actividad de utilización confinada en los casos en que la
 correspondientes, una vez presentado el aviso por el interesado, determinen dicha situación y, en su
 caso, que la actividad requiere de requisitos o medidas de bioseguridad adicionales para continuar su
 realización;
-
-39 de 44
-
-LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 18-03-2005
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XIX. Realice actividades de utilización confinada dejando de aplicar las medidas de confinamiento y
 de tratamiento, disposición final y eliminación de residuos de OGMs generados en la realización de la
 actividad;
@@ -1968,6 +1956,17 @@ establezcan las disposiciones reglamentarias que deriven de esta Ley;
 XXII. Incumpla la obligación de llevar a cabo las acciones y medidas de seguridad o de urgente
 aplicación que establezcan las Secretarías competentes, en los casos y términos establecidos en esta
 Ley;
+
+39 de 44
+
+LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 18-03-2005
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 XXIII. Incumpla lo dispuesto en esta Ley y en las normas oficiales mexicanas que deriven de la misma,
 relativas al etiquetado de productos que contengan OGMs y productos derivados de dichos organismos;
 XXIV. Incumpla lo dispuesto en este ordenamiento y en las normas oficiales mexicanas que deriven
@@ -1996,6 +1995,16 @@ XX, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 119 de este ordenamiento.
 En el caso de reincidencia, se duplicará el monto de la multa que corresponda. Para los efectos de
 esta fracción, se considera reincidente al infractor que incurra más de una vez en conductas que
 impliquen infracciones a un mismo precepto, en un periodo de dos años, contados a partir de la fecha en
+que la Secretaría competente determine mediante una resolución definitiva la comisión de la primera
+infracción, y siempre que ésta no hubiese sido desvirtuada;
+III. Clausura temporal o definitiva, parcial o total, de las instalaciones en las que se hayan cometido las
+infracciones cuando:
+A) Las infracciones generen posibles riesgos o efectos adversos a la salud humana o a la diversidad
+biológica o a la sanidad animal, vegetal o acuícola;
+B) El infractor no hubiere cumplido en los plazos y condiciones impuestas por las Secretarías
+competentes, con las medidas de seguridad o de urgente aplicación ordenadas, o
+C) Se trate de desobediencia reiterada al cumplimiento de alguna o algunas medidas de seguridad o
+de urgente aplicación impuestas por las Secretarías competentes;
 
 40 de 44
 
@@ -2007,16 +2016,6 @@ Nueva Ley DOF 18-03-2005
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-que la Secretaría competente determine mediante una resolución definitiva la comisión de la primera
-infracción, y siempre que ésta no hubiese sido desvirtuada;
-III. Clausura temporal o definitiva, parcial o total, de las instalaciones en las que se hayan cometido las
-infracciones cuando:
-A) Las infracciones generen posibles riesgos o efectos adversos a la salud humana o a la diversidad
-biológica o a la sanidad animal, vegetal o acuícola;
-B) El infractor no hubiere cumplido en los plazos y condiciones impuestas por las Secretarías
-competentes, con las medidas de seguridad o de urgente aplicación ordenadas, o
-C) Se trate de desobediencia reiterada al cumplimiento de alguna o algunas medidas de seguridad o
-de urgente aplicación impuestas por las Secretarías competentes;
 IV. El decomiso de los instrumentos, ejemplares, organismos obtenidos o productos relacionados
 directamente con las infracciones cometidas;
 V. La suspensión o revocación de los permisos y las autorizaciones correspondientes;
@@ -2045,17 +2044,6 @@ contravenir lo establecido en esta Ley y demás disposiciones que de ella emanen
 acompañarse de la información técnica y científica que la sustente, con la participación del Consejo
 Consultivo Científico de la CIBIOGEM, previa opinión de la Comisión Nacional para el Conocimiento y
 Uso de la Biodiversidad.
-
-41 de 44
-
-LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 18-03-2005
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 En los casos a que se refieren las fracciones anteriores, la Procuraduría Federal de Protección al
 Ambiente procederá a ejercitar la acción de responsabilidad con base en el dictamen técnico que para tal
 efecto elabore el comité técnico científico de la SEMARNAT. Para la formulación del dictamen, el comité
@@ -2069,6 +2057,17 @@ Las sanciones administrativas establecidas en el Artículo anterior se aplicará
 caso, de las penas que correspondan cuando los actos u omisiones constitutivos de infracciones a esta
 Ley, sean también constitutivos de delito conforme a las disposiciones aplicables del Código Penal
 Federal.
+
+41 de 44
+
+LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 18-03-2005
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 ARTÍCULO 122.- Son aplicables supletoriamente a este Capítulo en cuanto a responsabilidades
 administrativas, las disposiciones del Capítulo Único del Título Cuarto de la Ley Federal de Procedimiento
 Administrativo, con excepción del artículo 70-A de dicho ordenamiento.
@@ -2097,17 +2096,6 @@ ARTÍCULO TERCERO.- Una vez expedidos y publicados los formatos a que se refiere
 transitorio anterior, los interesados que de conformidad con esta Ley tengan la obligación de presentar
 avisos, deberán hacerlo en un plazo de noventa días contados a partir de la publicación de dichos
 formatos en el Diario Oficial de la Federación.
-
-42 de 44
-
-LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 18-03-2005
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 ARTÍCULO CUARTO.- Los titulares de las autorizaciones otorgadas con anterioridad a la expedición
 de esta Ley, no serán afectados por virtud de la entrada en vigor de este ordenamiento en los derechos y
 obligaciones consignados en las mismas.
@@ -2121,6 +2109,17 @@ aprobará las plazas que sean necesarias para el funcionamiento de la Secretarí
 CIBIOGEM, con cargo a los recursos que tenga aprobada dicha Comisión, así como aquellos que las
 dependencias y entidades que integran dicha Comisión, tengan aprobados para dichos fines, en los
 términos de las disposiciones aplicables.
+
+42 de 44
+
+LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 18-03-2005
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Las acciones que se deriven del cumplimiento de esta Ley y demás disposiciones que de ella deriven,
 se atenderán con cargo a la disponibilidad presupuestaria aprobada para tal efecto a las dependencias y
 entidades de la Administración Pública Federal que integran la CIBIOGEM.
@@ -2151,17 +2150,6 @@ ser presentados a los Comités Consultivos Nacionales de Normalización correspo
 Programa Nacional de Normalización, dentro de un plazo no mayor a seis meses contados a partir de la
 entrada en vigor del presente ordenamiento, de conformidad y para los efectos establecidos en la Ley
 Federal sobre Metrología y Normalización.
-
-43 de 44
-
-LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 18-03-2005
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Los anteproyectos de las demás normas oficiales mexicanas a que se refiere esta Ley, se presentarán
 dentro del plazo de un año contado a partir de la entrada en vigor del presente ordenamiento, para los
 efectos señalados en el párrafo anterior.
@@ -2173,6 +2161,17 @@ contado a partir de la entrada en vigor del presente ordenamiento, a efecto de e
 correspondientes.
 ARTÍCULO DECIMOSEGUNDO.- Se derogan todas las disposiciones legales que se opongan a la
 presente Ley.
+
+43 de 44
+
+LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 18-03-2005
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 México, D.F., a 15 de febrero de 2005.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Diego
 Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I.
 Castellanos Cortés, Secretaria.- Rúbricas."
