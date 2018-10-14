@@ -312,8 +312,6 @@ Artículo 18.- El autor es el único, primigenio y perpetuo titular de los derec
 de su creación.
 Artículo 19.- El derecho moral se considera unido al autor y es inalienable, imprescriptible,
 irrenunciable e inembargable.
-Artículo 20.- Corresponde el ejercicio del derecho moral, al propio creador de la obra y a sus
-herederos. En ausencia de éstos, o bien en caso de obras del dominio público, anónimas o de las
 
 5 de 70
 
@@ -325,6 +323,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo 20.- Corresponde el ejercicio del derecho moral, al propio creador de la obra y a sus
+herederos. En ausencia de éstos, o bien en caso de obras del dominio público, anónimas o de las
 protegidas por el Título VII de la presente Ley, el Estado los ejercerá conforme al artículo siguiente,
 siempre y cuando se trate de obras de interés para el patrimonio cultural nacional.
 Artículo 21.- Los titulares de los derechos morales podrán en todo tiempo:
@@ -373,7 +373,6 @@ Artículo 26.- El autor es el titular originario del derecho patrimonial y sus h
 por cualquier título serán considerados titulares derivados.
 Artículo 26 bis.- El autor y su causahabiente gozarán del derecho a percibir una regalía por la
 comunicación o transmisión pública de su obra por cualquier medio. El derecho del autor es irrenunciable.
-Esta regalía será pagada directamente por quien realice la comunicación o transmisión pública de las
 
 6 de 70
 
@@ -385,6 +384,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Esta regalía será pagada directamente por quien realice la comunicación o transmisión pública de las
 obras directamente al autor, o a la sociedad de gestión colectiva que los represente, con sujeción a lo
 previsto por los Artículos 200 y 202 Fracciones V y VI de la Ley.
 El importe de las regalías deberá convenirse directamente entre el autor, o en su caso, la Sociedad de
@@ -1336,8 +1336,6 @@ Capítulo V
 De los Productores de Videogramas
 Artículos 135.- Se considera videograma a la fijación de imágenes asociadas, con o sin sonido
 incorporado, que den sensación de movimiento, o de una representación digital de tales imágenes de una
-obra audiovisual o de la representación o ejecución de otra obra o de una expresión del folclor, así como
-de otras imágenes de la misma clase, con o sin sonido.
 
 22 de 70
 
@@ -1349,6 +1347,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+obra audiovisual o de la representación o ejecución de otra obra o de una expresión del folclor, así como
+de otras imágenes de la misma clase, con o sin sonido.
 Artículo 136.- Productor de videogramas es la persona física o moral que fija por primera vez
 imágenes asociadas, con o sin sonido incorporado, que den sensación de movimiento, o de una
 representación digital de tales imágenes, constituyan o no una obra audiovisual.
@@ -1399,9 +1399,6 @@ Diferidas: las que portan programas o eventos previamente fijados.
 
 Artículo 144.- Los organismos de radiodifusión tendrán el derecho de autorizar o prohibir respecto de
 sus emisiones:
-I.
-
-La retransmisión;
 
 23 de 70
 
@@ -1412,6 +1409,10 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+I.
+
+La retransmisión;
 
 II.
 
@@ -1468,7 +1469,6 @@ aprobados por México.
 Artículo reformado DOF 17-12-2015
 
 Capítulo II
-De la Limitación a los Derechos Patrimoniales
 
 24 de 70
 
@@ -1480,6 +1480,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+De la Limitación a los Derechos Patrimoniales
 Artículo 148.- Las obras literarias y artísticas ya divulgadas podrán utilizarse, siempre que no se
 afecte la explotación normal de la obra, sin autorización del titular del derecho patrimonial y sin
 remuneración, citando invariablemente la fuente y sin alterar la obra, sólo en los siguientes casos:
@@ -1543,8 +1544,6 @@ La grabación sólo dará derecho a una sola emisión.
 
 La grabación y fijación de la imagen y el sonido realizada en las condiciones que antes se mencionan,
 no obligará a ningún pago adicional distinto del que corresponde por el uso de las obras.
-Las disposiciones de esta fracción no se aplicarán en caso de que los autores o los artistas tengan
-celebrado convenio de carácter oneroso que autorice las emisiones posteriores.
 
 25 de 70
 
@@ -1556,6 +1555,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Las disposiciones de esta fracción no se aplicarán en caso de que los autores o los artistas tengan
+celebrado convenio de carácter oneroso que autorice las emisiones posteriores.
 Artículo 150.- No se causarán regalías por ejecución pública cuando concurran de manera conjunta
 las siguientes circunstancias:
 I.
@@ -1607,7 +1608,6 @@ haya agotado.
 
 Capítulo II
 De los Símbolos Patrios
-Artículo 155.- El Estado Mexicano es el titular de los derechos morales sobre los símbolos patrios.
 
 26 de 70
 
@@ -1619,6 +1619,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo 155.- El Estado Mexicano es el titular de los derechos morales sobre los símbolos patrios.
 Artículo 156.- El uso de los símbolos patrios deberá apegarse a lo establecido por la Ley sobre el
 Escudo, la Bandera y el Himno Nacionales.
 
@@ -1660,9 +1661,6 @@ II.
 Los compendios, arreglos, traducciones, adaptaciones u otras versiones de obras literarias o
 artísticas, aun cuando no se compruebe la autorización concedida por el titular del derecho
 patrimonial para divulgarla.
-Esta inscripción no faculta para publicar o usar en forma alguna la obra registrada, a menos de
-que se acredite la autorización correspondiente. Este hecho se hará constar tanto en la
-inscripción como en las certificaciones que se expidan;
 
 27 de 70
 
@@ -1674,6 +1672,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Esta inscripción no faculta para publicar o usar en forma alguna la obra registrada, a menos de
+que se acredite la autorización correspondiente. Este hecho se hará constar tanto en la
+inscripción como en las certificaciones que se expidan;
 III.
 
 Las escrituras y estatutos de las diversas sociedades de gestión colectiva y las que los reformen o
@@ -1726,14 +1727,6 @@ a)
 
 Lo que no es objeto de protección conforme al artículo 14 de esta Ley;
 
-b)
-
-Las obras que son del dominio público;
-
-c)
-
-Lo que ya esté inscrito en el Registro;
-
 28 de 70
 
 LEY FEDERAL DEL DERECHO DE AUTOR
@@ -1743,6 +1736,14 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+b)
+
+Las obras que son del dominio público;
+
+c)
+
+Lo que ya esté inscrito en el Registro;
 
 d)
 
@@ -1790,9 +1791,6 @@ apertura y el encargado expedirá las certificaciones que correspondan.
 Artículo 171.- Cuando dos a más personas hubiesen adquirido los mismos derechos respecto a una
 misma obra, prevalecerá la autorización o cesión inscrita en primer término, sin perjuicio del derecho de
 impugnación del registro.
-Artículo 172.- Cuando el encargado del registro detecte que la oficina a su cargo ha efectuado una
-inscripción por error, iniciará de oficio un procedimiento de cancelación o corrección de la inscripción
-correspondiente, respetando la garantía de audiencia de los posibles afectados.
 
 29 de 70
 
@@ -1803,6 +1801,10 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+Artículo 172.- Cuando el encargado del registro detecte que la oficina a su cargo ha efectuado una
+inscripción por error, iniciará de oficio un procedimiento de cancelación o corrección de la inscripción
+correspondiente, respetando la garantía de audiencia de los posibles afectados.
 
 Capítulo II
 De las Reservas de Derechos al Uso Exclusivo
@@ -1850,8 +1852,6 @@ una nueva reserva.
 Artículo 180.- El Instituto proporcionará a los titulares o sus representantes, o a quien acredite tener
 interés jurídico, copias simples o certificadas de las resoluciones que se emitan en cualquiera de los
 expedientes de reservas de derechos otorgadas.
-Artículo 181.- Los titulares de las reservas de derechos deberán notificar al Instituto las transmisiones
-de los derechos que amparan los certificados correspondientes.
 
 30 de 70
 
@@ -1863,6 +1863,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo 181.- Los titulares de las reservas de derechos deberán notificar al Instituto las transmisiones
+de los derechos que amparan los certificados correspondientes.
 Artículo 182.- El Instituto realizará las anotaciones y, en su caso, expedirá las constancias respectivas
 en los supuestos siguientes:
 I.
@@ -1924,7 +1926,6 @@ requerirá declaración administrativa por parte del Instituto.
 Artículo 187.- Los procedimientos de nulidad y cancelación previstos en este capítulo, se
 substanciarán y resolverán de conformidad con las disposiciones que para tal efecto se establezcan en el
 Reglamento de la presente Ley.
-Artículo 188.- No son materia de reserva de derechos:
 
 31 de 70
 
@@ -1936,6 +1937,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo 188.- No son materia de reserva de derechos:
 I.
 
 Los títulos, los nombres, las denominaciones, las características físicas o psicológicas, o las
@@ -1998,8 +2000,6 @@ VIII. Los nombres o denominaciones de países, ciudades, poblaciones o de cualqu
 territorial, política o geográfica, o sus gentilicios y derivaciones, utilizados en forma aislada.
 Artículo 189.- La vigencia del certificado de la reserva de derechos otorgada a títulos de publicaciones
 o difusiones periódicas será de un año, contado a partir de la fecha de su expedición.
-Para el caso de publicaciones periódicas, el certificado correspondiente se expedirá con
-independencia de cualquier otro documento que se exija para su circulación.
 
 32 de 70
 
@@ -2011,6 +2011,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Para el caso de publicaciones periódicas, el certificado correspondiente se expedirá con
+independencia de cualquier otro documento que se exija para su circulación.
 Artículo 190.- La vigencia del certificado de la reserva de derechos será de cinco años contados a
 partir de la fecha de su expedición cuando se otorgue a:
 I.
@@ -2056,8 +2058,6 @@ Artículo 194.- La autorización podrá ser revocada por el Instituto si existie
 obligaciones que esta Ley establece para las sociedades de gestión colectiva o si se pusiese de
 manifiesto un conflicto entre los propios socios que dejara acéfala o sin dirigencia a la sociedad, de tal
 forma que se afecte el fin y objeto de la misma en detrimento de los derechos de los asociados. En los
-supuestos mencionados, deberá mediar un previo apercibimiento del Instituto, que fijará un plazo no
-mayor a tres meses para subsanar o corregir los hechos señalados.
 
 33 de 70
 
@@ -2069,6 +2069,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+supuestos mencionados, deberá mediar un previo apercibimiento del Instituto, que fijará un plazo no
+mayor a tres meses para subsanar o corregir los hechos señalados.
 Artículo 195.- Las personas legitimadas para formar parte de una sociedad de gestión colectiva
 podrán optar libremente entre afiliarse a ella o no; asimismo, podrán elegir entre ejercer sus derechos
 patrimoniales en forma individual, por conducto de apoderado o a través de la sociedad.
@@ -2116,8 +2118,6 @@ cláusula especial para presentar querellas o desistirse de ellas, expedido a su
 inscrito en el Instituto, sin que sea aplicable lo dispuesto por el artículo 120 del Código Federal de
 Procedimientos Penales y sin perjuicio de que los autores y que los titulares de derechos derivados
 puedan coadyuvar personalmente con la sociedad de gestión colectiva que corresponda. En el caso de
-extranjeros residentes fuera de la República Mexicana se estará a lo establecido en los convenios de
-reciprocidad respectivos.
 
 34 de 70
 
@@ -2129,6 +2129,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+extranjeros residentes fuera de la República Mexicana se estará a lo establecido en los convenios de
+reciprocidad respectivos.
 Artículo 201.- Se deberán celebrar por escrito todos los actos, convenios y contratos entre las
 sociedades de gestión colectiva y los autores, los titulares de derechos patrimoniales o los titulares de
 derechos conexos, en su caso, así como entre dichas sociedades y los usuarios de las obras,
@@ -2184,11 +2186,6 @@ organismos directivos y de vigilancia, sus administradores y apoderados, todo el
 treinta días siguientes a su aprobación, celebración, elección o nombramiento, según
 corresponda;
 
-IV. Dar trato igual a todos los miembros;
-V.
-
-Dar trato igual a todos los usuarios;
-
 35 de 70
 
 LEY FEDERAL DEL DERECHO DE AUTOR
@@ -2198,6 +2195,11 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+IV. Dar trato igual a todos los miembros;
+V.
+
+Dar trato igual a todos los usuarios;
 
 VI. Negociar el monto de las regalías que corresponda pagar a los usuarios del repertorio que
 administran y, en caso de no llegar a un acuerdo, proponer al Instituto la adopción de una tarifa
@@ -2255,8 +2257,6 @@ V.
 
 Las condiciones para la adquisición y pérdida de la calidad de socio;
 
-VI. Los derechos y deberes de los socios;
-
 36 de 70
 
 LEY FEDERAL DEL DERECHO DE AUTOR
@@ -2267,6 +2267,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+VI. Los derechos y deberes de los socios;
 VII. El régimen de voto:
 A)
 
@@ -2319,9 +2320,6 @@ conexos.
 Artículo reformado DOF 17-12-2015
 
 Artículo 209.- Son funciones del Instituto:
-I.
-
-Proteger y fomentar el derecho de autor;
 
 37 de 70
 
@@ -2332,6 +2330,10 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+I.
+
+Proteger y fomentar el derecho de autor;
 
 II.
 
@@ -2389,9 +2391,6 @@ TITULO XI
 De los Procedimientos
 Capítulo I
 Del Procedimiento ante Autoridades Judiciales
-Artículo 213.- Los Tribunales Federales conocerán de las controversias que se susciten con motivo de
-la aplicación de esta Ley, pero cuando dichas controversias sólo afecten intereses particulares, podrán
-conocer de ellas, a elección del actor, los tribunales de los Estados y del Distrito Federal.
 
 38 de 70
 
@@ -2403,6 +2402,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo 213.- Los Tribunales Federales conocerán de las controversias que se susciten con motivo de
+la aplicación de esta Ley, pero cuando dichas controversias sólo afecten intereses particulares, podrán
+conocer de ellas, a elección del actor, los tribunales de los Estados y del Distrito Federal.
 Las acciones civiles que se ejerciten se fundarán, tramitarán y resolverán conforme a lo establecido en
 esta Ley y en sus reglamentos, siendo supletorio el Código Federal de Procedimientos Civiles ante
 Tribunales Federales y la legislación común ante los Tribunales del orden común.
@@ -2442,8 +2444,6 @@ Párrafo adicionado DOF 01-06-2018
 
 Artículo 216.- Las autoridades judiciales darán a conocer al Instituto la iniciación de cualquier juicio en
 materia de derechos de autor.
-Asimismo, se enviará al Instituto una copia autorizada de todas las resoluciones firmes que en
-cualquier forma modifiquen, graven, extingan o confirmen los derechos de autor sobre una obra u obras
 
 39 de 70
 
@@ -2455,6 +2455,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Asimismo, se enviará al Instituto una copia autorizada de todas las resoluciones firmes que en
+cualquier forma modifiquen, graven, extingan o confirmen los derechos de autor sobre una obra u obras
 determinadas. En vista de estos documentos se harán en el registro las anotaciones provisionales o
 definitivas que correspondan.
 Artículo 216 bis.- La reparación del daño material y/o moral así como la indemnización por daños y
@@ -2503,9 +2505,6 @@ V.
 Durante la junta de avenencia, el Instituto no podrá hacer determinación alguna sobre el fondo del
 asunto, pero si podrá participar activamente en la conciliación;
 
-VI. En caso de no lograrse la avenencia, el Instituto exhortará a las partes para que se acojan al
-arbitraje establecido en el Capítulo III de este Título;
-
 40 de 70
 
 LEY FEDERAL DEL DERECHO DE AUTOR
@@ -2516,6 +2515,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+VI. En caso de no lograrse la avenencia, el Instituto exhortará a las partes para que se acojan al
+arbitraje establecido en el Capítulo III de este Título;
 Las actuaciones dentro de este procedimiento tendrán el carácter de confidenciales y, por lo tanto, las
 constancias de las mismas sólo serán enteradas a las partes del conflicto o a las autoridades
 competentes que las soliciten.
@@ -2576,9 +2577,6 @@ V.
 
 No haber sido sentenciado por delito doloso grave;
 
-VI. No ser pariente consanguíneo o por afinidad de alguna de las partes hasta el cuarto grado, o de
-los directivos en caso de tratarse de persona moral, y
-
 41 de 70
 
 LEY FEDERAL DEL DERECHO DE AUTOR
@@ -2589,6 +2587,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+VI. No ser pariente consanguíneo o por afinidad de alguna de las partes hasta el cuarto grado, o de
+los directivos en caso de tratarse de persona moral, y
 VII. No ser servidor público.
 Artículo 224.- El plazo máximo del arbitraje será de 60 días, que comenzará a computarse a partir del
 día siguiente a la fecha señalada en el documento que contenga la aceptación de los árbitros.
@@ -2637,10 +2637,6 @@ III.
 Ostentarse como sociedad de gestión colectiva sin haber obtenido el registro correspondiente
 ante el Instituto;
 
-IV. No proporcionar, sin causa justificada, al Instituto, siendo administrador de una sociedad de
-gestión colectiva los informes y documentos a que se refieren los artículos 204 fracción IV y 207
-de la presente Ley;
-
 42 de 70
 
 LEY FEDERAL DEL DERECHO DE AUTOR
@@ -2651,6 +2647,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+IV. No proporcionar, sin causa justificada, al Instituto, siendo administrador de una sociedad de
+gestión colectiva los informes y documentos a que se refieren los artículos 204 fracción IV y 207
+de la presente Ley;
 V.
 
 No insertar en una obra publicada las menciones a que se refiere el artículo 17 de la presente
@@ -2694,15 +2693,6 @@ Capítulo II
 De las Infracciones en Materia de Comercio
 Artículo 231.- Constituyen infracciones en materia de comercio las siguientes conductas cuando sean
 realizadas con fines de lucro directo o indirecto:
-I.
-
-Comunicar o utilizar públicamente una obra protegida por cualquier medio, y de cualquier forma
-sin la autorización previa y expresa del autor, de sus legítimos herederos o del titular del derecho
-patrimonial de autor;
-
-II.
-
-Utilizar la imagen de una persona sin su autorización o la de sus causahabientes;
 
 43 de 70
 
@@ -2713,6 +2703,16 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+I.
+
+Comunicar o utilizar públicamente una obra protegida por cualquier medio, y de cualquier forma
+sin la autorización previa y expresa del autor, de sus legítimos herederos o del titular del derecho
+patrimonial de autor;
+
+II.
+
+Utilizar la imagen de una persona sin su autorización o la de sus causahabientes;
 
 III.
 
@@ -2766,12 +2766,6 @@ del artículo anterior.
 
 Se aplicará multa adicional de hasta quinientos días de salario mínimo general vigente por día, a quien
 persista en la infracción.
-Artículo 233.- Si el infractor fuese un editor, organismo de radiodifusión, o cualquier persona física o
-moral que explote obras a escala comercial, la multa podrá incrementarse hasta en un cincuenta por
-ciento respecto de las cantidades previstas en el artículo anterior.
-Artículo 234.- El Instituto Mexicano de la Propiedad Industrial sancionará las infracciones materia de
-comercio con arreglo al procedimiento y las formalidades previstas en los Títulos Sexto y Séptimo de la
-Ley de la Propiedad Industrial.
 
 44 de 70
 
@@ -2783,6 +2777,12 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo 233.- Si el infractor fuese un editor, organismo de radiodifusión, o cualquier persona física o
+moral que explote obras a escala comercial, la multa podrá incrementarse hasta en un cincuenta por
+ciento respecto de las cantidades previstas en el artículo anterior.
+Artículo 234.- El Instituto Mexicano de la Propiedad Industrial sancionará las infracciones materia de
+comercio con arreglo al procedimiento y las formalidades previstas en los Títulos Sexto y Séptimo de la
+Ley de la Propiedad Industrial.
 El Instituto Mexicano de la Propiedad Industrial podrá adoptar las medidas precautorias previstas en la
 Ley de Propiedad Industrial.
 Para tal efecto, el Instituto Mexicano de la Propiedad Industrial, tendrá las facultades de realizar
@@ -2819,10 +2819,6 @@ sus estatutos a lo previsto por la presente Ley en un término de sesenta días 
 entrada en vigor.
 CUARTO.- Los recursos administrativos de reconsideración que se encuentren en trámite, a la entrada
 en vigor de esta Ley, se resolverán conforme a la Ley Federal de Derechos de Autor que se abroga.
-QUINTO.- Los procedimientos de avenencia iniciados bajo la vigencia de la Ley Federal de Derechos
-de Autor que se abroga, se sustanciarán de conformidad con la misma, excepto aquellos cuya notificación
-inicial no se haya efectuado al momento de entrada en vigor de la presente Ley, los cuales se sujetarán a
-ésta.
 
 45 de 70
 
@@ -2834,6 +2830,10 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+QUINTO.- Los procedimientos de avenencia iniciados bajo la vigencia de la Ley Federal de Derechos
+de Autor que se abroga, se sustanciarán de conformidad con la misma, excepto aquellos cuya notificación
+inicial no se haya efectuado al momento de entrada en vigor de la presente Ley, los cuales se sujetarán a
+ésta.
 SEXTO.- Las reservas de derechos otorgadas bajo la vigencia de la Ley Federal de Derechos de Autor
 que se abroga, continuarán en vigor en los términos señalados en la misma, pero la simple comprobación
 de uso de la reserva, cualquiera que sea su naturaleza, sujetará la misma a las disposiciones de la
