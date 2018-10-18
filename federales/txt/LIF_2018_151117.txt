@@ -1327,13 +1327,15 @@ Endeudamiento externo:
 
 01.
 
-0.0
-
 Endeudamiento externo del Gobierno Federal.
+
+0.0
 
 3.
 
 Déficit de organismos y empresas de control directo.
+
+-65,263.4
 
 4.
 
@@ -1341,7 +1343,6 @@ Déficit de empresas productivas del Estado.
 
 Informativo: Endeudamiento neto del Gobierno Federal (10.1.01+10.2.01)
 
--65,263.4
 61,414.2
 470,533.6
 
