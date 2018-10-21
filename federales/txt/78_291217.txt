@@ -1306,7 +1306,6 @@ Marco de las Naciones Unidas sobre el Cambio Climático. El valor de dichos bono
 corresponda a su valor de mercado en el momento en que se pague el impuesto. La entrega de dichos
 bonos y la determinación de su valor se realizará de conformidad con las reglas de carácter general que
 al efecto expida la Secretaría de Hacienda y Crédito Público.
-
 Artículo 5o.-A. Los fabricantes, productores, envasadores o importadores, que a través de
 comisionistas, mediadores, agentes, representantes, corredores, consignatarios o distribuidores,
 enajenen los bienes a que se refieren los incisos A), B), C), F), I) y J) de la fracción I, del artículo 2o. de
@@ -2474,15 +2473,16 @@ documentación que sea necesaria para constatar el uso adecuado de los marbetes 
 hayan sido entregados, para lo cual se les otorgará un plazo de 10 días, apercibiéndoles que, de no
 hacerlo en ese plazo, se les tendrá por desistidos de la solicitud de marbetes o precintos que, en su caso,
 hubieren formulado.
-Nota: Por decreto publicado en el Diario Oficial de la Federación el 1º de enero de 2002, se derogó el Título II denominado “De
-las Bebidas Alcohólicas” con sus artículos 26-A; 26-B; 26-C; 26-D; 26-E; 26-F; 26-G; 26-H; 26-I; 26-J; 26-K; 26-L; 26-LL; 26-M; 26N; 26-Ñ; 26-O y 26-P.
+Nota: Por decreto publicado en el Diario Oficial de la Federación el 1º de enero de 2002, se derogó el Título II
+denominado “De las Bebidas Alcohólicas” con sus artículos 26-A; 26-B; 26-C; 26-D; 26-E; 26-F; 26-G; 26-H; 26-I; 26J; 26-K; 26-L; 26-LL; 26-M; 26-N; 26-Ñ; 26-O y 26-P.
 
 TITULO II
 De las Bebidas Alcohólicas
-(Se deroga).
+(Se deroga)
 
 CAPITULO I
 Disposiciones Generales
+(Se deroga)
 Artículo 26-A.- (Se deroga).
 Artículo 26-B.- (Se deroga).
 Artículo 26-C- (Se deroga).
@@ -2492,19 +2492,20 @@ Artículo 26-F.- (Se deroga).
 
 CAPITULO II
 De la Producción o Envasamiento
+(Se deroga)
 Artículo 26-G.- (Se deroga).
 Artículo 26-H.- (Se deroga).
 Artículo 26-I.- (Se deroga).
 
 CAPITULO III
 De la Importación
+(Se deroga)
 Artículo 26-J.- (Se deroga).
 Artículo 26-K.- (Se deroga).
 
 CAPITULO IV
 De la Exportación
-Artículo 26-L.- (Se deroga).
-Artículo 26-LL.- (Se deroga).
+(Se deroga)
 
 37 de 127
 
@@ -2516,22 +2517,28 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo 26-L.- (Se deroga).
+Artículo 26-LL.- (Se deroga).
+
 CAPITULO V
 De las Obligaciones de los Contribuyentes
+(Se deroga)
 Artículo 26-M.- (Se deroga).
 
 CAPITULO VI
 De las Facultades de las Autoridades
+(Se deroga)
 Artículo 26-N.- (Se deroga).
 Artículo 26-Ñ.- (Se deroga).
 Artículo 26-O.- (Se deroga).
 
 CAPITULO VII
 De las Definiciones
+(Se deroga)
 Artículo 26-P.- (Se deroga).
-Nota: Por decreto publicado en el Diario Oficial de la Federación el 1º de enero de 2002, se reformó la denominación de Título
-III “De las Participaciones a las Entidades Federativas” para quedar como Capítulo VII “De las Participaciones a las Entidades
-Federativas”
+Nota: Por decreto publicado en el Diario Oficial de la Federación el 1º de enero de 2002, se reformó la
+denominación de Título III “De las Participaciones a las Entidades Federativas” para quedar como Capítulo VII “De
+las Participaciones a las Entidades Federativas”
 
 CAPITULO VII
 De las Participaciones a las Entidades Federativas
@@ -2557,10 +2564,6 @@ Los actos de organización de los contribuyentes del impuesto establecido en est
 
 III.- La expedición o emisión de títulos, acciones u obligaciones y las operaciones relativas a los
 mismos por los contribuyentes del impuesto que esta Ley establece.
-El Distrito Federal no establecerá ni mantendrá en vigor los gravámenes a que se refiere este artículo.
-La prohibición a que se refiere el presente artículo no será aplicable respecto de los impuestos locales
-o municipales que establezcan las entidades federativas a las actividades a que se refiere el artículo 2o.,
-fracción II, inciso B) de esta Ley. No se incluirá en la recaudación federal participable a que se refiere la
 
 38 de 127
 
@@ -2572,6 +2575,10 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+El Distrito Federal no establecerá ni mantendrá en vigor los gravámenes a que se refiere este artículo.
+La prohibición a que se refiere el presente artículo no será aplicable respecto de los impuestos locales
+o municipales que establezcan las entidades federativas a las actividades a que se refiere el artículo 2o.,
+fracción II, inciso B) de esta Ley. No se incluirá en la recaudación federal participable a que se refiere la
 Ley de Coordinación Fiscal, el impuesto especial sobre producción y servicios correspondiente a las
 actividades mencionadas.
 Artículo 28.- Los Estados que no se adhieran al Sistema Nacional de Coordinación Fiscal participarán
@@ -2602,11 +2609,6 @@ excepción de las disposiciones contenidas en los incisos A, B y C de la fracci�
 ordenamiento, relativas a la enajenación e importación de aguas envasadas y refrescos en envases
 cerrados; jarabes o concentrados para preparar refrescos que se expendan en envases abiertos
 utilizando aparatos eléctricos o mecánicos; y concentrados, polvos, jarabes, esencias o extractos de
-sabores, destinados al consumidor final, que al diluirse permitan obtener refrescos; las cuales entrarán en
-vigor el primero de enero de 1982.
-Artículo Segundo.- Al entrar en vigor la presente Ley, quedarán abrogadas las disposiciones
-siguientes:
-I.- Ley del Impuesto sobre Venta de Gasolina.
 
 39 de 127
 
@@ -2618,6 +2620,11 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+sabores, destinados al consumidor final, que al diluirse permitan obtener refrescos; las cuales entrarán en
+vigor el primero de enero de 1982.
+Artículo Segundo.- Al entrar en vigor la presente Ley, quedarán abrogadas las disposiciones
+siguientes:
+I.- Ley del Impuesto sobre Venta de Gasolina.
 II.- Ley del Impuesto sobre Seguros.
 III.- Ley del Impuesto sobre Tabacos Labrados.
 IV.- Ley del Impuesto sobre Teléfonos.
@@ -2652,10 +2659,6 @@ Crédito Público, concedida en los términos de la Ley Federal de Impuestos a l
 Alcohol, Aguardiente y Envasamiento de Bebidas Alcohólicas, hayan diferido el entero del impuesto hasta
 que las bebidas sean enajenadas en territorio nacional, pagarán el impuesto en los términos del Artículo
 Cuarto Transitorio de esta Ley.
-Artículo Sexto.- A partir de la fecha en que entre en vigor esta Ley, quedan sin efecto las
-disposiciones administrativas de carácter general y las resoluciones a consultas, interpretaciones,
-autorizaciones o permisos otorgados a título particular, en materia de los impuestos establecidos en las
-leyes y reglamentos que se abrogan o derogan.
 
 40 de 127
 
@@ -2667,6 +2670,10 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo Sexto.- A partir de la fecha en que entre en vigor esta Ley, quedan sin efecto las
+disposiciones administrativas de carácter general y las resoluciones a consultas, interpretaciones,
+autorizaciones o permisos otorgados a título particular, en materia de los impuestos establecidos en las
+leyes y reglamentos que se abrogan o derogan.
 Durante el año de 1981, lo dispuesto en el párrafo anterior no es aplicable a las disposiciones que
 quedan en vigor durante dicho año en los términos del Artículo Tercero Transitorio de esta Ley.
 Artículo Séptimo.- Los contribuyentes del impuesto establecido en esta Ley, que durante 1981
@@ -2705,12 +2712,6 @@ Los contribuyentes obligados al pago del impuesto establecido en esta Ley, por l
 importación de brandies que contengan más del 90% de aguardiente de uva, durante el año de 1981
 aplicarán en vez de la tasa del 40% establecida en el inciso G, fracción I del artículo 2o. de esta Ley, la
 tasa del 37%.
-Artículo Decimoprimero.- En tanto se expida el reglamento, los importadores que introduzcan al país
-bebidas alcohólicas en recipientes mayores, requerirán autorización de la Secretaría de Hacienda y
-Crédito Público, para cumplir con los requisitos de información y control que señala la fracción V del
-artículo 13 de esta Ley.
-Los importadores, para adherir los marbetes a los envases menores en sus almacenes, bodegas o
-depósitos dentro de los quince días siguientes al día en que se retiren los bienes de la aduana, en tanto
 
 41 de 127
 
@@ -2722,6 +2723,12 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo Decimoprimero.- En tanto se expida el reglamento, los importadores que introduzcan al país
+bebidas alcohólicas en recipientes mayores, requerirán autorización de la Secretaría de Hacienda y
+Crédito Público, para cumplir con los requisitos de información y control que señala la fracción V del
+artículo 13 de esta Ley.
+Los importadores, para adherir los marbetes a los envases menores en sus almacenes, bodegas o
+depósitos dentro de los quince días siguientes al día en que se retiren los bienes de la aduana, en tanto
 se expida el reglamento, requerirán autorización de la Secretaría de Hacienda y Crédito Público la cual no
 será necesaria cuando se esté gozando de autorización concedida para este efecto en los términos de la
 Ley Federal del Impuesto a las Industrias del Azúcar, Alcohol, Aguardiente y Envasamiento de Bebidas
