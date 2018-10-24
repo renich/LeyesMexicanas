@@ -463,6 +463,8 @@ editen con referencia a asuntos militares y generales; y de los periódicos ofic
 Artículo reformado DOF 16-05-2016
 
 CAPITULO III BIS
+De la Coordinación de Servicios Periciales y Ciencias Forenses.
+Capítulo adicionado DOF 16-05-2016
 
 7 de 141
 
@@ -473,9 +475,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-De la Coordinación de Servicios Periciales y Ciencias Forenses.
-Capítulo adicionado DOF 16-05-2016
 
 Artículo 35 Bis.- La Coordinación de Servicios Periciales y Ciencias Forenses es una unidad
 administrativa con independencia técnica, organizada y estructurada con personal con preparación en las
@@ -597,6 +596,11 @@ a)
 Las formas de terminación de la investigación, excepto la aplicación de criterios de
 oportunidad.
 
+b)
+
+Las determinaciones que tome al concluir la investigación respecto al sobreseimiento, las
+soluciones alternas y el procedimiento abreviado.
+
 9 de 141
 
 CÓDIGO DE JUSTICIA MILITAR
@@ -607,12 +611,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-b)
-
 V.
-
-Las determinaciones que tome al concluir la investigación respecto al sobreseimiento, las
-soluciones alternas y el procedimiento abreviado.
 
 De un Fiscal Militar de Asuntos Constitucionales y Legales, encargado de supervisar que el
 personal de la Fiscalía General, en cumplimiento de sus atribuciones y facultades, atiendan los
@@ -667,6 +666,8 @@ Artículo reformado DOF 16-05-2016
 
 CAPITULO III
 Del Laboratorio Científico de Investigaciones
+(Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 10 de 141
 
@@ -677,9 +678,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-(Se deroga)
-Capítulo derogado DOF 16-05-2016
 
 Artículo 46. (Se deroga).
 Artículo derogado DOF 16-05-2016
@@ -814,6 +812,12 @@ Proporcionar seguridad a víctimas, ofendidos o testigos del delito, cuando lo c
 necesario el Juez o el Ministerio Público;
 Fracción reformada DOF 16-05-2016
 
+XII.
+
+Requerir a las autoridades competentes y solicitar a las personas físicas o colectivas, informes
+y documentos para fines de la investigación. En caso de negativa, informará al Ministerio
+Público para que determine lo conducente;
+
 12 de 141
 
 CÓDIGO DE JUSTICIA MILITAR
@@ -824,11 +828,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-XII.
-
-Requerir a las autoridades competentes y solicitar a las personas físicas o colectivas, informes
-y documentos para fines de la investigación. En caso de negativa, informará al Ministerio
-Público para que determine lo conducente;
 Fracción adicionada DOF 16-05-2016
 
 XIII.
@@ -948,6 +947,11 @@ De la competencia
 CAPITULO I
 Disposiciones preliminares
 Artículo 57.- Son delitos contra la disciplina militar:
+I.-
+
+Los especificados en el Libro Segundo de este Código, con las excepciones previstas en el
+artículo 337 Bis;
+Fracción reformada DOF 13-06-2014
 
 14 de 141
 
@@ -958,12 +962,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-I.-
-
-Los especificados en el Libro Segundo de este Código, con las excepciones previstas en el
-artículo 337 Bis;
-Fracción reformada DOF 13-06-2014
 
 II.-
 
@@ -1156,6 +1154,7 @@ Fracción reformada DOF 09-04-2012
 
 VI. proponer a la Secretaría de la Defensa Nacional los cambios de residencia y jurisdicción de
 funcionarios y empleados de justicia militar, según lo exijan las necesidades del servicio;
+Fracción reformada DOF 09-04-2012
 
 17 de 141
 
@@ -1166,8 +1165,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Fracción reformada DOF 09-04-2012
 
 VII. Suministrar al Fiscal General de Justicia Militar, los datos necesarios para la formación de la
 estadística criminal militar;
@@ -1212,6 +1209,11 @@ correspondencia y demás documentos que se reciban para que se despachen, desde 
 que sean de la competencia del mismo presidente, y ordene, éste, el pase de los demás al
 Tribunal Superior Militar;
 
+II.
+
+Tomar la votación en cada negocio, haciendo constar quiénes votan en un sentido y quiénes en
+otro;
+
 18 de 141
 
 CÓDIGO DE JUSTICIA MILITAR
@@ -1221,11 +1223,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-II.
-
-Tomar la votación en cada negocio, haciendo constar quiénes votan en un sentido y quiénes en
-otro;
 
 III.
 
@@ -1284,6 +1281,7 @@ Resolver sobre la vinculación a proceso;
 
 VI. Procurar la solución del conflicto a través de mecanismos anticipados de terminación del proceso
 y los medios alternativos de solución de controversias;
+VII. Autorizar y dictar sentencia en el procedimiento abreviado;
 
 19 de 141
 
@@ -1295,7 +1293,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-VII. Autorizar y dictar sentencia en el procedimiento abreviado;
 VIII. Guardar el secreto profesional respecto a la información reservada y confidencial que haya
 obtenido en el desempeño de sus funciones;
 IX. Resolver sobre la suspensión condicional del proceso;
@@ -1346,6 +1343,10 @@ I.
 Controlar que la ejecución de toda pena o medida de seguridad, se realice de conformidad con la
 sentencia definitiva que se haya impuesto;
 
+II.
+
+Ordenar el cumplimiento de la sentencia que determina la privación de la libertad;
+
 20 de 141
 
 CÓDIGO DE JUSTICIA MILITAR
@@ -1355,10 +1356,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-II.
-
-Ordenar el cumplimiento de la sentencia que determina la privación de la libertad;
 
 III.
 
@@ -1420,6 +1417,9 @@ V.
 
 Autorizar las certificaciones que deban asentarse por mandato de la ley o del Juez;
 
+VI. Proporcionar a las partes los expedientes, carpetas y medios electrónicos para su consulta, sin
+que permitan su salida del área para tal fin;
+
 21 de 141
 
 CÓDIGO DE JUSTICIA MILITAR
@@ -1430,8 +1430,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-VI. Proporcionar a las partes los expedientes, carpetas y medios electrónicos para su consulta, sin
-que permitan su salida del área para tal fin;
 VII. Expedir y autorizar las copias de las resoluciones y constancias, contenidas en forma escrita o en
 archivo electrónico y demás que la ley determine o que deban darse en virtud de mandato
 judicial;
@@ -1488,6 +1486,10 @@ IV.
 Nombre de quien o quienes hayan intervenido en la detención. En su caso, grado y adscripción,
 y
 
+V.
+
+Lugar donde será trasladado el detenido.
+
 22 de 141
 
 CÓDIGO DE JUSTICIA MILITAR
@@ -1498,9 +1500,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-V.
-
-Lugar donde será trasladado el detenido.
 Artículo reformado DOF 16-05-2016
 
 Artículo 80. (Se deroga).
@@ -1575,6 +1574,10 @@ XIII.
 
 Velar por el respeto de los derechos humanos en la esfera de su competencia; para el efecto se
 deberá:
+a)
+
+Fomentar entre los servidores públicos de la Institución una cultura de respeto a los
+derechos humanos.
 
 23 de 141
 
@@ -1585,11 +1588,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-a)
-
-Fomentar entre los servidores públicos de la Institución una cultura de respeto a los
-derechos humanos.
 
 b)
 
@@ -1661,6 +1659,11 @@ IV.
 Autorizar a la Policía Ministerial Militar en el marco de una investigación, la entrega vigilada y
 las operaciones encubiertas en términos del Código Militar de Procedimientos Penales;
 
+V.
+
+Autorizar al Ministerio Público la aplicación de los criterios de oportunidad conforme al Código
+Militar de Procedimientos Penales;
+
 24 de 141
 
 CÓDIGO DE JUSTICIA MILITAR
@@ -1670,11 +1673,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-V.
-
-Autorizar al Ministerio Público la aplicación de los criterios de oportunidad conforme al Código
-Militar de Procedimientos Penales;
 
 VI.
 
@@ -1756,6 +1754,11 @@ XI.
 Formular propuestas de cambio de personal de su adscripción para el buen funcionamiento de
 la Fiscalía de su responsabilidad;
 
+XII.
+
+Acordar los asuntos de su competencia con el Fiscal General o el Fiscal General Adjunto,
+según corresponda;
+
 25 de 141
 
 CÓDIGO DE JUSTICIA MILITAR
@@ -1765,11 +1768,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-XII.
-
-Acordar los asuntos de su competencia con el Fiscal General o el Fiscal General Adjunto,
-según corresponda;
 
 XIII.
 
@@ -1927,6 +1925,11 @@ Asistir en forma oportuna a todas las audiencias relativas a la investigación q
 realizando las peticiones en base a los datos y medios de prueba que las sustenten; así como
 los alegatos y objeciones que en cada caso procedan;
 
+XXIII.
+
+Promover las acciones necesarias para que se provea la seguridad y proporcionar el auxilio a
+víctimas u ofendidos de los delitos competencia de la Jurisdicción Militar, testigos, peritos y,
+
 27 de 141
 
 CÓDIGO DE JUSTICIA MILITAR
@@ -1937,13 +1940,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-XXIII.
-
-Promover las acciones necesarias para que se provea la seguridad y proporcionar el auxilio a
-víctimas u ofendidos de los delitos competencia de la Jurisdicción Militar, testigos, peritos y,
 en general, a todos los sujetos que con motivo de su intervención en el procedimiento, cuya
 vida o integridad corporal se encuentren en riesgo inminente;
-
 XXIV.
 
 Canalizar a menores de edad, personas con discapacidad, o adultos mayores que dependan
@@ -1996,6 +1994,11 @@ XL.
 Solicitar el pago de la reparación del daño a favor de la víctima u ofendido del delito, sin
 perjuicio de que éstos lo pudieran solicitar directamente;
 
+XLI.
+
+Actuar en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo,
+honradez y respeto a los derechos humanos reconocidos en la Constitución;
+
 28 de 141
 
 CÓDIGO DE JUSTICIA MILITAR
@@ -2005,11 +2008,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-XLI.
-
-Actuar en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo,
-honradez y respeto a los derechos humanos reconocidos en la Constitución;
 
 XLII.
 

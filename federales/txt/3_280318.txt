@@ -1802,7 +1802,7 @@ recibido, además de la indemnización a favor del comitente de daños y perjuic
 Artículo 290.- El comisionista estará obligado a dar oportunamente noticia a su comitente, de todos
 los hechos o circunstancias que puedan determinarle a revocar o modificar el encargo. Asimismo debe
 dársela sin demora, de la ejecución de dicho encargo.
-Artículo 29l.- El comisionista deberá observar lo establecido en las leyes y reglamentos respecto a la
+Artículo 291.- El comisionista deberá observar lo establecido en las leyes y reglamentos respecto a la
 negociación que se le hubiere confiado, y será responsable de los resultados de su contravención ú
 omisión. Si los contraviniere en virtud de órdenes expresas del comitente, las responsabilidades a que
 haya lugar pesarán sobre ambos.
@@ -3543,11 +3543,11 @@ Artículo 943.- (Se deroga).
 CAPITULO III
 De la Liquidación de las Averías Simples
 (Se deroga).
-Artículo 944
-(Se deroga).
+Artículo 944.- (Se deroga).
 
 LIBRO CUARTO
 TITULO PRIMERO
+De las Quiebras
 
 77 de 233
 
@@ -3559,7 +3559,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-De las Quiebras
 CAPITULO I
 Disposiciones Generales
 (Se deroga).
@@ -3590,6 +3589,7 @@ De los Efectos del Estado de Quiebra
 (Se deroga).
 Artículo 962.- (Se deroga).
 Artículo 963.- (Se deroga).
+Artículo 964.- (Se deroga).
 
 78 de 233
 
@@ -3601,7 +3601,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 964.- (Se deroga).
 Artículo 965.- (Se deroga).
 Artículo 966.- (Se deroga).
 Artículo 967.- (Se deroga).
@@ -3630,6 +3629,8 @@ Artículo 985.- (Se deroga).
 Artículo 986.- (Se deroga).
 Artículo 987.- (Se deroga).
 
+CAPITULO V
+
 79 de 233
 
 CÓDIGO DE COMERCIO
@@ -3640,7 +3641,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-CAPITULO V
 Del Convenio de los Quebrados con sus Acreedores
 (Se deroga).
 Artículo 988.- (Se deroga).
@@ -3671,6 +3671,7 @@ Artículo 1008.- (Se deroga).
 
 CAPITULO VII
 De la Rehabilitación
+(Se deroga).
 
 80 de 233
 
@@ -3682,7 +3683,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-(Se deroga).
 Artículo 1009.- (Se deroga).
 Artículo 1010.- (Se deroga).
 Artículo 1011.- (Se deroga).
@@ -3712,6 +3712,7 @@ Artículo 1026.- (Se deroga).
 Artículo 1027.- (Se deroga).
 Artículo 1028.- (Se deroga).
 Artículo 1029.- (Se deroga).
+Artículo 1030.- (Se deroga).
 
 81 de 233
 
@@ -3723,7 +3724,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 1030.- (Se deroga).
 Artículo 1031.- (Se deroga).
 Artículo 1032.- (Se deroga).
 Artículo 1033.- (Se deroga).
@@ -3757,6 +3757,7 @@ su separación;
 III.- (Se deroga).
 IV.- Las acciones que tengan por objeto exigir la responsabilidad de los agentes de Bolsa o corredores
 de comercio por las obligaciones en que intervengan en razón de su oficio;
+V.- (Se deroga).
 
 82 de 233
 
@@ -3768,7 +3769,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-V.- (Se deroga).
 VI.- Las acciones nacidas de servicios, obras, provisiones o suministros de efectos o de dinero para
 construir, reparar, pertrechar o avituallar los buques o mantener la tripulación;
 VII.- (Se deroga).
@@ -8912,7 +8912,7 @@ El tribunal arbitral no podrá cobrar honorarios adicionales por la interpretaci
 completar su laudo.
 Artículo 1456.- Una vez constituido, el tribunal arbitral podrá requerir a cada una de las partes que
 deposite una suma igual, por concepto de anticipo de honorarios del tribunal arbitral, gastos de viaje y
-demás expensas de los árbitros, y del costo de asesoría paricial o de cualquier otra asistencia requerida
+demás expensas de los árbitros, y del costo de asesoría pericial o de cualquier otra asistencia requerida
 por el tribunal arbitral.
 En el curso de las actuaciones, el tribunal arbitral podrá requerir depósitos adicionales de las partes.
 Cuando una parte lo solicite y el juez consienta en desempeñar esa función, el tribunal arbitral fijará el
