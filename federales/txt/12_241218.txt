@@ -4287,15 +4287,13 @@ reconocimiento aduanero, verificación de mercancías en transporte o visitas do
 CE
 
 
+ME  
   100
  CE  CDV 
-
-¡Error! Marcador no definido. ME  
 donde
 ME
 = Margen de error.
 CE
-
 = Monto total de contribuciones y cuotas compensatorias pagadas por el importador de
 manera espontánea, conforme a la fracción V del artículo 98 de esta Ley, en el ejercicio
 inmediato anterior.
