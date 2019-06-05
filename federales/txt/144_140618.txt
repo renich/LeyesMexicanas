@@ -11,9 +11,6 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 4 de agosto de 193
 TEXTO VIGENTE
 Última reforma publicada DOF 14-06-2018
 
-Nota de vigencia: La adición de un párrafo segundo al artículo 73; y un segundo y tercer párrafos al artículo
-129, publicada en el DOF 14-06-2018, entrará en vigor el 15 de diciembre de 2018.
-
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría
 de Gobernación.
 El C. Presidente Constitucional Substituto de los Estados Unidos Mexicanos, se ha servido dirigirme la
@@ -54,6 +51,9 @@ constituirse como sociedad de capital variable, observándose entonces las dispo
 de esta Ley.
 Fe de erratas al párrafo DOF 28-08-1934. Párrafo reformado DOF 14-03-2016
 
+Artículo 2o.- Las sociedades mercantiles inscritas en el Registro Público de Comercio, tienen
+personalidad jurídica distinta de la de los socios.
+
 1 de 57
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
@@ -64,8 +64,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 2o.- Las sociedades mercantiles inscritas en el Registro Público de Comercio, tienen
-personalidad jurídica distinta de la de los socios.
 Salvo el caso previsto en el artículo siguiente, no podrán ser declaradas nulas las sociedades inscritas
 en el Registro Público de Comercio.
 Las sociedades no inscritas en el Registro Público de Comercio que se hayan exteriorizado como
@@ -108,6 +106,15 @@ Fe de erratas al artículo DOF 28-08-1934. Reformado DOF 11-06-1992, 13-06-2014
 Artículo 6o. La escritura o póliza constitutiva de una sociedad deberá contener:
 Párrafo reformado DOF 13-06-2014
 
+I.-
+
+Los nombres, nacionalidad y domicilio de las personas físicas o morales que constituyan la
+sociedad;
+
+II.-
+
+El objeto de la sociedad;
+
 2 de 57
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
@@ -117,15 +124,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-I.-
-
-Los nombres, nacionalidad y domicilio de las personas físicas o morales que constituyan la
-sociedad;
-
-II.-
-
-El objeto de la sociedad;
 
 III.-
 
@@ -187,6 +185,9 @@ Las personas que celebren operaciones a nombre de la sociedad, antes del registr
 constitutiva, contraerán frente a terceros responsabilidad ilimitada y solidaria por dichas operaciones.
 Artículo 8o.- En caso de que se omitan los requisitos que señalan las fracciones VIII a XIII, inclusive,
 del artículo 6º, se aplicarán las disposiciones relativas de esta Ley.
+Asimismo, las reglas permisivas contenidas en esta Ley no constituirán excepciones a la libertad
+contractual que prevalece en esta materia.
+Párrafo adicionado DOF 13-06-2014
 
 3 de 57
 
@@ -197,10 +198,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Asimismo, las reglas permisivas contenidas en esta Ley no constituirán excepciones a la libertad
-contractual que prevalece en esta materia.
-Párrafo adicionado DOF 13-06-2014
 
 Artículo 8o.-A.- El ejercicio social de las sociedades mercantiles coincidirá con el año de calendario,
 salvo que las mismas queden legalmente constituidas con posterioridad al 1o. de enero del año que
@@ -244,6 +241,11 @@ acordó el otorgamiento del poder y, en su caso, la designación de los miembros
 administración.
 Párrafo adicionado DOF 11-06-1992
 
+Si la sociedad otorgare el poder por conducto de una persona distinta a los órganos mencionados, en
+adición a la relación o inserción indicadas en el párrafo anterior, se deberá dejar acreditado que dicha
+persona tiene las facultades para ello.
+Párrafo adicionado DOF 11-06-1992
+
 4 de 57
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
@@ -253,11 +255,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Si la sociedad otorgare el poder por conducto de una persona distinta a los órganos mencionados, en
-adición a la relación o inserción indicadas en el párrafo anterior, se deberá dejar acreditado que dicha
-persona tiene las facultades para ello.
-Párrafo adicionado DOF 11-06-1992
 
 Artículo 11.- Salvo pacto en contrario, las aportaciones de bienes se entenderán traslativas de
 dominio. El riesgo de la cosa no será a cargo de la sociedad, sino hasta que se le haga la entrega
@@ -294,6 +291,9 @@ mediante aplicación de otras partidas del patrimonio, las pérdidas sufridas en
 anteriores, o haya sido reducido el capital social. Cualquiera estipulación en contrario no producirá efecto
 legal, y tanto la sociedad como sus acreedores podrán repetir por los anticipos o reparticiones de
 utilidades hechas en contravención de este artículo, contra las personas que las hayan recibido, o exigir
+su reembolso a los administradores que las hayan pagado, siendo unas y otros mancomunada y
+solidariamente responsables de dichos anticipos y reparticiones.
+Artículo reformado DOF 23-01-1981
 
 5 de 57
 
@@ -304,10 +304,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-su reembolso a los administradores que las hayan pagado, siendo unas y otros mancomunada y
-solidariamente responsables de dichos anticipos y reparticiones.
-Artículo reformado DOF 23-01-1981
 
 Artículo 20.- Salvo por la sociedad por acciones simplificada, de las utilidades netas de toda
 sociedad, deberá separarse anualmente el cinco por ciento, como mínimo, para formar el fondo de
@@ -353,6 +349,9 @@ bienes de la sociedad y sólo a falta o insuficiencia de éstos, en los bienes d
 Cuando la obligación de los socios se limite al pago de sus aportaciones, la ejecución de la sentencia
 se reducirá al monto insoluto exigible.
 
+CAPITULO II
+De la sociedad en nombre colectivo
+
 6 de 57
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
@@ -363,8 +362,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-CAPITULO II
-De la sociedad en nombre colectivo
 Artículo 25.- Sociedad en nombre colectivo es aquella que existe bajo una razón social y en la que
 todos los socios responden, de modo subsidiario, ilimitada y solidariamente, de las obligaciones sociales.
 Artículo 26.- Las cláusulas del contrato de sociedad que supriman la responsabilidad ilimitada y
@@ -404,6 +401,8 @@ En caso de contravención, la sociedad podrá excluir al infractor, privándolo 
 correspondan en ella y exigirle el importe de los daños y perjuicios.
 Estos derechos se extinguirán en el plazo de tres meses contados desde el día en que la sociedad
 tenga conocimiento de la infracción.
+Artículo 36.- La administración de la sociedad estará a cargo de uno o varios administradores,
+quienes podrán ser socios o personas extrañas a ella.
 
 7 de 57
 
@@ -415,8 +414,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 36.- La administración de la sociedad estará a cargo de uno o varios administradores,
-quienes podrán ser socios o personas extrañas a ella.
 Artículo 37.- Salvo pacto en contrario, los nombramientos y remociones de los administradores se
 harán libremente por la mayoría de votos de los socios.
 Artículo 38.- Todo socio tendrá derecho a separarse, cuando en contra de su voto, el nombramiento
@@ -452,6 +449,8 @@ industriales.
 Artículo 47.- Los socios no administradores podrán nombrar un interventor que vigile los actos de los
 administradores, y tendrán el derecho de examinar el estado de la administración y la contabilidad y
 papeles de la compañía, haciendo las reclamaciones que estimen convenientes.
+Artículo 48.- El capital social no podrá repartirse sino después de la disolución de la compañía y
+previa la liquidación respectiva, salvo pacto en contrario que no perjudique el interés de terceros.
 
 8 de 57
 
@@ -463,8 +462,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 48.- El capital social no podrá repartirse sino después de la disolución de la compañía y
-previa la liquidación respectiva, salvo pacto en contrario que no perjudique el interés de terceros.
 Artículo 49.- Los socios industriales deberán percibir, salvo pacto en contrario, las cantidades que
 periódicamente necesiten para alimentos; en el concepto de que dichas cantidades y épocas de
 percepción serán fijadas por acuerdo de la mayoría de los socios o, en su defecto, por la autoridad
@@ -503,6 +500,9 @@ Artículo 55.- El socio comanditario quedará obligado solidariamente para con l
 las obligaciones de la sociedad en que haya tomado parte en contravención a lo dispuesto en el artículo
 anterior. También será responsable solidariamente para con los terceros, aun en las operaciones en que
 no haya tomado parte, si habitualmente ha administrado los negocios de la sociedad.
+Artículo 56.- Si para los casos de muerte o incapacidad del socio administrador, no se hubiere
+determinado en la escritura social, la manera de substituirlo y la sociedad hubiere de continuar, podrá
+interinamente un socio comanditario, a falta de comanditados, desempeñar los actos urgentes o de mera
 
 9 de 57
 
@@ -514,9 +514,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 56.- Si para los casos de muerte o incapacidad del socio administrador, no se hubiere
-determinado en la escritura social, la manera de substituirlo y la sociedad hubiere de continuar, podrá
-interinamente un socio comanditario, a falta de comanditados, desempeñar los actos urgentes o de mera
 administración durante el término de un mes, contado desde el día en que la muerte o incapacidad se
 hubiere efectuado.
 En estos casos el socio comanditario no es responsable más que de la ejecución de su mandato.
@@ -558,6 +555,8 @@ Artículo reformado DOF 11-06-1992. Fe de erratas DOF 12-06-1992
 Artículo 66.- Cuando la cesión de que trata el artículo anterior se autorice en favor de una persona
 extraña a la sociedad, los socios tendrán el derecho del tanto y gozarán de un plazo de quince días para
 ejercitarlo, contado desde la fecha de la junta en que se hubiere otorgado la autorización. Si fuesen
+varios los socios que quieran usar de este derecho, les competerá a todos ellos en proporción a sus
+aportaciones.
 
 10 de 57
 
@@ -569,8 +568,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-varios los socios que quieran usar de este derecho, les competerá a todos ellos en proporción a sus
-aportaciones.
 Artículo 67.- La transmisión por herencia de las partes sociales, no requerirá el consentimiento de los
 socios, salvo pacto que prevea la disolución de la sociedad por la muerte de uno de ellos, o que disponga
 la liquidación de la parte social que corresponda al socio difunto, en el caso de que la sociedad no
@@ -612,6 +609,8 @@ estará al cuidado de los administradores, quienes responderán personal y solid
 existencia regular y de la exactitud de sus datos.
 Artículo 74.- La administración de las sociedades de responsabilidad limitada estará a cargo de uno o
 más gerentes, que podrán ser socios o personas extrañas a la sociedad, designados temporalmente o
+por tiempo indeterminado. Salvo pacto en contrario, la sociedad tendrá el derecho para revocar en
+cualquier tiempo a sus administradores.
 
 11 de 57
 
@@ -623,8 +622,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-por tiempo indeterminado. Salvo pacto en contrario, la sociedad tendrá el derecho para revocar en
-cualquier tiempo a sus administradores.
 Cuando no aparezca hecha la designación de los gerentes, se observará lo dispuesto en el artículo
 40.
 Artículo 75.- Las resoluciones de los gerentes se tomarán por mayoría de votos, pero si el contrato
@@ -657,6 +654,7 @@ VIII.- Modificar el contrato social.
 IX.- Consentir en las cesiones de partes sociales y en la admisión de nuevos socios.
 X.- Decidir sobre los aumentos y reducciones del capital social.
 XI.- Decidir sobre la disolución de la sociedad, y
+XII.- Las demás que les correspondan conforme a la Ley o al contrato social.
 
 12 de 57
 
@@ -668,7 +666,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-XII.- Las demás que les correspondan conforme a la Ley o al contrato social.
 Artículo 79.- Todo socio tendrá derecho a participar en las decisiones de las asambleas, gozando de
 un voto por cada mil pesos de su aportación o el múltiplo de esta cantidad que se hubiere determinado,
 salvo lo que el contrato social establezca sobre partes sociales privilegiadas.
@@ -711,6 +708,9 @@ Artículo 88.- La denominación se formará libremente, pero será distinta de l
 sociedad y al emplearse irá siempre seguida de las palabras “Sociedad Anónima” o de su abreviatura
 “S.A.”
 
+SECCION PRIMERA
+De la constitución de la sociedad
+
 13 de 57
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
@@ -721,8 +721,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-SECCION PRIMERA
-De la constitución de la sociedad
 Artículo 89.- Para proceder a la constitución de una sociedad anónima se requiere:
 I.- Que haya dos socios como mínimo, y que cada uno de ellos suscriba una acción por lo menos;
 Fracción reformada DOF 11-06-1992
@@ -787,6 +785,10 @@ Establezcan causales de exclusión de socios o para ejercer derechos de separaci
 retiro, o bien, para amortizar acciones, así como el precio o las bases para su
 determinación.
 
+c)
+
+Permitan emitir acciones que:
+
 14 de 57
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
@@ -797,9 +799,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-c)
-
-Permitan emitir acciones que:
 1.
 
 No confieran derecho de voto o que el voto se restrinja a algunos asuntos.
@@ -873,6 +872,8 @@ La declaración de que el suscriptor conoce y acepta el proyecto de los estatuto
 
 Los fundadores conservarán en su poder un ejemplar de la suscripción y entregarán el duplicado al
 suscriptor.
+Artículo 94.- Los suscriptores depositarán en la institución de crédito designada al efecto por los
+fundadores, las cantidades que se hubieren obligado a exhibir en numerario, de acuerdo con la fracción
 
 15 de 57
 
@@ -884,8 +885,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 94.- Los suscriptores depositarán en la institución de crédito designada al efecto por los
-fundadores, las cantidades que se hubieren obligado a exhibir en numerario, de acuerdo con la fracción
 III del artículo anterior, para que sean recogidas por los representantes de la sociedad una vez
 constituida.
 Artículo 95.- Las aportaciones distintas del numerario se formalizarán al protocolizarse el acta de la
@@ -921,6 +920,8 @@ I.- Los mencionados en el artículo 92, y
 II.- Los otorgantes del contrato constitutivo social.
 Artículo 104.- Los fundadores no pueden estipular a su favor ningún beneficio que menoscabe el
 capital social, ni en el acto de la constitución ni para lo porvenir. Todo pacto en contrario es nulo.
+Artículo 105.- La participación concedida a los fundadores en las utilidades anuales no excederá del
+diez por ciento, ni podrá abarcar un período de más de diez años a partir de la constitución de la
 
 16 de 57
 
@@ -932,8 +933,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 105.- La participación concedida a los fundadores en las utilidades anuales no excederá del
-diez por ciento, ni podrá abarcar un período de más de diez años a partir de la constitución de la
 sociedad. Esta participación no podrá cubrirse sino después de haber pagado a los accionistas un
 dividendo del cinco por ciento sobre el valor exhibido de sus acciones.
 Artículo 106.- Para acreditar la participación a que se refiere el artículo anterior, se expedirán títulos
@@ -981,6 +980,9 @@ SECCION SEGUNDA
 De las acciones
 Artículo 111.- Las acciones en que se divide el capital social de una sociedad anónima estarán
 representadas por títulos nominativos que servirán para acreditar y transmitir la calidad y los derechos de
+socio, y se regirán por las disposiciones relativas a valores literales, en lo que sea compatible con su
+naturaleza y no sea modificado por la presente Ley.
+Artículo reformado DOF 30-12-1982
 
 17 de 57
 
@@ -991,10 +993,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-socio, y se regirán por las disposiciones relativas a valores literales, en lo que sea compatible con su
-naturaleza y no sea modificado por la presente Ley.
-Artículo reformado DOF 30-12-1982
 
 Artículo 112.- Las acciones serán de igual valor y conferirán iguales derechos.
 Sin embargo, en el contrato social podrá estipularse que el capital se divida en varias clases de
