@@ -12,9 +12,6 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 27 de abril de 201
 TEXTO VIGENTE
 Última reforma publicada DOF 30-01-2018
 
-Nota de vigencia: La adición del tercer párrafo al artículo 14, publicada en el DOF 30-01-2018, entrará en vigor
-el 1 de enero de 2019.
-
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la
 República.
 ENRIQUE PEÑA NIETO, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
@@ -41,6 +38,10 @@ Las Entidades Federativas, los Municipios y sus Entes Públicos se sujetarán a 
 establecidas en la presente Ley y administrarán sus recursos con base en los principios de legalidad,
 honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de
 cuentas.
+Adicionalmente, los Entes Públicos de las Entidades Federativas y los Municipios cumplirán,
+respectivamente, lo dispuesto en los Capítulos I y II del Título Segundo de esta Ley, de conformidad con
+la normatividad contable aplicable.
+Artículo 2.- Para efectos de esta Ley, en singular o plural, se entenderá por:
 
 1 de 33
 
@@ -52,10 +53,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Adicionalmente, los Entes Públicos de las Entidades Federativas y los Municipios cumplirán,
-respectivamente, lo dispuesto en los Capítulos I y II del Título Segundo de esta Ley, de conformidad con
-la normatividad contable aplicable.
-Artículo 2.- Para efectos de esta Ley, en singular o plural, se entenderá por:
 I. Asociaciones Público-Privadas: las previstas en la Ley de Asociaciones Público Privadas o en las
 leyes de las entidades federativas, incluyendo los proyectos de prestación de servicios o cualquier
 esquema similar de carácter local, independientemente de la denominación que se utilice;
@@ -95,6 +92,10 @@ estatal mayoritaria y fideicomisos de las Entidades Federativas y los Municipios
 ente sobre el que las Entidades Federativas y los Municipios tengan control sobre sus decisiones o
 acciones. En el caso de la Ciudad de México, el Poder Ejecutivo incluye adicionalmente a sus alcaldías;
 X. Entidades Federativas: los Estados de la Federación y la Ciudad de México;
+XI. Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto,
+mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito, empréstito o préstamo,
+incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la
+forma mediante la que se instrumente;
 
 2 de 33
 
@@ -106,10 +107,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-XI. Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto,
-mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito, empréstito o préstamo,
-incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la
-forma mediante la que se instrumente;
 XII. Financiamiento Neto: la suma de las disposiciones realizadas de un Financiamiento, y las
 Disponibilidades, menos las amortizaciones efectuadas de la Deuda Pública;
 Fracción reformada DOF 30-01-2018
@@ -146,6 +143,10 @@ XXIII. Instituciones Financieras: instituciones de crédito, sociedades financie
 casas de bolsa, almacenes generales de depósito, uniones de crédito, instituciones de seguros,
 sociedades mutualistas de seguros, sociedades cooperativas de ahorro y préstamo, sociedades
 financieras populares y sociedades financieras comunitarias y cualquiera otra sociedad autorizada por la
+Secretaría o por cualesquiera de las Comisiones Nacionales para organizarse y operar como tales,
+siempre y cuando la normatividad que les resulte aplicable no les prohíba el otorgamiento de créditos;
+XXIV. Instrumentos derivados: los valores, contratos o cualquier otro acto jurídico cuya valuación
+esté referida a uno o más activos, valores, tasas o índices subyacentes;
 
 3 de 33
 
@@ -157,10 +158,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Secretaría o por cualesquiera de las Comisiones Nacionales para organizarse y operar como tales,
-siempre y cuando la normatividad que les resulte aplicable no les prohíba el otorgamiento de créditos;
-XXIV. Instrumentos derivados: los valores, contratos o cualquier otro acto jurídico cuya valuación
-esté referida a uno o más activos, valores, tasas o índices subyacentes;
 XXV. Inversión pública productiva: toda erogación por la cual se genere, directa o indirectamente,
 un beneficio social, y adicionalmente, cuya finalidad específica sea: (i) la construcción, mejoramiento,
 rehabilitación y/o reposición de bienes de dominio público; (ii) la adquisición de bienes asociados al
@@ -198,6 +195,9 @@ XXXIV. Reestructuración: la celebración de actos jurídicos que tengan por obj
 condiciones originalmente pactadas en un Financiamiento;
 XXXV. Refinanciamiento: la contratación de uno o varios Financiamientos cuyos recursos se
 destinen a liquidar total o parcialmente uno o más Financiamientos previamente contratados;
+XXXVI. Registro Público Único: el registro para la inscripción de Obligaciones y Financiamientos que
+contraten los Entes Públicos;
+XXXVII. Secretaría: la Secretaría de Hacienda y Crédito Público del Gobierno Federal;
 
 4 de 33
 
@@ -209,9 +209,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-XXXVI. Registro Público Único: el registro para la inscripción de Obligaciones y Financiamientos que
-contraten los Entes Públicos;
-XXXVII. Secretaría: la Secretaría de Hacienda y Crédito Público del Gobierno Federal;
 XXXVIII. Sistema de Alertas: la publicación hecha por la Secretaría sobre los indicadores de
 endeudamiento de los Entes Públicos;
 XXXIX. Techo de Financiamiento Neto: el límite de Financiamiento Neto anual que podrá contratar
@@ -253,6 +250,13 @@ Proyecciones de finanzas públicas, considerando las premisas empleadas en los C
 Generales de Política Económica.
 Las proyecciones se realizarán con base en los formatos que emita el Consejo Nacional de
 Armonización Contable y abarcarán un periodo de cinco años en adición al ejercicio fiscal en
+cuestión, las que se revisarán y, en su caso, se adecuarán anualmente en los ejercicios
+subsecuentes;
+
+III.
+
+Descripción de los riesgos relevantes para las finanzas públicas, incluyendo los montos de
+Deuda Contingente, acompañados de propuestas de acción para enfrentarlos;
 
 5 de 33
 
@@ -263,13 +267,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-cuestión, las que se revisarán y, en su caso, se adecuarán anualmente en los ejercicios
-subsecuentes;
-III.
-
-Descripción de los riesgos relevantes para las finanzas públicas, incluyendo los montos de
-Deuda Contingente, acompañados de propuestas de acción para enfrentarlos;
 
 IV.
 
@@ -318,6 +315,8 @@ podrán prever un Balance presupuestario de recursos disponibles negativo. En es
 de la Entidad Federativa, deberá dar cuenta a la Legislatura local de los siguientes aspectos:
 I. Las razones excepcionales que justifican el Balance presupuestario de recursos disponibles
 negativo, conforme a lo dispuesto en el siguiente artículo;
+II. Las fuentes de recursos necesarias y el monto específico para cubrir el Balance presupuestario de
+recursos disponibles negativo, y
 
 6 de 33
 
@@ -329,8 +328,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-II. Las fuentes de recursos necesarias y el monto específico para cubrir el Balance presupuestario de
-recursos disponibles negativo, y
 III. El número de ejercicios fiscales y las acciones requeridas para que dicho Balance presupuestario
 de recursos disponibles negativo sea eliminado y se restablezca el Balance presupuestario de recursos
 disponibles sostenible.
@@ -372,6 +369,10 @@ la ocurrencia de desastres naturales, así como para llevar a cabo acciones para
 impacto a las finanzas estatales. El monto de dichos recursos deberá estar determinado por cada Entidad
 Federativa, el cual como mínimo deberá corresponder al 10 por ciento de la aportación realizada por la
 Entidad Federativa para la reconstrucción de la infraestructura de la Entidad Federativa dañada que en
+promedio se registre durante los últimos 5 ejercicios, actualizados por el Índice Nacional de Precios al
+Consumidor, medido a través de las autorizaciones de recursos aprobadas por el Fondo de Desastres
+Naturales, y deberá ser aportado a un fideicomiso público que se constituya específicamente para dicho
+fin.
 
 7 de 33
 
@@ -383,10 +384,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-promedio se registre durante los últimos 5 ejercicios, actualizados por el Índice Nacional de Precios al
-Consumidor, medido a través de las autorizaciones de recursos aprobadas por el Fondo de Desastres
-Naturales, y deberá ser aportado a un fideicomiso público que se constituya específicamente para dicho
-fin.
 Los recursos aportados deberán ser destinados, en primer término, para financiar las obras y acciones
 de reconstrucción de la infraestructura estatal aprobadas en el marco de las reglas generales del Fondo
 de Desastres Naturales, como la contraparte de la Entidad Federativa a los programas de reconstrucción
@@ -424,6 +421,8 @@ plazas y otras medidas económicas de índole laboral. Dichas previsiones serán
 específico del Presupuesto de Egresos.
 Artículo 11.- Las Entidades Federativas deberán considerar en sus correspondientes Presupuestos
 de Egresos, las previsiones de gasto necesarias para hacer frente a los compromisos de pago que se
+deriven de los contratos de Asociación Público-Privada celebrados o por celebrarse durante el siguiente
+ejercicio fiscal.
 
 8 de 33
 
@@ -435,8 +434,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-deriven de los contratos de Asociación Público-Privada celebrados o por celebrarse durante el siguiente
-ejercicio fiscal.
 Para el caso de Asociaciones Público Privadas con recursos federales, se observará lo dispuesto en
 el artículo 4, fracción IV de la Ley de Asociaciones Público Privadas.
 Artículo 12.- Los recursos para cubrir adeudos del ejercicio fiscal anterior, previstos en el proyecto de
@@ -476,6 +473,9 @@ oportunamente las operaciones consideradas en éste;
 V. La asignación global de servicios personales aprobada originalmente en el Presupuesto de Egresos
 no podrá incrementarse durante el ejercicio fiscal. Lo anterior, exceptuando el pago de sentencias
 laborales definitivas emitidas por la autoridad competente.
+La secretaría de finanzas o su equivalente de cada Ente Público contará con un sistema de registro y
+control de las erogaciones de servicios personales;
+VI. Deberán tomar medidas para racionalizar el Gasto corriente.
 
 9 de 33
 
@@ -487,9 +487,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-La secretaría de finanzas o su equivalente de cada Ente Público contará con un sistema de registro y
-control de las erogaciones de servicios personales;
-VI. Deberán tomar medidas para racionalizar el Gasto corriente.
 Los ahorros y economías generados como resultado de la aplicación de dichas medidas, así como los
 ahorros presupuestarios y las economías que resulten por concepto de un costo financiero de la Deuda
 Pública menor al presupuestado, deberán destinarse en primer lugar a corregir desviaciones del Balance
@@ -543,6 +540,8 @@ disposición de ejercicios subsecuentes.
 
 Los Ingresos excedentes derivados de Ingresos de libre disposición de las Entidades Federativas
 podrán destinarse a los rubros mencionados en el presente artículo, sin limitación alguna, siempre y
+cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al
+Sistema de Alertas.
 
 10 de 33
 
@@ -554,8 +553,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al
-Sistema de Alertas.
 Cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al
 Sistema de Alertas, podrá utilizar hasta un 5 por ciento de los recursos a los que se refiere el presente
 artículo para cubrir Gasto corriente.
@@ -597,6 +594,9 @@ Sin perjuicio de lo anterior, las Transferencias federales etiquetadas que, al 3
 ejercicio fiscal inmediato anterior se hayan comprometido y aquéllas devengadas pero que no hayan sido
 pagadas, deberán cubrir los pagos respectivos a más tardar durante el primer trimestre del ejercicio fiscal
 siguiente, o bien, de conformidad con el calendario de ejecución establecido en el convenio
+correspondiente; una vez cumplido el plazo referido, los recursos remanentes deberán reintegrarse a la
+Tesorería de la Federación, a más tardar dentro de los 15 días naturales siguientes.
+Los reintegros deberán incluir los rendimientos financieros generados.
 
 11 de 33
 
@@ -608,9 +608,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-correspondiente; una vez cumplido el plazo referido, los recursos remanentes deberán reintegrarse a la
-Tesorería de la Federación, a más tardar dentro de los 15 días naturales siguientes.
-Los reintegros deberán incluir los rendimientos financieros generados.
 Para los efectos de este artículo, se entenderá que las Entidades Federativas han devengado o
 comprometido las Transferencias federales etiquetadas, en los términos previstos en el artículo 4,
 fracciones XIV y XV de la Ley General de Contabilidad Gubernamental.
@@ -648,6 +645,8 @@ como el periodo de suficiencia y el balance actuarial en valor presente.
 Las proyecciones y resultados a que se refieren las fracciones I y III, respectivamente, comprenderán
 sólo un año para el caso de los Municipios con una población menor a 200,000 habitantes, de acuerdo
 con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
+Dichos Municipios contarán con el apoyo técnico de la secretaría de finanzas o su equivalente del Estado
+para cumplir lo previsto en este artículo.
 
 12 de 33
 
@@ -659,8 +658,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Dichos Municipios contarán con el apoyo técnico de la secretaría de finanzas o su equivalente del Estado
-para cumplir lo previsto en este artículo.
 Artículo 19.- El Gasto total propuesto por el Ayuntamiento del Municipio en el proyecto de
 Presupuesto de Egresos, el aprobado y el que se ejerza en el año fiscal, deberán contribuir al Balance
 presupuestario sostenible.
@@ -699,6 +696,9 @@ Obligaciones o Financiamientos cuando se destinen a Inversiones públicas produc
 Refinanciamiento o Reestructura, incluyendo los gastos y costos relacionados con la contratación de
 dichas Obligaciones y Financiamientos, así como las reservas que deban constituirse en relación con las
 mismas.
+Cuando las Obligaciones se deriven de esquemas de Asociaciones Público-Privadas, el destino podrá
+ser la contratación de servicios, cuyo componente de pago incluya la Inversión pública productiva
+realizada.
 
 13 de 33
 
@@ -710,9 +710,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Cuando las Obligaciones se deriven de esquemas de Asociaciones Público-Privadas, el destino podrá
-ser la contratación de servicios, cuyo componente de pago incluya la Inversión pública productiva
-realizada.
 Lo dispuesto en este Capítulo no será aplicable a la contratación de Financiamientos en términos de
 programas federales o de los convenios con la Federación, los cuales se regirán por lo acordado entre
 las partes en el convenio correspondiente, incluyendo aquellos rubros o destinos para atender a la
@@ -761,6 +758,9 @@ II. Plazo máximo autorizado para el pago;
 III. Destino de los recursos;
 IV. En su caso, la Fuente de pago o la contratación de una Garantía de pago de la Deuda Pública u
 Obligación, y
+V. En caso de autorizaciones específicas, establecer la vigencia de la autorización, en cuyo caso no
+podrá exceder el ejercicio fiscal siguiente. De no establecer una vigencia, se entenderá que la
+autorización sólo se podrá ejercer en el ejercicio fiscal en que fue aprobada.
 
 14 de 33
 
@@ -772,9 +772,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-V. En caso de autorizaciones específicas, establecer la vigencia de la autorización, en cuyo caso no
-podrá exceder el ejercicio fiscal siguiente. De no establecer una vigencia, se entenderá que la
-autorización sólo se podrá ejercer en el ejercicio fiscal en que fue aprobada.
 Los requisitos a que se refiere este artículo deberán cumplirse, en lo conducente, para la autorización
 de la Legislatura local en el otorgamiento de avales o Garantías que pretendan otorgar los Estados o
 Municipios. Por su parte, el presente artículo no será aplicable a la Ciudad de México, en cuyo caso se
@@ -817,6 +814,10 @@ caso de no obtener dos ofertas irrevocables en los términos de la fracción I d
 ganadora será aquella que se hubiera presentado en el día y la hora indicada en la invitación enviada a
 las Instituciones Financieras o prestador de servicios, misma que deberá cumplir con los términos
 establecidos en la invitación correspondiente;
+Párrafo adicionado DOF 30-01-2018
+
+IV. Contratar la oferta que represente las mejores condiciones de mercado para el Ente Público, es
+decir, el costo financiero más bajo, incluyendo todas las comisiones, gastos y cualquier otro accesorio
 
 15 de 33
 
@@ -828,10 +829,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Párrafo adicionado DOF 30-01-2018
-
-IV. Contratar la oferta que represente las mejores condiciones de mercado para el Ente Público, es
-decir, el costo financiero más bajo, incluyendo todas las comisiones, gastos y cualquier otro accesorio
 que estipule la propuesta. Para establecer un comparativo que incluya la tasa de interés y todos los
 costos relacionados al Financiamiento, se deberá aplicar la metodología establecida para el cálculo de la
 tasa efectiva, bajo los Lineamientos que para tal efecto emita la Secretaría, y
@@ -874,6 +871,8 @@ los requisitos de revelación respecto de los gastos relacionados con la oferta 
 deberán cumplir los Entes Públicos, los cuales incluirán un comparativo respecto de los costos incurridos
 en emisiones similares en los últimos 36 meses por parte de otros Entes Públicos, así como respecto de
 otras opciones contempladas por el Ente respectivo. Los Entes Públicos deberán entregar a su respectiva
+Legislatura local una copia de los documentos de divulgación de la oferta el día hábil siguiente de su
+presentación a la Comisión Nacional Bancaria y de Valores, preliminar como definitiva.
 
 16 de 33
 
@@ -885,8 +884,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Legislatura local una copia de los documentos de divulgación de la oferta el día hábil siguiente de su
-presentación a la Comisión Nacional Bancaria y de Valores, preliminar como definitiva.
 Artículo 29.- Con excepción de los Financiamientos que se contraten mediante el mercado bursátil,
 cuando la autorización del Financiamiento a que hace referencia el artículo 24 exceda de cien millones de
 Unidades de Inversión, dicho proceso de contratación se realizará mediante licitación pública, en los
@@ -926,6 +923,9 @@ Para dar cumplimiento a la contratación de las Obligaciones a corto plazo bajo 
 de mercado, se deberá cumplir lo dispuesto en el penúltimo párrafo del artículo 26 de la presente Ley.
 Las Obligaciones a corto plazo que se contraten quedarán sujetas a los requisitos de información
 previstos en esta Ley.
+Artículo 31.- Los recursos derivados de las Obligaciones a corto plazo deberán ser destinados
+exclusivamente a cubrir necesidades de corto plazo, entendiendo dichas necesidades como
+insuficiencias de liquidez de carácter temporal.
 
 17 de 33
 
@@ -937,9 +937,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 31.- Los recursos derivados de las Obligaciones a corto plazo deberán ser destinados
-exclusivamente a cubrir necesidades de corto plazo, entendiendo dichas necesidades como
-insuficiencias de liquidez de carácter temporal.
 Las Entidades Federativas y los Municipios presentarán en los informes periódicos a que se refiere la
 Ley General de Contabilidad Gubernamental y en su respectiva cuenta pública, la información detallada
 de las Obligaciones a corto plazo contraídas en los términos del presente Capítulo, incluyendo por lo
@@ -977,6 +974,10 @@ V. El Gobierno de la Ciudad de México, por conducto del Jefe de Gobierno, remit
 Congreso de la Unión un informe sobre el estado de la Deuda Pública de la entidad y el ejercicio del
 monto autorizado, desglosado por su origen, Fuente de pago y destino, especificando las características
 financieras de las operaciones realizadas;
+VI. La Auditoría Superior de la Federación, en coordinación con la entidad de fiscalización de la
+Ciudad de México, realizará auditorías a los contratos y operaciones de Financiamiento, a los actos
+asociados a la aplicación de los recursos correspondientes y al cumplimiento de lo dispuesto en este
+artículo;
 
 18 de 33
 
@@ -988,10 +989,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-VI. La Auditoría Superior de la Federación, en coordinación con la entidad de fiscalización de la
-Ciudad de México, realizará auditorías a los contratos y operaciones de Financiamiento, a los actos
-asociados a la aplicación de los recursos correspondientes y al cumplimiento de lo dispuesto en este
-artículo;
 VII. El Jefe de Gobierno de la Ciudad de México será responsable del estricto cumplimiento de las
 disposiciones de este artículo y de las directrices de contratación que expida la Secretaría;
 VIII. Los informes de avance trimestral que el Jefe de Gobierno rinda al Congreso de la Unión
@@ -1023,6 +1020,9 @@ I. Que hayan celebrado convenio con la Secretaría, en términos de este Capítu
 II. Afecten participaciones federales suficientes que les correspondan, conforme a la Ley de
 Coordinación Fiscal, bajo un vehículo específico de pago y en los términos que se convengan con la
 Secretaría.
+Artículo 35.- En ningún momento, el saldo de la Deuda Estatal Garantizada podrá exceder el 3.5 por
+ciento del Producto Interno Bruto nominal nacional determinado para el ejercicio fiscal anterior por el
+Instituto Nacional de Estadística y Geografía.
 
 19 de 33
 
@@ -1034,9 +1034,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 35.- En ningún momento, el saldo de la Deuda Estatal Garantizada podrá exceder el 3.5 por
-ciento del Producto Interno Bruto nominal nacional determinado para el ejercicio fiscal anterior por el
-Instituto Nacional de Estadística y Geografía.
 En caso de presentarse una variación nominal negativa del Producto Interno Bruto, el monto avalado
 será el equivalente al resultado del cierre del ejercicio fiscal inmediato anterior. En caso de variaciones en
 el Producto Interno Bruto que ocasionen que el saldo de la Deuda Estatal Garantizada sobrepase el límite
@@ -1073,6 +1070,10 @@ I. Límites de endeudamiento, y
 II. Otros objetivos de finanzas públicas, tales como disminución gradual del Balance presupuestario de
 recursos disponibles negativo y, en su caso, reducción del Gasto corriente y aumento de los Ingresos
 locales.
+Artículo 38.- Cuando el Estado en cuestión se ubique en un nivel de endeudamiento elevado, según
+el Sistema de Alertas previsto en el siguiente Capítulo del presente Título de esta Ley, el Congreso de la
+Unión, a través de una comisión legislativa bicameral, analizará la estrategia de ajuste para fortalecer las
+finanzas públicas, planteada en los convenios a que hace referencia el presente Capítulo. En estos
 
 20 de 33
 
@@ -1084,10 +1085,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 38.- Cuando el Estado en cuestión se ubique en un nivel de endeudamiento elevado, según
-el Sistema de Alertas previsto en el siguiente Capítulo del presente Título de esta Ley, el Congreso de la
-Unión, a través de una comisión legislativa bicameral, analizará la estrategia de ajuste para fortalecer las
-finanzas públicas, planteada en los convenios a que hace referencia el presente Capítulo. En estos
 casos, la comisión legislativa bicameral podrá emitir las observaciones que estime pertinentes en un
 plazo máximo de quince días hábiles contados a partir de la recepción del proyecto de convenio, inclusive
 durante los periodos de receso del Congreso de la Unión.
@@ -1129,6 +1126,9 @@ En todo momento, la Secretaría podrá dar por terminado el convenio suscrito en
 Capítulo, en el caso de que el Estado o Municipio incumpla el convenio respectivo. La Secretaría hará la
 declaratoria correspondiente, la notificará al Estado y, en su caso, al Municipio de que se trate y ordenará
 la publicación de la misma en el Diario Oficial de la Federación.
+En caso de terminación del convenio por darse cumplimiento a su objeto o por acuerdo entre las
+partes, la Secretaría hará la declaratoria correspondiente mediante publicación en el Diario Oficial de la
+Federación.
 
 21 de 33
 
@@ -1140,9 +1140,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-En caso de terminación del convenio por darse cumplimiento a su objeto o por acuerdo entre las
-partes, la Secretaría hará la declaratoria correspondiente mediante publicación en el Diario Oficial de la
-Federación.
 La terminación anticipada de los convenios referidos en el presente Capítulo no podrá afectar
 derechos adquiridos por terceros en lo que corresponde al Financiamiento.
 Artículo 42.- El Ejecutivo Federal informará al Congreso de la Unión la Deuda Estatal Garantizada
@@ -1189,6 +1186,11 @@ está vinculado con la capacidad de pago. Para su cálculo se incluirán las amo
 intereses, anualidades y costos financieros atados a cada Financiamiento y pago por servicios
 derivados de esquemas de Asociación Público-Privada destinados al pago de la inversión, y
 
+III.
+
+Indicador de Obligaciones a Corto Plazo y Proveedores y Contratistas, menos los montos de
+efectivo, bancos e inversiones temporales, sobre Ingresos totales, el cual muestra la
+
 22 de 33
 
 LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS
@@ -1199,10 +1201,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-III.
-
-Indicador de Obligaciones a Corto Plazo y Proveedores y Contratistas, menos los montos de
-efectivo, bancos e inversiones temporales, sobre Ingresos totales, el cual muestra la
 disponibilidad financiera del Ente Público para hacer frente a sus obligaciones contratadas a
 plazos menores de 12 meses en relación con los ingresos totales.
 Fracción reformada DOF 30-01-2018
@@ -1240,6 +1238,8 @@ Artículo 47.- En caso de que un Ente Público, con excepción del Poder Ejecuti
 Federativa y de los Municipios, se ubique en un nivel de endeudamiento elevado, deberá firmar un
 convenio con el Poder Ejecutivo de la Entidad Federativa o con el Municipio, para establecer obligaciones
 específicas de responsabilidad hacendaria.
+El seguimiento de las obligaciones de responsabilidad hacendaria establecidas en dicho convenio,
+estará a cargo del Poder Ejecutivo de la Entidad Federativa o del Municipio, según corresponda. El
 
 23 de 33
 
@@ -1251,8 +1251,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-El seguimiento de las obligaciones de responsabilidad hacendaria establecidas en dicho convenio,
-estará a cargo del Poder Ejecutivo de la Entidad Federativa o del Municipio, según corresponda. El
 seguimiento referido deberá realizarse con una periodicidad trimestral, remitirse a la Secretaría y
 publicarse a través de las páginas oficiales de Internet del ente responsable del seguimiento.
 Artículo reformado DOF 30-01-2018
@@ -1302,6 +1300,8 @@ modificaciones, cancelaciones y demás trámites relacionados podrán realizarse
 electrónicos, de conformidad con lo que establezca el reglamento de dicho registro.
 Artículo 51.- Para la inscripción de los Financiamientos y Obligaciones en el Registro Público Único
 se deberá cumplir con lo siguiente:
+I. Los Financiamientos y Obligaciones deberán cumplir con los requisitos establecidos en los Capítulos
+I y II del Título Tercero de la presente Ley, en los términos del reglamento del Registro Público Único;
 
 24 de 33
 
@@ -1313,8 +1313,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-I. Los Financiamientos y Obligaciones deberán cumplir con los requisitos establecidos en los Capítulos
-I y II del Título Tercero de la presente Ley, en los términos del reglamento del Registro Público Único;
 II. En el caso de Financiamientos y Obligaciones que utilicen como Garantía o Fuente de pago las
 participaciones o aportaciones federales, se deberá cumplir con las disposiciones establecidas en la Ley
 de Coordinación Fiscal;
