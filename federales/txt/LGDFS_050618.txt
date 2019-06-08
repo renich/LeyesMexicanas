@@ -10,10 +10,6 @@ LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 TEXTO VIGENTE
 Nueva Ley publicada en el Diario Oficial de la Federación el 5 de junio de 2018
 
-Nota de vigencia: Las disposiciones de esta Ley previstas en el Título Cuarto, Capítulo I, Secciones Segunda,
-Tercera, Cuarta y Sexta (artículos 72 a 85 y 91 y 92), publicadas en el DOF 05-06-2018, entrarán en vigor el 22 de
-febrero de 2019.
-
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la
 República.
 ENRIQUE PEÑA NIETO, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
@@ -47,6 +43,13 @@ I.
 
 Conservar y restaurar el patrimonio natural y contribuir, al desarrollo social, económico y
 ambiental del país, mediante el manejo integral sustentable de los recursos forestales en
+las cuencas hidrográficas, con un enfoque ecosistémico en el marco de las disposiciones
+aplicables;
+
+II.
+
+Promover el desarrollo científico y tecnológico, así como la transferencia de tecnología,
+como medios para alcanzar el desarrollo forestal sustentable;
 
 1 de 69
 
@@ -57,13 +60,6 @@ Nueva Ley DOF 05-06-2018
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-las cuencas hidrográficas, con un enfoque ecosistémico en el marco de las disposiciones
-aplicables;
-II.
-
-Promover el desarrollo científico y tecnológico, así como la transferencia de tecnología,
-como medios para alcanzar el desarrollo forestal sustentable;
 
 III.
 
@@ -134,16 +130,6 @@ I.
 Definir los criterios de la política forestal, describiendo sus instrumentos de aplicación y
 evaluación;
 
-2 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 II.
 
 Regular la protección, conservación, uso sustentable y restauración de los ecosistemas,
@@ -154,6 +140,16 @@ III.
 
 Establecer criterios e indicadores para el manejo forestal sustentable bajo un enfoque
 ecosistémico;
+
+2 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 IV.
 
@@ -232,16 +228,6 @@ XVIII.
 La mejora continua de la regulación de las actividades forestales y el fomento de la
 legalidad en toda la cadena productiva forestal y del sector forestal en su conjunto;
 
-3 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XIX.
 
 Regular el transporte, almacenamiento y transformación de las materias primas
@@ -251,6 +237,16 @@ XX.
 
 Promover el consumo de productos forestales que procedan de predios con manejo
 forestal certificado;
+
+3 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 XXI.
 
@@ -328,6 +324,13 @@ XXXV.
 Promover el diseño y la aplicación de instrumentos económicos para fomentar el
 desarrollo forestal, la provisión de servicios ambientales, los conocimientos, innovaciones
 y prácticas de las comunidades indígenas y locales, acciones de restauración de cuencas
+y conservación de la biodiversidad, así como medidas de prevención, adaptación y
+mitigación ante el cambio climático;
+
+XXXVI.
+
+Impulsar el manejo forestal comunitario y el desarrollo de la empresa social forestal y
+comunal en los pueblos y comunidades indígenas y comunidades equiparables;
 
 4 de 69
 
@@ -338,13 +341,6 @@ Nueva Ley DOF 05-06-2018
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-y conservación de la biodiversidad, así como medidas de prevención, adaptación y
-mitigación ante el cambio climático;
-XXXVI.
-
-Impulsar el manejo forestal comunitario y el desarrollo de la empresa social forestal y
-comunal en los pueblos y comunidades indígenas y comunidades equiparables;
 
 XXXVII. Impulsar y fomentar el manejo forestal sustentable como eje del desarrollo integral de las
 regiones rurales;
@@ -399,6 +395,10 @@ Artículo 6. Los procedimientos derivados de los actos a que se refiere el artí
 llevarán a cabo con arreglo a lo establecido en la Ley General del Equilibrio Ecológico y la Protección al
 Ambiente y para lo no previsto se aplicará supletoriamente la Ley Federal de Procedimiento
 Administrativo.
+Para los demás actos de autoridad y procedimientos administrativos previstos en esta Ley, se aplicará
+lo establecido en el Reglamento y, para lo no previsto, se aplicarán supletoriamente las disposiciones de
+la Ley Federal de Procedimiento Administrativo.
+Artículo 7. Para los efectos de esta Ley se entenderá por:
 
 5 de 69
 
@@ -410,10 +410,6 @@ Nueva Ley DOF 05-06-2018
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Para los demás actos de autoridad y procedimientos administrativos previstos en esta Ley, se aplicará
-lo establecido en el Reglamento y, para lo no previsto, se aplicarán supletoriamente las disposiciones de
-la Ley Federal de Procedimiento Administrativo.
-Artículo 7. Para los efectos de esta Ley se entenderá por:
 I.
 
 Acciones afirmativas: Medidas temporales, compensatorias o de promoción, a favor de
@@ -484,6 +480,14 @@ XI.
 
 Comisión: La Comisión Nacional Forestal;
 
+XII.
+
+Compensación ambiental por cambio de uso de suelo en terrenos forestales: Las obras y
+actividades de restauración de suelos, reforestación, protección y mantenimiento, que se
+realizan con el fin de rehabilitar ecosistemas forestales deteriorados, de controlar o evitar
+los procesos de degradación de los mismos y de recuperar parcial o totalmente las
+condiciones que propicien su persistencia y evolución;
+
 6 de 69
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
@@ -493,14 +497,6 @@ Nueva Ley DOF 05-06-2018
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-XII.
-
-Compensación ambiental por cambio de uso de suelo en terrenos forestales: Las obras y
-actividades de restauración de suelos, reforestación, protección y mantenimiento, que se
-realizan con el fin de rehabilitar ecosistemas forestales deteriorados, de controlar o evitar
-los procesos de degradación de los mismos y de recuperar parcial o totalmente las
-condiciones que propicien su persistencia y evolución;
 
 XIII.
 
@@ -575,6 +571,13 @@ XXV.
 Enfermedad Forestal: Cualquier agente patógeno dañino que ponga en riesgo los
 recursos forestales, el medio ambiente, los ecosistemas o sus componentes;
 
+XXVI.
+
+Enfoque ecosistémico: Son criterios para la ordenación integrada de la tierra, el agua y
+los recursos vivos, que promueven la conservación y el uso sustentable de manera
+equitativa, que reconocen la interacción de las diferentes actividades humanas en el
+territorio, considerando la diversidad cultural;
+
 7 de 69
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
@@ -584,13 +587,6 @@ Nueva Ley DOF 05-06-2018
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-XXVI.
-
-Enfoque ecosistémico: Son criterios para la ordenación integrada de la tierra, el agua y
-los recursos vivos, que promueven la conservación y el uso sustentable de manera
-equitativa, que reconocen la interacción de las diferentes actividades humanas en el
-territorio, considerando la diversidad cultural;
 
 XXVII.
 
@@ -658,6 +654,10 @@ que no han sufrido procesos de transformación;
 XXXVIII. Ordenación forestal: La organización económica de un área forestal tomando en cuenta
 sus características silvícolas, que implica la división espacial y temporal de las
 actividades del manejo forestal;
+XXXIX.
+
+Plaga Forestal: Forma de vida vegetal o animal o agente patogénico, dañino o
+potencialmente dañino para los recursos forestales;
 
 8 de 69
 
@@ -668,11 +668,6 @@ Nueva Ley DOF 05-06-2018
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-XXXIX.
-
-Plaga Forestal: Forma de vida vegetal o animal o agente patogénico, dañino o
-potencialmente dañino para los recursos forestales;
 
 XL.
 
@@ -748,6 +743,14 @@ forestales, interrelacionadas en el proceso de agregación de valor a los servic
 materias primas forestales, que contribuyen a retener los beneficios económicos y
 oportunidades de empleo en los mismos territorios.
 
+LII.
+
+Reforestación: Establecimiento de especies forestales en terrenos forestales;
+
+LIII.
+
+Registro: El Registro Forestal Nacional;
+
 9 de 69
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
@@ -757,14 +760,6 @@ Nueva Ley DOF 05-06-2018
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-LII.
-
-Reforestación: Establecimiento de especies forestales en terrenos forestales;
-
-LIII.
-
-Registro: El Registro Forestal Nacional;
 
 LIV.
 
@@ -838,6 +833,13 @@ aptitud física y estándares que aplican para el personal técnico especialista
 combatientes de incendios forestales, independientemente de la dependencia, nivel de
 gobierno u organización a la que pertenezcan;
 
+LXVI.
+
+Sistema de Comando de Incidentes: Es la combinación de instalaciones, equipamiento,
+personal, protocolos, procedimientos y comunicaciones operando en una estructura
+organizacional común, con la responsabilidad de administrar los recursos asignados para
+lograr efectivamente los objetivos operacionales pertinentes en un incidente;
+
 10 de 69
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
@@ -847,13 +849,6 @@ Nueva Ley DOF 05-06-2018
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-LXVI.
-
-Sistema de Comando de Incidentes: Es la combinación de instalaciones, equipamiento,
-personal, protocolos, procedimientos y comunicaciones operando en una estructura
-organizacional común, con la responsabilidad de administrar los recursos asignados para
-lograr efectivamente los objetivos operacionales pertinentes en un incidente;
 
 LXVII.
 
@@ -924,6 +919,10 @@ Turno o edad de cosecha: Periodo de regeneración de los recursos forestales que
 comprende desde su extracción hasta el momento en que éstos son susceptibles de
 nuevo aprovechamiento;
 
+LXXVII. Unidades de manejo forestal: Territorio con semejanzas físicas, ambientales, sociales y
+económicas, delimitado por la Comisión, en coordinación con las Entidades Federativas y
+con la opinión de sus Consejos Estatales Forestales;
+
 11 de 69
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
@@ -934,9 +933,6 @@ Nueva Ley DOF 05-06-2018
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-LXXVII. Unidades de manejo forestal: Territorio con semejanzas físicas, ambientales, sociales y
-económicas, delimitado por la Comisión, en coordinación con las Entidades Federativas y
-con la opinión de sus Consejos Estatales Forestales;
 LXXVIII. Unidades Productoras de Germoplasma Forestal: Áreas establecidas en rodales
 naturales, plantaciones, huertos semilleros o viveros, con individuos seleccionados por su
 genotipo y/o fenotipo que posee identificada su procedencia, usada para la producción de
@@ -989,6 +985,10 @@ II.
 
 Instrumentos de Información de Salvaguardas.
 
+III.
+
+Mecanismos para el seguimiento y control del cumplimiento de derechos y salvaguardas.
+
 12 de 69
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
@@ -998,10 +998,6 @@ Nueva Ley DOF 05-06-2018
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-III.
-
-Mecanismos para el seguimiento y control del cumplimiento de derechos y salvaguardas.
 
 Los instrumentos legales y de política para regular y fomentar la conservación, mejora y desarrollo de
 los recursos forestales, deben garantizar el respeto a las salvaguardas reconocidas por el derecho
@@ -1069,6 +1065,12 @@ III.
 Elaborar, coordinar y aplicar los programas a que se refiere esta Ley en materia forestal,
 en los ámbitos nacional y regional;
 
+IV.
+
+Aplicar y promover, en coordinación con las Entidades Federativas, Municipios y
+Demarcaciones Territoriales de la Ciudad de México, el establecimiento de sistemas y
+procedimientos para la atención eficiente de los diversos usuarios;
+
 13 de 69
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
@@ -1078,12 +1080,6 @@ Nueva Ley DOF 05-06-2018
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-IV.
-
-Aplicar y promover, en coordinación con las Entidades Federativas, Municipios y
-Demarcaciones Territoriales de la Ciudad de México, el establecimiento de sistemas y
-procedimientos para la atención eficiente de los diversos usuarios;
 
 V.
 
@@ -1162,6 +1158,10 @@ XVIII.
 
 Deslindar, poseer y administrar los terrenos nacionales forestales;
 
+XIX.
+
+Establecer medidas de sanidad y ejecutar las acciones de saneamiento forestal;
+
 14 de 69
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
@@ -1171,10 +1171,6 @@ Nueva Ley DOF 05-06-2018
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-XIX.
-
-Establecer medidas de sanidad y ejecutar las acciones de saneamiento forestal;
 
 XX.
 
@@ -1261,6 +1257,8 @@ XXXVI.
 
 Regular, controlar y evaluar la prestación de los servicios forestales;
 
+XXXVII. Regular el transporte de materias primas forestales, así como de productos forestales;
+
 15 de 69
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
@@ -1271,7 +1269,6 @@ Nueva Ley DOF 05-06-2018
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-XXXVII. Regular el transporte de materias primas forestales, así como de productos forestales;
 XXXVIII. Expedir los avisos y permisos según corresponda para el combate y control de plagas y
 enfermedades forestales, así como los certificados y demás documentación fitosanitaria
 para la exportación e importación de recursos forestales;
@@ -1345,6 +1342,12 @@ IX.
 Promover esquemas de compensación y apoyo por la provisión de bienes y servicios
 ambientales;
 
+X.
+
+Desarrollar e instrumentar mecanismos de recaudación para incorporar los costos
+relacionados con la conservación el mantenimiento y la mejora de los servicios
+ambientales de los ecosistemas forestales;
+
 16 de 69
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
@@ -1354,12 +1357,6 @@ Nueva Ley DOF 05-06-2018
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-X.
-
-Desarrollar e instrumentar mecanismos de recaudación para incorporar los costos
-relacionados con la conservación el mantenimiento y la mejora de los servicios
-ambientales de los ecosistemas forestales;
 
 XI.
 
@@ -1436,6 +1433,12 @@ Brindar atención, de forma coordinada con la Federación, Municipios y Demarcac
 Territoriales de la Ciudad de México, a los asuntos relacionados con la conservación y
 mejoramiento de ecosistemas forestales de los pueblos y comunidades indígenas;
 
+XXV.
+
+Diseñar, en coordinación con la Federación y con apego a los instrumentos de
+planeación de política nacional, estrategias y programas que contribuyan a la reducción
+de emisiones por deforestación y degradación forestal;
+
 17 de 69
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
@@ -1445,12 +1448,6 @@ Nueva Ley DOF 05-06-2018
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-XXV.
-
-Diseñar, en coordinación con la Federación y con apego a los instrumentos de
-planeación de política nacional, estrategias y programas que contribuyan a la reducción
-de emisiones por deforestación y degradación forestal;
 
 XXVI.
 
@@ -1519,6 +1516,15 @@ Constituciones, expedirán las disposiciones legales que sean necesarias para el
 atribuciones previstas en esta Ley.
 Artículo 13. Corresponde a los Municipios y a las Demarcaciones Territoriales de la Ciudad de
 México, de conformidad con esta Ley y las leyes locales en la materia, las siguientes atribuciones:
+I.
+
+Diseñar, formular y aplicar, en concordancia con la política nacional y estatal, la política
+forestal del municipio o Demarcación Territorial de la Ciudad de México;
+
+II.
+
+Aplicar los criterios de política forestal previstos en esta Ley y en las leyes locales en
+bienes y zonas de jurisdicción municipal y Demarcaciones Territoriales de la Ciudad de
 
 18 de 69
 
@@ -1530,18 +1536,8 @@ Nueva Ley DOF 05-06-2018
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-I.
-
-Diseñar, formular y aplicar, en concordancia con la política nacional y estatal, la política
-forestal del municipio o Demarcación Territorial de la Ciudad de México;
-
-II.
-
-Aplicar los criterios de política forestal previstos en esta Ley y en las leyes locales en
-bienes y zonas de jurisdicción municipal y Demarcaciones Territoriales de la Ciudad de
 México, en las materias que no estén expresamente reservadas a la Federación o a las
 Entidades Federativas;
-
 III.
 
 Participar en el ámbito de su competencia, en el establecimiento de sistemas y
@@ -1615,6 +1611,11 @@ XVI.
 Hacer del conocimiento a las autoridades competentes, y en su caso denunciar, las
 infracciones o delitos que se cometan en materia forestal;
 
+XVII.
+
+Participar y coadyuvar en los programas integrales de prevención y combate a la
+extracción y tala ilegal con el Gobierno Federal y de las Entidades Federativas;
+
 19 de 69
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
@@ -1624,11 +1625,6 @@ Nueva Ley DOF 05-06-2018
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-XVII.
-
-Participar y coadyuvar en los programas integrales de prevención y combate a la
-extracción y tala ilegal con el Gobierno Federal y de las Entidades Federativas;
 
 XVIII.
 
@@ -1706,6 +1702,15 @@ VI.
 
 Emitir Normas Oficiales Mexicanas en materia forestal y vigilar su cumplimiento;
 
+VII.
+
+Establecer los lineamientos para elaborar e integrar el Sistema Nacional de Información y
+Gestión Forestal;
+
+VIII.
+
+Deslindar, poseer y administrar los terrenos nacionales forestales;
+
 20 de 69
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
@@ -1715,15 +1720,6 @@ Nueva Ley DOF 05-06-2018
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-VII.
-
-Establecer los lineamientos para elaborar e integrar el Sistema Nacional de Información y
-Gestión Forestal;
-
-VIII.
-
-Deslindar, poseer y administrar los terrenos nacionales forestales;
 
 IX.
 
@@ -1786,6 +1782,9 @@ formulación de los planes y programas y en la aplicación de la política de de
 sus instrumentos.
 Artículo 16. La Comisión tendrá su domicilio en la zona metropolitana de la ciudad de Guadalajara,
 Jalisco, pudiendo establecer delegaciones o gerencias regionales, estatales, así como representaciones
+en el extranjero que sean necesarias para cumplir con su objeto conforme a sus requerimientos y
+disponibilidad presupuestal.
+Artículo 17. El patrimonio de la Comisión estará integrado por:
 
 21 de 69
 
@@ -1797,9 +1796,6 @@ Nueva Ley DOF 05-06-2018
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-en el extranjero que sean necesarias para cumplir con su objeto conforme a sus requerimientos y
-disponibilidad presupuestal.
-Artículo 17. El patrimonio de la Comisión estará integrado por:
 I.
 
 Los bienes muebles e inmuebles, así como los derechos y obligaciones que le transmitan
@@ -1851,6 +1847,10 @@ por lo menos el cargo de Director General o su equivalente. La Junta será presi
 Secretaría o el Suplente.
 Los nombramientos de suplentes podrán ser actualizados en los momentos que el titular
 correspondiente lo estime necesario.
+Los miembros de la Junta de Gobierno gozarán de voz y voto en las sesiones de la misma; al
+designar a los suplentes, deberán considerar las demás obligaciones que éstos deban cumplir en función
+de su cargo, a efecto de que cuenten con la disponibilidad necesaria para atender con diligencia y
+oportunidad los asuntos inherentes a su suplencia.
 
 22 de 69
 
@@ -1862,10 +1862,6 @@ Nueva Ley DOF 05-06-2018
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Los miembros de la Junta de Gobierno gozarán de voz y voto en las sesiones de la misma; al
-designar a los suplentes, deberán considerar las demás obligaciones que éstos deban cumplir en función
-de su cargo, a efecto de que cuenten con la disponibilidad necesaria para atender con diligencia y
-oportunidad los asuntos inherentes a su suplencia.
 Artículo 19. La Comisión estará a cargo de un Director General quien será designado por el Titular
 del Poder Ejecutivo Federal, debiendo recaer tal nombramiento en persona que reúna los requisitos
 previstos en la Ley Federal de las Entidades Paraestatales.
@@ -1927,6 +1923,15 @@ IX.
 Proponer la valoración de los bienes y servicios ambientales de los ecosistemas
 forestales, conforme a las metodologías definidas por la Secretaría;
 
+X.
+
+Coadyuvar en la definición y promoción de mercados de bienes y servicios ambientales;
+
+XI.
+
+Participar en la definición de mecanismos de compensación por los bienes y servicios
+ambientales que prestan los ecosistemas forestales;
+
 23 de 69
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
@@ -1936,15 +1941,6 @@ Nueva Ley DOF 05-06-2018
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-X.
-
-Coadyuvar en la definición y promoción de mercados de bienes y servicios ambientales;
-
-XI.
-
-Participar en la definición de mecanismos de compensación por los bienes y servicios
-ambientales que prestan los ecosistemas forestales;
 
 XII.
 
@@ -2014,16 +2010,6 @@ XXII.
 
 Promover, asesorar, capacitar y evaluar la prestación de los servicios forestales;
 
-24 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XXIII.
 
 Realizar y promover actividades de investigación, innovación y desarrollo tecnológico; de
@@ -2034,6 +2020,16 @@ XXIV.
 
 Diseñar y ejecutar programas de prevención, protección, conservación, y restauración de
 los recursos y suelos forestales;
+
+24 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 XXV.
 
@@ -2102,17 +2098,6 @@ XXXVIII. Participar en la delimitación territorial, el ordenamiento y la elabor
 territoriales que lleven a cabo la Secretaría de Desarrollo Agrario, Territorial y Urbano, la
 Secretaría de Turismo, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y
 Alimentación u otras dependencias;
-
-25 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XXXIX.
 
 Fomentar la generación de oportunidades de empleo e ingreso para la población que
@@ -2125,6 +2110,16 @@ Promover que, en los procesos de compra-venta gubernamentales, así como de los
 proveedores y contratistas del gobierno, se garantice la legal procedencia de materias
 primas y productos forestales y que estos sean preferentemente de origen nacional y
 cuenten con certificación forestal, y
+
+25 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 XLI.
 
@@ -2182,6 +2177,12 @@ Ley General del Equilibrio Ecológico y la Protección al Ambiente y en la Ley d
 Artículo 23. Se preverá que en el seguimiento y evaluación de los resultados que se obtengan por la
 ejecución de los convenios y acuerdos a que se refiere este capítulo, participe el Consejo Estatal Forestal
 de la entidad federativa correspondiente, en los términos de esta Ley. La Secretaría y la Comisión, por
+acuerdo de esta, darán seguimiento y evaluarán el cumplimiento de los compromisos que se asuman en
+los instrumentos a que se refiere este capítulo.
+Artículo 24. De acuerdo con lo previsto en la Ley Orgánica de la Administración Pública Federal, la
+Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, se coordinará con la
+Secretaría y con la participación de la Comisión, en su caso, para el cumplimiento de los objetivos de la
+Ley y, particularmente, en los siguientes aspectos:
 
 26 de 69
 
@@ -2193,12 +2194,6 @@ Nueva Ley DOF 05-06-2018
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-acuerdo de esta, darán seguimiento y evaluarán el cumplimiento de los compromisos que se asuman en
-los instrumentos a que se refiere este capítulo.
-Artículo 24. De acuerdo con lo previsto en la Ley Orgánica de la Administración Pública Federal, la
-Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, se coordinará con la
-Secretaría y con la participación de la Comisión, en su caso, para el cumplimiento de los objetivos de la
-Ley y, particularmente, en los siguientes aspectos:
 I.
 
 Fomentar la investigación forestal y el desarrollo de sistemas agrosilvopastoriles en la
@@ -2260,6 +2255,12 @@ las cuencas, así como para promover la reforestación de zonas geográficas con
 beneficien la recarga de cuencas y acuíferos, en la valoración de los bienes y servicios ambientales de
 los bosques y selvas en las cuencas hidrográficas y participar en la atención de desastres o emergencias
 naturales.
+Asimismo, la Comisión y la Comisión Nacional de Áreas Naturales Protegidas, se coordinarán para la
+atención de los programas afines en materia forestal dentro de las áreas naturales protegidas, de
+acuerdo con la política nacional en la materia.
+Artículo 26. La Comisión y el Consejo Nacional de Ciencia y Tecnología se coordinarán para la
+atención de las necesidades afines de investigación básica, y formación de recursos de alto nivel del
+sector forestal, de acuerdo con la política nacional en la materia.
 
 27 de 69
 
@@ -2271,12 +2272,6 @@ Nueva Ley DOF 05-06-2018
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Asimismo, la Comisión y la Comisión Nacional de Áreas Naturales Protegidas, se coordinarán para la
-atención de los programas afines en materia forestal dentro de las áreas naturales protegidas, de
-acuerdo con la política nacional en la materia.
-Artículo 26. La Comisión y el Consejo Nacional de Ciencia y Tecnología se coordinarán para la
-atención de las necesidades afines de investigación básica, y formación de recursos de alto nivel del
-sector forestal, de acuerdo con la política nacional en la materia.
 Artículo 27. Las entidades paraestatales relacionadas con el sector ambiental se coordinarán con la
 Comisión, a fin de establecer estrategias y acciones para determinar mecanismos para destinar recursos
 para la compensación y pago por servicios ambientales mediante el Fondo Forestal Mexicano.
@@ -2325,6 +2320,19 @@ V.
 Asegurar la permanencia y calidad de los bienes y servicios ambientales, derivados de
 los procesos ecológicos, asumiendo en programas, proyectos, normas y procedimientos
 la interdependencia de los elementos naturales que conforman los recursos susceptibles
+de aprovechamiento a fin de establecer procesos de gestión y modelos de manejo
+integral de los recursos naturales;
+
+VI.
+
+Desarrollar mecanismos y procedimientos que reconozcan el valor de los bienes y
+servicios ambientales que proporcionan los ecosistemas forestales, con el propósito de
+que la sociedad asuma el costo de su conservación;
+
+VII.
+
+Crear mecanismos económicos para compensar, apoyar o estimular a los propietarios y
+legítimos poseedores de los recursos forestales por la generación de los bienes y
 
 28 de 69
 
@@ -2336,21 +2344,8 @@ Nueva Ley DOF 05-06-2018
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-de aprovechamiento a fin de establecer procesos de gestión y modelos de manejo
-integral de los recursos naturales;
-VI.
-
-Desarrollar mecanismos y procedimientos que reconozcan el valor de los bienes y
-servicios ambientales que proporcionan los ecosistemas forestales, con el propósito de
-que la sociedad asuma el costo de su conservación;
-
-VII.
-
-Crear mecanismos económicos para compensar, apoyar o estimular a los propietarios y
-legítimos poseedores de los recursos forestales por la generación de los bienes y
 servicios ambientales, considerando a éstos como bienes públicos, para garantizar la
 biodiversidad y la sustentabilidad de la vida humana;
-
 VIII.
 
 Vigilar que la capacidad de transformación de la industria forestal existente sea
@@ -2406,16 +2401,6 @@ III.
 La participación activa por parte de propietarios de predios o de industrias forestales en
 los procesos de promoción de certificación del manejo forestal y de la cadena productiva;
 
-29 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 IV.
 
 La participación de las organizaciones sociales y privadas e instituciones públicas en la
@@ -2428,6 +2413,16 @@ El impulso al mejoramiento de la calidad, capacidad y condición de los recursos
 a través de la modernización e incremento de los medios para la educación, la
 capacitación y la generación de oportunidades de empleo, tanto en actividades
 productivas como de servicios;
+
+29 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 VI.
 
@@ -2497,16 +2492,6 @@ XI.
 La conservación prioritaria de las especies endémicas, amenazadas, en peligro de
 extinción o sujetas a protección especial;
 
-30 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XII.
 
 La protección de los recursos forestales a través del combate al tráfico o apropiación
@@ -2525,6 +2510,16 @@ forestales;
 XV.
 
 La conservación y mejoramiento genético de los recursos forestales, y
+
+30 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 XVI.
 
@@ -2596,16 +2591,6 @@ XIII.
 
 La valoración de los bienes y servicios ambientales;
 
-31 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XIV.
 
 El apoyo, estímulo y compensación de los efectos económicos de largo plazo de
@@ -2620,6 +2605,16 @@ de regeneración, restauración y restablecimiento de los mismos, y
 XVI.
 
 El establecimiento de plantaciones forestales comerciales.
+
+31 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 El Ejecutivo Federal a través de la Comisión Nacional Forestal, incorporará en sus informes anuales
 que debe rendir ante el Congreso de la Unión, un informe sobre el estado que guarde el sector forestal.
@@ -2675,6 +2670,16 @@ De proyección correspondiente a los periodos constitucionales que correspondan 
 administraciones, conforme a lo previsto en la Ley de Planeación para los programas
 sectoriales, institucionales y especiales, y
 
+II.
+
+De proyección de largo plazo, por veinticinco años o más, por lo que la Secretaría y la
+Comisión elaborarán el Programa Estratégico Forestal Nacional, en el ámbito de sus
+respectivas competencias. Dicho programa deberá ser aprobado por la Secretaría y en él
+se indicarán los objetivos, estrategias y líneas de acción prioritarias.
+
+El Programa Estratégico de largo plazo, los programas institucionales y, en su caso, especiales,
+deberán ser revisados cada dos años.
+
 32 de 69
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
@@ -2685,15 +2690,6 @@ Nueva Ley DOF 05-06-2018
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-II.
-
-De proyección de largo plazo, por veinticinco años o más, por lo que la Secretaría y la
-Comisión elaborarán el Programa Estratégico Forestal Nacional, en el ámbito de sus
-respectivas competencias. Dicho programa deberá ser aprobado por la Secretaría y en él
-se indicarán los objetivos, estrategias y líneas de acción prioritarias.
-
-El Programa Estratégico de largo plazo, los programas institucionales y, en su caso, especiales,
-deberán ser revisados cada dos años.
 Los programas que elaboren los gobiernos de las Entidades Federativas, con visión de corto y largo
 alcance, indicarán los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta los criterios
 e instrumentos de la política nacional forestal, buscando congruencia con los programas nacionales.
@@ -2748,16 +2744,6 @@ VIII.
 
 Sobre investigaciones y desarrollo tecnológico;
 
-33 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 IX.
 
 Sobre organizaciones e instituciones de los sectores social y privado, así como de
@@ -2772,6 +2758,16 @@ XI.
 
 Las demás que se consideren estratégicas para la planeación y evaluación del desarrollo
 forestal sustentable.
+
+33 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 Las autoridades federales, estatales y municipales deberán proporcionar al Sistema Nacional de
 Información Forestal, la información que recaben en el cumplimiento de sus atribuciones.
@@ -2824,16 +2820,6 @@ VII.
 
 Los decretos que establezcan vedas forestales;
 
-34 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 VIII.
 
 Los actos de transferencia de dominio, uso, usufructo o prestación de servicios que
@@ -2848,6 +2834,16 @@ además de los centros de transformación móviles de materias primas forestales
 X.
 
 Los demás actos y documentos que se señalen en el Reglamento de esta Ley.
+
+34 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 Artículo 43. El Registro está obligado a proporcionar la información a todo solicitante, sin más
 exigencia que su previa identificación, y el pago de los derechos que correspondan, en los términos de
@@ -2901,16 +2897,6 @@ VI.
 Los criterios e indicadores de sustentabilidad, deforestación y degradación de los
 ecosistemas forestales;
 
-35 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 VII.
 
 Los registros de la infraestructura forestal existente;
@@ -2924,6 +2910,16 @@ deforestación y degradación forestal, y
 IX.
 
 Los demás datos que señale el Reglamento.
+
+35 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 Artículo 47. Los datos comprendidos en el Inventario Nacional Forestal y de Suelos serán la base
 para:
@@ -2982,6 +2978,14 @@ Sección Quinta
 De la Zonificación Forestal
 Artículo 49. La Comisión deberá llevar a cabo la zonificación para efectos de planeación, con base en
 el Inventario Nacional Forestal y de Suelos y en los programas de ordenamiento ecológico.
+En el Reglamento se determinarán los criterios, metodología y procedimientos para la integración,
+organización y actualización de la zonificación.
+
+Sección Sexta
+Del Registro Forestal Nacional
+Artículo 50. La Secretaría establecerá, integrará, organizará y mantendrá actualizado el Registro
+Forestal Nacional.
+El Registro Forestal Nacional será público y en él se inscribirán:
 
 36 de 69
 
@@ -2993,14 +2997,6 @@ Nueva Ley DOF 05-06-2018
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-En el Reglamento se determinarán los criterios, metodología y procedimientos para la integración,
-organización y actualización de la zonificación.
-
-Sección Sexta
-Del Registro Forestal Nacional
-Artículo 50. La Secretaría establecerá, integrará, organizará y mantendrá actualizado el Registro
-Forestal Nacional.
-El Registro Forestal Nacional será público y en él se inscribirán:
 I.
 
 Las autorizaciones de aprovechamiento de recursos forestales maderables;
@@ -3076,16 +3072,6 @@ XVII.
 El padrón de los prestadores de servicios forestales y los titulares de aprovechamientos a
 los que se refieren los artículos 73 y 104 de esta Ley, y
 
-37 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XVIII.
 
 Los demás actos y documentos que se señalen en esta Ley y en su Reglamento.
@@ -3097,6 +3083,17 @@ Propiedad de las distintas Entidades Federativas para compartir y actualizar inf
 respectivos actos.
 
 Sección Séptima
+
+37 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 De las Normas Oficiales Mexicanas en materia forestal
 Artículo 53. La Secretaría emitirá Normas Oficiales Mexicanas en materia forestal y de suelos, en los
 términos establecidos en la Ley Federal de Metrología y Normalización, que tengan por objeto:
@@ -3157,6 +3154,13 @@ Los demás que la presente Ley señale y las que resulten necesarias.
 
 TÍTULO CUARTO
 De los Procedimientos en Materia Forestal
+Capítulo I
+Disposiciones Comunes a los Procedimientos en Materia Forestal
+Artículo 54. Las autorizaciones y actos previstos en los artículos 68 y 69 de esta Ley, sólo se
+otorgarán a los propietarios de los terrenos y a las personas legalmente facultadas para poseerlos y
+usufructuarlos, así como a quienes legalmente se encuentren autorizados para los efectos.
+Cuando la solicitud de una autorización o aviso en materia forestal sobre terrenos propiedad de un
+ejido o comunidad o comunidad indígena sea presentada por un tercero, éste deberá acreditar el
 
 38 de 69
 
@@ -3168,13 +3172,6 @@ Nueva Ley DOF 05-06-2018
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Capítulo I
-Disposiciones Comunes a los Procedimientos en Materia Forestal
-Artículo 54. Las autorizaciones y actos previstos en los artículos 68 y 69 de esta Ley, sólo se
-otorgarán a los propietarios de los terrenos y a las personas legalmente facultadas para poseerlos y
-usufructuarlos, así como a quienes legalmente se encuentren autorizados para los efectos.
-Cuando la solicitud de una autorización o aviso en materia forestal sobre terrenos propiedad de un
-ejido o comunidad o comunidad indígena sea presentada por un tercero, éste deberá acreditar el
 consentimiento del núcleo agrario mediante el acuerdo de asamblea que lo autorice, de conformidad con
 la Ley Agraria.
 La autoridad, con la participación del Consejo correspondiente, podrá habilitar mecanismos de apoyo
@@ -3206,6 +3203,15 @@ Ley y su Reglamento en un plazo no mayor a veinte días hábiles, contados a par
 recepción de la solicitud, excepto en los casos en los que se establezca algún otro plazo en las
 disposiciones aplicables. Transcurrido este plazo sin que el Consejo emita su opinión, se entenderá que
 no tiene objeción alguna respecto a la materia de la consulta.
+Artículo 59. La ejecución, desarrollo y cumplimiento de los programas de manejo forestal y los
+estudios técnicos justificativos estarán a cargo del titular de la autorización respectiva, así como de un
+prestador de servicios forestales, quien será responsable solidario con el titular.
+Artículo 60. La Secretaría y la Comisión establecerán los procedimientos y mecanismos necesarios,
+para que los títulos o documentos en los que consten las autorizaciones, sean traducidos a las lenguas
+de los solicitantes o titulares de aprovechamientos forestales pertenecientes a pueblos y comunidades
+indígenas, o bien, para asegurar que les sea interpretado su contenido.
+Artículo 61. Cuando una autorización pueda afectar el entorno ecológico de alguna comunidad
+indígena, la autoridad deberá recabar el parecer de los representantes de dicha comunidad.
 
 39 de 69
 
@@ -3217,15 +3223,6 @@ Nueva Ley DOF 05-06-2018
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 59. La ejecución, desarrollo y cumplimiento de los programas de manejo forestal y los
-estudios técnicos justificativos estarán a cargo del titular de la autorización respectiva, así como de un
-prestador de servicios forestales, quien será responsable solidario con el titular.
-Artículo 60. La Secretaría y la Comisión establecerán los procedimientos y mecanismos necesarios,
-para que los títulos o documentos en los que consten las autorizaciones, sean traducidos a las lenguas
-de los solicitantes o titulares de aprovechamientos forestales pertenecientes a pueblos y comunidades
-indígenas, o bien, para asegurar que les sea interpretado su contenido.
-Artículo 61. Cuando una autorización pueda afectar el entorno ecológico de alguna comunidad
-indígena, la autoridad deberá recabar el parecer de los representantes de dicha comunidad.
 La Comisión, en coordinación con las autoridades competentes, verificará que los aprovechamientos
 de recursos forestales se realicen garantizando los derechos que la ley reconozca a las comunidades
 indígenas.
@@ -3273,16 +3270,6 @@ La persistencia de las causas que motivaron la suspensión provisional de las
 autorizaciones o actos, cuando haya vencido el término que se hubiere fijado para
 corregirlas;
 
-40 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 VII.
 
 Cuando se haya otorgado sustentándose en datos falsos o erróneos proporcionados por
@@ -3304,6 +3291,17 @@ Los demás casos previstos en esta Ley o en las propias autorizaciones.
 
 Artículo 64. Las autorizaciones y actos previstos en los artículos 68 y 69 de la presente Ley, se
 extinguen por cualquiera de las causas siguientes:
+
+40 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 I.
 
 Vencimiento del término por el que se hayan otorgado;
@@ -3358,16 +3356,6 @@ Artículo 67. Las autorizaciones y actos previstos en los artículos 68 y 69 de 
 ser modificados cuando varíen las condiciones que la autoridad consideró al momento de su
 otorgamiento, independientemente de que el titular haya dado lugar a dichas variaciones.
 
-41 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Sección Primera
 De los Trámites en Materia Forestal
 Artículo 68. Corresponderá a la Secretaría emitir los siguientes actos y autorizaciones:
@@ -3382,6 +3370,16 @@ Autorización de colecta de recursos biológicos forestales;
 III.
 
 Aviso de colecta de recursos biológicos forestales;
+
+41 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 IV.
 
@@ -3434,6 +3432,16 @@ Asimismo, llevarán a cabo la inscripción correspondiente en el Registro Forest
 sus modificaciones y cancelaciones correspondientes.
 Artículo 71. No se requiere autorización de la Comisión para realizar la remoción y el transporte de
 vegetación que provenga de terrenos diversos a los forestales. Los interesados podrán solicitar a la
+Comisión que verifique el tipo de vegetación y uso de suelo del terreno y emita la constancia respectiva,
+en los términos y conforme al procedimiento que establezca el Reglamento.
+En su caso, la constancia respectiva contendrá el código de identificación que se asigne para
+identificar la procedencia del producto de vegetación que pretenda extraerse, el cual deberá utilizar el
+interesado en las remisiones forestales que obtenga para su transporte a cualquier destino.
+
+Sección Segunda
+Del Aprovechamiento de Recursos Forestales Maderables
+Artículo 72. Se requiere autorización de la Secretaría para el aprovechamiento de recursos forestales
+maderables en terrenos forestales.
 
 42 de 69
 
@@ -3445,16 +3453,6 @@ Nueva Ley DOF 05-06-2018
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Comisión que verifique el tipo de vegetación y uso de suelo del terreno y emita la constancia respectiva,
-en los términos y conforme al procedimiento que establezca el Reglamento.
-En su caso, la constancia respectiva contendrá el código de identificación que se asigne para
-identificar la procedencia del producto de vegetación que pretenda extraerse, el cual deberá utilizar el
-interesado en las remisiones forestales que obtenga para su transporte a cualquier destino.
-
-Sección Segunda
-Del Aprovechamiento de Recursos Forestales Maderables
-Artículo 72. Se requiere autorización de la Secretaría para el aprovechamiento de recursos forestales
-maderables en terrenos forestales.
 El Reglamento establecerá los requisitos para obtener la autorización de aprovechamiento de los
 recursos forestales maderables, así como las obligaciones de sus titulares.
 Artículo 73. Las autorizaciones para el aprovechamiento de los recursos forestales maderables se
@@ -3492,17 +3490,6 @@ días hábiles para emitir su opinión. Transcurrido dicho término, se entender
 para expedir o negar la autorización.
 Artículo 75. Los siguientes aprovechamientos forestales requieren la autorización en materia de
 impacto ambiental, en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente:
-
-43 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 I.
 
 En selvas tropicales mayores a 20 hectáreas;
@@ -3521,6 +3508,17 @@ autorización del aprovechamiento forestal para seguir un solo trámite administ
 solo documento la manifestación de impacto ambiental correspondiente, así como su programa de
 manejo forestal ante la autoridad competente y se realizará de conformidad con las guías y normas que
 se emitan en la materia.
+
+43 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 76. El programa de manejo forestal tendrá una vigencia correspondiente a una edad de
 cosecha. Las autorizaciones para el aprovechamiento de los recursos forestales tendrán una vigencia
 correspondiente al ciclo de corta, pudiendo refrendarse cuantas veces sea necesario hasta el término de
@@ -3566,6 +3564,16 @@ temporalmente forestales y preferentemente forestales, se promoverá de manera p
 de especies nativas que tecnológica y económicamente sean viables. La autoridad tendrá en todo
 momento la facultad de supervisar el manejo de la plantación, cuidando especialmente los posibles
 impactos ambientales adversos.
+Artículo 80. Las plantaciones forestales comerciales en terrenos temporalmente forestales o
+preferentemente forestales requerirán de un aviso por escrito. El contenido del escrito y los requisitos del
+aviso se establecerán en el Reglamento.
+Artículo 81. Una vez presentado el aviso de plantación forestal comercial, la Secretaría emitirá una
+constancia de plantación en un plazo no mayor de diez días hábiles. Si después de este plazo la
+Secretaría no la ha emitido, el interesado quedará facultado a iniciar la plantación; y la Secretaría deberá
+expedir la constancia correspondiente, sin menoscabo de las responsabilidades en las que pueda incurrir
+con dicha omisión.
+Artículo 82. La constancia de plantación forestal comercial facultará a sus titulares a realizar su
+aprovechamiento, cuando el titular lo juzgue conveniente.
 
 44 de 69
 
@@ -3577,16 +3585,6 @@ Nueva Ley DOF 05-06-2018
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 80. Las plantaciones forestales comerciales en terrenos temporalmente forestales o
-preferentemente forestales requerirán de un aviso por escrito. El contenido del escrito y los requisitos del
-aviso se establecerán en el Reglamento.
-Artículo 81. Una vez presentado el aviso de plantación forestal comercial, la Secretaría emitirá una
-constancia de plantación en un plazo no mayor de diez días hábiles. Si después de este plazo la
-Secretaría no la ha emitido, el interesado quedará facultado a iniciar la plantación; y la Secretaría deberá
-expedir la constancia correspondiente, sin menoscabo de las responsabilidades en las que pueda incurrir
-con dicha omisión.
-Artículo 82. La constancia de plantación forestal comercial facultará a sus titulares a realizar su
-aprovechamiento, cuando el titular lo juzgue conveniente.
 Artículo 83. El titular del aviso de plantación forestal comercial deberá informar anualmente a la
 Comisión, los volúmenes de materias primas que obtenga del aprovechamiento, en los términos del
 Reglamento.
@@ -3623,17 +3621,6 @@ Federativas, Municipales, Demarcaciones Territoriales de la Ciudad de México, o
 los recursos, bastará con que se presente el aviso respectivo ante la Secretaría. El titular del aviso sólo
 podrá realizar la colecta una vez que cuente con el consentimiento escrito, previo, expreso e informado
 del propietario o legítimo poseedor del predio en el que se encuentren los recursos biológicos forestales.
-
-45 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 En el Reglamento se establecerán los requisitos para solicitar la autorización o presentar los avisos a
 que se refiere este artículo, así como, la forma en la que se realizará el transporte, almacenamiento y, en
 su caso, comercialización de los recursos biológicos forestales.
@@ -3645,6 +3632,17 @@ pueblos y comunidades indígenas y locales sobre los recursos biológicos forest
 la propiedad del conocimiento de los pueblos indígenas y presentar un convenio celebrado entre el
 solicitante de la autorización a que se refiere el artículo anterior y la comunidad titular del conocimiento,
 en el que se acredite que se cuenta con el consentimiento previo, expreso e informado de ésta.
+
+45 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 88. El aprovechamiento de recursos y materias primas forestales para uso doméstico se
 sujetarán a lo que establezca el Reglamento.
 Las actividades agroforestales y silvopastoriles se sujetarán a lo que establezcan las Normas Oficiales
@@ -3676,16 +3674,6 @@ El Reglamento establecerá las disposiciones para la regulación de los equipos 
 transformación de productos forestales, garantizando un adecuado control y procedimientos expeditos
 que proporcionen las facilidades para su operación itinerante.
 
-46 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Sección Séptima
 Del Cambio de Uso de Suelo en Terrenos Forestales
 Artículo 93. La Secretaría autorizará el cambio de uso de suelo en terrenos forestales por excepción,
@@ -3697,6 +3685,17 @@ afectadas por la remoción de la vegetación forestal.
 En las autorizaciones de cambio de uso de suelo en terrenos forestales, la Secretaría deberá dar
 respuesta debidamente fundada y motivada a las opiniones técnicas emitidas por los miembros del
 Consejo Estatal Forestal de que se trate.
+
+46 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Las autorizaciones que se emitan deberán integrar un programa de rescate y reubicación de especies
 de la flora y fauna afectadas y su adaptación al nuevo hábitat conforme se establezca en el Reglamento.
 Dichas autorizaciones deberán sujetarse a lo que, en su caso, dispongan los programas de
@@ -3726,17 +3725,6 @@ permanentes y evitando que la producción agropecuaria crezca a costa de los ter
 La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación no otorgará apoyos o
 incentivos económicos para actividades agropecuarias en terrenos cuyo cambio de uso de suelo no haya
 sido autorizado por la Secretaría para tales actividades.
-
-47 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 100. La Secretaría, con la participación de la Comisión, coordinará con diversas entidades
 públicas, acciones conjuntas para armonizar y eficientar los programas de construcciones de los sectores
 eléctrico, hidráulico y de comunicaciones, con el cumplimiento de la normatividad correspondiente.
@@ -3749,6 +3737,17 @@ aplicables determinarán los procedimientos, modalidades y requisitos que deber�
 acreditación e inscripción en el Registro; así como para la prestación, evaluación y seguimiento de los
 servicios forestales, diferenciando las actividades, los ecosistemas en que se desempeñarán y grados de
 responsabilidad.
+
+47 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Los prestadores de servicios forestales podrán ser contratados libremente por los propietarios y
 poseedores de los recursos forestales y serán responsables solidarios con los mismos.
 Artículo 102. Los servicios forestales para el aprovechamiento, protección, conservación,
@@ -3781,6 +3780,16 @@ establecerán en el Reglamento de la presente Ley.
 
 Capítulo IV
 De la Certificación Forestal y de las Auditorías Técnicas Preventivas
+Artículo 107. La Certificación del manejo forestal es un medio para acreditar el adecuado manejo
+forestal, mejorar la protección de los ecosistemas forestales y facilitar el acceso a mercados nacionales e
+internacionales.
+Dicha certificación se realizará de conformidad con lo dispuesto en la Ley Federal sobre Metrología y
+Normalización.
+Artículo 108. La Comisión impulsará y promoverá la Certificación del adecuado manejo forestal, así
+como las tareas de sensibilización de los compradores finales nacionales e internacionales de productos
+forestales en el consumo responsable.
+La Cámara de Diputados asignará anualmente las partidas necesarias para atender el funcionamiento
+y operación de los mencionados programas de apoyo.
 
 48 de 69
 
@@ -3792,16 +3801,6 @@ Nueva Ley DOF 05-06-2018
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 107. La Certificación del manejo forestal es un medio para acreditar el adecuado manejo
-forestal, mejorar la protección de los ecosistemas forestales y facilitar el acceso a mercados nacionales e
-internacionales.
-Dicha certificación se realizará de conformidad con lo dispuesto en la Ley Federal sobre Metrología y
-Normalización.
-Artículo 108. La Comisión impulsará y promoverá la Certificación del adecuado manejo forestal, así
-como las tareas de sensibilización de los compradores finales nacionales e internacionales de productos
-forestales en el consumo responsable.
-La Cámara de Diputados asignará anualmente las partidas necesarias para atender el funcionamiento
-y operación de los mencionados programas de apoyo.
 Artículo 109. Las auditorías técnicas preventivas que realice la Comisión directamente o a través de
 terceros debidamente autorizados, tendrán por objeto la promoción e inducción al cumplimiento de las
 disposiciones legales forestales y ambientales de los programas de manejo respectivos.
@@ -3830,17 +3829,6 @@ gobiernos de las Entidades Federativas, de los Municipios y de las Demarcaciones
 Ciudad de México, en los términos de los acuerdos y convenios que se celebren, ejercerán sus funciones
 en forma coordinada para detectar, diagnosticar, evaluar daños, prevenir, controlar y combatir plagas y
 enfermedades forestales; así como establecer el seguimiento de las medidas fitosanitarias aplicadas.
-
-49 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 113. Las medidas fitosanitarias que se apliquen para la prevención, control y combate de
 plagas y enfermedades que afecten a los recursos y ecosistemas forestales, se realizarán de
 conformidad con lo previsto en esta Ley, así como por la Ley Federal de Sanidad Vegetal en lo que no se
@@ -3853,6 +3841,17 @@ prevención y el control de plagas y enfermedades forestales.
 Cuando por motivos de sanidad forestal sea necesario realizar la remoción de la vegetación forestal
 afectada, los propietarios y legítimos poseedores deberán desarrollar un programa de restauración
 forestal.
+
+49 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 114. Los propietarios y legítimos poseedores de terrenos forestales o temporalmente
 forestales, los titulares de autorizaciones de aprovechamiento de recursos forestales, los prestadores de
 servicios forestales responsables de estos, quienes realicen actividades de plantaciones forestales
@@ -3883,17 +3882,6 @@ Quienes hagan uso del fuego en contravención de lo dispuesto en las normas menc
 las sanciones que prevé la presente Ley, sin perjuicio de las establecidas en los ordenamientos penales.
 Artículo 118. La Comisión emitirá las líneas estratégicas en materia de manejo del fuego de mediano
 y largo plazos y establecerá los mecanismos de revisión, actualización y evaluación.
-
-50 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 119. La Comisión coordinará el Programa de Manejo del Fuego y coadyuvará con las
 Entidades Federativas, Municipios y Demarcaciones Territoriales de la Ciudad de México a través del
 combate ampliado de incendios forestales y promoverá la asistencia de las demás dependencias y
@@ -3906,6 +3894,17 @@ Comisión, la cual actuará de acuerdo con los programas y procedimientos respec
 definirá los mecanismos de coordinación pertinentes con el Sistema Nacional de Protección Civil.
 La Comisión, los gobiernos de las Entidades Federativas, de los Municipios y de las Demarcaciones
 Territoriales de la Ciudad de México, procurarán la participación de los sectores social y privado, para los
+
+50 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 efectos señalados en el párrafo que antecede y organizarán programas permanentes de manejo del
 fuego.
 Sin perjuicio de lo anterior, las legislaciones locales establecerán los mecanismos de coordinación
@@ -3937,17 +3936,6 @@ correspondiente.
 Cuando los propietarios y legítimos poseedores de terrenos forestales que hayan sido afectados por
 incendio, comprueben fehacientemente que los daños sean de una magnitud tal que requieran de un
 proceso de restauración mayor a los dos años, podrán acudir ante la Comisión para solicitar la ampliación
-
-51 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 de plazo a que se refieren los primeros párrafos de este artículo, así como la gestión de apoyos mediante
 los programas federales y de las Entidades Federativas, aplicables.
 
@@ -3961,6 +3949,17 @@ forestales y las cuencas hidrográficas.
 Las acciones de dichos programas y los instrumentos económicos a que se refiere el párrafo anterior,
 serán incorporados en el Programa Especial Concurrente para el Desarrollo Rural Sustentable,
 incluyendo las previsiones presupuestarias de corto y mediano plazo, necesarias para su
+
+51 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 instrumentación, dando preferencia a los propietarios y poseedores de los recursos forestales para su
 ejecución.
 Artículo 123. Cuando se presenten procesos de degradación o desertificación, o graves
@@ -4001,16 +4000,6 @@ IV.
 
 Tengan como finalidad la regeneración de terrenos incendiados.
 
-52 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Se exceptuarán de las vedas los terrenos en los que se realice el aprovechamiento forestal o la
 plantación forestal comercial de conformidad con los instrumentos de manejo establecidos en la presente
 Ley, en tanto no se ponga en riesgo la biodiversidad, de acuerdo con los criterios e indicadores que al
@@ -4024,6 +4013,17 @@ dichas causas no se repitan.
 Los proyectos de veda deberán publicarse en el Diario Oficial de la Federación, y se notificarán
 previamente a los posibles afectados en forma personal cuando se conocieren sus domicilios; en caso
 contrario, se hará una segunda publicación la que surtirá efectos de notificación.
+
+52 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Los decretos que establezcan vedas forestales, precisarán las características, temporalidad,
 excepciones y límites de las superficies o recursos forestales vedados, así como, en su caso, las
 medidas que adoptará el Ejecutivo Federal para apoyar a las comunidades afectadas. Dichos decretos se
@@ -4055,17 +4055,6 @@ Artículo 126. La Secretaría emitirá Normas Oficiales Mexicanas tendientes a p
 sobrepastoreo en terrenos forestales; determinar coeficientes de agostadero; evaluar daños a suelos y
 pastos; regular los procesos de reforestación y restauración de áreas afectadas; y a compatibilizar las
 actividades silvopastoriles.
-
-53 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 127. La forestación y reforestación que se realice con propósitos de conservación y
 restauración en terrenos forestales degradados y preferentemente forestales no requerirán de
 autorización y solamente estarán sujetas a las Normas Oficiales Mexicanas, en lo referente a no causar
@@ -4079,6 +4068,17 @@ instrumenten programas de restauración integral, así como para el monitoreo y 
 mismos. Se impulsará la reforestación con especies forestales preferentemente nativas.
 Artículo 128. La Comisión, en coordinación con las dependencias y entidades de la Administración
 Pública Federal, promoverá el desarrollo de un Sistema Nacional de Mejoramiento Genético Forestal.
+
+53 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 La colecta, transporte, certificación y comercialización de germoplasma forestal se sujetará a lo
 establecido en el Reglamento y, en su caso, la Norma Oficial Mexicana que expida la Secretaría.
 La reforestación establecida en terrenos preferentemente forestales, será susceptible de
@@ -4109,17 +4109,6 @@ situación de riesgo, con el apercibimiento de que en caso de no realizarlas en 
 para ello, la Comisión realizará los trabajos correspondientes con cargo a los obligados. El monto de las
 erogaciones que se realicen será considerado como crédito fiscal y su recuperación será mediante el
 procedimiento económico coactivo correspondiente.
-
-54 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 133. Lo dispuesto en el artículo anterior, será aplicable con independencia de que se cuente
 o no con las autorizaciones, permisos o licencias correspondientes o se cause un daño a los ecosistemas
 forestales a que se refiere este artículo.
@@ -4132,6 +4121,17 @@ dispuesto en la Ley Federal de Responsabilidad Ambiental.
 
 TÍTULO SEXTO
 De los Instrumentos Económicos para el Desarrollo Forestal
+
+54 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Capítulo I
 De la Inversión, Incentivos y Subsidios para el Desarrollo Forestal
 Artículo 134. Las medidas, programas e instrumentos económicos relativos al desarrollo de la
@@ -4161,17 +4161,6 @@ La Cámara de Diputados asignará anualmente las partidas necesarias para atende
 y operación de los mencionados programas de apoyo.
 Artículo 136. La Federación y las Entidades Federativas, en el ámbito de sus respectivas
 competencias y escuchando la opinión del Consejo, diseñarán, desarrollarán y aplicarán instrumentos
-
-55 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 económicos que incentiven el cumplimiento de los objetivos de la política forestal, y mediante los cuales
 se buscará de manera prioritaria y no limitativa:
 I.
@@ -4196,6 +4185,16 @@ V.
 
 Mejorar la calidad y elevar la supervivencia de la planta en el terreno en las
 reforestaciones y forestaciones;
+
+55 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 VI.
 
@@ -4259,16 +4258,6 @@ plazo de formación del producto forestal, las bajas tasas de interés por su le
 crecimiento y los riesgos de su producción, así como la habilitación o, en caso necesario,
 la sustitución de garantías para la operación de créditos, fianzas y seguros;
 
-56 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XIX.
 
 Promover la cultura forestal, la educación técnica, la educación superior y la capacitación
@@ -4297,6 +4286,16 @@ XXIV.
 
 Fomentar mecanismos de distinción de los productos provenientes del manejo forestal
 comunitario y fomentar su comercialización, y
+
+56 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 XXV.
 
@@ -4328,17 +4327,6 @@ del Fondo, se podrán utilizar los servicios de la banca privada.
 El Fondo Forestal Mexicano operará a través de un Comité Mixto, en él habrá una representación
 equilibrada y proporcionada del sector público federal, así como de las organizaciones privadas y
 sociales de productores forestales.
-
-57 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 La existencia del Fondo no limita la creación de diversos fondos privados o sociales que tengan una
 relación directa con el desarrollo forestal.
 Artículo 140. El Fondo Forestal Mexicano se podrá integrar con:
@@ -4365,6 +4353,16 @@ V.
 
 Un cinco por ciento del monto del bono certificado, a que se refiere el artículo 138 de la
 presente Ley;
+
+57 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 VI.
 
@@ -4413,16 +4411,6 @@ V.
 
 Instalaciones y equipos para la detección y combate de incendios forestales;
 
-58 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 VI.
 
 Viveros forestales, obras de captación de agua de lluvia, estaciones climatológicas, y
@@ -4441,6 +4429,17 @@ inviertan en infraestructura a que se refieren las fracciones III, IV y V del pr
 Artículo 142. La Comisión se coordinará con las dependencias y entidades de la Administración
 Pública Federal que tengan a su cargo las funciones de impulsar los programas de electrificación,
 desarrollo hidráulico, conservación de suelos y aguas, infraestructura vial y de ampliación de la
+
+58 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 comunicación rural, para que la promoción de acciones y obras respondan a conceptos de desarrollo
 integral.
 La Comisión coordinará junto con la Secretaría de Comunicaciones y Transportes y los gobiernos de
@@ -4475,16 +4474,6 @@ a)
 
 Promover la protección y conservación del patrimonio natural forestal;
 
-59 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 b)
 
 Impulsar el conocimiento del potencial integral de los ecosistemas forestales y sus
@@ -4513,6 +4502,16 @@ IV.
 Coadyuvar en la creación de programas o proyectos con el objeto de que otras
 instituciones públicas y privadas, nacionales y extranjeras, destinen recursos a
 actividades de capacitación, investigación, desarrollo e innovación tecnológica;
+
+59 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 V.
 
@@ -4555,17 +4554,6 @@ Nacional de Investigación y Desarrollo Tecnológico Forestal.
 
 Capítulo V
 De la Cultura, Educación y Capacitación Forestal
-
-60 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 144. La Comisión en coordinación con las dependencias o entidades competentes de la
 Administración Pública Federal, las correspondientes de las Entidades Federativas, así como las
 organizaciones e instituciones públicas, privadas y sociales, realizará en materia de cultura forestal las
@@ -4591,6 +4579,16 @@ IV.
 Promover la actualización de los contenidos curriculares en materia de conservación,
 protección, restauración y aprovechamientos forestales en el sistema educativo nacional,
 que fortalezcan y fomenten la cultura forestal;
+
+60 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 V.
 
@@ -4643,16 +4641,6 @@ productores forestales, así como de los pobladores de regiones forestales, en m
 conservación, protección, restauración y aprovechamiento sustentable de los recursos
 forestales, así como en materia de contingencias, emergencias e incendios forestales;
 
-61 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 VI.
 
 Formular programas de becas para la formación y capacitación forestal;
@@ -4673,6 +4661,17 @@ TÍTULO SÉPTIMO
 De la Participación Social en Materia Forestal
 Capítulo I
 De la Participación Social y la Concertación en Materia Forestal
+
+61 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 146. La Secretaría y la Comisión desarrollarán mecanismos de vinculación social para
 fomentar el desarrollo forestal sustentable.
 Artículo 147. El Ejecutivo Federal, por conducto de la Secretaría y de la Comisión, de acuerdo a sus
@@ -4704,17 +4703,6 @@ organizaciones de productores forestales y silvicultores, y demás personas inte
 propuestas de políticas de desarrollo, financiamiento y fomento en materia forestal, las cuales serán
 concertadas con la Secretaría, la Comisión y con las dependencias competentes de la Administración
 Pública Federal y con los gobiernos de las Entidades Federativas, para su aplicación.
-
-62 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 150. La Federación fomentará las acciones voluntarias de conservación, protección y
 restauración forestal que lleven a cabo los particulares, mediante:
 I.
@@ -4734,6 +4722,16 @@ III.
 
 La determinación de los compromisos que contraigan y de las obligaciones que asuman,
 en los términos de los programas de manejo forestal.
+
+62 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 Artículo 151. La Comisión, para la realización de las actividades previstas en este capítulo,
 promoverá la creación de empresas para el aprovechamiento forestal sustentable, la conservación de las
@@ -4765,17 +4763,6 @@ correspondientes.
 
 TÍTULO OCTAVO
 De los Medios de Control, Vigilancia y Sanción Forestales
-
-63 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Capítulo I
 De la Prevención y Vigilancia Forestal
 Artículo 154. La prevención y vigilancia forestal corresponde a la Secretaría, a través de la
@@ -4789,6 +4776,17 @@ Ambiente.
 Capítulo II
 De las Infracciones
 Artículo 155. Son infracciones a lo establecido en esta Ley:
+
+63 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 I.
 
 Realizar en terrenos forestales o preferentemente forestales cualquier tipo de obras o
@@ -4848,16 +4846,6 @@ Hacer uso inadecuado de la documentación proporcionada por la Comisión y/o de 
 Secretaría para acreditar la legal procedencia de materias primas forestales y sus
 productos;
 
-64 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XII.
 
 Causar daño o deterioro grave a los ecosistemas forestales;
@@ -4879,6 +4867,16 @@ XV.
 Transportar, almacenar, transformar o poseer materias primas forestales, sin contar con
 la documentación o los sistemas de control establecidos para acreditar su legal
 procedencia;
+
+64 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 XVI.
 
@@ -4942,16 +4940,6 @@ XXVII.
 Depositar residuos peligrosos en terrenos forestales o preferentemente forestales, sin
 contar con la autorización debidamente expedida para ello;
 
-65 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XXVIII.
 
 Carecer de la documentación o los sistemas de control establecidos para acreditar la
@@ -4969,6 +4957,16 @@ respectivo, con una o más de las siguientes sanciones:
 I.
 
 Amonestación;
+
+65 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 II.
 
@@ -5023,16 +5021,6 @@ Con el equivalente de 150 a 30,000 veces la Unidad de Medida y Actualización, a
 cometa las infracciones señaladas en las fracciones IX, XII, XIX, XXI, XXII, XXIII, XXIV y
 XXV del artículo 155 de esta Ley.
 
-66 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Para la imposición de multas servirá de base la Unidad de Medida y Actualización prevista en el
 párrafo sexto del Apartado B del artículo 26 de la Constitución Política de los Estados Unidos Mexicanos,
 al momento de cometerse la infracción.
@@ -5044,6 +5032,17 @@ infractor, éste no sea reincidente y no se trate de irregularidades que impliqu
 inminente de daño o deterioro grave de los ecosistemas forestales.
 Artículo 158. Las infracciones a esta Ley serán sancionadas por la Secretaría, tomando en
 consideración la gravedad de la infracción cometida, y:
+
+66 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 I.
 
 Los daños que se hubieren producido o puedan producirse, así como el tipo, localización
@@ -5088,17 +5087,6 @@ De igual manera, la Comisión podrá promover ante las autoridades federales o l
 con base en los estudios que elabore, la limitación o suspensión de la instalación o funcionamiento de
 industrias, comercios, servicios, desarrollos urbanos, turísticos o de cualquier actividad que afecte o
 pueda afectar los recursos forestales.
-
-67 de 69
-
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Nueva Ley DOF 05-06-2018
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 161. Son responsables solidarios de las infracciones, quienes intervienen en su preparación
 o realización.
 Artículo 162. Para los efectos de esta Ley, se considerará reincidente al infractor que incurra más de
@@ -5111,6 +5099,17 @@ Del recurso de revisión
 Artículo 163. En contra de los actos y resoluciones dictadas en los procedimientos administrativos
 con motivo de la aplicación de esta Ley, su Reglamento y Normas Oficiales Mexicanas que de ella
 emanen, se estará a lo dispuesto por la Ley Federal de Procedimiento Administrativo.
+
+67 de 69
+
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 05-06-2018
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo Segundo. ……….
 
 Artículos Transitorios
@@ -5141,6 +5140,16 @@ refiere el artículo 34, fracción VII en un plazo de un año a partir de la ent
 Quinto. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley
 deberán cubrirse con cargo al presupuesto autorizado a la Secretaría de Medio Ambiente y Recursos
 Naturales o de la Comisión Nacional Forestal para el presente ejercicio fiscal y los subsecuentes.
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para atender
+a lo previsto en el último párrafo del artículo 24, se cubrirán con los recursos que apruebe la H. Cámara
+de Diputados para la Secretaría de Medio Ambiente y Recursos Naturales y para la Secretaría de
+Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación en el Presupuesto de Egresos de la
+Federación del ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales para el
+presente ejercicio fiscal y los subsecuentes.
+Asimismo, las Entidades Federativas darán cumplimiento a las obligaciones establecidas en este
+Decreto, con cargo a sus respectivos presupuestos.
+Sexto. El instrumento de información a que se refiere el último párrafo del artículo 24, deberá ser
+implementado en el término de tres meses, contados a partir de la entrada en vigor del presente Decreto.
 
 68 de 69
 
@@ -5152,16 +5161,6 @@ Nueva Ley DOF 05-06-2018
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para atender
-a lo previsto en el último párrafo del artículo 24, se cubrirán con los recursos que apruebe la H. Cámara
-de Diputados para la Secretaría de Medio Ambiente y Recursos Naturales y para la Secretaría de
-Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación en el Presupuesto de Egresos de la
-Federación del ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales para el
-presente ejercicio fiscal y los subsecuentes.
-Asimismo, las Entidades Federativas darán cumplimiento a las obligaciones establecidas en este
-Decreto, con cargo a sus respectivos presupuestos.
-Sexto. El instrumento de información a que se refiere el último párrafo del artículo 24, deberá ser
-implementado en el término de tres meses, contados a partir de la entrada en vigor del presente Decreto.
 ………
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar
 Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Verónica Bermúdez
