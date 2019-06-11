@@ -156,7 +156,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/70.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/71_240418.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/73_150618.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/74.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/75_310519.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/75_100619.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/77_301116.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/78_281218.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf
@@ -483,8 +483,12 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Fomento_a_la_Industria_Vi
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Fomento_para_la_Lectura_y_el_Libro.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Fondos_de_Aseguramiento_Agropecuario_y_Rural.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Fondos_de_Inversion.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Hidrocarburos.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Ingresos_2019.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Ingresos_sobre_Hidrocarburos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Instituciones_de_Credito.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Inversion_Extranjera.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Migracion.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Nacionalidad.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Obras_Publicas_y_Servicios.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Organizaciones_Ganaderas.pdf
@@ -508,6 +512,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Comision_Nacional_Banc
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Comision_Nacional_de_los_Derechos_Humanos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Economia_Social_y_Solidaria-Parrafo_Octavo-Articulo_25-sector_social.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Guardia_Nacional.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Industria_Electrica.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Propiedad_Industrial.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_los_Derechos_de_las_Personas_Adultas_Mayores.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_los_Institutos_Nacionales_de_Salud.pdf
@@ -516,11 +521,14 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Banco_de_Mexico.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Diario_Oficial_de_la_Federacion_y_Gacetas.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Fondo_Mexicano_del_Petroleo_para_la%20Estabilizacion_y_el_Desarrollo.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Impuesto_al_Valor_Agregado.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Impuesto_sobre_la_Renta.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Instituto_Mexicano_de_la_Juventud.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Instituto_Nacional_de_las_Mujeres.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Instituto_Nacional_de_los_Pueblos_Indigenas.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Instituto_de_Seguridad_Social_para_las_Fuerzas_Armadas.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Instituto_de_Seguridad_y_Servicios_Sociales_de_los_Trabajadores.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Instituto_del_Fondo_Nacional_de_la_Vivienda.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Instituto_del_Fondo_Nacional_para_el_Consumo_de_los_Trabajadores.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Registro_Publico_Vehicular.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Seguro_Social.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Servicio_Exterior_Mexicano.pdf
@@ -532,6 +540,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Sistema_de_Horario.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_en_Favor_de_los_Veteranos_de_la_Revolucion_como_Servidores.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_para_Conservar_la_Neutralidad_del_Pais.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_para_Determinar_el_Valor_de_la_Unidad_de_Medida_y_Actualizacion.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_para_Impulsar_el_Incremento_Sostenido_de_la_Productividad_y_la_Competitividad-Economia.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_para_Regular_las_Sociedades_de_Informacion_Crediticia.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_para_el_Desarrollo_de_la_Competitividad_de_la_Micro_Pequena_y_Mediana_Empresa.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_para_el_Dialogo_la_Conciliacion_y_la_Paz_Digna_en_Chiapas.pdf
