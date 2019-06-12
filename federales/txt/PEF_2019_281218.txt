@@ -7,7 +7,7 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2019
-TEXTO VIGENTE a partir del 01-01-2019
+TEXTO VIGENTE
 Nuevo Presupuesto publicado en el Diario Oficial de la Federación el 28 de diciembre de 2018
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la
@@ -2171,8 +2171,6 @@ Comisión Federal de Competencia Económica
 
 Instituto Nacional para la Evaluación de la Educación
 
-697,340,971
-
 43
 
 Instituto Federal de Telecomunicaciones
@@ -2188,6 +2186,7 @@ RAMO: 32 TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
 Tribunal Federal de Justicia Administrativa
 B: RAMOS ADMINISTRATIVOS
 
+697,340,971
 1,500,000,000
 900,151,692
 12,129,702,814
@@ -3621,15 +3620,11 @@ Conducción de la política interior
 3,839,247,992
 
 Programa de Abasto Social de Leche a cargo de Liconsa, S.A. de C.V.
-
-33,418,356
-
 Programa de Abasto Rural a cargo de Diconsa, S.A. de C.V. (DICONSA)
-
-1,114,501,655
-
 Desarrollo Rural
 
+33,418,356
+1,114,501,655
 2,691,327,981
 
 09 Comunicaciones y Transportes
@@ -3899,14 +3894,12 @@ Competitividad
 45,726.2
 
 Programa de Apoyos a la Comercialización
-
-6,707.7
-
 Agricultura y Desarrollo Rural
 Agromercados Sociales y Sustentables
 Programa de Fomento a la Inversión y Productividad
 Agricultura y Desarrollo Rural
 
+6,707.7
 6,707.7
 6,707.7
 39,018.5
@@ -4377,11 +4370,12 @@ Conflictos Agrarios y Obligaciones Jurídicas
 454.7
 
 Regularización y Registro de Actos Jurídicos Agrarios
-Administrativa
 
 209.6
-9,917.1
 
+Administrativa
+
+9,917.1
 Gasto Administrativo
 
 9,917.1
@@ -5565,23 +5559,49 @@ Instituto Nacional de Investigaciones Nucleares
 
 867,652,490.0
 
-18,916,894.0
-
-0.0
-
-18,916,894.0
+Turismo
 
 18,916,894.0
 
 0.0
 
 18,916,894.0
+
+Instituto de Competitividad Turística
+
+18,916,894.0
+
+0.0
+
+18,916,894.0
+
+Provisiones Salariales y Económicas
 
 3,384,300,000.0
 
 0.0
 
 3,384,300,000.0
+
+Unidad de Política y Control Presupuestario
+
+3,384,300,000.0
+
+0.0
+
+3,384,300,000.0
+
+24,764,719,642.0
+
+3,573,621,164.0
+
+28,338,340,806.0
+
+53,980,047.0
+
+8,735,750.0
+
+62,715,797.0
 
 13
 212
@@ -5597,10 +5617,6 @@ A00
 411
 38
 
-Turismo
-Instituto de Competitividad Turística
-Provisiones Salariales y Económicas
-Unidad de Política y Control Presupuestario
 Consejo Nacional de Ciencia y Tecnología
 
 2,963,473,210.0
@@ -5637,24 +5653,6 @@ Consejo Nacional de Ciencia y Tecnología
 300,000.0
 
 209,702,701.0
-
-3,384,300,000.0
-
-0.0
-
-3,384,300,000.0
-
-24,764,719,642.0
-
-3,573,621,164.0
-
-28,338,340,806.0
-
-53,980,047.0
-
-8,735,750.0
-
-62,715,797.0
 
 90A
 
@@ -6304,13 +6302,11 @@ Programa de Coinversión Social
 136,436,016
 
 Programa de Apoyo a las Instancias de Mujeres en las Entidades Federativas (PAIMEF)
-
-278,535,043
-
 Programa de estancias infantiles para apoyar a madres trabajadoras
 Pensión para el Bienestar de las Personas Adultas Mayores
 21 Turismo
 
+278,535,043
 2,041,621,313
 37,957,507,158
 7,350,099
@@ -6916,8 +6912,6 @@ Infraestructura de agua potable, alcantarillado y saneamiento
 Actividades de apoyo administrativo
 Actividades de apoyo a la función pública y buen gobierno
 Planeación, Dirección y Evaluación Ambiental
-Programa de Conservación para el Desarrollo Sostenible
-Programa de agua potable, alcantarillado y saneamiento
 
 200,000,000
 98,355,164
@@ -6927,7 +6921,13 @@ Programa de agua potable, alcantarillado y saneamiento
 10,093,768
 3,202,130
 96,160,691
+
+Programa de Conservación para el Desarrollo Sostenible
+
 181,276,327
+
+Programa de agua potable, alcantarillado y saneamiento
+
 802,067,310
 
 Programas de apoyo a la infraestructura hidroagrícola
@@ -7239,10 +7239,7 @@ Planeación, Dirección y Evaluación Ambiental
 323,023
 5,358,331,389
 
-Seguro de Enfermedad y Maternidad
-
-3_/
-
+Seguro de Enfermedad y Maternidad 3_/
 20 Bienestar
 
 5,358,331,389
@@ -7605,27 +7602,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 
 Becas para la población atendida por el sector educativo
-
-163,787,130
-
 Servicios de educación básica en el D.F.
-
-37,247,147,101
-
 Servicios de educación normal en el D.F.
-
-1,055,388,302
-
 33 Aportaciones Federales para Entidades Federativas y Municipios
-
-432,223,516,929
-
-FAETA Educación de Adultos
 
 356,834,571
 
 FAETA Educación Tecnológica
-FAM Asistencia Social
 
 4,541,425,533
 
@@ -7633,14 +7616,22 @@ FAM Asistencia Social
 
 FAM Infraestructura Educativa Básica
 
+1,055,388,302
+432,223,516,929
+
+FAETA Educación de Adultos
+
+FAM Asistencia Social
+
+163,787,130
+37,247,147,101
+
 9,128,847,451
 1_/
 
-FAM Infraestructura Educativa Media Superior y Superior
+FAM Infraestructura Educativa Media Superior y Superior 1_/
 
 9,251,409,895
-1_/
-
 682,291,480
 
 FASSA
@@ -7768,15 +7759,14 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 
 Coordinación con las instancias que integran el Sistema Nacional de Protección
-
-47,444,903
-
 Integral de Niñas, Niños y Adolescentes
 Coordinación con las instancias que integran el Sistema Nacional de
 Seguridad Pública
 Operativos para la prevención y disuasión del delito
 Participación Social para la Reconstrucción del Tejido Social en México
 Programa de Derechos Humanos
+
+47,444,903
 
 314,911,473
 26,048,418,508
@@ -7793,14 +7783,18 @@ Promover la Protección de los Derechos Humanos y Prevenir la Discriminación
 
 Servicios de protección, custodia, vigilancia y seguridad de personas, bienes e
 instalaciones
-Subsidios en materia de seguridad pública
-06 Hacienda y Crédito Público
 
 1,534,891,897
-4,009,124,098
-176,560,353
 
+Subsidios en materia de seguridad pública
+
+4,009,124,098
+
+06 Hacienda y Crédito Público
+
+176,560,353
 Detección y prevención de ilícitos financieros
+
 07 Defensa Nacional
 
 176,560,353
@@ -7811,12 +7805,16 @@ Derechos humanos
 68,524,007
 
 Programa de igualdad entre mujeres y hombres SDN
-Programa de la Secretaría de la Defensa Nacional en Apoyo a la Seguridad
-Pública
-Sistema educativo militar
 
 124,115,610
+
+Programa de la Secretaría de la Defensa Nacional en Apoyo a la Seguridad
+Pública
+
 3,511,131,214
+
+Sistema educativo militar
+
 1,850,876,863
 
 10 Economía
@@ -7904,25 +7902,22 @@ Universidades para el Bienestar Benito Juárez García
 1,398,099,909
 
 Prevención y atención contra las adicciones
-
-1,356,787,373
-
 Prevención y control de enfermedades
-
-15,031,285
-
 Salud materna, sexual y reproductiva
-
-26,281,252
-
 13 Marina
 
+1,356,787,373
+15,031,285
+26,281,252
 7,894,062,422
+
 Emplear el Poder Naval de la Federación para salvaguardar la soberanía y
 seguridad nacionales
-Sistema Educativo naval y programa de becas
 
 5,936,591,586
+
+Sistema Educativo naval y programa de becas
+
 1,957,470,836
 
 14 Trabajo y Previsión Social
@@ -7945,11 +7940,9 @@ Instrumentación de la política laboral
 2,929,582,977
 
 Programa de Mejoramiento Urbano (PMU)
-
-2,929,582,977
-
 17 Procuraduría General de la República
 
+2,929,582,977
 1,348,789,490
 
 Promoción del Desarrollo Humano y Planeación Institucional
@@ -7989,24 +7982,19 @@ Sembrando Vida
 499,999,995
 
 33 Aportaciones Federales para Entidades Federativas y Municipios
-
-12,131,639,974
-
 Fondo de Aportaciones para la Educación Tecnológica y de Adultos (Educación
 Tecnológica) (FAETA)
 Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito
 Federal (FASP)
 Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las
-Demarcaciones Territoriales del Distrito Federal
+Demarcaciones Territoriales del Distrito Federal1_/
+47 Entidades no Sectorizadas
 
+12,131,639,974
 708,462,383
 
 7,210,000,000
 4,213,177,591
-
-1_/
-
-47 Entidades no Sectorizadas
 
 186,751,010
 Atención a Víctimas
@@ -8097,10 +8085,9 @@ MONTO
 Previsiones para servicios personales para los servicios de educación básica en el Distrito Federal, para el Fondo de
 Aportaciones para la Nómina Educativa y Gasto Operativo (FONE) y para el Fondo de Aportaciones para la
 Educación Tecnológica y de Adultos
+Aportaciones para los servicios de educación básica y normal en el Distrito Federal
 
 15,388,619,825
-
-Aportaciones para los servicios de educación básica y normal en el Distrito Federal
 
 38,679,465,868
 
@@ -8201,12 +8188,10 @@ ANEXO 23.1.1. LÍMITES DE PERCEPCIÓN ORDINARIA TOTAL EN LA ADMINISTRACIÓN PÚB
 MENSUALES) (pesos)
 
 Prestaciones
-2
+Percepción ordinaria total 2/
 
 Sueldos y salarios
 Grupo
-
-Percepción ordinaria total /
 
 Tipo de Personal
 
@@ -8223,9 +8208,7 @@ Mínimo
 
 Máximo
 
-1
-
-Personal de Mando /
+Personal de Mando 1/
 G
 
 Secretario de Estado
@@ -8505,9 +8488,7 @@ operativo y de categorías, varían conforme a las Condiciones Generales de Trab
 ANEXO 23.1.2. REMUNERACIÓN TOTAL LÍQUIDA MENSUAL DEL PRESIDENTE DE LA REPÚBLICA (pesos)
 
 Remuneración
-1/
-
-recibida
+recibida1/
 REMUNERACIÓN TOTAL LÍQUIDA MENSUAL NETA
 
 108,656
@@ -8654,33 +8635,38 @@ Mínimo
 
 Máximo
 
-Mínimo
-
-Máximo
-
-Mínimo
-
-Máximo
-
 Personal de Servicio Técnico de Carrera
 
 12,998
 
 45,830
 
+Personal operativo de confianza
+
+27,493
+
+29,246
+
+6,820
+
+17,526
+
+Personal operativo de base
+
+Mínimo
 5,679
+
+Máximo
+
+Mínimo
+
+Máximo
 
 10,710
 
 18,677
 
 56,540
-
-Personal operativo de confianza
-
-27,493
-
-29,246
 
 9,208
 
@@ -8690,10 +8676,6 @@ Personal operativo de confianza
 
 38,880
 
-6,820
-
-17,526
-
 31,138
 
 35,422
@@ -8701,8 +8683,6 @@ Personal operativo de confianza
 37,958
 
 52,948
-
-Personal operativo de base
 
 Este anexo refleja los límites mínimos y máximos de percepciones ordinarias netas mensuales aplicables a los servidores públicos
 durante 2018, en función del puesto que ocupen.
@@ -9284,18 +9264,18 @@ legisladores
 ANEXO 23.3.3.A. LÍMITES DE LA PERCEPCIÓN ORDINARIA TOTAL (NETOS MENSUALES) (pesos)
 CANAL GENERAL DE TELEVISIÓN DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-Sueldos y salarios
 Tipos de personal
+
+Sueldos y salarios
+Mínimo
+
+Máximo
 
 Prestaciones
 
 Percepción ordinaria total
 
 (Efectivo y Especie)
-Mínimo
-
-Máximo
-
 Mínimo
 
 Máximo
@@ -9491,21 +9471,26 @@ AUDITOR ESPECIAL
 133,286
 
 TITULAR DE UNIDAD
+
+105,000
+
+27,061
+
 DIRECTOR GENERAL Y HOMÓLOGOS
+DIRECTOR GENERAL ADJUNTO
+
+132,061
 
 102,748
 
-105,000
 104,000
 
 26,605
 
-27,061
 26,836
 
 129,353
 
-132,061
 130,836
 
 93,105
@@ -9519,8 +9504,6 @@ DIRECTOR GENERAL Y HOMÓLOGOS
 115,422
 
 118,950
-
-DIRECTOR GENERAL ADJUNTO
 
 77 de 112
 
@@ -9584,7 +9567,6 @@ PERSONAL OPERATIVO DE CONFIANZA
 
 COORDINADOR DE AUDITORES DE
 FISCALIZACIÓN
-COORDINADOR DE AUDITORES JURÍDICOS
 
 24,868
 
@@ -9597,6 +9579,8 @@ COORDINADOR DE AUDITORES JURÍDICOS
 35,339
 
 36,307
+
+COORDINADOR DE AUDITORES JURÍDICOS
 
 24,868
 
@@ -9654,31 +9638,24 @@ AUDITOR JURÍDICO "A"
 33,113
 
 AUDITOR ADMINISTRATIVO "A"
-
-21,929
-
-22,800
-
-10,349
-
-10,313
-
-32,278
-
-33,113
-
 AUDITOR DE FISCALIZACIÓN "B"
 
+21,929
 17,775
 
+22,800
 20,439
 
+10,349
 10,287
 
+10,313
 10,181
 
+32,278
 28,062
 
+33,113
 30,620
 
 AUDITOR JURÍDICO "B"
@@ -9718,15 +9695,19 @@ COORDINADOR DE ANALISTAS "A"
 28,932
 
 SECRETARIA PARTICULAR "A"
-OPERADOR SUPERVISOR "A"
 
 25,318
-19,762
 
 11,416
-13,033
 
 36,734
+
+OPERADOR SUPERVISOR "A"
+
+19,762
+
+13,033
+
 32,795
 
 SECRETARIA PARTICULAR "B"
@@ -9801,8 +9782,6 @@ TÉCNICO SUPERIOR
 
 COORDINADOR DE PROYECTOS
 ESPECIALES
-JEFE DE SECCIÓN DE ESPECIALISTAS
-HACENDARIOS
 
 10,196
 
@@ -9810,8 +9789,8 @@ HACENDARIOS
 
 33,238
 
-SECRETARIA DE DIRECTOR DE ÁREA
-PERSONAL OPERATIVO DE BASE
+JEFE DE SECCIÓN DE ESPECIALISTAS
+HACENDARIOS
 
 9,882
 
@@ -9860,19 +9839,15 @@ TÉCNICO MEDIO
 30,278
 
 ANALISTA CONTABLE
-
-7,529
-
-22,224
-
-29,753
-
 TÉCNICO CONTABLE
 
+7,529
 7,155
 
+22,224
 22,074
 
+29,753
 29,229
 
 TÉCNICO MEDIO CONTABLE
@@ -9890,6 +9865,9 @@ AUXILIAR TÉCNICO CONTABLE
 22,650
 
 29,312
+
+SECRETARIA DE DIRECTOR DE ÁREA
+PERSONAL OPERATIVO DE BASE
 
 1.- Los límites de percepción ordinaria neta mensual, no consideran efectos inflacionarios, ni la aplicación de disposiciones de carácter
 fiscal y de seguridad social.
@@ -10964,21 +10942,19 @@ Mínimo
 Máximo
 
 Total Puestos
-PLAZAS TÉCNICO OPERATIVO NIVEL O1A-O1D
-
-/1
+PLAZAS TÉCNICO OPERATIVO NIVEL O1A-O1D /1
 
 19
 
 235,600
-
-PLAZAS TÉCNICO OPERATIVO NIVEL O1A-O1D
 
 /2
 
 19
 
 70,205
+
+PLAZAS TÉCNICO OPERATIVO NIVEL O1A-O1D
 
 1/ Corresponde a la prestación denominada medidas de fin de año (vales de despensa)
 2/ Corresponde a la prestación denominada ayuda para útiles escolares (efectivo)
@@ -10987,7 +10963,6 @@ ANEXO 23.11. INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN
 ANEXO 23.11.1. LÍMITES DE PERCEPCIÓN ORDINARIA TOTAL EN EL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA
 EDUCACIÓN (NETOS MENSUALES) (pesos)
 
-Prestaciones
 Grupo
 
 Tipo de personal
@@ -10997,6 +10972,7 @@ Mínimo
 
 Máximo
 
+Prestaciones
 (En efectivo y en especie)
 Mínimo
 
@@ -11063,6 +11039,12 @@ Coordinador
 CD
 
 Director General
+
+100,100
+
+17,012
+
+117,112
 
 DD
 
@@ -11158,12 +11140,6 @@ Personal de Enlace
 18,630
 
 Personal Operativo
-
-100,100
-
-17,012
-
-117,112
 
 1/ La percepción ordinaria incluye todos los ingresos que reciben los servidores públicos por Sueldos y Salarios, y por Prestaciones,
 independientemente de que se reciba en forma periódica o en fechas definidas. Los montos netos mensuales corresponden a la cantidad
@@ -13041,6 +13017,7 @@ ANEXO 30. PROGRAMA HIDRÁULICO: SUBSIDIOS PARA ENTIDADES FEDERATIVAS (pesos)
 
 Subsidios
 Subsidios
+
 Estado
 
 Administración del
@@ -13254,9 +13231,12 @@ Zacatecas
 2,000,000,000
 
 TOTAL
+
 ANEXO 31. ADECUACIONES APROBADAS POR LA H. CÁMARA DE DIPUTADOS (pesos)
 PROYECTO PEF
 A: RAMOS AUTÓNOMOS
+
+REDUCCIONES
 
 AMPLIACIONES
 
@@ -13264,7 +13244,6 @@ REASIGNACIONES
 
 100,940,808,481
 
-REDUCCIONES
 3,428,900,000
 
 0
@@ -14470,7 +14449,7 @@ GASTO NETO TOTAL
 Servicios Personales.
 2/ Incluye movimiento compensado al interior del Consejo Nacional de Evaluación de la Política de Desarrollo Social a través del cual se reasignan 8,800,000 pesos del gasto de operación al
 capítulo 1000 Servicios Personales.
-3/ Incluye movimiento compensado al interior de la Procuraduría de la Defensa del Contribuyente a través del cual se reasignan 61,200 ,000 pesos del gasto de operación al capítulo 1000
+3/ Incluye movimiento compensado al interior de la Procuraduría de la Defensa del Contribuyente a través del cual se reasignan 61,200,000 pesos del gasto de operación al capítulo 1000
 Servicios Personales.
 
 ANEXO 32. AMPLIACIONES AL RAMO 04 GOBERNACIÓN (pesos)
@@ -14534,12 +14513,13 @@ Programa de Acciones Complementarias para Mejorar las Sanidades
 2,000,000,000
 
 U022
-U024
 
 Fertilizantes
+
+U024
+
 Desarrollo Rural *
 
-500,000,000
 1,700,000,000
 
 U025
@@ -14547,6 +14527,8 @@ U025
 Agromercados sociales y sustentables
 
 1,300,000,000
+
+500,000,000
 
 * Se incorpora el Programa de Desarrollo Rural, en el cual adicionalmente se asignarán la totalidad de los recursos previstos en el
 Programa S266 "Programa de Apoyos a Pequeños Productores" por 6,131.6 millones de pesos, mismos que incluyen 318.3 millones de
@@ -14606,16 +14588,14 @@ EDUCACIÓN BÁSICA
 S270 Programa Nacional de Inglés
 U031 Expansión de la Educación Inicial
 EDUCACIÓN SUPERIOR
-1_/
-A3Q Universidad Nacional Autónoma de México
+A3Q Universidad Nacional Autónoma de México 1_/
 2_/
 B00 Instituto Politécnico Nacional
 L6H Comision de Operación y Fomento de Activiades Académicas del Instituto
 Politécnico Nacional
 MGC Patronato de Obras e Instalaciones del Instituto
 Politécnico Nacional
-3_/
-A2M Universidad Autónoma Metropolitana
+A2M Universidad Autónoma Metropolitana 3_/
 L4J Centro de Investigación y de Estudios Avanzados del Instituto Politécnico
 Nacional
 MGH Universidad Autónoma Agraria Antonio Narro
@@ -14648,64 +14628,42 @@ Nuevo Presupuesto DOF 28-12-2018
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-U006 Subsidios para Organismos Descentralizados Estatales (511, 514 y M00)
-
-4_/
-
+U006 Subsidios para Organismos Descentralizados Estatales (511, 514 y M00) 4_/
 DEPORTE
-S269 Programa de Cultura Fisica y Deporte
-1_/
-2_/
-3_/
-4_/
-5_/
+S269 Programa de Cultura Fisica y Deporte 5_/
 
 2,671,998,693
 200,000,000
 200,000,000
 
-5_/
-
-Incluye recursos por 256,318,149 pesos para Becas.
-Incluye recursos por 216,124,087 pesos para Becas.
-Incluye recursos por 67,701,452 pesos para Becas.
-Incluye 50 millones de pesos adicionales para la Benemérita Universidad Autonóma de Puebla.
-Incluye recursos para el Consejo Nacional del Deporte de la Educación.
-
+1_/ Incluye recursos por 256,318,149 pesos para Becas.
+2_/ Incluye recursos por 216,124,087 pesos para Becas.
+3_/ Incluye recursos por 67,701,452 pesos para Becas.
+4_/ Incluye 50 millones de pesos adicionales para la Benemérita Universidad Autonóma de Puebla.
+5_/ Incluye recursos para el Consejo Nacional del Deporte de la Educación.
 ANEXO 36. AMPLIACIONES AL RAMO 12 SALUD (pesos)
 Monto
 RAMO 12 Salud
 
 1,057,449,394
-Erogaciones para la Igualdad entre Mujeres y Hombres
-
-1/
-
+Erogaciones para la Igualdad entre Mujeres y Hombres 1/
 Salud materna, sexual y reproductiva
-Instituto Nacional de Cancerología
-Instituto Nacional de Pediatría
+Instituto Nacional de Cancerología 2/
+Instituto Nacional de Pediatría 3/
+Hospital Infantil de México Federico Gómez 3/
 
-2/
-
-25,000,000
-3/
-
-Prevención y Control de Sobrepeso, Obesidad y Diabetes
-Atención a la Salud
-
+57,449,394
 57,449,394
 200,000,000
-
-3/
-
-Hospital Infantil de México Federico Gómez
-
-57,449,394
-
-4/
-
 25,000,000
+25,000,000
+
+Prevención y Control de Sobrepeso, Obesidad y Diabetes
+
 500,000,000
+
+Atención a la Salud 4/
+
 200,000,000
 
 Proyectos de Infraestructura Social en Salud
@@ -14843,16 +14801,12 @@ Apoyos para actividades científicas, tecnológicas y de innovación
 ANEXO 42. AMPLIACIONES AL RAMO 47 ENTIDADES NO SECTORIZADAS (pesos)
 MONTO
 Ramo 47 Entidades No Sectorizadas
-HHG
 
 218,918,921
 
-Instituto Nacional de las Mujeres
+Instituto Nacional de las Mujeres 1_/
 
-1_/
-
-214,643,657
-
+HHG
 M001
 
 Actividades de apoyo administrativo
@@ -14870,20 +14824,20 @@ S010
 Fortalecimiento a la Transversalidad de la Perspectiva de Género
 
 AYB
-
-Instituto Nacional de los Pueblos Indígenas
 U011
 
+214,643,657
 2,054,361
-
-1_/
-
-Programa de Derechos Indígenas
-
 2,201,876
 62,866,334
 147,521,086
+
+Instituto Nacional de los Pueblos Indígenas 1_/
+
 4,275,264
+
+Programa de Derechos Indígenas
+
 4,275,264
 
 1_/ Monto incluido en el Anexo 13 Erogaciones para la Igualdad entre Mujeres y Hombres.
@@ -14894,9 +14848,7 @@ Ramo 48 Cultura
 S268
 
 500,000,000
-Programa de Apoyos a la Cultura
-
-1_/
+Programa de Apoyos a la Cultura 1_/
 
 Proyectos Estatales
 
