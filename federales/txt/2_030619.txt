@@ -1786,8 +1786,8 @@ V. El Ministerio Público.
 Artículo 316.- Si las personas a que se refieren las fracciones II, III y IV del artículo anterior no
 pueden representarlo en el juicio en que se pida el aseguramiento de los alimentos, se nombrará por el
 juez un tutor interino.
-Artículo 317.El aseguramiento podrá consistir en hipoteca, prenda, fianza, depósito de cantidad bastante a cubrir
-los alimentos o cualesquiera otra forma de garantía suficiente a juicio del juez.
+Artículo 317.- El aseguramiento podrá consistir en hipoteca, prenda, fianza, depósito de cantidad
+bastante a cubrir los alimentos o cualesquiera otra forma de garantía suficiente a juicio del juez.
 Artículo 318.- El tutor interino dará garantía por el importe anual de los alimentos. Si administrare
 algún fondo destinado a ese objeto, por él dará la garantía legal.
 Artículo 319.- En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo
@@ -1890,6 +1890,8 @@ marido después de haber salido de la tutela, pero siempre en el plazo antes des
 desde el día en que legalmente se declare haber cesado el impedimento.
 Artículo 332.- Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la razón, los herederos
 pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
+Artículo 333.- Los herederos del marido, excepto en el caso del artículo anterior, no podrán
+contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del
 
 37 de 316
 
@@ -1901,8 +1903,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 333.- Los herederos del marido, excepto en el caso del artículo anterior, no podrán
-contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del
 matrimonio, cuando el esposo no haya comenzado esta demanda. En los demás casos, si el esposo ha
 muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán, para proponer la
 demanda, sesenta días, contados desde aquel en que el hijo haya sido puesto en posesión de los bienes
@@ -1940,6 +1940,8 @@ posesión constante de estado de hijo nacido de matrimonio. En defecto de esta p
 para demostrar la filiación todos los medios de prueba que la ley autoriza, pero la testimonial no es
 admisible si no hubiere un principio de prueba por escrito o indicios o presunciones resultantes de hechos
 ciertos que se consideren bastante graves para determinar su admisión.
+Si uno solo de los registros faltare o estuviere inutilizado y existe el duplicado, de éste deberá tomarse
+la prueba, sin admitirla de otra clase.
 
 38 de 316
 
@@ -1951,8 +1953,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Si uno solo de los registros faltare o estuviere inutilizado y existe el duplicado, de éste deberá tomarse
-la prueba, sin admitirla de otra clase.
 Artículo 342.- Si hubiere hijos nacidos de dos personas que han vivido públicamente como marido y
 mujer, y ambos hubieren fallecido, o por ausencia o enfermedad les fuere imposible manifestar el lugar en
 que se casaron, no podrá disputarse a esos hijos haber nacido de matrimonio por sólo la falta de
@@ -1987,6 +1987,8 @@ También podrán contestar toda demanda que tenga por objeto disputarle la condi
 de matrimonio.
 Artículo 350.- Los acreedores, legatarios y donatarios tendrán los mismos derechos que a los
 herederos conceden los artículos 348 y 349, si el hijo no dejó bienes suficientes para pagarles.
+Artículo 351.- Las acciones de que hablan los tres artículos que preceden, prescriben a los cuatro
+años, contados desde el fallecimiento del hijo.
 
 39 de 316
 
@@ -1998,8 +2000,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 351.- Las acciones de que hablan los tres artículos que preceden, prescriben a los cuatro
-años, contados desde el fallecimiento del hijo.
 Artículo 352.- La posesión de hijo nacido de matrimonio no puede perderse sino por sentencia
 ejecutoriada, la cual admitirá los recursos que den las leyes, en los juicios de mayor interés.
 Artículo 353.- Si el que está en posesión de los derechos de padre o de hijo fuere despojado de ellos
@@ -2037,6 +2037,8 @@ que ejerzan sobre él la patria potestad, o de la persona bajo cuya tutela se en
 sin la autorización judicial.
 Artículo 363.- El reconocimiento hecho por un menor es anulable si prueba que sufrió error o engaño
 al hacerlo, pudiendo intentar la acción hasta cuatro años después de la mayor edad.
+Artículo 364.- Puede reconocerse al hijo que no ha nacido y al que ha muerto si ha dejado
+descendencia.
 
 40 de 316
 
@@ -2048,8 +2050,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 364.- Puede reconocerse al hijo que no ha nacido y al que ha muerto si ha dejado
-descendencia.
 Artículo 365.- Los padres pueden reconocer a su hijo conjunta o separadamente.
 Artículo 366.- El reconocimiento hecho por uno de los padres, produce efectos respecto de él y no
 respecto del otro progenitor.
@@ -2082,6 +2082,9 @@ Artículo 372.- El cónyuge podrá reconocer al hijo habido antes de su matrimon
 del otro cónyuge; pero no tendrá derecho a llevarlo a vivir a la habitación conyugal si no es con la
 anuencia expresa de éste.
 Artículo 373.- (Se deroga).
+Artículo 374.- El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto
+del marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoria se haya declarado que no
+es hijo suyo.
 
 41 de 316
 
@@ -2093,9 +2096,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 374.- El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto
-del marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoria se haya declarado que no
-es hijo suyo.
 Artículo 375.- El hijo mayor de edad no puede ser reconocido sin su consentimiento, ni el menor sin el
 de su tutor si lo tiene, o el del tutor que el juez le nombrará especialmente para el caso.
 Artículo 376.- Si el hijo reconocido es menor, puede reclamar contra del reconocimiento cuando
@@ -2130,6 +2130,8 @@ techo con el pretendido padre, viviendo maritalmente;
 IV. Cuando el hijo tenga a su favor un principio de prueba contra el pretendido padre.
 Artículo 383.- Se presumen hijos del concubinario y de la concubina:
 I. Los nacidos después de ciento ochenta días contados desde que comenzó el concubinato;
+II. Los nacidos dentro de los trescientos días siguientes al en que cesó la vida común entre el
+concubinario y la concubina.
 
 42 de 316
 
@@ -2141,8 +2143,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-II. Los nacidos dentro de los trescientos días siguientes al en que cesó la vida común entre el
-concubinario y la concubina.
 Artículo 384.- La posesión de estado, para los efectos de la fracción II del artículo 382, se justificará
 demostrando por los medios ordinarios de prueba, que el hijo ha sido tratado por el presunto padre, o por
 su familia, como hijo del primero, y que éste ha proveído a su subsistencia, educación y establecimiento.
@@ -2176,6 +2176,9 @@ de la misma, y
 III. Que el adoptante es persona apta y adecuada para adoptar.
 Cuando circunstancias especiales lo aconsejen, el juez puede autorizar la adopción de dos o más
 incapacitados o de menores e incapacitados simultáneamente.
+Artículo 391. Los cónyuges o concubinos podrán adoptar, cuando los dos estén conformes en
+considerar al adoptado como hijo y aunque sólo uno de los cónyuges o concubinos cumpla el requisito de
+la edad a que se refiere el artículo anterior, pero siempre y cuando la diferencia de edad entre cualquiera
 
 43 de 316
 
@@ -2187,9 +2190,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 391. Los cónyuges o concubinos podrán adoptar, cuando los dos estén conformes en
-considerar al adoptado como hijo y aunque sólo uno de los cónyuges o concubinos cumpla el requisito de
-la edad a que se refiere el artículo anterior, pero siempre y cuando la diferencia de edad entre cualquiera
 de los adoptantes y el adoptado sea de diecisiete años cuando menos. Se deberán acreditar además los
 requisitos previstos en las fracciones del artículo anterior.
 Artículo 392.- Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en el
@@ -2225,6 +2225,8 @@ adopción, quedará ésta consumada.
 Artículo 401.- El juez que apruebe la adopción remitirá copia de las diligencias respectivas al Juez del
 Registro Civil del lugar para que levante el acta correspondiente.
 
+Sección Segunda
+De la Adopción Simple
 44 de 316
 
 CÓDIGO CIVIL FEDERAL
@@ -2235,8 +2237,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Sección Segunda
-De la Adopción Simple
 Artículo 402. Se deroga.
 Artículo 403. Se deroga.
 Artículo 404. Se deroga.
@@ -2270,6 +2270,9 @@ edad, si fuere menor de edad se requerirá el consentimiento de los adoptantes.
 Artículo 410 D.- No pueden adoptar mediante adopción plena, las personas que tengan vínculo de
 parentesco consanguíneo con el menor o incapaz.
 
+Sección Cuarta
+De la Adopción Internacional
+
 45 de 316
 
 CÓDIGO CIVIL FEDERAL
@@ -2280,8 +2283,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Sección Cuarta
-De la Adopción Internacional
 Artículo 410 E.- La adopción internacional es la promovida por ciudadanos de otro país, con
 residencia habitual fuera del territorio nacional; y tiene como objeto incorporar, en una familia, a un menor
 que no puede encontrar una familia en su propio país de origen. Esta adopción se regirá por los tratados
@@ -2318,6 +2319,8 @@ conducente oyendo al Ministerio Público, sin perjuicio de lo previsto en el art
 Procedimientos Civiles para el Distrito Federal.
 En este supuesto, con base en el interés superior del menor, éste quedará bajo los cuidados y
 atenciones de uno de ellos. El otro estará obligado a colaborar en su alimentación y conservará los
+derechos de vigilancia y de convivencia con el menor, conforme a las modalidades previstas en el
+convenio o resolución judicial.
 
 46 de 316
 
@@ -2329,8 +2332,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-derechos de vigilancia y de convivencia con el menor, conforme a las modalidades previstas en el
-convenio o resolución judicial.
 Artículo 417.- Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho
 de convivencia con sus descendientes, salvo que exista peligro para éstos.
 No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En
@@ -2369,6 +2370,9 @@ irracional disenso, resolverá el juez.
 
 CAPITULO II
 De los Efectos de la Patria Potestad Respecto de los Bienes del Hijo
+Artículo 425.- Los que ejercen la patria potestad son legítimos representantes de los que están bajo
+de ella, y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones
+de este Código.
 
 47 de 316
 
@@ -2380,9 +2384,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 425.- Los que ejercen la patria potestad son legítimos representantes de los que están bajo
-de ella, y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones
-de este Código.
 Artículo 426.- Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo
 y la abuela, o por los adoptantes, el administrador de los bienes será nombrado por mutuo acuerdo; pero
 el designado consultará en todos los negocios a su consorte y requerirá su consentimiento expreso para
@@ -2416,6 +2417,9 @@ Artículo 435.- (Se deroga).
 Artículo 436.- Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo los
 bienes inmuebles y los muebles preciosos que correspondan al hijo, sino por causa de absoluta
 necesidad o de evidente beneficio, y previa la autorización del juez competente.
+Tampoco podrán celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta
+anticipada por más de dos años; vender valores comerciales, industriales, títulos de rentas, acciones,
+frutos y ganados, por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los
 
 48 de 316
 
@@ -2427,9 +2431,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Tampoco podrán celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta
-anticipada por más de dos años; vender valores comerciales, industriales, títulos de rentas, acciones,
-frutos y ganados, por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los
 bienes de los hijos o remisión voluntaria de los derechos de éstos; ni dar fianza en representación de los
 hijos.
 Artículo 437.- Siempre que el juez conceda licencia a los que ejercen la patria potestad, para
@@ -2475,6 +2476,8 @@ II.
 
 III. Por la mayor edad del hijo.
 Artículo 444.- La patria potestad se pierde por resolución judicial:
+I.- Cuando el que la ejerza sea condenado expresamente a la pérdida de ese derecho;
+II. En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 283;
 
 49 de 316
 
@@ -2486,8 +2489,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-I.- Cuando el que la ejerza sea condenado expresamente a la pérdida de ese derecho;
-II. En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 283;
 III. Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus
 deberes, pudiere comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos
 hechos no cayeren bajo la sanción de la ley penal;
@@ -2519,6 +2520,9 @@ Artículo 449.- El objeto de la tutela es la guarda de la persona y bienes de lo
 a patria potestad tienen incapacidad natural y legal, o solamente la segunda, para gobernarse por sí
 mismos. La tutela puede también tener por objeto la representación interina del incapaz en los casos
 especiales que señale la ley.
+En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto
+en cuanto a la guarda y educación de los menores a las modalidades de que habla la parte final del
+artículo 413.
 
 50 de 316
 
@@ -2530,9 +2534,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto
-en cuanto a la guarda y educación de los menores a las modalidades de que habla la parte final del
-artículo 413.
 Artículo 450.- Tienen incapacidad natural y legal:
 I. Los menores de edad;
 II. Los mayores de edad disminuidos o perturbados en su inteligencia, aunque tengan intervalos
@@ -2567,6 +2568,8 @@ parentesco de consanguinidad con las mencionadas personas, en la línea recta, s
 y en la colateral dentro del cuarto grado inclusive.
 Artículo 460.- Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a
 quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas
+con quienes haya vivido, están obligados a dar parte del fallecimiento al juez pupilar, dentro de ocho días,
+a fin de que se provea a la tutela, bajo la pena de veinticinco a cien pesos de multa.
 
 51 de 316
 
@@ -2578,8 +2581,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-con quienes haya vivido, están obligados a dar parte del fallecimiento al juez pupilar, dentro de ocho días,
-a fin de que se provea a la tutela, bajo la pena de veinticinco a cien pesos de multa.
 Los jueces del Registro Civil, las autoridades administrativas y las judiciales tienen obligación de dar
 aviso a los jueces pupilares de los casos en que sea necesario nombrar tutor y que lleguen a su
 conocimiento en el ejercicio de sus funciones.
@@ -2616,6 +2617,9 @@ potestad conforme a lo dispuesto en el artículo 414, tiene derecho, aunque fuer
 en su testamento a aquellos sobre quienes la ejerzan, con inclusión del hijo póstumo.
 Artículo 471.- El nombramiento de tutor testamentario hecho en los términos del artículo anterior,
 excluye del ejercicio de la patria potestad a los ascendientes de ulteriores grados.
+Artículo 472.- Si los ascendientes excluidos estuvieren incapacitados o ausentes, la tutela cesará
+cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto
+expresamente que continúe la tutela.
 
 52 de 316
 
@@ -2627,9 +2631,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 472.- Si los ascendientes excluidos estuvieren incapacitados o ausentes, la tutela cesará
-cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto
-expresamente que continúe la tutela.
 Artículo 473.- El que en su testamento deje bienes, ya sea por legado o por herencia, a un incapaz
 que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la
 administración de los bienes que le deje.
@@ -2662,6 +2663,8 @@ II. Cuando deba nombrarse tutor por causa de divorcio.
 Artículo 483.- La tutela legítima corresponde:
 I. A los hermanos, prefiriéndose a los que lo sean por ambas líneas;
 II. Por falta o incapacidad de los hermanos, a los demás colaterales dentro del cuarto grado inclusive.
+Artículo 484.- Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que le
+parezca más apto para el cargo; pero si el menor hubiere cumplido dieciséis años, él hará la elección.
 
 53 de 316
 
@@ -2673,8 +2676,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 484.- Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que le
-parezca más apto para el cargo; pero si el menor hubiere cumplido dieciséis años, él hará la elección.
 Artículo 485.- La falta temporal del tutor legítimo, se suplirá en los términos establecidos en los dos
 artículos anteriores.
 
@@ -2714,6 +2715,7 @@ potestad y no se encuentre señalado como responsable del evento de violencia fa
 
 CAPITULO VI
 De la Tutela Dativa
+Artículo 495.- La tutela dativa tiene lugar:
 
 54 de 316
 
@@ -2725,7 +2727,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 495.- La tutela dativa tiene lugar:
 I. Cuando no hay tutor testamentario ni persona a quien conforme a la ley corresponda la tutela
 legítima;
 II. Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo, y no hay ningún
@@ -2805,6 +2806,7 @@ I. Los que sin haber caucionado su manejo conforme a la ley, ejerzan la administ
 II. Los que se conduzcan mal en el desempeño de la tutela, ya sea respecto de la persona, ya
 respecto de la administración de los bienes del incapacitado;
 III. Los tutores que no rindan sus cuentas dentro del término fijado por el artículo 590;
+IV. Los comprendidos en el artículo anterior, desde que sobrevenga o se averigüe su incapacidad;
 
 56 de 316
 
@@ -2816,7 +2818,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-IV. Los comprendidos en el artículo anterior, desde que sobrevenga o se averigüe su incapacidad;
 V. El tutor que se encuentre en el caso previsto en el artículo 159;
 VI. El tutor que permanezca ausente por más de seis meses, del lugar en que debe desempeñar la
 tutela.
@@ -2940,9 +2941,8 @@ disminuyen durante la tutela, podrán aumentarse o disminuirse proporcionalmente
 la fianza, a pedimento del tutor, del curador, del Ministerio Público o del Consejo Local de Tutelas.
 Artículo 530.- El Juez responde subsidiariamente con el tutor, de los daños y perjuicios que sufra el
 incapacitado por no haber exigido que se caucione el manejo de la tutela.
-Artículo 531
-Si el tutor, dentro de tres meses después de aceptado su nombramiento, no pudiere dar la garantía
-por las cantidades que fija el artículo 528, se procederá al nombramiento de nuevo tutor.
+Artículo 531.- Si el tutor, dentro de tres meses después de aceptado su nombramiento, no pudiere
+dar la garantía por las cantidades que fija el artículo 528, se procederá al nombramiento de nuevo tutor.
 Artículo 532.- Durante los tres meses señalados en el artículo precedente, desempeñará la
 administración de los bienes un tutor interino, quien los recibirá por inventario solemne, y no podrá
 ejecutar otros actos que los indispensables para la conservación de los bienes y percepción de los
@@ -7875,8 +7875,7 @@ Secretaría de Servicios Parlamentarios
 
 Artículo 1748.- Si la revocación se hace sin causa justificada, el albacea removido tiene derecho de
 percibir lo que el testador le haya dejado por el desempeño del cargo o el tanto por ciento que le
-corresponda conforme al artículo 1741, teniéndose en cuenta lo dispuesto en el
-artículo 1743.
+corresponda conforme al artículo 1741, teniéndose en cuenta lo dispuesto en el artículo 1743.
 Artículo 1749.- La remoción no tendrá lugar sino por sentencia pronunciada en el incidente
 respectivo, promovido por parte legítima.
 
@@ -10655,7 +10654,6 @@ V. A responder de los daños y perjuicios que sufra el arrendatario por los defe
 la cosa, anteriores al arrendamiento.
 Artículo 2413.- La entrega de la cosa se hará en el tiempo convenido; y si no hubiere convenio, luego
 que el arrendador fuere requerido por el arrendatario.
-Artículo 2414
 
 219 de 316
 
@@ -10667,8 +10665,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-El arrendador no puede, durante el arrendamiento, mudar la forma de la cosa arrendada, ni intervenir
-en el uso legítimo de ella, salvo el caso designado en la fracción III, del artículo 2412.
+Artículo 2414.- El arrendador no puede, durante el arrendamiento, mudar la forma de la cosa
+arrendada, ni intervenir en el uso legítimo de ella, salvo el caso designado en la fracción III, del artículo
+2412.
 Artículo 2415.- El arrendatario está obligado a poner en conocimiento del arrendador, a la brevedad
 posible, la necesidad de las reparaciones, bajo pena de pagar los daños y perjuicios que su omisión
 cause.
@@ -10704,9 +10703,6 @@ III. Cuando el contrato fuere por tiempo indeterminado, si el arrendador autoriz
 que hiciera mejoras y antes de que transcurra el tiempo necesario para que el arrendatario quede
 compensado con el uso de las mejoras de los gastos que hizo, da el arrendador por concluído el
 arrendamiento.
-Artículo 2424.- Las mejoras a que se refieren las fracciones II y III del artículo anterior, deberán ser
-pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras
-quedasen a beneficio de la cosa arrendada.
 
 220 de 316
 
@@ -10717,6 +10713,10 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+Artículo 2424.- Las mejoras a que se refieren las fracciones II y III del artículo anterior, deberán ser
+pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras
+quedasen a beneficio de la cosa arrendada.
 
 CAPITULO III
 De los Derechos y Obligaciones del Arrendatario
@@ -10751,8 +10751,6 @@ Artículo 2436.- El arrendatario no responde del incendio que se haya comunicado
 tomó las precauciones necesarias para evitar que el fuego se propagara.
 Artículo 2437.- Cuando son varios los arrendatarios y no se sabe dónde comenzó el incendio, todos
 son responsables proporcionalmente a la renta que paguen, y si el arrendador ocupa parte de la finca,
-también responderá proporcionalmente a la renta que a esa parte fijen peritos. Si se prueba que el
-incendio comenzó en la habitación de uno de los inquilinos, solamente éste será el responsable.
 
 221 de 316
 
@@ -10764,6 +10762,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+también responderá proporcionalmente a la renta que a esa parte fijen peritos. Si se prueba que el
+incendio comenzó en la habitación de uno de los inquilinos, solamente éste será el responsable.
 Artículo 2438.- Si alguno de los arrendatarios prueba que el fuego no pudo comenzar en la parte que
 ocupa, quedará libre de responsabilidad.
 Artículo 2439.- La responsabilidad en los casos de que tratan los artículos anteriores, comprende no
@@ -10800,9 +10800,6 @@ de orden público e interés social, por tanto son irrenunciables y en consecuen
 en contrario se tendrá por no puesta.
 Artículo 2448-A.- No deberá darse en arrendamiento una localidad que no reúna las condiciones de
 higiene y salubridad exigidas por la Ley de la materia.
-Artículo 2448-B.- El arrendador que no haga las obras que ordene la autoridad correspondiente como
-necesarias para que una localidad sea habitable, higiénica y segura es responsable de los daños y
-perjuicios que los inquilinos sufran por esa causa.
 
 222 de 316
 
@@ -10814,6 +10811,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo 2448-B.- El arrendador que no haga las obras que ordene la autoridad correspondiente como
+necesarias para que una localidad sea habitable, higiénica y segura es responsable de los daños y
+perjuicios que los inquilinos sufran por esa causa.
 Artículo 2448-C.- La duración mínima de todo contrato de arrendamiento de fincas urbanas
 destinadas a la habitación será de un año forzoso para arrendador y arrendatario, salvo convenio en
 contrario.
@@ -10844,10 +10844,6 @@ Igualmente el arrendatario tendrá derecho para registrar su copia de contrato d
 autoridad competente del Gobierno del Distrito Federal.
 Artículo 2448-H.- El arrendamiento de fincas urbanas destinadas a la habitación no termina por la
 muerte del arrendador ni por la del arrendatario, sino sólo por los motivos establecidos en las leyes.
-Con exclusión de cualquier otra persona, el cónyuge, el o la concubina, los hijos, los ascendientes en
-línea consanguínea o por afinidad del arrendatario fallecido se subrogarán en los derechos y obligaciones
-de éste, en los mismos términos del contrato, siempre y cuando hubieran habitado real y
-permanentemente el inmueble en vida del arrendatario.
 
 223 de 316
 
@@ -10859,6 +10855,10 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Con exclusión de cualquier otra persona, el cónyuge, el o la concubina, los hijos, los ascendientes en
+línea consanguínea o por afinidad del arrendatario fallecido se subrogarán en los derechos y obligaciones
+de éste, en los mismos términos del contrato, siempre y cuando hubieran habitado real y
+permanentemente el inmueble en vida del arrendatario.
 No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como
 subarrendatarias, cesionarias o por otro título semejante que no sea la situación
 prevista en este artículo.
@@ -10894,10 +10894,6 @@ Artículo 2450.- (Se deroga).
 Artículo 2451.- (Se deroga).
 Artículo 2452.- (Se deroga).
 
-CAPITULO V
-Del Arrendamiento de Fincas Rústicas
-Artículo 2453.- (Se deroga).
-
 224 de 316
 
 CÓDIGO CIVIL FEDERAL
@@ -10908,6 +10904,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+CAPITULO V
+Del Arrendamiento de Fincas Rústicas
+Artículo 2453.- (Se deroga).
 Artículo 2454.- La renta debe pagarse en los plazos convenidos, y a falta de convenio, por semestres
 vencidos.
 Artículo 2455.- El arrendatario no tendrá derecho a la rebaja de la renta por esterilidad de la tierra
@@ -10942,11 +10941,6 @@ Artículo 2461.- Si la cosa se arrendó por años, meses, semanas o días, la re
 vencimiento de cada uno de esos términos, salvo convenio en contrario.
 Artículo 2462.- Si el contrato se celebra por un término fijo, la renta se pagará al vencerse el plazo,
 salvo convenio en contrario.
-Artículo 2463.- Si el arrendatario devuelve la cosa antes del tiempo convenido, cuando se ajuste por
-un solo precio, está obligado a pagarlo íntegro; pero si el arrendatario se ajusta por períodos de tiempo,
-sólo está obligado a pagar los períodos corridos hasta la entrega.
-Artículo 2464.- El arrendatario está obligado a pagar la totalidad del precio, cuando se hizo el
-arrendamiento por tiempo fijo y los períodos sólo se pusieron como plazos para el pago.
 
 225 de 316
 
@@ -10958,6 +10952,11 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo 2463.- Si el arrendatario devuelve la cosa antes del tiempo convenido, cuando se ajuste por
+un solo precio, está obligado a pagarlo íntegro; pero si el arrendatario se ajusta por períodos de tiempo,
+sólo está obligado a pagar los períodos corridos hasta la entrega.
+Artículo 2464.- El arrendatario está obligado a pagar la totalidad del precio, cuando se hizo el
+arrendamiento por tiempo fijo y los períodos sólo se pusieron como plazos para el pago.
 Artículo 2465.- Si se arriendan un edificio o aposento amueblados, se entenderá que el
 arrendamiento de los muebles es por el mismo tiempo que el del edificio o aposento, a menos de
 estipulación en contrario.
@@ -10993,9 +10992,6 @@ cría existente en él, el arrendatario tendrá, respecto del ganado, los mismos
 el usufructuario, pero no está obligado a dar fianza.
 Artículo 2477.- Lo dispuesto en el artículo 2465 es aplicable a los aperos de la finca arrendada.
 
-CAPITULO VII
-Disposiciones Especiales Respecto de los Arrendamientos por Tiempo Indeterminado
-
 226 de 316
 
 CÓDIGO CIVIL FEDERAL
@@ -11006,6 +11002,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+CAPITULO VII
+Disposiciones Especiales Respecto de los Arrendamientos por Tiempo Indeterminado
 Artículo 2478.- Todos los arrendamientos que no se hayan celebrado por tiempo expresamente
 determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso por escrito dada
 la otra parte con quince días de anticipación, si el predio es urbano, y con un año si es rústico.
@@ -11039,8 +11037,6 @@ VII. Por expropiación de la cosa arrendada hecha por causa de utilidad pública
 VIII. Por evicción de la cosa dada en arrendamiento.
 Artículo 2484.- Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado.
 Si no se ha señalado tiempo, se observará lo que disponen los artículos 2478 y 2479.
-Artículo 2485.- (Se deroga).
-Artículo 2486.- (Se deroga).
 
 227 de 316
 
@@ -11052,6 +11048,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo 2485.- (Se deroga).
+Artículo 2486.- (Se deroga).
 Artículo 2487.- Si después de terminado el plazo por el que se celebró el arrendamiento, el
 arrendatario continúa sin oposición en el uso y goce del bien arrendado, continuará el arrendamiento por
 tiempo indeterminado, estando obligado el arrendatario a pagar la renta que corresponda por el tiempo
@@ -11084,10 +11082,6 @@ Artículo 2494.- (Se deroga).
 Artículo 2495.- Si el predio dado en arrendamiento fuere enajenado judicialmente, el contrato de
 arrendamiento subsistirá, a menos que aparezca que se celebró dentro de los sesenta días anteriores al
 secuestro de la finca, en cuyo caso el arrendamiento podrá darse por concluido.
-Artículo 2496.- En los casos de expropiación y de ejecución judicial, se observará lo dispuesto en los
-artículos 2456, 2457 y 2458.
-
-TITULO SEPTIMO
 
 228 de 316
 
@@ -11099,6 +11093,10 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo 2496.- En los casos de expropiación y de ejecución judicial, se observará lo dispuesto en los
+artículos 2456, 2457 y 2458.
+
+TITULO SEPTIMO
 Del Comodato
 Artículo 2497.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder
 gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
@@ -11132,10 +11130,6 @@ obligaciones.
 Artículo 2511.- Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la
 cosa cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al
 comodatario.
-Artículo 2512.- El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o
-uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta
-perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa,
-sin consentimiento del comodante.
 
 229 de 316
 
@@ -11147,6 +11141,10 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo 2512.- El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o
+uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta
+perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa,
+sin consentimiento del comodante.
 Artículo 2513.- Si durante el préstamo el comodatario ha tenido que hacer, para la conservación de la
 cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al
 comodante, éste tendrá obligación de reembolsarlo.
@@ -11181,9 +11179,6 @@ a devolverla cuando el depositante se lo pida, aunque al constituirse el depósi
 éste no hubiere llegado.
 En la conservación del depósito responderá el depositario de los menoscabos, daños y perjuicios que
 las cosas depositadas sufrieren por su malicia o negligencia.
-Artículo 2523.- Si después de constituido el depósito tiene conocimiento el depositario de que la cosa
-es robada y de quién es el verdadero dueño, debe dar aviso a éste o a la autoridad competente, con la
-reserva debida.
 
 230 de 316
 
@@ -11195,6 +11190,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo 2523.- Si después de constituido el depósito tiene conocimiento el depositario de que la cosa
+es robada y de quién es el verdadero dueño, debe dar aviso a éste o a la autoridad competente, con la
+reserva debida.
 Artículo 2524.- Si dentro de los ocho días no se le manda judicialmente retener o entregar la cosa,
 puede devolverla al que depositó, sin que por ello quede sujeto a responsabilidad alguna.
 Artículo 2525.- Siendo varios los que den una sola cosa o cantidad en depósito, no podrá el
@@ -11230,8 +11228,6 @@ La responsabilidad de que habla este artículo, no excederá de la suma de dosci
 pesos, cuando no se pueda imputar culpa al hotelero o a su personal.
 Artículo 2536.- Para que los dueños de establecimientos donde se reciben huéspedes sean
 responsables del dinero, valores u objetos de precio notoriamente elevado que introduzcan en esos
-establecimientos las personas que allí se alojen, es necesario que sean entregados en depósito a ellos o
-a sus empleados debidamente autorizados.
 
 231 de 316
 
@@ -11243,6 +11239,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+establecimientos las personas que allí se alojen, es necesario que sean entregados en depósito a ellos o
+a sus empleados debidamente autorizados.
 Artículo 2537.- El posadero no se exime de la responsabilidad que le imponen los dos artículos
 anteriores por avisos que ponga en su establecimiento para eludirla. Cualquier pacto que celebre,
 limitando o modificando esa responsabilidad, será nulo.
@@ -11278,8 +11276,6 @@ El mandato que implica el ejercicio de una profesión se presume aceptado cuando
 personas que ofrecen al público el ejercicio de su profesión, por el solo hecho de que no lo rehúsen
 dentro de los tres días siguientes.
 La aceptación puede ser expresa o tácita. Aceptación tácita es todo acto en ejecución de un mandato.
-Artículo 2548.- Pueden ser objeto del mandato todos los actos lícitos para los que la ley no exige la
-intervención personal del interesado.
 
 232 de 316
 
@@ -11291,6 +11287,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo 2548.- Pueden ser objeto del mandato todos los actos lícitos para los que la ley no exige la
+intervención personal del interesado.
 Artículo 2549.- Solamente será gratuito el mandato cuando así se haya convenido expresamente.
 Artículo 2550.- El mandato puede ser escrito o verbal.
 Artículo 2551.- El mandato escrito puede otorgarse:
