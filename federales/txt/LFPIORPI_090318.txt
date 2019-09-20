@@ -13,9 +13,6 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 17 de octubre de 2
 TEXTO VIGENTE
 Última reforma publicada DOF 09-03-2018
 
-Nota de vigencia: La adición de la fracción XVI al artículo 17, publicada en el DOF 09-03-2018, entrará en vigor
-el 10 de septiembre de 2019.
-
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la
 República.
 FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus
@@ -43,6 +40,9 @@ delictivas y evitar el uso de los recursos para su financiamiento.
 Artículo 3. Para los efectos de esta Ley, se entenderá por:
 I. Actividades Vulnerables, a las actividades que realicen las Entidades Financieras en términos del
 artículo 14 y a las que se refiere el artículo 17 de esta Ley;
+II. Avisos, a aquellos que deben presentarse en términos del artículo 17 de la presente Ley, así como
+a los reportes que deben presentar las entidades financieras en términos del artículo 15, fracción II, de
+esta Ley;
 
 1 de 24
 
@@ -55,9 +55,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-II. Avisos, a aquellos que deben presentarse en términos del artículo 17 de la presente Ley, así como
-a los reportes que deben presentar las entidades financieras en términos del artículo 15, fracción II, de
-esta Ley;
 III. Beneficiario Controlador, a la persona o grupo de personas que:
 a) Por medio de otra o de cualquier acto, obtiene el beneficio derivado de éstos y es quien, en última
 instancia, ejerce los derechos de uso, goce, disfrute, aprovechamiento o disposición de un bien o
@@ -94,6 +91,9 @@ Actividades Vulnerables;
 VIII. Ley, a la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de
 Procedencia Ilícita;
 IX. Metales Preciosos, al oro, la plata y el platino;
+X. Piedras Preciosas, las gemas siguientes: aguamarinas, diamantes, esmeraldas, rubíes, topacios,
+turquesas y zafiros;
+XI. Procuraduría, a la Procuraduría General de la República;
 
 2 de 24
 
@@ -106,9 +106,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-X. Piedras Preciosas, las gemas siguientes: aguamarinas, diamantes, esmeraldas, rubíes, topacios,
-turquesas y zafiros;
-XI. Procuraduría, a la Procuraduría General de la República;
 XII. Relación de negocios, a aquella establecida de manera formal y cotidiana entre quien realiza una
 Actividad Vulnerable y sus clientes, excluyendo los actos u operaciones que se celebren ocasionalmente,
 sin perjuicio de lo que establezcan otras disposiciones legales y reglamentarias;
@@ -140,6 +137,8 @@ V. Requerir la comparecencia de presuntos infractores y demás personas que pued
 verificación del cumplimiento de las obligaciones derivadas de la presente Ley;
 VI. Conocer y resolver sobre los recursos de revisión que se interpongan en contra de las sanciones
 aplicadas;
+VII. Emitir Reglas de Carácter General para efectos de esta Ley, para mejor proveer en la esfera
+administrativa, y
 
 3 de 24
 
@@ -152,8 +151,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-VII. Emitir Reglas de Carácter General para efectos de esta Ley, para mejor proveer en la esfera
-administrativa, y
 VIII. Las demás previstas en otras disposiciones de esta Ley y otros ordenamientos jurídicos
 aplicables.
 Artículo 7. La Procuraduría contará con una Unidad Especializada en Análisis Financiero, como
@@ -190,6 +187,8 @@ operaciones con recursos de procedencia ilícita, en las bases de datos de las a
 procedencia ilícita;
 IX. Conducir la investigación para la obtención de indicios o pruebas vinculadas a operaciones con
 recursos de procedencia ilícita de conformidad con el Capítulo II del Título Vigésimo Tercero del Libro
+Segundo del Código Penal Federal, y coadyuvar con la Unidad Especializada prevista en la Ley Federal
+contra la Delincuencia Organizada cuando se trate de investigaciones vinculadas en la materia;
 
 4 de 24
 
@@ -202,8 +201,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Segundo del Código Penal Federal, y coadyuvar con la Unidad Especializada prevista en la Ley Federal
-contra la Delincuencia Organizada cuando se trate de investigaciones vinculadas en la materia;
 X. Requerir informes, documentos, opiniones y elementos de prueba en general a las dependencias y
 entidades de la administración pública de los tres órdenes de gobierno, y a otras autoridades, organismos
 públicos autónomos, incluso constitucionales, y a aquéllas personas responsables de dar Avisos en las
@@ -240,6 +237,8 @@ II. Coordinar sus acciones, en el ámbito de sus respectivas competencias, para 
 objeto de esta Ley;
 III. Abstenerse de proporcionar información generada con motivo de la presente Ley a persona alguna
 que no esté facultada para tomar noticia o imponerse de la misma;
+IV. Establecer medidas para la protección de la identidad de quienes proporcionen los Avisos a que se
+refiere esta Ley, y
 
 5 de 24
 
@@ -252,8 +251,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-IV. Establecer medidas para la protección de la identidad de quienes proporcionen los Avisos a que se
-refiere esta Ley, y
 V. Al establecer regulaciones administrativas, en sus ámbitos de competencia, tendentes a identificar
 y prevenir actos u operaciones relacionados con el objeto de esta Ley, deberán:
 a) Procurar un adecuado equilibrio regulatorio, que evite molestias o trámites innecesarios que afecten
@@ -292,6 +289,10 @@ propia entidad que pudieren ubicarse en lo previsto en la fracción I de este ar
 pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas;
 III. Entregar a la Secretaría, por conducto del órgano desconcentrado competente, información y
 documentación relacionada con los actos, operaciones y servicios a que se refiere este artículo, y
+IV. Conservar, por al menos diez años, la información y documentación relativas a la identificación de
+sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios
+reportados conforme al presente artículo, sin perjuicio de lo establecido en este u otros ordenamientos
+aplicables.
 
 6 de 24
 
@@ -304,10 +305,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-IV. Conservar, por al menos diez años, la información y documentación relativas a la identificación de
-sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios
-reportados conforme al presente artículo, sin perjuicio de lo establecido en este u otros ordenamientos
-aplicables.
 Artículo 16. La supervisión, verificación y vigilancia del cumplimiento de las obligaciones a que se
 refiere esta Sección y las disposiciones de las leyes que especialmente regulen a las Entidades
 Financieras se llevarán a cabo, según corresponda, por la Comisión Nacional Bancaria y de Valores, la
@@ -353,6 +350,10 @@ tarjetas de servicios o de crédito, cuando el gasto mensual acumulado en la cue
 sea igual o superior al equivalente a ochocientas cinco veces el salario mínimo vigente en el
 Distrito Federal. En el caso de tarjetas prepagadas, cuando su comercialización se realice por
 una cantidad igual o superior al equivalente a seiscientas cuarenta y cinco veces el salario
+mínimo vigente en el Distrito Federal, por operación. Los demás instrumentos de
+almacenamiento de valor monetario serán regulados en el Reglamento de esta Ley.
+Serán objeto de Aviso ante la Secretaría, en el caso de tarjetas de servicios o de crédito,
+cuando el gasto mensual acumulado en la cuenta de la tarjeta sea igual o superior al
 
 7 de 24
 
@@ -365,10 +366,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-mínimo vigente en el Distrito Federal, por operación. Los demás instrumentos de
-almacenamiento de valor monetario serán regulados en el Reglamento de esta Ley.
-Serán objeto de Aviso ante la Secretaría, en el caso de tarjetas de servicios o de crédito,
-cuando el gasto mensual acumulado en la cuenta de la tarjeta sea igual o superior al
 equivalente a un mil doscientas ochenta y cinco veces el salario mínimo vigente en el Distrito
 Federal. En el caso de tarjetas prepagadas, cuando se comercialicen por una cantidad igual o
 superior al equivalente a seiscientas cuarenta y cinco veces el salario mínimo vigente en el
@@ -421,6 +418,12 @@ Serán objeto de Aviso ante la Secretaría las actividades anteriores, cuando el
 operación sea igual o superior al equivalente a cuatro mil ochocientas quince veces el salario
 mínimo vigente en el Distrito Federal;
 
+VIII.
+
+La comercialización o distribución habitual profesional de vehículos, nuevos o usados, ya sean
+aéreos, marítimos o terrestres con un valor igual o superior al equivalente a tres mil doscientas
+diez veces el salario mínimo vigente en el Distrito Federal.
+
 8 de 24
 
 LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
@@ -432,15 +435,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-VIII.
-
-La comercialización o distribución habitual profesional de vehículos, nuevos o usados, ya sean
-aéreos, marítimos o terrestres con un valor igual o superior al equivalente a tres mil doscientas
-diez veces el salario mínimo vigente en el Distrito Federal.
 Serán objeto de Aviso ante la Secretaría las actividades anteriores, cuando el monto del acto u
 operación sea igual o superior al equivalente a seis mil cuatrocientas veinte veces el salario
 mínimo vigente en el Distrito Federal;
-
 IX.
 
 La prestación habitual o profesional de servicios de blindaje de vehículos terrestres, nuevos o
@@ -502,6 +499,9 @@ a)
 La transmisión o constitución de derechos reales sobre inmuebles, salvo las
 garantías que se constituyan en favor de instituciones del sistema financiero u
 organismos públicos de vivienda.
+Estas operaciones serán objeto de Aviso ante la Secretaría cuando en los actos u
+operaciones el precio pactado, el valor catastral o, en su caso, el valor comercial
+del inmueble, el que resulte más alto, o en su caso el monto garantizado por suerte
 
 9 de 24
 
@@ -514,9 +514,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Estas operaciones serán objeto de Aviso ante la Secretaría cuando en los actos u
-operaciones el precio pactado, el valor catastral o, en su caso, el valor comercial
-del inmueble, el que resulte más alto, o en su caso el monto garantizado por suerte
 principal, sea igual o superior al equivalente en moneda nacional a dieciséis mil
 veces el salario mínimo general diario vigente para el Distrito Federal;
 b)
@@ -577,6 +574,11 @@ forme parte del sistema financiero.
 
 Serán objeto de Aviso ante la Secretaría los actos u operaciones anteriores en términos
 de los incisos de este apartado.
+C.
+
+Por lo que se refiere a los servidores públicos a los que las leyes les confieran la facultad
+de dar fe pública en el ejercicio de sus atribuciones previstas en el artículo 3, fracción VII
+de esta Ley.
 
 10 de 24
 
@@ -589,13 +591,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-C.
-
 XIII.
-
-Por lo que se refiere a los servidores públicos a los que las leyes les confieran la facultad
-de dar fe pública en el ejercicio de sus atribuciones previstas en el artículo 3, fracción VII
-de esta Ley.
 
 La recepción de donativos, por parte de las asociaciones y sociedades sin fines de lucro, por un
 valor igual o superior al equivalente a un mil seiscientas cinco veces el salario mínimo vigente
@@ -656,6 +652,9 @@ digitales o similares, que administren u operen, facilitando o realizando operac
 o venta de dichos activos propiedad de sus clientes o bien, provean medios para custodiar,
 almacenar, o transferir activos virtuales distintos a los reconocidos por el Banco de México en
 términos de la Ley para Regular las Instituciones de Tecnología Financiera. Se entenderá como
+activo virtual toda representación de valor registrada electrónicamente y utilizada entre el
+público como medio de pago para todo tipo de actos jurídicos y cuya transferencia únicamente
+puede llevarse a cabo a través de medios electrónicos. En ningún caso se entenderá como
 
 11 de 24
 
@@ -668,9 +667,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-activo virtual toda representación de valor registrada electrónicamente y utilizada entre el
-público como medio de pago para todo tipo de actos jurídicos y cuya transferencia únicamente
-puede llevarse a cabo a través de medios electrónicos. En ningún caso se entenderá como
 activo virtual la moneda de curso legal en territorio nacional, las divisas ni cualquier otro activo
 denominado en moneda de curso legal o divisas.
 Serán objeto de Aviso ante la Secretaría cuando el monto de la operación de compra o venta
@@ -717,6 +713,7 @@ Actividad Vulnerable, salvo que las leyes de la materia de las entidades federat
 diferente;
 V. Brindar las facilidades necesarias para que se lleven a cabo las visitas de verificación en los
 términos de esta Ley, y
+VI. Presentar los Avisos en la Secretaría en los tiempos y bajo la forma prevista en esta Ley.
 
 12 de 24
 
@@ -729,7 +726,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-VI. Presentar los Avisos en la Secretaría en los tiempos y bajo la forma prevista en esta Ley.
 Artículo 19. El Reglamento de la Ley establecerá medidas simplificadas para el cumplimiento de las
 obligaciones previstas en el artículo anterior, en función del nivel de riesgo de las Actividades Vulnerables
 y de quienes las realicen.
@@ -769,6 +765,8 @@ corresponda a aquel en que se hubiera llevado a cabo la operación que le diera 
 de Aviso.
 Artículo 24. La presentación de los Avisos se llevará a cabo a través de los medios electrónicos y en
 el formato oficial que establezca la Secretaría.
+Dichos Avisos contendrán respecto del acto u operación relacionados con la Actividad Vulnerable que
+se informe, lo siguiente:
 
 13 de 24
 
@@ -781,8 +779,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Dichos Avisos contendrán respecto del acto u operación relacionados con la Actividad Vulnerable que
-se informe, lo siguiente:
 I. Datos generales de quien realice la Actividad Vulnerable;
 II. Datos generales del cliente, usuarios o del Beneficiario Controlador, y la información sobre su
 actividad u ocupación de conformidad con el artículo 18 fracción II de esta Ley, y
@@ -817,6 +813,8 @@ VII. Contar con el mandato expreso de sus integrantes para presentar ante la Sec
 éstos;
 VIII. Contar con los sistemas informáticos que reúnan las características técnicas y de seguridad
 necesarias para presentar los Avisos de sus integrantes, y
+IX. Contar con un convenio vigente con la Secretaría que le permita expresamente presentar los
+Avisos a que se refiere la Sección Segunda de este Capítulo, en representación de sus integrantes.
 
 14 de 24
 
@@ -829,8 +827,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-IX. Contar con un convenio vigente con la Secretaría que le permita expresamente presentar los
-Avisos a que se refiere la Sección Segunda de este Capítulo, en representación de sus integrantes.
 Las Entidades Colegiadas reconocidas por la Ley podrán, previo convenio con la Secretaría,
 establecer un órgano concentrador para dar cumplimiento a las disposiciones de esta Ley.
 El Reglamento regulará lo necesario para el establecimiento y funcionamiento de los órganos que se
@@ -866,6 +862,10 @@ moneda nacional o divisas y Metales Preciosos, en los supuestos siguientes:
 I. Constitución o transmisión de derechos reales sobre bienes inmuebles por un valor igual o superior
 al equivalente a ocho mil veinticinco veces el salario mínimo vigente en el Distrito Federal, al día en que
 se realice el pago o se cumpla la obligación;
+II. Transmisiones de propiedad o constitución de derechos reales sobre vehículos, nuevos o usados,
+ya sean aéreos, marítimos o terrestres por un valor igual o superior al equivalente a tres mil doscientas
+diez veces el salario mínimo vigente en el Distrito Federal, al día en que se realice el pago o se cumpla la
+obligación;
 
 15 de 24
 
@@ -878,10 +878,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-II. Transmisiones de propiedad o constitución de derechos reales sobre vehículos, nuevos o usados,
-ya sean aéreos, marítimos o terrestres por un valor igual o superior al equivalente a tres mil doscientas
-diez veces el salario mínimo vigente en el Distrito Federal, al día en que se realice el pago o se cumpla la
-obligación;
 III. Transmisiones de propiedad de relojes, joyería, Metales Preciosos y Piedras Preciosas, ya sea por
 pieza o por lote, y de obras de arte, por un valor igual o superior al equivalente a tres mil doscientas diez
 veces el salario mínimo vigente en el Distrito Federal, al día en que se realice el pago o se cumpla la
@@ -921,6 +917,8 @@ De las Visitas de Verificación
 Artículo 34. La Secretaría podrá comprobar, de oficio y en cualquier tiempo, el cumplimiento de las
 obligaciones previstas en esta Ley, mediante la práctica de visitas de verificación a quienes realicen las
 Actividades Vulnerables previstas en la Sección Segunda del Capítulo III de esta Ley, a las Entidades a
+que se refiere el artículo 26 de esta Ley o, en su caso, al órgano concentrador previsto en el penúltimo
+párrafo del artículo 27 de la misma.
 
 16 de 24
 
@@ -933,8 +931,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-que se refiere el artículo 26 de esta Ley o, en su caso, al órgano concentrador previsto en el penúltimo
-párrafo del artículo 27 de la misma.
 Las personas visitadas deberán proporcionar exclusivamente la información y documentación soporte
 con que cuenten que esté directamente relacionada con Actividades Vulnerables.
 Artículo 35. El desarrollo de las visitas de verificación, así como la imposición de las sanciones
@@ -973,6 +969,8 @@ Unidad o la autoridad judicial.
 Se deberá mantener en reserva y bajo resguardo, la identidad y datos personales de los servidores
 públicos que intervengan en cualquier acto derivado de la aplicación de la Ley, observando, en su caso,
 lo dispuesto por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
+Artículo 42. Los Avisos que se presenten en términos de esta Ley en ningún caso tendrán, por sí
+mismos, valor probatorio pleno.
 
 17 de 24
 
@@ -985,8 +983,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 42. Los Avisos que se presenten en términos de esta Ley en ningún caso tendrán, por sí
-mismos, valor probatorio pleno.
 En ningún caso el Ministerio Público de la Federación podrá sostener su investigación exclusivamente
 en los Avisos a que se refiere la presente Ley, por lo que la misma estará sustentada en las pruebas que
 acrediten el acto u operación objeto de los Avisos.
@@ -1028,6 +1024,8 @@ Artículo 49. La Secretaría podrá dar información conforme a los tratados, co
 internacionales, o a falta de estos, según los principios de cooperación y reciprocidad, a las autoridades
 extranjeras encargadas de la identificación, detección, supervisión, prevención, investigación o
 persecución de los delitos equivalentes a los de operaciones con recursos de procedencia ilícita.
+En estos casos quienes reciban la información y los datos de parte de la Secretaría deberán
+garantizar la confidencialidad y reserva de aquello que se les proporcione.
 
 18 de 24
 
@@ -1040,8 +1038,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-En estos casos quienes reciban la información y los datos de parte de la Secretaría deberán
-garantizar la confidencialidad y reserva de aquello que se les proporcione.
 Artículo 50. Los servidores públicos de la Secretaría, la Procuraduría y las personas que deban
 presentar Avisos en términos de la presente Ley, que conozcan de información, documentación, datos o
 noticias de actos u operaciones objeto de la presente Ley y que hayan sido presentados ante la
@@ -1080,6 +1076,10 @@ efecto, la imposición de dichas sanciones se hará conforme al procedimiento pr
 Leyes especiales que regulan a cada una de las Entidades Financieras de que se trate, con las
 sanciones expresamente indicadas en dichas Leyes para cada caso referido a las Entidades Financieras
 correspondientes.
+Las multas que se determinen en términos de esta Ley, tendrán el carácter de créditos fiscales y se
+fijarán en cantidad líquida, sujetándose al procedimiento administrativo de ejecución que establece la
+legislación aplicable.
+Artículo 53. Se aplicará la multa correspondiente a quienes:
 
 19 de 24
 
@@ -1092,10 +1092,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Las multas que se determinen en términos de esta Ley, tendrán el carácter de créditos fiscales y se
-fijarán en cantidad líquida, sujetándose al procedimiento administrativo de ejecución que establece la
-legislación aplicable.
-Artículo 53. Se aplicará la multa correspondiente a quienes:
 I. Se abstengan de cumplir con los requerimientos que les formule la Secretaría en términos de esta
 Ley;
 II. Incumplan con cualquiera de las obligaciones establecidas en el artículo 18 de esta Ley;
@@ -1128,6 +1124,10 @@ Artículo 56. Son causas de revocación de los permisos de juegos y sorteos, ade
 señaladas en las disposiciones jurídicas aplicables:
 I. La reincidencia en cualquiera de las conductas previstas en el artículo 53 fracciones I, II, III y IV de
 esta Ley, o
+II. Cualquiera de las conductas previstas en el artículo 53 fracciones VI y VII de esta Ley.
+La Secretaría informará de los hechos constitutivos de causal de revocación a la Secretaría de
+Gobernación, a efecto de que ésta ejerza sus atribuciones en la materia y, en su caso, aplique las
+sanciones correspondientes.
 
 20 de 24
 
@@ -1140,10 +1140,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-II. Cualquiera de las conductas previstas en el artículo 53 fracciones VI y VII de esta Ley.
-La Secretaría informará de los hechos constitutivos de causal de revocación a la Secretaría de
-Gobernación, a efecto de que ésta ejerza sus atribuciones en la materia y, en su caso, aplique las
-sanciones correspondientes.
 Artículo 57. Son causas de cancelación definitiva de la habilitación que le haya sido otorgada al
 corredor público, además de las señaladas en las disposiciones jurídicas aplicables, la reincidencia en
 cualquiera de las conductas previstas en el artículo 53 fracciones I, II, III y IV de esta Ley.
@@ -1177,6 +1173,9 @@ I. La reincidencia, las causas que la originaron y, en su caso, las acciones cor
 presunto infractor. Se considerará reincidente al que haya incurrido en una infracción que hubiere sido
 sancionada y, además de aquella, cometa la misma infracción, dentro de los dos años inmediatos
 siguientes a la fecha en que haya quedado firme la resolución correspondiente;
+II. La cuantía del acto u operación, procurando la proporcionalidad del monto de la sanción con
+aquellos, y
+III. La intención de realizar la conducta.
 
 21 de 24
 
@@ -1189,9 +1188,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-II. La cuantía del acto u operación, procurando la proporcionalidad del monto de la sanción con
-aquellos, y
-III. La intención de realizar la conducta.
 Artículo 61. Las sanciones administrativas impuestas conforme a la presente Ley podrán impugnarse
 ante la propia Secretaría, mediante el recurso de revisión previsto en la Ley Federal de Procedimiento
 Administrativo o directamente ante el Tribunal Federal de Justicia Fiscal y Administrativa a través del
@@ -1228,6 +1224,10 @@ Artículo 65. Se requiere de la denuncia previa de la Secretaría para proceder 
 de los empleados, directivos, funcionarios, consejeros o de cualquier persona que realice actos en
 nombre de las instituciones financieras autorizadas por la Secretaría, que estén involucrados en la
 comisión de cualquiera de los delitos previstos en los artículos 62 y 63 de esta Ley.
+En el caso previsto en la fracción II del artículo 63 se procederá indistintamente por denuncia previa
+de la Secretaría o querella de la persona cuya identidad haya sido revelada o divulgada.
+
+Transitorios
 
 22 de 24
 
@@ -1240,10 +1240,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-En el caso previsto en la fracción II del artículo 63 se procederá indistintamente por denuncia previa
-de la Secretaría o querella de la persona cuya identidad haya sido revelada o divulgada.
-
-Transitorios
 Primero. La presente Ley entrará en vigor a los nueve meses siguientes al día de su publicación en el
 Diario Oficial de la Federación.
 Segundo. El Ejecutivo Federal emitirá el Reglamento de la presente Ley, dentro de los treinta días
