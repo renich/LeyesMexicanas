@@ -39,7 +39,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/149_190118.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/14_101114.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/151_110814.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/152.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/153_090819.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/153_220120.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/155.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/157.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/158.pdf
@@ -102,7 +102,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/247_130819.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/248.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/249_190517.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/24_171215.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/251_090819.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/251_220120.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/252.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/255.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf
@@ -120,7 +120,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/270_240418.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/271.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/27_250618.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/28.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/29_090819.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/29_220120.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/2_030619.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/31_300118.pdf
@@ -171,7 +171,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/97_220617.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/98_310518.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/9_081119.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/CMPP_210618.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP_081119.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP_220120.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/Dec_HEEUM_280417.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LAAT.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf
@@ -271,7 +271,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LISSSTE_040619.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LMV_090119.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LMigra_030719.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM_191216.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LNED_090819.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LNED_220120.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP_090518.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LNMASCMP_291214.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD_270519.pdf
@@ -314,7 +314,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado_290319.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Codigo_Civil_Federal.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Codigo_Federal_de_Procedimientos_Civiles.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Codigo_Militar_de_Procedimientos_Penales.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Codigo_Nacional_de_Procedimientos_Penales.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Codigo_Penal_Federal.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Codigo_de_Justicia_Militar.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Constitucion_Politica.pdf
@@ -363,7 +362,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_Prevenir_y_Sanc
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_el_Control-Precursores_Quimicos_Productos-Maquinas-Capsulas_Tabletas-Comprimidos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_el_Control_de_Sustancias_Quimicas-Armas_Quimicas.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_el_Fomento_de_la_Microindustria_y_la_Actividad_Artesanal.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_la_Administracion_y_Enajenacion_de_Bienes_del_Sector.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_la_Prevencion_e_Identificacion_de_Operaciones-Recursos-Procedencia_Ilicita.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_la_Proteccion_a_Personas-Intervienen-Procedimiento_Penal.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_sobre_Metrologia_y_Normalizacion.pdf
@@ -418,14 +416,12 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_para_la_Prevencion_y
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Minera.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Monetaria.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Nacional_de_Ejecucion_Penal.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Nacional_de_Extincion_de_Dominio.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Nacional_de_Mecanismos_Alternativos_de_Solucion_de_Controversias-Materia_Penal.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Nacional_del_Registro_de_Detenciones.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Nacional_del_Sistema_Integral_de_Justicia_Penal_para_Adolescentes.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Nacional_sobre_el_Uso_de_la_Fuerza.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_de_Nacional_Financiera.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_de_Sociedad_Hipotecaria.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_de_la_Administracion_Publica.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_de_la_Armada.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_de_la_Financiera_Nacional-Desarrollo_Agropecuario_Rural_Forestal-Pesquero.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_de_la_Fiscalia_General.pdf
@@ -476,7 +472,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Caminos_Puentes_y_Autotra
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Capitalizacion_del_Procampo.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Ciencia_y_Tecnologia.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Comercio_Exterior.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Concursos_Mercantiles.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Contribucion_de_Mejoras_por_Obras_Publicas-de_Infraestructura_Hidraulica.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Cooperacion_Internacional_para_el_Desarrollo.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Coordinacion_Fiscal.pdf
