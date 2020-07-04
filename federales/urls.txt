@@ -210,6 +210,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI_090318.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPIPP_170616.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI_010720.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH_191119.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFPSDMH_010618.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFRA.pdf
@@ -258,10 +259,12 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGT_310719.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGV_030117.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LHidro_151116.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LIElec_110814.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNCT.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2020_251119.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIEx_010720.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LIH_170120.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN_170517.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LINPI_041218.pdf
@@ -314,7 +317,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Codigo_Federal_de_Procedimientos
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Codigo_Fiscal_de_la_Federacion.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Codigo_Militar_de_Procedimientos_Penales.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Codigo_Nacional_de_Procedimientos_Penales.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Codigo_Penal_Federal.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Codigo_de_Comercio.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Codigo_de_Justicia_Militar.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Constitucion_Politica.pdf
@@ -322,7 +324,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Decreto_por_el_que_se_establece_
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Estatuto_de_Gobierno_del_Distrito_Federal.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Estatuto_de_las_Islas_Marias.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Impuesto_Sobre_Servicios-Declarados_de_Interes_Publico-Empresas_Concesionarias.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Aduanera.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Agraria.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_contra_la_Delincuencia_Organizada.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_de_Armas_de_Fuego_y_Explosivos.pdf
@@ -364,7 +365,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_el_Control_de_S
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_el_Fomento_de_la_Microindustria_y_la_Actividad_Artesanal.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_la_Prevencion_e_Identificacion_de_Operaciones-Recursos-Procedencia_Ilicita.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_la_Proteccion_a_Personas-Intervienen-Procedimiento_Penal.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_sobre_Metrologia_y_Normalizacion.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_sobre_Monumentos_y_Zonas_Arqueologicos_Artisticos_e_Historicos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Archivos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Bibliotecas.pdf
@@ -521,8 +521,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Economia_Social_y_Soli
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Guardia_Nacional.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Industria_Electrica.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Policia_Federal.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Propiedad_Industrial.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_los_Impuestos_Generales_de_Importacion_y_de_Exportacion.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_los_Institutos_Nacionales_de_Salud.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_los_Organos_Reguladores_Coordinados_en_Materia_Energetica.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_los_Sistemas_de_Ahorro_para_el_Retiro.pdf
