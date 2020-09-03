@@ -871,6 +871,9 @@ LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2020
 ==> LIGIE.txt <==
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
 
+==> LIGIE_010720.txt <==
+LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
+
 ==> LIGIEx_010720.txt <==
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
 
@@ -1591,6 +1594,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Ley_de_Amnistia.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
+==> Ley_de_Amnistia_1994.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
 ==> Ley_de_Amparo_Reglamentaria-Articulos_103_y_107.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
@@ -1684,6 +1690,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Ley_de_Fiscalizacion_y_Rendicion_de_Cuentas_de_la_Federacion.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
+==> Ley_de_Fomento_a_la_Confianza_Ciudadana.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
 ==> Ley_de_Fomento_a_la_Industria_Vitivinicola.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
@@ -1699,7 +1708,13 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Ley_de_Hidrocarburos.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
+==> Ley_de_Infraestructura_de_la_Calidad.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
 ==> Ley_de_Ingresos_2020.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_de_Ingresos_sobre_Hidrocarburos.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_de_Instituciones_de_Credito.txt <==
@@ -1823,6 +1838,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_de_la_Propiedad_Industrial.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_de_los_Derechos_de_las_Personas_Adultas_Mayores.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_de_los_Impuestos_Generales_de_Importacion_y_de_Exportacion.txt <==
@@ -2675,6 +2693,9 @@ LEY DE LA COMISIÓN REGULADORA DE ENERGÍA
 LEY DE LA PROPIEDAD INDUSTRIAL
 
 ==> 50_010616.txt <==
+LEY DE LA PROPIEDAD INDUSTRIAL
+
+==> 50_010720.txt <==
 LEY DE LA PROPIEDAD INDUSTRIAL
 
 ==> 50_130318.txt <==
