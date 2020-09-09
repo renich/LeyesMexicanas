@@ -22,7 +22,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/125_020719.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/126_241218.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/127.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/12_010720.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/130_150618.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/130_010720.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/131_160218.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/134_190118.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/136_300118.pdf
@@ -345,6 +345,9 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_de_Presupuesto_y_Res
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_de_Procedimiento_Administrativo.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_de_Procedimiento_Contencioso_Administrativo.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_de_Produccion_Certificacion_y_Comercio_de_Semillas.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_de_Protecci%C3%B3n_al_Consumidor.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_de_Protecci%F3n_al_Consumidor.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_de_Proteccion_a_la_Propiedad_Industrial.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_de_Proteccion_de_Datos_Personales-Posesion-Particulares.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_de_Remuneraciones_de_los_Servidores_Publicos_Reglamentaria-Articulos_75_y_127.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_de_Responsabilidad_Ambiental.pdf
@@ -359,6 +362,8 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_de_Zonas_Economicas_
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_de_las_Entidades_Paraestatales.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_de_los_Derechos_del_Contribuyente.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_de_los_Trabajadores_al_Servicio_del_Estado_Reglamentaria-Apartado_B-Articulo_123.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_del_Derecho_de_Autor.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_del_Impuesto_sobre_Automoviles_Nuevos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_del_Mar.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_del_Trabajo.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_Prevenir_y_Eliminar_la_Discriminacion.pdf
@@ -366,8 +371,11 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_Prevenir_y_Sanc
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_el_Control-Precursores_Quimicos_Productos-Maquinas-Capsulas_Tabletas-Comprimidos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_el_Control_de_Sustancias_Quimicas-Armas_Quimicas.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_el_Fomento_de_la_Microindustria_y_la_Actividad_Artesanal.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_el_Fomento_y_Proteccion_del_Maiz_Nativo.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_la_Administracion_y_Enajenacion_de_Bienes_del_Sector.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_la_Prevencion_e_Identificacion_de_Operaciones-Recursos-Procedencia_Ilicita.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_para_la_Proteccion_a_Personas-Intervienen-Procedimiento_Penal.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_sobre_Metrologia_y_Normalizacion.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Federal_sobre_Monumentos_y_Zonas_Arqueologicos_Artisticos_e_Historicos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Archivos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Bibliotecas.pdf
@@ -494,6 +502,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Ingresos_sobre_Hidrocarbu
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Instituciones_de_Credito.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Instituciones_de_Seguros_y_de_Fianzas.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Inversion_Extranjera.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Migracion.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Nacionalidad.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Navegacion_y_Comercio_Maritimos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Obras_Publicas_y_Servicios.pdf
@@ -518,6 +527,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Tesoreria_de_la_Federacio
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Transicion_Energetica.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Transparencia_y_de_Fomento_a_la_Competencia_en_el_Credito_Garantizado.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Uniones_de_Credito.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Vertimientos_en_las_Zonas_Marinas.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Vias_Generales_de_Comunicacion.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Vivienda.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Agencia_Nacional_de_Seguridad_Industrial-Medio_Ambiente-Sector_Hidrocarburos.pdf
@@ -531,6 +541,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Industria_Electrica.pd
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Policia_Federal.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Propiedad_Industrial.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_los_Derechos_de_las_Personas_Adultas_Mayores.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_los_Impuestos_Generales_de_Importacion_y_de_Exportacion.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_los_Institutos_Nacionales_de_Salud.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_los_Organos_Reguladores_Coordinados_en_Materia_Energetica.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_los_Sistemas_de_Ahorro_para_el_Retiro.pdf

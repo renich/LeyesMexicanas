@@ -22160,11 +22160,8 @@ Ex.
 Ex.
 
 SUBCAPÍTULO II
-ÁCIDOS
-INORGÁNICOS
-Y
-COMPUESTOS
-OXIGENADOS
+ÁCIDOS INORGÁNICOS Y
+COMPUESTOS OXIGENADOS
 INORGÁNICOS DE LOS ELEMENTOS
 NO METÁLICOS
 28.06
@@ -28619,10 +28616,94 @@ Peroxidicarbonatos de: di-secbutilo; din-butilo; diisopropilo; di(2-etilhexilo);
 bis(4- ter-butilciclohexilo); di-cetilo; diciclohexilo; dimiristilo.
 6,7,8,9,10,10-Hexacloro-1,5,5a,6,9,9ahexahidro-6,9-metano-2,4,3benzodioxatiepin-3-óxido (Endosulfan).
 Los demás.
-SUBCAPÍTULO IX
-COMPUESTOS CON
-NITROGENADAS
 
+Kg
+
+5
+
+Ex.
+
+Prohibida
+
+Prohibida
+
+Prohibida
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+Kg
+
+5
+Ex.
+
+Ex.
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+10
+
+Ex.
+
+Prohibida
+
+Prohibida
+
+Prohibida
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+Kg
+
+10
+Ex.
+
+Ex.
+Ex.
+
+SUBCAPÍTULO IX
+COMPUESTOS CON FUNCIONES
+NITROGENADAS
 29.21
 2921.11
 2921.11.05
@@ -28632,92 +28713,6 @@ NITROGENADAS
 --
 
 --
-
-Kg
-
-5
-
-Ex.
-
-Prohibida
-
-Prohibida
-
-Prohibida
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-Kg
-
-5
-Ex.
-
-Ex.
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-10
-
-Ex.
-
-Prohibida
-
-Prohibida
-
-Prohibida
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-Kg
-
-10
-Ex.
-
-Ex.
-Ex.
-
-FUNCIONES
 
 Compuestos con función amina.
 Monoaminas acíclicas y sus derivados;
@@ -53095,7 +53090,7 @@ valores indicados en el cuadro siguiente o, para cualquier otro peso, sus equiva
 interpolados o extrapolados linealmente.
 Resistencia mínima al estallido Mullen
 kPa
-_____________________________________
+________________
 
 115
 125
@@ -53136,7 +53131,7 @@ g/m2
 
 Peso
 g/m²
-_________
+______
 
 Resistencia mínima al desgarre
 mN
@@ -84130,6 +84125,10 @@ el metal con un contenido de aluminio superior o igual al 99 % en peso, siempre 
 contenido en peso de los demás elementos sea inferior o igual a los límites indicados en el
 cuadro siguiente:
 CUADRO - Otros elementos
+
+1)
+2)
+
 Elemento
 Contenido límite % en peso
 Fe+Si (total hierro más silicio)
@@ -84139,12 +84138,8 @@ Fe+Si (total hierro más silicio)
 Los demás elementos , cada uno
 0.1
 Los demás elementos, por ejemplo: Cr, Cu, Mg, Mn, Ni, Zn.
-Se tolera un contenido de cobre superior al 0.1 % pero inferior o igual al 0.2% , siempre
-que ni el contenido de cromo ni el de manganeso sea superior al 0.05 %
-
-1)
-2)
-
+Se tolera un contenido de cobre superior al 0.1% pero inferior o igual al 0.2% , siempre que ni el
+contenido de cromo ni el de manganeso sea superior al 0.05%
 b)
 
 Aleaciones de aluminio
@@ -85192,7 +85187,7 @@ Ex.
 
 _______________
 
-Capítulo 78
+Capítulo 78 (sic DOF 01-07-2020)
 Plomo y sus manufacturas
 Nota.
 1.
@@ -101567,7 +101562,7 @@ a)
 se consideran dispositivos de almacenamiento permanente de datos a base de
 semiconductores (por ejemplo, “tarjetas de memoria flash” o “tarjetas de memoria electrónica
 flash”) los dispositivos de almacenamiento con un conector, que tienen, en la misma
-envoltura, una o más memorias flash (por ejemplo, “E2PROM FLASH”) en forma de circuitos
+envoltura, una o más memorias flash (por ejemplo, “E 2PROM FLASH”) en forma de circuitos
 integrados montados en una tarjeta de circuitos impresos. Pueden llevar un controlador en
 forma de circuito integrado y componentes pasivos discretos, tales como condensadores y
 resistencias;
@@ -122936,7 +122931,6 @@ aplicación de la Tarifa de la Ley de los
 Impuestos Generales de Importación y de
 Exportación (TIGIE), conforme a los criterios
 que establezca la Secretaría de Economía,
-Kg
 clasificadas en las fracciones arancelarias
 cuya unidad de medida de la TIGIE se
 indique como Kg y listadas en el Anexo II,
@@ -122951,7 +122945,6 @@ aplicación de la Tarifa de la Ley de los
 Impuestos Generales de Importación y de
 Exportación (TIGIE), conforme a los criterios
 que establezca la Secretaría de Economía,
-M
 clasificadas en las fracciones arancelarias
 cuya unidad de medida de la TIGIE se
 indique como M y listadas en el Anexo II,
@@ -122964,7 +122957,7 @@ Complementarias, para la interpretación y
 aplicación de la Tarifa de la Ley de los
 Impuestos Generales de Importación y de
 Exportación (TIGIE), conforme a los criterios
-que establezca la Secretaría de Economía, M2
+que establezca la Secretaría de Economía,
 clasificadas en las fracciones arancelarias
 cuya unidad de medida de la TIGIE se
 indique como M² y listadas en el Anexo II,
@@ -122975,7 +122968,7 @@ Mercancías al amparo de la autorización a
 que se refiere la Regla 8ª de las
 Complementarias, para la interpretación y
 aplicación de la Tarifa de la Ley de los
-Impuestos Generales de Importación y de Par
+Impuestos Generales de Importación y de
 Exportación (TIGIE), conforme a los criterios
 que establezca la Secretaría de Economía,
 clasificadas en las fracciones arancelarias
@@ -122983,17 +122976,25 @@ cuya unidad de medida de la TIGIE se
 
 727 de 739
 
-Ex.
+Kg
 
 Ex.
 
 Ex.
 
-Ex.
+M
 
 Ex.
 
 Ex.
+
+M2
+
+Ex.
+
+Ex.
+
+Par
 
 Ex.
 
@@ -123026,7 +123027,6 @@ aplicación de la Tarifa de la Ley de los
 Impuestos Generales de Importación y de
 Exportación (TIGIE), conforme a los criterios
 que establezca la Secretaría de Economía,
-Pza
 clasificadas en las fracciones arancelarias
 cuya unidad de medida de la TIGIE se
 indique como Pza y listadas en el Anexo II,
@@ -123040,7 +123040,6 @@ aplicación de la Tarifa de la Ley de los
 Impuestos Generales de Importación y de
 Exportación (TIGIE), conforme a los criterios
 que establezca la Secretaría de Economía,
-Kg
 clasificadas en las fracciones arancelarias
 cuya unidad de medida de la TIGIE se
 indique como Kg y listadas en el Anexo II,
@@ -123054,7 +123053,6 @@ aplicación de la Tarifa de la Ley de los
 Impuestos Generales de Importación y de
 Exportación (TIGIE), conforme a los criterios
 que establezca la Secretaría de Economía,
-Pza
 clasificadas en las fracciones arancelarias
 cuya unidad de medida de la TIGIE se
 indique como Pza y listadas en el Anexo II,
@@ -123065,7 +123063,7 @@ Mercancías al amparo de la autorización a
 que se refiere la Regla 8ª de las
 Complementarias, para la interpretación y
 aplicación de la Tarifa de la Ley de los
-Impuestos Generales de Importación y de G
+Impuestos Generales de Importación y de
 Exportación (TIGIE), conforme a los criterios
 que establezca la Secretaría de Economía,
 clasificadas en las fracciones arancelarias
@@ -123073,17 +123071,25 @@ cuya unidad de medida de la TIGIE se
 
 728 de 739
 
-Ex.
+Pza
 
 Ex.
 
 Ex.
 
-Ex.
+Kg
 
 Ex.
 
 Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+G
 
 Ex.
 
@@ -123117,7 +123123,7 @@ Complementarias, para la interpretación y
 aplicación de la Tarifa de la Ley de los
 Impuestos Generales de Importación y de
 Exportación (TIGIE), conforme a los criterios
-que establezca la Secretaría de Economía, Kg
+que establezca la Secretaría de Economía,
 clasificadas en las fracciones arancelarias
 cuya unidad de medida de la TIGIE se
 indique como Kg y listadas en el Anexo II,
@@ -123130,7 +123136,7 @@ Complementarias, para la interpretación y
 aplicación de la Tarifa de la Ley de los
 Impuestos Generales de Importación y de
 Exportación (TIGIE), conforme a los criterios
-que establezca la Secretaría de Economía, Kg
+que establezca la Secretaría de Economía,
 clasificadas en las fracciones arancelarias
 cuya unidad de medida de la TIGIE se
 indique como Kg y listadas en el Anexo II,
@@ -123141,7 +123147,6 @@ Mercancías al amparo de la autorización a
 que se refiere la Regla 8ª de las
 Complementarias, para la interpretación y
 aplicación de la Tarifa de la Ley de los
-Kg
 Impuestos Generales de Importación y de
 Exportación (TIGIE), conforme a los criterios
 que establezca la Secretaría de Economía,
@@ -123150,35 +123155,43 @@ Partes y componentes para el ensamble de
 automóviles cuando se trate de empresas de
 la industria automotriz terminal que cuenten
 con autorización de depósito fiscal para
-Kg
 ensamble y fabricación de vehículos
 conforme a la Ley Aduanera, siempre que se
 ajusten a los lineamientos que establezca la
 Secretaría de Economía.
 Partes y componentes para el ensamble de
 camiones, autobuses integrales y tractocamiones cuando se trate de empresas de la
-Kg
 industria automotriz terminal que cuenten
 con autorización de depósito fiscal para
 ensamble y fabricación de vehículos
 
 729 de 739
 
-Ex.
+Kg
 
 Ex.
 
 Ex.
 
-Ex.
+Kg
 
 Ex.
 
 Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
 
 10
 
 Ex.
+
+Kg
 
 10
 
@@ -123655,6 +123668,7 @@ Las abreviaturas empleadas en la Tarifa de esta Ley son, las siguientes:
 a)
 
 De cantidad:
+
 Barr
 
 Barril

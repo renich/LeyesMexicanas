@@ -1246,6 +1246,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Ley_Federal_de_Produccion_Certificacion_y_Comercio_de_Semillas.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
+==> Ley_Federal_de_Proteccion_a_la_Propiedad_Industrial.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
 ==> Ley_Federal_de_Proteccion_de_Datos_Personales-Posesion-Particulares.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
@@ -1288,6 +1291,12 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Ley_Federal_de_los_Trabajadores_al_Servicio_del_Estado_Reglamentaria-Apartado_B-Articulo_123.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
+==> Ley_Federal_del_Derecho_de_Autor.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_del_Impuesto_sobre_Automoviles_Nuevos.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
 ==> Ley_Federal_del_Mar.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
@@ -1307,6 +1316,12 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_Federal_para_el_Fomento_de_la_Microindustria_y_la_Actividad_Artesanal.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_para_el_Fomento_y_Proteccion_del_Maiz_Nativo.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_para_la_Administracion_y_Enajenacion_de_Bienes_del_Sector.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_Federal_para_la_Prevencion_e_Identificacion_de_Operaciones-Recursos-Procedencia_Ilicita.txt <==
@@ -3263,6 +3278,9 @@ LEY FEDERAL PARA EL FOMENTO DE LA MICROINDUSTRIA Y LA ACTIVIDAD ARTESANAL
 LEY FEDERAL PARA PREVENIR Y SANCIONAR LA TORTURA
 
 ==> 130.txt <==
+LEY FEDERAL SOBRE METROLOGÍA Y NORMALIZACIÓN
+
+==> 130_010720.txt <==
 LEY FEDERAL SOBRE METROLOGÍA Y NORMALIZACIÓN
 
 ==> 130_140714.txt <==
