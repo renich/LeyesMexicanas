@@ -5,9 +5,10 @@ Versión PDF para vista en dispositivo móvil Android y Apple iOS
 
 LEY GENERAL DE TRANSPARENCIA Y ACCESO A
 LA INFORMACIÓN PÚBLICA
-TEXTO VIGENTE
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 4 de mayo de 2015
+TEXTO VIGENTE
+Última reforma publicada DOF 13-08-2020
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -48,9 +49,9 @@ I.
 
 Distribuir competencias entre los Organismos
 garantes de la Federación y las Entidades
+
 Federativas, en materia de transparencia y
 acceso a la información;
-
 II. Establecer las bases mínimas que regirán los
 procedimientos para garantizar el ejercicio del
 derecho de acceso a la información;
@@ -85,9 +86,9 @@ transparencia en el ejercicio de la función
 pública, el acceso a la información, la
 participación ciudadana, así como la rendición de
 cuentas, a través del establecimiento de políticas
+
 públicas y mecanismos que garanticen la
 publicidad de información oportuna, verificable,
-
 comprensible, actualizada y completa, que se
 difunda en los formatos más adecuados y
 accesibles para todo el público y atendiendo en
@@ -118,9 +119,9 @@ condiciones, de los derechos humanos;
 II. Áreas: Instancias que cuentan o puedan contar
 con la información. Tratándose del sector
 público, serán aquellas que estén previstas en el
+
 reglamento interior, estatuto orgánico respectivo
 o equivalentes;
-
 III. Comisionado: Cada uno de los integrantes del
 Pleno del Instituto y de los Organismos garantes
 de los Estados y del Distrito Federal;
@@ -139,25 +140,24 @@ características:
 a) Accesibles: Los datos están disponibles para
 la gama más amplia de usuarios, para
 cualquier propósito;
-b) Integrales: Contienen el tema que describen a
-detalle y con los metadatos necesarios;
+b) Integrales: Contienen el tema que
+describen a detalle y con los metadatos
+necesarios;
 c) Gratuitos: Se obtienen sin entregar a cambio
 contraprestación alguna;
-d) No discriminatorios: Los
-disponibles para cualquier
+
+d) No discriminatorios: Los datos están
+disponibles para cualquier persona, sin
 necesidad de registro;
-
-datos están
-persona, sin
-
 e) Oportunos: Son actualizados, periódicamente,
 conforme se generen;
 f) Permanentes: Se conservan en el tiempo,
 para lo cual, las versiones históricas relevantes
 para uso público se mantendrán disponibles
 con identificadores adecuados al efecto;
-g) Primarios: Provienen de la fuente de origen
-con el máximo nivel de desagregación posible;
+g) Primarios: Provienen de la fuente de
+origen con el máximo nivel de desagregación
+posible;
 h) Legibles por máquinas: Deberán estar
 estructurados, total o parcialmente, para ser
 procesados e interpretados por equipos
@@ -177,10 +177,10 @@ públicamente, que no suponen una dificultad
 de acceso y que su aplicación y reproducción
 no estén condicionadas a contraprestación
 alguna;
+
 j) De libre uso: Citan la fuente de origen como
 único requerimiento para ser utilizados
 libremente;
-
 VII. Documento:
 Los
 expedientes,
@@ -219,11 +219,11 @@ Nuevo León, Oaxaca, Puebla, Querétaro,
 Quintana Roo, San Luis Potosí, Sinaloa, Sonora,
 Tabasco, Tamaulipas, Tlaxcala, Veracruz,
 Yucatán, Zacatecas y el Distrito Federal;
+
 IX. Expediente: Unidad documental constituida por
 uno o varios documentos de archivo, ordenados
 y relacionados por un mismo asunto, actividad o
 trámite de los sujetos obligados;
-
 X. Formatos Abiertos: Conjunto de características
 técnicas y de presentación de la información que
 corresponden a la estructura lógica usada para
@@ -252,9 +252,9 @@ Nacional
 de
 Transparencia, Acceso a la Información y
 Protección de Datos Personales;
+
 XIV. Ley: La Ley General de Transparencia y
 Acceso a la Información Pública;
-
 XV. Ley Federal: La Ley Federal de Transparencia
 y
 Acceso
@@ -288,9 +288,9 @@ Gobierno del Distrito Federal;
 XIX. Sistema Nacional: Sistema Nacional de
 Transparencia, Acceso a la Información y
 Protección de Datos Personales;
+
 XX. Unidad de Transparencia: Instancia a la que
 hace referencia el artículo 45 de esta Ley, y
-
 XXI. Versión Pública: Documento o Expediente en
 el que se da acceso a información eliminando u
 omitiendo las partes o secciones clasificadas.
@@ -315,11 +315,11 @@ violaciones graves a derechos humanos o delitos de
 lesa humanidad, de conformidad con el derecho
 nacional o los tratados internacionales de los que el
 Estado mexicano sea parte.
+
 Ninguna persona será objeto de inquisición judicial o
 administrativa con el objeto del ejercicio del derecho
 de acceso a la información, ni se podrá restringir este
 derecho por vías o medios directos e indirectos.
-
 Artículo 6. El Estado garantizará el efectivo acceso
 de toda persona a la información en posesión de
 cualquier entidad, autoridad, órgano y organismo de
@@ -345,9 +345,9 @@ parte, así como en las resoluciones y sentencias
 vinculantes que emitan los órganos nacionales e
 internacionales especializados, favoreciendo en todo
 tiempo a las personas la protección más amplia.
+
 Para el caso de la interpretación, se podrá tomar en
 cuenta los criterios, determinaciones y opiniones de
-
 los organismos nacionales e internacionales, en
 materia de transparencia.
 Capítulo II
@@ -381,9 +381,9 @@ respecto
 de
 sus
 actuaciones de ser ajenos o extraños a los
+
 intereses de las partes en controversia y resolver
 sin favorecer indebidamente a ninguna de ellas;
-
 IV. Independencia: Cualidad que deben tener los
 Organismos garantes para actuar sin supeditarse
 a interés, autoridad o persona alguna;
@@ -409,9 +409,9 @@ sujetar su actuación a conocimientos técnicos,
 teóricos y metodológicos que garanticen un
 desempeño eficiente y eficaz en el ejercicio de la
 función pública que tienen encomendada, y
+
 IX. Transparencia: Obligación de los Organismos
 garantes de dar publicidad a las deliberaciones y
-
 actos relacionados con sus atribuciones, así
 como dar acceso a la información que generen.
 Sección Segunda
@@ -440,12 +440,17 @@ Artículo 11. Toda la información en posesión de los
 sujetos obligados será pública, completa, oportuna y
 accesible, sujeta a un claro régimen de excepciones
 que deberán estar definidas y ser además legítimas y
+
 estrictamente
-necesarias
-en
-una
-sociedad
 democrática.
+
+necesarias
+
+en
+
+una
+
+sociedad
 
 Artículo 12. Toda la información pública generada,
 obtenida, adquirida, transformada o en posesión de
@@ -472,9 +477,9 @@ acceso a la información.
 Artículo 15. Toda persona tiene derecho de acceso
 a la información, sin discriminación, por motivo
 alguno.
+
 Artículo 16. El ejercicio del derecho de acceso a la
 información no estará condicionado a que el
-
 solicitante acredite interés alguno o justifique su
 utilización, ni podrá condicionarse el mismo por
 motivos de discapacidad.
@@ -497,11 +502,11 @@ En los casos en que ciertas facultades,
 competencias o funciones no se hayan ejercido, se
 debe motivar la respuesta en función de las causas
 que motiven la inexistencia.
+
 Artículo 20. Ante la negativa del acceso a la
 información o su inexistencia, el sujeto obligado
 deberá demostrar que la información solicitada está
 prevista en alguna de las excepciones contenidas en
-
 esta Ley o, en su caso, demostrar que la información
 no se refiere a alguna de sus facultades,
 competencias o funciones.
@@ -525,11 +530,11 @@ Poderes Ejecutivo, Legislativo y Judicial, órganos
 autónomos, partidos políticos, fideicomisos y fondos
 públicos, así como cualquier persona física, moral o
 sindicato que reciba y ejerza recursos públicos o
+
 realice actos de autoridad en los ámbitos federal, de
 las Entidades Federativas y municipal.
 Artículo 24. Para el cumplimiento de los objetivos
 de esta Ley, los sujetos obligados deberán cumplir
-
 con las siguientes obligaciones, según corresponda,
 de acuerdo a su naturaleza:
 I.
@@ -557,6 +562,7 @@ publicación de la información en Formatos
 Abiertos y Accesibles;
 VI. Proteger y resguardar la información clasificada
 como reservada o confidencial;
+
 VII. Reportar
 a
 los
@@ -569,7 +575,6 @@ acciones
 de
 implementación de la normatividad en la materia,
 en los términos que éstos determinen;
-
 VIII. Atender los requerimientos, observaciones,
 recomendaciones y criterios que, en materia de
 transparencia y acceso a la información, realicen
@@ -588,13 +593,13 @@ XIII. Dar atención a las recomendaciones de los
 Organismos garantes, y
 XIV. Las demás que resulten de la normatividad
 aplicable.
+
 Artículo 25. Los sujetos obligados serán los
 responsables del cumplimiento de las obligaciones,
 procedimientos y responsabilidades establecidas en
 esta Ley, la Ley Federal y las correspondientes de las
 Entidades Federativas, en los términos que las
 mismas determinen.
-
 Artículo 26. Los fideicomisos y fondos públicos,
 considerados entidades paraestatales deberán dar
 cumplimiento a las obligaciones establecidas en las
@@ -616,13 +621,13 @@ Capítulo I
 Del Sistema Nacional de Transparencia, Acceso a
 la Información Pública y Protección de Datos
 Personales
+
 Artículo 27. El presente Capítulo tiene por objeto
 regular la integración, organización y función del
 Sistema Nacional de Transparencia, Acceso a la
 Información Pública y Protección de Datos
 Personales, así como establecer las bases de
 coordinación entre sus integrantes.
-
 Artículo 28. El Sistema Nacional se integra por el
 conjunto orgánico y articulado de sus miembros,
 procedimientos, instrumentos y políticas, con el objeto
@@ -646,6 +651,7 @@ misma como un medio para facilitar el conocimiento y
 evaluación de la gestión pública, la promoción del
 derecho de acceso a la información y la difusión de
 una cultura de la transparencia y su accesibilidad, así
+
 como a una fiscalización y rendición de cuentas
 efectivas.
 Artículo 30. Son parte integrante del Sistema
@@ -674,6 +680,7 @@ garantizar condiciones de accesibilidad para que
 los grupos vulnerables puedan ejercer, en
 igualdad de condiciones, el derecho de acceso a
 la información;
+
 III. Desarrollar y establecer programas comunes de
 alcance
 nacional,
@@ -684,7 +691,6 @@ investigación, diagnóstico y difusión en materias
 de transparencia, acceso a la información,
 protección de datos personales y apertura
 gubernamental en el país;
-
 IV. Establecer los criterios para la publicación de los
 indicadores que permitan a los sujetos obligados
 rendir cuentas del cumplimiento de sus objetivos
@@ -708,12 +714,12 @@ VIII. Diseñar e implementar políticas en materia de
 generación,
 actualización,
 organización,
+
 clasificación, publicación, difusión, conservación
 y accesibilidad de la información pública de
 conformidad con la normatividad aplicable;
 IX. Promover la participación ciudadana a través de
 mecanismos eficaces en la planeación,
-
 implementación y evaluación de políticas en la
 materia;
 X. Establecer programas de profesionalización,
@@ -734,12 +740,12 @@ instancias que integran el Sistema Nacional y dar
 seguimiento a las acciones que para tal efecto se
 establezcan, y
 XV. Las demás que se desprendan de esta Ley.
+
 En el desarrollo de los criterios a que se refiere la
 fracción IV participará, al menos, un representante de
 cada uno de los integrantes del Sistema Nacional, así
 como un representante del Consejo Nacional de
 Armonización Contable, previsto en el artículo 6 de la
-
 Ley General de Contabilidad Gubernamental, que
 tendrá derecho a voz y podrá presentar
 observaciones por escrito a dichos criterios, las
@@ -762,12 +768,12 @@ Artículo 33. El Consejo Nacional podrá invitar, por
 la naturaleza de los asuntos a tratar, a las personas,
 instituciones, representantes de los sujetos obligados
 y representantes de la sociedad para el desahogo de
+
 las reuniones del Sistema Nacional. En todo caso, los
 sujetos obligados tendrán la potestad de solicitar ser
 invitados a estas reuniones.
 Artículo 34. El Consejo Nacional podrá funcionar en
 Pleno o en comisiones. El Pleno se reunirá por lo
-
 menos cada seis meses a convocatoria de su
 Presidente o la mitad más uno de sus integrantes. El
 convocante deberá integrar la agenda de los asuntos
@@ -787,6 +793,7 @@ funcionamiento del Sistema Nacional.
 Artículo 36. El Sistema Nacional contará con un
 Secretario Ejecutivo designado por el Pleno del
 Instituto y contará con las siguientes atribuciones:
+
 I.
 
 Ejecutar y dar seguimiento a los acuerdos y
@@ -795,7 +802,6 @@ Presidente;
 
 II. Informar periódicamente al Consejo Nacional y a
 su Presidente de sus actividades;
-
 III. Verificar el cumplimiento de los programas,
 estrategias, acciones, políticas y servicios que se
 adopten por el Consejo Nacional;
@@ -819,6 +825,7 @@ competencia, el ejercicio de los derechos de acceso a
 la información y la protección de datos personales,
 conforme a los principios y bases establecidos por el
 artículo 6o. de la Constitución Política de los Estados
+
 Unidos Mexicanos, así como por lo previsto en esta
 Ley y demás disposiciones aplicables.
 En la Ley Federal y en la de las Entidades
@@ -829,7 +836,6 @@ duración
 del
 cargo,
 requisitos,
-
 procedimiento
 de
 selección,
@@ -855,6 +861,7 @@ autonomía.
 En los procedimientos para la selección de los
 Comisionados se deberá garantizar la transparencia,
 independencia y participación de la sociedad.
+
 Artículo 39. Los Comisionados sólo podrán ser
 removidos de su cargo en los términos del Título
 Cuarto de la Constitución Política de los Estados
@@ -862,7 +869,6 @@ Unidos Mexicanos y serán sujetos de juicio político.
 Artículo 40. Los Organismos garantes tendrán la
 estructura administrativa necesaria para la gestión y
 el desempeño de sus atribuciones.
-
 El Congreso de la Unión, los Congresos de las
 Entidades Federativas y la Asamblea Legislativa del
 Distrito Federal, deberán otorgar un presupuesto
@@ -885,6 +891,7 @@ interpuestos por los particulares en contra de las
 resoluciones de los sujetos obligados en el
 ámbito federal en términos de lo dispuesto en el
 Capítulo I del Título Octavo de la presente Ley;
+
 III. Conocer
 y
 resolver
@@ -898,7 +905,6 @@ Federativas que determinen la reserva,
 confidencialidad, inexistencia o negativa de la
 información en términos de lo dispuesto en el
 Capítulo II, del Título Octavo de la presente Ley;
-
 IV. Conocer y resolver de oficio o a petición de los
 Organismos garantes de las Entidades
 Federativas los recursos de revisión que, por su
@@ -924,6 +930,7 @@ Comisionados,
 las
 controversias
 constitucionales en términos del artículo 105,
+
 fracción I, inciso l), de la Constitución Política de
 los Estados Unidos Mexicanos;
 VIII. Establecer y ejecutar las medidas de apremio y
@@ -931,7 +938,6 @@ sanciones, según corresponda, de conformidad
 con lo señalado en la presente Ley;
 IX. Suscribir convenios de colaboración con los
 Organismos garantes de las Entidades
-
 Federativas o con los sujetos obligados, con el
 objeto de vigilar el cumplimiento de la presente
 Ley y promover mejores prácticas en la materia;
@@ -961,7 +967,6 @@ resoluciones de los sujetos obligados en el
 Capítulo I del Título Octavo de la presente Ley;
 III. Imponer las medidas de apremio para asegurar
 el cumplimiento de sus determinaciones;
-
 IV. Presentar petición fundada al Instituto para que
 conozca de los recursos de revisión que por su
 interés y trascendencia así lo ameriten;
@@ -979,13 +984,13 @@ IX. Suscribir convenios con los sujetos obligados
 que propicien la publicación de información en el
 marco de las políticas de transparencia
 proactiva;
+
 X. Suscribir convenios de colaboración con
 particulares o sectores de la sociedad cuando
 sus actividades o productos resulten de interés
 público o relevancia social;
 XI. Suscribir convenios de colaboración con otros
 Organismos garantes para el cumplimiento de
-
 sus atribuciones y promover mejores prácticas
 en la materia;
 XII. Promover la igualdad sustantiva;
@@ -1010,13 +1015,13 @@ acceso a la información;
 XV. Según corresponda, interponer acciones de
 inconstitucionalidad en contra de leyes
 expedidas por las legislaturas locales y la
+
 Asamblea Legislativa del Distrito Federal, que
 vulneren el derecho de acceso a la información
 pública y la protección de datos personales;
 XVI. Elaborar y publicar estudios e investigaciones
 para difundir y ampliar el conocimiento sobre la
 materia de acceso a la información;
-
 XVII. Hacer del conocimiento de la instancia
 competente la probable responsabilidad por el
 incumplimiento de las obligaciones previstas en
@@ -1037,6 +1042,7 @@ principios de gobierno abierto, la transparencia,
 la rendición de cuentas, la participación
 ciudadana, la accesibilidad y la innovación
 tecnológica;
+
 XXI. Los Organismos garantes podrán emitir
 recomendaciones a los sujetos obligados para
 diseñar, implementar y evaluar acciones de
@@ -1044,7 +1050,6 @@ apertura gubernamental que permitan orientar
 las políticas internas en la materia, y
 XXII. Las demás que les confieran esta Ley y otras
 disposiciones aplicables.
-
 Capítulo III
 De los Comités de Transparencia
 Artículo 43. En cada sujeto obligado se integrará un
@@ -1064,6 +1069,7 @@ titular del sujeto obligado tendrá que nombrar a la
 persona que supla al subordinado.
 Los integrantes del Comité de Transparencia
 tendrán acceso a la información para determinar su
+
 clasificación, conforme a la normatividad previamente
 establecida por los sujetos obligados para el
 resguardo o salvaguarda de la información.
@@ -1072,7 +1078,6 @@ Centro Nacional de Planeación, Análisis e Información
 para el Combate a la Delincuencia; el Centro Federal
 de Protección a Personas; la Dirección de
 Coordinación de Inteligencia de la Comisión Nacional
-
 de Seguridad; la Subprocuraduría Especializada en
 Investigación de Delincuencia Organizada; la Unidad
 de Inteligencia Financiera; el Estado Mayor
@@ -1098,6 +1103,7 @@ protocolos de seguridad y resguardo establecidos
 para ello.
 Artículo 44. Cada Comité de Transparencia tendrá
 las siguientes funciones:
+
 I.
 
 Instituir, coordinar y supervisar, en términos de
@@ -1112,7 +1118,6 @@ o
 revocar
 las
 determinaciones que en materia de ampliación
-
 del plazo de respuesta, clasificación de la
 información y declaración de inexistencia o de
 incompetencia realicen los titulares de las Áreas
@@ -1131,6 +1136,7 @@ a la información;
 V. Promover la capacitación y actualización de los
 Servidores Públicos o integrantes adscritos a las
 Unidades de Transparencia;
+
 VI. Establecer programas de capacitación en
 materia de transparencia, acceso a la
 información, accesibilidad y protección de datos
@@ -1140,7 +1146,6 @@ VII. Recabar y enviar al organismo garante, de
 conformidad con los lineamientos que estos
 expidan, los datos necesarios para la
 elaboración del informe anual;
-
 VIII. Solicitar y autorizar la ampliación del plazo de
 reserva de la información a que se refiere el
 artículo 101 de la presente Ley, y
@@ -1175,7 +1180,6 @@ solicitudes de acceso a la información y, en su
 caso, orientarlos sobre los sujetos obligados
 competentes conforme a la normatividad
 aplicable;
-
 IV. Realizar los trámites internos necesarios para la
 atención de las solicitudes de acceso a la
 información;
@@ -1191,6 +1195,7 @@ acceso a la información;
 VIII. Llevar un registro de las solicitudes de acceso
 a la información, respuestas, resultados, costos
 de reproducción y envío;
+
 IX. Promover
 e
 transparencia
@@ -1211,7 +1216,6 @@ competente la probable responsabilidad por el
 incumplimiento de las obligaciones previstas en
 la presente Ley y en las demás disposiciones
 aplicables, y
-
 XII. Las demás que se
 normatividad aplicable.
 
@@ -1234,6 +1238,7 @@ para que le ordene realizar sin demora las acciones
 conducentes.
 Cuando persista la negativa de colaboración, la
 Unidad de Transparencia lo hará del conocimiento de
+
 la autoridad competente para que ésta inicie, en su
 caso, el procedimiento de responsabilidad respectivo.
 Capítulo V
@@ -1247,7 +1252,6 @@ Entidades Federativas contemplarán lo relativo a la
 integración,
 funcionamiento,
 procedimientos
-
 transparentes de designación, temporalidad en el
 cargo y su renovación.
 En la integración del Consejo Consultivo se deberá
@@ -1268,6 +1272,7 @@ cumplimiento;
 
 II. Opinar sobre el proyecto de presupuesto para el
 ejercicio del año siguiente;
+
 III. Conocer el informe de los Organismos garantes
 sobre el presupuesto asignado a programas y el
 ejercicio presupuestal y emitir las observaciones
@@ -1280,7 +1285,6 @@ accesibilidad y protección de datos personales;
 V. Emitir opiniones técnicas para la mejora continua
 en el ejercicio de las funciones sustantivas de los
 Organismos garantes;
-
 VI. Opinar sobre la adopción de criterios generales
 en materia sustantiva, y
 VII. Analizar y proponer la ejecución de programas,
@@ -1301,6 +1305,7 @@ administrarán,
 implementarán
 y
 pondrán en funcionamiento la plataforma electrónica
+
 que permita cumplir con los procedimientos,
 obligaciones y disposiciones señaladas en la presente
 Ley para los sujetos obligados y Organismos
@@ -1345,6 +1350,7 @@ medidas necesarias para garantizar la estabilidad y
 seguridad de la plataforma, promoviendo la
 homologación de procesos y la simplicidad del uso de
 los sistemas por parte de los usuarios.
+
 TÍTULO CUARTO
 CULTURA DE TRANSPARENCIA Y APERTURA
 GUBERNAMENTAL
@@ -1357,7 +1363,6 @@ capacitar y actualizar, de forma permanente, a todos
 sus Servidores Públicos en materia del derecho de
 acceso a la información, a través de los medios que
 se considere pertinente.
-
 Con el objeto de crear una cultura de la
 transparencia y acceso a la información entre los
 habitantes de los Estados Unidos Mexicanos, los
@@ -1375,12 +1380,12 @@ I.
 Proponer, a las autoridades educativas
 competentes que incluyan contenidos sobre la
 importancia social del derecho de acceso a la
+
 información en los planes y programas de
 estudio de educación preescolar, primaria,
 secundaria, normal y para la formación de
 maestros de educación básica en sus
 respectivas jurisdicciones;
-
 II. Promover, entre las instituciones públicas y
 privadas de educación media superior y superior,
 la inclusión, dentro de sus programas de estudio,
@@ -1391,7 +1396,6 @@ y
 extracurriculares, de temas que ponderen la
 importancia social del derecho de acceso a la
 información y rendición de cuentas;
-
 III. Promover, que en las bibliotecas y entidades
 especializadas en materia de archivos se prevea
 la instalación de módulos de información pública,
@@ -1407,6 +1411,7 @@ información y rendición de cuentas;
 V. Establecer, entre las instituciones públicas de
 educación, acuerdos para la elaboración y
 publicación de materiales que fomenten la
+
 cultura del derecho de acceso a la información y
 rendición de cuentas;
 VI. Promover, en coordinación con autoridades
@@ -1423,18 +1428,8 @@ información;
 VII. Desarrollar, programas de formación de usuarios
 de este derecho para incrementar su ejercicio y
 aprovechamiento, privilegiando a integrantes de
-
-sectores vulnerables
+sectores vulnerables o marginados de la
 población;
-
-o
-
-marginados
-
-de
-
-la
-
 VIII. Impulsar, estrategias que pongan al alcance de
 los diversos sectores de la sociedad los medios
 para el ejercicio del derecho de acceso a la
@@ -1449,6 +1444,7 @@ especializadas, programas para la asesoría y
 orientación de sus usuarios en el ejercicio y
 aprovechamiento del derecho de acceso a la
 información.
+
 Artículo 55. Para el cumplimiento de las
 obligaciones previstas en la presente Ley, los sujetos
 obligados podrán desarrollar o adoptar, en lo
@@ -1466,7 +1462,6 @@ II. Armonizar el acceso a la información por
 sectores;
 III. Facilitar el ejercicio del derecho de acceso a la
 información a las personas, y
-
 IV. Procurar la accesibilidad de la información.
 Capítulo II
 De la Transparencia Proactiva
@@ -1481,6 +1476,7 @@ reutilización de la información que generan los sujetos
 obligados, considerando la demanda de la sociedad,
 identificada con base en las metodologías
 previamente establecidas.
+
 Artículo 57. La información publicada por los
 sujetos obligados, en el marco de la política de
 transparencia proactiva, se difundirá en los medios y
@@ -1493,7 +1489,6 @@ reutilización que la sociedad haga a la información.
 La información que se publique, como resultado de
 las políticas de transparencia, deberá permitir la
 generación de conocimiento público útil, para
-
 disminuir asimetrías de la información, mejorar los
 accesos a trámites y servicios, optimizar la toma de
 decisiones de autoridades o ciudadanos y deberá
@@ -1513,6 +1508,7 @@ obligados y representantes de la sociedad civil en la
 implementación de mecanismos de colaboración para
 la promoción e implementación de políticas y
 mecanismos de apertura gubernamental.
+
 TÍTULO QUINTO
 OBLIGACIONES DE TRANSPARENCIA
 Capítulo I
@@ -1525,7 +1521,6 @@ particulares la información a que se refiere este Título
 en los sitios de Internet correspondientes de los
 sujetos obligados y a través de la Plataforma
 Nacional.
-
 Artículo 61. Los lineamientos técnicos que emita el
 Sistema Nacional establecerán los formatos de
 publicación de la información para asegurar que la
@@ -1548,6 +1543,7 @@ obligaciones de transparencia deberá actualizarse por
 lo menos cada tres meses, salvo que en la presente
 Ley o en otra disposición normativa se establezca un
 plazo diverso. El Sistema Nacional emitirá los criterios
+
 para determinar el plazo mínimo que deberá
 permanecer disponible y accesible la información,
 atendiendo a las cualidades de la misma.
@@ -1560,7 +1556,6 @@ cumplimiento que los sujetos obligados den a las
 disposiciones previstas en este Título.
 Las denuncias presentadas por los particulares
 podrán realizarse en cualquier momento, de
-
 conformidad con el procedimiento señalado en la
 presente Ley.
 Artículo 64. La página de inicio de los portales de
@@ -1575,6 +1570,7 @@ naturaleza.
 Artículo 65. Los Organismos garantes y los sujetos
 obligados establecerán las medidas que faciliten el
 acceso y búsqueda de la información para personas
+
 con discapacidad y se procurará que la información
 publicada sea accesible de manera focalizada a
 personas que hablen alguna lengua indígena.
@@ -1587,7 +1583,6 @@ Se promoverá la homogeneidad y la estandarización
 de la información, a través de la emisión de
 lineamientos y de formatos por parte del Sistema
 Nacional.
-
 Artículo 66. Los sujetos obligados pondrán a
 disposición de las personas interesadas equipos de
 cómputo con acceso a Internet, que permitan a los
@@ -1604,6 +1599,7 @@ constituye propaganda gubernamental. Los sujetos
 obligados, incluso dentro de los procesos electorales,
 a partir del inicio de las precampañas y hasta la
 conclusión del proceso electoral, deberán mantener
+
 accesible la información en el portal de obligaciones
 de transparencia, salvo disposición expresa en
 contrario en la normatividad electoral.
@@ -1623,9 +1619,9 @@ tratamiento de datos, en los casos que sea
 procedente, así como capacitar a los Servidores
 Públicos y dar a conocer información sobre sus
 políticas en relación con la protección de tales
-
 datos, de conformidad con la normatividad
 aplicable;
+
 II. Tratar datos personales sólo cuando éstos sean
 adecuados, pertinentes y no excesivos en
 relación con los propósitos para los cuales se
@@ -1639,6 +1635,7 @@ en términos de la normatividad aplicable,
 excepto en casos en que el tratamiento de los
 datos se haga en ejercicio de las atribuciones
 conferidas por ley;
+
 IV. Procurar que los datos personales sean exactos
 y actualizados;
 V. Sustituir, rectificar o completar, de oficio, los
@@ -1650,7 +1647,6 @@ VI. Adoptar las medidas necesarias que garanticen
 la seguridad de los datos personales y eviten su
 alteración, pérdida, transmisión y acceso no
 autorizado.
-
 Los sujetos obligados no podrán difundir, distribuir o
 comercializar los datos personales contenidos en los
 sistemas de información, desarrollados en el ejercicio
@@ -1666,6 +1662,7 @@ con la presente Ley, serán responsables de los datos
 personales de conformidad con la normatividad
 aplicable para la protección de datos personales en
 posesión de los particulares.
+
 Capítulo II
 De las obligaciones de transparencia comunes
 Artículo 70. En la Ley Federal y de las Entidades
@@ -1681,9 +1678,9 @@ I.
 El marco normativo aplicable al sujeto obligado,
 en el que deberá incluirse leyes, códigos,
 reglamentos, decretos de creación, manuales
-
 administrativos, reglas de operación, criterios,
 políticas, entre otros;
+
 II. Su estructura orgánica completa, en un formato
 que permita vincular cada parte de la estructura,
 las atribuciones y responsabilidades que le
@@ -1694,6 +1691,7 @@ disposiciones aplicables;
 III. Las facultades de cada Área;
 IV. Las metas y objetivos de las Áreas de
 conformidad con sus programas operativos;
+
 V. Los indicadores relacionados con temas de
 interés público o trascendencia social que
 conforme a sus funciones, deban establecer;
@@ -1708,7 +1706,6 @@ servicios profesionales bajo el régimen de
 confianza u honorarios y personal de base. El
 directorio deberá incluir, al menos el nombre,
 cargo o nombramiento asignado, nivel del puesto
-
 en la estructura orgánica, fecha de alta en el
 cargo, número telefónico, domicilio para recibir
 correspondencia
@@ -1729,6 +1726,7 @@ periodicidad de dicha remuneración;
 IX. Los gastos de representación y viáticos, así
 como el objeto e informe de comisión
 correspondiente;
+
 X. El número total de las plazas y del personal de
 base y confianza, especificando el total de las
 vacantes, por nivel de puesto, para cada unidad
@@ -1745,18 +1743,8 @@ periodo de contratación;
 XII. La información en Versión Pública de las
 declaraciones patrimoniales de los Servidores
 Públicos que así lo determinen, en los sistemas
-
-habilitados para ello,
+habilitados para ello, de acuerdo a la
 normatividad aplicable;
-
-de
-
-acuerdo
-
-a
-
-la
-
 XIII. El domicilio de la Unidad de Transparencia,
 además de la dirección electrónica donde podrán
 recibirse las solicitudes para obtener la
@@ -1768,17 +1756,26 @@ estímulos y apoyos, en el que se deberá informar
 respecto de los programas de transferencia, de
 servicios, de infraestructura social y de subsidio,
 en los que se deberá contener lo siguiente:
+
 a) Área;
-b) Denominación del programa;
+b)
+
+Denominación del programa;
+
 c) Periodo de vigencia;
-d) Diseño, objetivos y alcances;
+d)
+
+Diseño, objetivos y alcances;
+
 e) Metas físicas;
 f) Población beneficiada estimada;
 g) Monto aprobado, modificado y ejercido, así
 como los calendarios de su programación
 presupuestal;
+h)
 
-h) Requisitos y procedimientos de acceso;
+Requisitos y procedimientos de acceso;
+
 i) Procedimiento
 ciudadana;
 
@@ -1804,13 +1801,17 @@ l) Indicadores con nombre, definición, método de
 cálculo, unidad de medida, dimensión,
 frecuencia de medición, nombre de las bases
 de datos utilizadas para su cálculo;
+
 m)
 
 Formas de participación social;
 
-n) Articulación con otros programas sociales;
-o) Vínculo a las reglas de operación o Documento
-equivalente;
+n)
+
+Articulación con otros programas sociales;
+
+o) Vínculo a las reglas de operación o
+Documento equivalente;
 p) Informes periódicos sobre la ejecución y los
 resultados de las evaluaciones realizadas, y
 q) Padrón de beneficiarios mismo que deberá
@@ -1818,7 +1819,6 @@ contener los siguientes datos: nombre de la
 persona física o denominación social de las
 personas morales beneficiarias, el monto,
 recurso, beneficio o apoyo otorgado para cada
-
 una de ellas, unidad territorial, en su caso,
 edad y sexo;
 XVI. Las condiciones generales de trabajo,
@@ -1832,6 +1832,7 @@ de departamento o equivalente, hasta el titular
 del sujeto obligado, así como, en su caso, las
 sanciones administrativas de que haya sido
 objeto;
+
 XVIII.
 El listado de Servidores Públicos con
 sanciones
@@ -1847,7 +1848,6 @@ asignado, así como los informes del ejercicio
 trimestral del gasto, en términos de la Ley
 General de Contabilidad Gubernamental y
 demás normatividad aplicable;
-
 XXII. La información relativa a la deuda pública, en
 términos de la normatividad aplicable;
 XXIII.
@@ -1861,6 +1861,7 @@ sujeto obligado que se realicen y, en su caso, las
 aclaraciones que correspondan;
 XXV. El resultado de la dictaminación de los estados
 financieros;
+
 XXVI. Los montos, criterios, convocatorias y
 listado de personas físicas o morales a quienes,
 por cualquier motivo, se les asigne o permita
@@ -1875,7 +1876,6 @@ especificando los titulares de aquéllos, debiendo
 publicarse su objeto, nombre o razón social del
 titular, vigencia, tipo, términos, condiciones,
 monto y modificaciones, así como si el
-
 procedimiento involucra el aprovechamiento de
 bienes, servicios y/o recursos públicos;
 XXVIII. La información sobre los resultados sobre
@@ -1893,6 +1893,7 @@ invitación restringida:
 1. La convocatoria o invitación emitida, así
 como los fundamentos legales aplicados
 para llevarla a cabo;
+
 2. Los nombres de los participantes o invitados;
 3. El nombre del ganador y las razones que lo
 justifican;
@@ -1901,7 +1902,6 @@ ejecución;
 5. Las convocatorias e invitaciones emitidas;
 6. Los dictámenes y fallo de adjudicación;
 7. El contrato y, en su caso, sus anexos;
-
 8. Los mecanismos de vigilancia y supervisión,
 incluyendo, en su caso, los estudios de
 impacto urbano y ambiental, según
@@ -1916,11 +1916,15 @@ respectiva;
 11. Los convenios modificatorios que, en su
 caso, sean firmados, precisando el objeto y
 la fecha de celebración;
+
 12. Los informes de avance físico y financiero
 sobre las obras o servicios contratados;
 13. El convenio de terminación, y
 14. El finiquito;
-b) De las adjudicaciones directas:
+b)
+
+De las adjudicaciones directas:
+
 1. La propuesta enviada por el participante;
 2. Los motivos y fundamentos
 aplicados para llevarla a cabo;
@@ -1942,6 +1946,7 @@ responsable de su ejecución;
 7. El número, fecha, el monto del contrato y el
 plazo de entrega o de ejecución de los
 servicios u obra;
+
 8. Los mecanismos de vigilancia y supervisión,
 incluyendo, en su caso, los estudios de
 impacto urbano y ambiental, según
@@ -1952,7 +1957,6 @@ servicios contratados;
 11. El finiquito;
 XXIX. Los informes que por disposición legal
 generen los sujetos obligados;
-
 XXX. Las estadísticas que generen en cumplimiento
 de sus facultades, competencias o funciones con
 la mayor desagregación posible;
@@ -1989,12 +1993,11 @@ participación
 XXXVIII. Los programas que ofrecen, incluyendo
 información sobre la población, objetivo y
 destino, así como los trámites, tiempos de
-
 respuesta, requisitos y formatos para acceder a
 los mismos;
 XXXIX. Las actas y resoluciones del Comité de
 Transparencia de los sujetos obligados;
-XL. Todas las evaluaciones y encuestas que hagan
+XL.Todas las evaluaciones y encuestas que hagan
 los sujetos obligados a programas financiados
 con recursos públicos;
 XLI. Los estudios
@@ -2008,22 +2011,20 @@ recursos
 
 XLII. El listado de jubilados y pensionados y el
 monto que reciben;
+
 XLIII. Los ingresos recibidos por cualquier concepto
 señalando el nombre de los responsables de
 recibirlos, administrarlos y ejercerlos, así como
 su destino, indicando el destino de cada uno de
 ellos;
-XLIV.
-Donaciones hechas a terceros en dinero o
+XLIV. Donaciones hechas a terceros en dinero o
 en especie;
 XLV. El catálogo de disposición y guía de archivo
 documental;
-XLVI.
-Las actas de sesiones ordinarias y
+XLVI. Las actas de sesiones ordinarias y
 extraordinarias, así como las opiniones y
 recomendaciones que emitan, en su caso, los
 consejos consultivos;
-
 XLVII. Para efectos estadísticos, el listado de
 solicitudes a las empresas concesionarias de
 telecomunicaciones y proveedores de servicios o
@@ -2038,6 +2039,7 @@ de que cuenta con la autorización judicial
 correspondiente, y
 XLVIII. Cualquier otra información que sea de
 utilidad o se considere relevante, además de la
+
 que, con base en la información estadística,
 responda a las preguntas hechas con más
 frecuencia por el público.
@@ -2051,7 +2053,6 @@ sujeto obligado.
 Capítulo III
 De las obligaciones de transparencia específicas
 de los sujetos obligados
-
 Artículo 71. Además de lo señalado en el artículo
 anterior de la presente Ley, los sujetos obligados de
 los Poderes Ejecutivos Federal, de las Entidades
@@ -2068,8 +2069,9 @@ a) El Plan Nacional de Desarrollo, los planes
 estatales de desarrollo o el Programa General
 de Desarrollo del Distrito Federal, según
 corresponda;
-b) El presupuesto de egresos y las fórmulas de
-distribución de los recursos otorgados;
+
+b) El presupuesto de egresos y las fórmulas
+de distribución de los recursos otorgados;
 c) El listado de expropiaciones decretadas y
 ejecutadas que incluya, cuando menos, la
 fecha de expropiación, el domicilio y la causa
@@ -2080,7 +2082,6 @@ clave del registro federal de los contribuyentes
 a los que se les hubiera cancelado o
 condonado algún crédito fiscal, así como los
 montos respectivos. Asimismo, la información
-
 estadística sobre las exenciones previstas en
 las disposiciones fiscales;
 e) Los nombres de las personas a quienes se les
@@ -2094,6 +2095,7 @@ planes de desarrollo urbano, ordenamiento
 territorial y ecológico, los tipos y usos de suelo,
 licencias de uso y construcción otorgadas por
 los gobiernos municipales, y
+
 g) Las
 disposiciones
 administrativas,
@@ -2109,9 +2111,8 @@ II. Adicionalmente, en el caso de los municipios:
 a) El contenido de las gacetas municipales, las
 cuales deberán comprender los resolutivos y
 acuerdos aprobados por los ayuntamientos, y
-
-b) Las actas de sesiones de cabildo, los controles
-de asistencia de los integrantes del
+b) Las actas de sesiones de cabildo, los
+controles de asistencia de los integrantes del
 Ayuntamiento a las sesiones de cabildo y el
 sentido de votación de los miembros del
 cabildo sobre las iniciativas o acuerdos.
@@ -2126,6 +2127,7 @@ I.
 Agenda legislativa;
 
 II. Gaceta Parlamentaria;
+
 III. Orden del Día;
 IV. El Diario de Debates;
 V. Las versiones estenográficas;
@@ -2180,7 +2182,6 @@ Grupos Parlamentarios y centros de estudio u
 XIII. El informe semestral del ejercicio presupuestal
 del uso y destino de los recursos financieros de
 los órganos de gobierno, Comisiones, Comités,
-
 Grupos Parlamentarios y centros de estudio u
 órganos de investigación;
 XIV. Los
@@ -2199,6 +2200,7 @@ Artículo 73. Además de lo señalado en el artículo
 Poderes Judiciales Federal y de las Entidades
 Federativas deberán poner a disposición del público y
 actualizar la siguiente información:
+
 I.
 
 Las tesis y ejecutorias publicadas en el
@@ -2211,14 +2213,14 @@ tribunal
 administrativo, incluyendo, tesis jurisprudenciales
 y aisladas;
 
-II. Las versiones públicas de las sentencias que
-sean de interés público;
+II. Las versiones públicas de todas las sentencias
+emitidas;
+Fracción reformada DOF 13-08-2020
 III. Las versiones estenográficas de las sesiones
 públicas;
 IV. La relacionada con los procesos por medio de
 los cuales fueron designados los jueces y
 magistrados, y
-
 V. La lista de acuerdos que diariamente se
 publiquen.
 Artículo 74. Además de lo señalado en el artículo
@@ -2230,6 +2232,7 @@ I.
 Instituto Nacional Electoral y organismos
 públicos locales electorales de las Entidades
 Federativas:
+
 a) Los listados de partidos políticos, asociaciones
 y agrupaciones políticas o de ciudadanos
 registrados ante la autoridad electoral;
@@ -2237,13 +2240,12 @@ b) Los informes que presenten los partidos
 políticos, asociaciones y agrupaciones políticas
 o de ciudadanos;
 c) La geografía y cartografía electoral;
-d) El registro de candidatos a cargos de elección
-popular;
+d) El registro de candidatos a cargos de
+elección popular;
 e) El catálogo de estaciones de radio y canales
 de televisión, pautas de transmisión, versiones
 de spots de los institutos electorales y de los
 partidos políticos;
-
 f) Los montos de financiamiento público por
 actividades ordinarias, de campaña y
 específicas otorgadas a los partidos políticos,
@@ -2252,10 +2254,12 @@ ciudadanos y demás asociaciones políticas,
 así como los montos autorizados de
 financiamiento privado y los topes de los
 gastos de campañas;
-g) La metodología e informes sobre la publicación
-de encuestas por muestreo, encuestas de
-salida y conteos rápidos financiados por las
-autoridades electorales competentes;
+g) La metodología e informes sobre la
+publicación de encuestas por muestreo,
+encuestas de salida y conteos rápidos
+financiados por las autoridades electorales
+competentes;
+
 h) La metodología e informe del Programa de
 Resultados Preliminares Electorales;
 i) Los cómputos totales de las elecciones y
@@ -2269,10 +2273,12 @@ l) La información sobre votos de mexicanos
 residentes en el extranjero;
 m) Los dictámenes, informes y resoluciones
 sobre pérdida de registro y liquidación del
-
 patrimonio de los partidos políticos nacionales
 y locales, y
-n) El monitoreo de medios;
+n)
+
+El monitoreo de medios;
+
 II. Organismos de protección de los derechos
 humanos Nacional y de las Entidades
 federativas:
@@ -2280,14 +2286,12 @@ a) El listado y las versiones públicas de las
 recomendaciones emitidas, su destinatario o
 autoridad a la que se recomienda y el estado
 que guarda su atención, incluyendo, en su
+
 caso, las minutas de comparecencias de los
 titulares que se negaron a aceptar las
 recomendaciones;
-b) Las quejas y denuncias presentadas ante las
-autoridades
-administrativas
-y
-penales
+b) Las quejas y denuncias presentadas ante
+las autoridades administrativas y penales
 respectivas, señalando el estado procesal en
 que se encuentran y, en su caso, el sentido en
 el que se resolvieron;
@@ -2297,10 +2301,12 @@ previo
 consentimiento
 del
 quejoso;
-d) Listado de medidas precautorias, cautelares o
-equivalentes giradas, una vez concluido el
-Expediente;
-
+d) Listado
+de
+medidas
+precautorias,
+cautelares o equivalentes giradas, una vez
+concluido el Expediente;
 e) Toda la información con que cuente,
 relacionada con hechos constitutivos de
 violaciones graves de derechos humanos o
@@ -2312,11 +2318,16 @@ no repetición;
 f) La información relacionada con las acciones y
 resultados de defensa, promoción y protección
 de los derechos humanos;
+
 g) Las actas y versiones estenográficas de las
 sesiones del consejo consultivo, así como las
 opiniones que emite;
-h) Los resultados de los estudios, publicaciones o
-investigaciones que realicen;
+h) Los
+resultados
+de
+los
+estudios,
+publicaciones o investigaciones que realicen;
 i) Los programas de prevención y promoción en
 materia de derechos humanos;
 j) El estado que guardan los derechos humanos
@@ -2326,7 +2337,6 @@ k) El seguimiento, evaluación y monitoreo, en
 materia de igualdad entre mujeres y hombres;
 l) Los programas y las acciones de coordinación
 con las dependencias competentes para
-
 impulsar el cumplimiento de tratados de los
 que el Estado mexicano sea parte, en materia
 de Derechos Humanos, y
@@ -2336,13 +2346,14 @@ Humanos y recomendaciones emitidas por el
 Consejo Consultivo;
 III. Organismos garantes del derecho de acceso a la
 información y la protección de datos personales:
+
 a) La relación de observaciones y resoluciones
 emitidas y el seguimiento a cada una de ellas,
 incluyendo las respuestas entregadas por los
 sujetos obligados a los solicitantes en
 cumplimiento de las resoluciones;
-b) Los criterios orientadores que deriven de sus
-resoluciones;
+b) Los criterios orientadores que deriven de
+sus resoluciones;
 c) Las actas de las sesiones del pleno y las
 versiones estenográficas;
 d) Los resultados de la evaluación al
@@ -2350,18 +2361,18 @@ cumplimiento de la presente Ley por parte de
 los sujetos obligados;
 e) Los estudios que apoyan la resolución de los
 recursos de revisión;
-
 f) En su caso, las sentencias, ejecutorias o
 suspensiones judiciales que existan en contra
 de sus resoluciones, y
-g) El número de quejas, denuncias y recursos de
-revisión dirigidos a cada uno de los sujetos
+g) El número de quejas, denuncias y recursos
+de revisión dirigidos a cada uno de los sujetos
 obligados.
 Artículo 75. Además de lo señalado en el artículo
 70 de la presente Ley, las instituciones de educación
 superior públicas dotadas de autonomía deberán
 poner a disposición del público y actualizar la
 siguiente información:
+
 I.
 
 Los planes y programas de estudio según el
@@ -2382,7 +2393,6 @@ III. La remuneración de los profesores, incluyendo
 los estímulos al desempeño, nivel y monto;
 IV. La lista con los profesores con licencia o en año
 sabático;
-
 V. El listado de las becas y apoyos que otorgan, así
 como los procedimientos y requisitos para
 obtenerlos;
@@ -2425,7 +2435,6 @@ y entidad de residencia;
 
 II. Los acuerdos y resoluciones de los órganos de
 dirección de los partidos políticos;
-
 III. Los convenios de participación entre partidos
 políticos con organizaciones de la sociedad civil;
 IV. Contratos y convenios para la adquisición o
@@ -2450,7 +2459,6 @@ campañas políticas;
 XI. El acta de la asamblea constitutiva;
 XII. Las demarcaciones electorales en las que
 participen;
-
 XIII. Los tiempos que les corresponden en canales
 de radio y televisión;
 XIV. Sus
@@ -2471,6 +2479,7 @@ regionales,
 delegacionales y distritales;
 XVI. El tabulador de remuneraciones que perciben
 los integrantes de los órganos a que se refiere la
+
 fracción anterior y de los demás funcionarios
 partidistas, que deberá vincularse con el
 directorio y estructura orgánica; así como
@@ -2485,7 +2494,6 @@ electoral y la entidad federativa;
 XVIII.
 El currículo de los dirigentes a nivel
 nacional, estatal y municipal;
-
 XIX. Los convenios de frente, coalición o fusión que
 celebren o de participación electoral que realicen
 con agrupaciones políticas nacionales;
@@ -2499,6 +2507,7 @@ de elección popular, conforme a su normatividad
 interna;
 XXII. Informes sobre el gasto del financiamiento
 público ordinario recibido para la capacitación,
+
 promoción y desarrollo del liderazgo político de
 las mujeres;
 XXIII.
@@ -2515,7 +2524,6 @@ descuentos correspondientes a sanciones;
 XXV. El estado de situación financiera y patrimonial;
 el inventario de los bienes inmuebles de los que
 sean propietarios, así como los anexos que
-
 formen parte integrante de los documentos
 anteriores;
 XXVI. Las resoluciones que emitan sus órganos
@@ -2529,6 +2537,7 @@ de candidatos;
 XXIX. El listado de fundaciones, asociaciones,
 centros o institutos de investigación o
 capacitación o cualquier otro que reciban apoyo
+
 económico de los partidos políticos, así como los
 montos destinados para tal efecto, y
 XXX. Las resoluciones que dicte la autoridad
@@ -2540,7 +2549,6 @@ públicos, mandatos o cualquier contrato análogo,
 deberán poner a disposición del público y mantener
 actualizada y accesible, en lo que resulte aplicable a
 cada contrato, la siguiente información:
-
 I.
 
 El nombre del servidor público y de la persona
@@ -2568,6 +2576,7 @@ IV. El saldo total al cierre del ejercicio fiscal, sin
 perjuicio de los demás informes que deban
 presentarse en los términos de las disposiciones
 aplicables;
+
 V. Las modificaciones que, en su caso, sufran los
 contratos o decretos de constitución del
 fideicomiso o del fondo público;
@@ -2577,7 +2586,6 @@ proceso de constitución o extinción del
 fideicomiso o fondo público, especificando, de
 manera detallada, los recursos financieros
 destinados para tal efecto, y
-
 VIII. Los contratos de obras, adquisiciones y
 servicios que involucren recursos públicos del
 fideicomiso, así como los honorarios derivados
@@ -2592,15 +2600,24 @@ I.
 Los documentos del registro de los sindicatos,
 que deberán contener, entre otros:
 a) El domicilio;
-b) Número de registro;
+b)
+
+Número de registro;
+
 c) Nombre del sindicato;
-d) Nombre de los integrantes del comité ejecutivo
-y comisiones que ejerzan funciones de
-vigilancia;
+
+d) Nombre de los integrantes del comité
+ejecutivo y comisiones que ejerzan funciones
+de vigilancia;
 e) Fecha de vigencia del comité ejecutivo;
 f) Número de socios;
-g) Centro de trabajo al que pertenezcan, y
-h) Central a la que pertenezcan, en su caso;
+g)
+
+Centro de trabajo al que pertenezcan, y
+
+h)
+
+Central a la que pertenezcan, en su caso;
 
 II. Las tomas de nota;
 III. El estatuto;
@@ -2613,6 +2630,7 @@ trabajo, y
 VIII. Todos los documentos contenidos en el
 Expediente de registro sindical y de contratos
 colectivos de trabajo.
+
 Las autoridades administrativas y jurisdiccionales en
 materia laboral deberán expedir copias de los
 documentos que obren en los Expedientes de los
@@ -2624,7 +2642,6 @@ el Expediente de registro de las asociaciones,
 únicamente estará clasificada como información
 confidencial, los domicilios de los trabajadores
 señalados en los padrones de socios.
-
 Artículo 79. Los sindicatos que reciban y ejerzan
 recursos públicos deberán mantener actualizada y
 accesible, de forma impresa para consulta directa y
@@ -2651,6 +2668,7 @@ económicos, en especie, bienes o donativos que
 reciban y el informe detallado del ejercicio y
 destino final de los recursos públicos que
 ejerzan.
+
 Por lo que se refiere a los documentos que obran en
 el Expediente de registro de las asociaciones,
 únicamente estará clasificada como información
@@ -2662,7 +2680,6 @@ páginas de Internet para que éstos cumplan con sus
 obligaciones de transparencia y dispongan de la
 infraestructura tecnológica para el uso y acceso a la
 Plataforma Nacional. En todo momento el sindicato
-
 será el responsable de la publicación, actualización y
 accesibilidad de la información.
 Artículo 80. Para determinar la información
@@ -2680,6 +2697,7 @@ II. Revisar el listado que remitió el sujeto obligado
 con base en las funciones, atribuciones y
 competencias que la normatividad aplicable le
 otorgue, y
+
 III. Determinar el catálogo de información que el
 sujeto obligado deberá publicar como obligación
 de transparencia.
@@ -2692,7 +2710,6 @@ sus respectivas competencias, determinarán los
 casos en que las personas físicas o morales que
 reciban y ejerzan recursos públicos o realicen actos
 de autoridad, cumplirán con las obligaciones de
-
 transparencia y acceso a la información directamente
 o a través de los sujetos obligados que les asignen
 dichos recursos o, en los términos de las
@@ -2709,6 +2726,7 @@ tomarán en cuenta si realiza una función
 gubernamental, el nivel de financiamiento público, el
 nivel de regulación e involucramiento gubernamental
 y si el gobierno participó en su creación.
+
 Artículo 82. Para determinar la información que
 deberán hacer pública las personas físicas o morales
 que reciben y ejercen recursos públicos o realizan
@@ -2723,7 +2741,6 @@ información que consideren de interés público;
 
 II. Revisar el listado que remitió la persona física o
 moral en la medida en que reciban y ejerzan
-
 recursos o realicen actos de autoridad que la
 normatividad aplicable le otorgue, y
 III. Determinar las obligaciones de transparencia
@@ -2739,6 +2756,7 @@ con los contratos, asignaciones, permisos, alianzas,
 sociedades y demás actos que el Estado suscriba u
 otorgue a particulares, empresas productivas del
 Estado, subsidiarias y filiales o que se celebren entre
+
 ellos en materia de las actividades de planeación y
 control del sistema eléctrico nacional; del servicio
 público de transmisión y distribución de energía
@@ -2761,7 +2779,6 @@ y de los procedimientos que se lleven a cabo para tal
 efecto.
 Lo anterior, de conformidad con las obligaciones de
 transparencia previstas en la Ley Federal y lo
-
 dispuesto en las leyes de Hidrocarburos; de la
 Industria Eléctrica; de Ingresos sobre Hidrocarburos;
 de los Órganos Reguladores Coordinados en Materia
@@ -2782,6 +2799,7 @@ deberán
 atenderlas.
 El
 incumplimiento a los requerimientos formulados, será
+
 motivo para aplicar las medidas de apremio, sin
 perjuicio de las sanciones a que haya lugar.
 Artículo 85. Los Organismos garantes vigilarán que
@@ -2794,7 +2812,6 @@ refiere este Capítulo, se realizarán a través de la
 verificación virtual. Esta vigilancia surgirá de los
 resultados de la verificación que se lleve a cabo de
 manera oficiosa por los Organismos garantes al portal
-
 de Internet de los sujetos obligados o de la Plataforma
 Nacional, ya sea de forma aleatoria o muestral y
 periódica.
@@ -2828,7 +2845,6 @@ días;
 III. El sujeto obligado deberá informar al organismo
 garante sobre el cumplimento de los
 requerimientos del dictamen, y
-
 IV. Los Organismos garantes verificarán el
 cumplimiento a la resolución una vez
 transcurrido el plazo y si consideran que se dio
@@ -2844,6 +2860,7 @@ existe un incumplimiento total o parcial de la
 determinación, le notificarán, por conducto de la
 Unidad de Transparencia, al superior jerárquico del
 servidor público responsable de dar cumplimiento,
+
 para el efecto de que, en un plazo no mayor a cinco
 días, se dé cumplimiento a los requerimientos del
 dictamen.
@@ -2856,7 +2873,6 @@ establecido por esta Ley.
 Capítulo VII
 De la denuncia por incumplimiento a las
 obligaciones de transparencia
-
 Artículo 89. Cualquier persona podrá denunciar
 ante los Organismos garantes la falta de publicación
 de las obligaciones de transparencia previstas en los
@@ -2879,6 +2895,7 @@ los
 II. Solicitud por parte del organismo garante de un
 informe al sujeto obligado;
 III. Resolución de la denuncia, y
+
 IV. Ejecución de la resolución de la denuncia.
 Artículo 91. La denuncia por incumplimiento a las
 obligaciones de transparencia deberá cumplir, al
@@ -2889,7 +2906,6 @@ Nombre del sujeto obligado denunciado;
 
 II. Descripción clara y precisa del incumplimiento
 denunciado;
-
 III. El denunciante podrá adjuntar los medios de
 prueba que estime necesarios para respaldar el
 incumplimiento denunciado;
@@ -2908,6 +2924,7 @@ personal, se practicarán a través de los estrados
 físicos del Instituto u Organismo garante de las
 Entidades Federativas o del Distrito Federal
 competente, y
+
 V. El nombre del denunciante y, opcionalmente, su
 perfil, únicamente para propósitos estadísticos.
 Esta información será proporcionada por el
@@ -2920,10 +2937,11 @@ forma siguiente:
 I.
 
 Por medio electrónico:
-
 a) A través de la Plataforma Nacional, o
-b) Por correo electrónico, dirigido a la dirección
-electrónica que al efecto se establezca.
+b) Por correo electrónico, dirigido a la
+dirección electrónica que al efecto se
+establezca.
+
 II. Por escrito, presentado físicamente, ante la
 Unidad de Transparencia de los Organismos
 garantes, según corresponda.
@@ -2935,6 +2953,7 @@ podrán optar por un escrito libre, conforme a lo
 previsto en esta Ley.
 Artículo 94. Los Organismos garantes, en el ámbito
 de sus competencias, deben resolver sobre la
+
 admisión de la denuncia, dentro de los tres días
 siguientes a su recepción.
 Los Organismos garantes, en el ámbito de sus
@@ -2967,6 +2986,7 @@ de sus competencias deben resolver la denuncia,
 dentro de los veinte días siguientes al término del
 plazo en que el sujeto obligado debe presentar su
 informe o, en su caso, los informes complementarios.
+
 La resolución debe ser fundada y motivada e
 invariablemente debe pronunciarse sobre el
 cumplimiento de la publicación de la información por
@@ -2978,7 +2998,6 @@ días siguientes a su emisión.
 Las resoluciones que emitan los Organismos
 garantes, a que se refiere este Capítulo, son
 definitivas e inatacables para los sujetos obligados. El
-
 particular podrá impugnar la resolución por la vía del
 juicio de amparo que corresponda, en los términos de
 la legislación aplicable.
@@ -2994,6 +3013,7 @@ verificarán el cumplimiento a la resolución; si
 consideran que se dio cumplimiento a la resolución,
 se emitirá un acuerdo de cumplimiento y se ordenará
 el cierre del Expediente.
+
 Cuando los Organismos garantes de los Estados o
 del Distrito Federal, según corresponda, consideren
 que existe un incumplimiento total o parcial de la
@@ -3006,7 +3026,6 @@ resolución.
 Artículo 99. En caso de que el Instituto o los
 Organismos garantes, según corresponda, consideren
 que subsiste el incumplimiento total o parcial de la
-
 resolución, en un plazo no mayor a cinco días
 posteriores al aviso de incumplimiento al superior
 jerárquico del servidor público responsable del mismo,
@@ -3022,6 +3041,7 @@ y desclasificación de la información
 Artículo 100. La clasificación es el proceso
 mediante el cual el sujeto obligado determina que la
 información en su poder actualiza alguno de los
+
 supuestos de reserva o confidencialidad, de
 conformidad con lo dispuesto en el presente Título.
 Los supuestos de reserva o confidencialidad
@@ -3032,7 +3052,6 @@ Los titulares de las Áreas de los sujetos obligados
 serán los responsables de clasificar la información, de
 conformidad con lo dispuesto en esta Ley, la Ley
 Federal y de las Entidades Federativas.
-
 Artículo 101. Los Documentos clasificados como
 reservados serán públicos cuando:
 I.
@@ -3050,6 +3069,7 @@ la desclasificación, de conformidad con lo
 señalado en el presente Título.
 La información clasificada como reservada, según el
 artículo 113 de esta Ley, podrá permanecer con tal
+
 carácter hasta por un periodo de cinco años. El
 periodo de reserva correrá a partir de la fecha en que
 se clasifica el documento.
@@ -3060,7 +3080,6 @@ cinco años adicionales, siempre y cuando justifiquen
 que subsisten las causas que dieron origen a su
 clasificación, mediante la aplicación de una prueba de
 daño.
-
 Para los casos previstos por la fracción II, cuando se
 trate de información cuya publicación pueda
 ocasionar la destrucción o inhabilitación de la
@@ -3080,6 +3099,7 @@ Artículo 102. Cada Área del sujeto obligado
 elaborará un índice de los Expedientes clasificados
 como reservados, por Área responsable de la
 información y tema.
+
 El índice deberá elaborarse semestralmente y
 publicarse en Formatos Abiertos al día siguiente de su
 elaboración. Dicho índice deberá indicar el Área que
@@ -3090,7 +3110,6 @@ de reserva y, en su caso, las partes del Documento
 que se reservan y si se encuentra en prórroga.
 En ningún caso el índice será considerado como
 información reservada.
-
 Artículo 103. En los casos en que se niegue el
 acceso a la información, por actualizarse alguno de
 los supuestos de clasificación, el Comité de
@@ -3107,6 +3126,7 @@ prueba de daño.
 Tratándose de aquella información que actualice los
 supuestos de clasificación, deberá señalarse el plazo
 al que estará sujeto la reserva.
+
 Artículo 104. En la aplicación de la prueba de daño,
 el sujeto obligado deberá justificar que:
 I.
@@ -3119,7 +3139,6 @@ seguridad nacional;
 II. El riesgo de perjuicio que supondría la
 divulgación supera el interés público general de
 que se difunda, y
-
 III. La limitación se adecua al principio de
 proporcionalidad y representa el medio menos
 restrictivo disponible para evitar el perjuicio.
@@ -3157,7 +3176,6 @@ Artículo 107. Los Documentos clasificados parcial o
 totalmente deberán llevar una leyenda que indique tal
 carácter, la fecha de la clasificación, el fundamento
 legal y, en su caso, el periodo de reserva.
-
 Artículo 108. Los sujetos obligados no podrán emitir
 acuerdos de carácter general ni particular que
 clasifiquen Documentos o información como
@@ -3174,6 +3192,7 @@ mediante la aplicación de la prueba de daño.
 Artículo 109. Los lineamientos generales que emita
 el Sistema Nacional en materia de clasificación de la
 información reservada y confidencial y, para la
+
 elaboración de versiones públicas, serán de
 observancia obligatoria para los sujetos obligados.
 Artículo 110. Los documentos clasificados serán
@@ -3185,7 +3204,6 @@ partes o secciones reservadas o confidenciales, los
 sujetos obligados, para efectos de atender una
 solicitud de información, deberán elaborar una
 Versión Pública en la que se testen las partes o
-
 secciones clasificadas, indicando su contenido de
 manera genérica y fundando y motivando su
 clasificación.
@@ -3213,16 +3231,10 @@ otros sujetos de derecho internacional, excepto
 cuando se trate de violaciones graves de
 derechos humanos o delitos de lesa humanidad
 de conformidad con el derecho internacional;
-IV. Pueda afectar la efectividad de
-adoptadas en relación con las
-materia monetaria, cambiaria o
-financiero del país; pueda poner
-
-las medidas
-políticas en
-del sistema
-en riesgo la
-
+IV. Pueda afectar la efectividad de las medidas
+adoptadas en relación con las políticas en
+materia monetaria, cambiaria o del sistema
+financiero del país; pueda poner en riesgo la
 estabilidad de las instituciones financieras
 susceptibles de ser consideradas de riesgo
 sistémico o del sistema financiero del país,
@@ -3237,6 +3249,7 @@ VI. Obstruya las actividades de verificación,
 inspección y auditoría relativas al cumplimiento
 de las leyes o afecte la recaudación de
 contribuciones;
+
 VII. Obstruya la prevención o persecución de los
 delitos;
 VIII. La
@@ -3253,7 +3266,6 @@ IX. Obstruya los procedimientos para fincar
 responsabilidad a los Servidores Públicos, en
 tanto no se haya dictado la resolución
 administrativa;
-
 X. Afecte los derechos del debido proceso;
 XI. Vulnere la conducción de los Expedientes
 judiciales o de los procedimientos administrativos
@@ -3267,13 +3279,18 @@ XIII. Las que por disposición expresa de una ley
 tengan tal carácter, siempre que sean acordes
 con las bases, principios y disposiciones
 establecidos en esta Ley y no la contravengan;
+
 así
 como
 las
-previstas
-en
-tratados
 internacionales.
+
+previstas
+
+en
+
+tratados
+
 Artículo 114. Las causales de reserva previstas en
 el artículo anterior se deberán fundar y motivar, a
 través de la aplicación de la prueba de daño a la que
@@ -3287,7 +3304,6 @@ humanos o delitos de lesa humanidad, o
 
 II. Se trate de información relacionada con actos de
 corrupción de acuerdo con las leyes aplicables.
-
 Capítulo III
 De la Información Confidencial
 Artículo 116. Se considera información confidencial
@@ -3300,6 +3316,7 @@ Servidores Públicos facultados para ello.
 Se considera como información confidencial: los
 secretos bancario, fiduciario, industrial, comercial,
 fiscal, bursátil y postal, cuya titularidad corresponda a
+
 particulares, sujetos de derecho internacional o a
 sujetos obligados cuando no involucren el ejercicio de
 recursos públicos.
@@ -3314,7 +3331,6 @@ fiduciarios en fideicomisos que involucren recursos
 públicos, no podrán clasificar, por ese solo supuesto,
 la información relativa al ejercicio de éstos, como
 secreto bancario o fiduciario, sin perjuicio de las
-
 demás causales de clasificación que prevé la
 presente Ley.
 Artículo 118. Los sujetos obligados que se
@@ -3329,6 +3345,7 @@ constituyan como contribuyentes o como autoridades
 en materia tributaria, no podrán clasificar la
 información relativa al ejercicio de recursos públicos
 como secreto fiscal.
+
 Artículo 120. Para que los sujetos obligados puedan
 permitir el acceso a información confidencial
 requieren obtener el consentimiento de los
@@ -3340,11 +3357,10 @@ I.
 La información se encuentre en
 públicos o fuentes de acceso público;
 
-II. Por ley tenga el carácter de pública;
-III. Exista una orden judicial;
-
 registros
 
+II. Por ley tenga el carácter de pública;
+III. Exista una orden judicial;
 IV. Por razones de seguridad nacional y salubridad
 general, o para proteger los derechos de
 terceros, se requiera su publicación, o
@@ -3359,6 +3375,7 @@ el organismo garante deberá aplicar la prueba de
 interés público. Además, se deberá corroborar una
 conexión patente entre la información confidencial y
 un tema de interés público y la proporcionalidad entre
+
 la invasión a la intimidad ocasionada por la
 divulgación de la información confidencial y el interés
 público de la información.
@@ -3372,7 +3389,6 @@ sujetos obligados deberán garantizar las medidas y
 condiciones de accesibilidad para que toda persona
 pueda ejercer el derecho de acceso a la información,
 mediante solicitudes de información y deberá apoyar
-
 al solicitante en la elaboración de las mismas, de
 conformidad con las bases establecidas en el
 presente Título.
@@ -3387,6 +3403,7 @@ Sistema Nacional.
 Artículo 123. Tratándose de solicitudes de acceso a
 información formuladas mediante la Plataforma
 Nacional, se asignará automáticamente un número de
+
 folio, con el que los solicitantes podrán dar
 seguimiento a sus requerimientos. En los demás
 casos, la Unidad de Transparencia tendrá que
@@ -3403,7 +3420,6 @@ Nombre o, en su caso, los datos generales de su
 representante;
 
 II. Domicilio o medio para recibir notificaciones;
-
 III. La descripción de la información solicitada;
 IV. Cualquier otro dato que facilite su búsqueda y
 eventual localización, y
@@ -3416,6 +3432,7 @@ reproducción en cualquier otro medio, incluidos
 los electrónicos.
 En su caso, el solicitante señalará el formato
 accesible o la lengua indígena en la que se requiera
+
 la información de acuerdo a lo señalado en la
 presente Ley.
 La información de las fracciones I y IV será
@@ -3428,7 +3445,6 @@ Plataforma Nacional, se entenderá que acepta que las
 notificaciones le sean efectuadas por dicho sistema,
 salvo que señale un medio distinto para efectos de las
 notificaciones.
-
 En el caso de solicitudes recibidas en otros medios,
 en las que los solicitantes no proporcionen un
 domicilio o medio para recibir la información o, en su
@@ -3443,6 +3459,7 @@ Cuando los plazos fijados por esta Ley sean en días,
 Artículo 127. De manera excepcional, cuando, de
 forma fundada y motivada, así lo determine el sujeto
 obligado, en aquellos casos en que la información
+
 solicitada que ya se encuentre en su posesión
 implique análisis, estudio o procesamiento de
 Documentos cuya entrega o reproducción sobrepase
@@ -3455,7 +3472,6 @@ En todo caso se facilitará su copia simple o
 certificada, así como su reproducción por cualquier
 medio disponible en las instalaciones del sujeto
 obligado o que, en su caso, aporte el solicitante.
-
 Artículo 128. Cuando los detalles proporcionados
 para localizar los documentos resulten insuficientes,
 incompletos o sean erróneos, la Unidad de
@@ -3472,8 +3488,18 @@ presente Ley, por lo que comenzará a computarse
 nuevamente al día siguiente del desahogo por parte
 del particular. En este caso, el sujeto obligado
 atenderá la solicitud en los términos en que fue
-desahogado el requerimiento de información
+
+desahogado
 adicional.
+
+el
+
+requerimiento
+
+de
+
+información
+
 La solicitud se tendrá por no presentada cuando los
 solicitantes no atiendan el requerimiento de
 información adicional. En el caso de requerimientos
@@ -3485,7 +3511,6 @@ acceso a los Documentos que se encuentren en sus
 archivos o que estén obligados a documentar de
 acuerdo con sus facultades, competencias o
 funciones en el formato en que el solicitante
-
 manifieste, de entre aquellos formatos existentes,
 conforme a las características físicas de la
 información o del lugar donde se encuentre así lo
@@ -3503,6 +3528,7 @@ electrónicos
 disponibles en Internet o en cualquier otro medio, se
 le hará saber por el medio requerido por el solicitante
 la fuente, el lugar y la forma en que puede consultar,
+
 reproducir o adquirir dicha información en un plazo no
 mayor a cinco días.
 Artículo 131. Las Unidades de Transparencia
@@ -3516,7 +3542,6 @@ Artículo 132. La respuesta a la solicitud deberá ser
 notificada al interesado en el menor tiempo posible,
 que no podrá exceder de veinte días, contados a
 partir del día siguiente a la presentación de aquélla.
-
 Excepcionalmente, el plazo referido en el párrafo
 anterior podrá ampliarse hasta por diez días más,
 siempre y cuando existan razones fundadas y
@@ -3530,6 +3555,7 @@ solicitante. Cuando la información no pueda
 entregarse o enviarse en la modalidad elegida, el
 sujeto obligado deberá ofrecer otra u otras
 modalidades de entrega.
+
 En cualquier caso, se deberá fundar y motivar la
 necesidad de ofrecer otras modalidades.
 Artículo 134. Los sujetos obligados establecerán la
@@ -3542,7 +3568,6 @@ Ante la falta de respuesta a una solicitud en el plazo
 previsto y en caso de que proceda el acceso, los
 costos de reproducción y envío correrán a cargo del
 sujeto obligado.
-
 Artículo 135. La Unidad de Transparencia tendrá
 disponible la información solicitada, durante un plazo
 mínimo de sesenta días, contado a partir de que el
@@ -3562,6 +3587,7 @@ de
 Transparencia determinen la notoria incompetencia
 por parte de los sujetos obligados, dentro del ámbito
 de su aplicación, para atender la solicitud de acceso a
+
 la información, deberán comunicarlo al solicitante,
 dentro de los tres días posteriores a la recepción de la
 solicitud y, en caso de poderlo determinar, señalar al
@@ -3575,7 +3601,6 @@ párrafo anterior.
 Artículo 137. En caso de que los sujetos obligados
 consideren que los Documentos o la información deba
 ser clasificada, se sujetará a lo siguiente:
-
 El Área deberá remitir la solicitud, así como un
 escrito en el que funde y motive la clasificación al
 Comité de Transparencia, mismo que deberá resolver
@@ -3587,6 +3612,7 @@ c) Revocar la clasificación y conceder el acceso a
 la información.
 El Comité de Transparencia podrá tener acceso a la
 información que esté en poder del Área
+
 correspondiente, de la cual se haya solicitado su
 clasificación.
 La resolución del Comité de Transparencia será
@@ -3624,6 +3650,7 @@ facultades,
 competencias o funciones, lo cual notificará al
 solicitante a través de la Unidad de
 Transparencia, y
+
 IV. Notificará al órgano interno de control o
 equivalente del sujeto obligado quien, en su
 caso, deberá iniciar el procedimiento de
@@ -3640,7 +3667,6 @@ contar con la misma.
 Artículo 140. Las personas físicas y morales que
 reciban y ejerzan recursos públicos o realicen actos
 de autoridad, serán responsables del cumplimiento de
-
 los plazos y términos para otorgar acceso a la
 información.
 Capítulo II
@@ -3654,6 +3680,7 @@ El costo de los materiales utilizados en la
 reproducción de la información;
 
 II. El costo de envío, en su caso, y
+
 III. El pago de la certificación de los Documentos,
 cuando proceda.
 Las cuotas de los derechos aplicables deberán
@@ -3668,7 +3695,6 @@ solicitante realice el pago íntegro del costo de la
 información que solicitó.
 Los sujetos obligados a los que no les sea aplicable
 la Ley Federal de Derechos deberán establecer
-
 cuotas que no deberán ser mayores a las dispuestas
 en dicha ley.
 La información deberá ser entregada sin costo,
@@ -3681,6 +3707,7 @@ DE LOS PROCEDIMIENTOS DE IMPUGNACIÓN EN
 MATERIA DE ACCESO A LA INFORMACIÓN
 PÚBLICA
 Capítulo I
+
 Del Recurso de Revisión ante los Organismos
 garantes
 Artículo 142. El solicitante podrá interponer, por sí
@@ -3695,7 +3722,6 @@ En el caso de que se interponga ante la Unidad de
 Transparencia, ésta deberá remitir el recurso de
 revisión al organismo garante que corresponda a más
 tardar al día siguiente de haberlo recibido.
-
 Artículo 143. El recurso de revisión procederá en
 contra de:
 I.
@@ -3708,6 +3734,7 @@ obligado;
 IV. La entrega de información incompleta;
 V. La entrega de información que no corresponda
 con lo solicitado;
+
 VI. La falta de respuesta a una solicitud de acceso a
 la información dentro de los plazos establecidos
 en la ley;
@@ -3723,7 +3750,6 @@ información;
 tiempos de entrega de la
 
 X. La falta de trámite a una solicitud;
-
 XI. La negativa a permitir la consulta directa de la
 información;
 XII. La falta, deficiencia o insuficiencia de la
@@ -3736,6 +3762,7 @@ por las causales señaladas en las fracciones III, VI,
 VIII, IX, X y XI es susceptible de ser impugnada de
 nueva cuenta, mediante recurso de revisión, ante el
 organismo garante correspondiente.
+
 Artículo 144. El recurso de revisión deberá
 contener:
 I.
@@ -3751,7 +3778,6 @@ III. El número de folio de respuesta de la solicitud de
 acceso;
 IV. La fecha en que fue notificada la respuesta al
 solicitante o tuvo conocimiento del acto
-
 reclamado, o de presentación de la solicitud, en
 caso de falta de respuesta;
 V. El acto que se recurre;
@@ -3762,6 +3788,7 @@ en el caso de respuesta de la solicitud.
 Adicionalmente, se podrán anexar las pruebas y
 demás elementos que considere procedentes someter
 a juicio del organismo garante correspondiente.
+
 En ningún caso será necesario que el particular
 ratifique el recurso de revisión interpuesto.
 Artículo 145. Si el escrito de interposición del
@@ -3776,7 +3803,6 @@ podrá exceder de cinco días, contados a partir del día
 siguiente de la notificación de la prevención, con el
 apercibimiento de que, de no cumplir, se desechará el
 recurso de revisión.
-
 La prevención tendrá el efecto de interrumpir el
 plazo que tienen los Organismos garantes para
 resolver el recurso, por lo que comenzará a
@@ -3789,6 +3815,7 @@ de cuarenta días, contados a partir de la admisión del
 mismo, en los términos que establezca la ley
 respectiva, plazo que podrá ampliarse por una sola
 vez y hasta por un periodo de veinte días.
+
 Durante el procedimiento deberá aplicarse la
 suplencia de la queja a favor del recurrente, sin
 cambiar los hechos expuestos, asegurándose de que
@@ -3804,7 +3831,6 @@ para el resguardo o salvaguarda de la información.
 Artículo 148. La información reservada o
 confidencial que, en su caso, sea consultada por los
 Comisionados, por resultar indispensable para
-
 resolver el asunto, deberá ser mantenida con ese
 carácter y no deberá estar disponible en el
 Expediente, salvo en los casos en los que
@@ -3819,6 +3845,7 @@ parte.
 Artículo 149. El organismo garante, al resolver el
 recurso de revisión, deberá aplicar una prueba de
 interés público con base en elementos de idoneidad,
+
 necesidad y proporcionalidad, cuando exista una
 colisión de derechos.
 Para estos efectos, se entenderá por:
@@ -3835,7 +3862,6 @@ para satisfacer el interés público, y
 III. Proporcionalidad: El equilibrio entre perjuicio y
 beneficio a favor del interés público, a fin de que
 la decisión tomada represente un beneficio
-
 mayor al perjuicio que podría causar a la
 población.
 Artículo 150. Los Organismos garantes resolverán
@@ -3851,6 +3877,7 @@ admisión o su desechamiento;
 II. Admitido el recurso de revisión, el Comisionado
 ponente deberá integrar un Expediente y ponerlo
 a disposición de las partes, para que, en un
+
 plazo máximo de siete días, manifiesten lo que a
 su derecho convenga;
 III. Dentro del plazo mencionado en la fracción II del
@@ -3864,7 +3891,6 @@ la sustanciación del recurso de revisión;
 V. Concluido el plazo señalado en la fracción II del
 presente artículo, el Comisionado ponente
 procederá a decretar el cierre de instrucción;
-
 VI. El organismo garante no estará obligado a
 atender la información remitida por el sujeto
 obligado una vez decretado el cierre de
@@ -3879,6 +3905,7 @@ I.
 Desechar o sobreseer el recurso;
 
 II. Confirmar la respuesta del sujeto obligado, o
+
 III. Revocar o modificar la respuesta del sujeto
 obligado.
 Las resoluciones establecerán, en su caso, los
@@ -3893,7 +3920,6 @@ garantes podrán señalarle a los sujetos obligados que
 la información que deben proporcionar sea
 considerada como obligación de transparencia de
 conformidad con el Capítulo II del Título Quinto,
-
 denominado “De las obligaciones de transparencia
 comunes” en la presente Ley, atendiendo a la
 relevancia de la información, la incidencia de las
@@ -3905,6 +3931,7 @@ más tardar, al tercer día siguiente de su aprobación.
 Los sujetos obligados deberán informar a los
 Organismos garantes de que se trate el cumplimiento
 de sus resoluciones en un plazo no mayor a tres días.
+
 Artículo 154. Cuando los Organismos garantes
 determinen durante la sustanciación del recurso de
 revisión que pudo haberse incurrido en una probable
@@ -3933,6 +3960,7 @@ términos establecidos en el artículo 145 de la
 presente Ley;
 V. Se impugne la veracidad de la información
 proporcionada;
+
 VI. Se trate de una consulta, o
 VII. El recurrente amplíe su solicitud en el recurso de
 revisión, únicamente respecto de los nuevos
@@ -3948,7 +3976,6 @@ II. El recurrente fallezca;
 III. El sujeto obligado responsable del acto lo
 modifique o revoque de tal manera que el
 recurso de revisión quede sin materia, o
-
 IV. Admitido el recurso de revisión, aparezca alguna
 causal de improcedencia en los términos del
 presente Capítulo.
@@ -3961,6 +3988,7 @@ Corte de Justicia de la Nación, en los términos que se
 establecen en el Capítulo IV denominado “Del
 Recurso de Revisión en materia de Seguridad
 Nacional”, en el presente Título, sólo en el caso que
+
 dichas resoluciones puedan poner en peligro la
 seguridad nacional.
 Artículo 158. Los particulares podrán impugnar las
@@ -3973,7 +4001,6 @@ recursos de revisión de los Organismos garantes de
 las Entidades Federativas, los particulares podrán
 optar por acudir ante el Instituto o ante el Poder
 Judicial de la Federación.
-
 Artículo 160. El recurso de inconformidad procede
 contra las resoluciones emitidas por los Organismos
 garantes de las Entidades Federativas que:
@@ -3997,6 +4024,7 @@ Se entenderá como negativa de acceso a la
 información la falta de resolución de los Organismos
 garantes de las Entidades Federativas dentro del
 plazo previsto para ello.
+
 Artículo 161. El recurso de inconformidad deberá
 presentarse dentro de los quince días posteriores a
 que se tuvo conocimiento de la resolución o que se
@@ -4012,7 +4040,6 @@ acompañándolo con la resolución impugnada, a
 través de la Plataforma Nacional.
 Independientemente de la vía a través de la cual sea
 interpuesto el recurso de inconformidad, el
-
 Expediente respectivo deberá obrar en la Plataforma
 Nacional.
 Artículo 162. El recurso de inconformidad deberá
@@ -4026,6 +4053,7 @@ II. El número de la resolución del recurso de
 revisión de la resolución impugnada;
 III. El organismo garante que emitió la resolución
 que se impugna;
+
 IV. El nombre del inconforme y, en su caso, del
 tercero
 interesado,
@@ -4040,7 +4068,6 @@ VI. El acto que se recurre;
 VII. Las razones o motivos de la inconformidad, y
 VIII. La copia de la resolución que se impugna y, en
 su caso, de la notificación correspondiente.
-
 El recurrente podrá anexar las pruebas y demás
 elementos que considere procedentes someter a
 consideración del organismo garante.
@@ -4056,6 +4083,7 @@ subsanarlos, se prevendrá al inconforme en un plazo
 que no excederá de cinco días, por una sola ocasión
 y a través del medio que haya elegido para recibir
 notificaciones, para que subsane las omisiones dentro
+
 de un plazo que no podrá exceder de quince días,
 contados a partir del día siguiente al de la notificación
 de la prevención, con el apercibimiento de que, de no
@@ -4068,7 +4096,6 @@ computarse nuevamente a partir del día siguiente a su
 desahogo.
 No podrá prevenirse por el nombre que proporcione
 el inconforme.
-
 Artículo 165. El Instituto resolverá el recurso de
 inconformidad en un plazo que no podrá exceder de
 treinta días, plazo que podrá ampliarse por una sola
@@ -4084,6 +4111,7 @@ de cinco días.
 Recibida la contestación, el Instituto deberá emitir su
 resolución en un plazo no mayor a quince días. En
 caso de no recibir la contestación por parte del
+
 Organismo garante de la Entidad Federativa o que
 éste no pruebe fehacientemente que dictó resolución
 o no exponga de manera fundada y motivada, a
@@ -4096,7 +4124,6 @@ cambiar los hechos, a favor del recurrente y se
 deberá asegurar que las partes puedan presentar los
 argumentos y constancias que funden y motiven sus
 pretensiones y formular sus alegatos.
-
 Artículo 167. En todo caso, el Comisionado ponente
 del Instituto tendrá acceso a la información clasificada
 para determinar su naturaleza.
@@ -4113,6 +4140,7 @@ Artículo 168. Admitido el recurso de inconformidad,
 se correrá traslado del mismo al organismo garante
 responsable, a fin de que en un plazo máximo de diez
 días rinda su informe justificado.
+
 El recurrente podrá manifestar lo que a su derecho
 convenga y aportar los elementos que considere
 pertinentes, dentro de los diez días siguientes a la
@@ -4124,7 +4152,6 @@ El recurrente podrá solicitar la ampliación del plazo,
 antes del cierre de instrucción, hasta por un periodo
 de diez días adicionales para manifestar lo que a su
 derecho convenga.
-
 Artículo 169. Después del cierre de instrucción y
 hasta antes de dictada la resolución, sólo serán
 admisibles las pruebas supervenientes y la petición
@@ -4149,6 +4176,7 @@ recurso
 de
 
 II. Confirmar la resolución del organismo garante, o
+
 III. Revocar o modificar la resolución del organismo
 garante.
 La resolución será notificada al inconforme, al sujeto
@@ -4166,7 +4194,6 @@ probable
 responsabilidad por el incumplimiento a las
 obligaciones previstas en la presente Ley y demás
 disposiciones aplicables en la materia, deberá hacerlo
-
 del conocimiento de la autoridad competente para que
 ésta inicie, en su caso, el procedimiento de
 responsabilidad respectivo.
@@ -4183,6 +4210,7 @@ de la resolución dictada en la inconformidad.
 Excepcionalmente, considerando las circunstancias
 especiales de cada caso en concreto, los Organismos
 garantes, de manera fundada y motivada, podrán
+
 solicitar al Instituto una ampliación de plazo para la
 emisión de la nueva resolución, la cual deberá
 realizarse a más tardar cinco días antes de que venza
@@ -4196,12 +4224,8 @@ Federativa, según corresponda, en cumplimiento al
 fallo del recurso de inconformidad, la notificará sin
 demora, a través de la Plataforma Nacional al
 Instituto, así como al sujeto obligado que
-
-corresponda, a través de su Unidad
+corresponda, a través de su Unidad de
 Transparencia, para efecto del cumplimiento.
-
-de
-
 Artículo 174. El sujeto obligado, a través de la
 Unidad de Transparencia deberá cumplir con la nueva
 resolución que le hubiere notificado el organismo
@@ -4216,6 +4240,7 @@ Artículo 175. Una vez cumplimentada la resolución
 a que se refiere el artículo anterior por parte del sujeto
 obligado, éste deberá informar al organismo garante
 de las Entidades Federativas o del Distrito Federal,
+
 según corresponda, respecto de su cumplimiento, lo
 cual deberá hacer dentro del plazo previsto en el
 artículo anterior.
@@ -4227,7 +4252,6 @@ parte del sujeto obligado respectivo de la nueva
 resolución emitida como consecuencia de la
 inconformidad, en términos del Capítulo IV del
 presente Título.
-
 Artículo 177. Las medidas de apremio previstas en
 esta Ley, resultarán aplicables para efectos del
 cumplimiento de las resoluciones que recaigan a los
@@ -4246,6 +4270,7 @@ recurso o medio de defensa interpuesto por el
 inconforme o, en su caso, por el tercero
 interesado, en contra del acto recurrido ante el
 Instituto;
+
 III. No se actualice alguno de los supuestos
 previstos en el artículo 160 de la presente Ley;
 IV. Cuando la pretensión del recurrente vaya más
@@ -4275,6 +4300,7 @@ del presente Capítulo.
 Artículo 180. La resolución del Instituto será
 definitiva e inatacable para el organismo garante y el
 sujeto obligado de que se trate.
+
 Los particulares podrán impugnar las resoluciones
 del Instituto ante el Poder Judicial de la Federación.
 Capítulo III
@@ -4283,7 +4309,6 @@ Artículo 181. El Pleno del Instituto, cuando así lo
 apruebe la mayoría de sus Comisionados, de oficio o
 a petición de los Organismos garantes, podrá ejercer
 la facultad de atracción para conocer de aquellos
-
 recursos de revisión pendientes de resolución que por
 su interés y trascendencia así lo ameriten.
 El Instituto establecerá mecanismos que le permitan
@@ -4300,6 +4325,7 @@ tal relevancia, novedad o complejidad, que su
 resolución podrá repercutir de manera sustancial en la
 solución de casos futuros para garantizar la tutela
 efectiva del derecho de acceso a la información.
+
 En los casos en los que el organismo garante de la
 Entidad Federativa sea el sujeto obligado recurrido,
 deberá notificar al Instituto, en un plazo que no
@@ -4307,16 +4333,10 @@ excederá de tres días, a partir de que sea interpuesto
 el recurso. El Instituto atraerá y resolverá dichos
 recursos de revisión, conforme a lo establecido en el
 presente Capítulo.
-Artículo 183. Las razones
-para ejercer la facultad de
-únicamente constituirán un
-determinar si el asunto
-
-emitidas por el Instituto
-atracción de un caso,
-estudio preliminar para
-reúne los requisitos
-
+Artículo 183. Las razones emitidas por el Instituto
+para ejercer la facultad de atracción de un caso,
+únicamente constituirán un estudio preliminar para
+determinar si el asunto reúne los requisitos
 constitucionales y legales de interés y trascendencia,
 conforme al precepto anterior, por lo que no será
 necesario que formen parte del análisis de fondo del
@@ -4336,19 +4356,18 @@ I.
 Cuando se efectúe de oficio, el Pleno del
 Instituto, cuando así lo aprueben la mayoría de
 sus Comisionados, podrá ejercer la atracción en
+
 cualquier momento, en tanto no haya sido
 resuelto el recurso de revisión por el organismo
 garante competente, para lo cual notificará a las
 partes y requerirá el Expediente al organismo
 garante correspondiente, o
-
 II. Cuando la petición de atracción sea formulada
 por el organismo garante de la Entidad
 Federativa, éste contará con un plazo no mayor
 a cinco días, salvo lo dispuesto en el último
 párrafo del artículo 182 de esta Ley, para
 solicitar al Instituto que analice y, en su caso,
-
 ejerza la facultad de atracción sobre el asunto
 puesto a su consideración.
 Transcurrido dicho plazo se tendrá por precluido el
@@ -4364,6 +4383,7 @@ Organismos garantes locales para resolverlo. El
 cómputo continuará a partir del día siguiente al en que
 el Instituto haya notificado la determinación de no
 atraer el recurso de revisión.
+
 Artículo 187. Previo a la decisión del Instituto sobre
 el ejercicio de la facultad de atracción a que se refiere
 el artículo anterior, el organismo garante de la Entidad
@@ -4376,7 +4396,6 @@ procedencia del recurso.
 Si el Pleno del Instituto, cuando así lo apruebe la
 mayoría de sus Comisionados, decide ejercer la
 facultad de atracción se avocará al conocimiento o
-
 estudio de fondo del asunto materia del recurso de
 revisión atraído.
 El o los Comisionados que en su momento hubiesen
@@ -4392,6 +4411,7 @@ la Federación.
 Capítulo IV
 Del Recurso de Revisión en materia de Seguridad
 Nacional
+
 Artículo 189. El Consejero Jurídico del Gobierno
 Federal podrá interponer recurso de revisión en
 materia de seguridad nacional directamente ante la
@@ -4403,7 +4423,6 @@ siguientes a aquél en el que el organismo garante
 notifique la resolución al sujeto obligado. La Suprema
 Corte de Justicia de la Nación determinará, de
 inmediato, en su caso, la suspensión de la ejecución
-
 de la resolución y dentro de los cinco días siguientes
 a la interposición del recurso resolverá sobre su
 admisión o improcedencia.
@@ -4420,6 +4439,7 @@ indispensable para resolver el asunto, deberá ser
 mantenida con ese carácter y no estará disponible en
 el Expediente, salvo en las excepciones previstas en
 el artículo 120 de la presente Ley.
+
 En todo momento, los Ministros deberán tener
 acceso a la información clasificada para determinar su
 naturaleza, según se requiera. El acceso se dará de
@@ -4431,7 +4451,6 @@ Nación resolverá con plenitud de jurisdicción, y en
 ningún caso, procederá el reenvío.
 Artículo 193. Si la Suprema Corte de Justicia de la
 Nación confirma el sentido de la resolución recurrida,
-
 el sujeto obligado deberá dar cumplimiento y entregar
 la información en los términos que establece el
 artículo 196 de esta Ley.
@@ -4448,6 +4467,7 @@ de asuntos jurisdiccionales de la Suprema Corte de
 Justicia de la Nación, se deberá crear un comité
 especializado en materia de acceso a la información
 integrado por tres ministros.
+
 Para resolver los recursos de revisión relacionados
 con la información de asuntos jurisdiccionales, dicho
 comité atenderá a los principios, reglas y
@@ -4458,7 +4478,6 @@ Artículo 195. Se entenderán como asuntos
 jurisdiccionales, aquellos que estén relacionados con
 el ejercicio de la función constitucional de impartición
 de justicia competencia de la Suprema Corte de
-
 Justicia de la Nación, en los términos que precise la
 Ley Federal.
 Capítulo VI
@@ -4475,6 +4494,7 @@ cumplimiento de la resolución.
 Dicha solicitud deberá presentarse, a más tardar,
 dentro de los primeros tres días del plazo otorgado
 para el cumplimiento, a efecto de que los Organismos
+
 garantes resuelvan sobre la procedencia de la misma
 dentro de los cinco días siguientes.
 Artículo 197. Transcurrido el plazo señalado en el
@@ -4485,7 +4505,6 @@ El organismo garante verificará de oficio la calidad
 de la información y, a más tardar al día siguiente de
 recibir el informe, dará vista al recurrente para que,
 dentro de los cinco días siguientes, manifieste lo que
-
 a su derecho convenga. Si dentro del plazo señalado
 el recurrente manifiesta que el cumplimiento no
 corresponde a lo ordenado por el organismo garante,
@@ -4505,6 +4524,7 @@ Emitirá un acuerdo de incumplimiento;
 
 II. Notificará al superior jerárquico del responsable
 de dar cumplimiento, para el efecto de que, en
+
 un plazo no mayor a cinco días, se dé
 cumplimiento a la resolución, y
 III. Determinará las medidas de apremio o
@@ -4514,7 +4534,6 @@ deberán aplicarse, de conformidad con lo
 señalado en el siguiente Título.
 Capítulo VII
 De los criterios de interpretación
-
 Artículo 199. Una vez que hayan causado
 ejecutoria las resoluciones dictadas en los recursos
 que se sometan a su competencia, el Instituto podrá
@@ -4531,6 +4550,7 @@ causado estado.
 Artículo 200. Los criterios se compondrán de un
 rubro, un texto y el precedente o precedentes que, en
 su caso, hayan originado su emisión.
+
 Todo criterio que emita el Instituto deberá contener
 una clave de control para su debida identificación.
 TÍTULO NOVENO
@@ -4541,7 +4561,6 @@ Artículo 201. Los Organismos garantes, en el
 ámbito de sus competencias, podrán imponer al
 servidor público encargado de cumplir con la
 resolución, o a los miembros de los sindicatos,
-
 partidos políticos o a la persona física o moral
 responsable, las siguientes medidas de apremio para
 asegurar el cumplimiento de sus determinaciones:
@@ -4559,6 +4578,7 @@ caso, las condiciones económicas del infractor y la
 reincidencia.
 El incumplimiento de los sujetos obligados será
 difundido en los portales de obligaciones de
+
 transparencia de los Organismos garantes y
 considerados en las evaluaciones que realicen éstos.
 En caso de que el incumplimiento de las
@@ -4569,7 +4589,6 @@ organismo garante respectivo deberá denunciar los
 hechos ante la autoridad competente.
 Las medidas de apremio de carácter económico no
 podrán ser cubiertas con recursos públicos.
-
 Artículo 202. Si a pesar de la ejecución de las
 medidas de apremio previstas en el artículo anterior
 no se cumple con la determinación, se requerirá el
@@ -4587,6 +4606,7 @@ por los Organismos garantes y ejecutadas por sí
 mismos o con el apoyo de la autoridad competente,
 de conformidad con los procedimientos que
 establezcan las leyes respectivas.
+
 Las multas que fijen el Instituto y los Organismos
 garantes se harán efectivas ante el Servicio de
 Administración Tributaria o las Secretarías de
@@ -4598,7 +4618,6 @@ Federativas deberán establecer los mecanismos y
 plazos para la notificación y ejecución a los
 Organismos garantes de las medidas de apremio que
 se apliquen en un plazo máximo de quince días,
-
 contados a partir de que sea notificada la medida de
 apremio.
 Artículo 205. Además de las medidas de apremio
@@ -4612,6 +4631,7 @@ Federativas, contemplarán como causas de sanción
 por incumplimiento de las obligaciones establecidas
 en la materia de la presente Ley, al menos las
 siguientes:
+
 I.
 
 La falta de respuesta a las solicitudes de
@@ -4627,7 +4647,6 @@ III. Incumplir los plazos de atención previstos en la
 presente Ley;
 IV. Usar, sustraer, divulgar, ocultar, alterar, mutilar,
 destruir o inutilizar, total o parcialmente, sin
-
 causa legítima, conforme a las facultades
 correspondientes, la información que se
 encuentre bajo la custodia de los sujetos
@@ -4643,6 +4662,7 @@ solicitada previamente por el usuario en su
 solicitud de acceso a la información, al responder
 sin la debida motivación y fundamentación
 establecidas en esta Ley;
+
 VI. No actualizar la información correspondiente a
 las obligaciones de transparencia en los plazos
 previstos en la presente Ley;
@@ -4657,7 +4677,6 @@ IX. No documentar con dolo o negligencia, el
 ejercicio de sus facultades, competencias,
 funciones o actos de autoridad, de conformidad
 con la normatividad aplicable;
-
 X. Realizar actos para intimidar a los solicitantes de
 información o inhibir el ejercicio del derecho;
 XI. Denegar intencionalmente información que no se
@@ -4669,6 +4688,7 @@ las características señaladas en la presente Ley.
 La sanción procederá cuando exista una
 resolución previa del organismo garante, que
 haya quedado firme;
+
 XIII. No desclasificar la información como reservada
 cuando los motivos que le dieron origen ya no
 existan o haya fenecido el plazo, cuando el
@@ -4683,7 +4703,6 @@ Organismos garantes, en ejercicio de sus
 funciones.
 La Ley Federal y las de las Entidades Federativas
 establecerán los criterios para calificar las sanciones
-
 conforme a la gravedad de la falta, en su caso, las
 condiciones económicas del infractor y la reincidencia.
 Asimismo, contemplarán el tipo de sanciones, los
@@ -4696,6 +4715,7 @@ Organismos garantes, según corresponda y, en su
 caso, conforme a su competencia darán vista a la
 autoridad competente para que imponga o ejecute la
 sanción.
+
 Artículo 208. Las responsabilidades que resulten de
 los procedimientos administrativos correspondientes
 derivados de la violación a lo dispuesto por el artículo
@@ -4710,7 +4730,6 @@ también se ejecutarán de manera independiente.
 Para tales efectos, el Instituto o los Organismos
 garantes podrán denunciar ante las autoridades
 competentes cualquier acto u omisión violatoria de
-
 esta Ley y aportar las pruebas que consideren
 pertinentes, en los términos de las leyes aplicables.
 Artículo 209. Ante incumplimientos en materia de
@@ -4729,6 +4748,7 @@ partidos políticos en las leyes aplicables.
 En el caso de probables infracciones relacionadas
 con fideicomisos o fondos públicos, sindicatos o
 personas físicas o morales que reciban y ejerzan
+
 recursos públicos o realicen actos de autoridad, el
 Instituto u organismo garante competente deberá dar
 vista al órgano interno de control del sujeto obligado
@@ -4742,7 +4762,6 @@ autoridad competente, junto con la denuncia
 correspondiente, un expediente en que se contengan
 todos los elementos que sustenten la presunta
 responsabilidad administrativa.
-
 La autoridad que conozca del asunto deberá
 informar de la conclusión del procedimiento y en su
 caso, de la ejecución de la sanción al Instituto o al
@@ -4758,6 +4777,7 @@ conducentes para la imposición y ejecución de las
 sanciones.
 Artículo 212. El procedimiento a que se refiere el
 artículo anterior dará comienzo con la notificación que
+
 efectúe el Instituto o los Organismos garantes de las
 Entidades Federativas al presunto infractor, sobre los
 hechos e imputaciones que motivaron el inicio del
@@ -4772,7 +4792,6 @@ admitirá las pruebas que estime pertinentes y
 procederá a su desahogo; y concluido que esto sea,
 notificará al presunto infractor el derecho que le asiste
 para que, de considerarlo necesario, presente sus
-
 alegatos dentro de los cinco días siguientes a su
 notificación.
 Una vez analizadas las pruebas y demás elementos
@@ -4788,6 +4807,7 @@ indelegable del Pleno del Instituto o del organismo
 garante correspondiente, podrá ampliar por una sola
 vez y hasta por un periodo igual el plazo de
 resolución.
+
 Artículo 213. En las normas respectivas, del
 Instituto y de los Organismos garantes de las
 Entidades
@@ -4804,7 +4824,6 @@ ejecución de sanciones. En todo caso, será supletorio
 a este procedimiento sancionador lo dispuesto en las
 leyes en materia de procedimiento administrativo del
 orden jurídico que corresponda.
-
 Artículo 214. Las infracciones a lo previsto en la
 presente Ley por parte de sujetos obligados que no
 cuenten con la calidad de servidor público, serán
@@ -4822,9 +4841,9 @@ de manera inmediata con la obligación, en los
 términos previstos en esta Ley, tratándose de los
 supuestos mencionados en esta fracción, se
 aplicará multa de ciento cincuenta a doscientos
+
 cincuenta días de salario mínimo general vigente
 en el área geográfica de que se trate;
-
 II. Multa de doscientos cincuenta a ochocientos
 días de salario mínimo general vigente en el área
 geográfica de que se trate, en los casos
@@ -4835,7 +4854,6 @@ salario mínimo general vigente en el área
 geográfica de que se trate, en los casos
 previstos en las fracciones VII, VIII, IX, XI, XII,
 XIII, XIV y XV del artículo 206 de esta Ley.
-
 Se aplicará multa adicional de hasta cincuenta días
 de salario mínimo general vigente en el área
 geográfica de que se trate, por día, a quien persista
@@ -4851,6 +4869,7 @@ autoridad deberán proporcionar la información que
 permita al sujeto obligado que corresponda, cumplir
 con sus obligaciones de trasparencia y para atender
 las solicitudes de acceso correspondientes.
+
 Transitorios
 Primero. La presente Ley entrará en vigor el día
 siguiente de su publicación en el Diario Oficial de la
@@ -4862,7 +4881,6 @@ perjuicio de lo previsto en los siguientes Transitorios.
 Tercero. En tanto no se expida la ley general en
 materia de datos personales en posesión de sujetos
 obligados, permanecerá vigente la normatividad
-
 federal y local en la materia, en sus respectivos
 ámbitos de aplicación.
 Cuarto. El Instituto expedirá los lineamientos
@@ -4877,6 +4895,7 @@ partir de la entrada en vigor del presente Decreto,
 para armonizar las leyes relativas, conforme a lo
 establecido en esta Ley. Transcurrido dicho plazo, el
 Instituto será competente para conocer de los medios
+
 de impugnación que se presenten de conformidad con
 la presente Ley.
 Sexto. El Instituto podrá ejercer las facultades de
@@ -4889,7 +4908,6 @@ los plazos vigentes en la normatividad de la materia
 en perjuicio de los solicitantes de información.
 Octavo. Los sujetos obligados se incorporarán a la
 Plataforma Nacional de Transparencia, en los
-
 términos que establezcan los lineamientos referidos
 en la fracción VI del artículo 31 de la presente Ley.
 En tanto entren en vigor los lineamientos que se
@@ -4905,6 +4923,7 @@ que no podrá exceder de un año a partir de la entrada
 en vigor del presente Decreto, deberá publicar en el
 Diario Oficial de la Federación el acuerdo mediante el
 cual el Sistema Nacional aprueba los lineamientos
+
 que regularán la forma, términos y plazos en que los
 sujetos obligados deberán cumplir con las
 obligaciones de transparencia, a que se refieren los
@@ -4918,7 +4937,6 @@ transparencia de las Entidades Federativas vigentes,
 serán aplicables solo respecto de la información que
 se genere a partir de la entrada en vigor del presente
 Decreto.
-
 Noveno. La información que hasta la fecha de
 entrada en vigor del presente decreto obra en los
 sistemas electrónicos de los Organismos garantes,
@@ -4935,6 +4953,7 @@ principios y bases de la misma; en tanto el Sistema
 Nacional emite los lineamientos, mecanismos y
 criterios correspondientes para determinar las
 acciones a tomar, los municipios con población menor
+
 a 70,000 habitantes cumplirán con las obligaciones de
 transparencia de conformidad con sus posibilidades
 presupuestarias.
@@ -4947,7 +4966,6 @@ condiciones previstas en dicha ley y en las
 disposiciones referidas.
 Dichos municipios podrán solicitar al Organismo
 garante de la Entidad Federativa correspondiente,
-
 que, de manera subsidiaria, divulgue vía Internet las
 obligaciones de transparencia correspondientes.
 Undécimo. El Consejo Nacional del Sistema
@@ -4963,6 +4981,7 @@ Personales deberá emitir los lineamientos a que se
 refiere esta Ley y publicarlos en el Diario Oficial de la
 Federación, a más tardar en un año a partir de la
 entrada en vigor del presente Decreto.
+
 Décimo Tercero. Para el efecto del cumplimiento de
 las obligaciones genéricas y específicas a las que se
 refiere la presente Ley, cada Cámara del Congreso de
@@ -4977,7 +4996,6 @@ obligados respecto a los recursos que a través de
 éstos se asigna a los legisladores; el tratamiento fiscal
 y presupuestal de los ingresos, prestaciones, apoyos
 y recursos, en dinero o especie, que reciban los
-
 legisladores para realizar la función legislativa y de
 gestión; el régimen laboral del personal adscrito a los
 grupos parlamentarios, las comisiones y los
@@ -4995,6 +5013,7 @@ Barbosa Huerta, Presidente.- Dip. Julio César
 Moreno Rivera, Presidente.- Sen. Lucero Saldaña
 Pérez, Secretaria.- Dip. Sergio Augusto Chan Lugo,
 Secretario.- Rúbricas."
+
 En cumplimiento de lo dispuesto por la fracción I del
 Artículo 89 de la Constitución Política de los Estados
 Unidos Mexicanos, y para su debida publicación y

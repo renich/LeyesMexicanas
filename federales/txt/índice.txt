@@ -1273,6 +1273,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Ley_Federal_de_Seguridad_Privada.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
+==> Ley_Federal_de_Telecomunicaciones_y_Radiodifusion.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
 ==> Ley_Federal_de_Transparencia_y_Acceso_a_la_Informacion_Publica.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
@@ -1342,6 +1345,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Ley_General_de_Archivos.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
+==> Ley_General_de_Asentamientos_Humanos_Ordenamiento_Territorial-Desarrollo_Urbano.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
 ==> Ley_General_de_Bibliotecas.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
@@ -1403,6 +1409,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_General_de_Responsabilidades_Administrativas.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Salud.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_General_de_Sociedades_Cooperativas.txt <==
@@ -1483,6 +1492,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Ley_Nacional_de_Ejecucion_Penal.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
+==> Ley_Nacional_de_Extincion_de_Dominio.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
 ==> Ley_Nacional_de_Mecanismos_Alternativos_de_Solucion_de_Controversias-Materia_Penal.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
@@ -1499,6 +1511,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_Organica_de_Sociedad_Hipotecaria.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_de_la_Administracion_Publica.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_Organica_de_la_Armada.txt <==
@@ -1538,6 +1553,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_Organica_del_Banco_del_Bienestar.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_del_Centro_Federal_de_Conciliacion_y_Registro_Laboral.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_Organica_del_Congreso.txt <==
@@ -2079,6 +2097,9 @@ PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2019
 
 ==> PEF_2020_111219.txt <==
 PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2020
+
+==> Presupuesto_de_Egresos_2020.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Reg_Diputados.txt <==
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
