@@ -4,9 +4,10 @@ Secretaría de Servicios Parlamentarios
 Versión PDF para vista en dispositivo móvil Android y Apple iOS
 
 LEY DE LA INDUSTRIA ELÉCTRICA
-TEXTO VIGENTE
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 11 de agosto de 2014
+TEXTO VIGENTE
+Última reforma publicada DOF 06-11-2020
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -21,8 +22,19 @@ UNIDOS MEXICANOS, DECRETA:
 SE EXPIDEN LA LEY DE LA INDUSTRIA
 ELÉCTRICA, LA LEY DE ENERGÍA GEOTÉRMICA
 Y SE ADICIONAN Y REFORMAN DIVERSAS
-DISPOSICIONES DE LA LEY DE AGUAS
+
+DISPOSICIONES
 NACIONALES
+
+DE
+
+LA
+
+LEY
+
+DE
+
+AGUAS
 
 ARTÍCULO PRIMERO. Se expide la Ley de la
 Industria Eléctrica.
@@ -47,9 +59,9 @@ los usuarios, así como el cumplimiento de las
 obligaciones de servicio público y universal, de
 Energías Limpias y de reducción de emisiones
 contaminantes.
+
 Artículo 2.- La industria eléctrica comprende las
 actividades de generación, transmisión, distribución y
-
 comercialización de la energía eléctrica, la planeación
 y el control del Sistema Eléctrico Nacional, así como
 la operación del Mercado Eléctrico Mayorista. El
@@ -79,9 +91,9 @@ II. Calidad: Grado en el que las características y
 condiciones del Suministro Eléctrico cumplen
 con los requerimientos técnicos determinados
 por la CRE con el fin de asegurar el correcto
+
 desempeño e integridad de los equipos y
 dispositivos de los Usuarios Finales;
-
 III. CENACE:
 Energía;
 
@@ -3027,11 +3039,8 @@ forma anual, un informe sobre los avances en la
 implementación de dichas estrategias, el cual deberá
 ser presentado al Congreso de la Unión a más tardar
 el 30 de junio de cada año.
-Para coadyuvar al cumplimiento de lo previsto en el
-presente artículo, la Secretaría de Economía se
-apoyará en el Fideicomiso Público para Promover el
-Desarrollo de Proveedores y Contratistas Nacionales
-de la Industria Energética.
+Reforma DOF 06-11-2020: Derogó del artículo el entonces
+párrafo tercero
 Artículo 91.- La Secretaría de Economía
 establecerá la metodología para medir el grado de
 contenido nacional en la industria eléctrica, así como
@@ -3044,22 +3053,13 @@ sobre el grado de contenido nacional en las
 actividades que realicen, conforme a lo que
 establezcan las disposiciones que para tal efecto
 emita.
-Artículo 92.- El Fideicomiso Público para Promover
-el Desarrollo de Proveedores y Contratistas
-Nacionales de la Industria Energética será creado en
-
-una institución de la banca de desarrollo. Su objeto
-será promover el desarrollo y competitividad de
-proveedores y contratistas locales y nacionales, a
-través de esquemas de financiamiento y de
-programas de apoyo para capacitación, investigación
-y certificación, con el fin de cerrar las brechas de
-capacidad técnica y de calidad, dando especial
-atención a pequeñas y medianas empresas.
+Artículo 92.- Se deroga.
+Artículo derogado DOF 06-11-2020
 Artículo 93.- La Secretaría y la CRE, con la opinión
 de la Secretaría de Economía, deberán establecer
 dentro de las condiciones que se incluyan en los
 contratos que se celebren para el financiamiento,
+
 instalación, mantenimiento, gestión, operación y
 ampliación de la infraestructura necesaria para
 prestar el Servicio Público de Transmisión y
@@ -3078,7 +3078,6 @@ mexicana.
 TÍTULO TERCERO
 Del Mercado Eléctrico Mayorista
 Capítulo I
-
 De la Operación del Mercado Eléctrico Mayorista
 Artículo 94.- El CENACE operará el Mercado
 Eléctrico Mayorista conforme a la presente Ley. En el
@@ -3093,6 +3092,7 @@ de conformidad con las Reglas del Mercado.
 Invariablemente los precios de las transacciones
 celebradas en el Mercado Eléctrico Mayorista se
 calcularán por el CENACE con base en las ofertas
+
 que reciba, en los términos de las Reglas del
 Mercado.
 Artículo 95.- El Mercado Eléctrico Mayorista
@@ -3111,7 +3111,6 @@ autorización, revisión, ajuste y actualización de las
 Disposiciones Operativas del Mercado, los cuales
 incluirán la participación de los demás integrantes de
 la industria eléctrica.
-
 La emisión de las Bases del Mercado Eléctrico y de
 las Disposiciones Operativas del Mercado no estará
 sujeta al Título Tercero A de la Ley Federal de
@@ -3122,6 +3121,7 @@ notificación a los Participantes del Mercado, la cual
 podrá realizarse conforme al Título Segundo del
 Código de Comercio o por la publicación electrónica
 por la CRE o el CENACE, según corresponda.
+
 Sin perjuicio de lo anterior, los procedimientos
 inherentes a la modificación de las Bases del
 Mercado Eléctrico y de las Disposiciones Operativas
@@ -3153,6 +3153,7 @@ demanda eléctrica;
 IV. Los productos anteriores, vía importación o
 exportación;
 V. Derechos Financieros de Transmisión;
+
 VI. Certificados de Energías Limpias, y
 VII. Los demás productos, derechos de cobro y
 penalizaciones que se requieran para el
@@ -3170,7 +3171,6 @@ realizar operaciones de compraventa relativas a la
 energía eléctrica, la potencia o los Servicios Conexos
 en un nodo del Sistema Eléctrico Nacional, así como
 a los Derechos Financieros de Transmisión,
-
 sujetándose a las obligaciones para informar al
 CENACE previstas por las Reglas del Mercado.
 Asimismo, podrán celebrar Contratos de Cobertura
@@ -3182,6 +3182,7 @@ Artículo 98.- Los Generadores, Comercializadores y
 Usuarios Calificados podrán participar en el Mercado
 Eléctrico Mayorista, previa celebración del contrato de
 Participante del Mercado con el CENACE y la
+
 presentación de la garantía que corresponde en
 términos de las Reglas del Mercado. Terminado dicho
 contrato, el CENACE aplicará, en su caso, el importe
@@ -3198,7 +3199,6 @@ Los términos y condiciones generales de los
 convenios y contratos que celebre el CENACE con los
 Participantes del Mercado se sujetarán a la previa
 autorización de la CRE.
-
 Artículo 99.- Las Reglas del Mercado establecerán
 los mecanismos para que el CENACE instruya la
 producción, prestación o adquisición de Servicios
@@ -3211,6 +3211,7 @@ o cobrar los servicios de transmisión, distribución, los
 Servicios Conexos que no se incluyen en el Mercado
 Eléctrico Mayorista y sus propios costos operativos de
 acuerdo con las Tarifas Reguladas, así como las
+
 transacciones celebradas en el Mercado Eléctrico
 Mayorista, directamente o a través de un tercero.
 En las Reglas del Mercado se definirán los demás
@@ -3227,7 +3228,6 @@ terceros, en los términos de las Reglas del Mercado.
 El CENACE podrá establecer cuentas de ingresos
 residuales a fin de mantener dicho balance entre
 periodos.
-
 Artículo 101.- Con base en criterios de Seguridad
 de Despacho y eficiencia económica, el CENACE
 determinará la asignación y despacho de las
@@ -3244,6 +3244,7 @@ ofertas de importación y exportación.
 Artículo 102.- El CENACE deberá restringir o
 suspender la participación en el Mercado Eléctrico
 Mayorista a quienes incurran en incumplimientos
+
 graves a las Reglas del Mercado, sin requerir la
 intervención previa de autoridad alguna, en tanto no
 regularicen su situación y no cubran las obligaciones
@@ -3262,7 +3263,6 @@ combustibles, así como el uso permitido de la
 Demanda Controlable, entre otras. Para la
 elaboración de dicho programa, el CENACE se
 coordinará con las autoridades competentes y los
-
 Participantes del Mercado, en los términos de las
 Reglas del Mercado. Asimismo, la Secretaría de
 Medio Ambiente y Recursos Naturales, la Comisión
@@ -3275,6 +3275,7 @@ Artículo 104.- Los representantes de las Centrales
 Eléctricas ofrecerán al Mercado Eléctrico Mayorista la
 totalidad de las capacidades disponibles para producir
 energía eléctrica, potencia y Servicios Conexos en
+
 dichas Centrales Eléctricas, sujetándose a los
 parámetros operativos y obligaciones normativas de
 las mismas. De la misma forma, los representantes de
@@ -3293,7 +3294,6 @@ Eléctricas realicen en el Mercado Eléctrico Mayorista
 se basarán en los costos de dichas Centrales
 Eléctricas y Demanda Controlable, pudiendo ser
 menores a dichos costos, en los términos que definan
-
 las Reglas del Mercado. Las ofertas de la Demanda
 Controlable Garantizada se sujetarán a las ofertas
 tope que establezcan las Reglas del Mercado.
@@ -3305,6 +3305,7 @@ Mercado.
 La CRE podrá emitir criterios para eximir a las
 Centrales Eléctricas y a la Demanda Controlable que
 no tengan un impacto relevante en el funcionamiento
+
 eficiente del Mercado Eléctrico Mayorista de las
 obligaciones relacionadas con sus ofertas a que se
 refieren los tres párrafos anteriores y de su
@@ -3323,7 +3324,6 @@ los parámetros registrados. La CRE vigilará que las
 ofertas de las Centrales Eléctricas y de la Demanda
 Controlable Garantizada al Mercado Eléctrico
 Mayorista sean consistentes con sus costos y
-
 capacidades, para lo cual el CENACE proporcionará a
 la CRE la información y análisis que ésta requiera.
 En el caso de confirmar inconsistencias materiales
@@ -3336,6 +3336,7 @@ respectivo. Cuando dicha facturación requiera la
 devolución de ingresos o el pago de nuevos costos,
 estas operaciones procederán sin perjuicio de la
 aplicación de las sanciones a que haya lugar.
+
 Se prohíbe a los integrantes del sector eléctrico la
 realización de cualquier acción o transacción que
 tenga como efecto interferir con el funcionamiento
@@ -3353,7 +3354,6 @@ La CRE vigilará la operación del Mercado Eléctrico
 Mayorista y las determinaciones del CENACE a fin de
 asegurar el funcionamiento eficiente del Mercado
 Eléctrico Mayorista y el cumplimiento de las Reglas
-
 del Mercado. Asimismo, la CRE vigilará que las
 Reglas del Mercado cumplan con los objetivos de
 esta Ley.
@@ -3366,6 +3366,7 @@ a expertos independientes o constituya un comité
 colegiado u otro ente para realizar las demás
 funciones de vigilancia del Mercado Eléctrico
 Mayorista. En ningún caso las funciones de vigilancia
+
 del Mercado Eléctrico Mayorista podrán ser
 desempeñadas por quienes participen en la
 administración o fiscalización del CENACE, por los
@@ -3383,7 +3384,6 @@ CENACE o cualquier otra persona detecte dichas
 prácticas, informará a la Comisión Federal de
 Competencia Económica para que ésta proceda
 conforme a sus facultades.
-
 Cuando la Secretaría, la CRE, el CENACE o
 cualquier otra persona considere que no existen
 condiciones de competencia efectiva en algún
@@ -3396,6 +3396,7 @@ Artículo 106.- Las adquisiciones que las
 dependencias y entidades de la Administración
 Pública Federal realicen dentro del Mercado Eléctrico
 Mayorista y las subastas referidas en esta Ley no se
+
 sujetarán ni a la Ley de Adquisiciones,
 Arrendamientos y Servicios del Sector Público, ni a la
 Ley de Obras Públicas y Servicios Relacionadas con
@@ -3412,7 +3413,6 @@ discriminatorio a la Red Nacional de Transmisión y las
 Redes Generales de Distribución, así como las demás
 facultades señaladas en esta Ley y otras
 disposiciones aplicables.
-
 Artículo 108.- El CENACE está facultado para:
 I.
 
@@ -3432,6 +3432,7 @@ Nacional y que deben realizar los Participantes
 del Mercado, Transportistas y Distribuidores,
 sujeto a la regulación y supervisión de la CRE en
 dichas materias;
+
 III. Llevar a cabo los procesos de revisión, ajuste,
 actualización, y emisión de las Disposiciones
 Operativas del Mercado, con sujeción a los
@@ -3447,7 +3448,6 @@ a fin de satisfacer la demanda de energía
 eléctrica en el Sistema Eléctrico Nacional;
 VI. Recibir las ofertas y calcular los precios de
 energía eléctrica y Productos Asociados que
-
 derivan del Mercado Eléctrico Mayorista, de
 conformidad con las Reglas del Mercado;
 VII. Facturar, procesar o cobrar los pagos que
@@ -3459,6 +3459,7 @@ VIII. Llevar a cabo subastas para la celebración de
 Contratos de Cobertura Eléctrica entre los
 Generadores y los representantes de los Centros
 de Carga;
+
 IX. Previa autorización de la CRE, llevar a cabo
 subastas a fin de adquirir potencia cuando lo
 considere
@@ -3482,7 +3483,6 @@ Demanda
 Controlable
 Garantizada
 que
-
 presenten limitaciones sobre la energía total que
 pueden generar o dejar de consumir en un
 periodo, y calcular el costo de oportunidad con el
@@ -3495,6 +3495,7 @@ ofertas al Mercado Eléctrico Mayorista y los
 datos registrados;
 XIII. Determinar los elementos de la Red Nacional
 de Transmisión y de las Redes Generales de
+
 Distribución que correspondan al Mercado
 Eléctrico Mayorista y determinar la asignación de
 responsabilidades
@@ -3517,7 +3518,6 @@ sean beneficiarios de las ampliaciones referidas
 en el inciso anterior;
 XVI. Proponer a la CRE los criterios a que se refiere
 el segundo párrafo del artículo 34 de esta Ley;
-
 XVII. Someter a la autorización de la CRE las
 especificaciones técnicas generales requeridas
 para la interconexión de nuevas Centrales
@@ -3530,6 +3530,7 @@ Central Eléctrica o Centro de Carga se requiera
 establecer características específicas de la
 infraestructura requerida, establecer dichas
 características para cada caso particular;
+
 XIX. Instruir a los Transportistas y los Distribuidores
 la celebración del contrato de interconexión o de
 conexión y la realización de la interconexión de
@@ -3545,7 +3546,6 @@ que correspondan;
 XXI. Administrar los Derechos Financieros de
 Transmisión en los términos que establezcan las
 Reglas del Mercado;
-
 XXII. Evaluar la conveniencia técnica de que las
 Redes Particulares se integren a la Red Nacional
 de Transmisión y las Redes Generales de
@@ -3558,6 +3558,7 @@ XXIV. Someter a la autorización de la CRE los
 modelos de convenios y contratos que celebrará
 con los Transportistas, los Distribuidores y los
 Participantes del Mercado, entre otros;
+
 XXV. Celebrar los convenios y contratos que se
 requieran para la operación del Mercado
 Eléctrico Mayorista;
@@ -3573,7 +3574,6 @@ Participantes del Mercado por incumplimiento de
 sus obligaciones de pago o de garantía;
 XXVIII. Promover mecanismos de coordinación con
 los integrantes de la industria eléctrica para
-
 mantener y restablecer el suministro de energía
 del sistema eléctrico en caso de accidentes y
 contingencias;
@@ -3584,6 +3584,7 @@ XXX. Publicar informes sobre el desempeño y
 evolución del Mercado Eléctrico Mayorista con la
 periodicidad y en los términos que se determinen
 por la CRE;
+
 XXXI. Participar en comités consultivos para la
 elaboración de proyectos de normalización sobre
 bienes o servicios relacionados con su objeto;
@@ -3602,7 +3603,6 @@ Artículo
 CENACE
 desarrollará
 prioritariamente sus actividades para garantizar la
-
 operación del Sistema Eléctrico Nacional en
 condiciones de eficiencia, Calidad, Confiabilidad,
 Continuidad, seguridad y sustentabilidad.
@@ -3612,6 +3612,7 @@ un Director General. La dirección y visión estratégica
 del CENACE estará a cargo de su Consejo de
 Administración, mismo que contará al menos con una
 tercera parte de consejeros independientes.
+
 La gestión, operación y ejecución de las funciones
 del CENACE estará a cargo, exclusivamente, de la
 Dirección General, para lo cual gozará de autonomía.
@@ -3633,7 +3634,6 @@ CRE, constituirá un comité de evaluación en el que se
 contará con un representante de cada modalidad de
 Participante del Mercado. Este comité de evaluación
 sesionará periódicamente y revisará el desempeño
-
 del CENACE y del Mercado Eléctrico Mayorista, por lo
 que tendrá las atribuciones para disponer de la
 información necesaria y requerir las aclaraciones
@@ -3644,6 +3644,7 @@ recomendaciones al Consejo de Administración del
 CENACE. Para la revisión de las metodologías
 aplicadas por el CENACE, el comité de evaluación
 podrá apoyarse en expertos independientes.
+
 TÍTULO CUARTO
 Disposiciones aplicables a los Integrantes de la
 Industria Eléctrica
@@ -3661,7 +3662,6 @@ electrificación en las comunidades rurales y zonas
 urbanas marginadas, así como el suministro de
 lámparas eficientes y el Suministro Básico a Usuarios
 Finales en condiciones de marginación.
-
 Artículo 114.- El Fondo de Servicio Universal
 Eléctrico se integrará por el excedente de ingresos
 que resulte de la gestión de pérdidas técnicas en el
@@ -3672,6 +3672,7 @@ Fondo de Servicio Universal Eléctrico podrá recibir
 donativos de terceros para cumplir sus objetivos.
 Los fondos que no se ejerzan en proyectos de
 electrificación se reintegrarán al CENACE para su
+
 devolución a los Participantes del Mercado conforme
 a las Reglas del Mercado, sin perjuicio de que los
 fondos recibidos por terceros se podrán devolver a
@@ -3691,7 +3692,6 @@ Artículo 116.- La Secretaría establecerá políticas y
 estrategias para suministrar electricidad a las
 comunidades rurales y zonas urbanas marginadas al
 menor costo para el país, en congruencia con la
-
 política energética prevista para el desarrollo del
 sector eléctrico y promoviendo el uso de las Energías
 Limpias.
@@ -3702,6 +3702,7 @@ caso, instrumentarán programas de apoyos
 focalizados que tengan como objeto coadyuvar con el
 suministro eléctrico adecuado y oportuno, a precios
 asequibles, en zonas rurales y zonas urbanas
+
 marginadas para grupos de Usuarios del Suministro
 Básico en condiciones económicas de vulnerabilidad.
 La CRE y el Consejo Nacional de Evaluación de la
@@ -3715,16 +3716,10 @@ los sectores público y privado en la industria eléctrica
 atenderán los principios de sostenibilidad y respeto de
 los derechos humanos de las comunidades y pueblos
 de las regiones en los que se pretendan desarrollar.
-Artículo 118.- La Secretaría deberá informar a
-interesados en la ejecución de proyectos
-infraestructura en la industria eléctrica sobre
-presencia de grupos sociales en situación
-
-los
-de
-la
-de
-
+Artículo 118.- La Secretaría deberá informar a los
+interesados en la ejecución de proyectos de
+infraestructura en la industria eléctrica sobre la
+presencia de grupos sociales en situación de
 vulnerabilidad en las áreas en que se llevarán a cabo
 las actividades para la ejecución de los proyectos, con
 el fin de que se implementen las acciones necesarias
@@ -3735,6 +3730,7 @@ pueblos indígenas en los que se desarrollen
 proyectos de la industria eléctrica, la Secretaría
 deberá llevar a cabo los procedimientos de consulta
 necesarios y cualquier otra actividad necesaria para
+
 su salvaguarda, en coordinación con la Secretaría de
 Gobernación y las dependencias que correspondan.
 En dichos procedimientos de consulta podrán
@@ -3757,7 +3753,6 @@ resolutivo
 y
 recomendaciones que correspondan, en los términos
 que señalen los reglamentos de esta Ley.
-
 Capítulo III
 De las Obligaciones de Energías Limpias
 Artículo 121.- La Secretaría implementará
@@ -3768,6 +3763,7 @@ Energías Limpias. La Secretaría establecerá las
 obligaciones para adquirir Certificados de Energías
 Limpias e instrumentará los demás mecanismos que
 se requieran para dar cumplimiento a la política en la
+
 materia, y podrá celebrar convenios que permitan su
 homologación con los instrumentos correspondientes
 de otras jurisdicciones.
@@ -3786,7 +3782,6 @@ en los términos establecidos en esta Ley.
 Artículo 124.- En el primer trimestre de cada año
 calendario, la Secretaría establecerá los requisitos
 para la adquisición de Certificados de Energías
-
 Limpias a ser cumplidos durante los tres años
 posteriores a la emisión de dichos requisitos,
 pudiendo establecer requisitos para años adicionales
@@ -3797,6 +3792,7 @@ estos certificados sean negociables, fomentará la
 celebración de Contratos de Cobertura Eléctrica a
 largo plazo que incluyan Certificados de Energías
 Limpias y podrá permitir el traslado de certificados
+
 excedentes o faltantes entre periodos y establecer
 cobros por realizar dicho traslado a fin de promover la
 estabilidad de precios.
@@ -3816,9 +3812,9 @@ Usuarios Calificados Participantes del Mercado y
 los Usuarios Finales que reciban energía
 eléctrica por el abasto aislado, así como los
 titulares de los Contratos de Interconexión
-
 Legados, asociados al consumo de los Centros
 de Carga que representen o incluyan;
+
 II. La Secretaría establecerá los criterios para su
 otorgamiento en favor de los Generadores y
 Generadores Exentos que produzcan energía
@@ -3827,6 +3823,7 @@ III. La CRE otorgará los Certificados de Energías
 Limpias que correspondan, emitirá la regulación
 para validar su titularidad y verificará el
 cumplimiento de dichas obligaciones;
+
 IV. Los Certificados de Energías Limpias serán
 negociables a través del Mercado Eléctrico
 Mayorista
@@ -3847,7 +3844,6 @@ Certificados de Energías Limpias.
 Artículo 128.- La CRE creará y mantendrá un
 Registro de Certificados, el cual deberá tener el
 matriculado de cada certificado, así como la
-
 información correspondiente a su fecha de emisión,
 vigencia e historial de propietarios.
 Únicamente el último poseedor del certificado en el
@@ -3858,6 +3854,7 @@ Artículo 129.- La Secretaría de Medio Ambiente y
 Recursos Naturales establecerá, a través de normas
 oficiales mexicanas y los demás instrumentos o
 disposiciones aplicables, las obligaciones de
+
 reducción de emisiones contaminantes relativas a la
 industria eléctrica.
 Capítulo IV
@@ -3878,7 +3875,6 @@ términos que establezca la CRE mediante
 disposiciones de carácter general.
 Los permisionarios deberán ser personas físicas o
 morales constituidas conforme a las leyes mexicanas.
-
 Artículo 131.- Los permisos, según sea el caso,
 terminan:
 I.
@@ -3891,6 +3887,7 @@ II. Por renuncia del titular, previo cumplimiento de
 sus obligaciones;
 III. Por revocación determinada por la CRE en los
 casos siguientes:
+
 a) Por no iniciar las actividades objeto del
 permiso en los plazos que al efecto se
 establezcan en el título respectivo, salvo
@@ -3920,7 +3917,6 @@ oficiales
 f) Por no pagar los derechos, aprovechamientos
 o cualquier otra cuota aplicable al permiso,
 incluyendo la verificación del mismo;
-
 g) Por
 llevar
 a
@@ -3934,6 +3930,7 @@ Sistema Eléctrico Nacional;
 i) Por realizar actividades o incurrir en omisiones
 que impidan el funcionamiento eficiente del
 Sistema Eléctrico Nacional;
+
 j) Por ceder, gravar, transferir o enajenar los
 derechos y obligaciones derivados de los
 permisos sin previo aviso a la CRE;
@@ -3948,7 +3945,6 @@ de la Ley General de Bienes Nacionales;
 IV. Cuando desaparezca el objeto del permiso;
 V. En caso de disolución, liquidación o quiebra del
 titular, o
-
 VI. Por el acaecimiento de cualquier condición
 resolutoria establecida en el permiso.
 La CRE determinará sobre la procedencia de la
@@ -3959,6 +3955,7 @@ Ley.
 La terminación del permiso no extingue las
 obligaciones contraídas por el titular durante su
 vigencia.
+
 Capítulo V
 De la Estandarización, Normalización,
 Confiabilidad y Seguridad
@@ -3974,14 +3971,11 @@ Eléctrico Nacional.
 La CRE regulará, supervisará y ejecutará el proceso
 de estandarización y normalización de las
 obligaciones en materia de eficiencia, Calidad,
-
 Confiabilidad,
 Continuidad,
 seguridad
-sustentabilidad del Sistema Eléctrico Nacional.
-
 y
-
+sustentabilidad del Sistema Eléctrico Nacional.
 El CENACE podrá emitir especificaciones técnicas
 en dichas materias con la autorización de la CRE.
 La Secretaría regulará, supervisará y ejecutará el
@@ -3990,6 +3984,7 @@ materia de seguridad de las instalaciones de los
 Usuarios Finales.
 Los integrantes de la industria eléctrica no podrán
 aplicar especificaciones técnicas de referencia
+
 distintas a la regulación, estandarización y
 normalización que emitan o autoricen las autoridades
 competentes.
@@ -4010,7 +4005,6 @@ técnicas,
 características específicas de la infraestructura
 requerida y otros estándares. Dichas unidades deben
 contar con la aprobación de la CRE.
-
 Artículo 134.- Los organismos de certificación, los
 laboratorios de pruebas, las unidades de verificación y
 las unidades de inspección que realicen sus
@@ -4022,6 +4016,7 @@ de la CRE para llevar a cabo subastas a fin de
 adquirir potencia cuando lo considere necesario para
 asegurar la Confiabilidad del Sistema Eléctrico
 Nacional.
+
 Cuando, a juicio del CENACE, una Central Eléctrica
 cuyo retiro haya sido programado sea necesaria para
 asegurar la Confiabilidad del Sistema Eléctrico
@@ -4039,7 +4034,6 @@ Calificados que, mediante el incumplimiento de sus
 obligaciones de potencia, hayan ocasionado la
 necesidad, sin perjuicio de las sanciones que resulten
 aplicables.
-
 La CRE expedirá protocolos para que el CENACE
 gestione la contratación de potencia en casos de
 emergencia; en estos casos, no se requerirá la
@@ -4050,6 +4044,7 @@ servicio en caso de que el Sistema Eléctrico Nacional
 no esté en condiciones de suministrar la totalidad de
 la demanda eléctrica se establecerán en las Reglas
 del Mercado.
+
 Artículo 136.- Para proteger los intereses del
 público en relación con la Calidad, Confiabilidad,
 Continuidad y Seguridad del Suministro Eléctrico, la
@@ -4070,7 +4065,6 @@ IV. Clausura, temporal o definitiva, parcial o total, de
 instalaciones;
 V. Disposición de recursos humanos y materiales
 para hacer frente a situaciones de emergencia, y
-
 VI. Las que se establezcan en otras leyes que
 resulten aplicables.
 La CRE podrá solicitar a otras autoridades, en el
@@ -4082,6 +4076,7 @@ el tiempo estrictamente necesario para corregir las
 deficiencias o anomalías.
 Capítulo VI
 De las Tarifas
+
 Artículo 137.- La transmisión, distribución,
 Suministro Básico y Suministro de Último Recurso,
 así como la operación del CENACE, se sujetarán a
@@ -4120,6 +4115,7 @@ Los Ingresos Recuperables del Suministro Básico
 incluirán los costos que resulten de las Tarifas
 Reguladas de las cinco fracciones que anteceden, así
 como los costos de la energía eléctrica y los
+
 Productos Asociados adquiridos para suministrar
 dicho servicio, incluyendo los que se adquieran por
 medio de los Contratos de Cobertura Eléctrica,
@@ -4140,7 +4136,6 @@ las Tarifas Reguladas de las fracciones I, II, IV y V
 que anteceden, las tarifas máximas de los
 Suministradores de Último Recurso y, siempre que
 reflejen Prácticas Prudentes, los costos de la energía
-
 eléctrica y los Productos Asociados adquiridos para
 suministrar dicho servicio y, en su caso, las sanciones
 por incumplimiento en la adquisición de potencia,
@@ -4158,6 +4153,7 @@ de
 los
 Suministradores de Último Recurso y las tarifas
 finales del Suministro Básico. La CRE publicará las
+
 memorias de cálculo usadas para determinar dichas
 tarifas y precios.
 El Ejecutivo Federal podrá determinar, mediante
@@ -4176,11 +4172,11 @@ Promover el desarrollo eficiente de la industria
 eléctrica, garantizar la Continuidad de los
 servicios, evitar la discriminación indebida,
 promover el acceso abierto a la Red Nacional de
-
 Transmisión y a las Redes Generales de
 Distribución y proteger los intereses de los
 Participantes del Mercado y de los Usuarios
 Finales;
+
 II. Determinar Tarifas Reguladas de los servicios
 regulados de transmisión y distribución que
 permitirán obtener el ingreso estimado necesario
@@ -4193,6 +4189,7 @@ las
 diversas
 modalidades de servicio, las pérdidas técnicas y
 no técnicas de acuerdo con el estándar
+
 determinado por la CRE, los impuestos
 aplicables y una rentabilidad razonable, misma
 que no estará garantizada;
@@ -4214,7 +4211,6 @@ permitirán obtener el ingreso estimado necesario
 para recuperar los costos eficientes de
 operación, mantenimiento, financiamiento y
 depreciación, los impuestos aplicables y una
-
 rentabilidad razonable, misma que no estará
 garantizada, o bien, mediante procesos
 competitivos;
@@ -4225,6 +4221,7 @@ Servicios Conexos no incluidos en el Mercado
 Eléctrico Mayorista.
 Artículo 141.- La CRE estará facultada para
 investigar las inversiones y otros costos en que
+
 incurran los Transportistas, los Distribuidores, los
 Suministradores
 de
@@ -4247,7 +4244,6 @@ metodologías tarifarias de acuerdo con las
 disposiciones que al efecto emita, observando las
 Reglas del Mercado. La CRE podrá requerir al
 CENACE la identificación de los Participantes del
-
 Mercado que resulten beneficiados por los proyectos
 de ampliación y modernización de la Red Nacional de
 Transmisión o de las Redes Generales de
@@ -4259,6 +4255,7 @@ Artículo 143.- La determinación y aplicación de las
 Tarifas Reguladas, así como la prestación de los
 servicios cubiertos por éstas, no podrá condicionarse
 a la adquisición de productos o servicios innecesarios.
+
 Artículo 144.- La CRE expedirá mediante
 disposiciones administrativas de carácter general y
 aplicará la metodología para el cálculo y ajuste de los
@@ -4284,7 +4281,6 @@ Suministradores de Último Recurso, incluyendo los
 que se adquieran por medio de los Contratos de
 Cobertura Eléctrica. La CRE determinará que no se
 recuperen mediante los Ingresos Recuperables o
-
 precios máximos correspondientes los costos que no
 sean eficientes o que no reflejen Prácticas Prudentes.
 Artículo 146.- Los Transportistas, los Distribuidores,
@@ -4297,6 +4293,7 @@ implicará la modificación automática de los contratos
 de suministro que se hubieren celebrado.
 Artículo 147.- La CRE autorizará, en su caso, los
 cobros que al efecto proponga el CENACE para la
+
 realización de estudios de características específicas
 de la infraestructura requerida y para los otros
 componentes del proceso de conexión de Centros de
@@ -4312,7 +4309,6 @@ rentabilidad resultante de las inversiones de las
 empresas productivas del Estado y sus empresas
 productivas subsidiarias integrantes del sector
 eléctrico, la Secretaría de Hacienda y Crédito Público
-
 determinará el Retorno Objetivo acorde a cada
 actividad.
 Artículo 149.- La Secretaría de Hacienda y Crédito
@@ -4325,6 +4321,7 @@ estas empresas será vigilada y, en su caso, ajustada,
 por la Secretaría. Los Retornos Objetivos y las
 metodologías de evaluación de los mismos serán
 independientes de la regulación tarifaria de la CRE.
+
 Artículo 150.- Las empresas productivas del Estado
 y sus empresas productivas subsidiarias integrantes
 de la industria eléctrica no podrán realizar inversiones
@@ -4341,7 +4338,6 @@ administración u operación de algún permisionario,
 que pongan en riesgo la Calidad, Confiabilidad,
 Continuidad y seguridad del Suministro Eléctrico, la
 Secretaría intervendrá al mismo, con el objeto de que
-
 el interventor se haga cargo de la administración y
 operación temporal de las instalaciones de que se
 trate. El interventor deberá contar con conocimientos
@@ -4355,6 +4351,7 @@ filiales.
 Artículo 152.- El interventor tendrá plenos poderes y
 todas las facultades que requiera para la
 administración del permisionario intervenido y
+
 ejercerá sus facultades sin supeditarse a los
 directivos, órganos de administración o apoderados
 del permisionario intervenido.
@@ -4374,7 +4371,6 @@ establezcan la ley de la materia y los estatutos del
 permisionario intervenido.
 Las menciones hechas en este artículo a los
 directivos, órganos de administración o apoderados
-
 incluirán a la asamblea de accionistas, al consejo de
 administración o a los órganos equivalentes del
 permisionario de que se trate.
@@ -4386,6 +4382,7 @@ formalidades que la exhibición del oficio en que
 conste dicho nombramiento, sustitución o revocación.
 Artículo 154.- La intervención cesará cuando
 desaparezcan las causas que la motivaron, lo que
+
 deberá ser declarado por la Secretaría, de oficio o a
 petición del interesado.
 Capítulo IX
@@ -4402,7 +4399,6 @@ juzgue conveniente. La requisa se mantendrá
 mientras subsistan las condiciones que la motivaron.
 Artículo 156.- El Gobierno Federal, salvo en el caso
 de guerra o conflicto armado internacionales,
-
 indemnizará a los afectados pagando los daños y
 perjuicios a su valor real. Si no hubiere acuerdo sobre
 el monto de la indemnización, los daños se fijarán por
@@ -4413,6 +4409,7 @@ de las partes cubrirá la mitad de los gastos que se
 originen por el peritaje.
 Capítulo X
 De la Información
+
 Artículo 157.- El principio de máxima publicidad
 regirá en la información relacionada con las
 actividades empresariales, económicas, financieras e
@@ -4432,7 +4429,6 @@ Asimismo, serán públicos los costos, ingresos y
 márgenes de utilidad previstos por las partes en los
 contratos que celebren las empresas productivas del
 Estado, sus empresas productivas subsidiarias y
-
 empresas filiales, en México o en el extranjero,
 desglosados en detalle.
 Artículo 158.- Los integrantes de la industria
@@ -4444,6 +4440,7 @@ que deberá incluir los datos que permitan conocer y
 evaluar el desempeño de aquéllos, así como el de la
 industria eléctrica en general. Para ello, la Secretaría,
 la CRE y el CENACE, en el ámbito de sus respectivas
+
 atribuciones, podrán emitir formatos y requisitos para
 recopilación de datos, en forma física y electrónica,
 que deberán ser utilizados por los integrantes de la
@@ -4461,7 +4458,6 @@ funciones de verificación.
 Los integrantes de la industria eléctrica están
 obligados a entregar la información y documentación
 y a permitir la práctica de las visitas de verificación,
-
 inspección o vigilancia, que les sea requerida u
 ordenada por las autoridades competentes.
 Las autoridades y el CENACE protegerán la
@@ -4473,6 +4469,7 @@ Artículo 159.- La Secretaría, la CRE y el CENACE
 facilitarán la transparencia de la información en el
 Mercado Eléctrico Mayorista, tomando en cuenta el
 interés público, la integridad y funcionamiento
+
 eficiente de dicho Mercado, la competencia
 económica y la protección de los consumidores.
 La CRE establecerá las modalidades y la
@@ -4489,7 +4486,6 @@ Mayorista, y podrán exigir la información necesaria
 para el monitoreo de dicho mercado.
 Las ofertas en el Mercado Eléctrico Mayorista se
 publicarán por el CENACE dentro de los 60 días
-
 naturales siguientes al día de que se trate, sujeto a
 los términos que defina la CRE.
 Artículo 160.- El CENACE pondrá a disposición de
@@ -4518,7 +4514,6 @@ La Secretaría determinará criterios y procedimientos
 de control de usuarios para el acceso a esta
 información, tomando en cuenta el objetivo de
 fomentar la transparencia, competencia y seguridad.
-
 Adicionalmente, el CENACE pondrá a disposición
 del solicitante, dentro de los 7 días naturales
 siguientes al día de su determinación, los modelos y
@@ -4529,6 +4524,7 @@ conexión de un Centro de Carga.
 Artículo 161.- La Secretaría establecerá un sitio de
 internet, de acceso libre al público en general, en el
 cual se publicarán y se mantendrán actualizados:
+
 I.
 
 Los contratos, convenios, anexos y convenios
@@ -4553,7 +4549,6 @@ la industria eléctrica;
 III. Los contratos, convenios, anexos y convenios
 modificatorios que las empresas productivas del
 Estado, sus empresas productivas subsidiarias o
-
 empresas filiales en México o en el extranjero
 celebren para la construcción, adquisición u
 operación de obras de generación, transmisión,
@@ -4573,6 +4568,7 @@ No se considerará como información confidencial o
 reservada aquella contenida en los contratos,
 convenios, anexos y convenios modificatorios
 contemplados en el presente artículo.
+
 TÍTULO QUINTO
 De las Infracciones a la Ley
 Capítulo I
@@ -4589,7 +4585,6 @@ cuando realicen actos u omisiones que tengan como
 objeto o consecuencia directa o indirecta influir en la
 toma de decisión de un servidor público, del personal
 o de los consejeros de las empresas productivas del
-
 Estado en la industria eléctrica para obtener un
 beneficio económico personal directo o indirecto.
 Artículo 163.- Sin perjuicio de las disposiciones
@@ -4603,6 +4598,7 @@ I.
 Ofrezca o entregue dinero o cualquier otro
 beneficio a un servidor público, personal o
 consejero de las empresas productivas del
+
 Estado o a un tercero que de cualquier forma
 intervenga en alguno o algunos de los actos
 dentro del procedimiento de contratación, a
@@ -4612,7 +4608,6 @@ acto relacionado con sus funciones o con las de
 otro servidor público, con el propósito de obtener
 o mantener una ventaja, con independencia de la
 recepción de dinero o un beneficio obtenido;
-
 II. Realice cualquier conducta u omisión que tengan
 por objeto o efecto evadir los requisitos o reglas
 establecidos para obtener cualquier tipo de
@@ -4621,7 +4616,6 @@ III. Intervenga en nombre propio pero en interés de
 otra u otras personas que se encuentren
 impedidas para participar en contrataciones
 públicas, con la finalidad de obtener, total o
-
 parcialmente, los beneficios derivados de la
 contratación;
 IV. Haga uso de su influencia o poder político, reales
@@ -4632,6 +4626,7 @@ obtener para sí o para un tercero un beneficio o
 ventaja, con independencia de la aceptación de
 las personas involucradas o del resultado
 obtenido, o
+
 V. Infracciones a los códigos de ética o de conducta
 institucionales que resulten en beneficios
 indebidos para sí o para los organismos o para
@@ -4647,7 +4642,6 @@ Artículo 165.- Las infracciones a lo dispuesto en
 esta Ley, sus Reglamentos o disposiciones emanadas
 de la misma se sancionarán de conformidad con lo
 siguiente:
-
 I.
 
 Con multa del dos al diez por ciento de los
@@ -4660,6 +4654,7 @@ justificada;
 c) Incumplir las obligaciones en materia de
 separación contable, operativa, funcional o
 legal;
+
 d) Incumplir las restricciones a la transmisión
 y uso indebido de información privilegiada;
 e) Incumplir las obligaciones relacionadas con la
@@ -4679,7 +4674,6 @@ g) Iniciar la construcción de obras de
 infraestructura en la industria eléctrica sin la
 resolución favorable de la Secretaría respecto
 a la evaluación de impacto social;
-
 h)
 
 Violar la regulación tarifaria;
@@ -4692,11 +4686,14 @@ prestación de los servicios de transmisión y
 distribución, de manera generalizada;
 k) Dejar de observar, de manera grave a juicio de
 la CRE, las disposiciones en materia de la
+
 Calidad,
 Confiabilidad,
 Continuidad
-y
 seguridad del Sistema Eléctrico Nacional;
+
+y
+
 l) Realizar actividades en la industria eléctrica sin
 contar
 con
@@ -4715,7 +4712,6 @@ competentes;
 o) Ceder, gravar, transferir o enajenar los
 derechos que se deriven de los permisos en
 contravención a lo dispuesto en esta Ley, y
-
 p) Obtener, directa o indirectamente, un
 permiso de los previstos en la presente Ley en
 contravención a lo dispuesto por la CRE;
@@ -4726,6 +4722,7 @@ información que requiera la autoridad
 competente, la Secretaría de Economía, el
 CENACE, los Participantes del Mercado o el
 público en los términos de esta Ley;
+
 b) Realizar
 labores
 de
@@ -4754,7 +4751,6 @@ Mayorista en los términos del artículo 104 de
 esta Ley o manipular en cualquier forma los
 precios de energía eléctrica o Productos
 Asociados;
-
 e) Negar o impedir el acceso a los verificadores o
 inspectores autorizados para comprobar que
 los medidores y demás instalaciones funcionen
@@ -4771,6 +4767,7 @@ de
 las
 obligaciones o condiciones establecidas en el
 título de permiso;
+
 h) Dejar de observar las Reglas del Mercado y
 las demás disposiciones administrativas de
 carácter general que emita la Secretaría o la
@@ -4787,7 +4784,6 @@ mínimos por:
 a) Suspender u ordenar la suspensión del
 Suministro Eléctrico a un Usuario Final, sin
 causa justificada;
-
 b) Incumplir en casos particulares las
 condiciones generales para la prestación del
 Suministro Eléctrico;
@@ -4800,6 +4796,7 @@ comunidades rurales y zonas urbanas
 marginadas que establece la Secretaría,
 excepto cuando se debe a la insuficiencia de
 los fondos dedicados a tal propósito. Esta
+
 sanción se aplicará por cada Usuario Final
 afectado por el incumplimiento;
 e) No otorgar las facilidades que se requieran a
@@ -4812,7 +4809,6 @@ IV. Con multa de seis a cincuenta salarios mínimos:
 a) Por cada megawatt de incumplimiento en la
 adquisición de potencia, por cada hora que
 subsista dicho incumplimiento;
-
 b) Por cada megawatt-hora de incumplimiento
 en la celebración de Contratos de Cobertura
 Eléctrica, y
@@ -4825,6 +4821,7 @@ anteriores, al que realice cualquier acción u
 omisión tendiente a evadir o incumplir los
 requisitos para registrarse como Usuario
 Calificado;
+
 VI. Con multa hasta de tres veces el importe de la
 energía eléctrica consumida, a partir de la fecha
 en que se cometió la infracción:
@@ -4837,7 +4834,6 @@ eléctrica a través de instalaciones que eviten,
 alteren o impidan el funcionamiento normal de
 los instrumentos de medición, tasación,
 facturación o control del Suministro Eléctrico;
-
 c) A las personas que permitan, fomenten,
 propicien o toleren las actividades referidas en
 el inciso anterior;
@@ -4851,6 +4847,7 @@ fracción serán determinados por la CRE;
 VII. Con multa hasta de dos veces el monto de la
 factura generada por el CENACE cuando un
 Participante del Mercado incumpla lo establecido
+
 en el artículo 104 de esta Ley y se requiera que
 el CENACE efectúe una devolución o un cobro
 adicional, sin perjuicio de la multa a que se
@@ -4864,7 +4861,6 @@ Al infractor reincidente se le aplicará una sanción
 equivalente al doble de la que se le hubiere aplicado
 la primera vez. Al infractor que incurriere en
 contumacia, se le aplicará una sanción equivalente al
-
 triple de la que se le hubiere aplicado la primera vez,
 además de la suspensión temporal o definitiva del
 servicio.
@@ -4880,6 +4876,7 @@ la fracción III, que serán impuestas por la Secretaría
 cuando se trate de disposiciones emitidas por esa
 dependencia o de información o acceso requeridos
 por esa dependencia, así como los incisos f) y g) de la
+
 fracción I, el inciso d) de la fracción III y la fracción
 VIII, que serían impuestas por la Secretaría.
 Las autoridades determinarán sobre la procedencia
@@ -4893,7 +4890,6 @@ incluyendo las acciones tomadas para corregirlo.
 Asimismo, las autoridades podrán determinar que los
 actos realizados en diferentes instalaciones o
 periodos constituyen actos diferentes.
-
 A fin de promover la estabilidad de precios en el
 Mercado Eléctrico Mayorista, las autoridades podrán
 establecer niveles fijos o fórmulas fijas para la
@@ -4909,6 +4905,7 @@ Fondo de Servicio Universal Eléctrico.
 Artículo 167.- Cualquier otra infracción a lo
 dispuesto en la presente Ley o sus Reglamentos que
 no esté expresamente prevista en este Capítulo, será
+
 sancionada con multa de mil a diez mil salarios
 mínimos.
 Artículo 168.- Para efectos del presente Capítulo,
@@ -4921,7 +4918,6 @@ responsabilidad civil o penal que resulte, ni de la
 revocación que proceda del permiso.
 Para la imposición de las sanciones previstas en
 esta Ley, incluyendo la revocación de los permisos,
-
 se estará a lo dispuesto en la Ley Federal de
 Procedimiento Administrativo.
 TRANSITORIOS
@@ -4935,6 +4931,7 @@ Público de Energía Eléctrica, publicada en el Diario
 Oficial de la Federación el 22 de diciembre de 1975 y
 se derogan las demás disposiciones que se opongan
 al presente Decreto.
+
 El Capítulo II de la Ley del Servicio Público de
 Energía Eléctrica, así como todas aquellas
 disposiciones que tengan por objeto la organización,
@@ -4949,7 +4946,6 @@ producción, importación, exportación y usos propios
 continuos otorgados o tramitados al amparo de la Ley
 del Servicio Público de Energía Eléctrica continuarán
 rigiéndose en los términos establecidos en la citada
-
 Ley y las demás disposiciones emanadas de la
 misma, y en lo que no se oponga a lo anterior, por lo
 dispuesto en la Ley de la Industria Eléctrica y sus
@@ -4968,6 +4964,7 @@ mantener la Continuidad del Suministro Eléctrico.
 La Secretaría de Energía coordinará la reestructura
 de la industria eléctrica, definirá los plazos del periodo
 de reestructura y establecerá las políticas y acciones
+
 que se requieran para conducir los procesos para su
 implementación.
 Por única ocasión, la Secretaría de Energía emitirá
@@ -4981,7 +4978,6 @@ Federal de Procedimiento Administrativo.
 La Secretaría de Energía ejercerá la vigilancia del
 Mercado Eléctrico Mayorista en los términos del
 artículo 104 de la Ley de la Industria Eléctrica, con el
-
 apoyo técnico de la Comisión Reguladora de Energía,
 hasta que concluya el primer año de operaciones de
 dicho mercado. Al final de dicho periodo, las
@@ -4996,6 +4992,7 @@ seguridad y sustentabilidad del Sistema Eléctrico
 Nacional durante dicho periodo y para asegurar la
 implementación eficiente y racional de dicha
 reestructura.
+
 La Secretaría de Energía declarará la entrada en
 operación del Mercado Eléctrico Mayorista. Las
 disposiciones de la Ley de la Industria Eléctrica que
@@ -5014,7 +5011,6 @@ Comisión Reguladora de Energía, en el ámbito de sus
 atribuciones, establecerán los términos bajo los
 cuales la Comisión Federal de Electricidad llevará a
 cabo dicha separación, la cual será vertical entre las
-
 distintas líneas de negocio y horizontal entre una
 misma línea de negocio, conforme a lo siguiente:
 I.
@@ -5032,6 +5028,7 @@ se sujete a criterios de competencia y libre
 concurrencia en el mismo, y
 III. La distribución deberá observar una separación
 horizontal por regiones, que podrá ser contable,
+
 operativa y funcional o legal, de manera tal que
 permita fomentar la operación eficiente del sector
 y contar con información para realizar análisis
@@ -5045,7 +5042,6 @@ Administración y Enajenación de Bienes.
 Quinto. A más tardar dentro de los seis meses
 siguientes a la entrada en vigor del presente Decreto,
 el Titular del Ejecutivo Federal emitirá el Decreto por
-
 el que se crea el Centro Nacional de Control de
 Energía (CENACE) como Organismo Público
 Descentralizado de la Administración Pública Federal
@@ -5070,6 +5066,7 @@ técnicas
 y
 características específicas de la infraestructura
 requerida para la interconexión de Centrales
+
 Eléctricas y Centros de Carga y para la planificación
 de la ampliación y modernización de la Red Nacional
 de Transmisión y de los elementos de las Redes
@@ -5085,7 +5082,6 @@ Energía. La transferencia que se realice incluirá los
 recursos del Centro Nacional de Control de Energía
 de la Comisión Federal de Electricidad incluyendo el
 Centro Nacional (CENAL), el Centro Nacional Alterno
-
 (CENALTE), las áreas de control de Mexicali,
 Hermosillo, Gómez Palacio, Monterrey, Guadalajara,
 Distrito Federal, Puebla y Mérida y los centros de
@@ -5101,6 +5097,7 @@ demás funciones que la Ley de la Industria Eléctrica
 asigna al Centro Nacional de Control de Energía.
 Para tales fines, continuará utilizando sus recursos
 humanos, materiales y financieros, centros y áreas de
+
 control, sistemas y subsistemas de dichos centros, los
 cuales no podrán destinarse a otros fines.
 Durante el período en el que se realice la
@@ -5116,7 +5113,6 @@ Sistema Eléctrico Nacional con Continuidad y Calidad,
 asegurando el cumplimiento a lo previsto en el
 artículo Décimo Séptimo Transitorio del presente
 Decreto. La Secretaría de Energía estará facultada
-
 para emitir las disposiciones necesarias para ejecutar
 las medidas referidas en este artículo.
 El Centro Nacional de Control de Energía (CENACE)
@@ -5131,6 +5127,7 @@ trabajadores, durante el período comprendido entre la
 fecha de entrada en vigor del presente Decreto y la
 fecha de emisión del Decreto por el que se crea el
 Centro Nacional de Control de Energía (CENACE), la
+
 remoción del personal de confianza del Centro
 Nacional de Control de Energía de la Comisión
 Federal de Electricidad así como el otorgamiento o
@@ -5146,7 +5143,6 @@ artículo Décimo Noveno Transitorio, los contratos
 celebrados entre la Comisión Federal de Electricidad
 y terceros, vigentes o con pasivos contingentes a la
 separación de la Comisión Federal de Electricidad a
-
 que se refiere el artículo Cuarto Transitorio del
 presente Decreto, se transferirán a las empresas
 productivas del Estado, a las empresas productivas
@@ -5162,6 +5158,7 @@ asignados a la Comisión Federal de Electricidad a la
 entrada en vigor del presente Decreto se transferirán
 en los términos que defina la Secretaría de Energía,
 conservando su vigencia.
+
 Séptimo. La Comisión Reguladora de Energía
 expedirá o autorizará los modelos de contrato que
 resulten de la Ley de la Industria Eléctrica dentro de
@@ -5175,7 +5172,6 @@ los Distribuidores en un periodo que no excederá de
 tres meses contados a partir de la emisión de los
 contratos respectivos o de la recepción de la solicitud
 correspondiente.
-
 Noveno. Lo previsto en las presentes disposiciones
 transitorias no afectará los derechos de los
 trabajadores activos, jubilados y pensionados de la
@@ -5192,6 +5188,7 @@ conservarán su vigencia original, y los titulares de los
 mismos realizarán sus actividades en los términos
 establecidos en la Ley del Servicio Público de Energía
 Eléctrica y las demás disposiciones emanadas de la
+
 misma y, en lo que no se oponga a lo anterior, por lo
 dispuesto en la Ley de la Industria Eléctrica y sus
 transitorios.
@@ -5206,7 +5203,6 @@ permisos serán formalizadas por voluntad de los
 permisionarios. Aquellos permisionarios cuyos
 permisos se modifiquen conforme a lo previsto en
 este transitorio, podrán solicitar y obtener, durante los
-
 cinco años siguientes a la modificación, el
 restablecimiento de las condiciones de dichos
 permisos y de los Contratos de Interconexión
@@ -5223,6 +5219,7 @@ energía eléctrica y Productos Asociados en términos
 de las disposiciones que emita la Comisión
 Reguladora de Energía para reglamentar dichas
 transacciones. A partir de la entrada en operación del
+
 Mercado Eléctrico Mayorista, se podrá importar
 energía eléctrica y Productos Asociados en los
 términos de la Ley de la Industria Eléctrica.
@@ -5236,7 +5233,6 @@ Décimo Primero. La Comisión Federal de
 Electricidad o sus unidades a las que se asignen
 Centrales Eléctricas deberán obtener los permisos de
 generación correspondientes.
-
 Décimo Segundo. Los Contratos de Interconexión
 Legados no serán prorrogados una vez terminada su
 vigencia. Los instrumentos vinculados a los Contratos
@@ -5252,6 +5248,7 @@ Contratos de Interconexión Legados. Bajo los
 términos que se encuentren estipulados en los
 mismos Contratos de Interconexión Legados, las
 modificaciones podrán consistir en:
+
 I.
 
 Alta, baja y modificación de Centros de Carga,
@@ -5265,7 +5262,6 @@ Interconexión Legados se respetarán en los términos
 de la Ley del Servicio Público de Energía Eléctrica
 hasta la conclusión de la vigencia de los contratos
 respectivos, incluyendo los siguientes:
-
 I.
 
 Reconocimiento de potencia autoabastecida;
@@ -5282,6 +5278,7 @@ los permisionarios sólo podrán realizar las
 transacciones permitidas por estos contratos y las
 demás disposiciones aplicables a ellos, por lo que no
 estarán obligados al cumplimiento del artículo 104 de
+
 la Ley de la Industria Eléctrica, y no podrán adquirir o
 enajenar energía eléctrica o Productos Asociados en
 el Mercado Eléctrico Mayorista o a través de los
@@ -5310,6 +5307,7 @@ los Contratos de Interconexión Legados se
 sujetarán a lo dispuesto en los permisos
 respectivos y en los Contratos de Interconexión
 Legados, y
+
 IV. El artículo 48 de la Ley de la Industria Eléctrica
 no será aplicable a los titulares de los Contratos
 de Interconexión Legados.
@@ -5330,7 +5328,6 @@ Energía (CENACE). La Comisión Reguladora de
 Energía actualizará las metodologías de cálculo
 correspondientes a fin de respetar los términos de los
 Contratos de Interconexión Legados.
-
 En los términos de las Reglas del Mercado, podrán
 recibir el Suministro Básico los Centros de Carga que
 cumplan, en su totalidad, con los siguientes
@@ -5345,6 +5342,7 @@ Industria Eléctrica cuenten con un contrato de
 suministro de Servicio Público de Energía
 Eléctrica por la demanda a incluirse en el
 Suministro Básico;
+
 III. No se incluyan en el registro de Usuarios
 Calificados, y
 IV. Las Centrales Eléctricas incluidas en el Contrato
@@ -5361,7 +5359,6 @@ autoabastecimiento,
 cogeneración,
 producción
 independiente, pequeña producción, importación o
-
 exportación realizadas con anterioridad a la entrada
 en vigor de la Ley de la Industria Eléctrica se
 resolverán en los términos de la Ley del Servicio
@@ -5375,6 +5372,7 @@ Los permisionarios que cumplan con lo establecido
 con alguna de las fracciones I o II siguientes y con los
 demás requisitos para celebrar un contrato de
 interconexión podrán ejercer la opción de celebrar un
+
 Contrato de Interconexión Legado con vigencia de
 hasta 20 años:
 I.
@@ -5404,7 +5402,6 @@ Reguladora de Energía su intención de
 continuar con el proyecto, dentro de los 60
 días siguientes a la entrada en vigor de la Ley
 de la Industria Eléctrica, y
-
 c) El interesado compruebe a la Comisión
 Reguladora de Energía, a más tardar el 31 de
 diciembre de 2016, haber pactado el
@@ -5417,6 +5414,7 @@ Comisión Reguladora de Energía podrá
 extender este plazo en proyectos cuyos
 montos de inversión justifiquen un plazo
 mayor, o
+
 II. Cuando se haya asignado capacidad de
 transmisión
 al
@@ -5452,6 +5450,7 @@ sociedades titulares de Contratos de Interconexión
 Legados podrán celebrar contratos de Participante del
 Mercado en modalidad de Generador para
 representar en el Mercado Eléctrico Mayorista a parte
+
 o toda la capacidad de las Centrales Eléctricas
 incluidas en los contratos de interconexión,
 sujetándose a las Reglas del Mercado. Los Centros
@@ -5469,7 +5468,6 @@ II. Incluirse en un contrato de interconexión
 celebrado en los términos de la Ley de la
 Industria Eléctrica, y en un permiso de
 Generación emitido en términos de la misma.
-
 Los Centros de Carga que se incluyan en el registro
 de Usuarios Calificados deberán:
 I.
@@ -5484,6 +5482,7 @@ No se requerirán cobros o estudios de factibilidad
 para excluir capacidad de generación y Centros de
 Carga de los Contratos de Interconexión Legados y
 los permisos asociados e incluir los mismos en
+
 contratos de interconexión y permisos de generación
 en los términos de la Ley de la Industria Eléctrica,
 siempre y cuando dichas modificaciones a esos
@@ -5500,7 +5499,6 @@ parte de su capacidad en el Mercado Eléctrico
 Mayorista.
 Los titulares de Contratos de Interconexión Legados
 o convenios de transmisión que incluyan el servicio de
-
 transmisión a la fecha de la entrada en vigor de la Ley
 de la Industria Eléctrica tendrán la opción de adquirir,
 sin costo, los Derechos Financieros de Transmisión
@@ -5515,6 +5513,7 @@ Carga que representen, siempre y cuando dichos
 Centros de Carga se suministren por el Suministro
 Básico. La vigencia de dichos instrumentos no
 rebasará la vigencia del contrato o convenio
+
 respectivo o la vida útil esperada de las Centrales
 Eléctricas asociadas con ellas, en los términos de las
 Reglas del Mercado. Las Reglas del Mercado podrán
@@ -5531,7 +5530,6 @@ Industria Eléctrica, el Centro Nacional de Control de
 Energía (CENACE) prorrateará el monto factible de
 Derechos Financieros de Transmisión entre los
 Participantes del Mercado correspondientes.
-
 Décimo Quinto. Podrán incluirse en el registro de
 Usuarios Calificados:
 I.
@@ -5544,6 +5542,7 @@ II. Los demás Centros de Carga que reporten una
 demanda igual o mayor a 3 Megawatts, durante
 el primer año de vigencia de la Ley de la
 Industria Eléctrica. Este nivel se reducirá:
+
 a) Al menos a 2 Megawatts al final del primer año
 de vigencia de la Ley de la Industria Eléctrica,
 y
@@ -5561,7 +5560,6 @@ las Centrales Eléctricas contempladas en los mismos
 contratos produzcan energía eléctrica a partir de
 Energías Limpias en cuantía suficiente para cubrir la
 totalidad del consumo de dichos Centros de Carga, en
-
 términos de los criterios aplicables para el
 otorgamiento de Certificados de Energías Limpias. No
 se otorgarán Certificados de Energías Limpias por la
@@ -5573,6 +5571,7 @@ Centrales Eléctricas que se incluyan en nuevos
 contratos de interconexión y contratos de conexión en
 los términos de la Ley de la Industria Eléctrica estarán
 obligados al cumplimiento de los requisitos relativos a
+
 los Certificados de Energías Limpias y podrán recibir
 dichos certificados, en los términos de la Ley de la
 Industria Eléctrica.
@@ -5591,7 +5590,6 @@ de Servicio de Transmisión, incluyendo las relativas a
 la conexión de Centros de Carga, en forma no
 discriminatoria y directamente a través del Centro
 Nacional de Control de Energía.
-
 En un periodo que no excederá de veinte días
 hábiles siguientes a la entrada en vigor de la Ley de la
 Industria Eléctrica, la Comisión Federal de
@@ -5602,6 +5600,7 @@ Centrales Eléctricas y conexión de Centros de Carga.
 Las prelaciones en relación con las solicitudes de
 Servicio de Transmisión válidamente recibidas en los
 términos establecidos en la Ley del Servicio Público
+
 de Energía Eléctrica, así como las determinaciones
 de la Comisión Federal de Electricidad respecto a las
 solicitudes de interconexión y de Servicio de
@@ -5621,7 +5620,6 @@ establecerá los criterios para evaluar las solicitudes
 de interconexión y de Servicio de Transmisión de las
 Centrales Eléctricas que se regirán por Contratos de
 Interconexión Legados, respetando los términos
-
 establecidos en la Ley del Servicio Público de Energía
 Eléctrica y las disposiciones emanadas de la misma.
 Dichos criterios se proporcionarán a la Comisión
@@ -5633,6 +5631,7 @@ determinará los criterios para la definición de
 especificaciones técnicas y características específicas
 de la infraestructura requerida para la interconexión
 de las Centrales Eléctricas y la conexión de Centros
+
 de Carga que se regirán en los términos establecidos
 en la Ley de la Industria Eléctrica. Dichos criterios se
 proporcionarán a la Comisión Reguladora de Energía,
@@ -5651,7 +5650,6 @@ por las disposiciones mencionadas hasta que sean
 sustituidas.
 Décimo Octavo. Sin perjuicio de lo dispuesto en el
 Décimo Noveno Transitorio del presente Decreto, los
-
 contratos de producción independiente de energía
 que amparan Centrales Externas Legadas, los
 convenios de compraventa de excedentes de energía
@@ -5664,6 +5662,7 @@ con lo anterior que se encuentren vigentes a la
 separación de la Comisión Federal de Electricidad a
 que se refiere el Cuarto Transitorio del presente
 Decreto se administrarán por las unidades de la
+
 Comisión Federal de Electricidad que la Secretaría de
 Energía designe.
 Asimismo, la Secretaría designará las unidades de
@@ -5682,7 +5681,6 @@ Servicio Público de Energía Eléctrica se aplicarán
 para la ejecución de los proyectos que, a la entrada
 en vigor del presente Decreto, la Comisión Federal de
 Electricidad haya programado para su inclusión en el
-
 Presupuesto de Egresos de la Federación de 2015.
 La Comisión Federal de Electricidad será responsable
 de completar los procesos de licitación asociados con
@@ -5695,6 +5693,7 @@ modernización de la Red Nacional de Transmisión y
 de las Redes Generales de Distribución a que se
 refiere dicha Ley, hasta en tanto la Secretaría de
 Energía autorice dichos programas.
+
 Durante el periodo comprendido entre la entrada en
 vigor de la Ley de la Industria Eléctrica y el inicio de
 operación del Mercado Eléctrico Mayorista, la
@@ -5721,7 +5720,6 @@ rescindidos debido a la entrada en vigor de la Ley de
 la Industria Eléctrica, la Ley de la Comisión Federal
 de Electricidad o las disposiciones que emanen de las
 mismas.
-
 Las
 Centrales
 Externas
@@ -5737,6 +5735,7 @@ los términos de los contratos respectivos, hasta por
 las capacidades contratadas. Los titulares de dichas
 Centrales Eléctricas serán titulares de la energía
 eléctrica y Productos Asociados que produzcan en
+
 exceso de los montos vendidos al amparo de los
 contratos en mención, y podrán designar a cualquier
 Generador para su representación en el Mercado
@@ -5755,7 +5754,6 @@ Legados para el Suministro Básico bajo la figura de
 Contratos de Cobertura Eléctrica, con precios
 basados en los costos y contratos respectivos, que
 abarcan la energía eléctrica y Productos Asociados
-
 de cada Central Eléctrica Legada y cada Central
 Externa Legada.
 Con el fin de minimizar los costos del Suministro
@@ -5771,6 +5769,7 @@ ejecutarse
 de
 manera
 coordinada o independiente de las subastas
+
 señaladas en el artículo 53 de la Ley de la Industria
 Eléctrica. Los Suministradores de Servicios Básicos
 celebrarán los Contratos Legados para el Suministro
@@ -5787,7 +5786,6 @@ Suministradores de Servicios Básicos de adquirir la
 energía eléctrica y Productos Asociados equivalentes,
 sin perjuicio de las responsabilidades que
 correspondan.
-
 Vigésimo. Las Especificaciones del Suministrador
 de la Comisión Federal de Electricidad preservarán su
 vigencia, en tanto la Comisión Reguladora de Energía
@@ -5799,6 +5797,7 @@ certificación, laboratorios de pruebas, unidades de
 verificación y unidades de inspección de sujetarse a la
 estricta separación legal a que se refiere el artículo 8
 de la Ley de la Industria Eléctrica, por un periodo que
+
 no rebase doce meses contado a partir de la entrada
 en vigor de la Ley de la Industria Eléctrica.
 Vigésimo Primero. En tanto se expiden las
@@ -5816,7 +5815,6 @@ sujetará a la regulación relativa al control y reducción
 de emisiones contaminantes que establezcan las
 autoridades en la materia. También estará obligada a
 participar, junto con el resto de las industrias y
-
 actividades emisoras, en aquellos mecanismos de
 mercado
 que
@@ -5832,6 +5830,7 @@ ministerio de ley, no podrán prever cláusula o acuerdo
 de voluntad alguno, que otorgue exclusividad o
 preferencia ilícitas en beneficio de organización
 empresarial, social o sindical alguna.
+
 ARTÍCULOS SEGUNDO Y TERCERO.- ……….
 TRANSITORIOS
 PRIMERO.- El presente Decreto entrará en vigor el
@@ -5845,7 +5844,6 @@ González Morfín, Presidente.- Sen. Raúl Cervantes
 Andrade, Presidente.- Dip. Javier Orozco Gómez,
 Secretario.- Sen. Lilia Guadalupe Merodio Reza,
 Secretaria.- Rúbricas."
-
 En cumplimiento de lo dispuesto por la fracción I del
 Artículo 89 de la Constitución Política de los Estados
 Unidos Mexicanos, y para su debida publicación y
