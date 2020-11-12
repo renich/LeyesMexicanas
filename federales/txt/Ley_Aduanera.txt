@@ -7,7 +7,7 @@ LEY ADUANERA
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 15 de diciembre de 1995
 TEXTO VIGENTE
-Última reforma publicada DOF 01-07-2020
+Última reforma publicada DOF 06-11-2020
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -1063,7 +1063,11 @@ las mercancías en el mes inmediato anterior,
 sin deducción alguna. El pago deberá
 efectuarse mensualmente dentro de los
 primeros quince días del mes siguiente a aquél
-al que corresponda el pago.
+al que corresponda el pago. Dicho
+aprovechamiento será destinado al Servicio de
+Administración Tributaria para mejorar la
+infraestructura aduanera del país.
+Párrafo reformado DOF 06-11-2020
 De los aprovechamientos determinados
 mensualmente, podrán disminuirse los gastos
 efectuados por las obras que se realicen en las
@@ -1073,11 +1077,7 @@ programas que autorice el Servicio de
 Administración Tributaria, sin que pueda
 disminuirse el impuesto al valor agregado
 trasladado por la realización de dichas obras.
-Así mismo, podrá disminuir de dicho
-aprovechamiento las cantidades que aporten al
-fideicomiso constituido para el mejoramiento de
-los medios de informática y de control de las
-autoridades aduaneras.
+Párrafo reformado DOF 06-11-2020
 
 Cuando en los lugares habilitados para la
 prestación de los servicios objeto de la
@@ -1237,10 +1237,10 @@ corresponda el pago, un aprovechamiento de $240.00
 por cada pedimento que prevaliden y que
 posteriormente sea presentado ante la autoridad
 aduanera para su despacho. Dicho aprovechamiento
-será aportado a un fideicomiso público para el
-programa de mejoramiento de los medios de
-informática y de control de las autoridades aduaneras.
-Cantidad del párrafo actualizada DOF 27-12-2011, 29-122014, 22-12-2017
+será destinado al Servicio de Administración
+Tributaria para mejorar la infraestructura aduanera del
+país.
+Cantidad del párrafo actualizada DOF 27-12-2011, 29-122014, 22-12-2017. Reformado DOF 06-11-2020
 Quienes introduzcan o extraigan del territorio
 nacional mercancías deberán, previo a la transmisión
 del pedimento en el sistema electrónico aduanero, al
@@ -1307,11 +1307,11 @@ temporal de cada remolque, semiremolque y
 portacontenedor, misma que amparará su legal
 estancia por el plazo que establece el artículo 106,
 fracción I de esta Ley. El aprovechamiento será
-aportado a un fideicomiso público para el programa
-de mejoramiento de los medios de informática y de
-control de las autoridades aduaneras.
+destinado al Servicio de Administración Tributaria
+para mejorar la infraestructura aduanera del país.
 Párrafo reformado DOF 30-12-2002. Cantidad actualizada
-DOF 27-12-2011, 29-12-2014, 22-12-2017
+DOF 27-12-2011, 29-12-2014, 22-12-2017. Reformado
+DOF 06-11-2020
 Artículo adicionado DOF 01-01-2002
 ARTICULO 16-C. El Servicio de Administración
 Tributaria podrá otorgar autorización a personas
@@ -1448,10 +1448,10 @@ El Servicio de Administración Tributaria podrá
 expedir un gafete electrónico de identificación a través
 del sistema electrónico aduanero, por el cual los
 interesados pagarán un aprovechamiento de $200.00,
-mismo que será destinado al fideicomiso público para
-el programa de mejoramiento de los medios de
-informática y de control de las autoridades aduaneras.
-Párrafo adicionado DOF 25-06-2018
+mismo que será destinado al Servicio de
+Administración Tributaria para el mejoramiento de la
+infraestructura aduanera del país.
+Párrafo adicionado DOF 25-06-2018. Reformado DOF 0611-2020
 ARTICULO 18. Las veinticuatro horas del día y
 todos los días del año serán hábiles para el ejercicio
 de las facultades de comprobación de las autoridades
@@ -1477,8 +1477,8 @@ representantes en territorio nacional, los capitanes,
 pilotos, conductores y propietarios de los medios de
 transporte de mercancías materia de entrada o salida
 del territorio nacional, están obligados a:
-Párrafo reformado DOF 09-12-2013
 
+Párrafo reformado DOF 09-12-2013
 I.
 
 Poner a disposición de las autoridades
@@ -1570,9 +1570,9 @@ Servicio de Administración Tributaria un representante
 en territorio nacional para efecto de las
 responsabilidades que le asigna esta Ley.
 Párrafo adicionado DOF 09-12-2013
+
 Reforma DOF 09-12-2013: Derogó del artículo el entonces
 párrafo tercero
-
 ARTICULO 21. Las mercancías que ingresen al
 territorio nacional, o que se pretendan extraer del
 mismo por la vía postal, quedarán confiadas al
@@ -5340,13 +5340,13 @@ se refiere el artículo 98 de esta Ley. Es decir si
 PCO > ME, entonces el monto total por concepto
 de contribuciones y cuotas compensatorias a
 pagar por el importador será igual a.
+
  PCO  ME 
 
   CDV  CE 
 100
 
 
-
 El pago que se realice conforme a esta fracción
 se considerará efectuado por concepto de los
 impuestos y derechos al comercio exterior, al
