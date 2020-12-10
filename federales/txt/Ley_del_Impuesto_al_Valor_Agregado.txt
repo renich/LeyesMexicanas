@@ -7,7 +7,7 @@ LEY DEL IMPUESTO AL VALOR AGREGADO
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 29 de diciembre de 1978
 TEXTO VIGENTE
-Última reforma publicada DOF 09-12-2019
+Última reforma publicada DOF 08-12-2020
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.-Presidencia de la
@@ -2082,13 +2082,15 @@ No se consideran espectáculos públicos los
 prestados en restaurantes, bares, cabarets,
 salones de fiesta o de baile y centros nocturnos.
 Fracción reformada DOF 21-11-1991
-XIV.- Los servicios profesionales de medicina,
+XIV. Los servicios profesionales de medicina,
 cuando su prestación requiera título de médico
 conforme a las leyes, siempre que sean prestados
 por personas físicas, ya sea individualmente o por
-conducto de sociedades civiles.
+conducto de sociedades civiles o instituciones de
 
-Fracción reformada DOF 31-12-1982
+asistencia o beneficencia privada autorizadas por
+las leyes de la materia.
+Fracción reformada DOF 31-12-1982, 08-12-2020
 XV.- Los servicios profesionales de medicina,
 hospitalarios, de radiología, de laboratorios y
 estudios clínicos, que presten los organismos
@@ -2141,8 +2143,8 @@ Tratándose de transportación aérea internacional, se
 considera que únicamente se presta el 25% del
 servicio en territorio nacional. La transportación aérea
 a las poblaciones mexicanas ubicadas en la franja
-fronteriza de 20 kilómetros paralela a las líneas
 
+fronteriza de 20 kilómetros paralela a las líneas
 divisorias internacionales del norte y sur del país,
 gozará del mismo tratamiento.
 Párrafo reformado DOF 30-12-1996
@@ -2169,9 +2171,9 @@ esta Ley, en cuyo caso se deberá pagar el impuesto
 conforme éstos se devenguen.
 Tratándose de la prestación de servicios en forma
 gratuita por los que se deba pagar el impuesto, éste
+
 se causará en el momento en que se proporcione el
 servicio.
-
 Párrafo adicionado DOF 11-12-2013. Reformado DOF 0912-2019
 Artículo reformado DOF 31-12-1979, 31-12-1981, 31-121998, 30-12-2002
 Artículo 18.- Para calcular el impuesto tratándose
@@ -2196,9 +2198,9 @@ Artículo reformado DOF 31-12-1979, 30-12-1980
 Artículo 18-A. Se considerará como valor para los
 efectos del cálculo del impuesto, el valor real de los
 intereses devengados cuando éstos deriven de
+
 créditos otorgados por las instituciones del sistema
 financiero a que se refiere el artículo 7o. de la Ley del
-
 Impuesto sobre la Renta; en créditos otorgados a
 través de contratos de apertura de crédito o cuenta
 corriente en los que el acreditado o cuentacorrentista
@@ -2224,9 +2226,9 @@ conformidad con lo siguiente:
 a) La tasa real de interés se calculará restando, a
 la tasa de interés que corresponda al periodo
 de que se trate, la inflación del mismo periodo.
+
 La inflación se calculará dividiendo el valor de
 la unidad de inversión determinado por el
-
 Banco de México para el último día del
 periodo, entre el valor de la unidad de
 inversión para el día inmediato anterior al
@@ -2285,8 +2287,8 @@ de México el valor de la unidad de inversión para el
 último día del periodo de causación de los intereses,
 los contribuyentes considerarán el valor de la unidad
 de inversión determinado por el Banco de México
-para los días correspondientes al periodo inmediato
 
+para los días correspondientes al periodo inmediato
 anterior e igual en duración al de causación de los
 intereses.
 Cuando no se reciba el pago de los intereses
@@ -2352,10 +2354,8 @@ electrónicos.
 II. Los de intermediación entre terceros que sean
 oferentes de bienes o servicios y los
 demandantes de los mismos.
-No se aplicará lo dispuesto en esta fracción,
-cuando se trate de servicios de intermediación
-que tengan por objeto la enajenación de bienes
-muebles usados.
+Reforma DOF 08-12-2020: Derogó de la fracción el
+entonces párrafo segundo
 III. Clubes en línea y páginas de citas.
 IV.La enseñanza a distancia o de test o ejercicios.
 Artículo adicionado DOF 09-12-2019
@@ -2368,10 +2368,10 @@ nacional.
 II. Que el receptor del servicio realice el pago al
 prestador del servicio mediante un intermediario
 ubicado en territorio nacional.
-
 III. Que la dirección IP que utilicen los dispositivos
 electrónicos del receptor del servicio corresponda
 al rango de direcciones asignadas a México.
+
 IV.Que el receptor haya manifestado al prestador del
 servicio un número de teléfono, cuyo código de
 país corresponda a México.
@@ -2402,10 +2402,10 @@ II. Ofertar y cobrar, conjuntamente con el precio de
 sus servicios digitales, el impuesto al valor
 agregado correspondiente en forma expresa y por
 separado.
-
 III. Proporcionar al Servicio de Administración
 Tributaria la información sobre el número de
 servicios u operaciones realizadas en cada mes
+
 de calendario con los receptores ubicados en
 territorio nacional que reciban sus servicios,
 clasificadas por tipo de servicios u operaciones y
@@ -2432,10 +2432,10 @@ comprobantes correspondientes al pago de las
 contraprestaciones con el impuesto trasladado en
 forma expresa y por separado, cuando lo solicite
 el receptor de los servicios, mismos que deberán
-
 reunir los requisitos que permitan identificar a los
 prestadores de los servicios y a los receptores de
 los mismos.
+
 VI.Designar ante el Servicio de Administración
 Tributaria cuando se lleve a cabo el registro a que
 se refiere la fracción I de este artículo un
@@ -2452,14 +2452,24 @@ IV, V, VI y VII de este artículo, deberán cumplirse de
 conformidad con las reglas de carácter general que
 para tal efecto emita el Servicio de Administración
 Tributaria.
+No estarán obligados a cumplir las obligaciones
+previstas en este artículo, los residentes en el
+extranjero sin establecimiento en México que presten
+los servicios digitales previstos en el artículo 18-B,
+fracciones I, III y IV, a través de las personas a que se
+refiere la fracción II de dicho artículo, siempre que
+estas últimas les efectúen la retención del impuesto al
+valor agregado en los términos del artículo 18-J,
+fracción II, inciso a), segundo párrafo, de esta Ley.
+Párrafo adicionado DOF 08-12-2020
 Artículo adicionado DOF 09-12-2019
+
 Artículo 18-E.- El cumplimiento de las obligaciones
 a que se refiere el artículo 18-D de esta Ley, no dará
 lugar a que se considere que el residente en el
 extranjero constituye un establecimiento permanente
 en México.
 Artículo adicionado DOF 09-12-2019
-
 Artículo 18-F.- Los receptores de los servicios a que
 se refiere el presente Capítulo podrán acreditar el
 impuesto que les sea trasladado en forma expresa y
@@ -2483,6 +2493,7 @@ Artículo adicionado DOF 09-12-2019
 Artículo 18-H.- Cuando los servicios digitales a que
 se refiere el artículo 18-B de esta Ley se ofrezcan de
 manera conjunta con otros servicios digitales no
+
 contemplados en dicho artículo, el impuesto al valor
 agregado se calculará aplicando la tasa del 16%
 únicamente a los servicios previstos en el artículo
@@ -2490,13 +2501,193 @@ citado, siempre que en el comprobante respectivo se
 haga la separación de dichos servicios y que las
 contraprestaciones correspondientes a cada servicio
 correspondan a los precios que se hubieran cobrado
-
 de no haberse proporcionado los servicios en forma
 conjunta. Cuando no se haga la separación
 mencionada, la contraprestación cobrada se
 entenderá que corresponde en un 70% al monto de
 los servicios a que se refiere el artículo 18-B citado.
 Artículo adicionado DOF 09-12-2019
+Artículo 18-H BIS. El incumplimiento de las
+obligaciones a que se refieren las fracciones I, VI y VII
+del artículo 18-D de esta Ley por los residentes en el
+extranjero sin establecimiento en México que
+proporcionen los servicios digitales previstos en el
+artículo 18-B del presente ordenamiento a receptores
+ubicados en territorio nacional, dará lugar a que se
+bloquee temporalmente el acceso al servicio digital
+del prestador de los servicios digitales que incumplió
+con las obligaciones mencionadas, bloqueo que se
+realizará por conducto de los concesionarios de una
+red pública de telecomunicaciones en México, hasta
+el momento en que dicho residente cumpla con las
+obligaciones omitidas.
+La sanción a que se refiere el párrafo anterior,
+también se aplicará cuando el residente en el
+extranjero omita realizar el pago del impuesto o el
+
+entero de las retenciones que, en su caso, deba
+realizar, así como la presentación de las
+declaraciones de pago e informativas a que se
+refieren los artículos 18-D, fracción IV, y 18-J,
+fracciones II, inciso b) y III de esta Ley durante tres
+meses consecutivos o durante dos periodos
+trimestrales
+consecutivos,
+tratándose
+de
+la
+declaración informativa a que se refiere la fracción III
+del artículo 18-D citado.
+Adicionalmente, cuando se presenten los supuestos
+a que se refiere el párrafo anterior, se cancelará la
+inscripción en el Registro Federal de Contribuyentes a
+que se refiere el artículo 18-D, fracción I, de esta Ley
+y se dará de baja de la lista referida en dicha
+disposición, tanto en la página de Internet del Servicio
+de Administración Tributaria como en el Diario Oficial
+de la Federación.
+Las sanciones a que se refiere el presente artículo
+son independientes de las correspondientes a la
+omisión en el pago del impuesto, en el entero de las
+retenciones y en la presentación de las declaraciones
+de pago e informativas, conforme a lo establecido en
+el artículo 18-G de esta Ley.
+Artículo adicionado DOF 08-12-2020
+Artículo 18-H TER. Para los efectos de lo dispuesto
+en el artículo 18-H BIS de esta Ley, en forma previa al
+bloqueo mencionado en el artículo citado, el Servicio
+de Administración Tributaria dará a conocer al
+
+contribuyente la resolución en que determine el
+incumplimiento de las obligaciones de que se trate.
+Tratándose del incumplimiento de las obligaciones a
+que se refieren las fracciones I, VI y VII del artículo
+18-D, la resolución se dará a conocer mediante
+publicación en el Diario Oficial de la Federación y,
+tratándose de las establecidas en los artículos 18-D,
+fracciones III y IV, y 18-J, fracciones II, inciso b) y III
+de esta Ley, la resolución se notificará al
+representante legal del residente en el extranjero sin
+establecimiento en México, con el objeto de que los
+contribuyentes puedan manifestar ante la autoridad
+fiscal lo que a su derecho convenga y aportar la
+documentación e información que consideren
+pertinente para desvirtuar los hechos que dieron lugar
+a la determinación mencionada, en un plazo de
+quince días contados a partir del día siguiente a la
+publicación o notificación correspondiente, según se
+trate.
+Los contribuyentes podrán solicitar, a través de los
+medios que para tal efecto autorice el Servicio de
+Administración Tributaria mediante reglas de carácter
+general, por única ocasión, una prórroga de cinco
+días al plazo previsto en el párrafo anterior, para
+aportar la documentación e información respectiva,
+siempre y cuando la solicitud de prórroga se efectúe
+dentro de dicho plazo. La prórroga solicitada en estos
+términos se entenderá concedida sin necesidad de
+que exista pronunciamiento por parte de la autoridad
+y se comenzará a computar a partir del día siguiente
+
+al del vencimiento del plazo previsto en el párrafo
+anterior.
+En la manifestación a que se refiere el segundo
+párrafo de este artículo, el contribuyente deberá
+señalar un domicilio para recibir notificaciones dentro
+del territorio nacional o un correo electrónico para el
+mismo fin.
+Transcurrido el plazo a que se refiere el segundo
+párrafo del presente artículo y, en su caso, el plazo
+previsto en el tercer párrafo del mismo, la autoridad,
+en un plazo que no excederá de quince días, valorará
+la documentación, información o manifestaciones que
+se hayan hecho valer y notificará su resolución a los
+contribuyentes en el domicilio o correo electrónico que
+hayan señalado al presentar su escrito de
+aclaraciones. En su defecto, la notificación se
+realizará mediante publicación en el Diario Oficial de
+la Federación.
+Dentro de los primeros cinco días del plazo a que se
+refiere el párrafo anterior, la autoridad podrá requerir
+documentación
+e
+información
+adicional
+al
+contribuyente, misma que deberá proporcionarse
+dentro del plazo de cinco días posteriores al en que
+surta efectos la notificación del requerimiento. En este
+caso, el referido plazo de quince días se suspenderá
+a partir de que surta efectos la notificación del
+requerimiento y se reanudará el día siguiente al en
+que venza el referido plazo de cinco días.
+
+Una vez trascurrido el plazo a que se refiere el
+párrafo anterior, sin que el contribuyente haya
+acreditado el cumplimiento de las obligaciones
+fiscales previstas en los artículos 18-D, fracciones I,
+III, IV, VI y VII, y 18-J, fracciones II, inciso b) y III, de
+esta Ley, según se trate, se ordenará el bloqueo
+temporal del acceso al servicio digital, el cual se
+levantará una vez que se cumpla con las obligaciones
+omitidas.
+Artículo adicionado DOF 08-12-2020
+Artículo 18-H QUÁTER. Para los efectos de lo
+dispuesto en los artículos 18-H BIS y 18-H TER de
+esta Ley, el bloqueo temporal deberá ser ordenado a
+los concesionarios de una red pública de
+telecomunicaciones en México, mediante resolución
+debidamente fundada y motivada, emitida por
+funcionario público con cargo de administrador
+general de conformidad con lo previsto en el
+Reglamento Interior del Servicio de Administración
+Tributaria. Con independencia de lo anterior, dicho
+órgano desconcentrado podrá solicitar el auxilio de
+cualquier autoridad competente para llevar a cabo el
+bloqueo temporal a que se refiere el presente artículo.
+El concesionario de la red pública de
+telecomunicaciones en México de que se trate,
+contará con un plazo de cinco días a partir del día
+siguiente a aquél en que haya surtido efectos la
+notificación de la resolución en la que se ordene el
+bloqueo temporal del acceso al servicio digital, para
+realizar el bloqueo temporal correspondiente.
+
+El concesionario de la red pública de
+telecomunicaciones en México de que se trate,
+deberá informar del cumplimiento de dicho bloqueo
+temporal a la autoridad fiscal a más tardar al quinto
+día siguiente a aquél en que lo haya realizado.
+Artículo adicionado DOF 08-12-2020
+Artículo 18-H QUINTUS. Para los efectos de lo
+dispuesto en los artículos 18-H BIS, 18-H TER y 18-H
+QUÁTER, el Servicio de Administración Tributaria
+dará a conocer en su página de Internet y en el Diario
+Oficial de la Federación el nombre del proveedor y la
+fecha a partir de la cual se deberá realizar el bloqueo
+temporal del acceso al servicio digital, a efecto de que
+los receptores de los servicios en territorio nacional se
+abstengan de contratar servicios futuros.
+Cuando el contribuyente cumpla con las
+obligaciones que dieron lugar al bloqueo temporal del
+acceso al servicio digital, el Servicio de
+Administración Tributaria, mediante resolución, emitirá
+la orden de desbloqueo al concesionario de una red
+pública de telecomunicaciones en México que
+corresponda, para que en un plazo máximo de cinco
+días se cumplimente. Dicha orden deberá ser emitida
+por el administrador general que haya ordenado el
+bloqueo
+temporal.
+Asimismo,
+dicho
+órgano
+desconcentrado deberá reincorporar al contribuyente
+en el Registro Federal de Contribuyentes e incluirlo en
+la lista a que se refiere el artículo 18-D, fracción I, de
+esta Ley.
+
+Artículo adicionado DOF 08-12-2020
 Artículo 18-I.- Cuando los residentes en el
 extranjero sin establecimiento en México no se
 encuentren en la lista a que se refiere el artículo 18-D,
@@ -2519,15 +2710,28 @@ en actividades realizadas por terceros, afectas al
 pago del impuesto establecido en esta Ley, además
 de las obligaciones establecidas en la Sección I del
 presente Capítulo, estarán obligados a lo siguiente:
-
 I. Publicar en su página de Internet, aplicación,
 plataforma o cualquier otro medio similar, en
 forma expresa y por separado, el impuesto al
 valor agregado correspondiente al precio en que
+
 se ofertan los bienes o servicios por los
 enajenantes, prestadores de servicios u
 otorgantes del uso o goce temporal de bienes, en
 los que operan como intermediarios.
+Las personas a las que se refiere este artículo
+podrán optar por publicar en su página de
+Internet, aplicación, plataforma o cualquier otro
+medio similar, el precio en que se oferten los
+bienes o servicios por los enajenantes,
+prestadores de servicios u otorgantes del uso o
+goce temporal de bienes, en los que operan como
+intermediarios, sin manifestar el impuesto al valor
+agregado en forma expresa y por separado,
+siempre y cuando dichos precios incluyan el
+impuesto al valor agregado y los publiquen con la
+leyenda “IVA incluido”.
+Párrafo adicionado DOF 08-12-2020
 II. Cuando cobren el precio y el impuesto al valor
 agregado correspondiente a las operaciones de
 intermediación por cuenta del enajenante de
@@ -2540,6 +2744,7 @@ al valor agregado cobrado. Tratándose de las
 personas a que se refiere este inciso, que no
 proporcionen a las personas mencionadas en el
 primer párrafo de este artículo la clave en el
+
 registro federal de contribuyentes, prevista en
 la fracción III, inciso b) del mismo, la retención
 se deberá efectuar al 100%. El retenedor
@@ -2547,7 +2752,24 @@ sustituirá al enajenante, prestador del servicio u
 otorgante del uso o goce temporal de bienes en
 la obligación de pago del impuesto, en el monto
 correspondiente a la retención.
-
+Tratándose de residentes en el extranjero sin
+establecimiento en México, ya sea personas
+físicas o morales, que presten los servicios
+digitales previstos en el artículo 18-B,
+fracciones I, III y IV de esta Ley, deberán
+retener el 100% del impuesto al valor agregado
+cobrado. En este caso, además, cuando el
+receptor lo solicite, deberán emitir y enviar vía
+electrónica a
+los receptores
+de
+los
+mencionados servicios digitales en territorio
+nacional los comprobantes a que se refiere la
+fracción V del artículo 18-D de esta Ley, ya sea
+a nombre de la persona a quien le hagan la
+retención o a nombre propio.
+Párrafo adicionado DOF 08-12-2020
 b) Enterar la retención mediante declaración
 electrónica a más tardar el día 17 del mes
 siguiente a aquél en el que se hubiese
@@ -2555,6 +2777,7 @@ efectuado.
 c) Expedir a cada persona física a la que le
 hubiera efectuado la retención un comprobante
 fiscal digital por Internet de Retenciones e
+
 información de pagos, a más tardar dentro de
 los cinco días siguientes al mes en el que se
 efectuó la retención.
@@ -2580,11 +2803,11 @@ operaciones hayan actuado como intermediarios,
 aun cuando no hayan efectuado el cobro de la
 contraprestación y el impuesto al valor agregado
 correspondiente:
-
 a) Nombre completo o razón social.
 b) Clave en el registro federal de contribuyentes.
 c) Clave única de registro de población.
 d) Domicilio fiscal.
+
 e) Institución financiera y clave interbancaria
 estandarizada en la cual se reciben los
 depósitos de los pagos.
@@ -2607,12 +2830,21 @@ Para los efectos de lo dispuesto en los incisos a),
 b), c), d), e) y g) de esta fracción, las personas
 enajenantes de bienes, prestadores de servicios
 u otorgantes del uso o goce temporal de bienes,
-
 deberán proporcionar a los residentes en el
 extranjero sin establecimiento en México que les
 presten los servicios digitales de intermediación,
 la información a que se refieren los citados
 incisos.
+No se tendrá obligación de proporcionar la
+información a que se refiere esta fracción,
+
+tratándose de residentes en el extranjero sin
+establecimiento en México que presten los
+servicios digitales previstos en el artículo 18-B,
+fracciones I, III y IV de esta Ley, a las que se les
+efectúe la retención en los términos de la fracción
+II, inciso a), segundo párrafo, de este artículo.
+Párrafo adicionado DOF 08-12-2020
 Artículo adicionado DOF 09-12-2019
 Artículo 18-K.- Las personas físicas y morales que
 realicen actividades sujetas al pago del impuesto al
@@ -2635,9 +2867,9 @@ que se refiere el artículo 18-M del presente
 ordenamiento, siempre que no reciban ingresos por
 otros conceptos, con excepción de los ingresos a que
 se refieren los Capítulos I y VI del Título IV de la Ley
+
 del Impuesto sobre la Renta, en cuyo caso sí podrán
 ejercer la opción mencionada.
-
 Los contribuyentes que inicien actividades podrán
 aplicar lo dispuesto en el párrafo anterior cuando
 estimen que sus ingresos del ejercicio no excederán
@@ -2665,14 +2897,11 @@ celebradas con la intermediación de las personas a
 que se refiere el artículo 18-J de esta Ley, el cobro de
 algunas actividades se haya realizado por dichas
 personas y otras directamente por el contribuyente,
+
 siempre que en este último caso el contribuyente
 presente una declaración mensual por los cobros de
-
-las contraprestaciones realizados
+las contraprestaciones realizados directamente,
 aplicando una tasa del 8%.
-
-directamente,
-
 Quienes ejerzan la opción mencionada estarán a lo
 siguiente:
 I. Deberán inscribirse en el Registro Federal de
@@ -2695,9 +2924,9 @@ reglas de carácter general que para tal efecto
 emita dicho órgano, dentro de los treinta días
 siguientes a aquél en el que el contribuyente
 perciba el primer cobro por las actividades
+
 celebradas por conducto de las personas a que
 se refiere el artículo 18-J de esta Ley.
-
 VI.Quedarán relevados de presentar declaraciones
 informativas.
 Una vez ejercida la opción a que se refiere este
