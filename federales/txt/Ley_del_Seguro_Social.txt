@@ -7,7 +7,7 @@ LEY DEL SEGURO SOCIAL
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 21 de diciembre de 1995
 TEXTO VIGENTE
-Última reforma publicada DOF 21-10-2020
+Última reforma publicada DOF 16-12-2020
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -3176,22 +3176,20 @@ avanzada y vejez recibirán, incluidas en la pensión
 que adquieran, las asignaciones familiares y las
 ayudas asistenciales que se establecen en esta
 sección, las cuales se financiarán con la cuota social
-que aporte el Estado en los términos de la fracción IV
-del artículo 168 de esta Ley para los trabajadores que
-reciban ésta, y con las aportaciones patronales y del
-Estado a la Subcuenta de Retiro, Cesantía en Edad
-Avanzada y Vejez para los trabajadores que no
-reciban cuota social en sus cuentas individuales.
-Párrafo reformado DOF 26-05-2009
+que, en su caso, aporte el Estado en los términos de
+la fracción IV del artículo 168 de esta Ley y con las
+aportaciones patronales a la Subcuenta de Retiro,
+Cesantía en Edad Avanzada y Vejez.
+Párrafo reformado DOF 26-05-2009, 16-12-2020
 Artículo 140. El Instituto concederá ayuda
 asistencial al pensionado por invalidez, con excepción
 de los casos comprendidos en las fracciones IV y V
 del artículo 138, así como a los viudos o viudas
 pensionados, cuando su estado físico requiera
 ineludiblemente, que lo asista otra persona de manera
-
 permanente o continua. Con base en el dictamen
 médico que al efecto se formule, la ayuda asistencial
+
 consistirá en el aumento hasta del veinte por ciento
 de la pensión de invalidez o viudez que esté
 disfrutando el pensionado.
@@ -3219,9 +3217,9 @@ trabajador asegurado, tendrá una vigencia de uno y
 hasta veintiocho días. Podrán expedirse tantas
 licencias como sean necesarias durante un periodo
 máximo de tres años sin que se excedan trescientos
-
 sesenta y cuatro días de licencia, mismos que no
 necesariamente deberán ser continuos.
+
 Los padres o madres trabajadores asegurados
 ubicados en el supuesto establecido en los párrafos
 que anteceden y que hayan cubierto por lo menos
@@ -3246,7 +3244,6 @@ I. Cuando el menor no requiera de hospitalización o
 de reposo médico en los periodos críticos del
 tratamiento;
 II. Por ocurrir el fallecimiento del menor;
-
 III.
 
 Cuando el menor cumpla dieciséis años;
@@ -3269,14 +3266,21 @@ al Consumidor, más las asignaciones familiares y
 ayudas asistenciales.
 Párrafo reformado DOF 20-12-2001
 En el caso de que la cuantía de la pensión sea
-inferior a la pensión garantizada, el Estado aportará la
+inferior al promedio de las pensiones garantizadas,
+que corresponda a un salario mínimo y sesenta años
+de edad, de acuerdo con la tabla establecida en el
+artículo 170 de esta Ley, el Estado aportará la
 diferencia a fin de que el trabajador pueda adquirir
 una pensión vitalicia.
+Párrafo reformado DOF 16-12-2020
 En ningún caso la pensión de invalidez, incluyendo
 las asignaciones familiares y ayudas asistenciales,
-podrá ser inferior a la pensión garantizada establecida
-en el artículo 170 de esta Ley.
+podrá ser inferior al promedio de las pensiones
 
+garantizadas, que corresponda a un salario mínimo y
+sesenta años de edad, de acuerdo con la tabla
+establecida en el artículo 170 de esta Ley.
+Párrafo reformado DOF 16-12-2020
 Artículo 142. El monto determinado conforme al
 artículo anterior, servirá de base para calcular las
 pensiones que se deriven de la muerte tanto del
@@ -3300,11 +3304,11 @@ proporcionalmente cada una de las pensiones.
 Cuando se extinga el derecho de alguno de los
 pensionados se hará una nueva distribución de las
 pensiones que queden vigentes, entre los restantes,
+
 sin que se rebasen las cuotas parciales ni el monto
 total de dichas pensiones.
 Artículo 145. Las pensiones por invalidez y vida
 otorgadas serán incrementadas anualmente en el
-
 mes de febrero conforme al Indice Nacional de
 Precios al Consumidor.
 SECCION SEXTA
@@ -3328,11 +3332,11 @@ de invalidez y vida, será igual al siete punto ciento
 cuarenta y tres por ciento del total de las cuotas
 patronales y la cubrirá en los términos del artículo 108
 de esta Ley.
+
 Artículo 149. El patrón es responsable de los daños
 y perjuicios que se causaren al trabajador o a sus
 familiares derechohabientes, cuando por falta de
 cumplimiento de la obligación de inscribirlo o de
-
 avisar su salario real o los cambios que sufriera éste,
 no pudieran otorgarse las prestaciones consignadas
 en este capítulo o bien dichas prestaciones se vieran
@@ -3355,11 +3359,11 @@ derechos que tuvieran adquiridos a pensiones en el
 seguro de invalidez y vida por un período igual a la
 cuarta parte del tiempo cubierto por sus cotizaciones
 semanales, contado a partir de la fecha de su baja.
+
 Este tiempo de conservación de derechos no será
 menor de doce meses.
 Artículo 151. Al asegurado que haya dejado de
 estar sujeto al régimen obligatorio y reingrese a éste,
-
 se le reconocerá el tiempo cubierto por sus
 cotizaciones anteriores, en la forma siguiente:
 I. Si la interrupción en el pago de cotizaciones no
@@ -3382,10 +3386,10 @@ del asegurado ocurriera antes de expirar el período de
 conservación de derechos establecido en el artículo
 anterior, se le reconocerán de inmediato todas sus
 cotizaciones anteriores.
+
 CAPITULO VI
 DEL SEGURO DE RETIRO, CESANTIA EN EDAD
 AVANZADA Y VEJEZ
-
 SECCION PRIMERA
 GENERALIDADES
 Artículo 152. Los riesgos protegidos por este
@@ -3408,14 +3412,14 @@ SECCION SEGUNDA
 DEL RAMO DE CESANTIA EN EDAD AVANZADA
 Artículo 154. Para los efectos de esta Ley existe
 cesantía en edad avanzada cuando el asegurado
+
 quede privado de trabajos remunerados a partir de los
 sesenta años de edad.
 Párrafo reformado DOF 20-12-2001
-
 Para gozar de las prestaciones de este ramo se
 requiere que el asegurado tenga reconocidas ante el
-Instituto un mínimo de mil doscientas cincuenta
-cotizaciones semanales.
+Instituto un mínimo de mil cotizaciones semanales.
+Párrafo reformado DOF 16-12-2020
 El trabajador cesante que tenga sesenta años o más
 y no reúna las semanas de cotización señaladas en el
 párrafo precedente, podrá retirar el saldo de su
@@ -3434,8 +3438,8 @@ I. Pensión;
 II. Asistencia médica, en los términos del capítulo IV
 de este Título;
 III. Asignaciones familiares, y
-IV. Ayuda asistencial.
 
+IV. Ayuda asistencial.
 Artículo 156. El derecho al goce de la pensión de
 cesantía en edad avanzada comenzará desde el día
 en que el asegurado cumpla con los requisitos
@@ -3447,89 +3451,124 @@ Artículo 157. Los asegurados que reúnan los
 requisitos establecidos en esta sección podrán
 disponer de su cuenta individual con el objeto de
 disfrutar de una pensión de cesantía en edad
-avanzada. Para tal propósito podrá optar por alguna
-de las alternativas siguientes:
+avanzada. Para tal propósito, podrán elegir alguna de
+las opciones siguientes o ambas:
+Párrafo reformado DOF 16-12-2020
 I. Contratar con la institución de seguros de su
 elección una renta vitalicia, que se actualizará
-anualmente en el mes de febrero conforme al Indice
-Nacional de Precios al Consumidor, y
+anualmente en el mes de febrero conforme al
+Indice Nacional de Precios al Consumidor, y
 II. Mantener el saldo de su cuenta individual en una
-Administradora de Fondos para el Retiro y efectuar
-con cargo a éste, retiros programados.
-Ambos supuestos se sujetarán a lo establecido en
-esta Ley y de conformidad con las reglas de carácter
+Administradora de Fondos para el Retiro y
+efectuar con cargo a éste, retiros programados.
+Los supuestos referidos, se sujetarán a lo
+establecido en esta Ley y a las reglas de carácter
 general que expida la Comisión Nacional del Sistema
 de Ahorro para el Retiro.
-El asegurado que opte por la alternativa prevista en
-la fracción II podrá, en cualquier momento, contratar
-una renta vitalicia de acuerdo a lo dispuesto en la
 
-fracción I. El asegurado no podrá optar por la
-alternativa señalada si la renta mensual vitalicia a
-convenirse fuera inferior a la pensión garantizada.
+Párrafo reformado DOF 16-12-2020
+El asegurado que elija la opción prevista en la
+fracción II o ambas podrá, en cualquier momento,
+contratar una renta vitalicia de acuerdo a lo dispuesto
+en la fracción I, excepto cuando la renta mensual
+vitalicia a convenirse fuera inferior al promedio de las
+pensiones garantizadas, que corresponda a un salario
+mínimo y sesenta años de edad, de acuerdo con la
+tabla establecida en el artículo 170 de esta Ley.
+Párrafo reformado DOF 16-12-2020
 Artículo 158. El asegurado podrá pensionarse antes
 de cumplir las edades establecidas, siempre y cuando
 la pensión que se le calcule en el sistema de renta
 vitalicia sea superior en más del treinta por ciento de
-la pensión garantizada, una vez cubierta la prima del
-seguro de sobrevivencia para sus beneficiarios.
+la pensión garantizada que le corresponda conforme
+a las semanas de cotización, al salario base de
+cotización y a la edad de sesenta años, de la tabla
+establecida en el artículo 170 de esta Ley, una vez
+cubierta la prima del seguro de sobrevivencia para
+sus beneficiarios.
 El pensionado tendrá derecho a recibir el excedente
 de los recursos acumulados en su cuenta individual
 en una o varias exhibiciones, solamente si la pensión
 que se le otorgue es superior en más del treinta por
-ciento de la pensión garantizada, una vez cubierta la
-prima del seguro de sobrevivencia para sus
-beneficiarios. La disposición de la cuenta así como de
-sus rendimientos estará exenta del pago de
+ciento de la pensión garantizada que le corresponda
+conforme a las semanas de cotización, al salario base
+de cotización y a la edad de sesenta años, de la tabla
+establecida en el artículo 170 de esta Ley, una vez
+cubierta la prima del seguro de sobrevivencia para
+
+sus beneficiarios. La disposición de la cuenta, así
+como de sus rendimientos estará exenta del pago de
 contribuciones.
 Lo dispuesto en este artículo es aplicable al ramo de
 vejez.
+Artículo reformado DOF 16-12-2020
 Artículo 159. Para efectos de esta Ley, se
 entenderá por:
-I. Cuenta individual, aquella que se abrirá para cada
-asegurado en las Administradoras de Fondos para el
-Retiro, para que se depositen en la misma las cuotas
-obrero-patronales y estatal por concepto del seguro
-de retiro, cesantía en edad avanzada y vejez, así
-
-como los rendimientos. La cuenta individual se
-integrará por las subcuentas: de retiro, cesantía en
-edad avanzada y vejez; de vivienda y de aportaciones
+I. Cuenta individual, aquella que se abrirá para
+cada asegurado en las Administradoras de
+Fondos para el Retiro, para que se depositen en
+la misma las cuotas obrero-patronales y, en su
+caso, la estatal por concepto del seguro de retiro,
+cesantía en edad avanzada y vejez, así como los
+rendimientos. La cuenta individual se integrará
+por las subcuentas: de retiro, cesantía en edad
+avanzada y vejez; de vivienda y de aportaciones
 voluntarias.
+Párrafo reformado DOF 16-12-2020
 Respecto de la subcuenta de vivienda las
-Administradoras de Fondos para el Retiro deberán
-hacer entrega de los recursos al Instituto del Fondo
-Nacional de la Vivienda para los Trabajadores en los
-términos de su propia Ley.
+Administradoras de Fondos para el Retiro
+deberán hacer entrega de los recursos al Instituto
+del Fondo Nacional de la Vivienda para los
+Trabajadores en los términos de su propia Ley.
 II. Individualizar, el proceso mediante el cual se
 identifica la parte que se abona a las subcuentas
 correspondientes a cada trabajador de los pagos
+
 efectuados por el patrón y el estado, así como los
 rendimientos financieros que se generen.
-III. Pensión, la renta vitalicia o el retiro programado.
-IV. Renta vitalicia, el contrato por el cual la
-aseguradora a cambio de recibir los recursos
-acumulados en la cuenta individual se obliga a pagar
-periódicamente una pensión durante la vida del
-pensionado.
-V. Retiros programados, la modalidad de obtener
-una pensión fraccionando el monto total de los
-recursos de la cuenta individual, para lo cual se
-tomará en cuenta la esperanza de vida de los
-pensionados, así como los rendimientos previsibles
-de los saldos.
+III.
 
-VI. Seguro de sobreviviencia, aquél que se contrata
-por los pensionados, por riesgos de trabajo, por
-invalidez, por cesantía en edad avanzada o por vejez,
-con cargo a los recursos de la suma asegurada,
-adicionada a los recursos de la cuenta individual a
-favor de sus beneficiarios para otorgarles la pensión,
-ayudas asistenciales y demás prestaciones en dinero
+Pensión, la
+programado.
+
+renta
+
+vitalicia
+
+o
+
+el
+
+retiro
+
+IV.Renta vitalicia, el contrato por el cual la
+aseguradora a cambio de recibir todos o parte de
+los recursos acumulados en la cuenta individual
+se obliga a pagar periódicamente una pensión
+durante la vida del pensionado.
+Fracción reformada DOF 16-12-2020
+V. Retiros programados, la modalidad de obtener
+una pensión fraccionando el monto total o parte
+de los recursos de la cuenta individual, para lo
+cual se tomará en cuenta la esperanza de vida de
+los pensionados, así como los rendimientos
+previsibles de los saldos.
+Fracción reformada DOF 16-12-2020
+VI.
+
+Seguro de sobreviviencia, aquél que se
+contrata por los pensionados, por riesgos de
+trabajo, por invalidez, por cesantía en edad
+avanzada o por vejez, con cargo a los recursos
+de la suma asegurada, adicionada a los recursos
+de la cuenta individual a favor de sus
+beneficiarios para otorgarles la pensión, ayudas
+asistenciales y demás prestaciones en dinero
 previstas en los respectivos seguros, mediante la
-renta que se les asignará después del fallecimiento
-del pensionado, hasta la extinción legal de las
-pensiones.
+renta que se les asignará después del
+
+fallecimiento del pensionado, hasta la extinción
+legal de las pensiones.
 VII. Monto constitutivo es la cantidad de dinero que
 se requiere para contratar los seguros de renta
 vitalicia y de sobrevivencia con una institución de
@@ -3547,6 +3586,13 @@ Fianzas, oyendo previamente la opinión de la
 Comisión Nacional del Sistema de Ahorro para el
 Retiro.
 Aclaración al párrafo DOF 16-01-1996
+La renta vitalicia se sujetará a las modalidades de
+contratación que elija el asegurado de entre las
+opciones que estén registradas ante la Comisión
+Nacional de Seguros y Fianzas, previo acuerdo del
+Comité al que se refiere el artículo 81 de la Ley de los
+Sistemas de Ahorro para el Retiro.
+Párrafo adicionado DOF 16-12-2020
 
 Artículo 160. El pensionado que se encuentre
 disfrutando de una pensión de cesantía en edad
@@ -3566,13 +3612,14 @@ Artículo 162. Para tener derecho al goce de las
 prestaciones del seguro de vejez, se requiere que el
 asegurado haya cumplido sesenta y cinco años de
 edad y tenga reconocidas por el Instituto un mínimo
-de mil doscientas cincuenta cotizaciones semanales.
+de mil cotizaciones semanales.
+Párrafo reformado DOF 16-12-2020
 En caso que el asegurado tenga sesenta y cinco
 años o más y no reúna las semanas de cotización
 señaladas en el párrafo precedente, podrá retirar el
 saldo de su cuenta individual en una sola exhibición o
-seguir cotizando hasta cubrir las semanas necesarias
 
+seguir cotizando hasta cubrir las semanas necesarias
 para que opere su pensión. Si el asegurado tiene
 cotizadas un mínimo de setecientas cincuenta
 semanas tendrá derecho a las prestaciones en
@@ -3587,47 +3634,53 @@ Artículo 164. Los asegurados que reúnan los
 requisitos establecidos en esta sección podrán
 disponer de su cuenta individual con el objeto de
 disfrutar de una pensión de vejez. Para tal propósito
-podrá optar por alguna de las alternativas siguientes:
+podrán optar por alguna de las opciones siguientes o
+ambas:
+Párrafo reformado DOF 16-12-2020
 I. Contratar con una compañía de seguros pública,
-social o privada de su elección una renta vitalicia, que
-se actualizará anualmente en el mes de febrero
-conforme al Indice Nacional de Precios al
+social o privada de su elección una renta vitalicia,
+que se actualizará anualmente en el mes de
+febrero conforme al Indice Nacional de Precios al
 Consumidor, y
 II. Mantener el saldo de su cuenta individual en una
-Administradora de Fondos para el Retiro y efectuar
-con cargo a éste, retiros programados.
-Ambos supuestos se sujetarán a lo establecido en
-esta Ley y de conformidad con las disposiciones
-administrativas que expida la Comisión Nacional del
-Sistema de Ahorro para el Retiro.
+Administradora de Fondos para el Retiro y
+efectuar con cargo a éste, retiros programados.
 
-Aclaración al párrafo DOF 16-01-1996
-El asegurado que opte por la alternativa prevista en
-la fracción II podrá, en cualquier momento, contratar
-una renta vitalicia de acuerdo a lo dispuesto en la
-fracción I. El asegurado no podrá optar por la
-alternativa señalada si la renta mensual vitalicia a
-convenirse fuera inferior a la pensión garantizada.
+Los supuestos referidos se sujetarán a lo
+establecido en esta Ley y de conformidad con las
+reglas de carácter general que expida la Comisión
+Nacional del Sistema de Ahorro para el Retiro.
+Aclaración al párrafo DOF 16-01-1996. Reformado DOF
+16-12-2020
+El asegurado que elija la opción prevista en la
+fracción II o ambas podrá, en cualquier momento,
+contratar una renta vitalicia de acuerdo a lo dispuesto
+en la fracción I, excepto cuando la renta mensual
+vitalicia a convenirse fuera inferior a la pensión
+garantizada que le corresponda conforme a las
+semanas de cotización, al salario base de cotización y
+a la edad de sesenta y cinco años, de la tabla
+establecida en el artículo 170 de esta Ley.
+Párrafo reformado DOF 16-12-2020
 SECCION CUARTA
 DE LA AYUDA PARA GASTOS DE MATRIMONIO
 Artículo 165. El asegurado tiene derecho a retirar,
 como ayuda para gastos de matrimonio, una cantidad
-equivalente a treinta días de salario mínimo general
-que rija en el Distrito Federal, proveniente de la cuota
-social que aporte el Estado en los términos de la
-fracción IV del artículo 168 de esta Ley para los
-trabajadores que reciban ésta, y con las aportaciones
-patronales y del Estado a la Subcuenta de Retiro,
-Cesantía en Edad Avanzada y Vejez para los
-trabajadores que no reciban cuota social en sus
-cuentas individuales, conforme a los siguientes
-requisitos:
-Párrafo reformado DOF 26-05-2009
+equivalente a treinta Unidades de Medida y
+Actualización, proveniente de la cuota social que
+aporte el Estado en los términos de la fracción IV del
+artículo 168 de esta Ley para los trabajadores que
+reciban ésta, y con las aportaciones patronales a la
+Subcuenta de Retiro, Cesantía en Edad Avanzada y
+Vejez para los trabajadores que no reciban cuota
+social en sus cuentas individuales, conforme a los
+siguientes requisitos:
+
+Párrafo reformado DOF 26-05-2009, 16-12-2020
 I. Que tenga acreditado un mínimo de ciento
 cincuenta semanas de cotización en el seguro de
 retiro, cesantía en edad avanzada y vejez, en la
 fecha de celebración del matrimonio;
-
 II.- Que compruebe con documentos fehacientes
 la muerte de la persona que registró como
 cónyuge en el Instituto, o que, en su caso, exhiba
@@ -3648,13 +3701,13 @@ de su baja.
 El asegurado que suministre datos falsos en relación
 a su estado civil, pierde todo derecho a la ayuda para
 gastos de matrimonio.
+
 SECCION QUINTA
 DEL REGIMEN FINANCIERO
 Artículo 167. Los patrones y el Gobierno Federal,
 en la parte que les corresponde están obligados a
 enterar al Instituto el importe de las cuotas obrero
 patronales y la aportación estatal del seguro de retiro,
-
 cesantía en edad avanzada y vejez. Dichas cuotas se
 recibirán y se depositarán en las respectivas
 subcuentas de la cuenta individual de cada
@@ -3670,46 +3723,54 @@ trabajador.
 II.
 
 En los ramos de cesantía en edad avanzada y
-vejez, a los patrones y a los trabajadores les
-corresponde cubrir las cuotas del tres punto ciento
-cincuenta por ciento y uno punto ciento veinticinco
-por ciento sobre el salario base de cotización,
-respectivamente.
-
-III. En los ramos de cesantía en edad avanzada y
-vejez la contribución del Estado será igual al siete
-punto ciento cuarenta y tres por ciento del total de
-las cuotas patronales de estos ramos, y
-IV. Una cantidad por cada día de salario cotizado,
-que aporte mensualmente el Gobierno Federal por
-concepto de cuota social para los trabajadores
-que ganen hasta quince veces el salario mínimo
-general vigente en el Distrito Federal, que se
-
-depositará en la cuenta individual de cada
-trabajador asegurado conforme a la tabla
-siguiente:
-Salario base de
-cotización del
+vejez:
+a) Los patrones cubrirán la cuota que corresponda
+sobre el salario base de cotización, calculada
+conforme a la siguiente tabla:
+Salario base de cotización del
 trabajador
-1 Salario Mínimo
-1.01 a 4 Salarios
-Mínimos
-4.01 a 7 Salarios
-Mínimos
-7.01 a 10 Salarios
-Mínimos
-10.01 a 15.0 Salarios
-Mínimos
+1.00 SM*
 
 Cuota
-social
-$3.87077
-$3.70949
-$3.54820
-$3.38692
-$3.22564
+Patronal
+3.150%
 
+1.01 SM a 1.50 UMA**
+1.51 a 2.00 UMA
+2.01 a 2.50 UMA
+2.51 a 3.00 UMA
+3.01 a 3.50 UMA
+3.51 a 4.00 UMA
+4.01 UMA en adelante
+*Salario Mínimo
+** Unidad de Medida y Actualización
+
+4.202%
+6.552%
+7.962%
+8.902%
+9.573%
+10.077%
+11.875%
+
+b) Los trabajadores cubrirán una cuota del uno
+punto ciento veinticinco por ciento sobre el
+salario base de cotización.
+Fracción con incisos reformada DOF 16-12-2020
+III.
+
+Se deroga.
+Fracción derogada DOF 16-12-2020
+
+IV. El Gobierno Federal, por cada día de salario
+cotizado, aportará mensualmente una cantidad por
+concepto de la cuota social, para los trabajadores
+que ganen hasta cuatro veces la unidad de
+medida y actualización, que se depositará en la
+cuenta individual de cada trabajador asegurado
+conforme a la tabla siguiente:
+
+Párrafo con tabla reformado DOF 16-12-2020
 Los valores mencionados del importe de la cuota
 social, se actualizarán trimestralmente de
 conformidad con el Índice Nacional de Precios al
@@ -3723,25 +3784,37 @@ gasto público en materia de seguridad social.
 Párrafo reformado DOF 26-05-2009
 Artículo 169. Los recursos depositados en la cuenta
 individual de cada trabajador son propiedad de éste
-
 con las modalidades que se establecen en esta Ley y
 demás disposiciones aplicables.
 Estos recursos son inembargables y no podrán
 otorgarse como garantía. Lo anterior no será aplicable
 para los recursos depositados en la subcuenta de
 aportaciones voluntarias.
+
 SECCION SEXTA
 DE LA PENSION GARANTIZADA
 Artículo 170. Pensión garantizada es aquélla que el
-Estado asegura a quienes reúnan los requisitos
-señalados en los artículos 154 y 162 de esta Ley y su
-monto mensual será el equivalente a un salario
-mínimo general para el Distrito Federal, en el
-momento en que entre en vigor esta Ley, cantidad
-que se actualizará anualmente, en el mes de febrero,
-conforme al Indice Nacional de Precios al
-Consumidor, para garantizar el poder adquisitivo de
-dicha pensión.
+Estado asegura a quienes tengan sesenta años o
+más de edad, hayan cotizado mil o más semanas y
+que se calculará conforme a la tabla prevista en este
+artículo, considerando el promedio de su salario base
+de cotización durante su afiliación al Instituto. Para
+estos efectos, el salario señalado se actualizará
+conforme al Índice Nacional de Precios al Consumidor
+a la fecha en que se pensione el trabajador.
+
+El monto de la pensión se actualizará anualmente en
+el mes de febrero, conforme al Índice Nacional de
+Precios al Consumidor, para garantizar su poder
+adquisitivo.
+En el cómputo de las semanas de cotización y el
+promedio del salario base de cotización se
+considerarán los que los trabajadores tengan
+registrados en el Instituto de Seguridad y Servicios
+Sociales de los Trabajadores del Estado, en los
+términos del convenio de portabilidad que éste tenga
+suscrito con el Instituto.
+Artículo reformado DOF 16-12-2020
 Artículo 171. El asegurado, cuyos recursos
 acumulados en su cuenta individual resulten
 insuficientes para contratar una renta vitalicia o un
@@ -3751,7 +3824,6 @@ sobrevivencia para sus beneficiarios, en los
 porcentajes del capítulo V de este Título, recibirá del
 Gobierno Federal una aportación complementaria
 suficiente para el pago de las pensiones
-
 correspondientes, mismas que se otorgarán en los
 siguientes términos:
 I.
@@ -3762,6 +3834,7 @@ pensionado al fallecer;
 
 II. La pensión del huérfano de padre o madre será
 igual al veinte por ciento de la pensión que el
+
 asegurado estuviese gozando al fallecer. Si el
 huérfano lo fuera de padre y madre, se le
 otorgará en las mismas condiciones una pensión
@@ -3785,7 +3858,6 @@ pensión que el asegurado estuviese gozando al
 fallecer.
 En estos casos, la administradora de fondos para el
 retiro continuará con la administración de la cuenta
-
 individual del pensionado y efectuará retiros con
 cargo al saldo acumulado para el pago de la pensión
 garantizada, en los términos que determine la
@@ -3794,6 +3866,7 @@ Retiro.
 Artículo reformado DOF 20-12-2001
 Artículo 172. El Gobierno Federal con recursos
 propios complementarios a los de la cuenta individual
+
 correspondiente, cubrirá la pensión garantizada, por
 conducto del Instituto.
 El trabajador asegurado deberá solicitarla al Instituto
@@ -3804,16 +3877,27 @@ Instituto le requiera para este efecto.
 Agotados los recursos de la cuenta individual, la
 Administradora de Fondos para el Retiro, notificará
 este hecho al Instituto con la finalidad de que éste
-continúe otorgando la pensión mínima garantizada.
-Una vez agotados los recursos la pensión será
-cubierta directamente por el Instituto, con los recursos
-que para tal efecto le debe proporcionar el Gobierno
-Federal.
+continúe otorgando la pensión garantizada.
+Párrafo reformado DOF 16-12-2020
+Una vez agotados los recursos, la pensión será
+cubierta con cargo al Gobierno Federal por conducto
+de la Tesorería de la Federación, a partir de la
+información que para tal efecto le proporcione el
+Instituto.
+Párrafo reformado DOF 16-12-2020
+La Secretaría de Hacienda y Crédito Público podrá
+verificar la información que el Instituto proporcione
+para los efectos arriba señalados, con datos propios o
+de terceros e informar los resultados de la verificación
+al propio Instituto y, en su caso, solicitarle la
+modificación de los procedimientos necesarios para
+su conciliación.
+Párrafo adicionado DOF 16-12-2020
+
 Artículo 172 A. A la muerte del pensionado por
 cesantía en edad avanzada o vejez que estuviere
 gozando de una pensión garantizada, el Instituto
 deberá contratar una renta vitalicia que cubra la
-
 pensión correspondiente conforme a lo previsto en las
 fracciones I a III del artículo 171 de esta Ley, a favor
 de los beneficiarios con la aseguradora que éstos
@@ -3831,10 +3915,21 @@ cuales se destinarán al pago del monto
 constitutivo de la renta vitalicia de los
 beneficiarios, y
 
-II. El Gobierno Federal, por conducto del Instituto,
-deberá aportar los recursos faltantes para el
-pago del monto constitutivo de la mencionada
-renta vitalicia.
+II. El Gobierno Federal por conducto de la
+Tesorería de la Federación, deberá aportar los
+recursos faltantes para el pago del monto
+constitutivo de la mencionada renta vitalicia, a
+partir de la información que al efecto le
+proporcione el Instituto.
+La Secretaría de Hacienda y Crédito Público
+podrá verificar la información que el Instituto
+proporcione para los efectos del párrafo anterior,
+con datos propios o de terceros e informar los
+
+resultados de la verificación al propio Instituto y,
+en su caso, solicitarle la modificación de los
+procedimientos necesarios para su conciliación.
+Fracción reformada DOF 16-12-2020
 Artículo adicionado DOF 20-12-2001
 Artículo 173. El Instituto suspenderá el pago de la
 pensión garantizada cuando el pensionado reingrese
@@ -3842,7 +3937,6 @@ a un trabajo sujeto al régimen obligatorio.
 El pensionado por cesantía en edad avanzada o
 vejez que disfrute de una pensión garantizada no
 podrá recibir otra de igual naturaleza.
-
 La pensión que corresponda a los beneficiarios del
 pensionado fallecido, se entregará a éstos aun
 cuando estuvieran gozando de otra pensión de
@@ -3858,6 +3952,7 @@ cuenta individual, la que se integrará en los términos
 señalados en el artículo 159 fracción I de esta Ley.
 Artículo 175. La individualización y administración
 de los recursos de las cuentas individuales para el
+
 retiro estará a cargo de las Administradoras de
 Fondos para el Retiro.
 Las Administradoras de Fondos para el Retiro
@@ -3875,7 +3970,6 @@ términos de la Ley para la Coordinación de los
 Sistemas de Ahorro para el Retiro.
 En todo caso, dicha Ley dispondrá los requisitos de
 constitución, entre los que se incluirán las
-
 disposiciones relativas a impedir el conflicto de
 intereses sobre el manejo de los fondos respecto de
 la participación de las asociaciones gremiales del
@@ -3890,6 +3984,7 @@ procedimientos y términos aplicables a los recursos
 de las cuentas individuales de aquellos trabajadores
 que no elijan la Administradora de Fondos para el
 Retiro que deba operar sus respectivas cuentas.
+
 Artículo 177. Los patrones estarán obligados
 siempre que contraten un nuevo trabajador a solicitar
 su número de seguridad social y el nombre de la
@@ -3907,7 +4002,6 @@ Nacional del Sistema de Ahorro para el Retiro.
 Los trabajadores que estén sujetos al régimen
 previsto en esta Ley y simultáneamente al previsto en
 otras leyes, o que con anterioridad hayan estado
-
 sujetos al régimen previsto en esta Ley, no deberán
 tener más de una cuenta individual por cada régimen,
 y su unificación o traspaso quedará a lo que
@@ -3923,6 +4017,7 @@ Artículo 179. Al efectuarse el entero de las cuotas
 obrero patronales, la Administradora de Fondos para
 el Retiro identificará la parte que corresponde a cada
 trabajador, a efecto de que con dicha información, en
+
 los términos que establezca la Ley para la
 Coordinación de los Sistemas de Ahorro para el
 Retiro, se realicen las aplicaciones específicas a cada
@@ -3936,7 +4031,6 @@ de los trabajadores asegurados.
 Artículo reformado DOF 20-12-2001
 Artículo 181. La Administradora de Fondos para el
 Retiro deberá informar a cada trabajador titular de una
-
 cuenta individual, el estado de la misma, en los
 términos, periodicidad y forma que al efecto
 establezca la Ley para la Coordinación de los
@@ -3952,6 +4046,7 @@ dispuesto por la Ley para la Coordinación de los
 Sistemas de Ahorro para el Retiro.
 Artículo 183. Los gastos que genere el sistema de
 emisión, cobranza y control de aportaciones a las
+
 cuentas individuales de los trabajadores serán
 cubiertos al Instituto por las administradoras de
 fondos para el retiro, por cada dispersión de recursos,
@@ -3965,7 +4060,6 @@ correspondiente al bimestre de que se trate o, en su
 caso, la parte proporcional de dicha cuota en la fecha
 en que deba efectuar el pago de las correspondientes
 a ese período.
-
 Artículo 185. El trabajador podrá notificar el
 incumplimiento de las obligaciones a cargo de los
 patrones, establecidas en este capítulo, al Instituto,
@@ -3981,6 +4075,7 @@ los términos de los artículos 15 fracción V, 251
 fracciones XIV y XVIII, y demás relativos de esta Ley.
 Artículo 186. El patrón es responsable de los daños
 y perjuicios que se causaren al trabajador o a sus
+
 beneficiarios, cuando por falta de cumplimiento de la
 obligación de inscribirlo o de avisar su salario real o
 los cambios que sufriera éste, no pudieran otorgarse
@@ -3999,7 +4094,6 @@ otra
 organización
 representativa, sus reclamaciones en contra de las
 Administradoras de Fondos para el Retiro o entidades
-
 financieras autorizadas por la Comisión Nacional del
 Sistema de Ahorro para el Retiro, ante esta misma
 Comisión. El procedimiento correspondiente ante la
@@ -4020,6 +4114,7 @@ valores,
 publicidad,
 sistemas
 de
+
 comercialización y contabilidad, a lo establecido por la
 Ley para la Coordinación de los Sistemas de Ahorro
 para el Retiro.
@@ -4033,7 +4128,6 @@ de la cuenta individual del trabajador, la
 Administradora de Fondos para el Retiro adquirirá a
 nombre de éste y en favor de sus beneficiarios
 legales, en el momento de otorgarse la pensión, un
-
 seguro de sobrevivencia, en los términos que al
 efecto determine la Comisión Nacional de Seguros y
 Fianzas, oyendo a la Comisión Nacional del Sistema
@@ -4050,11 +4144,16 @@ los requisitos establecidos por ésta, tendrá derecho a
 que la Administradora de Fondos para el Retiro, que
 opere su cuenta individual, le entregue los recursos
 que lo integran, situándolos en la entidad financiera
+
 que el trabajador designe, a fin de adquirir una
 pensión en los términos del artículo 157 o bien
 entregándoselos en una sola exhibición, cuando la
 pensión de que disfrute sea mayor en un treinta por
-ciento a la garantizada.
+ciento de la pensión garantizada, que corresponda
+conforme a las semanas de cotización, al salario base
+de cotización y a la edad de sesenta años, de la tabla
+establecida en el artículo 170 de esta Ley.
+Artículo reformado DOF 16-12-2020
 Artículo 191. Durante el tiempo en que el trabajador
 deje de estar sujeto a una relación laboral, tendrá
 derecho a:
@@ -4062,7 +4161,6 @@ I. Realizar aportaciones a su cuenta individual, y
 II. Retirar parcialmente por situación de desempleo
 los recursos de la Subcuenta de Retiro, Cesantía
 en Edad Avanzada y Vejez, a partir del
-
 cuadragésimo sexto día natural contado desde el
 día en que quedó desempleado, en los siguientes
 términos:
@@ -4075,6 +4173,7 @@ equivalente a treinta días de su último salario
 base de cotización, con un límite de diez veces
 el salario mínimo mensual general que rija en el
 Distrito Federal, o
+
 b) Si su cuenta individual tiene cinco años o más
 de haber sido abierta, podrá retirar la cantidad
 que resulte menor entre noventa días de su
@@ -4097,7 +4196,6 @@ trabajador, conforme a las reglas de carácter
 general que al efecto expida la Comisión
 Nacional del Sistema de Ahorro para el Retiro.
 En caso de que el trabajador se reincorpore a
-
 laborar durante el plazo de entrega de los
 recursos, las mensualidades posteriores a su
 reincorporación se suspenderán.
@@ -4109,6 +4207,7 @@ a).
 El derecho consignado en esta fracción sólo
 podrán ejercerlo los trabajadores que acrediten
 con los estados de cuenta correspondientes, no
+
 haber efectuado retiros durante los cinco años
 inmediatos anteriores a la fecha de la solicitud de
 retiro de recursos.
@@ -4126,42 +4225,46 @@ adicionales a la subcuenta de aportaciones
 voluntarias, mismas que se entenderán adicionales a
 los beneficios establecidos en los contratos colectivos
 de trabajo.
-
 El trabajador podrá hacer retiros de la subcuenta de
-aportaciones voluntarias por lo menos una vez cada
-seis meses, en los términos que establezca la Ley
-para la Coordinación de los Sistemas de Ahorro para
-el Retiro.
+aportaciones voluntarias en cualquier momento,
+conforme al procedimiento que establezca la
+Comisión Nacional del Sistema de Ahorro para el
+Retiro.
+Párrafo reformado DOF 16-12-2020
 Artículo 193. Los beneficiarios del trabajador titular
 de una cuenta individual del seguro de retiro, cesantía
 en edad avanzada y vejez serán los que establecen
 las fracciones III al IX del artículo 84, en relación con
 los artículos 129 al 137 de esta Ley.
-En caso de fallecimiento del trabajador, si los
-beneficiarios legales ya no tienen derecho a pensión
-por el seguro de invalidez y vida, la Administradora de
-Fondos para el Retiro respectiva les entregará el
-saldo de la cuenta individual en partes iguales, previa
-autorización del Instituto.
-El
-trabajador
-asegurado,
-deberá
-designar
-beneficiarios sustitutos de los indicados en el párrafo
-anterior, única y exclusivamente para el caso de que
-faltaren los beneficiarios legales. El trabajador podrá
-en cualquier tiempo cambiar esta última designación.
-Dicha designación deberá realizarla en la
-Administradora de Fondos para el Retiro que le opere
-su cuenta individual.
-A falta de beneficiarios, dicha entrega se hará en el
-orden de prelación previsto en el artículo 501 de la
-Ley Federal del Trabajo. Cualquier conflicto deberá
 
-ser resuelto ante los Tribunales federales en materia
-laboral.
-Párrafo reformado DOF 01-05-2019
+En caso de fallecimiento del trabajador o
+pensionado, tendrán derecho a recibir los recursos de
+la cuenta individual que en términos de las
+disposiciones legales puedan entregarse en una sola
+exhibición por no tener otro fin específico, a los
+beneficiarios designados expresamente en los
+contratos de administración de fondos para el retiro
+que las Administradoras de Fondos para el Retiro
+celebren con los trabajadores, en la proporción
+estipulada para cada uno de ellos.
+Para tales efectos, el trabajador podrá en cualquier
+tiempo sustituir a los beneficiarios que hubiera
+designado, así como modificar, en su caso, la
+proporción correspondiente a cada uno de ellos.
+La Administradora de Fondos para el Retiro en la
+que se encontraba registrado el trabajador o
+pensionado fallecido, deberá entregar el importe de
+las subcuentas, incluidas las de Vivienda, que en
+términos de las disposiciones legales aplicables
+puedan entregarse en una sola exhibición.
+A falta de beneficiarios designados, dicha entrega se
+hará en el orden de prelación previsto en el artículo
+501 de la Ley Federal del Trabajo. Cualquier conflicto
+deberá ser resuelto ante los tribunales competentes
+de conformidad con lo establecido en la Ley Orgánica
+del Poder Judicial de la Federación.
+Artículo reformado DOF 01-05-2019, 16-12-2020
+
 Artículo 193 Bis. Cuando el trabajador tenga la
 calidad de persona desaparecida y cuente con
 Declaración Especial de Ausencia, en términos de la
@@ -4172,16 +4275,15 @@ en resolución que se haya emitido para ese fin.
 Artículo adicionado DOF 22-06-2018
 Artículo 194. Para efectos del retiro programado, se
 calculará cada año una anualidad que será igual al
-resultado de dividir el saldo de su cuenta individual
-entre el capital necesario para financiar una unidad de
-renta vitalicia para el asegurado y sus beneficiarios, y,
-por lo menos, igual al valor correspondiente a la
-pensión
-garantizada.
-La
-pensión
-mensual
+resultado de dividir el saldo de la cuenta individual del
+asegurado entre el capital necesario para financiar
+una unidad de renta vitalicia para el asegurado y sus
+beneficiarios y, por lo menos, igual al valor
+correspondiente a la pensión garantizada, que le
+corresponda conforme a la tabla establecida en el
+artículo 170 de esta Ley. La pensión mensual
 corresponderá a la doceava parte de dicha anualidad.
+Párrafo reformado DOF 16-12-2020
 Las tablas utilizadas para calcular la unidad de renta
 vitalicia a que se refiere este artículo se elaborarán
 anualmente por la Comisión Nacional de Seguros y
@@ -4194,8 +4296,8 @@ administrativas
 podrá
 autorizar
 mecanismos,
-
 procedimientos, formas y términos relacionados con
+
 el seguro de retiro, cesantía en edad avanzada y
 vejez, conforme a lo establecido en esta Ley y la Ley
 para la Coordinación de los Sistemas de Ahorro para
@@ -4227,9 +4329,9 @@ retener, bajo ningún concepto, el pago de rentas
 vencidas ni de retiros programados no cobrados por
 el pensionado, cuyos montos en todo momento
 estarán a disposición de éste.
-
 Artículo 198. La disposición que realice el
 trabajador de los recursos de su cuenta individual por
+
 concepto del retiro por situación de desempleo
 previsto en el artículo 191 fracción II de la presente
 Ley, disminuirá en igual proporción a las semanas de
@@ -4256,10 +4358,10 @@ lo dispuesto en el presente artículo les serán
 reintegradas proporcionalmente a los recursos que
 reintegren.
 Artículo reformado DOF 26-05-2009
-
 Artículo 199. La disolución y liquidación de las
 Administradoras de Fondos para el Retiro y
 sociedades de inversión especializadas de fondos
+
 para el retiro se sujetará a la legislación aplicable, así
 como a las disposiciones administrativas que expida
 la Comisión Nacional del Sistema de Ahorro para el
@@ -4289,10 +4391,10 @@ prestaciones establecidas en este capítulo.
 Párrafo reformado DOF 21-10-2020
 Este beneficio se podrá extender a los asegurados
 que por resolución judicial ejerzan la patria potestad y
-
 la custodia de un menor, siempre y cuando estén
 vigentes en sus derechos ante el Instituto y no
 puedan proporcionar la atención y cuidados al menor.
+
 El servicio de guardería se proporcionará en el turno
 matutino y vespertino pudiendo tener acceso a alguno
 de estos turnos, el hijo del trabajador cuya jornada de
@@ -4322,12 +4424,12 @@ por el Instituto, en los términos de las disposiciones
 que al efecto expida el Consejo Técnico.
 Artículo 204. Para otorgar la prestación de los
 servicios de guardería, el Instituto establecerá
-
 instalaciones
 especiales,
 por
 zonas
 convenientemente localizadas en relación a los
+
 centros de trabajo y de habitación, y en las
 localidades donde opere el régimen obligatorio.
 Artículo
@@ -4357,9 +4459,9 @@ conservarán durante las cuatro semanas posteriores
 a dicha baja, el derecho a las prestaciones de este
 seguro.
 Artículo reformado DOF 20-12-2001
-
 SECCION SEGUNDA
 DEL RAMO DE LAS PRESTACIONES SOCIALES
+
 Artículo
 208.
 comprenden:
@@ -4395,10 +4497,10 @@ Párrafo reformado DOF 20-12-2001
 Asimismo, el Instituto establecerá y desarrollará los
 programas y servicios para los derechohabientes, en
 términos de la disponibilidad financiera de los
-
 recursos destinados a prestaciones sociales de este
 seguro.
 Párrafo reformado DOF 20-12-2001
+
 Artículo
 210.
 Las
@@ -4436,9 +4538,9 @@ IV. Impulso y desarrollo de actividades culturales y
 deportivas, recreativas y de cultura física y en
 general, de todas aquéllas tendientes a lograr
 una mejor ocupación del tiempo libre;
-
 Fracción reformada DOF 20-12-2001
 V. Promoción de la regularización del estado civil;
+
 Fracción reformada DOF 20-12-2001
 VI. Cursos de adiestramiento técnico y de
 capacitación para el trabajo, a fin de propiciar la
@@ -4474,10 +4576,10 @@ recreativas y vacacionales a la población en general,
 ya sea por sí o en cooperación con instituciones de
 los sectores público o social, estableciendo en todos
 los casos las cuotas de recuperación de costos
-
 correspondientes, a efecto de generar recursos para
 apoyar el financiamiento de su operación y
 mantenimiento y de colaborar con la sociedad en
+
 general en la promoción de ese tipo de actividades. El
 monto y destino de los recursos que se obtengan
 conforme a lo dispuesto en este párrafo se informará
@@ -4504,10 +4606,10 @@ prima para el financiamiento de las prestaciones de
 este capítulo, esto independientemente que tengan o
 no trabajadores de los señalados en el artículo 201 a
 su servicio.
-
 Artículo 213. El Instituto podrá celebrar convenios
 de reversión de cuotas o subrogación de servicios,
 con los patrones que tengan instaladas guarderías en
+
 sus empresas o establecimientos, cuando reúnan los
 requisitos señalados en las disposiciones relativas.
 SECCION CUARTA
@@ -4531,11 +4633,11 @@ instructivos a que se sujetarán estos servicios, pero,
 en todo caso, se coordinará con la Secretaría de
 Salud y demás instituciones de salud y seguridad
 social.
-
 Artículo 216. El Instituto proporcionará el apoyo
 necesario a los servicios de solidaridad social que
 esta Ley le atribuye, sin perjuicio del eficaz
 otorgamiento de las prestaciones a que tienen
+
 derecho los trabajadores y demás beneficiarios del
 régimen obligatorio.
 Artículo 216 A. El Instituto deberá atender a la
@@ -4569,10 +4671,10 @@ las
 previsiones
 presupuestarias y en los términos de las
 disposiciones que al efecto emita el Ejecutivo Federal,
-
 la Secretaría de Hacienda y Crédito Público proveerá
 los recursos financieros necesarios para resarcir al
 Instituto de los gastos en que incurra.
+
 Tratándose de los programas a que se refiere la
 fracción III, se estará a lo dispuesto por las normas
 aplicables a los subsidios federales.
@@ -4596,23 +4698,24 @@ REGIMEN OBLIGATORIO
 Artículo 218. El asegurado con un mínimo de
 cincuenta y dos cotizaciones semanales acreditadas
 en el régimen obligatorio, en los últimos cinco años, al
-
 ser dado de baja, tiene el derecho a continuar
 voluntariamente en el mismo, pudiendo continuar en
 los seguros conjuntos de invalidez y vida así como de
 retiro, cesantía en edad avanzada y vejez, debiendo
+
 quedar inscrito con el último salario o superior al que
 tenía en el momento de la baja. El asegurado cubrirá
 las cuotas que le correspondan por mensualidad
 adelantada y cotizará de la manera siguiente:
 Párrafo reformado DOF 20-12-2001
 a) Respecto del seguro de retiro, cesantía en edad
-avanzada y vejez, el asegurado cubrirá por cuanto
-hace al ramo primero, la totalidad de la cuota y por
-los otros dos ramos cubrirá el importe de las cuotas
-obrero patronales, debiendo el Estado aportar la
-parte que conforme a esta Ley le corresponde,
-incluyendo la cuota social, y
+avanzada y vejez, el asegurado cubrirá por
+cuanto hace al ramo primero, la totalidad de la
+cuota y por los otros dos ramos cubrirá el importe
+de las cuotas obrero patronales, debiendo el
+Estado aportar la parte de cuota social que
+conforme a esta Ley le corresponda, y
+Inciso reformado DOF 16-12-2020
 b) En el seguro de invalidez y vida el asegurado
 cubrirá las cuotas obrero patronales y el Estado la
 parte que le corresponda de acuerdo a los
@@ -4624,10 +4727,10 @@ esta Ley.
 Párrafo adicionado DOF 20-12-2001
 Artículo 219. El derecho establecido en el artículo
 anterior se pierde si no se ejercita mediante solicitud
-
 por escrito dentro de un plazo de cinco años a partir
 de la fecha de baja.
 Artículo reformado DOF 20-12-2001
+
 Artículo 220. La continuación voluntaria del régimen
 obligatorio termina por:
 I.
@@ -4653,9 +4756,9 @@ régimen obligatorio.
 CAPITULO IX
 DE LA INCORPORACION VOLUNTARIA AL
 REGIMEN OBLIGATORIO
-
 Artículo 222. La incorporación voluntaria de los
 sujetos a que se refiere el presente capítulo, se
+
 realizará por convenio y se sujetará a las siguientes
 modalidades:
 I. Podrá efectuarse en forma individual o de grupo a
@@ -4679,11 +4782,11 @@ enfermedades y maternidad y las correspondientes
 de los seguros de invalidez y vida, así como de
 retiro, cesantía en edad avanzada y vejez, en los
 términos de los capítulos respectivos;
-
 c) Para los sujetos a que se refiere la fracción IV
 del artículo 13 de esta Ley, las prestaciones del
 seguro de riesgos de trabajo, las prestaciones en
 especie del seguro de enfermedades y maternidad y
+
 las correspondientes de los seguros de invalidez y
 vida, así como de retiro y vejez, en los términos de
 los capítulos respectivos;
@@ -4707,9 +4810,9 @@ e) En caso de muerte del asegurado, se estará a lo
 dispuesto en el artículo 104 de esta Ley.
 Artículo 223. Aceptada la incorporación, serán
 aplicables las disposiciones del régimen obligatorio,
-
 con las salvedades y modalidades que establezca
 esta Ley.
+
 Sólo se perderá la calidad de asegurado si se dejan
 de tener las características que originaron el
 aseguramiento.
@@ -4735,9 +4838,9 @@ Párrafo adicionado DOF 20-12-2001
 Artículo 225. Al llevarse a cabo los actos que
 determinen la incorporación de los sujetos de
 aseguramiento de este capítulo y al abrirse los
-
 períodos de inscripción relativos, el Instituto podrá
 establecer plazos de espera para el disfrute de las
+
 prestaciones en especie del seguro de enfermedades
 y maternidad.
 Artículo 226. No procederá el aseguramiento
@@ -4766,9 +4869,9 @@ Las bases de las fracciones anteriores serán
 aplicables, para todos los seguros que comprenda el
 aseguramiento en cada caso, con la excepción del
 seguro de enfermedades y maternidad, respecto del
-
 cual se estará a lo dispuesto por el artículo 106 de
 esta Ley.
+
 El Consejo Técnico del Instituto ante las instancias
 competentes, proveerá lo necesario para que estas
 promuevan ante el Congreso de la Unión la revisión
@@ -4794,8 +4897,8 @@ cubrir íntegramente la cuota obrero-patronal,
 contribuyendo el Estado conforme le corresponda a
 cada ramo de seguro, de acuerdo a lo dispuesto en
 esta Ley, incluyendo la cuota social.
-
 Fracción reformada DOF 20-12-2001
+
 Artículo 229. En el caso de los sujetos a que se
 refieren las fracciones I y III del artículo 13 de esta
 Ley, el Instituto podrá convenir, previa conformidad de
@@ -4914,8 +5017,8 @@ cuente con instalaciones, a juicio del propio Instituto,
 para prestar los servicios de guardería que tiene
 encomendados, éste podrá celebrar convenios con
 los patrones del campo y organizaciones de
-
 trabajadores eventuales del campo para la
+
 subrogación de los servicios que contempla el Ramo
 de Guarderías a que se refiere la Sección Primera,
 Capítulo VII, del Título Segundo, de esta Ley, en los
@@ -4944,8 +5047,8 @@ requiera el Instituto. Para el caso de los patrones con
 actividades ganaderas, deberán proporcionar la
 información sobre el tipo de ganado y el número de
 cabezas que poseen. La modificación de cualquiera
-
 de los datos proporcionados deberá ser comunicada
+
 al Instituto en un plazo no mayor de treinta días
 naturales contados a partir de la fecha en que se
 produzcan;
@@ -4973,8 +5076,8 @@ de cotización, deberá estar debidamente registrado
 en la contabilidad del patrón.
 En su caso, cubrirán la parte de la cuota obrero
 patronal que les corresponde conjuntamente con la
-
 actualización respectiva, en forma diferida o a plazos,
+
 sin la generación de recargos, conforme a las reglas
 de carácter general que emita el Consejo Técnico,
 tomando en cuenta la existencia de ciclos
@@ -5002,9 +5105,9 @@ sectores agrícola, ganadero, forestal y mixto,
 identificando a aquellos sujetos a recibir subsidios,
 apoyos o beneficios derivados del Presupuesto de
 Egresos de la Federación.
-
 A solicitud del Instituto, y de acuerdo al convenio
 que éste firme con la Secretaría de Agricultura,
+
 Ganadería, Desarrollo Rural, Pesca y Alimentación
 para este fin, esta última suspenderá la entrega de
 subsidios, apoyos, o beneficios que, con cargo a su
@@ -5034,9 +5137,9 @@ TITULO TERCERO
 DEL REGIMEN VOLUNTARIO
 CAPITULO I
 DEL SEGURO DE SALUD PARA LA FAMILIA
-
 Artículo 240. Todas las familias en México tienen
 derecho a un seguro de salud para sus miembros y
+
 para ese efecto, podrán celebrar con el Instituto
 Mexicano del Seguro Social convenio para el
 otorgamiento de las prestaciones en especie del
@@ -7281,13 +7384,26 @@ aplicará lo dispuesto en los artículos 150 o 151 de
 esta Ley, según sea el caso.
 
 Artículo 302. El derecho del trabajador o
-pensionado y, en su caso, sus beneficiarios a recibir
-los recursos de la subcuenta de retiro, cesantía en
-edad avanzada y vejez prescribe en favor del Instituto
-a los diez años de que sean exigibles. Cualquier
+pensionado y, en su caso, de sus beneficiarios a
+recibir los recursos de la Subcuenta de Retiro,
+Cesantía en Edad Avanzada y Vejez es
+imprescriptible.
+Sin perjuicio de lo anterior, el Instituto podrá
+disponer de dichos recursos a los diez años de que
+sean exigibles sin necesidad de resolución judicial,
+siempre que constituya una reserva suficiente para
+atender las solicitudes de devolución de los
+trabajadores, pensionados o beneficiarios. Cualquier
 mensualidad de una pensión, asignación familiar o
-ayuda asistencial prescribirá en favor del Instituto en
-un año calendario.
+ayuda asistencial recibirá el mismo tratamiento, en el
+año calendario en el que sea exigible.
+La Secretaría de Hacienda y Crédito Público
+aprobará la metodología para determinar el monto de
+la reserva que el Instituto constituirá para atender las
+solicitudes de devolución señaladas en el párrafo
+anterior y el procedimiento que deberá seguir para
+ello.
+Artículo reformado DOF 16-12-2020
 TÍTULO SEXTO
 DE LAS RESPONSABILIDADES, INFRACCIONES,
 SANCIONES Y DELITOS
@@ -7295,6 +7411,7 @@ Denominación del Título reformada DOF 20-12-2001
 CAPÍTULO I
 DE LAS RESPONSABILIDADES
 Denominación del Capítulo reformada DOF 20-12-2001
+
 Artículo 303. Los servidores públicos del Instituto,
 están obligados a observar en el cumplimiento de sus
 obligaciones, los principios de responsabilidad, ética
@@ -7311,7 +7428,6 @@ Artículo reformado DOF 20-12-2001
 Artículo 303 A. El incumplimiento de las
 obligaciones administrativas, que en su caso
 correspondan, serán sancionadas en los términos
-
 previstos en la Ley Federal de Responsabilidades de
 los Servidores Públicos, salvo los que se encuentren
 comprendidos en el artículo 5o. de dicho
@@ -7327,6 +7443,7 @@ que establece el artículo 287, serán sancionados con
 multa del cuarenta al cien por ciento del concepto
 omitido.
 Artículo reformado DOF 20-12-2001
+
 Artículo 304 A. Son infracciones a esta Ley y a sus
 reglamentos, los actos u omisiones del patrón o sujeto
 obligado que se enumeran a continuación:
@@ -7345,7 +7462,6 @@ o
 hacerlo
 extemporáneamente las modificaciones al salario
 base de cotización de sus trabajadores;
-
 IV. No determinar o determinar en forma
 extemporánea las cuotas obrero patronales
 legalmente a su cargo;
@@ -7359,6 +7475,7 @@ de obras o cédulas de determinación de cuotas
 obrero patronales con datos falsos, salvo
 aquéllos que por su naturaleza no sean de su
 responsabilidad;
+
 VII. No llevar los registros de nóminas o listas de
 raya, en los términos que señala la Ley y el
 Reglamento para el Pago de Cuotas del Seguro
@@ -7371,7 +7488,6 @@ requiera, los elementos necesarios para
 determinar la existencia, naturaleza y cuantía de
 las obligaciones a su cargo o hacerlo con
 documentación alterada o falsa;
-
 X. Obstaculizar o impedir, por sí o por interpósita
 persona, las inspecciones o visitas domiciliarias,
 así como el procedimiento administrativo de
@@ -7387,6 +7503,7 @@ estadísticas de ocurrencias y en difundir, en el
 prevención de riesgos de trabajo;
 XII. No dar aviso al Instituto de los riesgos de
 trabajo, ocultar su ocurrencia en las instalaciones
+
 o fuera de ellas en el desarrollo de sus
 actividades, o no llevar los registros de los
 riesgos de trabajo o no mantenerlos
@@ -7400,7 +7517,6 @@ XIV. Alterar, desprender o destruir, por sí o por
 interpósita persona, los documentos, sellos o
 marcas colocados por los visitadores del Instituto
 con el fin de asegurar la contabilidad, en los
-
 sistemas, libros, registros y demás documentos
 que la integren, así como en los equipos,
 muebles u oficinas en que se encuentre
@@ -7420,6 +7536,7 @@ incompletos, en relación con el periodo y plazos
 señalados en el reglamento correspondiente. No
 se impondrá multa a los patrones por la no
 presentación de los formularios de determinación
+
 de la prima del seguro antes mencionado cuando
 ésta resulte igual a la del ejercicio anterior;
 XVI. No dar aviso al Instituto o hacerlo
@@ -7433,7 +7550,6 @@ legalmente, o habiéndolas retenido, no enterarlas
 al Instituto;
 XVIII. No comunicar al Instituto por escrito sobre el
 estallamiento de huelga o terminación de la
-
 misma; la suspensión; cambio o término de
 actividades; la clausura; el cambio de nombre o
 razón social; la fusión o escisión;
@@ -7447,6 +7563,7 @@ autorizado sus aportaciones ante el Instituto;
 Fracción reformada DOF 09-07-2009
 XXI. Notificar en forma extemporánea, hacerlo con
 datos falsos o incompletos o bien, omitir notificar
+
 al Instituto en los términos del reglamento
 respectivo, el domicilio de cada una de las obras
 o fase de obra que realicen los patrones que
@@ -7461,7 +7578,6 @@ Artículo 304 B. Las infracciones señaladas en el
 artículo anterior, se sancionarán considerando la
 gravedad, condiciones particulares del infractor y en
 su caso la reincidencia, en la forma siguiente:
-
 I.
 
 Las previstas en las fracciones IV, V, VII, VIII, XI,
@@ -7477,6 +7593,7 @@ III. Las previstas en las fracciones VI, IX y XV con
 multa equivalente al importe de veinte a
 doscientas diez veces el salario mínimo diario
 general vigente en el Distrito Federal, y
+
 IV. Las previstas en las fracciones I, II, XII, XIV,
 XVII, XX, XXI y XXII, con multa equivalente al
 importe de veinte a trescientas cincuenta veces
@@ -7508,6 +7625,7 @@ autorizado ante el Instituto, respecto de actos u
 omisiones en que hubiere incurrido y que se
 observen en el dictamen.
 Artículo adicionado DOF 20-12-2001
+
 Artículo 304 D. El Instituto podrá dejar sin efectos
 las multas impuestas por infracción a las
 disposiciones de esta Ley y sus reglamentos, cuando
@@ -7519,7 +7637,6 @@ términos de este artículo, no constituye instancia y las
 resoluciones que dicte el Instituto al respecto no
 podrán ser impugnadas por los medios de defensa
 que establece esta Ley.
-
 La solicitud dará lugar a la suspensión del
 procedimiento administrativo de ejecución, si así se
 solicita y se garantiza el interés del Instituto.
@@ -7538,6 +7655,7 @@ Instituto
 formule
 querella,
 independientemente, del estado en que se encuentre
+
 el procedimiento administrativo, que en su caso se
 tenga iniciado.
 Artículo reformado DOF 20-12-2001
@@ -7550,7 +7668,6 @@ autoridad judicial no impondrá sanción pecuniaria.
 Artículo adicionado DOF 20-12-2001
 Artículo 307. Cometen el delito de defraudación a
 los regímenes del seguro social, los patrones o sus
-
 representantes y demás sujetos obligados que, con
 uso de engaños o aprovechamiento de errores omitan
 total o parcialmente el pago de las cuotas obrero
@@ -7566,6 +7683,7 @@ Artículo adicionado DOF 20-12-2001
 Artículo 308. El delito de defraudación a los
 regímenes del seguro social, se sancionará con las
 siguientes penas:
+
 I.
 
 Con prisión de tres meses a dos años cuando el
@@ -7580,7 +7698,6 @@ pero no de diecinueve mil salarios mínimos
 diarios vigentes en el Distrito Federal, o
 III. Con prisión de cinco a nueve años, cuando el
 monto de lo defraudado fuere mayor de
-
 diecinueve mil salarios mínimos diarios vigentes
 en el Distrito Federal.
 Cuando no se pueda identificar la cuantía de lo que
@@ -7596,6 +7713,7 @@ condiciones establecidos en esta Ley.
 Cuando el delito sea calificado, la pena que
 corresponda se aumentará en una mitad.
 Artículo adicionado DOF 20-12-2001
+
 Artículo 310. Será sancionado con las mismas
 penas del delito de defraudación a los regímenes del
 seguro social, quien a sabiendas:
@@ -7609,7 +7727,6 @@ la devolución de cuotas obrero patronales que no
 le correspondan;
 III. Se beneficie sin derecho de un subsidio o
 estímulo fiscal, o
-
 IV. Simule uno o más actos o contratos obteniendo
 un beneficio indebido con perjuicio al Instituto.
 Artículo adicionado DOF 20-12-2001
@@ -7627,6 +7744,7 @@ por ciento o más de la obligación fiscal, o
 
 II. Obtengan un beneficio indebido y no
 comuniquen al Instituto la suspensión o término
+
 de actividades; clausura; cambio de razón social;
 modificación de salario; actividad; domicilio;
 sustitución patronal; fusión o cualquier otra
@@ -7640,7 +7758,6 @@ años de prisión, al depositario o interventor designado
 por el Instituto que disponga para sí o para otro, del
 bien depositado, de sus productos o de las garantías
 que de cualquier crédito fiscal se hubieren constituido,
-
 si el valor de lo dispuesto no excede de novecientos
 salarios mínimos diarios vigentes en el Distrito
 Federal; cuando exceda, la sanción será de cuatro a
@@ -7671,7 +7788,6 @@ Penal Federal, el obtener, así como el propiciar su
 obtención, de los seguros, prestaciones y servicios
 que esta Ley establece, sin tener el carácter de
 derechohabiente, mediante cualquier engaño o
-
 aprovechamiento de error, ya sea en virtud de
 simulación, sustitución de personas o cualquier otro
 acto.
@@ -7687,6 +7803,7 @@ cualquier modo a un patrón o cualquier otro sujeto
 obligado, con formular por sí o por medio de la
 dependencia de su adscripción una querella al
 Ministerio Público para que se ejercite acción penal
+
 por la posible comisión de los delitos previstos en este
 Capítulo.
 Artículo adicionado DOF 20-12-2001
@@ -7700,7 +7817,6 @@ Artículo 318. No se formulará querella, si quien
 hubiere omitido el pago total o parcial de alguna cuota
 obrero patronal u obtenido un beneficio indebido, lo
 entera espontáneamente con sus recargos y
-
 actualización antes de que la autoridad del Instituto
 descubra la omisión, el perjuicio o el beneficio
 indebido mediante requerimiento, orden de visita o
@@ -7716,6 +7832,7 @@ si no tiene conocimiento, en cinco años, que se
 computará a partir de la fecha de la comisión del
 delito.
 Artículo adicionado DOF 20-12-2001
+
 TRANSITORIOS
 PRIMERO.- Esta Ley entrará en vigor en toda la
 República el día primero de julio de mil novecientos
@@ -7728,7 +7845,6 @@ de 1973, la Ley que incorpora al Régimen del Seguro
 Social obligatorio a los Productores de Caña de
 Azúcar y a sus trabajadores, publicada el siete de
 diciembre de 1963 en dicho órgano oficial, así como
-
 todas las disposiciones legales que se opongan a la
 presente Ley.
 SEGUNDO. En tanto se expidan las disposiciones
@@ -7756,6 +7872,7 @@ en
 el
 presente
 ordenamiento.
+
 CUARTO. Para el caso de los trabajadores que
 hayan cotizado en términos de la Ley del Seguro
 Social que se deroga, y que llegaren a pensionarse
@@ -7773,7 +7890,6 @@ decidir lo que a sus intereses convenga.
 QUINTO. Los derechos adquiridos por quienes se
 encuentran en período de conservación de los
 mismos, no serán afectados por la entrada en vigor
-
 de esta Ley y sus titulares accederán a las pensiones
 que les correspondan conforme a la Ley que se
 deroga. Tanto a ellos como a los demás asegurados
@@ -7789,6 +7905,7 @@ relación laboral que origine ese pago. De terminarse
 esa relación e iniciarse otra similar, aun en el
 supuesto que el salario percibido fuere inferior al
 mínimo, cotizará en los términos de esta Ley.
+
 SEPTIMO. Los asegurados a que se refieren los
 artículos 12 fracción III y 13 de la Ley del Seguro
 Social, que se deroga, y los comprendidos en la Ley
@@ -7803,7 +7920,6 @@ de la fecha en que entre en vigor esta Ley, deberán
 ratificar su voluntad de permanecer en el régimen
 obligatorio o continuar incorporados voluntariamente a
 dicho régimen a través del convenio que para tal fin
-
 se formalice con el Instituto, de acuerdo a las bases y
 términos que establece esta Ley.
 OCTAVO. Los seguros facultativos establecidos con
@@ -7817,6 +7933,7 @@ mismas cuotas que venían cubriendo en el seguro de
 riegos de trabajo.
 A partir del segundo bimestre de 1998, estos
 patrones deberán determinar su prima conforme a su
+
 siniestralidad registrada del periodo comprendido del
 1 de enero al 31 de diciembre de 1997.
 Los patrones inscritos o que cambien de actividad
@@ -7831,7 +7948,6 @@ año de vigencia de la Ley, para el efecto de
 determinar el factor de prima que permita, en su caso,
 mantener el equilibrio financiero del Seguro de
 Riesgos de Trabajo. De requerirse alguna adecuación
-
 a esta fórmula se llevarán a cabo, por parte del
 Instituto, los trámites administrativos necesarios ante
 las instancias que corresponda, para que éstas a su
@@ -7846,6 +7962,7 @@ riesgos de trabajo, se encontraban previstos por la
 Ley del Seguro Social que se deroga, podrán optar
 por acogerse a los beneficios por ella contemplados o
 a los que establece la presente Ley.
+
 DUODECIMO. Estarán a cargo del Gobierno Federal
 las pensiones que se encuentren en curso de pago,
 así como las prestaciones o pensiones de aquellos
@@ -7859,7 +7976,6 @@ retiro se estará a lo siguiente:
 a) Los sujetos que se encuentren en conservación
 de derechos y que se pensionen bajo el régimen de la
 Ley anterior, recibirán además de la pensión que
-
 corresponda, sus fondos acumulados en la subcuenta
 del seguro de retiro en una sola exhibición.
 b) Los sujetos que lleguen a la edad de pensionarse
@@ -7875,6 +7991,7 @@ Administradoras de Fondos para el Retiro al Gobierno
 Federal.
 DECIMO CUARTO. Quienes estuvieran asegurados
 con anterioridad a la entrada en vigor de esta Ley
+
 tendrán derecho a solicitar a la Institución de crédito o
 entidad autorizada, se transfieran a la Administradora
 de Fondos para el Retiro la totalidad de los recursos
@@ -7893,7 +8010,6 @@ crédito deberán transferir las cuentas individuales de
 los trabajadores que no elijan Administradora de
 Fondos para el Retiro a aquéllas que les indique la
 Comisión Nacional del Sistema de Ahorro para el
-
 Retiro, mediante disposiciones de carácter general
 que a tal efecto expida.
 DECIMO QUINTO. Las instituciones de crédito que
@@ -7910,6 +8026,7 @@ para el retiro. Asimismo quedarán sujetas a la
 inspección y vigilancia de la Comisión Nacional del
 Sistema de Ahorro para el Retiro, en tanto manejen
 cuentas del mencionado sistema.
+
 DECIMO SEXTO. Al iniciar la vigencia de la
 presente Ley, susbsistirá la subcuenta del seguro de
 retiro prevista por la legislación que se deroga, misma
@@ -7922,7 +8039,6 @@ Administradoras de Fondos para el Retiro, las que los
 mantendrán invertidos en estas subcuentas
 separadas de las subcuentas a que se refiere el
 artículo 159 fracción I.
-
 Los trabajadores tendrán el derecho de elegir la
 Administradora de Fondos para el Retiro que
 administre su cuenta individual.
@@ -7938,6 +8054,7 @@ reconocidas las semanas cotizadas bajo el régimen
 anterior, con la finalidad de que al cumplirse los
 requisitos legales, se les conceda la pensión que
 corresponda.
+
 DECIMO NOVENO. La tasa sobre el salario mínimo
 general diario del Distrito Federal a que se refiere la
 fracción I del artículo 106, se incrementará el primero
@@ -7954,7 +8071,6 @@ Las tasas a que se refiere la fracción II del artículo
 cuarenta y nueve centésimas de punto porcentual la
 que corresponde a los patrones y en dieciséis
 centésimas de punto porcentual la que corresponde
-
 pagar a los trabajadores. Estas modificaciones
 comenzarán en el año de 1998 y terminarán en el año
 2007.
@@ -7971,6 +8087,7 @@ empezó a constituir a partir del 2 de enero de 1991 y
 hasta el 31 de diciembre de 1996, pueda invertirse en
 activos distintos a los señalados en el artículo 284,
 conforme a las bases siguientes:
+
 I. La inversión en activos distintos a los señalados
 en el artículo 284, en ningún caso podrá ser superior
 al 50% del total de la propia reserva;
@@ -7981,7 +8098,6 @@ III. En todo caso a más tardar dentro de los cuatro
 años contados a partir del 2 de febrero de 1997, la
 reserva deberá estar totalmente invertida en términos
 del artículo 284.
-
 VIGESIMO SEGUNDO. En un plazo que no exceda
 de cuatro años a partir del día 2 de enero de 1997, el
 Instituto deberá adecuar la inversión de su reserva
@@ -8000,6 +8116,7 @@ sociedades
 cooperativas de producción que se encuentren
 inscritas en los términos de la Ley del Seguro Social
 que se deroga, continuarán cubriendo el cincuenta
+
 por ciento de las primas totales y el Gobierno Federal
 contribuirá con el otro cincuenta por ciento.
 VIGESIMO CUARTO. Los trámites y procedimientos
@@ -8012,7 +8129,6 @@ relativo al seguro de invalidez y vida, así como en los
 ramos de cesantía en edad avanzada y vejez. Los
 demás ramos de aseguramiento tendrán como límite
 superior desde el inicio de la vigencia de esta ley el
-
 equivalente a veinticinco veces el salario mínimo
 general que rija en el Distrito Federal.
 Aclaración al párrafo DOF 16-01-1996
@@ -8029,6 +8145,7 @@ VIGESIMO SEXTO. El Reglamento de Afiliación que
 normará el procedimiento a través del cual se
 inscribirán los trabajadores asalariados a que se
 refiere el capítulo X del Título II de esta Ley, se
+
 expedirá dentro de los ciento ochenta días posteriores
 a la entrada en vigor del presente ordenamiento.
 VIGESIMO SEPTIMO. El pago de las cuotas obrero
@@ -8041,7 +8158,6 @@ VIGESIMO OCTAVO. A fin de que el marco
 normativo que regula a las Administradoras de
 Fondos para el Retiro y a las sociedades de inversión
 especializadas de fondos para el retiro guarde
-
 congruencia con esta Ley, previamente a la entrada
 en vigor a la misma, se deberá reformar la Ley para la
 Coordinación de los Sistemas de Ahorro para el
@@ -8058,6 +8174,7 @@ Ahorro para el Retiro preverá la forma y términos en
 que la Comisión Nacional del Sistema de Ahorro para
 el Retiro, enviará un informe por escrito al Congreso
 de la Unión en forma Semestral, independientemente
+
 de los reportes sobre comisiones, número de
 afiliados, estado de situación financiera, estado de
 resultados, composición de cartera y rentabilidad de
@@ -8071,7 +8188,6 @@ socios en las sociedades de inversión especializadas
 de fondos para el retiro. Para lo anterior, conforme a
 la multicitada Ley, se establecerán los mecanismos
 que garanticen la optimización de estos recursos. La
-
 Comisión Nacional del Sistema de Ahorro para el
 Retiro, tomará en cuenta las recomendaciones que le
 haga la Comisión Nacional Bancaria y de Valores a
@@ -8088,6 +8204,7 @@ disfrute de cualquiera de las pensiones previstas en la
 Ley que se deroga, opten por acogerse al beneficio
 de dicha Ley en términos del Artículo Tercero
 Transitorio, sin perjuicio de lo dispuesto en la misma
+
 con respecto al otorgamiento de préstamos a cuenta
 de su pensión, podrán optar por solicitar préstamos
 con cualquiera de las Entidades Financieras a que se
@@ -8101,19 +8218,23 @@ pago del préstamo y los entregue a la Entidad
 Financiera que lo otorgó.
 El Instituto únicamente podrá celebrar los convenios
 a que se refiere el párrafo anterior, cuando en los
-
 mismos se estipule que el descuento mensual
 derivado de una o más transacciones, considerando
 otros descuentos que en términos de las
 disposiciones jurídicas resulten procedentes, en
 ningún caso excederá del treinta por ciento del monto
 de la pensión mensual, ni implique que la cuantía de
-la pensión se reduzca a una cantidad inferior a la
-pensión garantizada establecida en esta Ley, y que el
-plazo para el pago del préstamo no exceda de
-sesenta meses. En la aplicación de los referidos
-descuentos se aplicará la prelación que corresponda
-en términos de las disposiciones jurídicas aplicables.
+la pensión se reduzca a una cantidad inferior al
+promedio de las pensiones garantizadas, que
+corresponda a un salario mínimo y sesenta años de
+edad, de acuerdo a la tabla establecida en el artículo
+170 de esta Ley y que el plazo para el pago del
+préstamo no exceda de sesenta meses. En la
+aplicación de los referidos descuentos se aplicará la
+prelación que corresponda en términos de las
+disposiciones jurídicas aplicables.
+Párrafo reformado DOF 16-12-2020
+
 Las Entidades Financieras deberán comunicar al
 Instituto las condiciones generales del préstamo,
 incluyendo el Costo Anual Total aplicable a los
@@ -8131,7 +8252,6 @@ El Consejo Técnico del Instituto podrá emitir las
 disposiciones de carácter administrativo necesarias
 para la debida observancia de lo dispuesto en este
 artículo.
-
 Artículo adicionado DOF 28-05-2012
 México, D.F., a 12 de diciembre de 1995.- Dip.
 Oscar Cantón Zetina, Presidente.- Sen. Gustavo
@@ -8146,6 +8266,7 @@ Artículo 89 de la Constitución Política de los Estados
 Unidos Mexicanos, y para su debida publicación y
 observancia, expido el presente Decreto en la
 residencia del Poder Ejecutivo Federal, en la Ciudad
+
 de México, Distrito Federal, a los diecinueve días del
 mes de diciembre de mil novecientos noventa y
 cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El
