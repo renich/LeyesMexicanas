@@ -28,7 +28,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/136_300118.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/139_090318.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/13_250618.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/140_120718.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/142_221220.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/142_070121.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/143_190118.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/144_140618.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/145_220618.pdf
@@ -38,7 +38,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/149_130420.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/14_110820.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/151_110814.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/152.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/153_071220.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/153_110121.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/157.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/158.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/159.pdf
@@ -87,7 +87,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/219.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/22_150420.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/234.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/235_120419.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/235_070121.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/237_090318.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/238.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/239_310115.pdf
@@ -107,7 +107,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/257_200618.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/25_180618.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/260.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/262_210618.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/263_190118.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/263_070121.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/264_250618.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/266_240418.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/267_211020.pdf
@@ -118,7 +118,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/271.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/27_011220.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/28.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/29_220120.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/2_270320.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/2_110121.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/31_300118.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/33.pdf
@@ -229,7 +229,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG_300118.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGCS_110518.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT_150618.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS_130420.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA_171019.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA_110121.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGDOCIA_070121.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGE_300919.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIMH_140618.pdf
@@ -396,6 +396,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Prestacion_de_Ser
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Proteccion_Civil.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Proteccion_de_Datos_Personales-Posesion-Sujetos_Obligados.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Responsabilidades_Administrativas.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Salud.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Sociedades_Cooperativas.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Sociedades_Mercantiles.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Titulos_y_Operaciones_de_Credito.pdf
@@ -418,7 +419,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_para_la_Deteccion_Op
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_para_la_Igualdad_entre_Mujeres_y_Hombres.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_para_la_Inclusion_de_las_Personas_con_Discapacidad.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_para_la_Prevencion_Social_de_la_Violencia_y_la_Delincuencia.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_para_la_Prevencion_y_Gestion_Integral_de_los_Residuos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Minera.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Monetaria.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Nacional_de_Ejecucion_Penal.pdf
