@@ -8,7 +8,7 @@ ELECTORALES
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 23 de mayo de 2014
 TEXTO VIGENTE
-Última reforma publicada DOF 13-04-2020
+Última reforma publicada DOF 19-02-2021
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -239,6 +239,13 @@ este Título se aplicarán con independencia de la
 sanción establecida para los tipos penales que
 concurran en la comisión de los delitos previstos en
 esta Ley.
+La persona juzgadora ordenará la prisión preventiva
+oficiosa tratándose de los delitos previstos en los
+artículos 7, fracción VII, párrafo tercero; 7 Bis; 11,
+fracción II; 11 Bis y 20, fracción II, de esta Ley,
+cuando se encuentren relacionados con el uso de
+programas sociales con fines electorales.
+Párrafo adicionado DOF 19-02-2021
 CAPÍTULO II
 Delitos en Materia Electoral
 Artículo 7. Se impondrán de cincuenta a cien
@@ -247,13 +254,13 @@ quien:
 I. Vote a sabiendas de que no cumple con los
 requisitos de la ley;
 II. Vote más de una vez en una misma elección;
+
 III. Haga proselitismo o presione objetivamente a
 los electores el día de la jornada electoral en el
 interior de las casillas o en el lugar en que se
 encuentren formados los votantes, con el fin de
 orientar el sentido de su voto o para que se
 abstenga de emitirlo;
-
 IV. Obstaculice o interfiera el desarrollo
 normal de las votaciones, el escrutinio y
 cómputo, o el adecuado ejercicio de las tareas
@@ -275,13 +282,13 @@ VII. Solicite votos por paga, promesa de dinero u
 otra contraprestación, o bien mediante violencia o
 amenaza, presione a otro a asistir a eventos
 proselitistas, o a votar o abstenerse de votar por
+
 un candidato, partido político o coalición, durante
 la campaña electoral, el día de la jornada
 electoral o en los tres días previos a la misma.
 Párrafo reformado DOF 27-06-2014
 Si la conducta especificada en el párrafo anterior
 es cometida por un integrante de un organismo de
-
 seguridad pública, se aumentará hasta un tercio
 de la pena prevista en el presente artículo.
 De igual forma, se sancionará a quien amenace
@@ -302,13 +309,18 @@ votantes el día de la jornada electoral, con la
 finalidad de influir en el sentido del voto;
 XI. Se apodere, destruya, altere, posea, use,
 adquiera, venda o suministre de manera ilegal, en
-cualquier tiempo, materiales o documentos
+
+cualquier tiempo, materiales
 públicos electorales.
+
+o
+
+documentos
+
 Si el apoderamiento se realiza en lugar cerrado
 o con violencia, se aumentará la pena hasta en
 un tercio más. Si éste se realiza por una o varias
 personas armadas o que porten objetos
-
 peligrosos, a la pena señalada se aumentará
 hasta en una mitad más;
 XII. Se apodere, destruya, altere, posea,
@@ -330,13 +342,13 @@ conducta se realiza por una o varias personas
 armadas o que utilicen o porten objetos
 peligrosos, a la pena señalada se aumentará
 hasta en una mitad, con independencia de las
+
 que correspondan por la comisión de otros
 delitos;
 Fracción reformada DOF 27-06-2014
 XV. Durante los tres días previos a la elección y
 hasta la hora del cierre oficial de las casillas que
 se encuentren en las zonas de husos horarios
-
 más occidentales del territorio nacional, publique
 o difunda por cualquier medio los resultados de
 encuestas o sondeos de opinión que tengan por
@@ -358,21 +370,37 @@ lugares donde se resguarden;
 XVIII. Por sí o interpósita persona, proporcione
 fondos provenientes del extranjero a un partido
 político, coalición, agrupación política o
-candidato para apoyar actos proselitistas
+
+candidato para apoyar actos
 dentro de una campaña electoral;
+
+proselitistas
+
 XIX. Expida o utilice facturas o documentos
 comprobatorios de gasto de partido político o
 candidato, alterando el costo real de los bienes
 o servicios prestados;
-
 XX. Usurpe el carácter de funcionario de casilla, o
 XXI. Provea bienes y servicios a las campañas
 electorales sin formar parte del padrón de
 proveedores autorizado por el órgano electoral
 administrativo.
+Artículo 7 Bis. Se impondrá de trescientos a
+seiscientos días multa y prisión de cuatro a nueve
+años a quien, utilizando bienes, fondos, servicios o
+beneficios relacionados con programas sociales,
+ejerza cualquier tipo de presión sobre el electorado
+para votar o abstenerse de votar por una o un
+candidato, partido político o coalición, o bien para
+participar o abstenerse de participar en eventos
+proselitistas, o para votar o abstenerse de votar por
+alguna opción durante el procedimiento de consulta
+popular.
+Artículo adicionado DOF 19-02-2021
 Artículo 8. Se impondrá de cincuenta a doscientos
 días multa y prisión de dos a seis años, al funcionario
 electoral que:
+
 I. Altere en cualquier forma, sustituya, destruya,
 comercialice o haga un uso ilícito de documentos
 relativos al Registro Federal de Electores,
@@ -388,7 +416,6 @@ electorales;
 V. No entregue o impida la entrega oportuna de
 documentos o materiales electorales, sin mediar
 causa justificada;
-
 VI. Induzca o ejerza presión, en ejercicio de
 sus funciones, sobre los electores para votar o
 abstenerse de votar por un partido político,
@@ -399,6 +426,7 @@ materia, la instale en lugar distinto al
 legalmente señalado, o impida su instalación;
 VIII. Expulse u ordene, sin causa prevista por la
 ley, el retiro de la casilla electoral de
+
 representantes de un partido político o de
 candidato
 independiente
@@ -422,7 +450,6 @@ legalmente no le hayan sido encomendadas.
 Artículo 9. Se impondrán de cien a doscientos
 días multa y prisión de dos a seis años, al
 funcionario partidista o al candidato que:
-
 I. Ejerza presión o induzca a los electores a votar
 o abstenerse de votar por un candidato, partido
 político o coalición, el día de la elección o en
@@ -436,6 +463,7 @@ documentos
 o
 materiales
 electorales;
+
 IV. Obstaculice el desarrollo normal de la
 votación o de los actos posteriores a la misma
 sin mediar causa justificada, o con ese fin ejerza
@@ -448,16 +476,10 @@ una casilla, así como el escrutinio y cómputo, el
 traslado y entrega de los paquetes y
 documentación electoral, o el adecuado ejercicio
 de las tareas de los funcionarios electorales;
-VII. Se abstenga de
-la comprobación o
-ordinarios o gastos
-campaña de algún
-
-rendir cuentas o de realizar
-justificación de los gastos
-de eventos proselitistas de
-partido político, coalición,
-
+VII. Se abstenga de rendir cuentas o de realizar
+la comprobación o justificación de los gastos
+ordinarios o gastos de eventos proselitistas de
+campaña de algún partido político, coalición,
 agrupación política nacional o candidato, una
 vez que hubiese sido legalmente requerido
 dentro del ámbito de sus facultades;
@@ -466,6 +488,7 @@ VIII. Durante la etapa de preparación de la
 elección o en la jornada electoral, solicite votos
 por paga, promesa de dinero, recompensa o
 cualquier otra contraprestación;
+
 IX. Oculte, altere o niegue la información que le
 sea legalmente requerida por la autoridad electoral
 competente, o
@@ -488,7 +511,6 @@ de los partidos políticos o agrupaciones
 políticas que hayan perdido su registro,
 habiendo sido requerido por la autoridad;
 Fracción reformada DOF 27-06-2014
-
 II. Dentro del ámbito de sus facultades, se
 abstenga de transmitir la propiedad o posesión
 de los bienes adquiridos con financiamiento
@@ -504,6 +526,7 @@ política del cual forme o haya formado parte,
 previo requerimiento de la autoridad electoral
 competente;
 Fracción reformada DOF 27-06-2014
+
 III. Sin estar autorizado enajene, grave o done
 los bienes muebles o inmuebles, que integren
 el patrimonio del partido político o la agrupación
@@ -527,7 +550,6 @@ concesiones,
 permisos,
 licencias,
 autorizaciones, franquicias, exenciones o la
-
 realización de obras públicas, en el ámbito de su
 competencia, a la emisión del sufragio en favor
 de un precandidato, candidato, partido político o
@@ -540,6 +562,7 @@ condicionamiento
 del
 programa
 gubernamental, se realiza utilizando programas
+
 de naturaleza social, se aumentará hasta un
 tercio de la pena prevista en este artículo;
 III. Destine, utilice o permita la utilización, de
@@ -558,11 +581,22 @@ V. Solicite a sus subordinados, por cualquier
 medio, aportaciones de dinero o en especie para
 apoyar a un precandidato, candidato, partido
 político, coalición o agrupación política, o
-
 VI. Se abstenga de entregar o niegue, sin causa
 justificada, la información que le sea solicitada por
 la autoridad electoral competente, relacionada con
 funciones de fiscalización.
+Artículo 11 Bis. Se impondrá de quinientos a mil
+días multa y prisión de cuatro a nueve años, a la
+servidora o servidor público que, durante el proceso
+electoral, use o permita el uso de los recursos
+públicos, bienes, fondos, servicios, o beneficios
+
+relacionados con programas sociales con la finalidad
+de incidir en el electorado para posicionarse o
+posicionar ante el electorado a distinta o distinto
+servidor público, precandidato, aspirante a candidato
+independiente, candidato, partido político o coalición.
+Artículo adicionado DOF 19-02-2021
 Artículo 12. Se impondrá sanción de suspensión
 de sus derechos políticos hasta por seis años a
 quienes, habiendo sido electos a un cargo de
@@ -584,9 +618,9 @@ servicios o bienes para que una o más personas
 proporcionen documentos o información falsa al
 Registro Federal de Electores, Padrón Electoral o
 Listado de Electores, se les impondrá hasta una
+
 mitad más de la sanción que les corresponda
 conforme al primer párrafo de este artículo.
-
 A quien por sí o a través de terceros, mediante
 amenaza o promesa de empleo, paga o dádiva, o
 promesa de entrega de cualquier tipo de
@@ -616,10 +650,10 @@ funcionario partidista o a los organizadores de actos
 de campaña que aproveche fondos, bienes o
 servicios en los términos de la fracción III del artículo
 11 de esta Ley.
+
 Artículo 15. Se impondrá de mil a cinco mil días
 multa y de cinco a quince años de prisión al que por
 sí o por interpósita persona realice, destine, utilice o
-
 reciba aportaciones de dinero o en especie a favor
 de algún precandidato, candidato, partido político,
 coalición o agrupación política cuando exista una
@@ -645,10 +679,10 @@ documentos concernientes a la elección.
 Artículo 18. Se impondrá de cuatrocientos a
 ochocientos días multa a quienes habiendo sido
 magistrados electorales, federales o locales,
+
 consejeros electorales, nacionales o locales,
 secretario ejecutivo del Instituto Nacional Electoral o
 cargo equivalente en los organismos públicos locales
-
 electorales de las entidades federativas, desempeñen
 o sean designados en cargos públicos por los
 Poderes Ejecutivo o Legislativo cuya elección
@@ -674,9 +708,9 @@ III. Solicite votos por paga, promesa de dinero u
 otra recompensa para emitir su voto o abstenerse
 de emitirlo en la consulta popular, durante el
 procedimiento de consulta popular.
+
 Artículo 20. Se impondrá de doscientos a
 cuatrocientos días multa y prisión de dos a nueve
-
 años, al servidor público que durante el procedimiento
 de consulta popular:
 I. Coaccione, induzca o amenace a sus
@@ -704,6 +738,7 @@ sus derechos políticos y electorales, o el
 desempeño de un cargo público;
 II. Restrinja o anule el derecho al voto libre y secreto
 de una mujer;
+
 III.
 
 Amenace o intimide a una mujer, directa o
@@ -740,10 +775,20 @@ VIII. Publique o divulgue imágenes, mensajes o
 información privada de una mujer, que no tenga
 relación con su vida pública, utilizando
 estereotipos de género que limiten o menoscaben
-el ejercicio de sus derechos políticos y
-electorales;
 
+el ejercicio
+electorales;
 IX.
+
+de
+
+sus
+
+derechos
+
+políticos
+
+y
 
 Limite o niegue que una mujer reciba la
 remuneración por el desempeño de sus
@@ -772,9 +817,9 @@ contemplada en la normatividad, y
 XIV. Realice o distribuya propaganda político
 electoral que degrade o denigre a una mujer,
 basándose en estereotipos de género, con el
+
 objetivo de menoscabar su imagen pública o
 limitar sus derechos políticos y electorales.
-
 Las conductas señaladas en las fracciones de la I a
 la VI, serán sancionadas con pena de cuatro a seis
 años de prisión y de 200 a 300 días multa.
@@ -799,8 +844,8 @@ imposición de las penas señaladas en este artículo,
 se seguirán las reglas de autoría y participación en
 términos de la legislación penal aplicable.
 Artículo adicionado DOF 13-04-2020
-TÍTULO TERCERO
 
+TÍTULO TERCERO
 COMPETENCIAS, FACULTADES Y
 COORDINACIÓN ENTRE LA FEDERACIÓN Y LAS
 ENTIDADES FEDERATIVAS
@@ -824,10 +869,10 @@ pretenda que tengan efectos en el extranjero, en
 términos de los artículos 2o., 3o., 4o., 5o. y 6o. del
 Código Penal Federal o en la Ley Orgánica del
 Poder Judicial de la Federación, o
+
 IV. El Ministerio Público Federal ejerza la facultad
 de atracción cuando se actualice alguno de los
 siguientes supuestos:
-
 a. Cuando los delitos del fuero común tengan
 conexidad con delitos federales, o
 b. Cuando el Instituto Nacional Electoral, ejerza
@@ -856,10 +901,10 @@ de
 la
 Fiscalía
 Especializada en materia de Delitos Electorales o del
+
 servidor público en quien se delegue la facultad, las
 procuradurías y fiscalías de las entidades federativas,
 en el ámbito de sus competencias con base en lo
-
 dispuesto por la fracción XXI, inciso a) del artículo 73
 constitucional y las disposiciones de esta Ley,
 deberán coordinarse para:
@@ -889,9 +934,9 @@ la Federación y las entidades federativas en
 materia de investigación y persecución de los
 delitos previstos en esta Ley, incluyendo el uso de
 la fuerza pública;
+
 V. Facilitar la cooperación e intercambio de
 información entre las diversas instancias de
-
 procuración de justicia en el país en materia de
 delitos electorales;
 VI. Recopilar e intercambiar los datos y las
@@ -916,9 +961,9 @@ requieran para su efectiva operación.
 Artículo 26. Los programas y acciones para la
 prevención de los delitos electorales se realizarán en
 términos del convenio de colaboración que suscriban
+
 la Procuraduría General de la República y el Instituto
 Nacional Electoral. La difusión de estos programas y
-
 acciones se realizarán como parte de las campañas
 de educación cívica que efectúe el Instituto Nacional
 Electoral en coordinación con la Procuraduría General
@@ -944,9 +989,9 @@ Artículo Cuarto. Los Congresos de los Estados y la
 Asamblea Legislativa del Distrito Federal, procederán
 a hacer las reformas pertinentes en las leyes
 específicas, con el fin de armonizarlas en lo
+
 conducente a la presente Ley, en un plazo no mayor a
 seis meses a partir de la entrada en vigor de esta Ley.
-
 Artículo Quinto. La implementación del presente
 Decreto será con cargo a los respectivos
 presupuestos de egresos de la federación y de las
@@ -972,8 +1017,8 @@ dentro de los sesenta días siguientes, contados a
 partir de la entrada en vigor del presente Decreto.
 México, D. F., a 14 de mayo de 2014.- Sen. Raúl
 Cervantes Andrade, Presidente.- Dip. José
-González Morfín, Presidente.- Sen. Iris Vianey
 
+González Morfín, Presidente.- Sen. Iris Vianey
 Mendoza Mendoza, Secretaria.- Dip. Xavier Azuara
 Zúñiga, Secretario.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del
