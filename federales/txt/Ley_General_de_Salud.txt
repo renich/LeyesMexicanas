@@ -7,7 +7,7 @@ LEY GENERAL DE SALUD
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 7 de febrero de 1984
 TEXTO VIGENTE
-Última reforma publicada DOF 07-01-2021
+Última reforma publicada DOF 19-02-2021
 
 Al margen un sello con el Escudo Nacional que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -8432,14 +8432,14 @@ I. Las que tienen valor terapéutico escaso o nulo y
 que, por ser susceptibles de uso indebido o abuso,
 constituyen un problema especialmente grave
 para la salud pública, y son:
-Otras
 Denominación Común Internacional
 
-Denominaciones
+Otras Denominaciones
 
 Denominación Química
 
 Comunes o Vulgares
+
 CATINONA
 
 NO TIENE
@@ -8448,11 +8448,10 @@ NO TIENE
 
 MEFEDRONA
 
-4-
+4- METILMETCATITONA
 
-2-methylamino-1ptolylpropan-1-one
+2-methylamino-1ptolylpropan-1one
 
-METILMETCATITONA
 NO TIENE
 
 DET
@@ -8463,14 +8462,13 @@ NO TIENE
 
 DMA
 
-dl-2,5-dimetoxi--metilfeniletilamina.
+dl-2,5-dimetoxi-metilfeniletilamina.
 
 NO TIENE
 
 DMHP
 
-3-(1,2-dimetilhetil)-1-hidroxi-7,8,9,10tetrahidro-6,6,9-trimetil-6H dibenzo (b,d)
-pirano.
+3-(1,2-dimetilhetil)-1-hidroxi7,8,9,10-tetrahidro-6,6,9-trimetil6H dibenzo (b,d) pirano.
 
 NO TIENE
 
@@ -8494,8 +8492,7 @@ d1-2,5-dimetoxi-4-etil-metilfeniletilamina.
 
 LSD, LSD-25
 
-(+)-n,n-dietilisergamida-(dietilamida del
-ácido d-lisérgico).
+(+)-n,n-dietilisergamida(dietilamida del ácido dlisérgico).
 
 NO TIENE
 
@@ -8511,16 +8508,13 @@ dl-3,4-metilendioxi-n,dimetilfeniletilamina.
 
 NO TIENE
 
-MESCALINA
+MESCALINA (PEYOTE; LO-
 
 3,4,5-trimetoxifenetilamina.
 
-(PEYOTE; LOPHOPHORA
-WILLIAMS II
-ANHALONIUM
-WILLIAMS II;
-ANHALONIUM LEWIN
-II.
+PHOPHORA WILLIAMS II
+ANHALONIUM WILLIAMS II;
+ANHALONIUM LEWIN II.
 NO TIENE
 
 MMDA.
@@ -8531,7 +8525,7 @@ NO TIENE
 
 PARAHEXILO
 
-3-hexil-1-hidroxi-7,8,9,10-tetrahidro6,6,9-trimetil-6h-dibenzo [b,d] pirano.
+3-hexil-1-hidroxi-7,8,9,10tetrahidro-6,6,9-trimetil-6hdibenzo [b,d] pirano.
 
 ETICICLIDINA
 
@@ -8553,36 +8547,23 @@ PMA
 
 NO TIENE
 
-PSILOCINA,
+PSILOCINA, PSILOTSINA
 
 3-(2-dimetilaminoetil)
-
-PSILOTSINA
-
 -4-hidroxi-indol.
-
-HONGOS
-
-fosfato dihidrogenado de 3-(2-dimetil-
-
-ALUCINANTES DE
-
-aminoetil)-indol-4-ilo.
 
 PSILOCIBINA
 
-CUALQUIER
-VARIEDAD
-BOTANICA, EN
-ESPECIAL LAS
-ESPECIES
-PSILOCYBE
-MEXICANA,
-STOPHARIA
-CUBENSIS Y
-CONOCYBE, Y SUS
+HONGOS ALUCINANTES
 
-PRINCIPIOS
+fosfato dihidrogenado de 3-(2-
+
+DE CUALQUIER VARIEDAD dimetil-aminoetil)-indol-4-ilo.
+BOTANICA, EN ESPECIAL
+LAS ESPECIES PSILOCYBE
+MEXICANA, STOPHARIA
+CUBENSIS Y CONOCYBE,
+Y SUS PRINCIPIOS
 ACTIVOS.
 NO TIENE
 
@@ -8595,24 +8576,24 @@ TENOCICLIDINA
 
 TCP
 
+1-[1-(2-tienil) ciclohexil]-piperidina.
+
 CANABINOIDES
+SINTÉTICOS
 
 K2
 
-1-[1-(2-tienil) ciclohexil]-piperi-dina.
-
-SINTÉTICOS
 NO TIENE
 
 TMA
 
-dl-3,4,5-trimetoxi--metilfeniletilamina.
+dl-3,4,5-trimetoxi-metilfeniletilamina.
 
 PIPERAZINA TFMPP
 
 NO TIENE
 
-1,3- trifluoromethylphenylpiperazina
+1,3trifluoromethylphenylpiperazina
 
 PIPERONAL O HELIOTROPINA
 ISOSAFROL
@@ -8636,12 +8617,12 @@ por Listado DOF 09-07-1996. Fracción reformada DOF
 II.- Las que tienen algún valor terapéutico, pero
 constituyen un problema grave para la salud
 pública, y que son:
-
 AMOBARBITAL
 ANFETAMINA
 BUTORFANOL
 CICLOBARBITAL
 DEXTROANFETAMINA (DEXANFETAMINA)
+
 FENETILINA
 FENCICLIDINA
 HEPTABARBITAL
@@ -8665,6 +8646,12 @@ BENZODIAZEPINAS:
 ACIDO
 BARBITURICO
 TRIHIDROXIPIRAMIDINA)
+ALPRAZOLAM
+AMOXAPINA
+BROMAZEPAM
+BROTIZOLAM
+CAMAZEPAM
+CLOBAZAM
 
 (2,
 
@@ -8672,12 +8659,6 @@ TRIHIDROXIPIRAMIDINA)
 
 6
 
-ALPRAZOLAM
-AMOXAPINA
-BROMAZEPAM
-BROTIZOLAM
-CAMAZEPAM
-CLOBAZAM
 CLONAZEPAM
 CLORACEPATO DIPOTASICO
 CLORDIAZEPOXIDO
@@ -8704,13 +8685,13 @@ LORAZEPAM
 LORMETAZEPAM
 MEDAZEPAM
 MIDAZOLAM
-
 NIMETAZEPAM
 NITRAZEPAM
 NORDAZEPAM
 OXAZEPAM
 OXAZOLAM
 PEMOLINA
+
 PIMOZIDE
 PINAZEPAM
 PRAZEPAM
@@ -8734,13 +8715,13 @@ FENTERMINA
 GLUTETIMIDA
 HIDRATO DE CLORAL
 KETAMINA
-
 MEFENOREX
 MEPROBAMATO
 TRIHEXIFENIDILO.
 Fe de erratas a la fracción DOF 18-02-1988. Reformada
 por Listado DOF 24-10-1994, 26-07-1995. Fracción
 reformada DOF 07-01-2014
+
 IV.- Las que tienen amplios usos terapéuticos y
 constituyen un problema menor para la salud
 pública, y son:
@@ -8765,15 +8746,15 @@ CARBIDOPA
 CARBROMAL
 CLORIMIPRAMINA
 CLORHIDRATO (sic DOF 19-06-2017)
-
-BETA
-
 CLOROMEZANONA
 CLOROPROMAZINA
 CLORPROTIXENO
 DEANOL
 DESIPRAMINA
 ECTILUREA
+
+BETA
+
 ETINAMATO
 FENELCINA
 FENFLURAMINA
@@ -8801,15 +8782,15 @@ NORTRIPTILINA
 PARALDEHIDO
 PENFLURIDOL
 PENTOTAL SODICO
-
-(+)
-
 PERFENAZINA
 PIPRADROL
 PROMAZINA
 PROPILHEXEDRINA
 SERTRALINA
 SULPIRIDE
+
+(+)
+
 TETRABENAZINA
 TETRAHIDROCANNABINOL, las que sean o
 contengan en concentraciones iguales o menores
@@ -8838,11 +8819,11 @@ en
 las
 disposiciones
 reglamentarias correspondientes.
-
 Los productos que contengan derivados de la
 cannabis en concentraciones del 1% o menores
 de THC y que tengan amplios usos industriales,
 podrán comercializarse, exportarse e importarse
+
 cumpliendo los requisitos establecidos en la
 regulación sanitaria.
 Párrafo adicionado DOF 19-06-2017
@@ -8867,13 +8848,13 @@ empleo, uso, consumo y, en general, todo acto
 relacionado con substancias psicotrópicas o cualquier
 producto que los contenga, queda sujeto a:
 I. Las disposiciones de esta Ley y sus reglamentos;
-
 II. Los tratados y convenciones internacionales en
 los que los Estados Unidos Mexicanos sean parte
 y que se hubieren celebrado con arreglo a las
 disposiciones de la Constitución Política de los
 Estados Unidos Mexicanos;
 Fracción reformada DOF 27-05-1987
+
 III.
 
 Las disposiciones que expida el Consejo de
@@ -8902,12 +8883,12 @@ mencionados en el artículo 247 de esta Ley, con
 relación a las substancias incluidas en la fracción I del
 artículo 245.
 Artículo reformado DOF 27-05-1987, 23-12-1987
-
 Artículo 249.- Solamente para fines de investigación
 científica, la Secretaría de Salud podrá autorizar la
 adquisición de las substancias psicotrópicas a que se
 refiere la fracción I del artículo 245 de esta Ley, para
 ser entregadas bajo control a organismos o
+
 instituciones que hayan presentado protocolo de
 investigación autorizado por aquella Dependencia, los
 que a su vez comunicarán a la citada Secretaría el
@@ -8931,13 +8912,13 @@ misma fracción, requerirán para su venta o suministro
 al público, receta médica que contenga el número de
 la cédula profesional del médico que la expida, la que
 deberá surtirse por una sola vez y retenerse en la
-
 farmacia que la surta, de acuerdo a las disposiciones
 de la Secretaría de Salud.
 Artículo reformado DOF 27-05-1987, 23-12-1987
 Artículo 252.- Las substancias psicotrópicas
 incluidas en la fracción IV del artículo 245 de esta ley,
 así como las que se prevean en las disposiciones
+
 aplicables o en las listas a que se refiere el artículo
 246, cuando se trate del grupo a que se refiere la
 misma fracción, requerirán, para su venta o suministro
@@ -8961,13 +8942,13 @@ Artículo 254.- La Secretaría de Salud y los
 gobiernos de las entidades federativas en sus
 respectivos ámbitos de competencia, para evitar y
 prevenir el consumo de substancias inhalantes que
-
 produzcan efectos psicotrópicos en las personas, se
 ajustarán a lo siguiente:
 Párrafo reformado DOF 27-05-1987
 I. Determinarán y ejercerán medios de control en el
 expendio de substancias inhalantes, para prevenir su
 consumo por parte de menores de edad e incapaces;
+
 II. Establecerán sistemas de vigilancia en los
 establecimientos destinados al expendio y uso de
 dichas substancias, para evitar el empleo indebido de
@@ -8988,12 +8969,12 @@ correspondan en los términos de esta Ley.
 Artículo 254 Bis.- Cuando las autoridades
 competentes decomisen substancias psicotrópicas o
 productos que las contengan, mismas que se enlistan
-
 a continuación, deberán dar aviso a la Secretaría de
 Salud para que expresen su interés en alguna o
 algunas de estas substancias:
 NALBUFINA
 PENTOBARBITAL
+
 SECOBARBITAL y todas las substancias de los
 grupos III y IV del artículo 245 de esta ley.
 En caso de considerar que alguna o algunas de las
@@ -9015,13 +8996,13 @@ y por lo tanto quedarán igualmente sujetos a lo
 dispuesto en los artículos 251 y 252, según lo
 determine la propia Secretaría.
 Artículo reformado DOF 23-12-1987
-
 Artículo 256.- Los envases y empaques de las
 substancias psicotrópicas, para su expendio llevarán
 etiquetas que, además de los requisitos que
 determina el artículo 210 de esta Ley, ostenten los
 que establezcan las disposiciones aplicables a la
 materia de este Capítulo.
+
 CAPITULO VII
 Establecimientos Destinados al Proceso de
 Medicamentos
@@ -9040,12 +9021,12 @@ IV. Laboratorio de control químico, biológico,
 farmacéutico o de toxicología, para el estudio,
 experimentación de medicamentos y materias primas,
 o auxiliar de la regulación sanitaria;
-
 V. Almacén de acondicionamiento de medicamentos
 o productos biológicos y de remedios herbolarios;
 VI. Almacén de depósito y distribución de
 medicamentos o productos biológicos para uso
 humano, y de remedios herbolarios;
+
 VII. Almacén de depósito y distribución de materias
 primas para la elaboración de medicamentos para uso
 humano;
@@ -9072,11 +9053,11 @@ como productos cosméticos, y productos de aseo;
 Fracción reformada DOF 07-06-2011
 XI. Establecimientos destinados al proceso de
 medicamentos para uso veterinario, y
-
 XII. Los demás que determine el Consejo de
 Salubridad General.
 Artículo reformado DOF 14-06-1991. Fe de erratas
 DOF 12-07-1991. Reformado DOF 07-05-1997
+
 Artículo 258. Los establecimientos a que se refieren
 las fracciones I, II, IV y XI, del artículo anterior y los
 relativos a las demás fracciones cuando se dediquen
@@ -9104,12 +9085,12 @@ específicas, elaborados por la propia Secretaría. Los
 diversos establecimientos a los contemplados en el
 presente párrafo únicamente deben poseer y cumplir
 con lo establecido en los suplementos de la
-
 Farmacopea de los Estados Unidos Mexicanos
 relativos a la venta y suministro de medicamentos.
 Artículo reformado DOF 27-05-1987, 07-05-1997, 2506-2003, 14-02-2006
 Artículo 259.- Los establecimientos citados en el
 artículo 257 de esta ley deberán contar con un
+
 responsable de la identidad, pureza y seguridad de
 los productos.
 Los responsables deberán reunir los requisitos
@@ -9136,11 +9117,11 @@ relacionada con la farmacia; en los casos de
 establecimientos que fabriquen medicamentos
 homeopáticos, el responsable podrá ser un
 homeópata;
-
 II. En los establecimientos a que se refieren las
 fracciones II y VII, además de los profesionales
 señalados en la fracción anterior, el responsable
 podrá ser un químico industrial;
+
 III. En los establecimientos señalados en las
 fracciones III y VIII, además de los profesionales
 citados en la fracción I, podrá ser responsable un
@@ -9163,7 +9144,6 @@ VI. En los establecimientos señalados en la fracción
 XII, el Consejo de Salubridad General determinará los
 requisitos del responsable sanitario.
 Artículo reformado DOF 27-05-1987, 14-06-1991, 0705-1997
-
 Artículo 261.- En los casos en que resulten
 afectadas, por acción u omisión, la identidad, pureza,
 conservación,
@@ -9172,6 +9152,7 @@ dosificación
 o
 manufactura de los productos, el responsable del
 establecimiento y el propietario del mismo
+
 responderán solidariamente de las sanciones que
 correspondan en los términos que señalen esta Ley y
 demás disposiciones legales aplicables.
@@ -9192,7 +9173,6 @@ II. Prótesis, órtesis y ayudas funcionales: aquellos
 dispositivos destinados a sustituir o complementar
 una función, un órgano o un tejido del cuerpo
 humano:
-
 III. Agentes de diagnóstico: Todos los insumos
 incluyendo antígenos, anticuerpos, calibradores,
 verificadores, reactivos, equipos de reactivos, medios
@@ -9200,6 +9180,7 @@ de cultivo y de contraste y cualquier otro similar que
 pueda utilizarse como auxiliar de otros procedimientos
 clínicos o paraclínicos.
 Fracción reformada DOF 14-06-1991
+
 IV. Insumos de uso odontológico: todas las
 substancias o materiales empleados para la atención
 de la salud dental, y
@@ -9221,12 +9202,12 @@ expresarse en la etiqueta o manual correspondiente
 las especificaciones de manejo y conservación, con
 las características que señale la Secretaría de Salud.
 Artículo reformado DOF 27-05-1987
-
 Artículo 264. El proceso, uso y mantenimiento de
 equipos médicos y agentes de diagnóstico en los que
 intervengan fuentes de radiación, se ajustarán a las
 normas oficiales mexicanas o disposiciones
 aplicables, incluso en la eliminación de desechos de
+
 tales materiales, sin perjuicio de la intervención que
 corresponda a otras autoridades competentes.
 Las etiquetas y contraetiquetas de los equipos y
@@ -9248,13 +9229,13 @@ laboratorios clínicos o de gabinetes.
 Las indicaciones sobre el uso que tengan dentro del
 laboratorio o gabinete, la técnica para su empleo, su
 forma de aplicación, en su caso, y precauciones de
-
 uso, se detallarán en un instructivo adjunto al
 producto.
 Artículo 266.- Para el caso de reactivos biológicos
 que se administren a seres humanos se estará, en
 cuanto a su control sanitario, a lo dispuesto por los
 artículos 230 y 231 de esta Ley.
+
 Sus etiquetas y contraetiquetas, además de los
 requisitos establecidos en el artículo 210 de esta Ley,
 deberán expresar claramente a la vía de
@@ -9275,7 +9256,6 @@ micropigmentadores, deberán contar con autorización
 sanitaria de acuerdo con los términos del Capítulo I
 del Título Décimo Sexto de esta Ley y las demás
 disposiciones aplicables.
-
 Se entenderá por:
 Tatuador: Persona que graba dibujos, figuras o
 marcas en la piel humana, introduciendo colorantes
@@ -9286,6 +9266,7 @@ las
 punzadas
 previamente
 dispuestas.
+
 Perforador: Persona que introduce algún objeto
 decorativo de material de implantación hipoalergénico
 en la piel o mucosa con un instrumento punzo
@@ -9307,13 +9288,13 @@ de uno de sus padres o tutor previa acreditación de tal
 carácter, o cuenten con la autorización por escrito.
 La violación de esta disposición se sancionará en los
 términos previstos en el artículo 419 de esta Ley, y
-
 conllevará a la revocación definitiva de la autorización
 respectiva.
 Artículo adicionado DOF 24-04-2006
 CAPÍTULO IX
 PRODUCTOS COSMÉTICOS
 Denominación del Capítulo reformada DOF 07-06-2011
+
 Artículo 269. Para los efectos de esta Ley, se
 consideran productos cosméticos las sustancias o
 formulaciones destinadas a ser puestas en contacto
@@ -9335,13 +9316,13 @@ prohibidas para la elaboración de productos
 cosméticos.
 En la elaboración de productos cosméticos se
 podrán utilizar de manera inmediata aquellas
-
 sustancias que hayan sido evaluadas y aprobadas por
 la Secretaría, independientemente de su posterior
 inclusión en el Acuerdo o listados para uso general.
 Artículo reformado DOF 07-06-2011
 Artículo 270. No podrán atribuirse a los productos
 cosméticos acciones propias de los medicamentos,
+
 tales como curar o ser una solución definitiva de
 enfermedades, regular el peso o combatir la obesidad
 ya sea en el nombre, indicaciones, instrucciones para
@@ -9363,7 +9344,6 @@ domicilio del importador y distribuidor, marca, nombre
 y Registro Federal de Contribuyentes del responsable
 del producto y de la publicidad.
 Artículo reformado DOF 07-06-2011
-
 Artículo 271.- Los productos para adelgazar o
 engrosar partes del cuerpo o variar las proporciones
 del mismo; así como aquellos destinados a los fines a
@@ -9375,6 +9355,7 @@ esta
 acción,
 serán
 considerados
+
 medicamentos y deberán sujetarse a lo previsto en el
 Capítulo IV de este Título.
 Artículo reformado DOF 19-06-2007, 01-09-2011
@@ -9397,7 +9378,6 @@ Capítulo adicionado DOF 01-09-2011
 Artículo 272 Bis.- Para la realización de cualquier
 procedimiento médico quirúrgico de especialidad, los
 profesionales que lo ejerzan requieren de:
-
 I. Cédula de especialista legalmente expedida por
 las autoridades educativas competentes.
 II. Certificado vigente de especialista que acredite
@@ -9405,6 +9385,7 @@ capacidad y experiencia en la práctica de los
 procedimientos y técnicas correspondientes en la
 materia, de acuerdo a la Lex Artis Ad Hoc de cada
 especialidad, expedido por el Consejo de la
+
 especialidad según corresponda, de conformidad con
 el artículo 81 de la presente Ley.
 Los médicos especialistas podrán pertenecer a una
@@ -9426,7 +9407,6 @@ reconstructiva relacionada con cambiar o corregir el
 contorno o forma de diferentes zonas o regiones de la
 cara y del cuerpo, deberá efectuarse en
 establecimientos o unidades médicas con licencia
-
 sanitaria vigente, atendidos por profesionales de la
 salud especializados en dichas materias, de
 conformidad con lo que establece el artículo 272 Bis.
@@ -9434,6 +9414,7 @@ Artículo adicionado DOF 01-09-2011
 Artículo 272 Bis 2.- La oferta de los servicios que
 se haga a través de medios informativos, ya sean
 impresos, electrónicos u otros, por profesionistas que
+
 ejerzan cirugía plástica, estética o reconstructiva; así
 como, los establecimientos o unidades médicas en
 que se practiquen dichas cirugías, deberán prever y
@@ -9456,22 +9437,15 @@ Artículo 272 Bis 4.- Las instituciones públicas que
 forman parte del Sistema Nacional de Salud podrán
 integrar la cirugía bariátrica como tratamiento de la
 obesidad mórbida y sus comorbilidades, de
-
 conformidad
-aplicables.
-
 con
-
-las
-
-disposiciones
-
-jurídicas
-
+las disposiciones jurídicas
+aplicables.
 Los candidatos a cirugía bariátrica deberán cumplir
 con los criterios de selección, de acuerdo a las
 normas y protocolos de salud en la materia.
 Artículo adicionado DOF 22-12-2020
+
 Artículo 272 Bis 5.- Las instituciones de salud
 pública y privada, así como los establecimientos
 autorizados que practiquen la cirugía bariátrica,
@@ -9499,13 +9473,13 @@ Artículo 273.- Para los efectos de esta Ley, se
 consideran productos de aseo, independientemente
 de su estado físico, las substancias destinadas al
 lavado o limpieza de objetos, superficies o locales y
-
 las que proporcionen un determinado aroma al
 ambiente.
 Quedan comprendidos en los productos a que se
 refiere el párrafo anterior, los siguientes:
 I. Jabones;
 II. Detergentes;
+
 III. Limpiadores;
 IV. Blanqueadores ;
 V. Almidones para uso externo;
@@ -9521,12 +9495,12 @@ que se refiere el artículo anterior, además de lo
 establecido en el artículo 210 de esta Ley, en lo
 conducente, figurarán las leyendas que determinen
 las disposiciones aplicables.
-
 CAPITULO XI
 Tabaco
 Artículo 275. Se deroga.
 Artículo derogado DOF 30-05-2008
 Artículo 276. Se deroga.
+
 Artículo reformado DOF 27-05-1987, 14-06-1991, 0705-1997, 19-01-2004. Derogado DOF 30-05-2008
 Artículo 277. Se deroga.
 Artículo reformado DOF 27-05-1987, 19-01-2004, 0606-2006. Derogado DOF 30-05-2008
@@ -9543,13 +9517,13 @@ substancias que se destina a controlar cualquier
 plaga, incluidos los vectores que transmiten las
 enfermedades humanas y de animales, las
 especies no deseadas que causen perjuicio o que
-
 interfieran con la producción agropecuaria y
 forestal, así como las substancias defoliantes y
 las desecantes;
 II. Nutrientes vegetales: Cualquier substancia o
 mezcla de substancias que contenga elementos
 útiles para la nutrición y desarrollo de las plantas,
+
 reguladores de crecimiento, mejoradores de
 suelo, inoculantes y humectantes;
 III.
@@ -9583,11 +9557,11 @@ que publicará en el Diario Oficial de la Federación, los
 nutrientes vegetales, así como las substancias tóxicas
 o peligrosas que por constituir un riesgo para la salud
 deben sujetarse a control sanitario.
-
 Artículo reformado DOF 27-05-1987, 07-05-1997
 Artículo 279.- Corresponde a la Secretaría de
 Salud:
 Párrafo reformado DOF 27-05-1987
+
 I. Establecer, en coordinación con las dependencias
 del Ejecutivo Federal competentes y para fines de
 control sanitario, la clasificación y las características
@@ -9615,12 +9589,12 @@ composición química, solamente cuando no entrañen
 peligro para la salud humana y cuando no sea posible
 la sustitución adecuada de los mismos, y
 Fracción reformada DOF 07-05-1997
-
 V. Establecer, en coordinación con las dependencias
 competentes, las normas oficiales mexicanas en las
 que se especifiquen las condiciones que se deberán
 cumplir para fabricar, formular, envasar, etiquetar,
 embalar, almacenar, transportar, comercializar y
+
 aplicar plaguicidas, nutrientes vegetales y substancias
 tóxicas o peligrosas en cualquier fase de su ciclo de
 vida. A efecto de proteger la salud de la población
@@ -9643,13 +9617,13 @@ contenido, de conformidad con las disposiciones
 legales aplicables y con las normas que dicte la
 Secretaría de Salud.
 Artículo reformado DOF 27-05-1987, 14-06-1991, 0705-1997
-
 Artículo 282.- El control sanitario de las substancias
 a que se refiere el artículo 278, se ajustará a lo
 establecido en esta ley y demás disposiciones
 aplicables, de acuerdo con el riesgo que representen
 directa o indirectamente para la salud humana.
 Artículo reformado DOF 07-05-1997
+
 CAPITULO XII BIS
 Productos Biotecnológicos
 Capítulo adicionado DOF 07-05-1997
@@ -9672,10 +9646,10 @@ especificaciones relacionadas con el proceso,
 características y etiquetas de los productos objeto de
 este capítulo, se establecerán en las normas oficiales
 mexicanas correspondientes.
-
 Artículo adicionado DOF 07-05-1997
 CAPITULO XIII
 Importación y Exportación
+
 Artículo 283.- Corresponde a la Secretaría de Salud
 el control sanitario de los productos y materias primas
 de importación y exportación comprendidos en este
@@ -9702,11 +9676,11 @@ productos
 cosméticos, productos de aseo, así como de las
 materias que se utilicen en su elaboración, el
 Secretario de Salud, mediante acuerdo publicado en
-
 el Diario Oficial de la Federación, determinará con
 base en los riesgos para la salud qué productos o
 materias primas que requieren autorización previa de
 importación.
+
 Artículo reformado DOF 27-05-1987, 14-06-1991. Fe
 de erratas DOF 12-07-1991. Reformado DOF 30-05-2008,
 07-06-2011
@@ -9732,11 +9706,11 @@ analizar los productos importados, aún cuando
 cuenten con certificación sanitaria a fin de verificar el
 cumplimiento de las normas oficiales mexicanas o
 disposiciones aplicables. Cuando se encuentre que el
-
 producto muestreado no cumple con las normas o
 disposiciones citadas, la Secretaría podrá solicitar su
 acondicionamiento, y si esto no es posible, procederá
 en los términos de esta Ley. Además, en estos casos
+
 se revocará la autorización del laboratorio que expidió
 el certificado, y
 III. Los productos nuevos o aquellos que vayan a ser
@@ -9760,10 +9734,10 @@ exportador posea licencia sanitaria, sólo certificado de
 exportación expedido por la Secretaría. Cuando se
 acredite la aceptación de estos insumos, por el
 importador final, no requerirán de registro sanitario.
-
 No se expedirá el certificado de exportación para
 estupefacientes, psicotrópicos y hemoderivados.
 Artículo reformado DOF 27-05-1987, 14-06-1991
+
 Artículo 289.- La importación y exportación de
 estupefacientes,
 substancias
@@ -9795,10 +9769,10 @@ establecimiento elabore, y
 II. Los establecimientos destinados a producción de
 medicamentos autorizados por la propia
 Secretaría.
-
 Su proceso quedará sujeto a lo establecido en los
 Capítulos V y VI de este Título, quedando facultada la
 propia Secretaría para otorgar autorización en los
+
 casos especiales en que los interesados justifiquen
 ante la misma la importación directa.
 Artículo 291.- Las oficinas consulares mexicanas en
@@ -9826,10 +9800,10 @@ de
 estupefacientes,
 substancias
 psicotrópicas, productos o preparados que los
-
 contengan, cuando no haya inconveniente para ello y
 se satisfagan los requisitos siguientes:
 Párrafo reformado DOF 27-05-1987
+
 I. Que los interesados presenten el permiso
 sanitario de importación expedido por la autoridad
 competente del país a que se destinen,
@@ -9854,19 +9828,10 @@ para intervenir en puertos marítimos y aéreos, en las
 fronteras y, en general, en cualquier punto del
 territorio nacional, en relación con el tráfico de
 estupefacientes y substancias psicotrópicas, para los
-
-efectos de
+efectos de identificación, control y disposición
 sanitarios.
-
-identificación,
-
-control
-
-y
-
-disposición
-
 Artículo reformado DOF 27-05-1987
+
 Artículo 295.- Sin perjuicio de las atribuciones de
 otras dependencias del Ejecutivo Federal, se requiere
 autorización sanitaria expedida por la Secretaría de
@@ -9889,12 +9854,12 @@ la Secretaría de Salud para la importación de los
 plaguicidas, nutrientes vegetales y substancias
 tóxicas o peligrosas que constituyan un riesgo para la
 salud.
-
 La importación de plaguicidas persistentes y
 bioacumulables de cualquier composición química,
 únicamente se autorizará cuando éstos no entrañen
 un peligro para la salud humana y no sea posible la
 sustitución adecuada de los mismos.
+
 La Secretaría de Salud, mediante acuerdo que
 publicará en el Diario Oficial de la Federación,
 determinará los plaguicidas y nutrientes vegetales que
@@ -9917,12 +9882,12 @@ al tratamiento de las enfermedades, a la rehabilitación
 de las personas con discapacidad, al ejercicio de las
 disciplinas para la salud y a los productos y servicios
 a que se refiere esta Ley. Esta facultad se ejercerá sin
-
 perjuicio de las atribuciones que en esta materia
 confieran las leyes a las Secretarías de Gobernación,
 Educación Pública, Economía, Comunicaciones y
 Transportes y otras dependencias del Ejecutivo
 Federal.
+
 Artículo reformado DOF 27-05-1987, 09-04-2012, 0804-2013
 Artículo 301. Será objeto de autorización por parte
 de la Secretaría de Salud, la publicidad que se realice
@@ -9944,11 +9909,11 @@ Salud, para su difusión publicitaria.
 Artículo adicionado DOF 07-05-1997
 Artículo 302.- Los gobiernos de las entidades
 federativas coadyuvarán con la Secretaría de Salud
-
 en las actividades a que se refiere el artículo anterior,
 que se lleven a cabo en sus respectivas jurisdicciones
 territoriales.
 Artículo reformado DOF 27-05-1987
+
 Artículo 303.- La Secretaría de Salud coordinará las
 acciones que, en materia de publicidad relacionada
 con la salud, realicen las instituciones del sector
@@ -9972,11 +9937,11 @@ difusores, se ajustarán a las normas de este título.
 Artículo reformado DOF 07-05-1997
 Artículo 306.- La publicidad a que se refiere esta
 Ley se sujetará a los siguientes requisitos:
-
 I. La información contenida en el mensaje sobre
 calidad, origen, pureza, conservación, propiedades
 nutritivas y beneficios de empleo deberá ser
 comprobable;
+
 Fracción reformada DOF 14-06-1991
 II. El mensaje deberá tener contenido orientador y
 educativo;
@@ -9997,11 +9962,11 @@ o rehabilitación, establezca la Secretaría de Salud, y
 Fracción reformada DOF 27-05-1987
 VI. El mensaje publicitario deberá estar elaborado
 conforme a las disposiciones legales aplicables.
-
 Artículo 307.- Tratándose de publicidad de
 alimentos y bebidas no alcohólicas, ésta no deberá
 asociarse directa o indirectamente con el consumo de
 bebidas alcohólicas.
+
 La publicidad no deberá inducir a hábitos de
 alimentación nocivos, ni atribuir a los alimentos
 industrializados un valor superior o distinto al que
@@ -10023,7 +9988,6 @@ de estos productos;
 II. No deberá presentarlos como productores de
 bienestar o salud, o asociarlos a celebraciones
 cívicas o religiosas;
-
 III.
 
 No podrá asociar a estos productos con ideas
@@ -10056,11 +10020,11 @@ Fracción adicionada DOF 27-05-1987
 La Secretaría de Salud podrá dispensar el requisito
 previsto en la fracción VIII del presente artículo,
 cuando en el propio mensaje y en igualdad de
-
 circunstancias, calidad, impacto y duración, se
 promueva la moderación en el consumo de bebidas
 alcohólicas, especialmente en la niñez, la
 adolescencia y la juventud, así como advierta contra
+
 los daños a la salud que ocasionan el abuso en el
 consumo de bebidas alcohólicas.
 Párrafo adicionado DOF 27-05-1987. Reformado DOF 3005-2008
@@ -10081,11 +10045,11 @@ Artículo 309 bis. Se deroga.
 Artículo adicionado DOF 19-01-2004. Derogado DOF 3005-2008
 Artículo 310.- En materia de medicamentos,
 remedios herbolarios, equipos médicos, prótesis,
-
 órtesis, ayudas funcionales e insumos de uso
 odontológico, materiales quirúrgicos y de curación y
 agentes de diagnóstico, la publicidad se clasifica en:
 Párrafo reformado DOF 07-05-1997
+
 I. Publicidad dirigida a profesionales de la salud, y
 II. Publicidad dirigida a la población en general.
 Fracción reformada DOF 07-05-1997
@@ -10108,10 +10072,10 @@ que se trate, el texto: Consulte a su médico, así como
 otras leyendas de advertencia que determine la
 Secretaría de Salud.
 Párrafo reformado DOF 14-06-1991, 07-05-1997
-
 Ambas se limitarán a difundir las características
 generales de los productos, sus propiedades
 terapéuticas y modalidades de empleo, señalando en
+
 todos los casos la conveniencia de consulta médica
 para su uso.
 Artículo 311.- Sólo se autorizará la publicidad de
@@ -10134,8 +10098,8 @@ I. El control y la vigilancia sanitarios de la disposición
 y trasplantes de órganos, tejidos y células de seres
 humanos, en los términos establecidos por esta Ley y
 demás disposiciones jurídicas aplicables;
-
 Fracción reformada DOF 20-04-2015
+
 II. La regulación sobre cadáveres, en los términos de
 esta Ley;
 III. Establecer y dirigir las políticas en salud en
@@ -10158,7 +10122,6 @@ Fracción reformada DOF 20-04-2015
 Artículo reformado DOF 27-05-1987, 14-06-1991, 0705-1997, 26-05-2000, 30-06-2003, 14-07-2008, 11-062009, 12-12-2011
 Artículo 314.- Para efectos de este título se
 entiende por:
-
 I.
 
 Células germinales, a las células reproductoras
@@ -10201,6 +10164,7 @@ Fracción reformada DOF 24-01-2020
 
 VI. Donador o disponente, al que tácita o
 expresamente consiente la disposición en vida o
+
 para después de su muerte, de su cuerpo, o de
 sus órganos, tejidos y células, conforme a lo
 dispuesto por esta Ley y demás disposiciones
@@ -10227,9 +10191,9 @@ XI. Producto, a todo tejido o sustancia extruida,
 excretada o expelida por el cuerpo humano
 como resultante de procesos fisiológicos
 normales. Serán considerados productos, para
-
 efectos de este Título, la placenta y los anexos
 de la piel;
+
 XII. Receptor, a la persona que recibe para su uso
 terapéutico un órgano, tejido, células
 o
@@ -10255,10 +10219,10 @@ componentes sanguíneos a un ser humano;
 Fracción adicionada DOF 20-04-2015
 XV. Banco de tejidos con fines de trasplante,
 establecimiento autorizado que tenga como
-
 finalidad primordial mantener el depósito
 temporal de tejidos para su preservación y
 suministro terapéutico;
+
 Fracción adicionada DOF 11-06-2009
 XVI. Disponente secundario, alguna de las
 siguientes personas; él o la cónyuge, el
@@ -10287,8 +10251,8 @@ Fracción adicionada DOF 12-12-2011
 XIX. Autotrasplante, trasplante que consiste en
 obtener un órgano o tejido del propio paciente y
 volverlo a implantar en él;
-
 Fracción adicionada DOF 12-12-2011
+
 XX. Coordinador hospitalario de donación de
 órganos y tejidos para trasplantes, el médico
 especialista o general, debidamente capacitado
@@ -10317,8 +10281,8 @@ procesado, o bien sintético, que podrá quedar o
 no integrado al organismo y sin que desempeñe
 alguna función que requiera la persistencia viva
 de lo sustituido;
-
 Fracción adicionada DOF 12-12-2011
+
 XXIV. Institución de salud, a la agrupación de
 establecimientos de salud bajo una misma
 estructura de mando y normativa;
@@ -10352,9 +10316,9 @@ XXVIII. Hemoderivados, los productos obtenidos de
 algunos
 componentes
 sanguíneos,
-
 especialmente el plasma, mediante procesos
 fisicoquímicos o biológicos, para aplicación
+
 terapéutica, diagnóstica, preventiva o en
 investigación.
 Fracción adicionada DOF 20-04-2015
@@ -13904,6 +13868,11 @@ otorgamiento de la libertad provisional bajo caución,
 
 en los cuales se observarán las disposiciones del
 Código Federal de Procedimientos Penales.
+El juez o la jueza ordenará la prisión preventiva de
+manera oficiosa a las y los imputados por los delitos
+previstos en los párrafos segundo y tercero,
+fracciones I, II y III del artículo 475 de esta Ley.
+Párrafo adicionado DOF 19-02-2021
 Artículo adicionado DOF 20-08-2009
 Artículo 481.- El Ministerio Público o la autoridad
 judicial del conocimiento, tan pronto identifique que
@@ -13924,6 +13893,7 @@ tratamiento médico correspondiente para su
 rehabilitación, bajo vigilancia de la autoridad
 ejecutora.
 Artículo adicionado DOF 20-08-2009
+
 Artículo 482.- Cuando el Ministerio Público tenga
 conocimiento
 que
@@ -13934,7 +13904,6 @@ arrendatario o usufructuario de un establecimiento de
 cualquier naturaleza lo empleare para realizar
 cualquiera de las conductas sancionadas en el
 presente capítulo o que permitiere su realización por
-
 terceros, informará a la autoridad administrativa
 competente para que, en ejercicio de sus
 atribuciones, realice la clausura del establecimiento,
@@ -13957,12 +13926,12 @@ local, hasta en tanto no se expidan las leyes de salud
 locales correspondientes. Se derogan las demás
 disposiciones legales en lo que se opongan a las de
 la presente Ley.
+
 Tercero.- Se abrogan la Ley de Coordinación y
 Cooperación de Servicios Sanitarios en la República,
 publicada en el Diario Oficial de la Federación el 25
 de agosto de 1934; la Ley que declara de utilidad
 pública la campaña contra el Paludismo y crea la
-
 Comisión de Saneamiento Antimalárico, publicada en
 el Diario Oficial de la Federación el 27 de
 septiembre de 1938, la Ley de la Dirección de
@@ -13986,13 +13955,13 @@ que se deroga, se tramitarán y resolverán conforme a
 las disposiciones del citado Código.
 Sexto.- El Ejecutivo Federal, por conducto de la
 Secretaría de Salud, celebrará, en un plazo que no
+
 excederá de un año, contado a par tir de la fecha en
 que entre en vigor esta Ley, con los gobiernos de los
 Estados, los acuerdos de coordinación que respecto
 de aquellas materias que en los términos de esta Ley
 y demás disposiciones legales aplicables sean de
 interés común.
-
 En el Distrito Federal, el Ejecutivo Federal
 determinará las bases de coordinación y de los
 convenios entre la Secretaría de Salud y el propio
@@ -14015,12 +13984,12 @@ En cumplimiento de lo dispuesto por la fracción I del
 Artículo 89 de la Constitución Política de los Estados
 Unidos Mexicanos y para su debida publicación y
 observancia, expido el presente Decreto en la
+
 residencia del Poder Ejecutivo Federal, en la Ciudad
 de México, Distrito Federal, a los treinta días del mes
 de diciembre de mil novecientos ochenta y tres.Miguel de la Madrid Hurtado.- Rúbrica.- El
 Secretario de Salubridad y Asistencia, Guillermo
 Soberón Acevedo.- Rúbrica.- El Secretario de
-
 Relaciones Exteriores, Bernardo Sepúlveda Amor.Rúbrica.- El Secretario de la Defensa Nacional, Juan
 Arévalo Gardoqui.- Rúbrica.- El Secretario de
 Marina, Miguel Angel Gómez Ortega.- Rúbrica.- El
