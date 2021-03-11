@@ -7,7 +7,7 @@ LEY DE LA INDUSTRIA ELÉCTRICA
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 11 de agosto de 2014
 TEXTO VIGENTE
-Última reforma publicada DOF 06-11-2020
+Última reforma publicada DOF 09-03-2021
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -110,23 +110,22 @@ de
 IV. Central Eléctrica: Instalaciones y equipos que,
 en un sitio determinado, permiten generar
 energía eléctrica y Productos Asociados;
-V. Central Eléctrica Legada: Central Eléctrica que,
-a la entrada en vigor de la presente Ley, no se
-incluye en un permiso para generar energía
-eléctrica
-bajo
-la
-modalidad
-de
+V. Central Eléctrica Legada: Central Eléctrica que
+no se incluye en un permiso para generar
+energía eléctrica bajo la modalidad de
 autoabastecimiento, cogeneración, pequeña
 producción, producción independiente o usos
 propios continuos, y:
 a) Es propiedad de los organismos, entidades o
-empresas del Estado y se encuentra en
-condiciones de operación, o
-b) Cuya construcción y entrega se ha incluido
-en el Presupuesto de Egresos de la
-Federación en modalidad de inversión directa;
+empresas del Estado, y
+b) Cuya construcción y entrega sea con
+independencia
+de
+su
+modalidad
+de
+financiamiento;
+Fracción con incisos reformada DOF 09-03-2021
 VI. Central Externa Legada: Central Eléctrica que,
 a la entrada en vigor de la presente Ley:
 a) Se incluye en un permiso para generar energía
@@ -167,7 +166,32 @@ entre Participantes del Mercado mediante el cual
 se obligan a la compraventa de energía eléctrica
 o Productos Asociados en una hora o fecha
 futura y determinada, o a la realización de pagos
-basados en los precios de los mismos;
+basados en los precios de los mismos.
+Exclusivamente los Suministradores de Servicios
+Básicos podrán celebrar Contratos de Cobertura
+Eléctrica con Compromiso de Entrega Física;
+Fracción reformada DOF 09-03-2021
+XII Bis. Contrato de Cobertura Eléctrica con
+Compromiso de Entrega Física: Acuerdo entre
+un Suministrador de Servicios Básicos y un
+Generador mediante el cual se obligan a la
+compraventa de energía eléctrica o Productos
+Asociados en una hora o fecha futura y
+determinada, con el compromiso de realizar la
+entrega física de la energía, Servicios Conexos o
+Potencia establecidos, y para lo cual el
+Generador
+presentará
+al
+CENACE
+los
+programas de generación de las Centrales
+Eléctricas que formen parte del Contrato
+mediante ofertas de programa fijo en el Mercado
+Eléctrico Mayorista, conforme a las Reglas del
+Mercado;
+Fracción adicionada DOF 09-03-2021
+
 XIII. Contrato de Interconexión Legado: Contrato
 de interconexión o contrato de compromiso de
 compraventa de energía eléctrica para pequeño
@@ -181,19 +205,21 @@ opción de celebrar, con precios basados en los
 costos y contratos respectivos, que abarcan la
 energía eléctrica y Productos Asociados de las
 Centrales Eléctricas Legadas y las Centrales
-Externas Legadas;
+Externas Legadas, con compromiso de entrega
+física;
+Fracción reformada DOF 09-03-2021
 XV. Control Operativo del Sistema Eléctrico
 Nacional: La emisión de instrucciones relativas
 a:
 a) La asignación y despacho de las Centrales
 Eléctricas y de la Demanda Controlable;
-
 b) La operación de la Red Nacional de
 Transmisión que corresponda al Mercado
 Eléctrico Mayorista, y
 c) La operación de las Redes Generales de
 Distribución que corresponda al Mercado
 Eléctrico Mayorista;
+
 XVI. CRE: Comisión Reguladora de Energía;
 XVII. Demanda Controlable: Demanda de energía
 eléctrica que los Usuarios Finales o sus
@@ -221,7 +247,6 @@ congestionamiento de los Precios Marginales
 Locales en dos nodos del Sistema Eléctrico
 Nacional en un periodo determinado, en los
 términos de las Reglas del Mercado. Para los
-
 efectos de documentar los Derechos Financieros
 de Transmisión, los estados de cuenta que emita
 el CENACE serán títulos ejecutivos;
@@ -232,6 +257,7 @@ procedimientos
 y
 demás
 disposiciones emitidas por el CENACE, en los
+
 cuales se definirán los procesos operativos del
 Mercado Eléctrico Mayorista, de conformidad
 con las Bases del Mercado Eléctrico;
@@ -253,7 +279,6 @@ La radiación solar, en todas sus formas;
 
 c) La energía oceánica en sus distintas formas:
 maremotriz, maremotérmica, de las olas, de
-
 las corrientes marinas y del gradiente de
 concentración de sal;
 d)
@@ -262,6 +287,7 @@ El calor de los yacimientos geotérmicos;
 
 e) Los bioenergéticos que determine la Ley de
 Promoción y Desarrollo de los Bioenergéticos;
+
 f) La energía generada por el aprovechamiento
 del poder calorífico del metano y otros gases
 asociados en los sitios de disposición de
@@ -296,13 +322,13 @@ plasma
 molecular),
 cuando
 dicho
-
 procesamiento no genere dioxinas y furanos u
 otras emisiones que puedan afectar a la salud
 o al medio ambiente y cumpla con las normas
 oficiales mexicanas que al efecto emita la
 Secretaría de Medio Ambiente y Recursos
 Naturales;
+
 k) La energía generada por centrales de
 cogeneración eficiente en términos de los
 criterios de eficiencia emitidos por la CRE y de
@@ -323,7 +349,6 @@ emitida a la atmósfera a la eficiencia mínima
 que establezca la CRE y los criterios de
 emisiones establecidos por la Secretaría de
 Medio Ambiente y Recursos Naturales;
-
 n) Tecnologías
 consideradas
 de
@@ -335,6 +360,7 @@ Secretaría y la Secretaría de Medio Ambiente y
 Recursos Naturales, con base en parámetros y
 normas de eficiencia energética e hídrica,
 emisiones a la atmósfera y generación de
+
 residuos, de manera directa, indirecta o en
 ciclo de vida;
 XXIII.
@@ -359,7 +385,6 @@ Participante del Mercado que representa en el
 Mercado Eléctrico Mayorista a dichas centrales
 o, con la autorización de la CRE, a las Centrales
 Eléctricas ubicadas en el extranjero;
-
 XXV. Generador Exento: Propietario o poseedor de
 una o varias Centrales Eléctricas que no
 requieren ni cuenten con permiso para generar
@@ -367,6 +392,7 @@ energía eléctrica en términos de esta Ley;
 XXVI. Ingresos Recuperables: Costos que los
 Suministradores Básicos tendrán derecho a
 recuperar por la prestación del Suministro Básico
+
 y que incluyen energía eléctrica, Productos
 Asociados, Contratos de Cobertura Eléctrica y
 operación propia;
@@ -387,7 +413,6 @@ transacciones, que se llevan a cabo en
 condiciones de eficiencia e incorporando los
 mejores términos comerciales disponibles al
 momento de su realización;
-
 XXX. Precio Marginal Local: Precio de la energía
 eléctrica en un nodo determinado del Sistema
 Eléctrico Nacional para un periodo definido,
@@ -395,6 +420,7 @@ calculado de conformidad con las Reglas del
 Mercado y aplicable a las transacciones de
 energía eléctrica realizadas en el Mercado
 Eléctrico Mayorista;
+
 XXXI. Productos
 Asociados:
 Productos
@@ -419,7 +445,6 @@ Centrales Eléctricas, así como los programas de
 ampliación y modernización de la Red Nacional
 de Transmisión y de las Redes Generales de
 Distribución;
-
 XXXIII. Red Eléctrica: Sistema integrado por
 líneas,
 subestaciones
@@ -432,6 +457,7 @@ protección,
 conmutación, medición, monitoreo, comunicación
 y operación, entre otros, que permiten la
 transmisión y distribución de energía eléctrica;
+
 XXXIV. Red Eléctrica Inteligente: Red Eléctrica
 que integra tecnologías avanzadas de medición,
 monitoreo, comunicación y operación, entre
@@ -452,7 +478,6 @@ XXXVII. Redes Particulares: Redes Eléctricas que
 no forman parte de la Red Nacional de
 Transmisión o de las Redes Generales de
 Distribución;
-
 XXXVIII. Reglas del Mercado: Conjuntamente, las
 Bases del Mercado Eléctrico y las Disposiciones
 Operativas del Mercado, que rigen al Mercado
@@ -460,6 +485,7 @@ Eléctrico Mayorista;
 XXXIX. Retorno Objetivo: La tasa esperada de
 rendimiento para las inversiones del Estado en la
 industria eléctrica, utilizada para efectos de lo
+
 dispuesto en los artículos 31, 148, 149 y 150 de
 esta Ley;
 XL.Secretaría: Secretaría de Energía;
@@ -480,7 +506,6 @@ XLIII. Servicios Conexos: Los servicios vinculados
 a la operación del Sistema Eléctrico Nacional y
 que son necesarios para garantizar su Calidad,
 Confiabilidad, Continuidad y seguridad, entre los
-
 que se podrán incluir: las reservas operativas,
 las reservas rodantes, la regulación de
 frecuencia, la regulación de voltaje y el arranque
@@ -488,6 +513,7 @@ de emergencia, entre otros, que se definan en
 las Reglas del Mercado;
 XLIV. Sistema Eléctrico Nacional: El sistema
 integrado por:
+
 a) La Red Nacional de Transmisión;
 b)
 
@@ -508,7 +534,6 @@ Básicos, Suministrador de Servicios Calificados
 o Suministrador de Último Recurso y que puede
 representar en el Mercado Eléctrico Mayorista a
 los Generadores Exentos;
-
 XLVI. Suministrador de Servicios Básicos:
 Permisionario que ofrece el Suministro Básico a
 los Usuarios de Suministro Básico y representa
@@ -516,6 +541,7 @@ en el Mercado Eléctrico Mayorista a los
 Generadores Exentos que lo soliciten;
 XLVII. Suministrador de Servicios Calificados:
 Permisionario que ofrece el Suministro Calificado
+
 a los Usuarios Calificados y puede representar
 en el Mercado Eléctrico Mayorista a los
 Generadores Exentos en un régimen de
@@ -536,13 +562,13 @@ LI. Suministro de Último Recurso: El Suministro
 Eléctrico que se provee bajo precios máximos a
 los Usuarios Calificados, por tiempo limitado, con
 la finalidad de mantener la Continuidad del
-
 servicio cuando un Suministrador de Servicios
 Calificados deje de prestar el Suministro
 Eléctrico;
 LII. Suministro Eléctrico: Conjunto de productos y
 servicios requeridos para satisfacer la demanda
 y el consumo de energía eléctrica de los
+
 Usuarios Finales, regulado cuando corresponda
 por la CRE, y que comprende:
 a) Representación de los Usuarios Finales en el
@@ -562,13 +588,13 @@ transmisión, distribución, operación de los
 Suministradores de Servicios Básicos, operación
 del CENACE y Servicios Conexos no incluidos
 en el Mercado Eléctrico Mayorista;
-
 LIV. Transportista: Los organismos o empresas
 productivas del Estado, o sus empresas
 productivas subsidiarias, que presten el Servicio
 Público de Transmisión de Energía Eléctrica;
 LV.Usuario Calificado: Usuario Final que cuenta
 con registro ante la CRE para adquirir el
+
 Suministro Eléctrico como Participante del
 Mercado o mediante un Suministrador de
 Servicios Calificados;
@@ -590,7 +616,6 @@ del Sistema Eléctrico Nacional son de utilidad pública
 y se sujetarán a obligaciones de servicio público y
 universal en términos de esta Ley y de las
 disposiciones aplicables, a fin de lograr el cabal
-
 cumplimiento de los objetivos establecidos en este
 ordenamiento legal. Son consideradas obligaciones
 de servicio público y universal las siguientes:
@@ -599,8 +624,10 @@ I.
 Otorgar acceso abierto a la Red Nacional de
 Transmisión y las Redes Generales de
 Distribución en términos no indebidamente
-discriminatorios;
 
+discriminatorios, cuando sea técnicamente
+factible;
+Fracción reformada DOF 09-03-2021
 II. Ofrecer y prestar el Suministro Eléctrico a todo
 aquél que lo solicite, cuando ello sea
 técnicamente factible, en condiciones de
@@ -618,12 +645,16 @@ contaminantes que al efecto se establezcan en
 las disposiciones aplicables, y
 VI. Ofrecer energía eléctrica, potencia y Servicios
 Conexos al Mercado Eléctrico Mayorista basado
-en los costos de producción conforme a las
-Reglas del Mercado y entregar dichos productos
+en los costos de producción unitarios conforme a
+las Reglas del Mercado, garantizando, en
+primera instancia, los Contratos de Cobertura
+Eléctrica con Compromiso de Entrega Física y,
+en segundo término, el suministro de energías
+limpias, entregando dichos productos al Sistema
 
-al Sistema Eléctrico Nacional cuando sea
-técnicamente factible, sujeto a las instrucciones
-del CENACE.
+Eléctrico Nacional cuando sea técnicamente
+factible, sujeto a las instrucciones del CENACE.
+Fracción reformada DOF 09-03-2021
 Artículo 5.- El Gobierno Federal, los Generadores,
 los
 Transportistas,
@@ -1002,9 +1033,12 @@ Artículo 12.- La CRE está facultada para:
 
 I.
 
-Otorgar los permisos a que se refiere esta Ley y
-resolver sobre su modificación, revocación,
-cesión, prórroga o terminación;
+Otorgar los permisos a que se refiere esta Ley,
+considerando los criterios de planeación del
+Sistema Eléctrico Nacional establecidos por la
+Secretaría, y resolver sobre su modificación,
+revocación, cesión, prórroga o terminación;
+Fracción reformada DOF 09-03-2021
 
 II. Determinar las metodologías de cálculo, criterios
 y bases para determinar y actualizar las
@@ -1028,10 +1062,10 @@ Eléctrico Mayorista, así como las tarifas finales
 del Suministro Básico en términos de lo
 dispuesto en el artículo 138 y 139 de la presente
 Ley;
+
 V. Expedir y aplicar las metodologías para
 determinar y ajustar las tarifas máximas de los
 Suministradores de Último Recurso y los precios
-
 máximos del Suministro de Último Recurso, y
 determinar las demás condiciones para dicho
 Suministro;
@@ -1054,9 +1088,9 @@ esta Ley y en las Reglas del Mercado;
 XI. Vigilar la operación del Mercado Eléctrico
 Mayorista y las determinaciones del CENACE a
 fin de asegurar el funcionamiento eficiente del
+
 Mercado Eléctrico Mayorista y el cumplimiento
 de las Reglas del Mercado;
-
 XII. Instruir las correcciones que deban realizarse a
 los parámetros registrados de las Centrales
 Eléctricas y de la Demanda Controlable
@@ -1082,8 +1116,8 @@ Carga, compraventa por los Generadores
 Exentos, compraventa por los Usuarios de
 Suministro Básico con Demanda Controlable y
 los demás que se requieran;
-XVI. Otorgar los Certificados de Energías Limpias;
 
+XVI. Otorgar los Certificados de Energías Limpias;
 XVII. Emitir la regulación para validar la titularidad de
 los Certificados de Energías Limpias;
 XVIII.
@@ -1110,9 +1144,9 @@ XXII. Autorizar al CENACE llevar a cabo subastas a
 fin de adquirir potencia cuando lo considere
 necesario para asegurar la Confiabilidad del
 Sistema Eléctrico Nacional, determinar la
+
 asignación de los costos que resulten de dichas
 subastas y expedir protocolos para que el
-
 CENACE gestione la contratación de potencia en
 casos de emergencia;
 XXIII.
@@ -1140,9 +1174,9 @@ las metodologías de cálculo, criterios y bases
 para determinar y actualizar el monto de las
 aportaciones que los interesados deberán
 realizar para la construcción de obras,
+
 ampliaciones y modificaciones de transmisión y
 distribución cuando los costos no se recuperen a
-
 través de la regulación tarifaria, y aprobar los
 modelos de convenio correspondientes;
 XXVII. Emitir las reglas a las que se sujetarán las
@@ -1170,9 +1204,9 @@ y
 Generadores Exentos a los Suministradores de
 Último Recurso cuando se requiera en términos
 de esta Ley;
+
 XXXIII. Resolver las controversias que surjan entre
 el CENACE y los demás integrantes de la
-
 industria eléctrica, una vez que se agoten las
 vías establecidas en las Reglas del Mercado;
 XXXIV. Emitir las disposiciones necesarias para
@@ -1537,14 +1571,18 @@ Eléctrica
 Artículo 26.- Los Transportistas y los Distribuidores
 son responsables de la Red Nacional de Transmisión
 y las Redes Generales de Distribución y operarán sus
-redes conforme a las instrucciones del CENACE.
-Para el mantenimiento de la Red Nacional de
-Transmisión y de los elementos de las Redes
-Generales de Distribución que correspondan al
-Mercado Eléctrico Mayorista, los Transportistas y los
+redes conforme a las instrucciones del CENACE,
+quien considerará la prioridad en el uso de estas
+redes para el despacho de las Centrales Eléctricas
+Legadas y las Centrales Externas Legadas con
+compromiso de entrega física. Para el mantenimiento
 
-Distribuidores se sujetarán a la coordinación y a las
-instrucciones del CENACE.
+de la Red Nacional de Transmisión y de los
+elementos de las Redes Generales de Distribución
+que correspondan al Mercado Eléctrico Mayorista, los
+Transportistas y los Distribuidores se sujetarán a la
+coordinación y a las instrucciones del CENACE.
+Artículo reformado DOF 09-03-2021
 Artículo 27.- Las condiciones generales para la
 prestación del Servicio Público de Transmisión y
 Distribución de Energía Eléctrica que expida la CRE
@@ -1567,10 +1605,10 @@ ante el incumplimiento de los compromisos
 contractuales;
 VI. Las condiciones que, en su caso, podrán
 modificarse de común acuerdo con usuarios
+
 específicos, siempre que ello no represente un
 trato indebidamente discriminatorio y se hagan
 extensivas a usuarios similares, y
-
 VII. El procedimiento para la atención de quejas.
 La CRE podrá establecer y modificar los términos
 que resulten necesarios a efecto de que las
@@ -1595,11 +1633,11 @@ en los programas correspondientes, previa instrucción
 de la Secretaría.
 Artículo 30.- El Estado, a través de la Secretaría,
 los Transportistas o los Distribuidores podrá formar
+
 asociaciones o celebrar contratos con particulares
 para que lleven a cabo por cuenta de la Nación, entre
 otros, el financiamiento, instalación, mantenimiento,
 gestión, operación y ampliación de la infraestructura
-
 necesaria para prestar el Servicio Público de
 Transmisión y Distribución de Energía Eléctrica.
 Las asociaciones y contratos a que se refiere el
@@ -1626,10 +1664,10 @@ los tratados internacionales y acuerdos
 comerciales suscritos por México no establezcan
 un porcentaje y existan proveedores nacionales
 que puedan satisfacer dicho contenido;
+
 V. Las asociaciones y contratos deberán prever la
 transferencia de tecnología y conocimiento a los
 Transportistas y Distribuidores, y
-
 VI. En la constitución de gravámenes sobre los
 derechos derivados de las asociaciones y
 contratos, se hará constar que, bajo ninguna
@@ -1659,11 +1697,11 @@ que
 requiera
 transferencias
 extraordinarias;
+
 III. No lleve a cabo los proyectos contenidos en los
 programas de ampliación y modernización de la
 Red Nacional de Transmisión y de las Redes
 Generales de Distribución, o
-
 IV. Incumpla las obligaciones relacionadas con la
 interconexión de Centrales Eléctricas y la
 conexión de Centros de Carga.
@@ -1688,10 +1726,10 @@ específicas determinadas por el CENACE y cumplido
 con las normas oficiales mexicanas y los demás
 estándares y especificaciones aplicables a dichas
 instalaciones. En caso de que los Transportistas o los
+
 Distribuidores nieguen o dilaten la interconexión o
 conexión, la CRE determinará si existe causa
 justificada para ello.
-
 Para la interconexión de las Centrales Eléctricas y
 Conexión de los Centros de Carga, el CENACE está
 obligado, al menos, a:
@@ -1725,11 +1763,11 @@ dicho contrato con base en las características
 específicas de la infraestructura requerida;
 IV. Comprobar que una unidad de verificación o una
 unidad de inspección, según corresponda,
+
 aprobada en los términos que defina la CRE,
 certifique en los formatos que para tal efecto
 expida ésta, que la instalación para la
 interconexión o la conexión cumple con las
-
 características específicas de la infraestructura
 requerida establecidas por el CENACE, las
 normas oficiales mexicanas aplicables distintas a
@@ -1758,9 +1796,9 @@ los modelos que emita la CRE, dentro de los diez días
 hábiles siguientes a la notificación de la orden
 correspondiente por parte del CENACE, y realizar la
 interconexión o conexión físicas dentro de las setenta
+
 y dos horas siguientes a la notificación de la orden
 correspondiente del CENACE.
-
 Las Reglas del Mercado establecerán los criterios
 para que el CENACE omita la determinación de las
 características específicas de la infraestructura
@@ -1796,9 +1834,9 @@ incluyan obras específicas en los programas de
 ampliación y modernización de la Red Nacional de
 Transmisión y las Redes Generales de Distribución,
 siempre que ello aporte un beneficio neto al Sistema
+
 Eléctrico Nacional. A propuesta del CENACE, la CRE
 emitirá criterios generales para la evaluación de dicho
-
 beneficio neto y para requerir garantías del desarrollo
 de la Central Eléctrica o el Centro de Carga.
 El solicitante deberá celebrar el contrato de
@@ -1813,16 +1851,20 @@ Artículo 35.- Cuando las obras, ampliaciones o
 modificaciones necesarias para la interconexión o
 conexión no se incluyan en los programas de
 ampliación y modernización de la Red Nacional de
-Transmisión y las Redes Generales de Distribución, el
-Generador, Generador Exento o Usuario Final podrán
-optar por realizarlas a su costa o por hacer
-aportaciones a los Transportistas o a los
-Distribuidores para su realización y beneficiarse de
-las mismas, bajo los términos, condiciones y
+Transmisión y las Redes Generales de Distribución,
+los Generadores, Generadores Exentos, Usuarios
+Finales y/o los solicitantes para la interconexión de las
+Centrales Eléctricas y la conexión de los Centros de
+Carga podrán optar por agruparse para realizarlas a
+su costa o hacer aportaciones a los Transportistas o a
+los Distribuidores para su realización y beneficiarse
+de las mismas, bajo los términos, condiciones y
 metodologías de cálculo que se establezcan en los
 Reglamentos, o bien, que fije la CRE mediante
 disposiciones administrativas de carácter general,
 conforme a las bases generales siguientes:
+Párrafo reformado DOF 09-03-2021
+
 I.
 
 El CENACE realizará o validará el cálculo de
@@ -1854,11 +1896,11 @@ realización, se le otorgará la opción de adquirir
 los Derechos Financieros de Transmisión que
 correspondan o, en su defecto, la opción de
 recibir los ingresos que resulten de la venta de
+
 los mismos, en los términos de las Reglas del
 Mercado.
 Artículo 36.- El CENACE administrará los Derechos
 Financieros de Transmisión en los términos que
-
 establezcan las Reglas del Mercado, mismas que
 establecerán el mecanismo para distribuir entre los
 Participantes del Mercado los ingresos o costos
@@ -1883,13 +1925,13 @@ demás personas responsables de la medición están
 obligados a compartir los datos de medición de las
 Centrales Eléctricas y los Centros de Carga con los
 Suministradores que los representan.
+
 Artículo 38.- Los Transportistas y los Distribuidores
 celebrarán con el CENACE los convenios que regirán
 la prestación y facturación de los servicios de
 transmisión y distribución, con base en los modelos
 de contrato autorizados por la CRE a propuesta del
 CENACE.
-
 Artículo 39.- Los Transportistas y los Distribuidores
 podrán ejecutar en las calles, calzadas, jardines,
 plazas y demás lugares públicos, los trabajos
@@ -1911,6 +1953,7 @@ dispositivos, equipos, maquinaria, instrumentos o
 sistemas que utilicen para su funcionamiento y
 operación la energía eléctrica, quedan sujetos al
 cumplimiento de las normas oficiales mexicanas.
+
 Artículo 41.- Los Transportistas y los Distribuidores
 sólo podrán suspender el servicio a los Usuarios
 Finales en los casos siguientes:
@@ -1924,20 +1967,8 @@ programado
 en
 las
 instalaciones, siempre que se haya notificado
-
-con anterioridad
+con anterioridad al Usuario Final o su
 representante;
-
-al
-
-Usuario
-
-Final
-
-o
-
-su
-
 III. Por incumplimiento de las obligaciones de pago
 o de garantía de un Usuario Calificado
 Participante del Mercado frente al CENACE, en
@@ -1955,6 +1986,7 @@ emitirá la instrucción;
 VI. Por realizar actividades o incurrir en omisiones
 que impidan el funcionamiento adecuado de las
 redes o que alteren o impidan el funcionamiento
+
 normal de los instrumentos de control o de
 medición;
 VII. Por incumplimiento de las normas oficiales
@@ -1962,7 +1994,6 @@ mexicanas, o mala operación o fallas en las
 instalaciones del Usuario Final;
 VIII. Por el uso de energía eléctrica en
 contravención a lo establecido en las Reglas de
-
 Mercado o en las condiciones generales para la
 prestación del Suministro Eléctrico, según
 corresponda, y
@@ -1983,13 +2014,13 @@ CENACE o al Suministrador que en su caso haya
 emitido la instrucción, siempre y cuando el
 Transportista o el Distribuidor la haya ejecutado
 correctamente.
+
 En caso de que el Transportista o el Distribuidor no
 ejecute la suspensión en un periodo de 24 horas
 siguientes a la recepción de la instrucción del
 CENACE o del Suministrador, el consumo que
 corresponde al periodo subsecuente se cargará al
 Transportista o al Distribuidor correspondiente.
-
 Artículo 42.- El Servicio Público de Transmisión y
 Distribución de Energía Eléctrica se considera de
 interés social y orden público, por lo que tiene
@@ -2012,6 +2043,7 @@ financiamiento, instalación, mantenimiento, gestión,
 operación, ampliación, modernización, vigilancia y
 conservación de las Redes Particulares que resulten
 necesarias para entregar la producción de las
+
 Centrales Eléctricas a la Red Nacional de
 Transmisión o las Redes Generales de Distribución, o
 para fines de abasto aislado. Las Redes Particulares
@@ -2019,7 +2051,6 @@ no formarán parte de la Red Nacional de Transmisión
 o las Redes Generales de Distribución y se sujetarán
 al régimen jurídico aplicable a la Central Eléctrica a la
 que pertenezcan.
-
 Artículo 44.- Previo acuerdo entre las partes
 interesadas, la no objeción del CENACE y la
 determinación favorable de la CRE, los Transportistas
@@ -2049,7 +2080,6 @@ Mercado Eléctrico Mayorista;
 III. Realizar las transacciones referidas en el artículo
 96 de esta Ley, en el Mercado Eléctrico
 Mayorista;
-
 IV. Celebrar los contratos referidos en el artículo 97
 de
 esta
@@ -2074,18 +2104,24 @@ Suministro de Último Recurso, a fin de promover la
 eficiencia y calidad de dichos servicios.
 Sin perjuicio de que se sujeten a los requerimientos
 de medición establecidos en las condiciones
-generales para la prestación del Servicio Público de
-Transmisión y Distribución de Energía Eléctrica o en
-las Reglas del Mercado, las siguientes actividades no
-se consideran comercialización, por lo que no
+
+generales para la prestación del Servicio Público
+Transmisión y Distribución de Energía Eléctrica o
+las Reglas del Mercado, las siguientes actividades
+se consideran comercialización, por lo que
 requieren permiso o registro:
 I.
 
+de
+en
+no
+no
+
 La venta de energía eléctrica de un Usuario Final
 a un tercero, siempre y cuando la energía
-
 eléctrica se utilice dentro de las instalaciones del
 Usuario Final, y
+
 II. La venta de energía eléctrica de un tercero a un
 Usuario Final, siempre y cuando la energía
 eléctrica se genere a partir de Generación
@@ -2104,6 +2140,7 @@ ofrecerán el Suministro Básico a todas las personas
 que lo soliciten y cuyos Centros de Carga se
 encuentren ubicados en las zonas donde operen,
 siempre que ello sea técnicamente factible y cumpla
+
 con las disposiciones aplicables, en condiciones no
 indebidamente discriminatorias.
 Los Suministradores de Servicios Calificados podrán
@@ -2111,7 +2148,6 @@ ofrecer el Suministro Calificado a los Usuarios
 Calificados en condiciones de libre competencia.
 Los Suministradores de Último Recurso ofrecerán el
 Suministro de Último Recurso a todos los Usuarios
-
 Calificados que lo requieran y cuyos Centros de
 Carga se encuentren ubicados en las zonas donde
 operen, siempre que ello sea técnicamente factible y
@@ -2132,6 +2168,7 @@ económico que produzca al Suministrador.
 Artículo 50.- Las condiciones generales para la
 prestación del Suministro Eléctrico que expida la CRE
 tendrán por objeto determinar los derechos y
+
 obligaciones del prestador del servicio y del Usuario
 Final, para lo cual deberán contener, como mínimo, la
 información que los Suministradores pondrán a la
@@ -2140,7 +2177,6 @@ no indebidamente discriminatorias a que se sujetará
 el servicio.
 Artículo 51.- Previo al inicio del Suministro Básico o
 Suministro Calificado, el Usuario Final deberá
-
 celebrar un contrato de suministro con un
 Suministrador. Dichos contratos deberán cumplir con
 las condiciones generales para la prestación del
@@ -2157,18 +2193,19 @@ la energía eléctrica y Productos Asociados que
 suministrarán a los Centros de Carga que
 representen, y verificará su cumplimiento.
 Artículo 53.- Los Suministradores de Servicios
-Básicos celebrarán Contratos de Cobertura Eléctrica
-exclusivamente a través de subastas que llevará a
-cabo el CENACE. Los términos para llevar a cabo
-dichas subastas y asignar los Contratos de Cobertura
+Básicos podrán celebrar Contratos de Cobertura
+Eléctrica a través de subastas que llevará a cabo el
+CENACE. Los términos para llevar a cabo dichas
+subastas y asignar los Contratos de Cobertura
+
 Eléctrica respectivos se dispondrán en las Reglas del
 Mercado.
+Artículo reformado DOF 09-03-2021
 Artículo 54.- La CRE establecerá los requisitos que
 los Suministradores y los Usuarios Calificados
 Participantes del Mercado, en su caso, deberán
 observar para adquirir la potencia que les permita
 suministrar a los Centros de Carga que representen.
-
 Para comprobar el cumplimiento de estos requisitos,
 la CRE verificará que los instrumentos que los
 Suministradores y Usuarios Calificados Participantes
@@ -2188,6 +2225,7 @@ sus obligaciones de pago o de garantía frente al
 CENACE.
 La Secretaría podrá determinar, además, que los
 activos, derechos y obligaciones de dicho
+
 Suministrador de Servicios Básicos se transfieran a
 otro Suministrador de Servicios Básicos, así como las
 medidas de transición requeridas, salvaguardando la
@@ -2197,7 +2235,6 @@ empresas subsidiarias y filiales que sean
 suministradores garantizarán la prestación del
 Suministro Eléctrico a los Usuarios Finales del
 Suministrador de Servicios Básicos que se encuentre
-
 en liquidación hasta que sean transferidos a un nuevo
 Suministrador.
 Artículo 56.- En caso de incumplimiento de las
@@ -2216,6 +2253,7 @@ cualquiera de las modalidades existentes.
 La CRE establecerá los mecanismos para la
 asignación de Usuarios Calificados y Generadores
 Exentos a los Suministradores de Último Recurso.
+
 Artículo 57.- Cuando no exista un permisionario
 para proveer Suministro de Último Recurso en una
 zona geográfica o para una clase de usuarios, los
@@ -2226,7 +2264,6 @@ se refiere el artículo 8 de esta Ley.
 Artículo 58.- La CRE expedirá y aplicará las
 metodologías para determinar y ajustar las tarifas
 máximas de los Suministradores de Último Recurso y
-
 los precios máximos del Suministro de Último
 Recurso. Dichas tarifas máximas y precios máximos o
 los parámetros usados para su cálculo podrán ser
@@ -2246,6 +2283,7 @@ electrónicos establecidos para tal fin. El solicitante
 deberá acreditar que los Centros de Carga a incluirse
 en el registro cumplan con los niveles requeridos de
 consumo o demanda fijados por la Secretaría.
+
 Los Usuarios Finales cuyos Centros de Carga
 reúnan las características para incluirse en el registro
 de Usuarios Calificados podrán optar por mantener la
@@ -2255,7 +2293,6 @@ establecidos en el siguiente artículo.
 Una persona puede registrarse como Usuario
 Calificado para el Suministro Eléctrico en
 determinados Centros de Carga y a su vez mantener
-
 la Calidad de Usuario de Suministro Básico para el
 Suministro Eléctrico en otros Centros de Carga. Para
 estos efectos, se considerará que el Usuario
@@ -2276,6 +2313,7 @@ y reúnan los requisitos para incluirse en el
 registro de Usuarios Calificados.
 El registro de los Centros de Carga podrá
 cancelarse después de transcurridos tres años de
+
 haberse registrado, siempre que se haya dado aviso a
 la CRE un año antes de la fecha de cancelación. En
 este caso, deberá transcurrir un periodo adicional de
@@ -2286,7 +2324,6 @@ Se prohíbe la división de Centros de Carga con la
 finalidad de evadir los niveles de consumo o demanda
 establecidos por la Secretaría u otras reglas que
 obliguen al Usuario Final a registrarse como Usuario
-
 Calificado. La CRE dictaminará sobre los presuntos
 casos de división de Centros de Carga con este fin,
 en los términos de las disposiciones administrativas
@@ -2305,6 +2342,7 @@ Calificado Participante del Mercado.
 La Secretaría determinará y ajustará a la baja
 periódicamente los niveles de consumo o demanda
 que permitan a los Usuarios Finales incluirse en el
+
 registro de Usuarios Calificados. Asimismo, la
 Secretaría establecerá los términos bajo los cuales
 los Usuarios Finales que pertenecen a un mismo
@@ -2315,7 +2353,6 @@ dichos niveles se darán a conocer con la anticipación
 que determine la Secretaría, a fin de que dichos
 Usuarios Finales contraten el Servicio Eléctrico a
 través de un Suministrador de Servicios Calificados o
-
 en modalidad de Usuario Calificado Participante del
 Mercado.
 Artículo 61.- Los Usuarios Calificados podrán recibir
@@ -2334,6 +2371,7 @@ podrán realizar las actividades de comercialización a
 que se refiere el artículo 45 de la presente Ley.
 Artículo 63.- A los servicios prestados a los
 Usuarios Calificados Participantes del Mercado no les
+
 será aplicable el párrafo segundo del artículo 113 de
 la Ley Federal de Protección al Consumidor.
 Artículo 64.- Los Usuarios Calificados operarán la
@@ -2341,7 +2379,6 @@ Demanda Controlable que representan conforme a las
 instrucciones del CENACE.
 Capítulo VI
 De los Pequeños Sistemas Eléctricos
-
 Artículo 65.- Se considerarán pequeños sistemas
 eléctricos los que se utilicen para suministrar energía
 eléctrica al público en general y no se encuentren
@@ -2362,6 +2399,7 @@ separación legal y las reglas referidas en el artículo 8
 del presente ordenamiento.
 Artículo 67.- Las Reglas del Mercado podrán
 establecer esquemas especiales para la operación de
+
 los pequeños sistemas eléctricos, así como para el
 área de control de Baja California y para el sistema
 interconectado de Baja California Sur. El Control
@@ -2371,7 +2409,6 @@ con terceros para la realización de esta actividad,
 previa autorización de la Secretaría.
 Capítulo VII
 De la Generación Distribuida
-
 Artículo 68.- La Generación Distribuida contará con
 acceso abierto y no indebidamente discriminatorio a
 las Redes Generales de Distribución, así como el
@@ -2404,6 +2441,7 @@ interconexión de estas Centrales Eléctricas no
 requieran estudios para determinar las
 características específicas de la infraestructura
 requerida;
+
 III. La CRE elaborará las bases normativas para
 autorizar unidades de inspección especializadas
 en Centrales Eléctricas de Generación
@@ -2412,7 +2450,6 @@ se refiere el artículo 33, fracción IV de esta Ley;
 IV. Las condiciones generales para la prestación del
 Servicio Público de Distribución de Energía
 Eléctrica, o bien, las Reglas del Mercado,
-
 asegurarán la implementación de procedimientos
 de medición a fin de integrar la Generación
 Distribuida;
@@ -2430,6 +2467,7 @@ el acceso abierto a las Redes Generales de
 Distribución de la Generación Distribuida.
 Artículo 69.- La Secretaría fomentará el
 otorgamiento de créditos y otros esquemas para el
+
 financiamiento de Centrales Eléctricas de Generación
 Limpia Distribuida.
 Artículo 70.- La CRE fomentará la capacitación de
@@ -2443,7 +2481,6 @@ Limpia
 Distribuida.
 Capítulo VIII
 Del Uso y Ocupación Superficial
-
 Artículo 71.- La industria eléctrica se considera de
 utilidad pública. Procederá la ocupación o afectación
 superficial o la constitución de servidumbres
@@ -2462,6 +2499,7 @@ superficie o del subsuelo de los terrenos afectos a
 aquéllas.
 La Federación, los gobiernos de los Estados y del
 Distrito Federal, de los municipios y de las
+
 delegaciones, contribuirán al desarrollo de proyectos
 de generación, transmisión y distribución de energía
 eléctrica, mediante procedimientos y bases de
@@ -2472,7 +2510,6 @@ Artículo 72.- Los concesionarios mineros, así como
 los titulares de asignaciones, permisos o contratos, no
 podrán oponerse al tendido de ductos, cables o a la
 instalación de cualquier otra infraestructura para la
-
 transmisión y distribución de energía eléctrica en el
 área comprendida en la concesión, asignación,
 permiso o contrato de que se trate, siempre que sea
@@ -2493,6 +2530,7 @@ Transportistas y los Distribuidores sólo podrán cobrar
 las tarifas que establezca la CRE por el uso de su
 infraestructura y proporcionarán la información que
 esta Comisión requiera para regular dicha actividad.
+
 Las obras e infraestructura a que se refiere este
 artículo deberán cumplir con la normatividad que
 emita la CRE en materia de seguridad, y asimismo,
@@ -2502,7 +2540,6 @@ Artículo 73.- La contraprestación, los términos y las
 condiciones para el uso, goce o afectación de los
 terrenos, bienes o derechos necesarios para realizar
 las actividades a que se refiere el artículo 71 de esta
-
 Ley, serán negociados y acordados entre los
 propietarios o titulares de dichos terrenos, bienes o
 derechos, incluyendo derechos reales, ejidales o
@@ -2523,10 +2560,10 @@ I.
 
 El interesado deberá expresar por escrito al
 propietario o titular del terreno, bien o derecho de
+
 que se trate, su interés de usar, gozar, afectar o,
 en su caso, adquirir tales terrenos, bienes o
 derechos;
-
 II. El interesado deberá mostrar y describir el
 proyecto que planea desarrollar y atender las
 dudas y cuestionamientos del propietario o titular
@@ -2534,7 +2571,6 @@ del terreno, bien o derecho de que se trate, de
 manera que entienda sus alcances, así como las
 posibles consecuencias y afectaciones que se
 podrían generar por su ejecución y, en su caso,
-
 los beneficios que le representaría en lo personal
 y/o en su comunidad o localidad;
 III. La Secretaría podrá prever la participación de
@@ -2553,6 +2589,7 @@ podrán emplearse las figuras de arrendamiento,
 servidumbre voluntaria, ocupación superficial,
 ocupación temporal, compraventa, permuta y
 cualquier otra que no contravenga la ley;
+
 VI. La contraprestación que se acuerde deberá ser
 proporcional a los requerimientos de las partes
 conforme a las actividades de la industria
@@ -2561,7 +2598,6 @@ De acuerdo a las distintas formas o modalidades
 de uso, goce, afectación o, en su caso,
 adquisición que se pacte, los titulares de los
 terrenos, bienes o derechos tendrán derecho a
-
 que la contraprestación cubra, según sea el
 caso:
 a) El pago de las afectaciones de bienes o
@@ -2582,6 +2618,7 @@ de
 las
 siguientes
 modalidades:
+
 a) Compromisos para ejecutar proyectos de
 desarrollo en beneficio de la comunidad o
 localidad afectada;
@@ -2595,7 +2632,6 @@ las
 modalidades
 de
 contraprestación a que se refiere esta fracción,
-
 se podrá proponer al propietario, titular del
 derecho o miembros de la comunidad o localidad
 a las que pertenezcan, la adquisición de bienes o
@@ -2623,6 +2659,7 @@ de
 solución
 de
 controversias, y
+
 IX. Los contratos en los que consten los acuerdos
 alcanzados no podrán prever cláusulas de
 confidencialidad sobre los términos, montos y
@@ -2631,7 +2668,6 @@ penalicen a las partes por su divulgación.
 Artículo 75.- Cuando estén involucrados terrenos,
 bienes o derechos sujetos a los regímenes previstos
 en la Ley Agraria, además de las disposiciones de
-
 dicha ley y las demás contenidas en el presente
 Capítulo, se observará lo siguiente:
 I.
@@ -2662,6 +2698,7 @@ deberá
 entregar
 directamente
 la
+
 contraprestación respectiva por la adquisición,
 uso, goce o afectación de tales derechos. En
 caso contrario, se entregarán a través del
@@ -2671,7 +2708,6 @@ acuerdan las partes.
 Artículo 76.- El Instituto de Administración y
 Avalúos de Bienes Nacionales elaborará y mantendrá
 actualizados tabuladores sobre los valores promedio
-
 de la tierra y, en su caso, de sus accesorios, para
 uso,
 ocupación
@@ -2695,6 +2731,7 @@ públicos o profesionistas con postgrado en valuación,
 siempre que formen parte del padrón que se
 establezca en los términos que indiquen las
 disposiciones reglamentarias de esta Ley.
+
 Los avalúos citados considerarán, entre otros
 factores:
 I.
@@ -2707,7 +2744,6 @@ que se trate;
 II. La existencia de características en los
 inmuebles, bienes o derechos que, sin reflejarse
 en su valor comercial, los hace técnicamente
-
 idóneos para el desarrollo del proyecto de que se
 trate;
 III. La afectación en la porción remanente de los
@@ -2726,6 +2762,7 @@ motivo del proyecto a desarrollar, incluyendo
 aquéllos correspondientes a bienes o derechos
 distintos de la tierra, o el eventual perjuicio por el
 tiempo que la propiedad será afectada, calculado
+
 en función de la actividad habitual de dicha
 propiedad.
 Para el caso de adquisiciones, en ningún caso el
@@ -2733,7 +2770,6 @@ valor será inferior al comercial.
 Los avalúos que se practiquen podrán considerar los
 demás elementos que a juicio del Instituto resulten
 convenientes.
-
 Artículo 78.- El acuerdo alcanzado en cualquier
 tiempo entre las partes deberá presentarse por el
 interesado ante el Juez de Distrito en materia civil o
@@ -2755,6 +2791,7 @@ periódico de circulación local y, en su caso, en
 los lugares más visibles del ejido respectivo.
 El Juez de Distrito o Tribunal Unitario Agrario emitirá
 su resolución, que tendrá el carácter de sentencia,
+
 dentro de los quince días siguientes a la primera
 publicación a que se refiere la fracción II anterior,
 siempre que no tenga conocimiento de la existencia
@@ -2762,7 +2799,6 @@ de un juicio pendiente que involucre los terrenos,
 bienes o derechos en cuestión.
 En contra de la resolución emitida sólo procederá el
 juicio de amparo.
-
 Artículo 79.- En caso de no existir un acuerdo entre
 las partes, transcurridos ciento ochenta días naturales
 contados a partir de la fecha de recepción del escrito
@@ -2784,6 +2820,7 @@ corresponda.
 Artículo 80.- La mediación a que se refiere el
 artículo anterior se desarrollará, al menos, conforme a
 las siguientes bases:
+
 I.
 
 La Secretaría de Desarrollo Agrario, Territorial y
@@ -2814,6 +2851,7 @@ Territorial y Urbano tomará el promedio
 simple de los avalúos y el resultado servirá
 de base para formular la sugerencia de
 contraprestación de la referida Secretaría, y
+
 3. En caso de que la diferencia entre los
 avalúos de los dos peritos sea superior a
 15%, la Secretaría de Desarrollo Agrario,
@@ -2822,7 +2860,6 @@ un perito que aleatoriamente seleccione del
 padrón a que se refiere el artículo 77 de esta
 Ley, la práctica de un avalúo, cuyo resultado
 servirá de base para formular la sugerencia
-
 de contraprestación de la referida Secretaría,
 y
 b) En caso de que las partes no hayan
@@ -2843,6 +2880,7 @@ contados a partir de la sugerencia de contraprestación
 a que se refiere la fracción II del artículo anterior, las
 partes no alcanzaren un acuerdo, la Secretaría de
 Desarrollo Agrario, Territorial y Urbano podrá
+
 proponer al Ejecutivo Federal la constitución de una
 servidumbre legal por vía administrativa.
 Artículo 82.- La servidumbre legal comprenderá el
@@ -2851,7 +2889,6 @@ conducción y almacenamiento de materiales para la
 construcción, vehículos, maquinaria y bienes de todo
 tipo; el de construcción, instalación o mantenimiento
 de la infraestructura o realización de obras y trabajos
-
 necesarios para el adecuado desarrollo, operación y
 vigilancia de las actividades a que se refiere el
 artículo 71 de esta Ley, así como todos aquéllos que
@@ -2870,6 +2907,7 @@ jurisdiccional deberán observar lo dispuesto en el
 artículo 77 de la presente Ley y, en lo conducente, lo
 señalado en las fracciones V a VII del artículo 74 de
 esta Ley.
+
 Artículo 83.- La contraprestación que corresponda
 por la servidumbre legal que se decrete por vía
 administrativa, se determinará con base en las
@@ -2879,7 +2917,6 @@ Tratándose de las demás modalidades de
 adquisición o afectación por figuras de derecho
 público, la indemnización respectiva se determinará
 considerando lo dispuesto en el artículo 77 y, en su
-
 caso, los valores de los avalúos que se obtengan
 conforme a la fracción II del artículo 80 de esta Ley.
 Artículo 84.- Lo dispuesto en los artículos anteriores
@@ -2898,6 +2935,7 @@ testigos sociales, serán cubiertos por los interesados.
 Artículo 87.- Los interesados en realizar las
 actividades a que se refiere el artículo 71 de esta Ley
 se abstendrán de realizar, directa o indirectamente,
+
 conductas o prácticas abusivas, discriminatorias o
 que busquen influir indebidamente en la decisión de
 los propietarios o titulares de los terrenos, bienes o
@@ -2906,7 +2944,6 @@ procedimientos a que se refiere el presente Capítulo.
 En los casos en que se acredite que dichos
 interesados incurran en las conductas señaladas en
 este artículo en más de una ocasión, los permisos o
-
 autorizaciones otorgados para la realización de las
 actividades mencionadas podrán ser revocados.
 Artículo 88.- Sin perjuicio de las demás
@@ -2928,6 +2965,7 @@ a) Las obras o trabajos por desarrollar no se
 inicien dentro de los plazos establecidos en el
 contrato celebrado entre el interesado con el
 propietario o titular del terreno, bien o derecho
+
 de que se trate o en las autorizaciones de las
 autoridades;
 b) El terreno objeto de las mismas sea
@@ -2935,7 +2973,6 @@ destinado a un uso distinto de aquel que
 justificó la afectación, y
 c) Se declare nula o cancele el permiso o
 autorización del interesado.
-
 Artículo 89.- Los contratos celebrados entre los
 interesados en realizar las actividades a que se
 refiere el artículo 71 de esta Ley y los propietarios o
@@ -2963,6 +3000,7 @@ puedan ocasionar a los propietarios o titulares de
 terrenos, bienes y derechos, no previstos en la
 contraprestación que se acuerde conforme a este
 Capítulo.
+
 Capítulo IX
 Del Fomento a la Industria Nacional
 Artículo 90.- La Secretaría de Economía, con la
@@ -2971,7 +3009,6 @@ el fomento industrial de cadenas productivas locales y
 para el fomento de la inversión directa en la industria
 eléctrica, con especial atención a las pequeñas y
 medianas empresas, conforme a lo siguiente:
-
 I.
 
 La estrategia para el fomento industrial de
@@ -2992,6 +3029,7 @@ desarrollo;
 c) Implementar programas para el desarrollo de
 proveedores y contratistas nacionales, a partir
 de la detección de oportunidades de negocio;
+
 d) Impulsar el cierre de brechas de capacidad
 técnica y de Calidad de las empresas, a través
 de programas de apoyo para asistencia técnica
@@ -2999,14 +3037,8 @@ y financiera, y
 e) Integrar un consejo consultivo, encabezado
 por la Secretaría de Economía, con
 representantes de la Secretaría, la CRE,
-
-académicos y representantes
+académicos y representantes del sector
 privado o de la industria.
-
-del
-
-sector
-
 Dicho consejo apoyará en la definición de
 políticas, criterios y metodologías para el
 diagnóstico de la oferta de productos, bienes y
@@ -3023,6 +3055,7 @@ las actividades en la industria eléctrica;
 b) Promover la asociación entre empresas
 mexicanas y extranjeras, para llevar a cabo las
 actividades en la industria eléctrica;
+
 c) Promover la inversión nacional y extranjera
 para que se realicen actividades de
 permanencia en México directamente en la
@@ -3031,7 +3064,6 @@ bienes o prestación de servicios relacionados
 con esta industria, y
 d) Impulsar la transferencia de tecnología y
 conocimiento.
-
 Corresponde a la Secretaría de Economía dar
 seguimiento al avance de las estrategias a que se
 refiere este artículo, así como elaborar y publicar, de
@@ -3051,6 +3083,7 @@ Las empresas de la industria eléctrica deberán
 proporcionar información a la Secretaría de Economía
 sobre el grado de contenido nacional en las
 actividades que realicen, conforme a lo que
+
 establezcan las disposiciones que para tal efecto
 emita.
 Artículo 92.- Se deroga.
@@ -3059,7 +3092,6 @@ Artículo 93.- La Secretaría y la CRE, con la opinión
 de la Secretaría de Economía, deberán establecer
 dentro de las condiciones que se incluyan en los
 contratos que se celebren para el financiamiento,
-
 instalación, mantenimiento, gestión, operación y
 ampliación de la infraestructura necesaria para
 prestar el Servicio Público de Transmisión y
@@ -3079,6 +3111,7 @@ TÍTULO TERCERO
 Del Mercado Eléctrico Mayorista
 Capítulo I
 De la Operación del Mercado Eléctrico Mayorista
+
 Artículo 94.- El CENACE operará el Mercado
 Eléctrico Mayorista conforme a la presente Ley. En el
 Mercado Eléctrico Mayorista, los Generadores,
@@ -3092,7 +3125,6 @@ de conformidad con las Reglas del Mercado.
 Invariablemente los precios de las transacciones
 celebradas en el Mercado Eléctrico Mayorista se
 calcularán por el CENACE con base en las ofertas
-
 que reciba, en los términos de las Reglas del
 Mercado.
 Artículo 95.- El Mercado Eléctrico Mayorista
@@ -3111,6 +3143,7 @@ autorización, revisión, ajuste y actualización de las
 Disposiciones Operativas del Mercado, los cuales
 incluirán la participación de los demás integrantes de
 la industria eléctrica.
+
 La emisión de las Bases del Mercado Eléctrico y de
 las Disposiciones Operativas del Mercado no estará
 sujeta al Título Tercero A de la Ley Federal de
@@ -3121,7 +3154,6 @@ notificación a los Participantes del Mercado, la cual
 podrá realizarse conforme al Título Segundo del
 Código de Comercio o por la publicación electrónica
 por la CRE o el CENACE, según corresponda.
-
 Sin perjuicio de lo anterior, los procedimientos
 inherentes a la modificación de las Bases del
 Mercado Eléctrico y de las Disposiciones Operativas
@@ -3153,7 +3185,6 @@ demanda eléctrica;
 IV. Los productos anteriores, vía importación o
 exportación;
 V. Derechos Financieros de Transmisión;
-
 VI. Certificados de Energías Limpias, y
 VII. Los demás productos, derechos de cobro y
 penalizaciones que se requieran para el
@@ -3171,6 +3202,7 @@ realizar operaciones de compraventa relativas a la
 energía eléctrica, la potencia o los Servicios Conexos
 en un nodo del Sistema Eléctrico Nacional, así como
 a los Derechos Financieros de Transmisión,
+
 sujetándose a las obligaciones para informar al
 CENACE previstas por las Reglas del Mercado.
 Asimismo, podrán celebrar Contratos de Cobertura
@@ -3182,7 +3214,6 @@ Artículo 98.- Los Generadores, Comercializadores y
 Usuarios Calificados podrán participar en el Mercado
 Eléctrico Mayorista, previa celebración del contrato de
 Participante del Mercado con el CENACE y la
-
 presentación de la garantía que corresponde en
 términos de las Reglas del Mercado. Terminado dicho
 contrato, el CENACE aplicará, en su caso, el importe
@@ -3199,6 +3230,7 @@ Los términos y condiciones generales de los
 convenios y contratos que celebre el CENACE con los
 Participantes del Mercado se sujetarán a la previa
 autorización de la CRE.
+
 Artículo 99.- Las Reglas del Mercado establecerán
 los mecanismos para que el CENACE instruya la
 producción, prestación o adquisición de Servicios
@@ -3211,7 +3243,6 @@ o cobrar los servicios de transmisión, distribución, los
 Servicios Conexos que no se incluyen en el Mercado
 Eléctrico Mayorista y sus propios costos operativos de
 acuerdo con las Tarifas Reguladas, así como las
-
 transacciones celebradas en el Mercado Eléctrico
 Mayorista, directamente o a través de un tercero.
 En las Reglas del Mercado se definirán los demás
@@ -3228,6 +3259,7 @@ terceros, en los términos de las Reglas del Mercado.
 El CENACE podrá establecer cuentas de ingresos
 residuales a fin de mantener dicho balance entre
 periodos.
+
 Artículo 101.- Con base en criterios de Seguridad
 de Despacho y eficiencia económica, el CENACE
 determinará la asignación y despacho de las
@@ -3240,11 +3272,13 @@ se
 ejecutará
 independientemente de la propiedad o representación
 de las Centrales Eléctricas, la Demanda Controlable u
-ofertas de importación y exportación.
+ofertas de importación y exportación. Lo anterior,
+considerando los Contratos de Cobertura Eléctrica
+con Compromiso de Entrega Física.
+Artículo reformado DOF 09-03-2021
 Artículo 102.- El CENACE deberá restringir o
 suspender la participación en el Mercado Eléctrico
 Mayorista a quienes incurran en incumplimientos
-
 graves a las Reglas del Mercado, sin requerir la
 intervención previa de autoridad alguna, en tanto no
 regularicen su situación y no cubran las obligaciones
@@ -3260,6 +3294,7 @@ total que puede dejar de consumir en un periodo.
 Dicho programa considerará las restricciones
 hidrológicas, ambientales y del suministro de
 combustibles, así como el uso permitido de la
+
 Demanda Controlable, entre otras. Para la
 elaboración de dicho programa, el CENACE se
 coordinará con las autoridades competentes y los
@@ -3275,7 +3310,6 @@ Artículo 104.- Los representantes de las Centrales
 Eléctricas ofrecerán al Mercado Eléctrico Mayorista la
 totalidad de las capacidades disponibles para producir
 energía eléctrica, potencia y Servicios Conexos en
-
 dichas Centrales Eléctricas, sujetándose a los
 parámetros operativos y obligaciones normativas de
 las mismas. De la misma forma, los representantes de
@@ -3291,6 +3325,7 @@ necesario para racionar la disponibilidad de energía
 durante un periodo.
 Las ofertas que los representantes de Centrales
 Eléctricas realicen en el Mercado Eléctrico Mayorista
+
 se basarán en los costos de dichas Centrales
 Eléctricas y Demanda Controlable, pudiendo ser
 menores a dichos costos, en los términos que definan
@@ -3305,7 +3340,6 @@ Mercado.
 La CRE podrá emitir criterios para eximir a las
 Centrales Eléctricas y a la Demanda Controlable que
 no tengan un impacto relevante en el funcionamiento
-
 eficiente del Mercado Eléctrico Mayorista de las
 obligaciones relacionadas con sus ofertas a que se
 refieren los tres párrafos anteriores y de su
@@ -3321,6 +3355,7 @@ capacidades físicas de cada Central Eléctrica y la
 relativa a las capacidades físicas de la Demanda
 Controlable Garantizada, con la finalidad de verificar
 los parámetros registrados. La CRE vigilará que las
+
 ofertas de las Centrales Eléctricas y de la Demanda
 Controlable Garantizada al Mercado Eléctrico
 Mayorista sean consistentes con sus costos y
@@ -3336,7 +3371,6 @@ respectivo. Cuando dicha facturación requiera la
 devolución de ingresos o el pago de nuevos costos,
 estas operaciones procederán sin perjuicio de la
 aplicación de las sanciones a que haya lugar.
-
 Se prohíbe a los integrantes del sector eléctrico la
 realización de cualquier acción o transacción que
 tenga como efecto interferir con el funcionamiento
@@ -3350,6 +3384,7 @@ identificadas, sin perjuicio de la aplicación de las
 sanciones a que haya lugar. En casos graves, la CRE
 instruirá al CENACE a restringir o suspender la
 participación en el Mercado Eléctrico Mayorista.
+
 La CRE vigilará la operación del Mercado Eléctrico
 Mayorista y las determinaciones del CENACE a fin de
 asegurar el funcionamiento eficiente del Mercado
@@ -3366,7 +3401,6 @@ a expertos independientes o constituya un comité
 colegiado u otro ente para realizar las demás
 funciones de vigilancia del Mercado Eléctrico
 Mayorista. En ningún caso las funciones de vigilancia
-
 del Mercado Eléctrico Mayorista podrán ser
 desempeñadas por quienes participen en la
 administración o fiscalización del CENACE, por los
@@ -3381,6 +3415,7 @@ Participantes del Mercado con la intención o efecto de
 restringir el funcionamiento eficiente del Mercado
 Eléctrico Mayorista. Cuando la Secretaría, la CRE, el
 CENACE o cualquier otra persona detecte dichas
+
 prácticas, informará a la Comisión Federal de
 Competencia Económica para que ésta proceda
 conforme a sus facultades.
@@ -3396,7 +3431,6 @@ Artículo 106.- Las adquisiciones que las
 dependencias y entidades de la Administración
 Pública Federal realicen dentro del Mercado Eléctrico
 Mayorista y las subastas referidas en esta Ley no se
-
 sujetarán ni a la Ley de Adquisiciones,
 Arrendamientos y Servicios del Sector Público, ni a la
 Ley de Obras Públicas y Servicios Relacionadas con
@@ -3410,6 +3444,7 @@ tiene a su cargo el Control Operativo del Sistema
 Eléctrico Nacional, la operación del Mercado Eléctrico
 Mayorista y el acceso abierto y no indebidamente
 discriminatorio a la Red Nacional de Transmisión y las
+
 Redes Generales de Distribución, así como las demás
 facultades señaladas en esta Ley y otras
 disposiciones aplicables.
@@ -3432,7 +3467,6 @@ Nacional y que deben realizar los Participantes
 del Mercado, Transportistas y Distribuidores,
 sujeto a la regulación y supervisión de la CRE en
 dichas materias;
-
 III. Llevar a cabo los procesos de revisión, ajuste,
 actualización, y emisión de las Disposiciones
 Operativas del Mercado, con sujeción a los
@@ -3445,11 +3479,24 @@ V. Determinar la asignación y el despacho de las
 Centrales Eléctricas, de la Demanda Controlable
 y de los programas de importación y exportación,
 a fin de satisfacer la demanda de energía
-eléctrica en el Sistema Eléctrico Nacional;
+eléctrica en el Sistema Eléctrico Nacional, y
+
+mantener
+la
+Seguridad
+de
+Despacho,
+Confiabilidad, Calidad y Continuidad del Sistema
+Eléctrico Nacional;
+Fracción reformada DOF 09-03-2021
 VI. Recibir las ofertas y calcular los precios de
 energía eléctrica y Productos Asociados que
-derivan del Mercado Eléctrico Mayorista, de
-conformidad con las Reglas del Mercado;
+derivan del Mercado Eléctrico Mayorista, y recibir
+los programas de generación y consumo
+asociados a los Contratos de Cobertura con
+compromisos de entrega física, de conformidad
+con las Reglas del Mercado;
+Fracción reformada DOF 09-03-2021
 VII. Facturar, procesar o cobrar los pagos que
 correspondan a los integrantes de la industria
 eléctrica, de conformidad con esta Ley, las
@@ -3459,7 +3506,6 @@ VIII. Llevar a cabo subastas para la celebración de
 Contratos de Cobertura Eléctrica entre los
 Generadores y los representantes de los Centros
 de Carga;
-
 IX. Previa autorización de la CRE, llevar a cabo
 subastas a fin de adquirir potencia cuando lo
 considere
@@ -3470,6 +3516,7 @@ la
 Confiabilidad del Sistema Eléctrico Nacional, y
 gestionar la contratación de potencia en casos
 de emergencia;
+
 X. Coordinar la programación del mantenimiento de
 las Centrales Eléctricas que son representadas
 por Generadores en el Mercado Eléctrico
@@ -3495,7 +3542,6 @@ ofertas al Mercado Eléctrico Mayorista y los
 datos registrados;
 XIII. Determinar los elementos de la Red Nacional
 de Transmisión y de las Redes Generales de
-
 Distribución que correspondan al Mercado
 Eléctrico Mayorista y determinar la asignación de
 responsabilidades
@@ -3508,6 +3554,7 @@ los
 Transportistas
 y
 Distribuidores;
+
 XIV. Formular y proponer a la Secretaría los
 programas de ampliación y modernización de la
 Red Nacional de Transmisión y de los elementos
@@ -3530,12 +3577,12 @@ Central Eléctrica o Centro de Carga se requiera
 establecer características específicas de la
 infraestructura requerida, establecer dichas
 características para cada caso particular;
-
 XIX. Instruir a los Transportistas y los Distribuidores
 la celebración del contrato de interconexión o de
 conexión y la realización de la interconexión de
 las Centrales Eléctricas o conexión de los
 Centros de Carga a sus redes;
+
 XX. Calcular las aportaciones que los interesados
 deberán realizar por la construcción de obras,
 ampliaciones y modificaciones de transmisión y
@@ -3558,10 +3605,10 @@ XXIV. Someter a la autorización de la CRE los
 modelos de convenios y contratos que celebrará
 con los Transportistas, los Distribuidores y los
 Participantes del Mercado, entre otros;
-
 XXV. Celebrar los convenios y contratos que se
 requieran para la operación del Mercado
 Eléctrico Mayorista;
+
 XXVI. Exigir las garantías necesarias para
 asegurar el cumplimiento de las obligaciones de
 los Participantes del Mercado;
@@ -3584,10 +3631,10 @@ XXX. Publicar informes sobre el desempeño y
 evolución del Mercado Eléctrico Mayorista con la
 periodicidad y en los términos que se determinen
 por la CRE;
-
 XXXI. Participar en comités consultivos para la
 elaboración de proyectos de normalización sobre
 bienes o servicios relacionados con su objeto;
+
 XXXII. Mantener la seguridad informática y
 actualización de sus sistemas que le permitan
 cumplir con sus objetivos;
@@ -3612,10 +3659,10 @@ un Director General. La dirección y visión estratégica
 del CENACE estará a cargo de su Consejo de
 Administración, mismo que contará al menos con una
 tercera parte de consejeros independientes.
-
 La gestión, operación y ejecución de las funciones
 del CENACE estará a cargo, exclusivamente, de la
 Dirección General, para lo cual gozará de autonomía.
+
 En los comités consultivos que, en su caso, cree el
 Consejo
 de
@@ -3644,10 +3691,10 @@ recomendaciones al Consejo de Administración del
 CENACE. Para la revisión de las metodologías
 aplicadas por el CENACE, el comité de evaluación
 podrá apoyarse en expertos independientes.
-
 TÍTULO CUARTO
 Disposiciones aplicables a los Integrantes de la
 Industria Eléctrica
+
 Capítulo I
 De las Obligaciones de Servicio Universal
 Artículo 113.- El Gobierno Federal promoverá la
@@ -3672,11 +3719,11 @@ Fondo de Servicio Universal Eléctrico podrá recibir
 donativos de terceros para cumplir sus objetivos.
 Los fondos que no se ejerzan en proyectos de
 electrificación se reintegrarán al CENACE para su
-
 devolución a los Participantes del Mercado conforme
 a las Reglas del Mercado, sin perjuicio de que los
 fondos recibidos por terceros se podrán devolver a
 sus aportantes.
+
 Artículo 115.- Los Distribuidores y Suministradores
 de Servicios Básicos están obligados a instalar,
 conservar y mantener su infraestructura, así como a
@@ -3702,9 +3749,9 @@ caso, instrumentarán programas de apoyos
 focalizados que tengan como objeto coadyuvar con el
 suministro eléctrico adecuado y oportuno, a precios
 asequibles, en zonas rurales y zonas urbanas
-
 marginadas para grupos de Usuarios del Suministro
 Básico en condiciones económicas de vulnerabilidad.
+
 La CRE y el Consejo Nacional de Evaluación de la
 Política de Desarrollo Social deberán prestar el apoyo
 técnico que se requiera para los fines del presente
@@ -3730,9 +3777,9 @@ pueblos indígenas en los que se desarrollen
 proyectos de la industria eléctrica, la Secretaría
 deberá llevar a cabo los procedimientos de consulta
 necesarios y cualquier otra actividad necesaria para
-
 su salvaguarda, en coordinación con la Secretaría de
 Gobernación y las dependencias que correspondan.
+
 En dichos procedimientos de consulta podrán
 participar la CRE, las empresas productivas del
 Estado y sus empresas subsidiarias y filiales, así
@@ -3763,10 +3810,10 @@ Energías Limpias. La Secretaría establecerá las
 obligaciones para adquirir Certificados de Energías
 Limpias e instrumentará los demás mecanismos que
 se requieran para dar cumplimiento a la política en la
-
 materia, y podrá celebrar convenios que permitan su
 homologación con los instrumentos correspondientes
 de otras jurisdicciones.
+
 Artículo 122.- Los requisitos para adquirir
 Certificados de Energías Limpias se establecerán
 como una proporción del total de la Energía Eléctrica
@@ -3792,10 +3839,10 @@ estos certificados sean negociables, fomentará la
 celebración de Contratos de Cobertura Eléctrica a
 largo plazo que incluyan Certificados de Energías
 Limpias y podrá permitir el traslado de certificados
-
 excedentes o faltantes entre periodos y establecer
 cobros por realizar dicho traslado a fin de promover la
 estabilidad de precios.
+
 A su vez, la regulación permitirá la adquisición,
 circulación y compraventa de los Certificados de
 Energías Limpias y los Contratos de Cobertura
@@ -3818,11 +3865,19 @@ de Carga que representen o incluyan;
 II. La Secretaría establecerá los criterios para su
 otorgamiento en favor de los Generadores y
 Generadores Exentos que produzcan energía
-eléctrica a partir de Energías Limpias;
+eléctrica a partir de Energías Limpias. El
+otorgamiento de los Certificados de Energías
+Limpias a Centrales Eléctricas, no dependerá ni
+de la propiedad, ni de la fecha de inicio de
+operación comercial de las mismas;
+Fracción reformada DOF 09-03-2021
 III. La CRE otorgará los Certificados de Energías
 Limpias que correspondan, emitirá la regulación
-para validar su titularidad y verificará el
+
+para validar su titularidad y verificará
 cumplimiento de dichas obligaciones;
+
+el
 
 IV. Los Certificados de Energías Limpias serán
 negociables a través del Mercado Eléctrico
@@ -3852,9 +3907,9 @@ el cumplimiento de sus requisitos de Energías
 Limpias.
 Artículo 129.- La Secretaría de Medio Ambiente y
 Recursos Naturales establecerá, a través de normas
+
 oficiales mexicanas y los demás instrumentos o
 disposiciones aplicables, las obligaciones de
-
 reducción de emisiones contaminantes relativas a la
 industria eléctrica.
 Capítulo IV
@@ -3885,9 +3940,9 @@ otorgado, en su caso;
 
 II. Por renuncia del titular, previo cumplimiento de
 sus obligaciones;
+
 III. Por revocación determinada por la CRE en los
 casos siguientes:
-
 a) Por no iniciar las actividades objeto del
 permiso en los plazos que al efecto se
 establezcan en el título respectivo, salvo
@@ -3927,10 +3982,10 @@ del permiso;
 h) Por incumplir las instrucciones del
 CENACE respecto del Control Operativo del
 Sistema Eléctrico Nacional;
+
 i) Por realizar actividades o incurrir en omisiones
 que impidan el funcionamiento eficiente del
 Sistema Eléctrico Nacional;
-
 j) Por ceder, gravar, transferir o enajenar los
 derechos y obligaciones derivados de los
 permisos sin previo aviso a la CRE;
@@ -3952,10 +4007,10 @@ revocación considerando la gravedad de la infracción,
 las acciones tomadas para corregirla y la reincidencia,
 en los términos definidos en los Reglamentos de esta
 Ley.
+
 La terminación del permiso no extingue las
 obligaciones contraídas por el titular durante su
 vigencia.
-
 Capítulo V
 De la Estandarización, Normalización,
 Confiabilidad y Seguridad
@@ -3982,9 +4037,9 @@ La Secretaría regulará, supervisará y ejecutará el
 proceso de estandarización y normalización en
 materia de seguridad de las instalaciones de los
 Usuarios Finales.
+
 Los integrantes de la industria eléctrica no podrán
 aplicar especificaciones técnicas de referencia
-
 distintas a la regulación, estandarización y
 normalización que emitan o autoricen las autoridades
 competentes.
@@ -4013,10 +4068,10 @@ estricta separación legal a que se refiere el artículo 8
 de esta Ley.
 Artículo 135.- El CENACE solicitará la autorización
 de la CRE para llevar a cabo subastas a fin de
+
 adquirir potencia cuando lo considere necesario para
 asegurar la Confiabilidad del Sistema Eléctrico
 Nacional.
-
 Cuando, a juicio del CENACE, una Central Eléctrica
 cuyo retiro haya sido programado sea necesaria para
 asegurar la Confiabilidad del Sistema Eléctrico
@@ -4042,9 +4097,9 @@ anterior.
 Los términos para efectuar la interrupción del
 servicio en caso de que el Sistema Eléctrico Nacional
 no esté en condiciones de suministrar la totalidad de
+
 la demanda eléctrica se establecerán en las Reglas
 del Mercado.
-
 Artículo 136.- Para proteger los intereses del
 público en relación con la Calidad, Confiabilidad,
 Continuidad y Seguridad del Suministro Eléctrico, la
@@ -4074,9 +4129,9 @@ las medidas previstas en este artículo.
 Las medidas de seguridad estarán vigentes durante
 el tiempo estrictamente necesario para corregir las
 deficiencias o anomalías.
+
 Capítulo VI
 De las Tarifas
-
 Artículo 137.- La transmisión, distribución,
 Suministro Básico y Suministro de Último Recurso,
 así como la operación del CENACE, se sujetarán a
@@ -4111,11 +4166,11 @@ de
 IV. La operación del CENACE, y
 V. Los Servicios Conexos no incluidos en el
 Mercado Eléctrico Mayorista.
+
 Los Ingresos Recuperables del Suministro Básico
 incluirán los costos que resulten de las Tarifas
 Reguladas de las cinco fracciones que anteceden, así
 como los costos de la energía eléctrica y los
-
 Productos Asociados adquiridos para suministrar
 dicho servicio, incluyendo los que se adquieran por
 medio de los Contratos de Cobertura Eléctrica,
@@ -4145,6 +4200,7 @@ máximos del Suministro de Último Recurso podrán
 determinarse mediante procesos competitivos.
 Artículo 139.- La CRE aplicará las metodologías
 para determinar el cálculo y ajuste de las Tarifas
+
 Reguladas,
 las
 tarifas
@@ -4153,7 +4209,6 @@ de
 los
 Suministradores de Último Recurso y las tarifas
 finales del Suministro Básico. La CRE publicará las
-
 memorias de cálculo usadas para determinar dichas
 tarifas y precios.
 El Ejecutivo Federal podrá determinar, mediante
@@ -4182,6 +4237,7 @@ regulados de transmisión y distribución que
 permitirán obtener el ingreso estimado necesario
 para recuperar los costos eficientes de
 operación, mantenimiento, financiamiento y
+
 depreciación
 aplicables
 a
@@ -4189,7 +4245,6 @@ las
 diversas
 modalidades de servicio, las pérdidas técnicas y
 no técnicas de acuerdo con el estándar
-
 determinado por la CRE, los impuestos
 aplicables y una rentabilidad razonable, misma
 que no estará garantizada;
@@ -4219,9 +4274,9 @@ reflejen una operación eficiente, y
 VI. Incentivar la provisión eficiente y suficiente de los
 Servicios Conexos no incluidos en el Mercado
 Eléctrico Mayorista.
+
 Artículo 141.- La CRE estará facultada para
 investigar las inversiones y otros costos en que
-
 incurran los Transportistas, los Distribuidores, los
 Suministradores
 de
@@ -4253,9 +4308,9 @@ proyectados entre dichos participantes y el resto de la
 industria eléctrica.
 Artículo 143.- La determinación y aplicación de las
 Tarifas Reguladas, así como la prestación de los
+
 servicios cubiertos por éstas, no podrá condicionarse
 a la adquisición de productos o servicios innecesarios.
-
 Artículo 144.- La CRE expedirá mediante
 disposiciones administrativas de carácter general y
 aplicará la metodología para el cálculo y ajuste de los
@@ -4291,9 +4346,9 @@ disposiciones administrativas de carácter general. El
 ajuste, modificación y reestructuración de las tarifas
 implicará la modificación automática de los contratos
 de suministro que se hubieren celebrado.
+
 Artículo 147.- La CRE autorizará, en su caso, los
 cobros que al efecto proponga el CENACE para la
-
 realización de estudios de características específicas
 de la infraestructura requerida y para los otros
 componentes del proceso de conexión de Centros de
@@ -4319,9 +4374,9 @@ del Estado y sus empresas productivas subsidiarias
 integrantes de la industria eléctrica. Su aplicación por
 estas empresas será vigilada y, en su caso, ajustada,
 por la Secretaría. Los Retornos Objetivos y las
+
 metodologías de evaluación de los mismos serán
 independientes de la regulación tarifaria de la CRE.
-
 Artículo 150.- Las empresas productivas del Estado
 y sus empresas productivas subsidiarias integrantes
 de la industria eléctrica no podrán realizar inversiones
@@ -4348,10 +4403,10 @@ podrá apoyarse de las empresas productivas del
 Estado integrantes de la industria eléctrica o alguna
 de sus empresas productivas subsidiarias o empresas
 filiales.
+
 Artículo 152.- El interventor tendrá plenos poderes y
 todas las facultades que requiera para la
 administración del permisionario intervenido y
-
 ejercerá sus facultades sin supeditarse a los
 directivos, órganos de administración o apoderados
 del permisionario intervenido.
@@ -4380,9 +4435,9 @@ en el registro público del comercio que corresponda al
 domicilio del permisionario intervenido, sin más
 formalidades que la exhibición del oficio en que
 conste dicho nombramiento, sustitución o revocación.
+
 Artículo 154.- La intervención cesará cuando
 desaparezcan las causas que la motivaron, lo que
-
 deberá ser declarado por la Secretaría, de oficio o a
 petición del interesado.
 Capítulo IX
@@ -4439,8 +4494,8 @@ requieran para el cumplimiento de sus funciones, la
 que deberá incluir los datos que permitan conocer y
 evaluar el desempeño de aquéllos, así como el de la
 industria eléctrica en general. Para ello, la Secretaría,
-la CRE y el CENACE, en el ámbito de sus respectivas
 
+la CRE y el CENACE, en el ámbito de sus respectivas
 atribuciones, podrán emitir formatos y requisitos para
 recopilación de datos, en forma física y electrónica,
 que deberán ser utilizados por los integrantes de la
@@ -4468,8 +4523,8 @@ externos.
 Artículo 159.- La Secretaría, la CRE y el CENACE
 facilitarán la transparencia de la información en el
 Mercado Eléctrico Mayorista, tomando en cuenta el
-interés público, la integridad y funcionamiento
 
+interés público, la integridad y funcionamiento
 eficiente de dicho Mercado, la competencia
 económica y la protección de los consumidores.
 La CRE establecerá las modalidades y la
