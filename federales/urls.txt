@@ -57,7 +57,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/172_130420.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/173.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/176_210618.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/177.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/182.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/183.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/187_291214.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/19.pdf
@@ -230,6 +229,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT_150618.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS_130420.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA_110121.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGDOCIA_070121.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGE_300919.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIMH_140618.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD_120718.pdf
@@ -384,6 +384,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Derechos_Linguist
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Desarrollo_Forestal_Sustentable.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Desarrollo_Social.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Educacion.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Educacion_Superior.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Instituciones_y_Procedimientos_Electorales.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Mejora_Regulatoria.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Organizaciones_y_Actividades_Auxiliares_del_Credito.pdf
@@ -590,7 +591,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_para_el_Dialogo_la_Conciliac
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_para_el_uso_y_proteccion_de_la_denominacion-emblema_de_la_Cruz%20Roja.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_para_la_Comprobacion_Ajuste_y_Computo_de%20Servicios_en_el_Ejercito_y_Fuerza_Aerea.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_para_la_Comprobacion_Ajuste_y_Computo_de_Servicios_de_la_Armada.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_para_la_Coordinacion_de_la_Educacion_Superior.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_para_la_Depuracion_y_Liquidacion_de_Cuentas_de_la_Hacienda_Publica.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_para_la_Proteccion_de_Personas_Defensoras_de_Derechos_Humanos_y_Periodistas.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_para_la_Transparencia_y_Ordenamiento_de_los_Servicios_Financieros.pdf
