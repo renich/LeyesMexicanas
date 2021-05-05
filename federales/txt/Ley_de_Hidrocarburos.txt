@@ -7,7 +7,7 @@ LEY DE HIDROCARBUROS
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 11 de agosto de 2014
 TEXTO VIGENTE
-Última reforma publicada DOF 06-11-2020
+Última reforma publicada DOF 04-05-2021
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -2260,15 +2260,18 @@ y a Particulares, con base en el Reglamento de esta
 Ley. El otorgamiento de los permisos estará sujeto a
 que el interesado demuestre que, en su caso, cuenta
 con:
-I.
+I. Un diseño de instalaciones o equipos acordes con
+la normativa aplicable y las mejores prácticas;
+II.
 
-Un diseño de instalaciones o equipos acordes
-con la normativa aplicable y las mejores
-prácticas, y
-
-II. Las condiciones apropiadas para garantizar la
+Las condiciones apropiadas para garantizar la
 adecuada continuidad de la actividad objeto del
-permiso.
+permiso, y
+
+III. La capacidad de almacenamiento que
+determine la Secretaría conforme a las
+disposiciones jurídicas aplicables.
+Artículo reformado DOF 04-05-2021
 Artículo 52.- En la evaluación y, en su caso,
 otorgamiento de un permiso de Transporte por ductos
 o de Almacenamiento de Hidrocarburos, Petrolíferos o
@@ -2277,10 +2280,10 @@ podrá analizar su impacto sobre el desarrollo eficiente
 de dichas actividades y las necesidades de
 infraestructura común en la región que corresponda,
 pudiendo requerir que se modifique la naturaleza y el
+
 alcance de las instalaciones, a través de condiciones
 tales como el acceso abierto, la interconexión con
 otros sistemas permisionados y la regulación tarifaria.
-
 Artículo 53.- La cesión de los permisos o de la
 realización de las actividades reguladas al amparo del
 mismo, sólo podrá realizarse previa autorización de la
@@ -2300,10 +2303,12 @@ siguiente al de la recepción de la solicitud. En caso de
 no emitirse una resolución por parte de la Secretaría
 de Energía o de la Comisión Reguladora de Energía,
 según corresponda, dentro del plazo establecido, ésta
-se entenderá en sentido favorable.
+se entenderá en sentido negativo.
+Párrafo reformado DOF 04-05-2021
 Cualquier cesión que se realice sin apegarse a lo
 establecido en este artículo será nula de pleno
 derecho.
+
 Artículo 54.- Los permisos podrán terminar por
 cualquiera de las causas siguientes:
 I.
@@ -2336,11 +2341,11 @@ las responsabilidades contraídas durante su vigencia,
 con el Gobierno Federal y con terceros.
 Dependiendo de la causal de terminación del
 permiso, se aplicará el importe de la garantía
+
 otorgada, en los términos que establezca el permiso
 de que se trate.
 Artículo 55.- Los permisos caducarán si los
 Permisionarios:
-
 I.
 
 No ejercen los derechos conferidos en el título
@@ -2378,7 +2383,6 @@ discriminatorias en perjuicio de los usuarios;
 III. No respetar la regulación en materia de precios y
 tarifas, incluida la correspondiente en materia de
 contabilidad regulatoria, así como los términos y
-
 condiciones que, en su caso, llegare a fijar la
 autoridad competente o, en su caso las
 disposiciones que los regulan;
@@ -2400,12 +2404,12 @@ Para efectos de esta fracción se considerará que
 el incumplimiento es continuo cuando el
 Permisionario omita el pago por más de un
 ejercicio fiscal;
+
 VIII. Interrumpir por un periodo de al menos treinta
 días naturales continuos las actividades objeto
 del permiso, sin causa justificada a juicio de la
 Secretaría de Energía o de la Comisión
 Reguladora de Energía, según corresponda;
-
 IX. No acatar las resoluciones que, en el ámbito de
 su competencia, expida la Comisión Federal de
 Competencia Económica;
@@ -2418,22 +2422,31 @@ Transporte,
 Almacenamiento, Distribución o Expendio al
 Público de Hidrocarburos, Petrolíferos o
 Petroquímicos, que se compruebe hayan sido
-adquiridos de forma ilícita y que haya sido así
+adquiridos de forma ilícita o por la comisión del
+delito de contrabando de Hidrocarburos,
+Petrolíferos y Petroquímicos, y que haya sido así
 determinado por resolución firme de autoridad
-competente, y
-XII. Las demás previstas en el permiso respectivo.
+competente;
+Fracción reformada DOF 04-05-2021
+XII. Reincidir en las conductas señaladas en los
+incisos a) y h) de la fracción II del artículo 86 del
+presente ordenamiento, y
+Fracción adicionada DOF 04-05-2021
+XIII. Las demás previstas en el permiso respectivo.
+Fracción recorrida DOF 04-05-2021
+
 Artículo 57.- En relación con los permisos a que se
 refiere esta Ley, la autoridad que lo haya expedido
-podrá llevar a cabo la ocupación temporal o la
-intervención, a fin de garantizar los intereses de la
-Nación, en el entendido de que quedarán
-salvaguardados los derechos de terceros.
+podrá llevar a cabo la ocupación temporal, la
+intervención o la suspensión, a fin de garantizar los
+intereses de la Nación, en el entendido de que
+quedarán salvaguardados los derechos de terceros.
 Para la continuidad en la operación de las
 actividades que ampare el permiso, la autoridad podrá
-contratar a empresas productivas del Estado o a
-terceros, con capacidad técnica para el manejo y
-control de las instalaciones ocupadas o intervenidas.
-
+contratar a empresas productivas del Estado para el
+manejo y control de las instalaciones ocupadas,
+intervenidas o suspendidas.
+Artículo reformado DOF 04-05-2021
 Artículo 58.- Se consideran de utilidad pública, las
 actividades y servicios amparados por un permiso.
 Procederá la ocupación temporal de los bienes,
@@ -2449,6 +2462,7 @@ la economía nacional.
 La autoridad que lo haya expedido integrará y
 tramitará el expediente de ocupación temporal de los
 bienes, derechos e instalaciones necesarias para la
+
 prestación del servicio u operación, a fin de garantizar
 los intereses de los usuarios finales y consumidores,
 quedando a salvo los derechos de los terceros.
@@ -2461,7 +2475,6 @@ haya expedido el permiso la terminación de la
 ocupación, cuando demuestre que las causas que la
 ocasionaron ya fueron subsanadas o erradicadas, o
 han desaparecido.
-
 Artículo 59.- La autoridad que haya expedido el
 permiso podrá intervenir en la realización de la
 actividad o la prestación del servicio, cuando el
@@ -2476,6 +2489,7 @@ establecido el Permisionario no la corrige, la autoridad
 procederá a la intervención, sin perjuicio de las
 sanciones y responsabilidades en las que, en su
 caso, incurra el Permisionario.
+
 Durante la intervención, la autoridad que haya
 emitido el permiso se hará cargo de la administración
 y operación del Permisionario, para asegurar el
@@ -2491,20 +2505,8 @@ control de las instalaciones intervenidas. La autoridad
 y los interventores tendrán derecho a cobrar los
 gastos en que hayan incurrido, así como los
 honorarios correspondientes, con cargo a los ingresos
-
-del Permisionario
+del Permisionario durante el periodo de la
 intervención.
-
-durante
-
-el
-
-periodo
-
-de
-
-la
-
 La intervención tendrá la duración que la autoridad
 determine sin que el plazo original y las prórrogas, en
 su conjunto, excedan de treinta y seis meses.
@@ -2515,10 +2517,69 @@ permiso.
 El Permisionario podrá solicitar la terminación de la
 intervención, cuando demuestre que las causas que
 la ocasionaron ya fueron subsanadas o erradicadas.
+
 Si transcurrido el plazo de la intervención, el
 Permisionario no está en condiciones de continuar
 con sus obligaciones, la autoridad procederá a la
 revocación del permiso.
+Artículo 59 Bis.- La Secretaría de Energía y la
+Comisión Reguladora de Energía podrán, en el
+ámbito de sus respectivas competencias, suspender
+los permisos expedidos en los términos establecidos
+en esta Ley, cuando se prevea un peligro inminente
+para la seguridad nacional, la seguridad energética o
+para la economía nacional.
+La autoridad que lo haya expedido integrará y
+tramitará el expediente de suspensión del permiso, a
+fin de garantizar los intereses de los usuarios finales y
+consumidores, quedando a salvo los derechos de los
+terceros y el interés del Estado.
+La suspensión requerirá la notificación previa al
+Permisionario indicando las causas que motivan la
+suspensión, las razones por las cuales se estima
+procedente y la afectación que podría darse en caso
+de que continúen los actos que ampare el permiso.
+Una vez realizada la notificación, el Permisionario
+contará con un plazo de quince días naturales,
+contados a partir de la fecha de la notificación, para
+exponer lo que a su derecho convenga y aportar, en
+su caso, las pruebas que estime pertinentes.
+Transcurrido el plazo de quince días a que se refiere
+el párrafo anterior, la autoridad que haya otorgado el
+
+permiso contará con un plazo de quince días
+naturales para resolver, considerando los argumentos
+y pruebas que, en su caso, hubiere hecho valer el
+Permisionario. La determinación de suspender o no el
+permiso deberá ser debidamente fundada, motivada y
+notificada al Permisionario, sin perjuicio de las
+infracciones y responsabilidades en las que, en su
+caso, este último incurra.
+La autoridad que haya emitido el permiso se hará
+cargo de la administración y operación del
+Permisionario, para la continuidad en la operación de
+las actividades que ampare el permiso, a fin de
+garantizar los intereses de los usuarios finales y
+consumidores, quedando a salvo los derechos de los
+terceros. Al efecto, podrá utilizar al personal que el
+Permisionario venía utilizando, contratar a un nuevo
+operador o una combinación de las anteriores.
+La suspensión tendrá la duración que la autoridad
+determine.
+El Permisionario podrá solicitar a la autoridad que
+haya expedido el permiso la terminación de la
+suspensión, cuando demuestre que las causas que la
+ocasionaron ya fueron subsanadas o erradicadas, o
+han desaparecido, siempre y cuando la causa no
+tenga origen en un acto ilícito en la comercialización
+y/o Transporte o alteración de los componentes del
+combustible.
+
+Si transcurrido el plazo de la suspensión, el
+Permisionario no está en condiciones de continuar
+con sus obligaciones, la autoridad procederá a la
+revocación del permiso.
+Artículo adicionado DOF 04-05-2021
 Capítulo II
 De los Sistemas Integrados
 Artículo 60.- Los sistemas de Transporte por ducto
@@ -2529,7 +2590,6 @@ ampliar la cobertura o aportar beneficios sistémicos
 en términos de mejoras en las condiciones de
 seguridad, continuidad, calidad y eficiencia en la
 prestación de los servicios.
-
 La Secretaría de Energía, con base en la política
 pública en materia energética que al respecto emita,
 podrá requerir que se desarrollen los análisis
@@ -2543,6 +2603,7 @@ Almacenamiento, tomando en consideración lo
 propuesto por los gestores de los sistemas
 integrados, previa asistencia técnica de la Comisión
 Reguladora de Energía.
+
 Artículo 61.- La Comisión Reguladora de Energía
 será la autoridad competente para aprobar la creación
 de Sistemas Integrados, así como para determinar la
@@ -2557,7 +2618,6 @@ apruebe y expida.
 Artículo 62.- Cada Sistema Integrado será operado
 por un gestor que deberá tener el permiso
 correspondiente emitido por la Comisión Reguladora
-
 de Energía. Los gestores tendrán como objeto lo
 siguiente:
 I.
@@ -2574,6 +2634,7 @@ de las tarifas de los sistemas de Transporte o
 Almacenamiento que compongan el Sistema
 Integrado, en los términos que determine la
 Comisión Reguladora de Energía;
+
 III. Propiciar el desarrollo de centros de mercado y
 mercados mayoristas;
 IV. Fomentar la liquidez de los mercados en que
@@ -2586,7 +2647,6 @@ Los gestores serán independientes de las personas
 que realicen actividades de producción, distribución y
 comercialización de Gas Natural, Petrolíferos o
 Petroquímicos.
-
 Los gestores operarán previo permiso otorgado por
 la Comisión Reguladora de Energía.
 Artículo 63.- Los gestores a que se refiere el
@@ -2600,6 +2660,7 @@ de Energía.
 En todo caso, se deberá evitar el conflicto de interés
 entre el gestor y los Permisionarios de Transporte y
 Almacenamiento, así como de las personas que
+
 enajenen y comercialicen Gas Natural, Petrolíferos y
 Petroquímicos.
 Artículo 64.- La Comisión Reguladora de Energía
@@ -2637,6 +2698,7 @@ los sistemas de Distribución, o de los usuarios finales
 conectados directamente, podrá integrarse al Sistema
 de Transporte y Almacenamiento Nacional Integrado
 de Gas Natural.
+
 La Comisión Reguladora de Energía será la
 autoridad competente para determinar la integración
 de la infraestructura pública referida en el párrafo
@@ -2652,7 +2714,6 @@ Sistema de Transporte y Almacenamiento Nacional
 Integrado de Gas Natural y tiene por objeto garantizar
 la continuidad y seguridad en la prestación de los
 servicios en ese sistema para contribuir con la
-
 continuidad del suministro de dicho energético en
 territorio nacional, así como realizar las demás
 actividades señaladas en la presente Ley y en el
@@ -2667,6 +2728,7 @@ mediano y largo plazo del sistema permisionado, se
 realice en estricto apego a las obligaciones de acceso
 abierto, sin que se afecte en modo alguno la
 titularidad de los contratos de reserva de capacidad.
+
 El Centro Nacional de Control del Gas Natural
 deberá ejercer sus funciones bajo los principios de
 eficiencia, transparencia y objetividad, así como de
@@ -2681,7 +2743,6 @@ La conducción del Centro Nacional de Control del
 Gas Natural estará a cargo de un Consejo de
 Administración y de un Director General. La dirección
 y visión estratégica del Centro Nacional de Control del
-
 Gas Natural estará a cargo de su Consejo de
 Administración, mismo que contará al menos con una
 tercera parte de consejeros independientes.
@@ -2700,6 +2761,7 @@ de
 Transporte
 y
 Almacenamiento Integrado de Gas Natural, estarán a
+
 cargo exclusivamente de la Dirección General, para lo
 cual gozará de autonomía.
 En los comités consultivos que, en su caso, cree el
@@ -2713,7 +2775,6 @@ de Permisionario, en detrimento de la infraestructura
 integrada que pertenezca a otros Permisionarios.
 La Comisión Reguladora de Energía determinará los
 términos a que se sujetará el Centro Nacional de
-
 Control del Gas Natural para cumplir con lo previsto
 en el presente artículo.
 Artículo 68.- El Centro Nacional de Control del Gas
@@ -2726,6 +2787,7 @@ Centro Nacional de Control del Gas Natural se
 sujetará a las reglas de operación que emita la
 Comisión Reguladora de Energía para los gestores de
 los Sistemas Integrados.
+
 Artículo 69.- El Centro Nacional de Control del Gas
 Natural deberá proponer a la Secretaría de Energía,
 para su aprobación, previa opinión técnica de la
@@ -2739,7 +2801,6 @@ Secretaría de Energía considere estratégicos para
 garantizar el desarrollo eficiente del Sistema de
 Transporte y Almacenamiento Nacional Integrado de
 Gas Natural.
-
 Los proyectos tendrán la naturaleza de estratégicos
 cuando cumplan con, al menos, alguna de las
 siguientes características:
@@ -2754,6 +2815,7 @@ II. Aporten redundancia al sistema, incluyendo el
 almacenamiento;
 III. Brinden una nueva ruta o fuente de suministro a
 un mercado relevante, o
+
 IV. Cuando por razones de seguridad de suministro,
 debidamente motivado, así lo determine la
 Secretaría de Energía.
@@ -2768,7 +2830,6 @@ convocar conjuntamente cualquier licitación, apoyado
 de las empresas productivas del Estado y los
 Particulares, cuando aporten una capacidad de
 demanda significativa.
-
 Tratándose de proyectos no considerados como
 estratégicos, las empresas productivas del Estado y
 los Particulares podrán desarrollar, sujetos al
@@ -2782,6 +2843,7 @@ operaciones. Las bases de licitación deberán ser
 aprobadas por la Comisión Reguladora de Energía.
 El desarrollo de proyectos de infraestructura
 referidos en el presente artículo incluirá la realización
+
 de Temporadas Abiertas en los términos que
 establezca la Comisión Reguladora de Energía.
 La Secretaría de Energía, con la asistencia técnica
@@ -2798,7 +2860,6 @@ asistencia técnica de la Comisión Reguladora de
 Energía, llevará a cabo una evaluación del plan
 quinquenal de expansión a fin de verificar su vigencia
 ante la evolución del mercado de Gas Natural y
-
 realizar los ajustes necesarios para garantizar el
 desarrollo eficiente del Sistema de Transporte y
 Almacenamiento Nacional Integrado de Gas Natural.
@@ -2811,6 +2872,7 @@ Hidrocarburos, Petrolíferos y Petroquímicos, tendrán
 la obligación de dar acceso abierto no indebidamente
 discriminatorio a sus instalaciones y servicios, sujeto
 a disponibilidad de capacidad en sus sistemas, en
+
 términos de la regulación emitida por la Comisión
 Reguladora de Energía.
 Para efectos de este artículo, los Permisionarios que
@@ -2826,7 +2888,6 @@ La prestación de los servicios bajo el principio de
 acceso abierto se sujetará a las disposiciones de
 carácter general que expida la Comisión Reguladora
 de Energía.
-
 La Comisión Reguladora de Energía expedirá la
 regulación a la que se sujetarán las instalaciones de
 Transporte y de Almacenamiento para que puedan
@@ -2838,6 +2899,7 @@ abierto a los Ductos de Internación de Gas Natural. Lo
 anterior, considerando el desarrollo eficiente de la
 industria, la seguridad, calidad y continuidad del
 suministro y los intereses de los usuarios.
+
 Artículo 71.- Los Permisionarios de Transporte por
 ductos y Almacenamiento que se encuentren sujetos
 a la obligación de acceso abierto no podrán enajenar
@@ -2858,7 +2920,6 @@ personas que aquéllos designen expresamente;
 II. Sólo podrán transportar y almacenar productos
 de su propiedad siempre y cuando sea necesario
 para la operación de sus sistemas, y
-
 III. En el caso de Petróleo, Petrolíferos y
 Petroquímicos, podrán destinar al Transporte y
 Almacenamiento de productos de su propiedad,
@@ -2870,6 +2931,7 @@ terceros los servicios señalados en el artículo 70 de
 esta Ley, la Comisión Reguladora de Energía podrá
 solicitar la certificación de la capacidad instalada,
 disponible y utilizada en las instalaciones de
+
 Transporte por ductos y de Almacenamiento de
 Hidrocarburos, Petrolíferos y Petroquímicos, a través
 de un tercero independiente debidamente calificado,
@@ -2888,7 +2950,6 @@ pueda ser contratada de manera firme en caso de
 certeza de no uso, de manera interrumpible o
 mediante una Temporada Abierta, si la liberación de
 capacidad fuera permanente.
-
 La Comisión Reguladora de Energía establecerá los
 términos y condiciones a los que se sujetarán las
 personas previstas en el presente artículo.
@@ -2900,6 +2961,7 @@ Reguladora de Energía. El diseño de la infraestructura
 podrá considerar las necesidades de consumo propio
 para sus instalaciones o de comercialización según el
 usuario de que se trate, así como la demanda
+
 presente y futura de la zona de influencia del
 proyecto.
 A fin de cuantificar la demanda señalada en el
@@ -2917,7 +2979,6 @@ Artículo 75.- Para los efectos del artículo anterior,
 los Permisionarios y los usuarios podrán establecer
 las condiciones para el uso de capacidad adicional,
 sujeto a que no impidan a terceros el acceso abierto
-
 no indebidamente discriminatorio a la capacidad
 adicional generada, que no sea utilizada. Lo anterior,
 en los términos que apruebe la Comisión Reguladora
@@ -2929,6 +2990,7 @@ la capacidad adicional generada será hecha pública
 mediante un boletín electrónico. En caso de existir
 interés de terceros, dicha capacidad será asignada a
 los usuarios a través de una Temporada Abierta.
+
 Capítulo V
 Del Expendio al Público
 Artículo 76.- Los combustibles para aeronaves no
@@ -2955,7 +3017,6 @@ Transportistas aéreos;
 II. Operadores aéreos, y
 III. Terceros para actividades distintas de las
 aeronáuticas.
-
 En el caso de la fracción III del presente artículo,
 dichos terceros deberán contar previamente con el
 pronunciamiento favorable de las Secretarías de
@@ -2969,6 +3030,7 @@ para
 el
 otorgamiento de los permisos previstos en el presente
 artículo.
+
 Artículo 77.- Los Hidrocarburos, los Petrolíferos y
 los
 Petroquímicos
@@ -2990,7 +3052,6 @@ efecto expida la Comisión Reguladora de Energía.
 Las especificaciones de calidad corresponderán con
 los usos comerciales, nacionales e internacionales, en
 cada etapa de la cadena de producción y suministro.
-
 Artículo 79.- Los métodos de prueba, muestreo y
 verificación
 aplicables
@@ -3005,6 +3066,7 @@ oficiales mexicanas que para tal efecto expidan la
 Comisión Reguladora de Energía y la Secretaría de
 Economía, en el ámbito de su competencia.
 Capítulo VI
+
 De la Regulación y Obligaciones de las demás
 Actividades de la Industria de Hidrocarburos
 Artículo 80.- Corresponde a la Secretaría de
@@ -3024,7 +3086,6 @@ c) La exportación e importación de Hidrocarburos
 y Petrolíferos en términos de la Ley de
 Comercio Exterior y con el apoyo de la
 Secretaría de Economía;
-
 II. Determinar la política pública en materia
 energética aplicable a los niveles de
 Almacenamiento y a la garantía de suministro de
@@ -3039,6 +3100,7 @@ disposiciones
 de
 carácter general o bien en los permisos
 correspondientes, las medidas que deberán
+
 cumplir los Permisionarios respecto de dicha
 política pública.
 La gestión de los niveles mínimos de
@@ -3055,7 +3117,6 @@ necesarias para garantizar que sus actividades y
 operaciones no obstaculicen la competencia y el
 desarrollo eficiente de los mercados, así como la
 política pública en materia energética.
-
 La Secretaría de Energía podrá realizar los
 estudios que considere pertinentes a fin de
 determinar la viabilidad de ejercer por sí misma
@@ -3068,6 +3129,7 @@ Reguladora de Energía, y considerando las
 propuestas que al efecto emitan, en su caso, los
 gestores de los Sistemas Integrados y los
 usuarios de dichos sistemas;
+
 V. Dictar los planes de emergencia para la
 continuidad de las actividades en los Sistemas
 Integrados de Transporte por ducto y
@@ -3083,7 +3145,6 @@ Como parte de la regulación y las disposiciones de
 política que emita, la Secretaría de Energía podrá
 instruir la adopción y observancia de estándares
 técnicos internacionales.
-
 Las actividades de la Secretaría de Energía se
 orientarán con base en los objetivos de la política
 pública en materia energética, incluyendo los de
@@ -3103,6 +3164,7 @@ Comisión
 Regular y supervisar las siguientes actividades,
 sin perjuicio de las atribuciones que
 correspondan a la Agencia:
+
 a) Transporte
 y
 Almacenamiento
@@ -3129,7 +3191,6 @@ los
 Sistemas
 Integrados,
 incluyendo el Sistema de Transporte y
-
 Almacenamiento Nacional Integrado de Gas
 Natural;
 II. Aprobar, con la opinión favorable de la
@@ -3142,6 +3203,7 @@ independientes de dichos Sistemas;
 III. Aprobar las bases de las licitaciones que realice
 el Centro Nacional de Control del Gas Natural,
 así como los procesos de Temporadas Abiertas
+
 que realicen los Permisionarios para asignar la
 capacidad en los sistemas de Transporte y
 Almacenamiento de Gas Natural;
@@ -3157,7 +3219,6 @@ a solicitud de parte, considerando los elementos
 que permitan el desarrollo rentable y eficiente de
 los sistemas de distribución. Para efectos de lo
 anterior, la Comisión escuchará la opinión de las
-
 autoridades competentes, incluyendo las de
 desarrollo urbano, y partes interesadas;
 VI. Supervisar las actividades reguladas, con objeto
@@ -3170,6 +3231,7 @@ resultados de sus análisis y el desempeño de los
 participantes, e informar a la Secretaría de
 Energía o la Comisión Federal de Competencia
 Económica, en el ámbito de sus atribuciones;
+
 VII. Establecer lineamientos a los que se sujetarán
 los Permisionarios de las actividades reguladas,
 respecto de sus relaciones con personas que
@@ -3190,7 +3252,6 @@ del
 Estado,
 sus
 subsidiarias y filiales que realicen las acciones
-
 necesarias para garantizar que sus actividades y
 operaciones no obstaculicen la competencia y el
 desarrollo eficiente de los mercados, así como la
@@ -3203,6 +3264,7 @@ términos y condiciones a los que deberán sujetarse la
 prestación de los servicios; al igual que la
 determinación de las contraprestaciones, precios y
 tarifas aplicables, entre otros.
+
 La regulación de contraprestaciones, precios y
 tarifas que establezca la Comisión Reguladora de
 Energía, con excepción de las actividades de
@@ -3238,6 +3300,7 @@ o gravámenes, y
 b) Para aquellos bienes o servicios que no
 sean susceptibles de comercializarse en el
 mercado internacional, las contraprestaciones,
+
 precios y tarifas se fijarán de acuerdo a las
 metodologías de aplicación general para su
 cálculo que para tal efecto emita la Comisión
@@ -3253,7 +3316,6 @@ La Secretaría de Energía, la Comisión Reguladora
 de Energía o los Permisionarios podrán solicitar a la
 Comisión Federal de Competencia Económica que
 evalúe la existencia de condiciones de competencia
-
 efectiva y, en su caso, que emita la declaratoria
 correspondiente.
 Artículo 83.- La Comisión Reguladora de Energía,
@@ -3272,6 +3334,7 @@ mercados competitivos en estos sectores. Entre otros
 aspectos, dichas disposiciones podrán establecer la
 estricta separación legal entre las actividades
 permisionadas o la separación funcional, operativa y
+
 contable de las mismas; la emisión de códigos de
 conducta, límites a la participación en el capital social,
 así como la participación máxima que podrán tener
@@ -3287,7 +3350,6 @@ Hidrocarburos, Petrolíferos y Petroquímicos que
 utilicen los servicios de Transporte por ducto o
 Almacenamiento sujetos a acceso abierto, solamente
 podrán participar, directa o indirectamente, en el
-
 capital social de los Permisionarios que presten estos
 servicios cuando dicha participación cruzada no
 afecte la competencia, la eficiencia en los mercados y
@@ -3314,6 +3376,7 @@ Permisionarios respectivos.
 En todo caso, la participación cruzada a la que se
 refiere el segundo párrafo de este artículo y sus
 modificaciones deberán ser autorizadas por la
+
 Comisión Reguladora de Energía, quien deberá
 contar previamente con la opinión favorable de la
 Comisión Federal de Competencia Económica.
@@ -3331,7 +3394,6 @@ total o
 parcialmente, los derechos u obligaciones
 derivados de los mismos en contravención de
 esta Ley;
-
 III. Entregar la cantidad y calidad de Hidrocarburos,
 Petrolíferos y Petroquímicos, conforme se
 establezca en las disposiciones aplicables;
@@ -3343,8 +3405,14 @@ Petrolíferos y Petroquímicos de procedencia
 lícita;
 VI. Prestar los servicios de forma eficiente, uniforme,
 homogénea, regular, segura y continua, así
-como cumplir los términos y condiciones
+
+como cumplir los términos
 contenidos en los permisos;
+
+y
+
+condiciones
+
 VII. Contar con un servicio permanente de recepción
 y atención de quejas y reportes de emergencia;
 VIII. Obtener autorización de la Secretaría de
@@ -3356,7 +3424,6 @@ corresponda;
 IX. Dar aviso a la Secretaría de Energía, o a la
 Comisión Reguladora de Energía, según
 corresponda, de cualquier circunstancia que
-
 implique la modificación de los términos y
 condiciones en la prestación del servicio;
 X. Abstenerse de otorgar subsidios cruzados en la
@@ -3369,6 +3436,7 @@ XII. Obtener autorización de la Secretaría de Energía
 o de la Comisión Reguladora de Energía, según
 corresponda, para la suspensión de los servicios,
 salvo por causa de caso fortuito o fuerza mayor,
+
 en cuyo caso se deberá informar de inmediato a
 la autoridad correspondiente;
 XIII. Observar las disposiciones legales en materia
@@ -3383,7 +3451,6 @@ según corresponda;
 XV. Cumplir con la regulación, lineamientos y
 disposiciones administrativas que emitan las
 Secretarías de Energía, de Hacienda y Crédito
-
 Público, la Comisión Reguladora de Energía y la
 Agencia, en el ámbito de sus respectivas
 competencias.
@@ -3397,6 +3464,7 @@ aplicables;
 XVI. Dar aviso a la Secretaría de Energía, a la
 Comisión Reguladora de Energía, a la Agencia y
 a las demás autoridades competentes sobre
+
 cualquier siniestro, hecho o contingencia que,
 como resultado de sus actividades, ponga en
 peligro la vida, la salud o la seguridad públicas,
@@ -3417,7 +3485,6 @@ a) En un plazo que no excederá de diez días
 naturales, contados a partir del siniestro, hecho
 o contingencia de que se trate, un informe de
 hechos, así como las medidas tomadas para
-
 su control, en los términos de la regulación
 correspondiente, y
 b) En un plazo que no excederá de ciento
@@ -3430,6 +3497,7 @@ términos de la regulación correspondiente;
 XVII. Proporcionar el auxilio que les sea requerido
 por las autoridades competentes en caso de
 emergencia o siniestro;
+
 XVIII.
 Presentar anualmente, en los términos de
 las normas oficiales mexicanas aplicables, el
@@ -3445,7 +3513,6 @@ siniestros;
 XX. Cumplir en tiempo y forma con las solicitudes
 de información y reportes que soliciten las
 Secretarías de Energía y de Hacienda y Crédito
-
 Público, la Comisión Reguladora de Energía y la
 Agencia, y
 XXI. Presentar la información en los términos y
@@ -3458,6 +3525,7 @@ Disposiciones aplicables a la Industria de
 Hidrocarburos
 Capítulo I
 De las Sanciones
+
 Artículo 85.- Las infracciones al Título Segundo de
 esta Ley y a sus disposiciones reglamentarias serán
 sancionadas tomando en cuenta la gravedad de la
@@ -3473,7 +3541,6 @@ mínimo;
 b) La cesión, enajenación, traspaso o
 gravamen total o parcial, de los derechos u
 obligaciones derivados de una Asignación en
-
 contravención de lo establecido en esta Ley,
 con multa de entre trescientas setenta y cinco
 mil a setecientas cincuenta mil veces el
@@ -3488,6 +3555,7 @@ equivalente al valor de los Hidrocarburos que
 hayan sido extraídos conforme a la estimación
 que al efecto lleve a cabo la Comisión Nacional
 de Hidrocarburos, y
+
 d) Las demás violaciones al Título Segundo
 de esta Ley y a sus disposiciones
 reglamentarias, así como a la regulación,
@@ -3509,7 +3577,6 @@ a) No entregar en tiempo y forma la información
 que se obtenga como resultado de los trabajos
 de Reconocimiento y Exploración Superficial,
 así como de la Exploración y Extracción de
-
 Hidrocarburos, conforme a la regulación
 correspondiente, con multa de entre siete mil
 quinientas a doscientas veinticinco mil veces el
@@ -3524,6 +3591,7 @@ importe del salario mínimo;
 c) El inicio de los trabajos de Reconocimiento y
 Exploración Superficial sin la autorización
 correspondiente, con multa de entre ciento
+
 cincuenta mil a cuatrocientas cincuenta mil
 veces el importe del salario mínimo;
 d) El inicio de los trabajos de Reconocimiento
@@ -3537,7 +3605,6 @@ e) La realización de perforaciones sin la
 autorización correspondiente en los términos
 de la regulación que al efecto emita la misma
 Comisión, con multa de entre ciento cincuenta
-
 mil a trescientas setenta y cinco mil veces el
 importe del salario mínimo;
 f) El inicio de la ejecución del plan de
@@ -3552,6 +3619,7 @@ entre ciento cincuenta mil a tres millones de
 veces el importe del salario mínimo;
 h) El incumplimiento a lo dispuesto en los
 artículos 101, fracciones I, II, VIII y IX; 112 y
+
 113 de esta Ley, con multa de doscientas
 cincuenta a mil setecientas veces el importe
 del salario mínimo;
@@ -3565,7 +3633,6 @@ de Hidrocarburos sin el sistema de medición
 aprobado por la Comisión, con multa de entre
 tres millones a seis millones de veces el
 importe del salario mínimo;
-
 k) La cesión, enajenación, traspaso o gravamen
 total o parcial de los derechos u obligaciones
 derivados de un Contrato para la Exploración y
@@ -3580,6 +3647,7 @@ con la ejecución de los trabajos geológicos,
 geofísicos u otros violando lo establecido en
 esta Ley y la regulación que emita la Comisión,
 con multa de entre setenta y cinco mil a
+
 doscientas veinticinco mil veces el importe del
 salario mínimo;
 m) Publicar,
@@ -3598,7 +3666,6 @@ mínimo;
 n) Incumplir los requerimientos y los
 lineamientos que emita la Comisión Nacional
 de Hidrocarburos con la finalidad de integrar el
-
 Centro
 Nacional
 de
@@ -3617,6 +3684,7 @@ competencia de la Comisión Nacional de
 Hidrocarburos, serán sancionadas con multa
 de entre quince mil a cuatrocientas cincuenta
 mil veces el importe del salario mínimo;
+
 III. Las Secretarías de Energía, de Hacienda y
 Crédito Público y de Economía, o la Comisión
 Nacional de Hidrocarburos sancionarán, en el
@@ -3631,7 +3699,6 @@ b) El incumplimiento o entorpecimiento de la
 obligación de informar o reportar, conforme a
 las disposiciones jurídicas aplicables, cualquier
 situación relacionada con esta Ley o sus
-
 disposiciones reglamentarias, con multa de
 entre siete mil quinientas a ciento cincuenta mil
 veces el importe del salario mínimo.
@@ -3646,6 +3713,7 @@ c) Proporcionar información falsa, alterada o
 simular registros de contabilidad, conforme a
 las disposiciones jurídicas aplicables, con
 multa de entre tres millones setecientas
+
 cincuenta mil a siete millones quinientas mil
 veces el importe del salario mínimo;
 IV. La Secretaría de Energía y la Comisión Nacional
@@ -3660,7 +3728,6 @@ sanción económica a la que se refieren las
 fracciones anteriores.
 Artículo 86.- Las infracciones al Título Tercero de
 esta Ley y a sus disposiciones reglamentarias serán
-
 sancionadas tomando en cuenta la gravedad de la
 falta, de acuerdo con lo siguiente:
 I.
@@ -3675,6 +3742,7 @@ b) La suspensión de los servicios amparados
 por un permiso que haya otorgado sin la
 autorización correspondiente, salvo por causa
 de caso fortuito o fuerza mayor, con multa de
+
 entre quince mil a trescientas mil veces el
 importe del salario mínimo;
 c) La cesión, enajenación, traspaso o gravamen
@@ -3688,7 +3756,6 @@ de su regulación sin permiso vigente, con
 multa de entre ciento cincuenta mil a
 trescientas mil veces el importe del salario
 mínimo, y
-
 e) Las demás violaciones al Título Tercero de
 esta Ley y a sus disposiciones reglamentarias,
 así como a la regulación, lineamientos y
@@ -3703,6 +3770,7 @@ aplicables a la cantidad, calidad y medición de
 Hidrocarburos y Petrolíferos, con multa de
 entre quince mil a ciento cincuenta mil veces el
 importe del salario mínimo;
+
 b) La
 realización
 de
@@ -3720,7 +3788,6 @@ condiciones que se establezcan en los
 permisos que haya otorgado, con multa de
 entre quince mil a ciento cincuenta mil veces el
 importe del salario mínimo;
-
 d) El incumplimiento de la obligación de
 acceso abierto, con multa de entre ciento
 cincuenta mil a cuatrocientas cincuenta mil
@@ -3739,6 +3806,7 @@ f) El incumplimiento de la regulación que
 establezca sobre precios o tarifas máximas,
 con multa de entre quince mil a trescientas mil
 veces el importe del salario mínimo;
+
 g) La cesión, enajenación, traspaso o
 gravamen total o parcial, de los derechos u
 obligaciones derivados de un permiso que
@@ -3755,7 +3823,6 @@ de sistemas, ductos, instalaciones o equipos
 sin la autorización correspondiente, con multa
 de entre ciento cincuenta mil a trescientas mil
 veces el importe del salario mínimo;
-
 i) La realización de actividades en el ámbito de su
 regulación sin permiso vigente o autorización,
 con multa de entre ciento cincuenta mil a
@@ -3769,6 +3836,13 @@ la Comisión Reguladora de Energía, serán
 sancionadas con multa de entre quince mil a
 cuatrocientas cincuenta mil veces el importe
 del salario mínimo;
+Tratándose de las infracciones previstas en los
+incisos a) y h) de esta fracción, en caso de
+
+reincidencia, además de las sanciones
+señaladas en la presente Ley, se revocará el
+permiso respectivo;
+Párrafo adicionado DOF 04-05-2021
 III. Las Secretarías de Energía y de Economía o la
 Comisión Reguladora de Energía sancionarán,
 en el ámbito de sus competencias:
@@ -3783,7 +3857,6 @@ que se requiera a Permisionarios, con multa de
 entre ciento cincuenta mil a cuatrocientas
 cincuenta mil veces el importe del salario
 mínimo, y
-
 c) El incumplimiento o entorpecimiento de la
 obligación de informar o reportar, conforme a
 las disposiciones jurídicas aplicables, cualquier
@@ -3793,6 +3866,7 @@ entre siete mil quinientas a ciento cincuenta mil
 veces el importe del salario mínimo;
 IV. La Secretaría de Energía y la Comisión
 Reguladora de Energía sancionarán, en el
+
 ámbito de sus competencias, las violaciones
 graves o reiteradas a lo establecido en el Título
 Tercero de esta Ley, con amonestación,
@@ -3813,7 +3887,6 @@ II. El carácter intencional o no de la acción u
 omisión constitutiva de la infracción;
 III. La gravedad de la infracción, y
 IV. La reincidencia del infractor.
-
 Para la aplicación de las sanciones se estará a lo
 dispuesto en la Ley Federal de Procedimiento
 Administrativo. Para efectos del presente Capítulo, se
@@ -3822,6 +3895,7 @@ diario vigente en el Distrito Federal al momento de
 cometerse la infracción.
 Las sanciones señaladas en esta Ley se aplicarán
 sin perjuicio de la responsabilidad civil, penal o
+
 administrativa que resulte de la aplicación de
 sanciones por otros ordenamientos y, en su caso, de
 la revocación de la Asignación, permiso o
@@ -3838,7 +3912,6 @@ De la Transparencia y el Combate a la Corrupción
 Artículo 88.- Corresponderá a la Secretaría de
 Energía poner a disposición del público, de forma
 mensual, al menos la siguiente información:
-
 I.
 
 El número de Asignaciones y permisos que se
@@ -3851,6 +3924,7 @@ incluyendo su programa quinquenal.
 Artículo 89.- Corresponderá a la Comisión Nacional
 de Hidrocarburos poner a disposición del público, de
 forma mensual, al menos la siguiente información:
+
 I.
 
 Los resultados y estadísticas de los procesos de
@@ -3869,7 +3943,6 @@ y condiciones;
 V. La información relacionada con la administración
 técnica y supervisión de los Contratos para la
 Exploración y Extracción, y
-
 VI. El volumen de producción de Hidrocarburos por
 Contrato para la Exploración y Extracción.
 Artículo 90.- Corresponderá a la Comisión
@@ -3902,7 +3975,6 @@ V. Los resultados y estadísticas de las actividades
 de los gestores de Sistemas Integrados.
 Artículo 91.- La información a que se refiere el
 presente Título deberá publicarse de tal forma que
-
 facilite su uso y comprensión, aprovechando los
 medios electrónicos y tecnologías de la información.
 Los Asignatarios, Contratistas, Permisionarios y
@@ -3918,6 +3990,7 @@ autoridades correspondientes.
 Artículo 92.- Los servidores públicos de la
 Secretaría de Energía y la Agencia sujetarán sus
 actividades a un código de conducta que para tal
+
 efecto emitan, que será público y en el que se
 establecerá como mínimo:
 I.
@@ -3941,7 +4014,6 @@ b) El pago de viáticos y pasajes, servicios,
 financiamiento o aportaciones económicas o
 en especie, así como otras consideraciones de
 valor.
-
 Artículo 93.- Todos los procedimientos de
 contratación, sus actos previos y aquéllos que deriven
 de la celebración, ejecución y cumplimiento de las
@@ -3953,6 +4025,7 @@ la corrupción.
 La actuación de los servidores públicos en el
 ejercicio de sus atribuciones y facultades, derivada de
 los procedimientos de contratación, sus actos previos
+
 y aquéllos relacionados con la suscripción y
 administración de los Contratos para la Exploración y
 Extracción, así como de la administración y
@@ -3975,7 +4048,6 @@ I.
 
 Ofrezcan o entreguen dinero o cualquier otro
 beneficio a un servidor público o a un tercero que
-
 de cualquier forma intervenga en alguno o
 algunos de los actos dentro del procedimiento de
 contratación, a cambio de que dicho servidor
@@ -3984,10 +4056,12 @@ relacionado con sus funciones o con las de otro
 servidor público, con el propósito de obtener o
 mantener una ventaja, con independencia de la
 recepción de dinero o un beneficio obtenido;
+
 II. Realice cualquier conducta u omisión que tengan
 por objeto o efecto evadir los requisitos o reglas
 establecidos para obtener cualquier tipo de
 contratación o simule el cumplimiento de éstos;
+
 III. Intervenga en nombre propio pero en interés de
 otra u otras personas que se encuentren
 impedidas para participar en contrataciones
@@ -4004,7 +4078,6 @@ Artículo 94.- Las sanciones relativas a las
 conductas previstas en el artículo anterior, serán
 determinadas por las autoridades competentes, de
 conformidad con la normatividad en materia de
-
 combate a la corrupción y podrán ser causales de
 terminación de las Asignaciones, contratos, permisos
 o autorizaciones respectivas.
@@ -4016,6 +4089,7 @@ exclusiva jurisdicción federal. En consecuencia,
 únicamente el Gobierno Federal puede dictar las
 disposiciones técnicas, reglamentarias y de
 regulación en la materia, incluyendo aquéllas
+
 relacionadas con el desarrollo sustentable, el
 equilibrio ecológico y la protección al medio ambiente
 en el desarrollo de esta industria.
@@ -4033,7 +4107,6 @@ refiere esta Ley es de utilidad pública. Procederá la
 constitución de servidumbres legales, o la ocupación
 o afectación superficial necesarias, para la realización
 de las actividades de la industria de Hidrocarburos,
-
 conforme a las disposiciones aplicables en los casos
 en los que la Nación lo requiera.
 Las actividades de Exploración y Extracción se
@@ -4045,6 +4118,7 @@ La Federación, los gobiernos de los Estados y el
 Distrito Federal, de los municipios y de las
 delegaciones, contribuirán al desarrollo de proyectos
 de Exploración y Extracción, así como de Transporte
+
 y Distribución por ductos y de Almacenamiento,
 mediante procedimientos y bases de coordinación
 que agilicen y garanticen el otorgamiento de los
@@ -4065,7 +4139,6 @@ concesionarios mineros, no podrán oponerse al
 tendido de ductos, cables o a la instalación de
 cualquier otra infraestructura en el área comprendida
 en la Asignación, Contrato para la Exploración y
-
 Extracción o permiso correspondiente, siempre que
 sea técnicamente factible.
 En el derecho de vía destinado a las actividades de
@@ -4079,6 +4152,7 @@ corresponda a la Agencia, emitirá las disposiciones
 necesarias para que dicho acceso sea permitido y
 vigilará el cumplimiento de esta obligación, así como
 la forma en que se afectarán las tarifas de las
+
 actividades permisionadas por los ingresos que
 perciban los Permisionarios por el uso de terceros de
 sus derechos de vía.
@@ -4095,7 +4169,6 @@ esta Ley, no limitan el derecho del Estado a otorgar
 concesiones, licencias o permisos para la exploración,
 extracción y aprovechamiento de otros recursos
 naturales, distintos de los Hidrocarburos, dentro de
-
 las áreas comprendidas en dichos títulos. En caso de
 ocurrir, no se deberá generar un inconveniente
 irrazonable
@@ -4112,6 +4185,7 @@ terrenos, bienes o derechos necesarios para realizar
 las actividades de Exploración y Extracción de
 Hidrocarburos serán negociados y acordados entre
 los propietarios o titulares de dichos terrenos, bienes
+
 o derechos, incluyendo derechos reales, ejidales o
 comunales, y los Asignatarios o Contratistas.
 Tratándose de propiedad privada, además podrá
@@ -4129,10 +4203,10 @@ I.
 
 El Asignatario o Contratista deberá expresar por
 escrito al propietario o titular del terreno, bien o
-
 derecho de que se trate, su interés de usar,
 gozar, afectar o, en su caso, adquirir tales
 terrenos, bienes o derechos;
+
 II. El Asignatario o Contratista deberá mostrar y
 describir el proyecto que planea desarrollar al
 amparo de la Asignación o Contrato para la
@@ -4142,6 +4216,7 @@ terreno, bien o derecho de que se trate, de
 manera que entienda sus alcances, así como las
 posibles consecuencias y afectaciones que se
 podrían generar por su ejecución y, en su caso,
+
 los beneficios que le representaría en lo personal
 y/o en su comunidad o localidad;
 III. La Secretaría de Energía podrá prever la
@@ -4158,7 +4233,6 @@ idónea para el desarrollo del proyecto en
 cuestión, según sus características. Al efecto,
 podrán emplearse las figuras de arrendamiento,
 servidumbre voluntaria, ocupación superficial,
-
 ocupación temporal, compraventa, permuta y
 cualquier otra que no contravenga la ley;
 VI. La contraprestación que se acuerde deberá ser
@@ -4169,6 +4243,7 @@ De acuerdo a las distintas formas o modalidades
 de uso, goce, afectación o, en su caso,
 adquisición que se pacte, los titulares de los
 terrenos, bienes o derechos tendrán derecho a
+
 que la contraprestación cubra, según sea el
 caso:
 a) El pago de las afectaciones de bienes o
@@ -4186,7 +4261,6 @@ al Asignatario o Contratista en el proyecto en
 cuestión, después de haber descontado los
 pagos que deban realizarse al Fondo
 Mexicano del Petróleo para la Estabilización y
-
 el Desarrollo, sujetándose a lo dispuesto en el
 último párrafo de este artículo.
 El porcentaje a que se refiere el párrafo
@@ -4198,6 +4272,7 @@ por ciento ni mayor al dos por ciento, en
 ambos casos en beneficio de la totalidad de
 los propietarios o titulares de derechos de que
 se trate.
+
 La Secretaría de Energía, con la asistencia
 técnica de la Comisión Nacional de
 Hidrocarburos, elaborará las metodologías,
@@ -4219,7 +4294,6 @@ de
 las
 siguientes
 modalidades:
-
 a) Compromisos para ejecutar proyectos de
 desarrollo en beneficio de la comunidad o
 localidad afectada;
@@ -4233,6 +4307,7 @@ las
 modalidades
 de
 contraprestación a que se refiere esta fracción,
+
 los Asignatarios o Contratistas podrán proponer
 al propietario, titular del derecho o miembros de
 la comunidad o localidad a las que pertenezcan,
@@ -4251,17 +4326,12 @@ la opinión de la Secretaría de Desarrollo Agrario,
 Territorial y Urbano.
 El contrato deberá contener, al menos, los
 derechos y obligaciones de las partes, así como
-
 posibles
 mecanismos
-controversias;
-
 de
-
 solución
-
 de
-
+controversias;
 IX. Los contratos en los que consten los acuerdos
 alcanzados no podrán prever cláusulas de
 confidencialidad sobre los términos, montos y
@@ -4269,6 +4339,7 @@ condiciones de la contraprestación, que
 penalicen a las partes por su divulgación.
 Los Hidrocarburos en el Subsuelo son propiedad de
 la Nación, por lo que en ningún caso se podrá pactar
+
 una contraprestación asociada a una parte de la
 producción de Hidrocarburos del proyecto.
 Artículo 102.- Cuando estén involucrados terrenos,
@@ -4294,7 +4365,6 @@ a
 las
 formalidades previstas en los artículos 24 a 28,
 30 y 31 de la Ley Agraria para los actos
-
 señalados en las fracciones VII a XIV del artículo
 23 de dicho ordenamiento;
 III. Tratándose de ejidatarios o comuneros que,
@@ -4309,6 +4379,7 @@ contraprestación respectiva por el uso, goce o
 afectación de tales derechos, salvo en el caso de
 la contraprestación señalada en el inciso c) de la
 fracción VI del artículo 101 anterior, en cuyo
+
 caso se estará a lo dispuesto en la fracción IV de
 este artículo. En caso contrario, se entregarán a
 través del Fideicomiso del Fondo Nacional de
@@ -4333,7 +4404,6 @@ adquisición,
 según
 sus
 características, así como demás tabuladores y
-
 mecanismos de referencia que determine. Dichos
 tabuladores servirán de base para el inicio de las
 negociaciones que se realicen conforme a los
@@ -4342,6 +4412,7 @@ El Asignatario o Contratista deberá acompañar al
 escrito a que se refiere la fracción I del artículo 101,
 los tabuladores señalados en el párrafo anterior,
 según corresponda a su propuesta.
+
 Artículo 104.- Las partes podrán acordar la práctica
 de avalúos por el Instituto, instituciones de crédito del
 país que se encuentren autorizadas, corredores
@@ -4363,7 +4434,6 @@ inmuebles, bienes o derechos que, sin reflejarse
 en su valor comercial, los hace técnicamente
 idóneos para el desarrollo del proyecto de que se
 trate;
-
 III. La afectación en la porción remanente de los
 inmuebles del cual forme parte la fracción por
 adquirir, usar o gozar;
@@ -4372,6 +4442,7 @@ valor comercial, para que los afectados
 sustituyan los terrenos, bienes o derechos por
 adquirir, cuando sea necesaria la emigración de
 los afectados, y
+
 V. En los casos de otorgamiento del uso o goce de
 los terrenos, bienes o derechos, la previsión de
 los daños y perjuicios, las molestias o
@@ -4391,7 +4462,6 @@ Artículo 105.- El acuerdo alcanzado en cualquier
 tiempo entre las partes deberá presentarse por el
 Asignatario o Contratista ante el Juez de Distrito en
 materia civil o Tribunal Unitario Agrario competente,
-
 con el fin de que sea validado, dándole el carácter de
 cosa juzgada.
 Para lo anterior, el Juez o Tribunal Unitario Agrario
@@ -4420,7 +4490,6 @@ juicio de amparo.
 Artículo 106.- En caso de no existir un acuerdo
 entre las partes, transcurridos ciento ochenta días
 naturales contados a partir de la fecha de recepción
-
 del escrito referido en la fracción I del artículo 101 de
 esta Ley, el Asignatario o Contratista podrá:
 I.
@@ -4433,6 +4502,7 @@ esta Ley, o
 
 II. Solicitar a la Secretaría de Desarrollo Agrario,
 Territorial y Urbano una mediación que versará
+
 sobre las formas o modalidades de adquisición,
 uso, goce o afectación de los terrenos, bienes o
 derechos, así como la contraprestación que
@@ -4453,7 +4523,6 @@ mejorar su comunicación y futura relación;
 
 II. A fin de sugerir el monto de la contraprestación,
 se estará a lo siguiente:
-
 a) Si previo a la mediación, las partes hubieran
 practicado avalúos encargados por cada una
 de ellas, conforme al artículo 104 de esta Ley:
@@ -4464,6 +4533,7 @@ afectación que sugiera la Secretaría de
 Desarrollo Agrario, Territorial y Urbano. De lo
 contrario, se procederá conforme al inciso b)
 siguiente;
+
 2. En caso de que la diferencia entre los
 avalúos de los dos peritos sea inferior a
 15%, la Secretaría de Desarrollo Agrario,
@@ -4481,7 +4551,6 @@ esta Ley, la práctica de un avalúo, cuyo
 resultado servirá de base para formular la
 propuesta de contraprestación de la referida
 Secretaría, y
-
 b) En caso de que las partes no hayan
 practicado avalúos en términos del artículo 104
 de esta Ley, la Secretaría de Desarrollo
@@ -4492,6 +4561,7 @@ artículo 104 de esta Ley, la práctica de un
 avalúo que servirá de base para la propuesta
 de contraprestación que formule la Secretaría
 de Desarrollo Agrario, Territorial y Urbano.
+
 En el desarrollo de la mediación se atenderá a lo
 dispuesto en el artículo 101, fracciones V a VII, de la
 presente Ley.
@@ -4517,7 +4587,6 @@ almacenamiento de materiales para la construcción,
 vehículos, maquinaria y bienes de todo tipo; el de
 construcción, instalación o mantenimiento de la
 infraestructura o realización de obras y trabajos
-
 necesarios para el adecuado desarrollo y vigilancia de
 las actividades amparadas por virtud de un Contrato o
 Asignación, así como todos aquéllos que sean
@@ -4528,6 +4597,7 @@ Las servidumbres legales de hidrocarburos se
 decretarán a favor del Asignatario o Contratista y se
 regirán por las disposiciones del derecho común
 federal y las controversias relacionadas con las
+
 mismas, cualquiera que sea su naturaleza, serán
 competencia de los tribunales federales.
 Las servidumbres legales de hidrocarburos se
@@ -4545,7 +4615,6 @@ decrete por vía administrativa, se determinará con
 base en las propuestas que se hayan formulado
 conforme a la fracción II del artículo 107 de la
 presente Ley.
-
 Tratándose de las demás modalidades de
 adquisición o afectación por figuras de derecho
 público, la indemnización respectiva se determinará
@@ -4555,6 +4624,7 @@ conforme a la fracción II del artículo 107 de esta Ley.
 Artículo 111.- Lo dispuesto en los artículos
 anteriores no será impedimento para que las partes
 continúen sus negociaciones y alcancen un acuerdo
+
 en cualquier momento, debiendo cumplir con lo
 dispuesto en el artículo 105 de esta Ley.
 Artículo 112.- El Asignatario o Contratista deberá
@@ -4573,7 +4643,6 @@ que, en su caso, se causen por la participación de
 testigos sociales, serán cubiertos por los Asignatarios
 y Contratistas, conforme a lo que señale el
 Reglamento.
-
 Artículo 114.- Los Asignatarios y Contratistas se
 abstendrán de realizar, directa o indirectamente,
 conductas o prácticas abusivas, discriminatorias o
@@ -4583,6 +4652,7 @@ derechos, durante las negociaciones y los
 procedimientos a que se refiere el presente Capítulo.
 En los casos en que se acredite que el Asignatario o
 Contratista incurra en las conductas señaladas en
+
 este artículo en más de una ocasión, la Asignación y,
 en su caso, permisos o autorizaciones podrán ser
 revocados o el Contrato para la Exploración y
@@ -4603,7 +4673,6 @@ párrafo del artículo 101 de esta Ley, y
 
 II. Será causal de rescisión del contrato a que se
 refiere este Capítulo o, en su caso, procederá la
-
 declaración de insubsistencia de la servidumbre
 legal de hidrocarburos cuando:
 a) Las obras o trabajos por desarrollar no se
@@ -4611,6 +4680,7 @@ inicien dentro de los plazos establecidos en el
 Contrato para la Exploración y Extracción o
 Asignación o en las autorizaciones de las
 autoridades;
+
 b) El terreno objeto de las mismas sea
 destinado a un uso distinto de aquel que
 justificó la afectación;
@@ -4637,7 +4707,6 @@ las
 mejores
 prácticas,
 restableciéndolos en el pleno goce de sus derechos.
-
 La regulación señalada en el párrafo anterior
 también deberá prever, al menos, mecanismos
 financieros para que Asignatarios y Contratistas
@@ -4646,6 +4715,7 @@ contraprestación que se acuerde conforme a este
 Capítulo, que sus actividades y operaciones puedan
 ocasionar a los propietarios o titulares de terrenos,
 bienes y derechos.
+
 Artículo 117.- Lo dispuesto en el presente Capítulo
 será aplicable a la adquisición, uso, goce o afectación
 de los terrenos, bienes o derechos necesarios para
@@ -4673,7 +4743,6 @@ atenderán
 los
 principios
 de
-
 sostenibilidad y respeto de los derechos humanos de
 las comunidades y pueblos de las regiones en los que
 se pretendan desarrollar.
@@ -4682,6 +4751,7 @@ Asignación, o de la publicación de una convocatoria
 para la licitación de un Contrato para la Exploración y
 Extracción, la Secretaría de Energía, en coordinación
 con la Secretaría de Gobernación y demás
+
 dependencias y entidades competentes, realizará un
 estudio de impacto social respecto del área objeto de
 la Asignación o el Contrato.
@@ -4702,7 +4772,6 @@ Artículo 120.- Con la finalidad de tomar en cuenta
 los intereses y derechos de las comunidades y
 pueblos indígenas en los que se desarrollen
 proyectos de la industria de Hidrocarburos, la
-
 Secretaría de Energía deberá llevar a cabo los
 procedimientos de consulta previa, libre e informada
 necesarios y cualquier otra actividad necesaria para
@@ -4711,6 +4780,7 @@ Gobernación y las dependencias que correspondan.
 En dichos procedimientos de consulta la Secretaría
 de Energía podrá prever la participación de la
 Agencia, las empresas productivas del Estado y sus
+
 subsidiarios y empresas filiales, así como
 Particulares, conforme a la normatividad aplicable.
 Los procedimientos de consulta tendrán como objeto
@@ -4731,7 +4801,6 @@ Artículo 121.- Los interesados en obtener un
 permiso o una autorización para desarrollar proyectos
 en materia de Hidrocarburos, así como los
 Asignatarios y Contratistas, deberán presentar a la
-
 Secretaría de Energía una evaluación de impacto
 social que deberá contener la identificación,
 caracterización, predicción y valoración de los
@@ -4739,6 +4808,7 @@ impactos sociales que podrían derivarse de sus
 actividades, así como las medidas de mitigación y los
 planes de gestión social correspondientes, en los
 términos que señale el Reglamento de esta Ley.
+
 La Secretaría de Energía emitirá la resolución y las
 recomendaciones que correspondan, en el plazo y los
 términos que señale el Reglamento de esta Ley.
@@ -4760,13 +4830,13 @@ de Control del Gas Natural llevar a cabo aquellos
 proyectos que considere necesarios para la
 generación de beneficios sociales y como
 mecanismos de promoción de desarrollo económico,
-
 en términos de esta Ley y de la política pública en
 materia energética del país. En el caso de proyectos
 que requieran permiso de la Comisión Reguladora de
 Energía, la Secretaría de Energía solicitará la opinión
 de dicha Comisión.
 Los proyectos podrán abarcar:
+
 I.
 
 El Tratamiento y refinación de Petróleo y el
@@ -4792,7 +4862,6 @@ anterior, con independencia de la regulación tarifaria
 que, en su caso, establezca la Comisión Reguladora
 de Energía para la prestación de servicios
 permisionados.
-
 Los proyectos que instruya la Secretaría de Energía
 a Petróleos Mexicanos, a las demás empresas
 productivas del Estado o al Centro Nacional de
@@ -4800,6 +4869,7 @@ Control del Gas Natural, conforme a lo establecido en
 el presente artículo, serán financiados con base en lo
 que para tal efecto determine la Cámara de Diputados
 dentro del Presupuesto de Egresos de la Federación.
+
 Tratándose de proyectos de infraestructura de
 Transporte por ductos y de Almacenamiento de Gas
 Natural, a que se refiere el presente artículo la
@@ -4820,7 +4890,6 @@ artículo anterior, las empresas productivas del Estado
 podrán participar en los proyectos de infraestructura
 para el Transporte por ducto y el Almacenamiento de
 Gas Natural vinculado a ductos, que estén sujetos a
-
 reglas de acceso abierto, a través de contratos de
 reserva de capacidad vinculados a dicha
 infraestructura.
@@ -4828,6 +4897,7 @@ Para el desarrollo de los proyectos a que se refiere
 este artículo, la Comisión Reguladora de Energía
 deberá emitir opinión favorable respecto de las bases
 de licitación o concurso, así como del impacto
+
 económico del proyecto, que realice el Centro
 Nacional de Control del Gas Natural, a fin de cuidar
 que no se establezcan condiciones que incrementen
@@ -4849,7 +4919,6 @@ Artículo 125.- La Secretaría de Economía, con la
 opinión de la Secretaría de Energía, definirá las
 estrategias para el fomento industrial de Cadenas
 Productivas locales y para el fomento de la inversión
-
 directa en la industria de Hidrocarburos, con especial
 atención a las pequeñas y medianas empresas,
 conforme a lo siguiente:
@@ -4857,6 +4926,7 @@ I.
 
 La estrategia para el fomento industrial de
 Cadenas Productivas locales deberá:
+
 a) Identificar los sectores industriales y las
 regiones en que se enfocará la estrategia,
 alineados a la demanda de la industria de
@@ -4877,7 +4947,6 @@ d) Impulsar el cierre de brechas de capacidad
 técnica y de calidad de las empresas, a través
 de programas de apoyo para asistencia técnica
 y financiera, y
-
 e) Integrar un consejo consultivo, encabezado
 por la Secretaría de Economía, con
 representantes de la Secretaría de Energía, la
@@ -4894,6 +4963,7 @@ de
 las
 cámaras
 u
+
 organizaciones empresariales que cuenten con
 presencia a nivel nacional.
 Dicho consejo apoyará en la definición de
@@ -4918,13 +4988,13 @@ Hidrocarburos;
 b) Promover la asociación entre empresas
 mexicanas y extranjeras, para llevar a cabo las
 actividades en la industria de Hidrocarburos;
-
 c) Promover la inversión nacional y extranjera
 para que se realicen actividades de
 permanencia en México directamente en la
 industria de Hidrocarburos, o bien en la
 fabricación de bienes o prestación de servicios
 relacionados con esta industria, y
+
 d) Impulsar la transferencia de tecnología y
 conocimiento.
 Corresponde a la Secretaría de Economía dar
@@ -4946,16 +5016,13 @@ Los Asignatarios y Contratistas, así como los
 Permisionarios a que se refiere esta Ley, deberán
 proporcionar información a la Secretaría de Economía
 sobre el contenido nacional en las actividades que
-
-realicen, conforme a lo que establezcan
+realicen, conforme a lo que establezcan las
 disposiciones que para tal efecto emita.
-
-las
-
 Artículo 127.- Se deroga.
 Artículo derogado DOF 06-11-2020
 Artículo 128.- La Secretaría de Energía, la
 Comisión Nacional de Hidrocarburos y la Comisión
+
 Reguladora de Energía, con la opinión de la
 Secretaría de Economía, deberán establecer dentro
 de las condiciones que se incluyan en las
@@ -4979,7 +5046,6 @@ Artículo 129.- Corresponde a la Agencia emitir la
 regulación y la normatividad aplicable en materia de
 seguridad industrial y operativa, así como de
 protección al medio ambiente en la industria de
-
 Hidrocarburos, a fin de promover, aprovechar y
 desarrollar de manera sustentable las actividades de
 la industria de Hidrocarburos.
@@ -4987,6 +5053,7 @@ La Agencia deberá aportar los elementos técnicos
 para el diseño y la definición de la política pública en
 materia energética, de protección al medio ambiente y
 recursos naturales, así como para la formulación de
+
 los programas sectoriales en la materia, que se
 relacionen con su objeto.
 La Agencia se regirá por lo dispuesto en su propia
@@ -5007,11 +5074,11 @@ efectos administrativos de esta Ley corresponde, en
 el ámbito de sus atribuciones, a las Secretarías de
 Energía, de Hacienda y Crédito Público y de
 Economía, a la Comisión Nacional de Hidrocarburos,
-
 a la Comisión Reguladora de Energía y a la Agencia
 Nacional de Seguridad Industrial y de Protección al
 Medio Ambiente del Sector Hidrocarburos.
 TRANSITORIOS
+
 Primero.- La presente Ley entrará en vigor al día
 siguiente de su publicación en el Diario Oficial de la
 Federación.
@@ -5034,12 +5101,12 @@ en términos de las disposiciones de esta Ley y las
 demás disposiciones aplicables.
 Cuarto.- El Ejecutivo Federal expedirá el
 Reglamento de esta Ley dentro de los ciento ochenta
-
 días naturales siguientes a la fecha de su entrada en
 vigor. El reglamento de la Ley Reglamentaria a que se
 refiere el Segundo transitorio de la presente Ley, así
 como los reglamentos de Gas Natural y de Gas
 Licuado de Petróleo, continuarán vigentes en lo que
+
 no se opongan a la misma y hasta que entren en vigor
 las nuevas disposiciones reglamentarias.
 Quinto.- En tanto se expiden los reglamentos
@@ -5064,11 +5131,11 @@ publicado en el Diario Oficial de la Federación el 20
 de diciembre de 2013, la Secretaría de Energía
 otorgará Asignaciones a Petróleos Mexicanos de
 conformidad con lo dispuesto en el referido transitorio.
-
 Las Asignaciones que se otorguen a Petróleos
 Mexicanos durante dicho proceso se regularán
 conforme a las disposiciones establecidas en la
 presente Ley.
+
 Séptimo.- Los titulares de concesiones mineras que
 a la entrada en vigor de la presente Ley cuenten con
 permiso para la recuperación y aprovechamiento de
@@ -5092,12 +5159,12 @@ las actividades de Exploración y Extracción de
 Hidrocarburos.
 El contrato deberá ser otorgado por la Comisión
 Nacional de Hidrocarburos en términos de esta Ley.
-
 Transcurrido un plazo de 180 días naturales,
 contados a partir de la entrada en vigor de la presente
 Ley, cualquier permiso de recuperación y
 aprovechamiento de gas natural asociado a
 yacimientos de carbón mineral, quedará sin efectos.
+
 Octavo.- A partir de la entrada en vigor de la
 presente Ley, la Comisión Nacional de Hidrocarburos
 podrá adjudicar de manera directa a Petróleos
@@ -5121,12 +5188,12 @@ Hidrocarburos.
 Noveno.- Para integrar el Centro Nacional de
 Información de Hidrocarburos, Petróleos Mexicanos,
 sus organismos subsidiarios y empresas filiales, así
-
 como el Instituto Mexicano del Petróleo, transferirán a
 la Comisión Nacional de Hidrocarburos, a título
 gratuito, toda la información a que se refieren los
 artículos 32, 33 y 35 de esta Ley, que se haya
 obtenido a la fecha de entrada en vigor de esta Ley.
+
 Dicha transferencia se realizará en un plazo que no
 excederá de dos años a partir de la entrada en vigor
 de esta Ley, conforme a los lineamientos que la
@@ -5151,13 +5218,13 @@ su caso, el Instituto Mexicano del Petróleo, llevarán a
 cabo las acciones y los convenios modificatorios que
 sean necesarios, a efecto de que se establezca que la
 Comisión Nacional de Hidrocarburos será beneficiaria
-
 de forma directa de los derechos contenidos en los
 contratos mencionados en el párrafo anterior, de
 manera que la Comisión Nacional de Hidrocarburos
 esté en posibilidad de requerir directamente a los
 proveedores o prestadores del servicio, la información
 y servicios que correspondan a cada uno de los
+
 contratos, para recopilar, descargar o transferir la
 información que requiera.
 Asimismo, de forma inmediata a la entrada en vigor
@@ -5180,7 +5247,6 @@ anterioridad a la entrada en vigor de esta Ley,
 mantendrán su vigencia en los términos otorgados. Lo
 anterior, sin perjuicio de las obligaciones en materia
 de acceso abierto previstas en la presente Ley.
-
 Décimo Primero.- A partir del 1o. de enero de 2015,
 la Secretaría de Energía y la Comisión Reguladora de
 Energía podrán otorgar, en el ámbito de sus
@@ -5190,6 +5256,7 @@ los
 Permisos
 y
 autorizaciones observando lo dispuesto en los
+
 transitorios Décimo cuarto y Vigésimo Noveno de la
 presente Ley.
 Las personas que a la fecha de entrada en vigor de
@@ -5224,11 +5291,11 @@ administrativos
 o
 autorizaciones aplicables a las instalaciones y
 equipos de transporte que se utilicen para las
-
 actividades de carga, traslado, depósito,
 recepción y manejo de productos, así como para
 el combate al mercado ilícito, vigentes a la fecha
 de entrada en vigor de la presente Ley.
+
 La Secretaría de Energía y la Comisión Reguladora
 de Energía podrán solicitar a Petróleos Mexicanos y
 sus subsidiarias, la información y registros que tengan
@@ -5253,7 +5320,6 @@ Décimo Segundo.- A más tardar dentro de los doce
 meses siguientes a la entrada en vigor de la presente
 Ley, el Ejecutivo Federal emitirá el Decreto de
 creación del organismo público descentralizado
-
 denominado Centro Nacional de Control del Gas
 Natural, encargado de la gestión, administración y
 operación
@@ -5263,6 +5329,7 @@ de
 Transporte
 y
 Almacenamiento Nacional Integrado. En dicho
+
 Decreto
 se
 establecerá
@@ -5295,6 +5362,7 @@ de Permisionario de Transporte de Gas Natural;
 II. Los que tengan suscritos con Permisionarios que
 a la fecha de entrada en vigor de esta Ley se
 encuentren operando;
+
 III. Los que tengan suscritos con personas que no
 hayan iniciado operaciones, a la entrada en vigor
 de esta Ley;
@@ -5318,11 +5386,11 @@ sus organismos subsidiarios y las empresas en las
 que los primeros cuenten con participación directa o
 indirecta reserven y/o mantengan los contratos de
 reserva de la capacidad que requieran para sus
-
 operaciones de generación eléctrica y transformación
 industrial de hidrocarburos, según sea el caso.
 Para efectos de la reserva y/o ejercicio de la
 capacidad en exceso a la requerida para sus
+
 operaciones, las empresas productivas del Estado,
 sus organismos subsidiarios y las empresas en las
 que los primeros cuenten con participación directa o
@@ -5349,11 +5417,11 @@ dichos contratos.
 En los procesos previstos en el presente transitorio
 se establecerán los mecanismos necesarios para
 salvaguardar los derechos de terceros.
-
 La Secretaría de Hacienda y Crédito Público emitirá
 los lineamientos financieros y de contraprestaciones a
 que, en su caso, se sujetarán las transferencias y
 actividades señaladas en los párrafos anteriores,
+
 contando con el apoyo que al efecto requiera de la
 Comisión Reguladora de Energía.
 En tanto el Centro Nacional de Control del Gas
@@ -5374,19 +5442,14 @@ Petróleos Mexicanos y sus organismos subsidiarios
 se considerarán como usuarios del Sistema de
 Transporte y Almacenamiento Nacional Integrado de
 Gas Natural.
-La Comisión Reguladora de Energía otorgará
-Centro Nacional de Control del Gas Natural
-Permiso como gestor independiente del Sistema
-Transporte y Almacenamiento Nacional Integrado
-
-al
-el
-de
-de
-
+La Comisión Reguladora de Energía otorgará al
+Centro Nacional de Control del Gas Natural el
+Permiso como gestor independiente del Sistema de
+Transporte y Almacenamiento Nacional Integrado de
 Gas Natural en un plazo máximo de sesenta días
 naturales a partir de la emisión del Decreto de
 creación del referido Centro.
+
 Décimo Tercero.- La Comisión Reguladora de
 Energía continuará sujetando las ventas de primera
 mano de Hidrocarburos, Petrolíferos o Petroquímicos
@@ -5416,11 +5479,14 @@ Hidrocarburos,
 Petrolíferos
 o
 Petroquímicos siempre que desagregue los distintos
-
 servicios que preste y el precio de venta de primera
 mano del producto de que se trate.
-La comercialización que realicen personas
-controladas por Petróleos Mexicanos o sus
+La comercialización que
+controladas por Petróleos
+
+realicen personas
+Mexicanos o sus
+
 organismos subsidiarios, podrá realizarse en puntos
 distintos a los señalados en el párrafo anterior. Esta
 actividad también se sujetará a regulación asimétrica
@@ -5448,11 +5514,11 @@ Reguladora de Energía establezca sobre los términos
 y condiciones de ventas de primera mano y sus
 precios, se sancionará por dicha Comisión con multas
 de ciento cincuenta mil días a setenta y cinco millones
-
 de días de salario mínimo general vigente en el
 Distrito Federal.
 Décimo Cuarto.- En relación con los mercados de
 gasolina y diésel se observará lo siguiente:
+
 I.
 
 Se deroga.
@@ -5482,10 +5548,10 @@ III. La vigencia de los contratos de suministro que
 suscriban Petróleos Mexicanos, sus empresas
 productivas subsidiarias o sus empresas filiales
 no podrá exceder del 31 de diciembre de 2016.
-
 Lo anterior, sin perjuicio de que, a partir del 1o. de
 enero de 2017, Petróleos Mexicanos, sus empresas
 productivas subsidiarias o sus empresas filiales
+
 puedan celebrar contratos de suministro bajo las
 nuevas condiciones de mercado.
 Los contratos de suministro que suscriban Petróleos
@@ -5508,7 +5574,6 @@ Petrolíferos.
 Décimo Sexto.- A más tardar el 31 de diciembre de
 2015, la Agencia establecerá las disposiciones
 administrativas de carácter general para regular:
-
 I.
 
 El
@@ -5525,6 +5590,7 @@ construcción,
 operación
 y
 mantenimiento de equipos e infraestructura para
+
 realizar
 las
 actividades
@@ -5558,6 +5624,7 @@ nacional en Asignaciones y Contratos de
 Exploración y Extracción, así como en las otras
 actividades a que se refiere el artículo 2 de esta
 Ley, y
+
 III. Verificar el cumplimiento de las metas de
 contenido nacional establecidas en las
 Asignaciones y Contratos de Exploración y
@@ -5581,12 +5648,12 @@ Con base en dicha metodología, la Secretaría de
 Economía calculará el contenido nacional observado
 en las áreas en Exploración y en los campos en
 Extracción en el primer semestre de 2014, y lo
-
 publicará a más tardar dentro de los ciento ochenta
 días naturales siguientes a la entrada en vigor de la
 presente Ley. Lo anterior con el fin de contar con la
 línea base para establecer los requerimientos de
 contenido nacional en Asignaciones y Contratos para
+
 la Exploración y Extracción según el tipo de área o
 campo en que se llevará a cabo dichas actividades.
 En tanto la Secretaría de Economía emite la
@@ -5611,12 +5678,12 @@ Comisión Nacional de Hidrocarburos, a efecto de que,
 en un plazo no mayor a ciento ochenta días, contados
 a partir de la entrada en vigor del presente Decreto,
 se le transfiera a esta última toda la información sobre
-
 el potencial gasífero asociado a yacimientos de
 carbón mineral con que cuente hasta la fecha o
 cualquier otra información que le pueda ser de
 utilidad, conforme a sus atribuciones de Exploración y
 Extracción de Hidrocarburos.
+
 Vigésimo Primero.- En tanto entra en funciones la
 Agencia, de acuerdo con lo previsto en la Ley de la
 materia, la Secretaría de Energía, la Comisión
@@ -5640,11 +5707,11 @@ a la Comisión Federal de Electricidad.
 Vigésimo Cuarto.- El porcentaje mínimo promedio
 de contenido nacional en materia de Exploración y
 Extracción de Hidrocarburos, a que se refiere el
-
 primer párrafo del artículo 46 de esta Ley, aumentará
 de forma gradual a partir de 25% en 2015 hasta llegar
 al menos a 35% en 2025, debiendo revisarse con
 posterioridad cada cinco años.
+
 Dicha meta excluirá actividades en aguas profundas
 y ultra profundas, para lo cual la Secretaría de
 Economía, con la opinión de la Secretaría de Energía,
@@ -5670,11 +5737,11 @@ incrementen la capacidad de ductos de Transporte de
 Gas Natural objeto de permisos otorgados con
 anterioridad a la expedición de la presente Ley y
 financiados por usuarios, cuyo diseño haya sido
-
 considerado para satisfacer sus necesidades de
 consumo propio, así como alguna posible amplitud
 financiada por el mismo usuario, podrán recuperar un
 porcentaje de los costos invertidos en el incremento
+
 de capacidad en los términos y condiciones que
 establezca la Comisión Reguladora de Energía.
 Vigésimo Séptimo.- A partir de la entrada en vigor
@@ -5700,11 +5767,11 @@ de la publicación de la misma.
 Las partes de dichos contratos podrán solicitar
 conjuntamente a la Secretaría de Energía, la
 migración de la Asignación a un Contrato para la
-
 Exploración y Extracción sin necesidad de agotar el
 procedimiento de licitación previsto en la presente
 Ley. Esta migración se realizará con base en los
 lineamientos técnicos que establezca la Secretaría de
+
 Energía y las condiciones económicas relativas a los
 términos fiscales, que conforme a la Ley de Ingresos
 sobre Hidrocarburos, disponga la Secretaría de
@@ -5731,10 +5798,10 @@ para la Exploración y Extracción que se firmará por
 parte de la Comisión Nacional de Hidrocarburos y la
 asociación o alianza que para este propósito
 específico constituyan la empresa productiva
-
 subsidiaria y la Persona Moral respectiva, de acuerdo
 con las políticas que dicte el Consejo de
 Administración de Petróleos Mexicanos.
+
 Previo a la firma del Contrato para la Exploración y
 Extracción, deberá haberse dado por terminado de
 manera anticipada el contrato integral de exploración
@@ -5762,7 +5829,6 @@ Federal mediante acuerdo. Dicho acuerdo
 deberá considerar las diferencias relativas por
 costos de transporte entre regiones y las
 diversas modalidades de distribución y expendio
-
 al público, en su caso. Asimismo, la política de
 precios máximos al público que se emita deberá
 prever, en caso de que los precios
@@ -5770,6 +5836,7 @@ internacionales
 de
 estos
 combustibles
+
 experimenten alta volatilidad, mecanismos de
 ajuste que permitan revisar al alza los
 incrementos de los citados precios, de manera
@@ -5797,18 +5864,11 @@ II. A partir de la entrada en vigor de la presente Ley
 y, como máximo hasta el 31 de diciembre de
 2015, sólo se podrán otorgar permisos para la
 importación de Gas Licuado de Petróleo a
-
-Petróleos Mexicanos,
+Petróleos Mexicanos, sus subsidiarias y
 empresas filiales.
-
-sus
-
-subsidiarias
-
-y
-
 A partir del 1o. de enero de 2016, o antes si las
 condiciones del mercado lo permiten, los
+
 permisos a que se refiere esta fracción se
 podrán otorgar a cualquier interesado que
 cumpla
@@ -5838,7 +5898,6 @@ para instrumentar los procesos de licitación de los
 Contratos para la Exploración y Extracción, sin
 sujetarse al procedimiento de licitación pública, a
 través de los procedimientos de invitación a cuando
-
 menos tres personas o de adjudicación directa,
 acreditando en todo momento los criterios de
 economía,
@@ -5847,6 +5906,7 @@ eficiencia,
 imparcialidad,
 honradez y transparencia que resulten procedentes
 para obtener las mejores condiciones para el Estado.
+
 Trigésimo Segundo.- Los contratos, convenios o
 instrumentos de naturaleza jurídica análoga a que se
 refiere esta Ley o que estén relacionados con ella por
@@ -5868,11 +5928,11 @@ González Morfín, Presidente.- Sen. Raúl Cervantes
 Andrade, Presidente.- Dip. Javier Orozco Gómez,
 Secretario.- Sen. Lilia Guadalupe Merodio Reza,
 Secretaria.- Rúbricas."
-
 En cumplimiento de lo dispuesto por la fracción I del
 Artículo 89 de la Constitución Política de los Estados
 Unidos Mexicanos, y para su debida publicación y
 observancia, expido el presente Decreto en la
+
 Residencia del Poder Ejecutivo Federal, en la Ciudad
 de México, Distrito Federal, a once de agosto de dos
 mil catorce.- Enrique Peña Nieto.- Rúbrica.- El
