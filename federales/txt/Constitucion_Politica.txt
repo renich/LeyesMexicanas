@@ -8,7 +8,7 @@ UNIDOS MEXICANOS
 Constitución publicada en el Diario Oficial de la
 Federación el 5 de febrero de 1917
 TEXTO VIGENTE
-Última reforma publicada DOF 11-03-2021
+Últimas reformas publicadas DOF 17-05-2021
 
 El C. Primer Jefe del Ejército Constitucionalista,
 Encargado del Poder Ejecutivo de la Nación, con esta
@@ -904,7 +904,7 @@ para esos efectos.
 Párrafo adicionado DOF 24-12-2020
 
 Reforma DOF 14-08-2001: Derogó del artículo el entonces
-párrafo primero (antes adicionado por DOF 28-01-1992)
+párrafo primero (antes adicionado DOF 28-01-1992)
 Artículo reformado DOF 31-12-1974
 Artículo 5o. A ninguna persona podrá impedirse
 que se dedique a la profesión, industria, comercio o
@@ -3703,9 +3703,9 @@ Párrafo adicionado DOF 11-06-2013
 Todos los actos del proceso de selección y
 designación de los Comisionados son inatacables.
 Párrafo adicionado DOF 11-06-2013
-Artículo reformado DOF 17-11-1982, 03-02-1983
 Reforma DOF 27-06-1990: Derogó del artículo el entonces
 párrafo quinto
+Artículo reformado DOF 17-11-1982, 03-02-1983
 Artículo 29. En los casos de invasión, perturbación
 grave de la paz pública, o de cualquier otro que ponga
 a la sociedad en grave peligro o conflicto, solamente
@@ -3772,12 +3772,11 @@ Son mexicanos por nacimiento:
 I. Los que nazcan en territorio de la República,
 sea cual fuere la nacionalidad de sus padres.
 II. Los que nazcan en el extranjero, hijos de
-padres mexicanos nacidos en territorio
-nacional, de padre mexicano nacido en
+padres mexicanos, de madre mexicana o de
+padre mexicano;
 
-territorio nacional, o de madre mexicana nacida
-en territorio nacional;
-Fracción reformada DOF 26-12-1969, 20-03-1997
+Fracción reformada DOF 26-12-1969, 20-03-1997,
+17-05-2021
 III.
 
 Los que nazcan en el extranjero, hijos de
@@ -3807,8 +3806,8 @@ Artículo reformado DOF 18-01-1934
 Artículo 31. Son obligaciones de los mexicanos:
 I. Ser responsables de que sus hijas, hijos o pupilos
 menores de dieciocho años concurran a las
-
 escuelas, para recibir la educación obligatoria y,
+
 en su caso, reciban la militar, en los términos que
 establezca la ley, así como participar en su
 proceso educativo, al revisar su progreso y
@@ -4253,7 +4252,7 @@ extranjero, o a un gobierno extranjero, en
 cualquier reclamación diplomática o ante un
 tribunal internacional, y
 VI. En los demás casos que fijan las leyes.
-Reforma DOF 30-09-2013: Derogó de este Apartado C el
+Reforma DOF 30-09-2013: Derogó del Apartado C el
 entonces último párrafo
 Fe de erratas al artículo DOF 06-02-1917. Artículo
 reformado DOF 18-01-1934, 20-03-1997
@@ -5101,17 +5100,17 @@ son los Estados de Aguascalientes, Baja California,
 Baja California Sur, Campeche, Coahuila de
 Zaragoza, Colima, Chiapas, Chihuahua, Durango,
 Guanajuato, Guerrero, Hidalgo, Jalisco, México,
-Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca,
-Puebla, Querétaro, Quintana Roo, San Luis Potosí,
-Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala,
-Veracruz, Yucatán y Zacatecas; así como la Ciudad
-de México.
-Artículo reformado DOF 07-02-1931, 19-12-1931, 1601-1935, 16-01-1952, 08-10-1974, 13-04-2011, 29-01-2016
+Michoacán de Ocampo, Morelos, Nayarit, Nuevo
+León, Oaxaca, Puebla, Querétaro, Quintana Roo, San
+Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas,
+Tlaxcala, Veracruz de Ignacio de la Llave, Yucatán y
+Zacatecas; así como la Ciudad de México.
+Artículo reformado DOF 07-02-1931, 19-12-1931, 1601-1935, 16-01-1952, 08-10-1974, 13-04-2011, 29-012016, 17-05-2021
 Artículo 44. La Ciudad de México es la entidad
 federativa sede de los Poderes de la Unión y Capital
 de los Estados Unidos Mexicanos; se compondrá del
-territorio que actualmente tiene y, en caso de que los
 
+territorio que actualmente tiene y, en caso de que los
 poderes federales se trasladen a otro lugar, se erigirá
 en un Estado de la Unión con la denominación de
 Ciudad de México.
@@ -5135,10 +5134,10 @@ que se susciten entre las entidades federativas, en los
 términos de la fracción I del artículo 105 de esta
 Constitución.
 Artículo reformado DOF 17-03-1987, 08-12-2005, 1510-2012
+
 Artículo 47. El Estado del (sic DOF 05-02-1917)
 Nayarit tendrá la extensión territorial y límites que
 comprende actualmente el Territorio de Tepic.
-
 Artículo original DOF 05-02-1917
 Artículo 48. Las islas, los cayos y arrecifes de los
 mares adyacentes que pertenezcan al territorio
@@ -5163,6 +5162,7 @@ Legislativo en un individuo, salvo el caso de
 facultades extraordinarias al Ejecutivo de la Unión,
 conforme a lo dispuesto en el artículo 29. En ningún
 otro caso, salvo lo dispuesto en el segundo párrafo
+
 del
 artículo
 131,
@@ -5171,7 +5171,6 @@ otorgarán
 facultades
 extraordinarias para legislar.
 Artículo reformado DOF 12-08-1938, 28-03-1951
-
 Capítulo II
 Del Poder Legislativo
 Artículo 50. El poder legislativo de los Estados
@@ -5195,9 +5194,9 @@ diputados que serán electos según el principio de
 representación proporcional, mediante el Sistema de
 Listas Regionales, votadas en circunscripciones
 plurinominales.
+
 Artículo reformado DOF 20-08-1928, 30-12-1942, 11-061951, 20-12-1960, 14-02-1972, 08-10-1974, 06-12-1977,
 15-12-1986, 06-06-2019
-
 Artículo 53. La demarcación territorial de los 300
 distritos electorales uninominales será la que resulte
 de dividir la población total del país entre los distritos
@@ -5223,9 +5222,9 @@ sistema de asignación por listas regionales, se
 sujetará a las siguientes bases y a lo que disponga la
 ley:
 Párrafo reformado DOF 03-09-1993
+
 I. Un partido político, para obtener el registro de sus
 listas regionales, deberá acreditar que participa
-
 con candidatos a diputados por mayoría relativa
 en por lo menos doscientos distritos uninominales;
 II.
@@ -5260,10 +5259,10 @@ IV. Ningún partido político podrá contar con más
 de 300 diputados por ambos principios.
 Fracción reformada DOF 03-09-1993. Reformada DOF
 22-08-1996
+
 V.
 En ningún caso, un partido político podrá
 contar con un número de diputados por ambos
-
 principios que representen un porcentaje del total
 de la Cámara que exceda en ocho puntos a su
 porcentaje de votación nacional emitida. Esta base
@@ -5288,12 +5287,12 @@ desarrollará las reglas y fórmulas para estos
 efectos.
 Fracción adicionada DOF 03-09-1993. Reformada DOF
 22-08-1996
-Artículo reformado DOF 22-06-1963, 14-02-1972, 0612-1977, 15-12-1986, 06-04-1990
 Reforma DOF 22-08-1996: Eliminó del artículo la entonces
-fracción VII (antes adicionada por DOF 03-09-1993)
+fracción VII (antes adicionada DOF 03-09-1993)
+Artículo reformado DOF 22-06-1963, 14-02-1972, 0612-1977, 15-12-1986, 06-04-1990
+
 Artículo 55. Para ser diputado se requiere:
 Párrafo reformado DOF 29-01-2016
-
 I. Ser ciudadano mexicano, por nacimiento, en el
 ejercicio de sus derechos.
 II.
@@ -5319,10 +5318,10 @@ La vecindad no se pierde por ausencia en el
 desempeño de cargos públicos de elección
 popular.
 Fracción reformada DOF 08-10-1974, 06-12-1977
+
 IV. No estar en servicio activo en el Ejército
 Federal ni tener mando en la policía o
 gendarmería rural en el Distrito donde se haga la
-
 elección, cuando menos noventa días antes de
 ella.
 V.
@@ -5350,8 +5349,8 @@ electos en las entidades de sus respectivas
 jurisdicciones durante el periodo de su encargo,
 aun cuando se separen definitivamente de sus
 puestos.
-Párrafo reformado DOF 29-01-2016
 
+Párrafo reformado DOF 29-01-2016
 Los Secretarios del Gobierno de las entidades
 federativas, los Magistrados y Jueces Federales y
 locales, así como los Presidentes Municipales y
@@ -5380,10 +5379,10 @@ deberán registrar una lista con dos fórmulas de
 candidatos. La senaduría de primera minoría le será
 asignada a la fórmula de candidaturas que encabece
 la lista del partido político que, por sí mismo, haya
+
 ocupado el segundo lugar en número de votos en la
 entidad de que se trate.
 Párrafo reformado DOF 29-01-2016, 06-06-2019
-
 Las treinta y dos senadurías restantes serán
 elegidas según el principio de representación
 proporcional, mediante el sistema de listas votadas en
@@ -5406,10 +5405,10 @@ de la elección.
 Artículo reformado DOF 29-04-1933, 14-02-1972, 2907-1999
 Artículo 59. Los Senadores podrán ser electos
 hasta por dos periodos consecutivos y los Diputados
+
 al Congreso de la Unión hasta por cuatro periodos
 consecutivos. La postulación sólo podrá ser realizada
 por el mismo partido o por cualquiera de los partidos
-
 integrantes de la coalición que los hubieren postulado,
 salvo que hayan renunciado o perdido su militancia
 antes de la mitad de su mandato.
@@ -5436,10 +5435,10 @@ las salas regionales del Tribunal Electoral del Poder
 Judicial de la Federación, en los términos que señale
 la ley.
 Párrafo reformado DOF 22-08-1996
+
 Las resoluciones de las salas a que se refiere el
 párrafo anterior, podrán ser revisadas exclusivamente
 por la Sala Superior del propio Tribunal, a través del
-
 medio de impugnación que los partidos políticos
 podrán interponer únicamente cuando por los
 agravios esgrimidos se pueda modificar el resultado
@@ -5465,10 +5464,10 @@ Federación o de las entidades federativas por los
 cuales se disfrute sueldo, sin licencia previa de la
 Cámara respectiva; pero entonces cesarán en sus
 funciones representativas, mientras dure la nueva
+
 ocupación. La misma regla se observará con los
 diputados y senadores suplentes, cuando estuviesen
 en ejercicio. La infracción de esta disposición será
-
 castigada con la pérdida del carácter de diputado o
 senador.
 Artículo reformado DOF 29-01-2016
@@ -5497,10 +5496,10 @@ principio de representación proporcional, será cubierta
 por la fórmula de candidatos del mismo partido que
 siga en el orden de la lista regional respectiva,
 después de habérsele asignado los diputados que le
+
 hubieren correspondido; la vacante de miembros de la
 Cámara de Senadores electos por el principio de
 representación proporcional, será cubierta por aquella
-
 fórmula de candidatos del mismo partido que siga en
 el orden de lista nacional, después de habérsele
 asignado
@@ -5532,10 +5531,10 @@ Incurrirán en responsabilidad, y se harán acreedores
 a las sanciones que la ley señale, quienes habiendo
 sido electos diputados o senadores, no se presenten,
 sin causa justificada a juicio de la Cámara respectiva,
+
 a desempeñar el cargo dentro del plazo señalado en
 el primer párrafo de este artículo. También incurrirán
 en responsabilidad, que la misma ley sancionará, los
-
 Partidos Políticos Nacionales que habiendo postulado
 candidatos en una elección para diputados o
 senadores, acuerden que sus miembros que
@@ -5620,8 +5619,8 @@ las entidades paraestatales, quienes comparecerán y
 rendirán informes bajo protesta de decir verdad. La
 Ley del Congreso y sus reglamentos regularán el
 ejercicio de esta facultad.
-Párrafo reformado DOF 10-02-2014
 
+Párrafo reformado DOF 10-02-2014
 En el primer año de su mandato, en la apertura del
 segundo periodo de sesiones ordinarias del
 Congreso, el Presidente de la República presentará
@@ -6636,11 +6635,9 @@ proyecto de Presupuesto de Egresos de la
 Federación a más tardar el día 15 del mes de
 noviembre.
 Párrafo adicionado DOF 30-07-2004. Reformado DOF 1002-2014
-No podrá haber otras partidas secretas, fuera de
-las que se consideren necesarias, con ese
-carácter, en el mismo presupuesto; las que
-emplearán los secretarios por acuerdo escrito del
-Presidente de la República.
+No podrá haber partidas secretas en el
+Presupuesto de Egresos de la Federación.
+Párrafo reformado DOF 17-05-2021
 
 Sólo se podrá ampliar el plazo de presentación de
 la iniciativa de Ley de Ingresos y del Proyecto de
@@ -6651,10 +6648,9 @@ debiendo comparecer en todo caso el Secretario
 del Despacho correspondiente a informar de las
 razones que lo motiven;
 Párrafo reformado DOF 25-10-1993, 07-05-2008
+Reforma DOF 07-05-2008: Derogó de la fracción los
+entonces párrafos quinto, sexto (antes reformado DOF 3007-1999) y séptimo (antes reformado DOF 17-03-1987)
 Fracción reformada DOF 06-12-1977
-Reforma DOF 07-05-2008: Derogó de esta fracción los
-entonces párrafos quinto, sexto (antes reformado por DOF
-30-07-1999) y séptimo (antes reformado por DOF 17-031987)
 V.
 Declarar si ha o no lugar a proceder
 penalmente contra los servidores públicos que
@@ -6670,9 +6666,9 @@ VI. Revisar la Cuenta Pública del año anterior, con
 el objeto de evaluar los resultados de la gestión
 financiera, comprobar si se ha ajustado a los
 criterios señalados por el Presupuesto y verificar
-
 el cumplimiento de los objetivos contenidos en los
 programas.
+
 La revisión de la Cuenta Pública la realizará la
 Cámara de Diputados a través de la Auditoría
 Superior de la Federación. Si del examen que ésta
@@ -6710,8 +6706,8 @@ contará con el mismo tiempo adicional para la
 presentación del Informe General Ejecutivo del
 resultado de la Fiscalización Superior de la Cuenta
 Pública.
-
 Párrafo reformado DOF 27-05-2015
+
 La Cámara concluirá la revisión de la Cuenta
 Pública a más tardar el 31 de octubre del año
 siguiente al de su presentación, con base en el
@@ -6737,10 +6733,10 @@ plazo que disponga la ley. En caso de que la
 Cámara de Diputados no se pronuncie en dicho
 plazo, el Plan se entenderá aprobado;
 Fracción adicionada DOF 20-08-1928. Derogada DOF 2812-1982. Adicionada DOF 10-02-2014
-
 VIII. Designar, por el voto de las dos terceras partes
 de sus miembros presentes, a los titulares de los
 órganos internos de control de los organismos con
+
 autonomía reconocida en esta Constitución que
 ejerzan recursos del Presupuesto de Egresos de
 la Federación, y
@@ -6765,10 +6761,10 @@ Los poderes federales Legislativo, Ejecutivo y
 Judicial, así como los organismos con autonomía
 reconocida en esta Constitución que ejerzan recursos
 del Presupuesto de Egresos de la Federación,
-
 deberán incluir dentro de sus proyectos de
 presupuestos, los tabuladores desglosados de las
 remuneraciones que se propone perciban sus
+
 servidores públicos. Estas propuestas deberán
 observar el procedimiento que para la aprobación del
 presupuesto de egresos, prevé el artículo 74 fracción
@@ -6801,10 +6797,10 @@ caso de que éste opte por un gobierno de
 coalición, con excepción de los titulares de los
 ramos de Defensa Nacional y Marina; del
 Secretario responsable del control interno del
-
 Ejecutivo Federal; del Secretario de Relaciones;
 de los embajadores y cónsules generales; de los
 empleados superiores del ramo de Relaciones; de
+
 los integrantes de los órganos colegiados
 encargados de la regulación en materia de
 telecomunicaciones,
@@ -6836,10 +6832,10 @@ un titular del poder ejecutivo provisional, quien
 convocará a elecciones conforme a las leyes
 constitucionales de la entidad federativa. El
 nombramiento del titular del poder ejecutivo local
-
 se hará por el Senado a propuesta en terna del
 Presidente de la República con aprobación de las
 dos terceras partes de los miembros presentes, y
+
 en los recesos, por la Comisión Permanente,
 conforme a las mismas reglas. El funcionario así
 nombrado, no podrá ser electo titular del poder
@@ -6865,10 +6861,10 @@ VII. Erigirse en Jurado de sentencia para conocer
 en juicio político de las faltas u omisiones que
 cometan los servidores públicos y que redunden
 en perjuicio de los intereses públicos
-
 fundamentales y de su buen despacho, en los
 términos del artículo 110 de esta Constitución.
 Fracción reformada DOF 28-12-1982
+
 VIII. Designar a los Ministros de la Suprema Corte
 de Justicia de la Nación, de entre la terna que
 someta a su consideración el Presidente de la
@@ -6893,9 +6889,9 @@ ley, previa comparecencia del titular de la
 secretaría del ramo. En caso de que el Senado no
 se pronuncie en dicho plazo, ésta se entenderá
 aprobada;
-
 Fracción adicionada DOF 08-12-2005. Derogada DOF 1510-2012. Adicionada DOF 10-02-2014. Reformada DOF
 26-03-2019
+
 XII. Nombrar a los comisionados del organismo
 garante que establece el artículo 6o. de esta
 Constitución, en los términos establecidos por la
@@ -6919,7 +6915,6 @@ régimen interior.
 II. Comunicarse en la Cámara colegisladora y con el
 Ejecutivo de la Unión, por medio de comisiones
 de su seno.
-
 III.
 
 Nombrar los empleados de su secretaría y
@@ -6957,9 +6952,9 @@ de entre sus miembros en ejercicio, un sustituto.
 La Comisión Permanente, además de las
 atribuciones que expresamente le confiere esta
 Constitución, tendrá las siguientes:
-
 I. Derogada.
 Fracción derogada DOF 26-03-2019
+
 II. Recibir, en su caso, la protesta del Presidente de
 la República;
 III.
@@ -6994,6 +6989,7 @@ Fracción derogada DOF 10-02-2014
 VI. Conceder licencia hasta por sesenta días
 naturales al Presidente de la República;
 Fracción reformada DOF 09-08-2012
+
 VII. Ratificar los nombramientos que el Presidente
 haga de embajadores, cónsules generales,
 empleados superiores de Hacienda, integrantes
@@ -7016,11 +7012,11 @@ y de gestión en el ejercicio de sus atribuciones y para
 decidir sobre su organización interna, funcionamiento
 y resoluciones, en los términos que disponga la ley.
 Párrafo reformado DOF 27-05-2015
-
 La función de fiscalización será ejercida conforme a
 los principios de legalidad, definitividad, imparcialidad
 y confiabilidad.
 Párrafo adicionado DOF 07-05-2008. Reformado DOF 2705-2015
+
 La Auditoría Superior de la Federación podrá iniciar
 el proceso de fiscalización a partir del primer día hábil
 del ejercicio fiscal siguiente, sin perjuicio de que las
@@ -7044,10 +7040,10 @@ aplicación de fondos y recursos de los Poderes de
 la Unión y de los entes públicos federales, así
 como realizar auditorías sobre el desempeño en el
 cumplimiento de los objetivos contenidos en los
-
 programas federales, a través de los informes que
 se rendirán en los términos que disponga la Ley.
 Párrafo reformado DOF 26-05-2015
+
 También fiscalizará directamente los recursos
 federales que administren o ejerzan las entidades
 federativas, los municipios y las demarcaciones
@@ -7079,10 +7075,10 @@ Párrafo reformado DOF 26-05-2015, 27-05-2015, 29-012016
 Las entidades fiscalizadas a que se refiere el
 párrafo anterior deberán llevar el control y registro
 contable, patrimonial y presupuestario de los
-
 recursos de la Federación que les sean
 transferidos y asignados, de acuerdo con los
 criterios que establezca la Ley.
+
 La Auditoría Superior de la Federación podrá
 solicitar y revisar, de manera casuística y
 concreta, información de ejercicios anteriores al de
@@ -7110,11 +7106,11 @@ las entidades fiscalizadas, así como respecto de
 ejercicios anteriores. Las entidades fiscalizadas
 proporcionarán la información que se solicite para
 la revisión, en los plazos y términos señalados por
-
 la Ley y, en caso de incumplimiento, serán
 aplicables las sanciones previstas en la misma. La
 Auditoría Superior de la Federación rendirá un
 informe específico a la Cámara de Diputados y, en
+
 su caso, promoverá las acciones que
 correspondan ante el Tribunal Federal de Justicia
 Administrativa, la Fiscalía Especializada en
@@ -7143,11 +7139,11 @@ la Auditoría Superior de la Federación, así como
 las justificaciones y aclaraciones que, en su caso,
 las entidades fiscalizadas hayan presentado sobre
 las mismas.
-
 Para tal efecto, de manera previa a la
 presentación del Informe General Ejecutivo y de
 los informes individuales de auditoría, se darán a
 conocer a las entidades fiscalizadas la parte que
+
 les corresponda de los resultados de su revisión, a
 efecto de que éstas presenten las justificaciones y
 aclaraciones que correspondan, las cuales
@@ -7174,10 +7170,10 @@ Ley.
 La Auditoría Superior de la Federación deberá
 pronunciarse en un plazo de 120 días hábiles
 sobre las respuestas emitidas por las entidades
-
 fiscalizadas, en caso de no hacerlo, se tendrán por
 atendidas las recomendaciones y acciones
 promovidas.
+
 En el caso de las recomendaciones, las entidades
 fiscalizadas deberán precisar ante la Auditoría
 Superior de la Federación las mejoras realizadas,
@@ -7208,11 +7204,11 @@ guardar reserva de sus actuaciones y
 observaciones hasta que rinda los informes
 individuales de auditoría y el Informe General
 Ejecutivo a la Cámara de Diputados a que se
-
 refiere esta fracción; la Ley establecerá las
 sanciones aplicables a quienes infrinjan esta
 disposición;
 Fracción reformada DOF 07-05-2008, 27-05-2015
+
 III. Investigar los actos u omisiones que impliquen
 alguna irregularidad o conducta ilícita en el
 ingreso, egreso, manejo, custodia y aplicación de
@@ -7238,11 +7234,11 @@ La Cámara de Diputados designará al titular de la
 Auditoría Superior de la Federación por el voto de las
 dos terceras partes de sus miembros presentes. La
 ley determinará el procedimiento para su designación.
-
 Dicho titular durará en su encargo ocho años y podrá
 ser nombrado nuevamente por una sola vez. Podrá
 ser removido, exclusivamente, por las causas graves
 que la ley señale, con la misma votación requerida
+
 para su nombramiento, o por las causas y conforme a
 los procedimientos previstos en el Título Cuarto de
 esta Constitución.
@@ -7270,11 +7266,11 @@ otra figura jurídica, que reciban o ejerzan recursos
 públicos federales, deberán
 proporcionar la
 información y documentación que solicite la Auditoría
-
 Superior de la Federación, de conformidad con los
 procedimientos establecidos en las leyes y sin
 perjuicio de la competencia de otras autoridades y de
 los derechos de los usuarios del sistema financiero.
+
 En caso de no proporcionar la información, los
 responsables serán sancionados en los términos que
 establezca la Ley.
@@ -7298,8 +7294,8 @@ cargo de presidente de los Estados Unidos Mexicanos
 puede ser revocado en los términos establecidos en
 esta Constitución.
 Artículo reformado DOF 20-12-2019
-
 Artículo 82. Para ser Presidente se requiere:
+
 I. Ser ciudadano mexicano por nacimiento, en pleno
 goce de sus derechos, hijo de padre o madre
 mexicanos y haber residido en el país al menos
@@ -7327,9 +7323,9 @@ ejecutivo de alguna entidad federativa, a menos
 de que se separe de su puesto seis meses antes
 del día de la elección; y
 Fracción reformada DOF 08-01-1943, 08-10-1974, 1906-2007, 10-02-2014, 29-01-2016
-
 VII. No estar comprendido en alguna de las causas
 de incapacidad establecidas en el artículo 83.
+
 Artículo reformado DOF 22-01-1927
 Artículo 83. El Presidente entrará a ejercer su
 encargo el 1o. de octubre y durará en él seis años. El
@@ -7358,10 +7354,10 @@ podrá remover o designar a los Secretarios de Estado
 sin autorización previa de la Cámara de Senadores.
 Asimismo, entregará al Congreso de la Unión un
 informe de labores en un plazo no mayor a diez días,
-
 contados a partir del momento en que termine su
 encargo.
 Párrafo reformado DOF 10-02-2014
+
 Cuando la falta absoluta del Presidente ocurriese en
 los dos primeros años del período respectivo, si el
 Congreso de la Unión se encontrase en sesiones y
@@ -7388,11 +7384,11 @@ expida la convocatoria a elecciones presidenciales en
 los términos del párrafo anterior.
 Cuando la falta absoluta del Presidente ocurriese en
 los cuatro últimos años del período respectivo, si el
-
 Congreso de la Unión se encontrase en sesiones,
 designará al presidente substituto que deberá concluir
 el período, siguiendo, en lo conducente, el mismo
 procedimiento que en el caso del presidente interino.
+
 Si el Congreso no estuviere reunido, la Comisión
 Permanente lo convocará inmediatamente a sesiones
 extraordinarias para que se constituya en Colegio
@@ -7416,10 +7412,10 @@ haya concluido y será presidente interino el que haya
 designado el Congreso, en los términos del artículo
 anterior.
 Párrafo reformado DOF 13-11-2007, 09-08-2012
-
 Si al comenzar el periodo constitucional hubiese
 falta absoluta del Presidente de la República, asumirá
 provisionalmente el cargo el Presidente de la Cámara
+
 de Senadores, en tanto el Congreso designa al
 presidente interino, conforme al artículo anterior.
 Párrafo reformado DOF 09-08-2012
@@ -7445,9 +7441,9 @@ siguiente protesta: "Protesto guardar y hacer guardar
 la Constitución Política de los Estados Unidos
 Mexicanos y las leyes que de ella emanen, y
 desempeñar leal y patrióticamente el cargo de
-
 Presidente de la República que el pueblo me ha
 conferido, mirando en todo por el bien y prosperidad
+
 de la Unión; y si así no lo hiciere que la Nación me lo
 demande."
 Si por cualquier circunstancia el Presidente no
@@ -7473,8 +7469,8 @@ Senadores o de la Comisión Permanente.
 Artículo reformado DOF 21-10-1966, 29-08-2008
 Artículo 89. Las facultades y obligaciones del
 Presidente, son las siguientes:
-
 Párrafo reformado DOF 10-08-1987, 25-10-1993, 12-022007
+
 I. Promulgar y ejecutar las leyes que expida el
 Congreso de la Unión, proveyendo en la esfera
 administrativa a su exacta observancia.
@@ -7500,17 +7496,16 @@ ocupará el cargo la persona que designe el
 Presidente de la República;
 Párrafo adicionado DOF 10-02-2014
 Fracción reformada DOF 08-10-1974, 10-08-1987, 25-101993, 31-12-1994, 09-08-2012
-
 III.
 
 Nombrar, con aprobación del Senado, a los
 embajadores, cónsules generales, empleados
+
 superiores de Hacienda y a los integrantes de los
 órganos colegiados encargados de la regulación
 en materia de telecomunicaciones, energía y
 competencia económica;
 Fracción reformada DOF 09-08-2012
-
 IV. Nombrar, con aprobación del Senado, los
 Coroneles y demás oficiales superiores del
 Ejército, Armada y Fuerza Aérea Nacionales;
@@ -7532,10 +7527,10 @@ Fracción reformada DOF 10-02-1944, 05-04-2004
 VII. Disponer de la Guardia Nacional en los
 términos que señale la ley;
 Fracción reformada DOF 26-03-2019
-
 VIII. Declarar la guerra en nombre de los Estados
 Unidos Mexicanos, previa ley del Congreso de la
 Unión.
+
 IX. Intervenir en la designación del Fiscal General
 de la República y removerlo, en términos de lo
 dispuesto en el artículo 102, Apartado A, de esta
@@ -7560,7 +7555,6 @@ protección y promoción de los derechos humanos
 y la lucha por la paz y la seguridad
 internacionales;
 Fracción reformada DOF 11-05-1988, 12-02-2007, 10-062011
-
 XI. Convocar
 al
 Congreso
@@ -7569,6 +7563,7 @@ sesiones
 extraordinarias, cuando lo acuerde la Comisión
 Permanente.
 Fracción reformada DOF 24-11-1923
+
 XII. Facilitar al Poder Judicial los auxilios que
 necesite para el ejercicio expedito de sus
 funciones.
@@ -7591,11 +7586,11 @@ Comisión Permanente;
 Fracción reformada DOF 21-10-1966, 31-12-1994
 XVII. En cualquier momento, optar por un gobierno
 de coalición con uno o varios de los partidos
-
 políticos representados en el Congreso de la
 Unión.
 El gobierno de coalición se regulará por el
 convenio y el programa respectivos, los cuales
+
 deberán ser aprobados por mayoría de los
 miembros presentes de la Cámara de Senadores.
 El convenio establecerá las causas de la
@@ -7621,11 +7616,11 @@ ley;
 Fracción adicionada DOF 20-08-1928. Derogada DOF 2812-1982. Adicionada DOF 07-02-2014
 XX. Las demás que le confiere expresamente esta
 Constitución.
-
 Fracción adicionada DOF 20-08-1928
 Artículo 90. La Administración Pública Federal será
 centralizada y paraestatal conforme a la Ley Orgánica
 que expida el Congreso, que distribuirá los negocios
+
 del orden administrativo de la Federación que estarán
 a cargo de las Secretarías de Estado y definirá las
 bases generales de creación de las entidades
@@ -7648,12 +7643,12 @@ Párrafo adicionado DOF 10-02-2014
 Artículo reformado DOF 21-04-1981, 02-08-2007
 Artículo 91. Para ser secretario del Despacho se
 requiere: ser ciudadano mexicano por nacimiento,
-
 estar en ejercicio de sus derechos y tener treinta años
 cumplidos.
 Artículo original DOF 05-02-1917
 Artículo 92. Todos los reglamentos, decretos,
 acuerdos y órdenes del Presidente deberán estar
+
 firmados por el Secretario de Estado a que el asunto
 corresponda, y sin este requisito no serán
 obedecidos.
@@ -7676,12 +7671,12 @@ Las Cámaras, a pedido de una cuarta parte de sus
 miembros, tratándose de los diputados, y de la mitad,
 si se trata de los Senadores, tienen la facultad de
 integrar comisiones para investigar el funcionamiento
-
 de dichos organismos descentralizados y empresas
 de participación estatal mayoritaria. Los resultados de
 las investigaciones se harán del conocimiento del
 Ejecutivo Federal.
 Párrafo adicionado DOF 06-12-1977
+
 Las Cámaras podrán requerir información o
 documentación a los titulares de las dependencias y
 entidades del gobierno federal, mediante pregunta por
@@ -7702,7 +7697,6 @@ Regionales, en Tribunales Colegiados de Circuito, en
 Tribunales Colegiados de Apelación y en Juzgados de
 Distrito.
 Párrafo reformado DOF 31-12-1994, 22-08-1996, 11-061999, 11-03-2021
-
 La administración, vigilancia y disciplina del Poder
 Judicial de la Federación, con excepción de la
 Suprema Corte de Justicia de la Nación, estarán a
@@ -7710,6 +7704,7 @@ cargo del Consejo de la Judicatura Federal en los
 términos que, conforme a las bases que señala esta
 Constitución, establezcan las leyes.
 Párrafo adicionado DOF 11-06-1999
+
 La Suprema Corte de Justicia de la Nación se
 compondrá de once integrantes, Ministras y Ministros,
 y funcionará en Pleno o en Salas.
@@ -7731,7 +7726,6 @@ establece.
 Párrafo reformado DOF 22-08-1996, 11-03-2021
 El Consejo de la Judicatura Federal determinará el
 número, división en circuitos, competencia territorial y
-
 especialización por materias, entre las que se incluirá
 la
 de
@@ -7746,6 +7740,7 @@ Tribunales
 Colegiados de Circuito, de los Tribunales Colegiados
 de Apelación y de los Juzgados de Distrito.
 Párrafo reformado DOF 31-12-1994, 11-06-2013, 11-032021
+
 Asimismo,
 mediante
 acuerdos
@@ -7769,13 +7764,13 @@ Tribunales Colegiados de Circuito, para mayor
 prontitud en el despacho de los mismos. Dichos
 acuerdos surtirán efectos después de publicados.
 Párrafo reformado DOF 31-12-1994, 11-06-1999, 06-062011, 11-03-2021
-
 Los juicios de amparo, las controversias
 constitucionales y las acciones de inconstitucionalidad
 se substanciarán y resolverán de manera prioritaria
 cuando alguna de las Cámaras del Congreso, a
 través de su presidente, o el Ejecutivo Federal, por
 conducto del consejero jurídico del gobierno, justifique
+
 la urgencia atendiendo al interés social o al orden
 público, en los términos de lo dispuesto por las leyes
 reglamentarias.
@@ -7798,13 +7793,13 @@ La remuneración que perciban por sus servicios los
 Ministros de la Suprema Corte, los Magistrados de
 Circuito, los Jueces de Distrito y los Consejeros de la
 Judicatura Federal, así como los Magistrados
-
 Electorales, no podrá ser disminuida durante su
 encargo.
 Párrafo reformado DOF 31-12-1994, 22-08-1996
 Los Ministros de la Suprema Corte de Justicia
 durarán en su encargo quince años, sólo podrán ser
 removidos del mismo en los términos del Título
+
 Cuarto de esta Constitución y, al vencimiento de su
 periodo, tendrán derecho a un haber por retiro.
 Párrafo reformado DOF 31-12-1994, 06-06-2011
@@ -7831,6 +7826,7 @@ antigüedad mínima de diez años, título profesional
 de licenciado en derecho, expedido por autoridad
 o institución legalmente facultada para ello;
 Fracción reformada DOF 15-12-1934, 31-12-1994
+
 IV. Gozar de buena reputación y no haber sido
 condenado por delito que amerite pena corporal
 de más de un año de prisión; pero si se tratare de
@@ -7855,12 +7851,12 @@ servido con eficiencia, capacidad y probidad en la
 impartición de justicia o que se hayan distinguido por
 su honorabilidad, competencia y antecedentes
 profesionales en el ejercicio de la actividad jurídica.
-
 Párrafo adicionado DOF 31-12-1994
 Artículo 96. Para nombrar a los Ministros de la
 Suprema Corte de Justicia, el Presidente de la
 República someterá una terna a consideración del
 Senado, el cual, previa comparecencia de las
+
 personas propuestas, designará al Ministro que deba
 cubrir la vacante. La designación se hará por el voto
 de las dos terceras partes de los miembros del
@@ -7884,13 +7880,13 @@ de acuerdo a los requisitos y procedimientos que
 establezcan las disposiciones aplicables. Durarán seis
 años en el ejercicio de su encargo, al término de los
 cuales, si fueran ratificados, sólo podrán ser privados
-
 de sus puestos en los casos y conforme a los
 procedimientos que establezca la ley.
 Párrafo reformado DOF 11-03-2021
 El ingreso, formación y permanencia de las
 Magistradas y los Magistrados de Circuito, las Juezas
 y los Jueces de Distrito, y demás personal de la
+
 carrera judicial del Poder Judicial de la Federación, se
 sujetarán a la regulación establecida en las
 disposiciones aplicables.
@@ -7912,13 +7908,13 @@ Cada cuatro años, el Pleno elegirá de entre sus
 miembros al Presidente de la Suprema Corte de
 Justicia de la Nación, el cual no podrá ser reelecto
 para el período inmediato posterior.
-
 Cada Ministro de la Suprema Corte de Justicia, al
 entrar a ejercer su encargo, protestará ante el
 Senado, en la siguiente forma:
 Presidente: “¿Protestáis desempeñar leal y
 patrióticamente el cargo de Ministro de la Suprema
 Corte de Justicia de la Nación que se os ha
+
 conferido y guardar y hacer guardar la Constitución
 Política de los Estados Unidos Mexicanos y las leyes
 que de ella emanen, mirando en todo por el bien y
@@ -7930,20 +7926,20 @@ Los Magistrados de Circuito y los Jueces de Distrito
 protestarán ante la Suprema Corte de Justicia y el
 Consejo de la Judicatura Federal.
 Párrafo reformado DOF 11-06-1999
-Artículo reformado DOF 20-08-1928, 11-09-1940, 1902-1951, 06-12-1977, 28-12-1982, 10-08-1987, 31-12-1994
 Reforma DOF 13-11-2007: Derogó del artículo el entonces
 párrafo tercero
+Artículo reformado DOF 20-08-1928, 11-09-1940, 1902-1951, 06-12-1977, 28-12-1982, 10-08-1987, 31-12-1994
 Artículo 98. Cuando la falta de un Ministro
 excediere de un mes, el Presidente de la República
 someterá el nombramiento de un Ministro interino a la
 aprobación del Senado, observándose lo dispuesto en
 el artículo 96 de esta Constitución.
-
 Si faltare un Ministro por defunción o por cualquier
 causa de separación definitiva, el Presidente
 someterá un nuevo nombramiento a la aprobación del
 Senado, en los términos del artículo 96 de esta
 Constitución.
+
 Las renuncias de los Ministros de la Suprema Corte
 de Justicia solamente procederán por causas graves;
 serán sometidas al Ejecutivo y, si éste las acepta, las
@@ -7966,7 +7962,6 @@ Poder Judicial de la Federación.
 Para el ejercicio de sus atribuciones, el Tribunal
 funcionará en forma permanente con una Sala
 Superior y salas regionales; sus sesiones de
-
 resolución serán públicas, en los términos que
 determine la ley. Contará con el personal jurídico y
 administrativo
@@ -7975,6 +7970,7 @@ para
 su
 adecuado
 funcionamiento.
+
 La Sala Superior se integrará por siete Magistrados
 Electorales. El Presidente del Tribunal será elegido
 por la Sala Superior, de entre sus miembros, para
@@ -7999,10 +7995,10 @@ elección de Presidente de los Estados Unidos
 Mexicanos, una vez resueltas las impugnaciones
 que se hubieren interpuesto sobre la misma,
 procediendo a formular, en su caso, la declaración
-
 de validez de la elección y la de Presidente Electo
 respecto del candidato que hubiese obtenido el
 mayor número de votos.
+
 III. Las impugnaciones de actos y resoluciones de
 la autoridad electoral federal, distintas a las
 señaladas en las dos fracciones anteriores, que
@@ -8030,11 +8026,11 @@ ciudadanos de votar, ser votado y de afiliación
 libre y pacífica para tomar parte en los asuntos
 políticos del país, en los términos que señalen
 esta Constitución y las leyes. Para que un
-
 ciudadano pueda acudir a la jurisdicción del
 Tribunal por violaciones a sus derechos por el
 partido político al que se encuentre afiliado,
 deberá haber agotado previamente las instancias
+
 de solución de conflictos previstas en sus normas
 internas, la ley establecerá las reglas y plazos
 aplicables;
@@ -8058,7 +8054,6 @@ como por la realización de actos anticipados de
 precampaña o de campaña, e imponer las
 sanciones que correspondan, y
 Fracción adicionada DOF 10-02-2014
-
 X.
 
 Las demás que señale la ley.
@@ -8091,9 +8086,9 @@ criterio debe prevalecer. Las resoluciones que se
 dicten en este supuesto no afectarán los asuntos ya
 resueltos.
 Párrafo reformado DOF 11-03-2021
-
 La organización del Tribunal, la competencia de las
 salas, los procedimientos para la resolución de los
+
 asuntos de su competencia, así como los
 mecanismos para fijar criterios de jurisprudencia
 obligatorios en la materia, serán los que determinen
@@ -8119,11 +8114,11 @@ de Presupuesto del Poder Judicial de la Federación.
 Asimismo, el Tribunal expedirá su Reglamento Interno
 y los acuerdos generales para su adecuado
 funcionamiento.
-
 Los Magistrados Electorales que integren las salas
 Superior y regionales serán elegidos por el voto de las
 dos terceras partes de los miembros presentes de la
 Cámara de Senadores a propuesta de la Suprema
+
 Corte de Justicia de la Nación. La elección de quienes
 las integren será escalonada, conforme a las reglas y
 al procedimiento que señale la ley.
@@ -8147,12 +8142,12 @@ superiores.
 En caso de vacante definitiva se nombrará a un
 nuevo Magistrado por el tiempo restante al del
 nombramiento original.
-
 El personal del Tribunal regirá sus relaciones de
 trabajo conforme a las disposiciones aplicables al
 Poder Judicial de la Federación y a las reglas
 especiales y excepciones que señale la ley. El
 ingreso, formación, permanencia y demás aspectos
+
 inherentes a las servidoras y los servidores públicos
 que pertenezcan al servicio de carrera judicial se
 sujetarán a la regulación establecida en las
@@ -8176,7 +8171,6 @@ Párrafo reformado DOF 11-06-1999
 Todos los Consejeros deberán reunir los requisitos
 señalados en el artículo 95 de esta Constitución y ser
 personas que se hayan distinguido por su capacidad
-
 profesional
 y
 administrativa,
@@ -8186,6 +8180,7 @@ honorabilidad en el ejercicio de sus actividades, en el
 caso de los designados por la Suprema Corte,
 deberán gozar, además con reconocimiento en el
 ámbito judicial.
+
 Párrafo adicionado DOF 11-06-1999
 El Consejo funcionará en Pleno o en comisiones. El
 Pleno resolverá sobre la designación, adscripción,
@@ -8209,12 +8204,12 @@ regirá por los principios de excelencia, objetividad,
 imparcialidad, profesionalismo, independencia y
 paridad de género. El Consejo de la Judicatura
 Federal contará con una Escuela Federal de
-
 Formación Judicial encargada de implementar los
 procesos de formación, capacitación y actualización
 del personal jurisdiccional y administrativo del Poder
 Judicial de la Federación y sus órganos auxiliares, así
 como de llevar a cabo los concursos de oposición
+
 para acceder a las distintas categorías de la carrera
 judicial en términos de las disposiciones aplicables.
 Párrafo reformado DOF 11-03-2021
@@ -8240,11 +8235,11 @@ Consejo apruebe, por mayoría de cuando menos
 ocho votos. La ley establecerá los términos y
 procedimientos para el ejercicio de estas atribuciones.
 Párrafo reformado DOF 11-06-1999
-
 Las decisiones del Consejo serán definitivas e
 inatacables y, por lo tanto, no procede juicio ni
 recurso alguno, en contra de las mismas, salvo las
 que se refieran a la adscripción, ratificación y
+
 remoción de Magistradas, Magistrados, Juezas y
 Jueces las cuales podrán ser revisadas por la
 Suprema Corte de Justicia, únicamente para verificar
@@ -8269,12 +8264,12 @@ Párrafo adicionado DOF 11-03-2021
 La Suprema Corte de Justicia elaborará su propio
 presupuesto y el Consejo lo hará para el resto del
 Poder Judicial de la Federación, sin perjuicio de lo
-
 dispuesto en el párrafo séptimo del artículo 99 de esta
 Constitución. Los presupuestos así elaborados serán
 remitidos por el Presidente de la Suprema Corte para
 su inclusión en el proyecto de Presupuesto de
 Egresos de la Federación. La administración de la
+
 Suprema Corte de Justicia corresponderá a su
 Presidente.
 Párrafo reformado DOF 11-06-1999
@@ -8299,11 +8294,11 @@ los dos años siguientes a la fecha de su retiro, actuar
 como patronos, abogados o representantes en
 cualquier proceso ante los órganos del Poder Judicial
 de la Federación.
-
 Párrafo reformado DOF 22-08-1996
 Durante dicho plazo, las personas que se hayan
 desempeñado como Ministros, salvo que lo hubieran
 hecho con el carácter de provisional o interino, no
+
 podrán ocupar los cargos señalados en la fracción VI
 del artículo 95 de esta Constitución.
 Los impedimentos de este artículo serán aplicables
@@ -8327,9 +8322,9 @@ tener cuando menos treinta y cinco años
 cumplidos el día de la designación; contar, con
 antigüedad mínima de diez años, con título
 profesional de licenciado en derecho; gozar de
-
 buena reputación, y no haber sido condenado por
 delito doloso.
+
 El Fiscal General durará en su encargo nueve
 años, y será designado y removido conforme a lo
 siguiente:
@@ -8354,9 +8349,9 @@ consideración del Senado.
 III. El Senado, con base en la terna y previa
 comparecencia de las personas propuestas,
 designará al Fiscal General con el voto de las
-
 dos terceras partes de los miembros presentes
 dentro del plazo de diez días.
+
 En caso de que el Ejecutivo no envíe la terna a
 que se refiere la fracción anterior, el Senado
 tendrá diez días para designar al Fiscal General
@@ -8382,9 +8377,9 @@ Permanente lo convocará de inmediato a
 sesiones extraordinarias para la designación o
 formulación de objeción a la remoción del Fiscal
 General.
-
 VI. Las ausencias del Fiscal General serán
 suplidas en los términos que determine la ley.
+
 Corresponde al Ministerio Público de la
 Federación la persecución, ante los tribunales, de
 todos los delitos del orden federal; y, por lo mismo,
@@ -8412,11 +8407,20 @@ entenderá que no tiene objeción.
 La ley establecerá las bases para la formación y
 actualización de los servidores públicos de la
 Fiscalía, así como para el desarrollo de la carrera
-
 profesional de los mismos, la cual se regirá por los
 principios de legalidad, objetividad, eficiencia,
-profesionalismo, honradez y respeto a los
+
+profesionalismo, honradez
 derechos humanos.
+
+y
+
+respeto
+
+a
+
+los
+
 El Fiscal General presentará anualmente a los
 Poderes Legislativo y Ejecutivo de la Unión un
 informe de actividades. Comparecerá ante
@@ -8445,9 +8449,9 @@ de la Federación, que violen estos derechos.
 Los organismos a que se refiere el párrafo
 anterior, formularán recomendaciones públicas, no
 vinculatorias, denuncias y quejas ante las
-
 autoridades respectivas. Todo servidor público
 está obligado a responder las recomendaciones
+
 que les presenten estos organismos. Cuando las
 recomendaciones emitidas no sean aceptadas o
 cumplidas por las autoridades o servidores
@@ -8478,9 +8482,9 @@ Las Constituciones de las entidades federativas
 establecerán y garantizarán la autonomía de los
 organismos de protección de los derechos
 humanos.
-
 Párrafo adicionado DOF 10-06-2011. Reformado DOF
 29-01-2016
+
 La Comisión Nacional de los Derechos Humanos
 tendrá un Consejo Consultivo integrado por diez
 consejeros que serán elegidos por el voto de las
@@ -8508,10 +8512,10 @@ como de los integrantes del Consejo Consultivo, y
 de titulares de los organismos de protección de los
 derechos humanos de las entidades federativas,
 se ajustarán a un procedimiento de consulta
-
 pública, que deberá ser transparente, en los
 términos y condiciones que determine la ley.
 Párrafo adicionado DOF 10-06-2011
+
 El Presidente de la Comisión Nacional de los
 Derechos Humanos presentará anualmente a los
 Poderes de la Unión un informe de actividades. Al
@@ -8531,13 +8535,14 @@ la Unión, los titulares de los poderes ejecutivos de
 las entidades federativas o las Legislaturas de
 éstas.
 Párrafo adicionado DOF 10-06-2011. Reformado DOF 2901-2016
-Apartado B adicionado DOF 28-01-1992. Reformado 1309-1999
+Apartado B adicionado DOF 28-01-1992. Reformado DOF
+13-09-1999
 Artículo reformado DOF 11-09-1940, 25-10-1967
 Artículo 103. Los Tribunales de la Federación
 resolverán toda controversia que se suscite
-
 I. Por normas generales, actos u omisiones de la
 autoridad que violen los derechos humanos
+
 reconocidos y las garantías otorgadas para su
 protección por esta Constitución, así como por los
 tratados internacionales de los que el Estado
@@ -8565,9 +8570,9 @@ mercantil que se susciten sobre el cumplimiento y
 aplicación de leyes federales o de los tratados
 internacionales celebrados por el Estado
 Mexicano. A elección del actor y cuando sólo se
-
 afecten intereses particulares, podrán conocer de
 ellas, los jueces y tribunales del orden común.
+
 Las sentencias de primera instancia podrán ser
 apelables ante el superior inmediato del juez que
 conozca del asunto en primer grado;
@@ -8598,10 +8603,10 @@ VI. De las controversias y de las acciones a que
 se refiere el artículo 105, mismas que serán del
 conocimiento exclusivo de la Suprema Corte de
 Justicia de la Nación;
-
 VII. De las que surjan entre una entidad federativa
 y uno o más vecinos de otra, y
 Fracción reformada DOF 29-01-2016
+
 VIII. De los casos concernientes a miembros del
 Cuerpo Diplomático y Consular.
 Artículo reformado DOF 18-01-1934, 30-12-1946, 2510-1967, 08-10-1974, 10-08-1987, 25-10-1993, 31-121994, 06-06-2011
@@ -8621,9 +8626,9 @@ aquél y cualquiera de las Cámaras de éste o, en
 su caso, la Comisión Permanente;
 Inciso reformado DOF 29-01-2016
 d) Una entidad federativa y otra;
-
 Inciso reformado DOF 29-01-2016
 e) Se deroga.
+
 Inciso derogado DOF 29-01-2016
 f) Se deroga.
 Inciso derogado DOF 29-01-2016
@@ -8644,8 +8649,8 @@ Inciso reformado DOF 11-06-2013. Derogado DOF 29-012016. Adicionado DOF 11-03-20
 l) Dos órganos constitucionales autónomos
 federales, y entre uno de éstos y el Poder
 Ejecutivo de la Unión o el Congreso de la Unión.
-
 Inciso adicionado DOF 11-06-2013. Reformado DOF 0702-2014, 11-03-2021
+
 Siempre que las controversias versen sobre
 disposiciones generales de las entidades
 federativas, de los Municipios o de las
@@ -8676,11 +8681,11 @@ tratados
 internacionales de los que el Estado Mexicano sea
 parte.
 Párrafo adicionado DOF 11-03-2021
-
 II.
 
 De las acciones de inconstitucionalidad que
 tengan por objeto plantear la posible contradicción
+
 entre una norma de carácter general y esta
 Constitución.
 Párrafo reformado DOF 22-08-1996
@@ -8705,10 +8710,10 @@ entidades federativas;
 Inciso reformado DOF 10-02-2014
 d) El equivalente al treinta y tres por ciento de los
 integrantes de alguna de las Legislaturas de las
-
 entidades federativas en contra de las leyes
 expedidas por el propio órgano;
 Inciso reformado DOF 22-08-1996, 29-01-2016
+
 e) Se deroga.
 Inciso reformado DOF 22-08-1996. Derogado DOF 29-012016
 f) Los partidos políticos con registro ante el
@@ -8737,8 +8742,8 @@ derechos
 humanos
 equivalentes en las entidades federativas, en
 contra de leyes expedidas por las Legislaturas;
-
 Inciso adicionado DOF 14-09-2006. Reformado DOF 1006-2011, 29-01-2016
+
 h) El organismo garante que establece el artículo
 6° de esta Constitución en contra de leyes de
 carácter federal y local, así como de tratados
@@ -8764,13 +8769,13 @@ Las leyes electorales federal y locales deberán
 promulgarse y publicarse por lo menos noventa
 días antes de que inicie el proceso electoral en
 que vayan a aplicarse, y durante el mismo no
-
 podrá
 haber
 modificaciones
 legales
 fundamentales.
 Párrafo adicionado DOF 22-08-1996
+
 Las resoluciones de la Suprema Corte de Justicia
 sólo podrán declarar la invalidez de las normas
 impugnadas, siempre que fueren aprobadas por
@@ -8795,10 +8800,10 @@ legales aplicables de esta materia.
 En caso de incumplimiento de las resoluciones a
 que se refieren las fracciones I y II de este artículo se
 aplicarán, en lo conducente, los procedimientos
-
 establecidos en los dos primeros párrafos de la
 fracción XVI del artículo 107 de esta Constitución.
 Artículo reformado DOF 25-10-1967, 25-10-1993, 3112-1994
+
 Artículo 106. Corresponde al Poder Judicial de la
 Federación, en los términos de la ley respectiva,
 dirimir las controversias que, por razón de
@@ -8822,10 +8827,10 @@ reconocidos por esta Constitución y con ello se
 afecte su esfera jurídica, ya sea de manera
 directa o en virtud de su especial situación frente
 al orden jurídico.
-
 Tratándose de actos o resoluciones provenientes
 de tribunales judiciales, administrativos o del
 trabajo, el quejoso deberá aducir ser titular de un
+
 derecho subjetivo que se afecte de manera
 personal y directa;
 Fracción reformada DOF 06-06-2011
@@ -8852,10 +8857,10 @@ Suprema Corte de Justicia de la Nación emitirá,
 siempre que fuere aprobada por una mayoría de
 cuando menos ocho votos, la declaratoria general
 de inconstitucionalidad, en la cual se fijarán sus
-
 alcances y condiciones en los términos de la ley
 reglamentaria.
 Párrafo reformado DOF 11-03-2021
+
 Lo dispuesto en los dos párrafos anteriores no
 será aplicable a normas generales en materia
 tributaria.
@@ -8881,10 +8886,10 @@ ejidales o comunales, o de los ejidatarios o
 comuneros, el sobreseimiento por inactividad
 procesal ni la caducidad de la instancia, pero uno
 y otra sí podrán decretarse en su beneficio.
-
 Cuando se reclamen actos que afecten los
 derechos colectivos del núcleo tampoco
 procederán desistimiento ni el consentimiento
+
 expreso de los propios actos, salvo que el primero
 sea acordado por la Asamblea General o el
 segundo emane de ésta;
@@ -8912,9 +8917,9 @@ invocaron en un primer amparo, ni el Tribunal
 Colegiado correspondiente las hizo valer de
 oficio en los casos en que proceda la suplencia
 de la queja, no podrán ser materia de concepto
-
 de violación, ni de estudio oficioso en juicio de
 amparo posterior.
+
 La parte que haya obtenido sentencia favorable
 y la que tenga interés jurídico en que subsista
 el acto reclamado, podrá presentar amparo en
@@ -8946,8 +8951,8 @@ promovidos
 por
 el
 sentenciado;
-
 Inciso reformado DOF 10-08-1987, 06-06-2011
+
 b) Contra actos en juicio cuya ejecución sea de
 imposible reparación, fuera de juicio o después
 de concluido, una vez agotados los recursos
@@ -8974,9 +8979,9 @@ otorgamiento de la suspensión provisional,
 independientemente de que el acto en sí mismo
 considerado sea o no susceptible de ser
 suspendido de acuerdo con dicha ley.
-
 No existe obligación de agotar tales recursos o
 medios de defensa si el acto reclamado carece de
+
 fundamentación o cuando sólo se aleguen
 violaciones directas a esta Constitución;
 Fe de erratas a la fracción DOF 14-03-1951. Fracción
@@ -9033,8 +9038,8 @@ Fracción reformada DOF 25-10-1967, 06-08-1979
 VI. En los casos a que se refiere la fracción
 anterior, la ley reglamentaria señalará el
 procedimiento y los términos a que deberán
-
 someterse los Tribunales Colegiados de Circuito
+
 y, en su caso, la Suprema Corte de Justicia de la
 Nación para dictar sus resoluciones;
 Fracción reformada DOF 25-10-1967, 06-08-1979, 10-081987, 06-06-2011
@@ -9062,8 +9067,8 @@ Justicia:
 Párrafo reformado DOF 31-12-1994, 11-03-2021
 a) Cuando habiéndose impugnado en la demanda
 de amparo normas generales por estimarlas
-
 directamente violatorias de esta Constitución,
+
 subsista en el recurso el problema de
 constitucionalidad.
 Inciso reformado DOF 25-10-1993, 06-06-2011
@@ -9091,8 +9096,8 @@ recurso de revisión en contra de las sentencias
 que resuelvan sobre la constitucionalidad de
 normas generales, establezcan la interpretación
 directa de un precepto de esta Constitución u
-
 omitan decidir sobre tales cuestiones cuando
+
 hubieren sido planteadas, siempre que a juicio de
 la Suprema Corte de Justicia de la Nación el
 asunto revista un interés excepcional en materia
@@ -9122,9 +9127,9 @@ ocasionar al tercero interesado. La suspensión
 quedará sin efecto si éste último da
 contragarantía para asegurar la reposición de las
 cosas al estado que guardaban si se concediese
-
 el amparo y a pagar los daños y perjuicios
 consiguientes;
+
 Fe de erratas a la fracción DOF 14-03-1951. Fracción
 reformada DOF 25-10-1967, 06-06-2011
 XI. La demanda de amparo directo se presentará
@@ -9150,9 +9155,9 @@ que reside la autoridad responsable, la ley
 determinará el juzgado o tribunal ante el que se
 ha de presentar el escrito de amparo, el que
 podrá suspender provisionalmente el acto
-
 reclamado, en los casos y términos que la misma
 ley establezca.
+
 Fe de erratas a la fracción DOF 14-03-1951. Fracción
 reformada DOF 25-10-1967, 31-12-1994, 11-03-2021
 XIII. Cuando los Tribunales Colegiados de Circuito
@@ -9180,9 +9185,9 @@ denunciar la contradicción ante la Suprema Corte
 de Justicia, con el objeto de que el Pleno o la
 Sala respectiva decida el criterio que deberá
 prevalecer.
-
 Cuando las Salas de la Suprema Corte de
 Justicia de la Nación sustenten criterios
+
 contradictorios en los juicios de amparo cuyo
 conocimiento les competa, los ministros, los
 Tribunales Colegiados de Circuito y sus
@@ -9210,9 +9215,9 @@ DOF 25-10-1967, 31-12-1994, 06-06-2011, 10-02-2014,
 XIV. Se deroga;
 Fracción reformada DOF 25-10-1967, 17-02-1975.
 Derogada DOF 06-06-2011
-
 XV. El Fiscal General de la República o el Agente
 del Ministerio Público de la Federación que al
+
 efecto designe, será parte en todos los juicios de
 amparo en los que el acto reclamado provenga de
 procedimientos del orden penal y aquéllos que
@@ -9241,9 +9246,9 @@ reclamado, la Suprema Corte de Justicia de la
 Nación, de acuerdo con el procedimiento
 establecido por la ley reglamentaria, procederá a
 separar de su cargo al titular de la autoridad
-
 responsable, y dará vista al Ministerio Público
 Federal, salvo que no hubiera actuado
+
 dolosamente y deje sin efectos el acto repetido
 antes de que sea emitida la resolución de la
 Suprema Corte de Justicia de la Nación.
@@ -9271,9 +9276,9 @@ Fracción reformada DOF 31-12-1994, 06-06-2011
 XVII. La autoridad responsable que desobedezca un
 auto de suspensión o que, ante tal medida,
 admita por mala fe o negligencia fianza o
-
 contrafianza que resulte ilusoria o insuficiente,
 será sancionada penalmente;
+
 Fracción reformada DOF 06-06-2011
 XVIII. Se deroga.
 Fracción derogada DOF 03-09-1993
@@ -10323,7 +10328,7 @@ de los Servidores Públicos de los Estados.
 Los magistrados y los jueces percibirán una
 remuneración adecuada e irrenunciable, la cual no
 podrá ser disminuida durante su encargo.
-Reforma DOF 31-12-1994: Derogó de esta fracción el
+Reforma DOF 31-12-1994: Derogó de la fracción el
 entonces párrafo quinto
 IV. De conformidad con las bases establecidas en
 esta Constitución y las leyes generales en la
