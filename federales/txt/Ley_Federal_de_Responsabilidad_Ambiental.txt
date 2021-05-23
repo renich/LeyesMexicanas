@@ -5,9 +5,10 @@ Versión PDF para vista en dispositivo móvil Android y Apple iOS
 
 LEY FEDERAL DE RESPONSABILIDAD
 AMBIENTAL
-TEXTO VIGENTE
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 7 de junio de 2013
+TEXTO VIGENTE
+Última reforma publicada DOF 20-05-2021
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -22,16 +23,18 @@ UNIDOS MEXICANOS, D E C R E T A :
 SE
 EXPIDE
 LA
+RESPONSABILIDAD
+
 LEY
 FEDERAL
-DE
-RESPONSABILIDAD
 AMBIENTAL
 Y
+
+DE
 SE
+
 REFORMAN, ADICIONAN Y DEROGAN DIVERSAS
 DISPOSICIONES DE LA LEY GENERAL DEL
-
 EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL
 AMBIENTE, DE LA LEY GENERAL DE VIDA
 SILVESTRE, DE LA LEY GENERAL PARA LA
@@ -62,8 +65,8 @@ compensación de dichos daños cuando sea exigible a
 través de los procesos judiciales federales previstos
 por el artículo 17 constitucional, los mecanismos
 alternativos de solución de controversias, los
-procedimientos administrativos y aquellos que
 
+procedimientos administrativos y aquellos que
 correspondan a la comisión de delitos contra el
 ambiente y la gestión ambiental.
 Los preceptos de este ordenamiento son
@@ -90,9 +93,9 @@ Artículo 2o.- Para los efectos de esta Ley se estará
 a las siguientes definiciones, así como aquellas
 previstas en la Ley General del Equilibrio Ecológico y
 la Protección al Ambiente, las Leyes ambientales y los
+
 tratados internacionales de los que México sea Parte.
 Se entiende por:
-
 I. Actividades consideradas como altamente
 riesgosas: Las actividades que implican la
 generación o manejo de sustancias con
@@ -122,9 +125,9 @@ proporcionan. Para esta definición se estará a lo
 dispuesto por el artículo 6o. de esta Ley;
 IV. Daño indirecto: Es aquel daño que en una
 cadena causal no constituye un efecto inmediato
+
 del acto u omisión que es imputado a una persona
 en términos de esta Ley;
-
 V. Se entiende por cadena causal la secuencia de
 influencias de causa y efecto de un fenómeno que
 se representa por eslabones relacionados;
@@ -164,7 +167,6 @@ Responsabilidad
 
 X. Ley: La Ley Federal de Responsabilidad
 Ambiental;
-
 XI. Leyes ambientales: La Ley General del
 Equilibrio Ecológico y la Protección al Ambiente, la
 Ley General de Vida Silvestre, la Ley General para
@@ -195,9 +197,9 @@ Protección al Ambiente;
 XIV. Sanción económica: El pago impuesto por la
 autoridad judicial para penalizar una conducta
 ilícita dañosa, dolosa con la finalidad de lograr una
+
 prevención general y especial e inhibir en el futuro
 comportamientos prohibidos;
-
 XV. Secretaría: La Secretaría de Medio Ambiente y
 Recursos Naturales, y
 XVI. Servicios ambientales: Las funciones que
@@ -220,10 +222,10 @@ así como a los procedimientos penales iniciados en
 relación a estos;
 IV. Los mecanismos alternativos de solución de
 controversias previstos en las Leyes, y
+
 V. La Ley de Amparo, Reglamentaria de los
 Artículos 103 y 107 de la Constitución Política de
 los Estados Unidos Mexicanos.
-
 Artículo 4o.- La acción y el procedimiento para
 hacer valer la responsabilidad ambiental a que hace
 referencia el presente Título, podrán ejercerse y
@@ -261,9 +263,9 @@ realización de la conducta que los origina,
 mediante la evaluación del impacto ambiental o su
 informe preventivo, la autorización de cambio de
 uso de suelo forestal o algún otro tipo de
+
 autorización análoga expedida por la Secretaría; o
 de que,
-
 II. No rebasen los límites previstos por las
 disposiciones que en su caso prevean las Leyes
 ambientales o las normas oficiales mexicanas.
@@ -289,10 +291,10 @@ párrafo anterior, no representará impedimento ni
 eximirá al responsable de su obligación de reparar el
 daño a su estado base, atendiendo al concepto
 previsto en el artículo 2o., fracción III, de esta Ley.
+
 Las personas y las organizaciones sociales y
 empresariales interesadas, podrán presentar a la
 Secretaría propuestas de las normas oficiales
-
 mexicanas a las que hace referencia el presente
 artículo, en términos del procedimiento previsto por la
 Ley Federal sobre Metrología y Normalización.
@@ -323,10 +325,10 @@ En términos de lo dispuesto por la Ley General del
 Equilibrio Ecológico y la Protección al Ambiente, se
 integrará un Sistema Nacional de Seguros de Riesgo
 Ambiental.
+
 Artículo 9o.- En lo no previsto por esta Ley, se
 aplicarán las disposiciones del Código Civil Federal y
 del Código Federal de Procedimientos Civiles,
-
 siempre que no contravengan lo dispuesto en esta
 Ley.
 CAPÍTULO SEGUNDO
@@ -351,9 +353,9 @@ previstas en el artículo anterior, cuando el daño sea
 ocasionado por un acto u omisión ilícitos dolosos, la
 persona responsable estará obligada a pagar una
 sanción económica.
+
 Para los efectos de esta Ley, se entenderá que obra
 ilícitamente el que realiza una conducta activa u
-
 omisiva en contravención a las disposiciones legales,
 reglamentarias, a las normas oficiales mexicanas, o a
 las autorizaciones, licencias, permisos o concesiones
@@ -376,10 +378,12 @@ elementos y recursos naturales, sus condiciones
 químicas, físicas o biológicas y las relaciones de
 interacción que se dan entre estos, así como los
 servicios ambientales que proporcionan, mediante la
+
 restauración,
 restablecimiento,
-tratamiento,
 recuperación o remediación.
+
+tratamiento,
 
 La reparación deberá llevarse a cabo en el lugar en
 el que fue producido el daño.
@@ -404,9 +408,9 @@ a) Que los daños al ambiente hayan sido
 producidos por una obra o actividad ilícita que
 debió haber sido objeto de evaluación y
 autorización previa en materia de impacto
+
 ambiental o cambio de uso de suelo en terrenos
 forestales;
-
 b)
 Que
 la
@@ -437,9 +441,9 @@ inciso c) de este artículo no tendrán validez, sino
 hasta el momento en el que el responsable haya
 realizado la compensación ambiental, que deberá ser
 ordenada por la Secretaría mediante condicionantes
+
 en la autorización de impacto ambiental, y en su caso,
 de cambio de uso de suelo en terrenos forestales.
-
 La compensación por concepto de cambio de uso de
 suelo en terrenos forestales, se llevará a cabo en
 términos de lo dispuesto por la Ley General de
@@ -464,9 +468,9 @@ en la inversión o las acciones que el responsable
 haga a su cargo, que generen una mejora ambiental,
 sustitutiva de la reparación total o parcial del daño
 ocasionado al ambiente, según corresponda, y
+
 equivalente a los efectos adversos ocasionados por el
 daño.
-
 Dicha inversión o acciones deberán hacerse en el
 ecosistema o región ecológica en donde se hubiese
 ocasionado el daño. De resultar esto materialmente
@@ -497,9 +501,9 @@ deberá demandar al responsable la restitución de los
 recursos económicos erogados, incluyendo los
 intereses legales correspondientes, los que serán
 reintegrados al fondo.
+
 Artículo 19.- La sanción económica prevista en la
 presente Ley, será accesoria a la reparación o
-
 compensación del Daño ocasionado al ambiente y
 consistirá en el pago por un monto equivalente de:
 I. De trescientos a cincuenta mil días de salario
@@ -523,9 +527,9 @@ por las Leyes ambientales;
 II. Que sus empleados, representantes, y quienes
 ejercen cargos de dirección, mando o control en su
 estructura u organización no han sido sentenciados
+
 por delitos contra el ambiente o la gestión
 ambiental, cometidos bajo el amparo de la persona
-
 moral responsable, en su beneficio o con sus
 medios;
 III. Haber contado por lo menos con tres años de
@@ -563,9 +567,9 @@ del Agua, como consecuencia a la realización de la
 misma conducta ilícita que dio origen a su
 responsabilidad ambiental, el Juez tomará en cuenta
 dicho pago integrándolo en el cálculo del monto de la
+
 sanción económica, sin que ésta pueda exceder el
 límite previsto para el caso en la presente Ley.
-
 No podrá imponerse la Sanción Económica a la
 persona física que previamente haya sido multada por
 un Juez penal, en razón de haber realizado la misma
@@ -597,9 +601,9 @@ asegurándose que se neutralice el beneficio
 económico obtenido, si lo hubiere, y se garantice
 prioritariamente el monto de las erogaciones del actor
 o actores que hayan sido necesarias para acreditar la
+
 responsabilidad. En cada caso el órgano jurisdiccional
 preverá que la sanción económica sea claramente
-
 suficiente para lograr los fines de inhibición y
 prevención general y especial a que hace referencia
 el artículo 2o., fracción XI de esta Ley.
@@ -626,9 +630,9 @@ actúen en el ejercicio de sus funciones, en
 representación o bajo el amparo o beneficio de la
 persona moral, o bien, cuando ordenen o consientan
 la realización de las conductas dañosas.
+
 Las personas que se valgan de un tercero, lo
 determinen o contraten para realizar la conducta
-
 causante
 del
 daño
@@ -658,10 +662,10 @@ todas serán responsables solidariamente de la
 reparación o compensación que resultare, sin
 perjuicio, en su caso, del derecho de repetición entre
 sí.
+
 No habrá responsabilidad solidaria en los términos
 previstos por el presente artículo, cuando se acredite
 que la persona responsable:
-
 I. Ha contado por lo menos con tres años de
 anterioridad a la conducta que ocasionó el daño,
 con un órgano de control interno dedicado de
@@ -696,9 +700,9 @@ CAPÍTULO TERCERO
 Procedimiento judicial de responsabilidad
 ambiental
 SECCIÓN 1
+
 De la acción para demandar la responsabilidad
 ambiental
-
 Artículo 27.- Las personas e instituciones
 legitimadas conforme al artículo 28 de la presente
 Ley, podrán demandar la responsabilidad ambiental y
@@ -728,9 +732,9 @@ elementos, cuando actúen en representación de
 algún habitante de las comunidades previstas en la
 fracción I;
 III. La Federación a través de la procuraduría, y
+
 IV. Las Procuradurías o instituciones que ejerzan
 funciones de protección ambiental de las entidades
-
 federativas y del Distrito Federal en el ámbito de su
 circunscripción territorial, conjuntamente con la
 procuraduría.
@@ -755,12 +759,18 @@ condenada al pago de gastos y costas judiciales.
 Artículo 30.- El Poder Judicial de la Federación
 contará con juzgados de Distrito con jurisdicción
 especial en materia ambiental.
-En ausencia de los anteriores serán competentes
-para conocer de los procedimientos judiciales de
 
-responsabilidad ambiental a que hace referencia el
-presente Título los jueces de distrito que
+En ausencia de los anteriores serán
+para conocer de los procedimientos
+responsabilidad ambiental a que hace
+presente Título los jueces de
 correspondan según la materia.
+
+competentes
+judiciales de
+referencia el
+distrito que
+
 SECCIÓN 2
 De la tutela anticipada y medidas cautelares
 Artículo 31.- La autoridad jurisdiccional que
@@ -782,10 +792,10 @@ ambientales y los tratados internacionales de los
 que México sea Parte, y
 II. El aseguramiento o toma de muestras de
 sustancias peligrosas, materiales, residuos,
+
 líquidos, contaminantes y de los elementos
 naturales relacionados con el daño ocasionado al
 ambiente.
-
 Las medidas cautelares se tramitarán y resolverán
 de conformidad con lo establecido por el Código
 Federal de Procedimientos Civiles.
@@ -808,11 +818,11 @@ testimoniales, documentales y demás indicios y
 elementos de prueba con los que cuenten. Los
 servidores públicos estarán obligados a cumplir con
 dicha obligación.
+
 Artículo 35.- Para acreditar los hechos o
 circunstancias en relación al estado base, el daño
 ocasionado al ambiente, así como el nexo causal, las
 partes y las autoridades podrán utilizar fotografías,
-
 imágenes de satélite, estudios de poblaciones y en
 general toda clase de elementos aportados por la
 técnica y la ciencia. Salvo en los casos en que el
@@ -835,10 +845,10 @@ Federal de Procedimientos Civiles, la sentencia
 condenatoria que se dicte deberá precisar:
 I. La obligación de reparar ambientalmente el daño
 que corresponda;
+
 II. La obligación de compensar ambientalmente a
 través de las acciones que procedan, en forma
 total o parcial;
-
 III. Las medidas y acciones necesarias para evitar
 que se incremente el daño ocasionado al
 ambiente;
@@ -863,9 +873,9 @@ que cause ejecutoria la sentencia que resulte
 condenatoria, el juez dará vista a las partes para que
 dentro del término de treinta días se pronuncien
 sobre:
+
 I. La forma, términos y niveles de reparación
 material ambiental del daño ocasionado al
-
 ambiente que se propongan para cumplir esas
 obligaciones;
 II. La imposibilidad total o parcial de reparar
@@ -886,11 +896,11 @@ Artículo 39.- En la determinación de las medidas de
 reparación y compensación ambiental se considerará:
 I. El criterio de equivalencia recurso-recurso o
 servicio-servicio;
+
 II. Las acciones que proporcionen recursos
 naturales o Servicios Ambientales del mismo tipo,
 calidad y cantidad que los dañados;
 III. Las mejores tecnologías disponibles;
-
 IV. Su viabilidad y permanencia en el tiempo;
 V. El costo que implica aplicar la medida;
 VI. El efecto en la salud y la seguridad pública;
@@ -911,11 +921,11 @@ recuperación de los ciclos biológicos que fueron
 afectados por el daño causado al ecosistema;
 XII. El grado en que cada una de las medidas logra
 reparar el lugar que ha sufrido el daño ambiental, y
+
 XIII. La vinculación geográfica con el lugar dañado.
 Artículo 40.- Una vez que el juez reciba las
 propuestas para la reparación del daño o su
 compensación conforme a lo previsto por el artículo
-
 38 de la presente Ley, requerirá a la Secretaría, para
 que en el término de diez días, formule su opinión en
 relación a la idoneidad y legalidad de las propuestas.
@@ -939,10 +949,10 @@ Si existiesen diversas alternativas que pudieran
 generar los mismos resultados positivos de
 reparación o compensación, se optará por la menos
 onerosa para el responsable.
+
 Artículo 41.- El plazo para el cumplimiento de las
 obligaciones materia de la presente Ley, será fijado
 por el Juez tomando en consideración:
-
 I. La naturaleza de las obras o actos necesarios
 para reparar el daño ocasionado al ambiente y en
 su caso, cumplir con la compensación ambiental;
@@ -963,12 +973,12 @@ previstos por el Código Federal de Procedimientos
 Civiles, y deberá salvaguardar la representación
 adecuada, de conformidad con lo previsto en dicho
 ordenamiento.
+
 Artículo 44.- Las sentencias y convenios derivados
 del procedimiento judicial de responsabilidad
 ambiental serán públicos.
 SECCIÓN 5
 Del Fondo
-
 Artículo 45.- El Fondo de Responsabilidad
 Ambiental tendrá como objeto el pago de la
 reparación de los daños que sean ocasionados al
@@ -989,11 +999,11 @@ I. La sanción económica referida en la fracción XIV
 del artículo 2o. de la presente Ley, y
 II. Los demás recursos que obtenga por cualquier
 otro concepto.
+
 La Secretaría expedirá las bases y reglas de
 operación del fondo, en la que tendrán participación la
 Procuraduría, las instituciones académicas y las
 organizaciones sociales.
-
 El patrimonio del Fondo se destinará exclusivamente
 a la reparación de los daños al ambiente a los que
 hace referencia el artículo 18 de esta Ley, así como
@@ -1015,13 +1025,13 @@ ambiente, a través de vías colaborativas en las que se
 privilegie el diálogo y se faciliten las alternativas de
 solución que resulten ambiental y socialmente más
 positivas.
+
 Las personas ambientalmente responsables y los
 legitimados para accionar judicialmente en términos
 del Título Primero de esta Ley, podrán resolver los
 términos del conflicto producido por el daño
 ocasionado al ambiente, mediante los mecanismos
 alternativos de mediación, conciliación y los demás
-
 que sean adecuados para la solución pacífica de la
 controversia, de conformidad a lo previsto por esta
 Ley, o las disposiciones reglamentarias del párrafo
@@ -1046,12 +1056,12 @@ siempre que no se afecten la moral, los derechos de
 terceros, ni se contravengan las Leyes ambientales,
 las disposiciones de orden público y los tratados
 internacionales de los que México sea Parte.
+
 Artículo 49.- Si durante el procedimiento judicial de
 responsabilidad ambiental previsto por el Título
 Primero de esta Ley, y antes de que se dicte
 sentencia definitiva, se lograse un acuerdo entre las
 partes, en términos de lo previsto por los Mecanismos
-
 Alternativos referidos en este Capítulo; conforme a los
 acuerdos e instrumentos de justicia restaurativa o
 alguna otra forma anticipada de terminación del
@@ -1078,12 +1088,12 @@ públicos
 el
 incumplimiento
 del
+
 requerimiento en el plazo determinado por el juez en
 el presente artículo.
 Cuando del acuerdo se desprenda que su
 cumplimiento puede afectar los bienes de un tercero,
 el juez recabará su conformidad. Si no se obtuviese
-
 ésta, apercibirá a la partes para que modifiquen los
 términos de su acuerdo.
 Artículo 50.- En caso de que resulte procedente en
@@ -1107,11 +1117,11 @@ Tercero de esta Ley y el Código Federal de
 Procedimientos Penales.
 El fin de estos mecanismos será lograr la justicia
 restaurativa, mediante la participación de la víctima u
+
 ofendido y el imputado, para buscar la solución a las
 controversias derivadas del hecho calificado como
 delito.
 TÍTULO TERCERO
-
 CAPÍTULO ÚNICO
 Responsabilidad penal en materia ambiental
 Artículo 52.- Las disposiciones del presente Título
@@ -1129,19 +1139,22 @@ presente Título.
 El Ministerio Público está obligado a solicitar de
 oficio la reparación y compensación de los daños
 ocasionados al ambiente.
-Artículo 53.- El Ejecutivo Federal y el Congreso de
-la Unión desarrollarán políticas integrales en materia
-de prevención de daños al ambiente; investigación,
+Artículo 53.- El Ejecutivo Federal, el Congreso de la
+Unión y la Fiscalía General de la República
+desarrollarán políticas integrales en materia de
+prevención de daños al ambiente; investigación,
 persecución, sanción y prevención general y especial
-de los delitos e infracciones administrativas que los
-ocasionan; así como para la reinserción social de los
-individuos penal y ambientalmente responsables que
-induzcan al respeto de las Leyes ambientales y los
-tratados internacionales de los que México sea Parte.
-Para tal efecto la procuraduría y la Procuraduría
 
-General de la República expedirán y harán público el
-programa respectivo.
+de los delitos e infracciones administrativas que los
+ocasionan, en sus respectivos ámbitos de
+competencia; así como para la reinserción social de
+los individuos penal y ambientalmente responsables
+que induzcan al respeto de las Leyes ambientales y
+los tratados internacionales de los que México sea
+parte. Para tal efecto la procuraduría y la Fiscalía
+General de la República harán públicos los programas
+respectivos.
+Párrafo reformado DOF 20-05-2021
 Estas políticas serán acordes con la formulación y
 conducción de la política ambiental y se llevarán a
 cabo en el marco del Sistema Nacional de Seguridad
@@ -1159,6 +1172,7 @@ La procuraduría presentará las querellas y otorgará
 el perdón en los casos de delitos contra la gestión
 ambiental, atendiendo a lo dispuesto por los principios
 de política criminal ambiental a que se refiere el
+
 artículo anterior, así como a lo dispuesto por el Título
 Segundo de esta Ley.
 Todo servidor público está obligado a notificar de
@@ -1167,7 +1181,6 @@ existencia de un hecho que la Ley considere como
 delito contra el ambiente, así como la identidad de
 quien posiblemente lo haya cometido o haya
 participado en su comisión, transmitiendo todos los
-
 datos que tuviere al respecto poniendo a disposición a
 los inculpados si hubieren sido detenidos.
 Artículo 55.- Para efectos de lograr la reparación y
@@ -1188,18 +1201,11 @@ Artículo 56.- Atento a lo dispuesto por el párrafo
 cuarto del artículo 4o. de la Constitución Política de
 los Estados Unidos Mexicanos, se considerará
 víctima de los delitos contra el ambiente a toda
+
 persona habitante de la comunidad posiblemente
 afectada por el ilícito cuando se constituya como
 denunciante ante el Ministerio Público.
-ARTÍCULO SEGUNDO.- ………
-ARTÍCULO TERCERO.- ………
-ARTÍCULO CUARTO.- ………
-
-ARTÍCULO QUINTO.- ………
-ARTÍCULO SEXTO.- ………
-ARTÍCULO SÉPTIMO.- ………
-ARTÍCULO OCTAVO.- ………
-ARTÍCULO NOVENO.- ………
+ARTÍCULOS SEGUNDO A NOVENO.- ………
 TRANSITORIOS
 PRIMERO.- El presente Decreto entrará en vigor a
 los treinta días siguientes al de su publicación en el
@@ -1221,10 +1227,10 @@ ambiental podrá otorgarse a los Juzgados de Distrito
 en funciones en cada circuito jurisdiccional o de
 acuerdo a lo que disponga el Consejo de la Judicatura
 Federal, sin que esto implique la creación de nuevos
-
 órganos jurisdiccionales. El personal de cada uno de
 dichos Juzgados de Distrito recibirá capacitación
 especializada en materia de normatividad ambiental.
+
 México, D.F., a 25 de abril de 2013.- Sen. Ernesto
 Cordero Arroyo, Presidente.- Dip. Francisco Arroyo
 Vieyra, Presidente.- Sen. Rosa Adriana Díaz
