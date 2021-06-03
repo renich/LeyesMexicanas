@@ -7,7 +7,7 @@ LEY GENERAL DE VÍCTIMAS
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 9 de enero de 2013
 TEXTO VIGENTE
-Última reforma publicada DOF 06-11-2020
+Última reforma publicada DOF 20-05-2021
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Congreso de la Unión.
@@ -3576,12 +3576,12 @@ compensación, previstas en la Ley y el
 Reglamento;
 III. Elaborar los proyectos de dictamen para la
 creación de fondos de emergencia, y
-Nota: El Decreto de reforma DOF 06-11-2020, en su
-Artículo Décimo Octavo estableció que se deroga el artículo
-“93, fracción III” de esta Ley. Sin embargo, en el articulado del
-mismo decreto no se incluyó de forma expresa la derogación
-de la fracción III del artículo 93.
-
+Nota: El Decreto de reforma DOF 06-112020, en su Artículo Décimo Octavo
+estableció que se deroga el artículo “93,
+fracción III” de esta Ley. Sin embargo, en el
+articulado del mismo decreto no se incluyó
+de forma expresa la derogación de la
+fracción III del artículo 93.
 IV. Las demás establecidas en la Ley y el
 Reglamento.
 Artículo reformado DOF 03-05-2013, 03-01-2017
@@ -3594,9 +3594,9 @@ Párrafo reformado DOF 03-01-2017
 I. Administrar, representar legalmente y dirigir el
 cumplimiento de las atribuciones de la Comisión
 Ejecutiva;
+
 II. Convocar y dar seguimiento a las sesiones que
 realice la Junta de Gobierno;
-
 Fracción reformada DOF 03-01-2017
 III.
 
@@ -3633,9 +3633,9 @@ las funciones de la Comisión Ejecutiva;
 VIII. Garantizar el registro de las víctimas que
 acudan directamente ante la Comisión Ejecutiva a
 solicitar su inscripción en el Registro Nacional de
+
 Víctimas, así como los servicios de ayuda,
 asistencia, atención, acceso a la justicia, acceso
-
 a la verdad y reparación integral que soliciten a
 través de las instancias competentes, dando
 seguimiento hasta la etapa final para garantizar el
@@ -3667,10 +3667,10 @@ Comité
 Interdisciplinario Evaluador, los Recursos de
 Ayuda y la reparación integral que la Comisión
 Ejecutiva otorgue a las víctimas. Para lo cual, el
+
 Comisionado Ejecutivo se podrá apoyar de la
 asesoría de la Asamblea Consultiva, y
 Fracción reformada DOF 03-01-2017
-
 XIV. Las demás que se requiera para el eficaz
 cumplimiento de las funciones de la Comisión
 Ejecutiva en términos de la legislación aplicable.
@@ -3692,11 +3692,11 @@ reparación integral previstas en esta Ley.
 El Registro Nacional de Víctimas es una unidad
 administrativa de la Comisión Ejecutiva.
 Párrafo reformado DOF 03-01-2017
+
 El Registro es la unidad administrativa encargada de
 llevar y salvaguardar el padrón de víctimas, a nivel
 nacional, e inscribir los datos de las víctimas del delito
 y de violaciones a derechos humanos del orden
-
 federal, y por excepción del orden local en los casos a
 que se refiere el artículo 88 Bis de la presente Ley.
 Párrafo reformado DOF 03-01-2017
@@ -3720,11 +3720,11 @@ compartir la información en materia de víctimas que
 obren en sus bases de datos con el Registro Nacional
 de Víctimas.
 Artículo reformado DOF 03-05-2013
+
 Artículo 97. El Registro Nacional de Víctimas será
 integrado por las siguientes fuentes:
 I. Las solicitudes de ingreso hechas directamente
 por las víctimas del delito y de violaciones de
-
 derechos humanos, a través de su representante
 legal o de algún familiar o persona de confianza
 ante la Comisión Ejecutiva o ante sus
@@ -3749,16 +3749,13 @@ Fracción reformada DOF 03-01-2017
 Las entidades e instituciones generadoras y
 usuarias de la información sobre las víctimas y que
 posean actualmente registros de víctimas, pondrán a
+
 disposición del Registro Nacional de Víctimas la
 información que generan y administran, de
 conformidad con lo establecido en las leyes que
 regulan el manejo de datos personales, para lo cual
-
-se suscribirán los respectivos acuerdos
+se suscribirán los respectivos acuerdos de
 confidencialidad para el uso de la información.
-
-de
-
 En los casos en que existiere soporte documental de
 los registros que reconocen la calidad de víctima,
 deberá entregarse copia digital al Registro Nacional
@@ -3781,11 +3778,11 @@ Párrafo reformado DOF 03-01-2017
 Los mexicanos domiciliados en el exterior, podrán
 presentar la incorporación de datos al Registro
 Nacional de Víctimas ante la Embajada o Consulado
+
 del país donde se encuentren. En los países en que
 no exista representación del Estado mexicano, podrán
 acudir al país más cercano que cuente con sede
 diplomática.
-
 La información que acompaña la incorporación de
 datos al registro se consignará en el formato único de
 declaración diseñado por la Comisión Ejecutiva y su
@@ -3811,10 +3808,10 @@ de representante que, además de cumplir con las
 disposiciones aplicables, esté debidamente inscrito en
 el padrón de representantes que al efecto establezca
 la Comisión Ejecutiva o las correspondientes a las
+
 entidades federativas, conforme a lo que se determine
 en las disposiciones reglamentarias correspondientes.
 Artículo reformado DOF 03-05-2013
-
 Artículo 99. Para que las autoridades competentes
 de la Federación, las entidades federativas u otras
 que se faculten por la presente Ley, procedan a la
@@ -3839,10 +3836,10 @@ como válida la huella dactilar;
 IV. Las circunstancias de modo, tiempo y lugar
 previas, durante y posteriores a la ocurrencia de los
 hechos victimizantes;
+
 V. El funcionario que recabe la declaración la
 asentará en forma textual, completa y detallada en los
 términos que sea emitida;
-
 VI. Los datos de contacto de la persona que solicita
 el registro, y
 VII. La información del parentesco o relación afectiva
@@ -3865,6 +3862,7 @@ e instituciones que reciban solicitudes de ingreso al
 Registro Nacional de Víctimas:
 I. Garantizar que las personas que solicitan el
 ingreso en el Registro Nacional de Víctimas sean
+
 atendidas de manera preferencial y orientadas de
 forma digna y respetuosa;
 II. Para las solicitudes de ingreso en el Registro
@@ -3873,7 +3871,6 @@ en
 forma
 directa,
 diligenciar
-
 correctamente, en su totalidad y de manera
 legible, el formato único de declaración diseñado
 por la Comisión Ejecutiva;
@@ -3906,7 +3903,6 @@ VII. Indagar las razones por las cuales no se llevó
 a cabo con anterioridad la solicitud de registro;
 VIII. Verificar los requisitos mínimos de legibilidad
 en los documentos aportados por el declarante y
-
 relacionar el número de folios que se adjunten
 con la declaración;
 IX.
@@ -3935,11 +3931,11 @@ Artículo reformado DOF 03-05-2013
 Artículo 101. Presentada la solicitud, deberá
 ingresarse la misma al Registro, y se procederá a la
 valoración de la información recogida en el formato
+
 único junto con la documentación remitida que
 acompañe dicho formato.
 Para mejor proveer, la Comisión Ejecutiva y las
 comisiones de víctimas, podrán solicitar la
-
 información que consideren necesaria a cualquiera de
 las autoridades del orden federal, local y municipal,
 las que estarán en el deber de suministrarla en un
@@ -3963,6 +3959,7 @@ declaración cuando:
 I. Exista sentencia condenatoria o resolución por
 parte de la autoridad jurisdiccional o
 administrativa competente;
+
 II. Exista una determinación de la Comisión
 Nacional de los Derechos Humanos o de las
 comisiones estatales en esta materia que dé
@@ -3971,16 +3968,8 @@ de
 esos
 hechos,
 incluidas
-
-recomendaciones,
+recomendaciones, conciliaciones o medidas
 precautorias;
-
-conciliaciones
-
-o
-
-medidas
-
 III. La víctima haya sido reconocida como tal por el
 Ministerio Público, por una autoridad judicial, o
 por un organismo público de derechos humanos,
@@ -4005,11 +3994,11 @@ conocer todas las actuaciones que se realicen a lo
 largo del proceso de registro. Cuando sea un tercero
 quien solicite el ingreso, deberá notificársele por
 escrito si fue aceptado o no el mismo.
+
 Artículo reformado DOF 03-05-2013
 Artículo 103. Se podrá cancelar la inscripción en el
 Registro Nacional de Víctimas cuando, después de
 realizada la valoración contemplada en el artículo
-
 101, incluido haber escuchado a la víctima o a quien
 haya solicitado la inscripción, la Comisión Ejecutiva o
 sus equivalentes en las entidades federativas
@@ -4035,11 +4024,11 @@ de no existir otro medio más eficaz para hacer la
 notificación personal se le enviará a la víctima una
 citación a la dirección, al número de fax o al correo
 electrónico que figuren en el formato único de
+
 declaración o en los demás sistemas de información a
 fin de que comparezca a la diligencia de notificación
 personal. El envío de la citación se hará dentro de los
 cinco días siguientes a la adopción de la decisión de
-
 no inclusión y de la diligencia de notificación se dejará
 constancia en el expediente.
 Artículo reformado DOF 03-05-2013
@@ -4059,10 +4048,10 @@ hecho victimizante;
 V. La identificación de la persona o entidad que
 solicitó el registro de la víctima, cuando no sea ella
 quien lo solicite directamente;
+
 VI. La identificación y descripción detallada de las
 medidas de ayuda y de atención que efectivamente
 hayan sido garantizadas a la víctima;
-
 VII. La identificación y descripción detallada de las
 medidas de reparación que, en su caso, hayan sido
 otorgadas a la víctima, y
@@ -4087,10 +4076,10 @@ CAPÍTULO V
 INGRESO DE LA VÍCTIMA AL REGISTRO
 Capítulo reubicado y recorrido (antes capítulo VI) con
 denominación reformada DOF 03-05-2013
+
 Artículo 106. El ingreso de la víctima al Registro se
 hará por la denuncia, la queja, o la noticia de hechos
 que podrá realizar la propia víctima, la autoridad, el
-
 organismo público de protección de derechos
 humanos o un tercero que tenga conocimiento sobre
 los hechos.
@@ -4116,9 +4105,9 @@ Embajadas y consulados de México en el
 extranjero;
 II. Instituciones de salud y educación, ya sean
 públicas o privadas;
+
 III. Institutos de Mujeres;
 IV. Albergues;
-
 V. Defensoría Pública, y
 VI. Síndico municipal.
 Artículo reformado DOF 03-05-2013
@@ -4141,10 +4130,10 @@ denunciarlo de inmediato.
 Artículo reformado DOF 03-05-2013
 Artículo 109. Cualquier autoridad, así como los
 particulares que tengan conocimiento de un delito o
+
 violación a derechos humanos, tendrá la obligación de
 ingresar el nombre de la víctima al Registro,
 aportando con ello los elementos que tenga.
-
 Cuando la víctima sea mayor de 12 años podrá
 solicitar su ingreso al registro por sí misma o a través
 de sus representantes.
@@ -4184,10 +4173,10 @@ que el sujeto es víctima;
 IV.Los organismos públicos de protección de los
 derechos humanos;
 Fracción reformada DOF 03-01-2017
+
 V. Los organismos internacionales de protección de
 derechos humanos a los que México les
 reconozca competencia;
-
 Fracción reformada DOF 03-01-2017
 VI.La autoridad responsable de la violación a los
 derechos humanos que le reconozca tal carácter;
@@ -4208,6 +4197,7 @@ víctima tendrá como efecto:
 I. El acceso a los derechos, garantías, acciones,
 mecanismos y procedimientos, en los términos de
 esta Ley y las disposiciones reglamentarias, y
+
 II. En el caso de lesiones graves, delitos contra la
 libertad psicosexual, violencia familiar, trata de
 personas, secuestro, tortura, tratos crueles,
@@ -4216,7 +4206,6 @@ o
 degradantes,
 desaparición,
 privación de la libertad y todos aquellos que
-
 impidan a la víctima por la naturaleza del daño
 atender adecuadamente la defensa de sus
 derechos; que el juez de la causa o la autoridad
@@ -4242,12 +4231,12 @@ Víctimas garantizará los servicios de ayuda, atención,
 asistencia, acceso a la justicia, a la verdad y a la
 reparación integral de los extranjeros que hayan sido
 víctimas del delito o de violaciones a derechos
+
 humanos en México, firmando los convenios de
 colaboración correspondientes con las autoridades
 competentes del país donde la víctima retorne y con
 apoyo de los consulados mexicanos en dicho país.
 Artículo reformado DOF 03-05-2013
-
 TÍTULO SÉPTIMO
 DE LA DISTRIBUCIÓN DE COMPETENCIAS
 Título reubicado y reestructurado (se suprimen sus
@@ -4268,6 +4257,7 @@ las víctimas;
 II. Formular y conducir la política nacional integral
 para reconocer y garantizar los derechos de las
 víctimas;
+
 III.
 
 Garantizar en el ámbito de su competencia, el
@@ -4301,12 +4291,12 @@ entre las diferentes instancias de gobierno, de
 manera que sirvan de cauce para lograr la
 atención integral de las víctimas para facilitar la
 actuación de la Comisión Ejecutiva;
+
 VIII. Celebrar
 convenios
 de
 cooperación,
 coordinación y concertación en la materia;
-
 IX.
 
 Coadyuvar con las instituciones públicas o
@@ -4333,9 +4323,9 @@ violaciones de los derechos de las víctimas;
 II. Diseñar la política integral con un enfoque
 transversal de género para promover la cultura de
 respeto a los derechos humanos de las víctimas;
+
 III. Elaborar el Programa en coordinación con el
 Sistema;
-
 IV. Coordinar y dar seguimiento a las acciones de
 los distintos órdenes de gobierno en materia de
 reparación integral, no repetición, ayuda y asistencia
@@ -4359,9 +4349,9 @@ comunicación que no cumplan con lo estipulado en la
 fracción anterior;
 X. Realizar un diagnóstico nacional y otros estudios
 complementarios de manera periódica sobre las
+
 víctimas en todos los ámbitos, que proporcione
 información objetiva para la elaboración de políticas
-
 gubernamentales en materia de prevención, atención,
 ayuda y protección de las víctimas;
 XI. Difundir a través de diversos medios, los
@@ -4390,9 +4380,9 @@ garantizar los derechos de las víctimas de delitos
 o de violación a sus derechos humanos;
 II. Llevar a cabo las acciones necesarias tendientes
 a capacitar a su personal para asegurar el acceso
+
 a los servicios especializados que éstas
 proporcionen a las víctimas, y con ello lograr el
-
 pleno ejercicio de sus derechos y garantizar su
 reinserción a la vida cotidiana;
 III.
@@ -4427,8 +4417,8 @@ VII. Definir y promover al interior de cada
 institución políticas que promuevan el respeto
 irrestricto de los derechos humanos, con base en
 los principios establecidos en la presente Ley, a
-fin de fomentar la cultura de los derechos
 
+fin de fomentar la cultura de los derechos
 humanos y el respeto a la dignidad de las
 personas;
 VIII. Denunciar ante la autoridad competente,
@@ -4511,9 +4501,10 @@ el personal encargado de la procuración de
 justicia en materia de derechos humanos;
 II. Proporcionar a las víctimas orientación y asesoría
 para su eficaz atención y protección, de
-conformidad con la Ley Orgánica de la
-Procuraduría General de la República, su
-Reglamento y demás ordenamientos aplicables;
+conformidad con la Ley de la Fiscalía General de
+la República, su Estatuto Orgánico y demás
+ordenamientos aplicables;
+Fracción reformada DOF 20-05-2021
 
 III.
 
