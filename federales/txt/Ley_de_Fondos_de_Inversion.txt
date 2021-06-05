@@ -4,11 +4,12 @@ Secretaría de Servicios Parlamentarios
 Versión PDF para vista en dispositivo móvil Android y Apple iOS
 
 LEY DE FONDOS DE INVERSIÓN
+
 (Antes “Ley de Sociedades de Inversión”)
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 4 de junio de 2001
 TEXTO VIGENTE
-Última reforma publicada DOF 13-06-2014
+Última reforma publicada DOF 20-05-2021
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -23,10 +24,36 @@ UNIDOS MEXICANOS, D E C R E T A:
 SE EXPIDE LA LEY DE FONDOS DE INVERSIÓN
 Denominación de la Ley reformada DOF 10-01-2014
 
+Nota: Se derogan los anteriores Capítulo
+Primero “Disposiciones Generales”; Capítulo
+Segundo “De las Sociedades de Inversión de
+Renta Variable”; Capítulo Tercero “De las
+Sociedades de Inversión en Instrumentos de
+Deuda”; Capítulo Cuarto “De las Sociedades
+de Inversión de Capitales”; Capítulo Quinto
+“De las Sociedades de Inversión de Objeto
+Limitado”; Capítulo Sexto “De la Prestación
+de Servicios a las Sociedades de Inversión”,
+con la Sección I “De los Servicios”, Sección II
+“De la Administración de Activos”, Sección III
+“De la Distribución”, Sección IV “De la
+Valuación”, Sección V “De la Calificación”,
+Sección VI “De la Proveeduría de Precios” y
+Sección VII “Del Depósito y Custodia”;
+Capítulo Séptimo “Disposiciones Comunes”;
+Capítulo Octavo “De las Filiales de
+Instituciones Financieras del Exterior”;
+Capítulo Noveno “De la Contabilidad,
+Inspección y Vigilancia”; Capítulo Décimo
+“De la Revocación de las Autorizaciones y de
+las Sanciones”; y Capítulo Undécimo
+“Disposiciones Finales”.
+Capítulos derogados DOF 10-01-2014
 Título I
 Disposiciones Preliminares
 Título adicionado DOF 10-01-2014
 Capítulo Único
+
 Capítulo adicionado DOF 10-01-2014
 Artículo 1.- La presente Ley es de orden público y
 observancia general en los Estados Unidos
@@ -92,9 +119,9 @@ II. Comisión: La Comisión Nacional Bancaria y de
 Valores;
 III. Consorcio: Al conjunto de personas morales
 vinculadas entre sí por una o más personas
-
 físicas que integrando un Grupo de Personas,
 tengan el Control de las primeras;
+
 IV.Control: A la capacidad de imponer, directa o
 indirectamente, decisiones en el consejo de
 administración o en las asambleas generales de
@@ -3967,10 +3994,9 @@ prevista en el primer párrafo de este artículo y, por
 tanto, obligadas a dar las noticias o información
 mencionadas, en los casos en que sean solicitadas
 por las siguientes autoridades:
-I. El Procurador General de la República o el
-servidor público en quien delegue facultades para
-requerir información, en asuntos relativos a la
-comprobación de algún delito;
+I. El Fiscal General de la República o el servidor
+público en quien delegue;
+Fracción reformada DOF 20-05-2021
 II. Los procuradores generales de justicia de los
 Estados de la Federación y del Distrito Federal o
 subprocuradores, en asuntos relativos a la
@@ -3978,9 +4004,9 @@ comprobación de algún delito;
 III. El Procurador General de Justicia Militar, en
 asuntos relativos a la comprobación de algún
 delito;
-
 IV.Las autoridades hacendarias federales, para fines
 fiscales;
+
 V. La Secretaría de Hacienda y Crédito Público,
 para efectos de lo dispuesto por el artículo 91 de
 la presente Ley;
@@ -4011,14 +4037,11 @@ dentro
 del
 procedimiento de verificación a que se refieren
 los artículos 41 y 42 de la Ley Federal de
-
 Responsabilidades
 Administrativas
-Servidores Públicos;
-
 de
-
 los
+Servidores Públicos;
 
 IX.La Unidad de Fiscalización de los Recursos de
 los Partidos Políticos, órgano técnico del Consejo
@@ -4046,9 +4069,9 @@ fundamentación y motivación, por conducto de la
 Comisión. Los servidores públicos y las instituciones
 señalados en las fracciones I, VII y la unidad de
 fiscalización a que se refiere la fracción IX, podrán
-
 optar por solicitar a la autoridad judicial que expida la
 orden correspondiente, a efecto de que el fondo de
+
 inversión o las personas que les presten los servicios
 a que se refiere el artículo 32 de esta Ley, entreguen
 la información requerida, siempre que dichos
@@ -4081,8 +4104,8 @@ servicios que presten, así como tampoco la obligación
 de proporcionar la información que les sea solicitada
 por el Banco de México, la Comisión para la
 Protección y Defensa de los Usuarios de Servicios
-
 Financieros y la Secretaría de Hacienda y Crédito
+
 Público, en los términos de las disposiciones legales
 aplicables.
 Los documentos y los datos que proporcionen los
@@ -4175,8 +4198,8 @@ toda clase de información que estimen procedente
 para atender los requerimientos que les formulen, en
 el ámbito de su competencia, tales como
 documentos, constancias, registros, declaraciones y
-
 demás evidencias que tales autoridades tengan en su
+
 poder por haberla obtenido en el ejercicio de sus
 facultades.
 Para efectos de lo previsto en el párrafo anterior, las

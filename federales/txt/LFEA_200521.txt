@@ -1,0 +1,999 @@
+LEY DE FIRMA ELECTRÓNICA AVANZADA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 20-05-2021
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+LEY DE FIRMA ELECTRÓNICA AVANZADA
+Nueva Ley publicada en el Diario Oficial de la Federación el 11 de enero de 2012
+TEXTO VIGENTE
+Última reforma publicada DOF 20-05-2021
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la
+República.
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus
+habitantes sabed:
+Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+DECRETO
+"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :
+SE EXPIDE LA LEY DE FIRMA ELECTRÓNICA AVANZADA
+Artículo Único. Se expide la Ley de Firma Electrónica Avanzada, para quedar como sigue:
+
+TÍTULO PRIMERO
+DISPOSICIONES GENERALES
+CAPÍTULO ÚNICO
+Artículo 1. La presente Ley es de orden e interés público y tiene por objeto regular:
+I.
+
+El uso de la firma electrónica avanzada en los actos previstos en esta Ley y la expedición de
+certificados digitales a personas físicas;
+
+II.
+
+Los servicios relacionados con la firma electrónica avanzada, y
+
+III.
+
+La homologación de la firma electrónica avanzada con las firmas electrónicas avanzadas
+reguladas por otros ordenamientos legales, en los términos establecidos en esta Ley.
+
+Artículo 2. Para los efectos de la presente Ley se entenderá por:
+I.
+
+Actos: las comunicaciones, trámites, servicios, actos jurídicos y administrativos, así como
+procedimientos administrativos en los cuales los particulares y los servidores públicos de las
+dependencias y entidades de la Administración Pública Federal, y de las unidades
+administrativas de la Presidencia de la República, utilicen la firma electrónica avanzada;
+Fracción reformada DOF 20-05-2021
+
+II.
+
+Actuaciones Electrónicas: las notificaciones, citatorios, emplazamientos, requerimientos,
+solicitud de informes o documentos y, en su caso, las resoluciones administrativas definitivas
+que se emitan en los actos a que se refiere esta Ley que sean comunicadas por medios
+electrónicos;
+
+1 de 16
+
+LEY DE FIRMA ELECTRÓNICA AVANZADA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 20-05-2021
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+III.
+
+Acuse de Recibo Electrónico: el mensaje de datos que se emite o genera a través de medios de
+comunicación electrónica para acreditar de manera fehaciente la fecha y hora de recepción de
+documentos electrónicos relacionados con los actos establecidos por esta Ley;
+
+IV.
+
+Autoridad Certificadora: las dependencias y entidades de la Administración Pública Federal y
+los prestadores de servicios de certificación que conforme a las disposiciones jurídicas, tengan
+reconocida esta calidad y cuenten con la infraestructura tecnológica para la emisión,
+administración y registro de certificados digitales, así como para proporcionar servicios
+relacionados con los mismos;
+
+V.
+
+Certificado Digital: el mensaje de datos o registro que confirme el vínculo entre un firmante y la
+clave privada;
+
+VI.
+
+Clave Privada: los datos que el firmante genera de manera secreta y utiliza para crear su firma
+electrónica avanzada, a fin de lograr el vínculo entre dicha firma electrónica avanzada y el
+firmante;
+
+VII.
+
+Clave Pública: los datos contenidos en un certificado digital que permiten la verificación de la
+autenticidad de la firma electrónica avanzada del firmante;
+
+VIII.
+
+Datos y elementos de identificación: aquéllos que se encuentran considerados como tales en la
+Ley General de Población y en las disposiciones que deriven de la misma;
+
+IX.
+
+Dependencias: las secretarías de Estado, incluyendo a sus órganos administrativos
+desconcentrados y la Consejería Jurídica del Ejecutivo Federal, así como las unidades
+administrativas de la Presidencia de la República, conforme a lo dispuesto en la Ley Orgánica
+de la Administración Pública Federal.
+Fracción reformada DOF 20-05-2021
+
+X.
+
+Documento Electrónico: aquél que es generado, consultado, modificado o procesado por
+medios electrónicos;
+
+XI.
+
+Dirección de Correo Electrónico: la dirección en Internet señalada por los servidores públicos y
+particulares para enviar y recibir mensajes de datos y documentos electrónicos relacionados
+con los actos a que se refiere la presente Ley, a través de los medios de comunicación
+electrónica;
+
+XII.
+
+Entidades: los organismos públicos descentralizados, empresas de participación estatal
+mayoritaria y fideicomisos públicos que en términos de la Ley Orgánica de la Administración
+Pública Federal y de la Ley Federal de las Entidades Paraestatales, sean considerados
+entidades de la Administración Pública Federal Paraestatal;
+
+XIII.
+
+Firma Electrónica Avanzada: el conjunto de datos y caracteres que permite la identificación del
+firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que
+está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea
+detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos
+que la firma autógrafa;
+
+XIV.
+
+Firmante: toda persona que utiliza su firma electrónica avanzada para suscribir documentos
+electrónicos y, en su caso, mensajes de datos;
+
+XV.
+
+Medios de Comunicación Electrónica: los dispositivos tecnológicos que permiten efectuar la
+transmisión y recepción de mensajes de datos y documentos electrónicos;
+
+2 de 16
+
+LEY DE FIRMA ELECTRÓNICA AVANZADA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 20-05-2021
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+XVI.
+
+Medios Electrónicos: los dispositivos tecnológicos para el procesamiento, impresión,
+despliegue, conservación y, en su caso, modificación de información;
+
+XVII. Mensaje de Datos: la información generada, enviada, recibida, archivada o comunicada a través
+de medios de comunicación electrónica, que puede contener documentos electrónicos;
+XVIII. Página Web: el sitio en Internet que contiene información, aplicaciones y, en su caso, vínculos a
+otras páginas;
+XIX.
+
+Prestador de Servicios de Certificación: las instituciones públicas conforme a las leyes que les
+son aplicables, así como los notarios y corredores públicos y las personas morales de carácter
+privado que de acuerdo a lo establecido en el Código de Comercio sean reconocidas con tal
+carácter para prestar servicios relacionados con la firma electrónica avanzada y, en su caso,
+expedir certificados digitales;
+
+XX.
+
+Secretaría: la Secretaría de la Función Pública;
+
+XXI.
+
+Servicios relacionados con la Firma Electrónica Avanzada: los servicios de firmado de
+documentos electrónicos, de verificación de la vigencia de certificados digitales, de verificación
+y validación de la unicidad de la clave pública, así como de consulta de certificados digitales
+revocados, entre otros, que en términos de las disposiciones jurídicas aplicables pueden ser
+proporcionados por la autoridad certificadora;
+
+XXII. Sistema de Trámites Electrónicos: el sitio desarrollado por la dependencia o entidad y contenido
+en su página Web, para el envío y recepción de documentos, notificaciones y comunicaciones,
+así como para la consulta de información relacionada con los actos a que se refiere esta Ley;
+XXIII. Sujetos Obligados: los servidores públicos y particulares que utilicen la firma electrónica
+avanzada, en términos de lo previsto en las fracciones II y III del artículo 3 de esta Ley, y
+XXIV. Tablero Electrónico: el medio electrónico a través del cual se ponen a disposición de los
+particulares que utilicen la firma electrónica avanzada en términos de esta Ley, las actuaciones
+electrónicas que emitan las dependencias y entidades, y que genera un acuse de recibo
+electrónico. Este medio electrónico estará ubicado en el sistema de trámites electrónicos de las
+propias dependencias y entidades.
+Artículo 3. Están sujetos a las disposiciones de la presente Ley:
+I.
+
+Las dependencias y entidades;
+
+II.
+
+Los servidores públicos de las dependencias y entidades que en la realización de los actos a
+que se refiere esta Ley utilicen la firma electrónica avanzada, y
+
+III.
+
+Los particulares, en los casos en que utilicen la firma electrónica avanzada en términos de esta
+Ley.
+
+Artículo 4. Las disposiciones de esta Ley no serán aplicables a los actos en que no sea factible el uso
+de la firma electrónica avanzada por disposición de ley o aquéllos en que exista previo dictamen de la
+Secretaría. Tampoco serán aplicables a las materias fiscal, aduanera y financiera.
+En los actos de comercio e inscripciones en el Registro Público de Comercio, el uso de la firma
+electrónica avanzada se regirá de conformidad con lo previsto en el Código de Comercio y demás
+
+3 de 16
+
+LEY DE FIRMA ELECTRÓNICA AVANZADA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 20-05-2021
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+ordenamientos aplicables en la materia, sin perjuicio de la aplicación de lo dispuesto en esta Ley en lo
+que resulte procedente.
+Artículo 5. La Secretaría, en el ámbito de su competencia, estará facultada para interpretar las
+disposiciones de esta Ley para efectos administrativos.
+La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria dictarán, de
+manera conjunta, las disposiciones generales para el adecuado cumplimiento de esta Ley, mismas que
+deberán publicarse en el Diario Oficial de la Federación.
+Artículo 6. A falta de disposición expresa en esta Ley o en las demás disposiciones que de ella
+deriven, se aplicarán supletoriamente la Ley Federal de Procedimiento Administrativo, el Código Civil
+Federal y el Código Federal de Procedimientos Civiles.
+
+TÍTULO SEGUNDO
+DE LA FIRMA ELECTRÓNICA AVANZADA
+CAPÍTULO I
+Del uso y validez de la firma electrónica avanzada
+Artículo 7. La firma electrónica avanzada podrá ser utilizada en documentos electrónicos y, en su
+caso, en mensajes de datos.
+Los documentos electrónicos y los mensajes de datos que cuenten con firma electrónica avanzada
+producirán los mismos efectos que los presentados con firma autógrafa y, en consecuencia, tendrán el
+mismo valor probatorio que las disposiciones aplicables les otorgan a éstos.
+Artículo 8. Para efectos del artículo 7 de esta Ley, la firma electrónica avanzada deberá cumplir con
+los principios rectores siguientes:
+I.
+
+Equivalencia Funcional: Consiste en que la firma electrónica avanzada en un documento
+electrónico o en su caso, en un mensaje de datos, satisface el requisito de firma del mismo
+modo que la firma autógrafa en los documentos impresos;
+
+II.
+
+Autenticidad: Consiste en que la firma electrónica avanzada en un documento electrónico o, en
+su caso, en un mensaje de datos, permite dar certeza de que el mismo ha sido emitido por el
+firmante de manera tal que su contenido le es atribuible al igual que las consecuencias jurídicas
+que de él deriven;
+
+III.
+
+Integridad: Consiste en que la firma electrónica avanzada en un documento electrónico o, en su
+caso, en un mensaje de datos, permite dar certeza de que éste ha permanecido completo e
+inalterado desde su firma, con independencia de los cambios que hubiere podido sufrir el medio
+que lo contiene como resultado del proceso de comunicación, archivo o presentación;
+
+IV.
+
+Neutralidad Tecnológica: Consiste en que la tecnología utilizada para la emisión de certificados
+digitales y para la prestación de los servicios relacionados con la firma electrónica avanzada
+será aplicada de modo tal que no excluya, restrinja o favorezca alguna tecnología en particular;
+
+V.
+
+No Repudio: Consiste en que la firma electrónica avanzada contenida en documentos
+electrónicos garantiza la autoría e integridad del documento y que dicha firma corresponde
+exclusivamente al firmante, y
+
+4 de 16
+
+LEY DE FIRMA ELECTRÓNICA AVANZADA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 20-05-2021
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+VI.
+
+Confidencialidad: Consiste en que la firma electrónica avanzada en un documento electrónico o,
+en su caso, en un mensaje de datos, garantiza que sólo pueda ser cifrado por el firmante y el
+receptor.
+
+Artículo 9. Para que los sujetos obligados puedan utilizar la firma electrónica avanzada en los actos a
+que se refiere esta Ley deberán contar con:
+I.
+
+Un certificado digital vigente, emitido u homologado en términos de la presente Ley, y
+
+II.
+
+Una clave privada, generada bajo su exclusivo control.
+
+CAPÍTULO II
+De los documentos electrónicos y de los mensajes de datos
+Artículo 10. Las dependencias y entidades en las comunicaciones y, en su caso, actos jurídicos que
+realicen entre las mismas, harán uso de mensajes de datos y aceptarán la presentación de documentos
+electrónicos, los cuales deberán contar, cuando así se requiera, con la firma electrónica avanzada del
+servidor público facultado para ello.
+Artículo 11. Las dependencias y entidades en la realización de los actos a que se refiere esta Ley,
+deberán aceptar el uso de mensajes de datos y la presentación de documentos electrónicos cuando las
+mismas ofrezcan esta posibilidad, siempre que los particulares por sí o, en su caso, a través de las
+personas autorizadas por los mismos en términos del artículo 19 de la Ley Federal de Procedimiento
+Administrativo, manifiesten expresamente su conformidad para que dichos actos se efectúen, desde su
+inicio hasta su conclusión, a través de medios de comunicación electrónica.
+La manifestación a que se refiere el párrafo anterior deberá señalar adicionalmente:
+I.
+
+Que aceptan consultar el tablero electrónico, al menos, los días quince y último de cada mes o
+bien, el día hábil siguiente si alguno de éstos fuere inhábil; y en caso de no hacerlo, se tendrá
+por hecha la notificación en el día hábil que corresponda;
+
+II.
+
+Que aceptan darse por notificados de las actuaciones electrónicas que emita la dependencia o
+entidad que corresponda, en el mismo día en que consulten el tablero electrónico, y
+
+III.
+
+Que en el supuesto de que por causas imputables a la dependencia o entidad se encuentren
+imposibilitados para consultar el tablero electrónico o abrir los documentos electrónicos que
+contengan la información depositada en el mismo, en los días señalados en la fracción I de este
+artículo, lo harán del conocimiento de la propia dependencia o entidad a más tardar dentro de
+los tres días hábiles siguientes a aquél en que ocurra dicho impedimento, por medios de
+comunicación electrónica o cualquier otro previsto en el Reglamento de esta Ley, para que sean
+notificados por alguna otra forma de las establecidas en la Ley Federal de Procedimiento
+Administrativo.
+
+Artículo 12. Los sujetos obligados deberán contar con una dirección de correo electrónico para
+recibir, cuando corresponda, mensajes de datos y documentos electrónicos en la realización de los actos
+previstos en esta Ley.
+Artículo 13. Cada dependencia y entidad creará y administrará un sistema de trámites electrónicos
+que establezca el control de accesos, los respaldos y la recuperación de información, con mecanismos
+confiables de seguridad, disponibilidad, integridad, autenticidad, confidencialidad y custodia.
+
+5 de 16
+
+LEY DE FIRMA ELECTRÓNICA AVANZADA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 20-05-2021
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+La Secretaría emitirá los lineamientos conducentes a efecto de dar cumplimiento a lo dispuesto en
+este artículo.
+Artículo 14. La información contenida en los mensajes de datos y en los documentos electrónicos
+será pública, salvo que la misma esté clasificada como reservada o confidencial en términos de la Ley
+Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+Los mensajes de datos y los documentos electrónicos que contengan datos personales estarán
+sujetos a las disposiciones aplicables al manejo, seguridad y protección de los mismos.
+Artículo 15. Las dependencias y entidades, así como los sujetos obligados deberán conservar en
+medios electrónicos, los mensajes de datos y los documentos electrónicos con firma electrónica
+avanzada derivados de los actos a que se refiere esta Ley, durante los plazos de conservación previstos
+en los ordenamientos aplicables, según la naturaleza de la información.
+Mediante disposiciones generales se establecerá lo relativo a la conservación de los mensajes de
+datos y de los documentos electrónicos con firma electrónica avanzada, para lo cual se tomarán en
+cuenta, entre otros requisitos, los previstos en la Norma Oficial Mexicana a que se refiere el artículo 49
+del Código de Comercio.
+Artículo 16. Cuando se requiera que un documento impreso y con firma autógrafa, sea presentado o
+conservado en su forma original, tal requisito quedará satisfecho si la copia se genera en un documento
+electrónico, y se cumple con lo siguiente:
+I.
+
+Que la migración a una forma digital haya sido realizada o supervisada por un servidor público
+que cuente con facultades de certificación de documentos en términos de las disposiciones
+aplicables o, en su caso, por el particular interesado, quien deberá manifestar, bajo protesta de
+decir verdad, que el documento electrónico es copia íntegra e inalterada del documento
+impreso;
+
+II.
+
+Cuando exista duda sobre la autenticidad del documento electrónico remitido, la dependencia o
+entidad podrá solicitar que el documento impreso le sea presentado directamente o bien, que
+este último se le envíe por correo certificado con acuse de recibo.
+En el supuesto de que se opte por el envío del documento impreso a través de correo
+certificado, será necesario que adicionalmente se envíe dentro de los tres días hábiles
+siguientes, mediante un mensaje de datos, la guía que compruebe que el referido documento
+fue depositado en una oficina de correos;
+
+III.
+
+Que la información contenida en el documento electrónico se mantenga íntegra e inalterada a
+partir del momento en que se generó por primera vez en su forma definitiva y sea accesible
+para su ulterior consulta;
+
+IV.
+
+Que el documento electrónico permita conservar el formato del documento impreso y
+reproducirlo con exactitud, y
+
+V.
+
+Que se observe lo previsto en las disposiciones generales en materia de conservación de
+mensajes de datos y de los documentos electrónicos con firma electrónica avanzada.
+Lo establecido en este artículo se aplicará sin perjuicio de que las dependencias y entidades
+observen, conforme a la naturaleza de la información contenida en el documento impreso de
+que se trate, los plazos de conservación previstos en los ordenamientos aplicables.
+
+6 de 16
+
+LEY DE FIRMA ELECTRÓNICA AVANZADA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 20-05-2021
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+TÍTULO TERCERO
+DEL CERTIFICADO DIGITAL
+CAPÍTULO I
+De la estructura y procedimientos del certificado digital
+Artículo 17. El certificado digital deberá contener lo siguiente:
+I.
+
+Número de serie;
+
+II.
+
+Autoridad certificadora que lo emitió;
+
+III.
+
+Algoritmo de firma;
+
+IV.
+
+Vigencia;
+
+V.
+
+Nombre del titular del certificado digital;
+
+VI.
+
+Dirección de correo electrónico del titular del certificado digital;
+
+VII.
+
+Clave Única del Registro de Población (CURP) del titular del certificado digital;
+
+VIII.
+
+Clave pública, y
+
+IX.
+
+Los demás requisitos que, en su caso, se establezcan en las disposiciones generales que se
+emitan en términos de esta Ley.
+
+Artículo 18. Para obtener un certificado digital el interesado accederá a la página Web de la autoridad
+certificadora y llenará el formato de solicitud con los datos siguientes:
+I.
+
+Nombre completo del solicitante;
+
+II.
+
+Domicilio del solicitante;
+
+III.
+
+Dirección de correo electrónico para recibir mensajes de datos y documentos electrónicos;
+
+IV.
+
+Clave Única del Registro de Población (CURP) del solicitante, salvo que se trate de extranjeros,
+quienes deberán asentar los datos del documento que acredite su legal estadía en territorio
+nacional, y
+
+V.
+
+Nombre de la autoridad certificadora a quien va dirigida la solicitud.
+Posteriormente, el interesado deberá acudir ante la Autoridad Certificadora correspondiente y
+entregar su solicitud con firma autógrafa, acompañada de:
+a)
+
+El documento que compruebe el domicilio a que se refiere la fracción II;
+
+b)
+
+El documento de identificación oficial expedido por autoridad competente, y
+
+c)
+
+El documento probatorio de nacionalidad mexicana, y tratándose de extranjeros, el
+documento que acredite su legal estadía en territorio nacional.
+
+7 de 16
+
+LEY DE FIRMA ELECTRÓNICA AVANZADA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 20-05-2021
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria
+establecerán de manera conjunta, en términos de las disposiciones aplicables, los
+procedimientos para el registro de datos y verificación de elementos de identificación, emisión,
+renovación y revocación de certificados digitales, los cuales darán a conocer a través de sus
+respectivas páginas Web.
+Artículo 19. El certificado digital quedará sin efectos o será revocado por la autoridad certificadora
+que lo emitió, cuando se actualice alguno de los supuestos siguientes:
+I.
+
+Por expiración de su vigencia;
+
+II.
+
+Cuando se compruebe que los documentos que presentó el titular del certificado digital para
+acreditar su identidad son falsos;
+
+III.
+
+Cuando así lo solicite el titular del certificado digital a la autoridad certificadora que lo emitió;
+
+IV.
+
+Por fallecimiento del titular del certificado digital;
+
+V.
+
+Cuando se extravíe o inutilice por daños el medio electrónico que contenga los certificados
+digitales;
+
+VI.
+
+Cuando se ponga en riesgo la confidencialidad, integridad o seguridad de los datos de creación
+de la firma electrónica avanzada, y
+
+VII.
+
+Por resolución de autoridad judicial o administrativa que así lo determine.
+En los casos a que se refiere la fracción IV de este artículo, la revocación procederá a solicitud
+de un tercero legalmente autorizado, quien deberá acompañar el acta de defunción del titular
+del certificado digital.
+
+Artículo 20. La vigencia del certificado digital será de cuatro años como máximo, la cual iniciará a
+partir del momento de su emisión y expirará el día y en la hora señalada en el mismo.
+
+CAPÍTULO II
+Derechos y obligaciones del titular del certificado digital
+Artículo 21. El titular de un certificado digital tendrá los derechos siguientes:
+I.
+
+II.
+
+A ser informado por la autoridad certificadora que lo emita sobre:
+a)
+
+Las características y condiciones precisas para la utilización del certificado digital, así
+como los límites de su uso;
+
+b)
+
+Las características generales de los procedimientos para la generación y emisión del
+certificado digital y la creación de la clave privada, y
+
+c)
+
+La revocación del certificado digital;
+
+A que los datos e información que proporcione a la autoridad certificadora sean tratados de
+manera confidencial, en términos de las disposiciones jurídicas aplicables, y
+
+8 de 16
+
+LEY DE FIRMA ELECTRÓNICA AVANZADA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 20-05-2021
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+III.
+
+A solicitar la modificación de datos y elementos del certificado digital, mediante la revocación de
+éste, cuando así convenga a sus intereses.
+
+Artículo 22. El titular de un certificado digital estará obligado a lo siguiente:
+I.
+
+Hacer declaraciones veraces y completas en relación con los datos y documentos que
+proporcione para su identificación personal;
+
+II.
+
+Custodiar adecuadamente sus datos de creación de firma y la clave privada vinculada con ellos,
+a fin de mantenerlos en secreto;
+
+III.
+
+Solicitar a la autoridad certificadora la revocación de su certificado digital en caso de que la
+integridad o confidencialidad de sus datos de creación de firma o su frase de seguridad hayan
+sido comprometidos y presuma que su clave privada pudiera ser utilizada indebidamente, y
+
+IV.
+
+Dar aviso a la autoridad certificadora respectiva de cualquier modificación de los datos que
+haya proporcionado para su identificación personal, a fin de que ésta incorpore las
+modificaciones en los registros correspondientes y emita un nuevo certificado digital.
+
+CAPÍTULO III
+De las autoridades certificadoras
+Artículo 23. La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria son
+consideradas autoridades certificadoras para emitir certificados digitales en términos de esta Ley.
+Artículo 24. Las dependencias y entidades, distintas a las mencionadas en el artículo anterior, así
+como los prestadores de servicios de certificación que estén interesados en tener el carácter de autoridad
+certificadora en términos de la presente Ley, deberán:
+I.
+
+Contar con el dictamen favorable de la Secretaría, y
+
+II.
+
+Cumplir con los demás requisitos que se establezcan en las disposiciones generales que se
+emitan en los términos de esta Ley.
+Adicionalmente, los notarios y corredores públicos y las personas morales de carácter privado
+deberán presentar el documento emitido por la Secretaría de Economía que los acredite como
+prestadores de servicios de certificación, en virtud de haber cumplido con los requisitos
+establecidos en el Código de Comercio y su Reglamento.
+
+Artículo 25. Las autoridades certificadoras tendrán las atribuciones y obligaciones siguientes:
+I.
+
+Emitir, administrar y registrar certificados digitales, así como prestar servicios relacionados con
+la firma electrónica avanzada;
+
+II.
+
+Llevar un registro de los certificados digitales que emitan y de los que revoquen, así como
+proveer los servicios de consulta a los interesados;
+
+III.
+
+Adoptar las medidas necesarias para evitar la falsificación, alteración o uso indebido de
+certificados digitales, así como de los servicios relacionados con la firma electrónica avanzada;
+
+9 de 16
+
+LEY DE FIRMA ELECTRÓNICA AVANZADA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 20-05-2021
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+IV.
+
+Revocar los certificados de firma electrónica avanzada, cuando se actualice alguno de los
+supuestos previstos en el artículo 19 de esta Ley conforme a los procedimientos a que se
+refiere el artículo 18 de la misma;
+
+V.
+
+Garantizar la autenticidad, integridad, conservación, confidencialidad y confiabilidad de la firma
+electrónica avanzada, así como de los servicios relacionados con la misma;
+
+VI.
+
+Preservar la confidencialidad, integridad y seguridad de los datos personales de los titulares de
+los certificados digitales en términos de la Ley Federal de Transparencia y Acceso a la
+Información Pública Gubernamental, su Reglamento y demás disposiciones aplicables, y
+
+VII.
+
+Las demás que les confieran las disposiciones jurídicas aplicables.
+Lo anterior, sin perjuicio de las atribuciones que, en su carácter de autoridad certificadora,
+corresponden al Servicio de Administración Tributaria en términos de la legislación fiscal y
+aduanera.
+
+Artículo 26. Las autoridades certificadoras que sean reconocidas como tales en términos del artículo
+24 de esta Ley, podrán dejar de tener ese carácter cuando incumplan las obligaciones previstas en la
+presente Ley o se ubiquen en alguno de los supuestos previstos en el Reglamento de esta Ley.
+Cuando la autoridad certificadora sea un prestador de servicios de certificación, el procedimiento para
+revocar el instrumento que le reconozca tal carácter, tendrá lugar conforme a la Ley Federal de
+Procedimiento Administrativo.
+Artículo 27. La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria
+podrán coordinarse para acordar y definir los estándares, características y requerimientos tecnológicos a
+que se deberán sujetar las autoridades certificadoras referidas en el artículo 24 de esta Ley para
+garantizar la autenticidad, integridad, conservación, confidencialidad y confiabilidad de la firma electrónica
+avanzada.
+
+CAPÍTULO IV
+Del reconocimiento de certificados digitales y de la celebración de bases de colaboración
+y convenios de colaboración o coordinación
+Artículo 28. La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria y
+demás autoridades certificadoras a que se refiere el artículo 24 podrán celebrar bases o convenios de
+colaboración, según corresponda para la prestación de servicios relacionados con la firma electrónica
+avanzada.
+Artículo 29. El Ejecutivo Federal, por conducto de la Secretaría, de la Secretaría de Economía o el
+Servicio de Administración Tributaria, a solicitud de cualquier autoridad certificadora, podrá suscribir
+previa opinión de las otras dos, convenios de coordinación para el reconocimiento de certificados
+digitales homologados en términos de lo previsto en esta Ley, con:
+I.
+
+Los poderes Legislativo y Judicial, federales;
+
+II.
+
+Los órganos constitucionales autónomos, y
+
+III.
+
+Los gobiernos de las entidades federativas, los municipios y los órganos político-administrativos
+del Distrito Federal.
+
+10 de 16
+
+LEY DE FIRMA ELECTRÓNICA AVANZADA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 20-05-2021
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+Los convenios de coordinación que se suscriban deberán darse a conocer a las demás
+autoridades certificadoras, a través de la página Web de la Secretaría.
+Artículo 30. Los certificados digitales expedidos fuera de la República Mexicana tendrán la misma
+validez y producirán los mismos efectos jurídicos reconocidos en la presente Ley, siempre y cuando tales
+certificados sean reconocidos por las autoridades certificadoras a que se refiere el artículo 23 de la propia
+Ley y se garanticen, en la misma forma que lo hacen con sus propios certificados, el cumplimiento de los
+requisitos, el procedimiento, así como la validez y vigencia del certificado.
+
+TÍTULO CUARTO
+DE LAS RESPONSABILIDADES Y SANCIONES
+CAPÍTULO ÚNICO
+Artículo 31. Las conductas de los servidores públicos que impliquen el incumplimiento a los preceptos
+establecidos en la presente Ley, dará lugar al procedimiento y a las sanciones que correspondan en
+términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+Cuando las infracciones a la presente Ley impliquen la posible comisión de una conducta sancionada
+en los términos de la legislación civil, penal o de cualquier otra naturaleza, las dependencias y entidades
+lo harán del conocimiento de las autoridades competentes.
+
+Transitorios
+Primero. La presente Ley entrará en vigor a los ciento veinte días hábiles siguientes al de su
+publicación en el Diario Oficial de la Federación.
+Segundo. Se derogan todas aquellas disposiciones legales y administrativas que se opongan a lo
+previsto en esta Ley.
+Tercero. El Ejecutivo Federal expedirá el Reglamento de la presente Ley dentro de los ciento ochenta
+días hábiles siguientes a la fecha de la entrada en vigor de la Ley.
+Cuarto. Los certificados digitales expedidos con anterioridad a la entrada en vigor de esta Ley por los
+prestadores de servicios de certificación que, conforme a las disposiciones jurídicas aplicables, tengan
+reconocida la calidad de autoridad certificadora, así como por la Secretaría, la Secretaría de Economía y
+el Servicio de Administración Tributaria, conservarán su vigencia y alcances, de conformidad con las
+disposiciones jurídicas bajo las cuales fueron expedidos.
+La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria reconocerán, para
+efectos de lo establecido en la presente Ley, los certificados digitales a que se refiere el párrafo anterior,
+siempre que los mismos cumplan al menos con los requisitos señalados en las fracciones I a V, VII y VIII
+del artículo 17 de esta Ley.
+Las bases o convenios de colaboración que la Secretaría, la Secretaría de Economía y el Servicio de
+Administración Tributaria hayan celebrado con anterioridad a la entrada en vigor de esta Ley, con las
+Dependencias y Entidades, así como con los órganos constitucionales autónomos para efectos del
+reconocimiento de certificados digitales, podrán mantener la vigencia prevista en los mismos hasta que la
+totalidad de los certificados digitales existentes sean homologados en términos de esta Ley.
+
+11 de 16
+
+LEY DE FIRMA ELECTRÓNICA AVANZADA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 20-05-2021
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+Quinto. Las disposiciones generales a que se refiere el segundo párrafo del artículo 5 de la presente
+Ley se emitirán en un plazo máximo de noventa días hábiles, contados a partir de la entrada en vigor de
+este ordenamiento.
+Sexto. Para efectos de lo previsto en el primer párrafo del artículo 4 de esta Ley, las dependencias y
+entidades deberán remitir a la Secretaría, a más tardar en la fecha de entrada en vigor de esta Ley, su
+programa de instrumentación para el uso de la firma electrónica avanzada, en el que se contemplen los
+distintos actos en los que sea o no factible el uso de la firma electrónica avanzada, con objeto de que la
+Secretaría emita, cuando corresponda, el dictamen que determine la gradualidad requerida para que la
+dependencia o entidad respectiva esté en posibilidad de instrumentar el uso de la firma electrónica
+avanzada en los actos que le competen. La Secretaría podrá proporcionar el apoyo que soliciten las
+dependencias y entidades para la instrumentación del referido programa.
+Tratándose de los procedimientos de acceso a la información de las Dependencias y Entidades el
+Instituto Federal de Acceso a la Información Pública y Protección de Datos determinará si en los mismos
+resulta factible incorporar el uso de la firma electrónica avanzada en los términos de la presente Ley.
+México, D. F., a 24 de noviembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio
+Chuayffet Chemor, Presidente.- Sen. Arturo Herviz Reyes, Secretario.- Dip. Herón Escobar García,
+Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a seis de enero de dos
+mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro
+Alfonso Poiré Romero.- Rúbrica.
+
+12 de 16
+
+LEY DE FIRMA ELECTRÓNICA AVANZADA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 20-05-2021
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
+DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la
+Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan
+diversas disposiciones de distintos ordenamientos legales.
+Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
+
+Artículo Trigésimo Quinto.- Se reforman las fracciones I y IX del artículo 2 de la Ley de Firma
+Electrónica Avanzada, para quedar como sigue:
+………
+
+Transitorios
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se
+expidió la Ley Orgánica de la Fiscalía General de la República.
+Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+Todas las referencias normativas a la Procuraduría General de la República o del Procurador General
+de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular,
+respectivamente, en los términos de sus funciones constitucionales vigentes.
+Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
+conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía
+General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas
+titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el
+ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo
+Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron
+designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del
+proceso pendiente.
+Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
+días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de
+la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición
+de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos
+jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
+Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes,
+celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República
+se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al
+presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos
+posteriormente o, en su caso, de ser derogados o abrogados.
+Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
+Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que
+pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y
+de gestión, dentro del ámbito de la Fiscalía General de la República.
+
+13 de 16
+
+LEY DE FIRMA ELECTRÓNICA AVANZADA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 20-05-2021
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el
+Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para
+transitar al servicio profesional de carrera.
+Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus
+servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según
+disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con
+aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
+El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas
+trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de
+liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones
+laborales subsistirán.
+A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto
+Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus
+lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la
+República.
+Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de
+Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como
+un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de
+carrera que se instale.
+Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que
+cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias
+Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente
+Decreto.
+Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
+del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades
+competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las
+atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los
+Estatutos y demás normatividad derivada del presente Decreto.
+Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
+Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará
+los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia
+de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder
+al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía
+General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del
+servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras
+públicas que no se sometan o no acrediten el proceso de evaluación.
+El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su
+nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la
+contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General
+de la República que continúa en la Fiscalía General de la República, así como para el personal de
+transición.
+Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
+Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
+
+14 de 16
+
+LEY DE FIRMA ELECTRÓNICA AVANZADA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 20-05-2021
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán
+adherirse a los programas de liquidación que para tales efectos se expidan.
+Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
+constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o
+modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
+recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente
+la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para
+la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de
+la Procuraduría General de la República.
+Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la
+Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
+Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
+de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en
+vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la
+República, pasarán a formar parte de su patrimonio.
+Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido
+asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a
+la entrada en vigor del presente Decreto.
+Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
+un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de
+Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la
+Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá
+ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+tercero del artículo 88 del presente Decreto.
+El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante
+el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del
+presente Decreto.
+Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República
+contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no
+impedirá la presentación del Plan Estratégico de Procuración de Justicia.
+Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
+de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las
+responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la
+República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para
+que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el
+presente Decreto.
+Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
+corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor
+del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
+Federación.
+
+15 de 16
+
+LEY DE FIRMA ELECTRÓNICA AVANZADA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 20-05-2021
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán
+resueltos por la Secretaría de la Función Pública.
+Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o
+presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al
+Órgano Interno de Control de la Fiscalía General de la República.
+Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
+o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean
+susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto
+para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar
+Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced
+González González, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés
+Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen
+Sánchez Cordero Dávila.- Rúbrica.
+
+16 de 16
+
