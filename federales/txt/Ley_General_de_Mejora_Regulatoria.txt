@@ -4,9 +4,10 @@ Secretaría de Servicios Parlamentarios
 Versión PDF para vista en dispositivo móvil Android y Apple iOS
 
 LEY GENERAL DE MEJORA REGULATORIA
-TEXTO VIGENTE
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 18 de mayo de 2018
+TEXTO VIGENTE
+Última reforma publicada DOF 20-05-2021
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -20,8 +21,11 @@ DECRETO
 UNIDOS MEXICANOS, DECRETA:
 SE EXPIDE LA LEY GENERAL DE MEJORA
 REGULATORIA Y SE DEROGAN DIVERSAS
-DISPOSICIONES DE LA LEY FEDERAL DE
+
+DISPOSICIONES DE LA LEY FEDERAL
 PROCEDIMIENTO ADMINISTRATIVO
+
+DE
 
 Artículo Primero.- Se expide la Ley General de
 Mejora Regulatoria
@@ -45,10 +49,10 @@ a los que deberán sujetarse los órdenes de gobierno,
 en el ámbito de sus respectivas competencias, en
 materia de mejora regulatoria.
 Artículo 2. Son objetivos de esta Ley:
+
 I. Establecer la obligación de las autoridades de
 todos los órdenes de gobierno, en el ámbito de su
 competencia, de implementar políticas públicas de
-
 mejora regulatoria para el perfeccionamiento de las
 Regulaciones y la simplificación de los Trámites y
 Servicios;
@@ -71,21 +75,12 @@ expedir;
 II. Autoridad de Mejora Regulatoria: La Comisión
 Nacional de Mejora Regulatoria, las comisiones de
 mejora regulatoria de las entidades federativas,
+
 municipales o de alcaldías o equivalentes, los
 comités, las unidades administrativas o áreas
 responsables de conducir la política de mejora
-
-regulatoria en
+regulatoria en sus respectivos ámbitos de
 competencia;
-
-sus
-
-respectivos
-
-ámbitos
-
-de
-
 III. Catálogo: El Catálogo Nacional de Regulaciones,
 Trámites y Servicios;
 IV. Comisionado: El Titular de la Comisión Nacional
@@ -105,10 +100,10 @@ IX. Expediente para Trámites y Servicios: El
 conjunto de documentos electrónicos emitidos por los
 Sujetos Obligados asociados a personas físicas o
 morales, que pueden ser utilizados por cualquier
+
 autoridad competente, para resolver trámites y
 servicios;
 X. Ley: La Ley General de Mejora Regulatoria;
-
 XI. Medio de Difusión: La publicación oficial impresa
 o electrónica por medio de la cual los Sujetos
 Obligados dan a conocer las Regulaciones que
@@ -132,9 +127,9 @@ Decreto, Directiva, Disposición de carácter general,
 Disposición Técnica, Estatuto, Formato, Instructivo,
 Ley, Lineamiento, Manual, Metodología, Norma Oficial
 Mexicana, Regla, Reglamento, o cualquier otra
+
 denominación de naturaleza análoga que expida
 cualquier Sujeto Obligado;
-
 La regulación o regulaciones a las que hace
 referencia la presente fracción estarán sujetas al
 Análisis de Impacto Regulatorio en términos del
@@ -151,16 +146,17 @@ Mejora Regulatoria;
 XIX. Sujeto Obligado: La Administración Pública
 Federal y sus respectivos homólogos de las entidades
 federativas, los municipios o alcaldías y sus
-dependencias y entidades, la Procuraduría General
-de la República y las procuradurías o fiscalías locales.
+dependencias y entidades, la Fiscalía General de la
+República y las procuradurías o fiscalías locales.
+Párrafo reformado DOF 20-05-2021
 Los poderes legislativos, judiciales, así como los
 organismos con autonomía constitucional de los
 órdenes federal o local y los organismos con
 jurisdicción contenciosa, que no formen parte de los
 poderes judiciales serán sujetos obligados para
+
 efectos de lo previsto en el Capítulo VI del Título
 Segundo de esta Ley;
-
 XX. Sujeto Obligado de la Administración Pública
 Federal: Son los Sujetos Obligados exclusivamente
 de la Administración Pública Federal, y
@@ -184,10 +180,10 @@ Sujetos Obligados en el Medio de Difusión.
 Capítulo II
 De los Principios, Bases y Objetivos de la Mejora
 Regulatoria
+
 Artículo 6. Los Sujetos Obligados, en la expedición
 de las Regulaciones, Trámites y Servicios deberán
 respetar los principios de legalidad, reserva de ley,
-
 jerarquía normativa y todos aquellos principios que
 tiendan al cumplimiento de los objetivos de esta Ley.
 Artículo 7. La política de mejora regulatoria se
@@ -215,8 +211,8 @@ y
 
 VIII. Transparencia, responsabilidad y rendición de
 cuentas;
-IX. Fomento a la competitividad y el empleo;
 
+IX. Fomento a la competitividad y el empleo;
 X. Promoción de la libre concurrencia y competencia
 económica, así como del funcionamiento eficiente de
 los mercados, y
@@ -244,11 +240,11 @@ Trámites y Servicios de los Sujetos Obligados;
 III. Procurar que las Regulaciones no impongan
 barreras al comercio internacional, a la libre
 concurrencia y la competencia económica;
+
 IV. Generar seguridad jurídica, claridad y
 transparencia en la elaboración y aplicación de las
 Regulaciones, Trámites y Servicios;
 V. Simplificar y modernizar los Trámites y Servicios;
-
 VI. Fomentar una cultura que ponga a las personas
 como centro de la gestión gubernamental;
 VII. Mejorar el ambiente para hacer negocios;
@@ -268,10 +264,10 @@ derechos y el cumplimiento de sus obligaciones;
 XII. Armonizar el marco normativo de la mejora
 regulatoria en el país atendiendo los principios de
 esta Ley;
+
 XIII. Facilitar el conocimiento y el entendimiento por
 parte de la sociedad, de la Regulación, mediante la
 accesibilidad y el uso de lenguaje claro;
-
 XIV. Coadyuvar en las acciones para reducir el costo
 económico derivado de los requerimientos de
 Trámites y Servicios establecidos por parte de los
@@ -294,10 +290,10 @@ a través de la Estrategia, normas, principios,
 objetivos, planes, directrices, órganos, instancias,
 procedimientos y la política nacional en materia de
 mejora regulatoria.
+
 Artículo 10. El Sistema Nacional estará integrado
 por:
 I. El Consejo Nacional;
-
 II. La Estrategia;
 III. La Comisión Nacional;
 IV. Los Sistemas de Mejora Regulatoria de las
@@ -328,10 +324,10 @@ y
 
 Artículo 12. Los titulares de las Autoridades de
 Mejora Regulatoria serán designados por los titulares
+
 de los poderes ejecutivos de su respectivo orden de
 gobierno, con nivel de subsecretario, oficial mayor o
 equivalente.
-
 Artículo 13. Los titulares de los Sujetos Obligados
 designarán a un servidor público con nivel de
 subsecretario u oficial mayor como responsable oficial
@@ -356,9 +352,9 @@ Del Consejo Nacional de Mejora Regulatoria
 Artículo 14. El Consejo Nacional es la instancia
 responsable de coordinar la política nacional de
 mejora regulatoria y está integrado por:
+
 I. El Titular de la Secretaría de Economía, quien lo
 presidirá;
-
 II. El Titular de la Secretaría de Gobernación;
 III. El Titular de la Secretaría de Hacienda y Crédito
 Público;
@@ -377,9 +373,9 @@ b) Un presidente del sistema estatal de mejora
 regulatoria integrante del grupo dos;
 c) Un presidente del sistema estatal de mejora
 regulatoria integrante del grupo tres;
+
 d) Un presidente del sistema estatal de mejora
 regulatoria integrante del grupo cuatro, y
-
 e) Un presidente del sistema estatal de mejora
 regulatoria integrante del grupo cinco.
 IX. El Comisionado de la Comisión Nacional, quien
@@ -404,9 +400,9 @@ Puebla, Tlaxcala.
 GRUPO CINCO (Sureste): Chiapas, Tabasco,
 Guerrero, Oaxaca, Quintana Roo, Yucatán, Veracruz,
 Campeche.
+
 Los cinco presidentes de los sistemas estatales de
 mejora regulatoria durarán en su cargo 2 años. Los
-
 presidentes de los sistemas locales de mejora
 regulatoria ocuparán sus puestos en el consejo y
 serán sustituidos, en el orden alfabético de las
@@ -428,10 +424,10 @@ II. El Comisionado Presidente de la Comisión
 Federal de Competencia Económica;
 III. El Comisionado Presidente del Instituto Federal
 de Telecomunicaciones;
+
 IV. El Comisionado Presidente del Instituto Nacional
 de Transparencia, Acceso a la Información y
 Protección de Datos Personales, y
-
 V. El Presidente de la Junta de Gobierno del Instituto
 Nacional de Estadística y Geografía.
 Artículo 16. Serán invitados especiales del Consejo
@@ -452,10 +448,10 @@ de observancia obligatoria para los Sujetos
 Obligados;
 II. Aprobar, a propuesta de la Comisión Nacional, la
 Estrategia;
+
 III. Determinar los mecanismos de suministro,
 intercambio, sistematización y actualización de la
 información que sobre esta materia generen los
-
 Sujetos Obligados y las Autoridades de Mejora
 Regulatoria;
 IV. Conocer, analizar y atender los resultados de las
@@ -478,10 +474,10 @@ regulatoria;
 VIII. Conocer problemáticas, obstáculos y fallos
 regulatorios que impidan el cumplimiento del objeto
 de la presente Ley;
+
 IX. Conformar grupos de trabajo especializados que
 podrán ser creados por materia, criterios geográficos
 o grados de desarrollo, para la consecución de los
-
 objetivos de esta Ley, de acuerdo a las disposiciones
 que el Consejo Nacional establezca para tal efecto;
 X. Emitir recomendaciones a los Sujetos Obligados,
@@ -503,11 +499,11 @@ acciones a desarrollar para su implementación, en un
 término de treinta días a partir de que sea
 comunicado por el Secretario Técnico. Los informes
 serán públicos y en datos abiertos.
+
 Artículo 19. El Consejo Nacional sesionará de
 forma ordinaria cuando menos dos veces al año y de
 forma extraordinaria cuando, por la naturaleza de los
 temas a tratar, sea necesario a juicio del Presidente
-
 del Consejo Nacional. La convocatoria se hará llegar
 a los miembros del Consejo Nacional, por conducto
 del Secretario Ejecutivo, con una anticipación de diez
@@ -530,10 +526,10 @@ instrumentos jurídicos que deriven, y expedir
 constancia de los mismos;
 II. Elaborar y publicar informes de actividades del
 Consejo Nacional;
+
 III. Publicar en el Diario Oficial de la Federación los
 instrumentos a los que se refieren las fracciones I, II y
 XIII del artículo 17 de esta Ley, y
-
 IV. Las demás que le señale esta Ley, el
 Reglamento y demás disposiciones jurídicas
 aplicables.
@@ -557,9 +553,9 @@ lo siguiente:
 I. Un diagnóstico por parte de la Comisión Nacional
 de la situación que guarda la política de mejora
 regulatoria en el país;
+
 II. Las buenas prácticas nacionales e internacionales
 en materia de mejora regulatoria;
-
 III. Los objetivos de corto, mediano y largo plazo;
 IV. Los elementos para la instrumentación de la
 mejora regulatoria;
@@ -580,11 +576,11 @@ regiones del país;
 X. Las directrices, mecanismos y lineamientos
 técnicos para integrar, actualizar y operar el Catálogo,
 incluyendo procedimientos, formatos y plazos para
+
 que los Sujetos Obligados ingresen la información
 correspondiente;
 XI. Los lineamientos generales de aplicación del
 Análisis de Impacto Regulatorio;
-
 XII. Los criterios para revisar, actualizar y mejorar el
 acervo regulatorio nacional;
 XIII. Los mecanismos para fortalecer las
@@ -605,11 +601,11 @@ en los procedimientos de diseño e implementación de
 la Regulación;
 XVII. Los mecanismos de coordinación para
 garantizar la congruencia de la Regulación que
+
 expidan los Sujetos Obligados en términos de esta
 Ley;
 XVIII. Los mecanismos que regulen el procedimiento
 a que se sujete la Protesta Ciudadana, y
-
 XIX. Las demás que se deriven de esta Ley y otras
 disposiciones jurídicas aplicables.
 Capítulo IV
@@ -630,11 +626,11 @@ establece esta Ley;
 II. Proponer al Consejo Nacional la Estrategia y
 desarrollar, monitorear, evaluar y dar publicidad a la
 misma;
+
 III. Proponer al Consejo Nacional la emisión de
 directrices, instrumentos, lineamientos, mecanismos y
 buenas prácticas para el cumplimiento del objeto de
 esta Ley;
-
 IV. Proponer al Consejo Nacional las metodologías
 para la organización y sistematización de la
 información administrativa y estadística, así como los
@@ -657,11 +653,11 @@ promoción e implementación;
 IX. Elaborar y presentar al Congreso de la Unión un
 informe anual sobre los resultados, avances y retos
 de la política nacional de mejora regulatoria;
+
 X. Elaborar y promover programas académicos
 directamente o en colaboración con otras instituciones
 para la formación de capacidades en materia de
 mejora regulatoria;
-
 XI. Convocar y organizar foros, conferencias,
 coloquios,
 diplomados,
@@ -689,11 +685,11 @@ de
 disposiciones legislativas y administrativas en materia
 de mejora regulatoria, mismas que podrán ser
 incorporadas a los programas que se establezcan
+
 para mejorar la Regulación en actividades o sectores
 económicos específicos;
 II. Dictaminar las Propuestas Regulatorias y los
 Análisis de Impacto Regulatorio correspondientes;
-
 III. Establecer los mecanismos para dar publicidad a
 la Agenda Regulatoria de los Sujetos Obligados de la
 Administración Pública Federal;
@@ -715,10 +711,10 @@ regulatoria;
 VIII. Establecer acuerdos y convenios de
 colaboración, concertación y coordinación que
 contribuyan al cumplimiento de sus objetivos;
+
 IX. Proponer a los Sujetos Obligados de la
 Administración Pública Federal la revisión de su
 acervo regulatorio y de sus Trámites y Servicios;
-
 X. Calcular el costo económico de los Trámites y
 Servicios con la información proporcionada por los
 Sujetos Obligados de la Administración Pública
@@ -743,12 +739,12 @@ internacionales en el ámbito de su competencia de
 conformidad con lo establecido en esta Ley;
 XV. Promover el estudio, la divulgación y la
 aplicación de la política pública de mejora regulatoria;
+
 XVI. Expedir, publicar y presentar ante el Congreso
 de la Unión un informe anual sobre el desempeño de
 las funciones de la Comisión Nacional y los avances
 de los Sujetos Obligados de la Administración Pública
 Federal en materia de mejora regulatoria;
-
 XVII. Supervisar que los Sujetos Obligados de la
 Administración Pública Federal tengan actualizada la
 parte que les corresponde del Catálogo, así como
@@ -770,11 +766,11 @@ Comisión Nacional.
 Artículo 27. Corresponde al Comisionado:
 I. Dirigir y representar legalmente a la Comisión
 Nacional;
+
 II. Adscribir las unidades administrativas de la
 Comisión Nacional;
 III. Expedir los manuales internos de la Comisión
 Nacional;
-
 IV. Delegar
 competencia;
 
@@ -811,12 +807,12 @@ diplomados, seminarios, talleres, reuniones, eventos,
 convenciones y congresos que se lleven a cabo con
 organismos nacionales e internacionales, cuando se
 refieran a temas relacionados con el objeto de esta
+
 Ley y los objetivos de la política de la mejora
 regulatoria;
 X. Colaborar con las Autoridades de Mejora
 Regulatoria para fortalecer y eficientar los
 mecanismos de coordinación, y
-
 XI. Las demás que le confieran esta Ley y su
 Reglamento, el Reglamento Interior de la Comisión
 Nacional y cualquier otra disposición jurídica
@@ -838,13 +834,13 @@ las entidades federativas estarán integrados por un
 Consejo Local, sus Autoridades de Mejora
 Regulatoria y los Sujetos Obligados correspondientes
 a la entidad federativa.
+
 El Consejo Local deberá de sesionar por lo menos
 una vez al año. Su integración se llevará a cabo
 conforme a lo establecido por las disposiciones
 jurídicas aplicables de cada entidad federativa y será
 presidido por el Titular del Ejecutivo de la entidad
 federativa.
-
 El Consejo Local deberá incluir la participación de
 representantes de los sectores privado, social y
 académico en sus sesiones.
@@ -872,6 +868,7 @@ Artículo 30. Los Poderes Legislativo y Judicial, así
 como los organismos con autonomía constitucional,
 de los órdenes federal o local y los Organismos con
 Jurisdicción Contenciosa que no formen parte de los
+
 poderes judiciales, atendiendo a su presupuesto,
 deberán designar, dentro de su estructura orgánica,
 una instancia responsable encargada de aplicar lo
@@ -879,7 +876,6 @@ establecido en el Capítulo I del Título Tercero de esta
 Ley en relación con el Catálogo, o bien, coordinarse
 con la Autoridad de Mejora Regulatoria del orden de
 gobierno al que pertenezcan.
-
 Lo previsto en el párrafo anterior no será aplicable
 para procesos jurisdiccionales.
 Capítulo VII
@@ -900,20 +896,15 @@ impida el libre ejercicio de sus actividades en el
 Observatorio.
 Los integrantes del Observatorio serán nombrados
 por el Consejo Nacional bajo el procedimiento que
+
 para tal efecto establezca, durarán en su encargo
 cinco años, con posibilidad de reelección por un
 periodo más, serán renovados de manera escalonada
 y solo podrán ser removidos por alguna de las causas
 establecidas por la normatividad relativa a los actos
 de particulares vinculados con faltas administrativas
-
-graves previstas en la Ley
+graves previstas en la Ley General de
 Responsabilidades Administrativas.
-
-General
-
-de
-
 Cuando algún integrante del Observatorio no pueda
 continuar con sus actividades en el mismo por
 renuncia, incapacidad o cualquier otro motivo, el
@@ -933,13 +924,13 @@ Artículo 34. Los integrantes del Observatorio
 nombrarán de entre ellos, por mayoría de votos, a un
 presidente que durará en su encargo dos años con
 posibilidad de reelección.
+
 En caso de ausencia o incapacidad temporal del
 presidente del Observatorio, éste será sustituido
 temporalmente en sus actividades por el integrante
 que al efecto el presidente del Observatorio designe.
 En caso de ausencia permanente del presidente del
 Observatorio por cualquier causa, los integrantes del
-
 Observatorio deberán designar de entre ellos a un
 nuevo presidente.
 Artículo 35. El Observatorio se reunirá cuando
@@ -960,11 +951,11 @@ III. Aprobar el informe anual de las actividades que
 realice en cumplimiento a su programa anual de
 trabajo, mismo que deberá ser público y presentado
 en el Consejo Nacional;
+
 IV. Participar en el Consejo Nacional en términos de
 esta Ley;
 V. Acceder por conducto de su presidente a la
 información que genere el Sistema Nacional;
-
 VI. Opinar y realizar propuestas al Consejo Nacional
 sobre la política de mejora regulatoria;
 VII. Opinar o proponer indicadores o metodologías
@@ -985,11 +976,11 @@ recomendaciones;
 XII. Promover la colaboración con instituciones en la
 materia, con el propósito de elaborar investigaciones
 sobre las políticas de mejora regulatoria;
+
 XIII. Dar seguimiento al funcionamiento del Sistema
 Nacional, y
 XIV. Proponer al Consejo Nacional mecanismos
 para facilitar el funcionamiento de las Autoridades de
-
 Mejora Regulatoria existentes, así como recibir
 directamente información generada por dichas
 Autoridades de Mejora Regulatoria.
@@ -1007,6 +998,7 @@ NACIONAL DE MEJORA REGULATORIA
 Capítulo I
 Del Catálogo Nacional de Regulaciones, Trámites
 y Servicios
+
 Artículo 38. El Catálogo es la herramienta
 tecnológica que compila las Regulaciones, los
 Trámites y los Servicios de los Sujetos Obligados, con
@@ -1014,7 +1006,6 @@ el objeto de otorgar seguridad jurídica a las personas,
 dar transparencia, facilitar el cumplimiento regulatorio,
 así como fomentar el uso de tecnologías de la
 información. Tendrá carácter público y la información
-
 que contenga será vinculante para los Sujetos
 Obligados, en el ámbito de sus competencias.
 La inscripción y actualización del Catálogo es de
@@ -1031,12 +1022,12 @@ Sección I
 Del Registro Nacional de Regulaciones
 Artículo 40. El Registro Nacional de Regulaciones
 será una herramienta tecnológica que contendrá
+
 todas las Regulaciones del país. Los Sujetos
 Obligados deberán asegurarse que las Regulaciones
 vigentes que apliquen se encuentren contenidas en el
 Registro Nacional de Regulaciones, a fin de mantener
 permanentemente actualizado el Catálogo.
-
 Para tal efecto, el Consejo Nacional expedirá los
 lineamientos para que los Sujetos Obligados tengan
 acceso a sus respectivas secciones y subsecciones, y
@@ -1053,6 +1044,7 @@ V. Fechas en que ha sido actualizada;
 VI. Tipo de ordenamiento jurídico;
 VII. Índice de la Regulación;
 VIII. Objeto de la Regulación;
+
 IX. Materias, sectores y sujetos regulados;
 X. Trámites
 Regulación;
@@ -1090,11 +1082,11 @@ Secretaría de Gobernación para compilar y revisar la
 información vertida en el Registro Nacional de
 Regulaciones.
 Sección II
+
 De los Registros de Trámites y Servicios
 Artículo 43. Los registros de Trámites y Servicios
 son herramientas tecnológicas que compilan los
 Trámites y Servicios de los Sujetos Obligados, con el
-
 objeto de otorgar seguridad jurídica a las personas,
 dar transparencia, facilitar el cumplimiento regulatorio,
 así como fomentar el uso de tecnologías de la
@@ -1113,12 +1105,12 @@ III. De los Órganos Constitucionales Autónomos;
 IV. De las entidades federativas y municipios;
 V. De los Organismos con jurisdicción contenciosa
 que no formen parte de los poderes judiciales, y
+
 VI. Los registros de los demás Sujetos Obligados, en
 caso de que no se encuentren comprendidos en
 alguna de las fracciones anteriores.
 La Autoridad de Mejora Regulatoria será la
 responsable de administrar la información que los
-
 Sujetos Obligados inscriban en sus respectivos
 registros de Trámites y Servicios.
 Los Sujetos Obligados serán los responsables de
@@ -1142,22 +1134,13 @@ publicará dentro del término de cinco días la
 información en su registro de Trámites y Servicios.
 La omisión o la falsedad de la información que los
 Sujetos Obligados inscriban en los registros de
+
 Trámites y Servicios será sancionado en términos de
 la Ley General de Responsabilidades Administrativas.
 Artículo 45. La legislación o normatividad de los
 registros de Trámites y Servicios se ajustará a lo
-
-previsto en esta
+previsto en esta Ley y sus disposiciones
 reglamentarias.
-
-Ley
-
-y
-
-sus
-
-disposiciones
-
 Artículo 46. Los Sujetos Obligados deberán inscribir
 y mantener actualizada al menos la siguiente
 información y documentación de sus Trámites y
@@ -1177,10 +1160,10 @@ un tercero se deberá señalar la persona o empresa
 que lo emita. En caso de que el Trámite o Servicio
 que se esté inscribiendo incluya como requisitos la
 realización de Trámites o Servicios adicionales,
+
 deberá de identificar plenamente los mismos,
 señalando además el Sujeto Obligado ante quien se
 realiza;
-
 VI. Especificar si el Trámite o Servicio debe
 presentarse mediante formato, escrito libre, ambos o
 puede solicitarse por otros medios;
@@ -1202,9 +1185,9 @@ monto, así como las alternativas para realizar el pago;
 XIII. Vigencia de los avisos, permisos, licencias,
 autorizaciones, registros y demás resoluciones que se
 emitan;
+
 XIV. Criterios de resolución del Trámite o Servicio,
 en su caso;
-
 XV. Todas las unidades administrativas ante las que
 se puede presentar el Trámite o solicitar el Servicio,
 incluyendo su domicilio;
@@ -1227,10 +1210,10 @@ V, VI, VIII, X, XI, XII, XIII, XIV y XVIII los Sujetos
 Obligados deberán establecer el fundamento jurídico
 aplicable, relacionándolo con la Regulación inscrita en
 el Registro Nacional de Regulaciones.
+
 Artículo 47. Los Sujetos Obligados deberán inscribir
 en el Catálogo la información a que se refiere el
 artículo anterior y la Autoridad de Mejora Regulatoria,
-
 dentro de los cinco días siguientes, deberá efectuar la
 publicación sin cambio alguno, siempre que la
 disposición que dé fundamento a la actualización de
@@ -1255,11 +1238,11 @@ Catálogo.
 Artículo 48. Los Sujetos Obligados no podrán
 aplicar Trámites o Servicios adicionales a los
 establecidos en el Catálogo, ni podrán exigir
+
 requisitos adicionales en forma distinta a como se
 inscriban en el mismo, a menos que:
 I. La existencia del Trámite o Servicio sea por única
 ocasión y no exceda los sesenta días, o
-
 II. Respecto de los cuales se pueda causar perjuicio
 a terceros con interés jurídico.
 En los supuestos a los que se refieren las fracciones
@@ -1285,11 +1268,11 @@ Para efectos del Registro Federal de Trámites y
 Servicios será aplicable lo dispuesto en los artículos
 46, 47 y 48 de esta Ley.
 Sección III
+
 Del Expediente para Trámites y Servicios
 Artículo 50. El Expediente para Trámites y Servicios
 operará conforme a los lineamientos que apruebe el
 Consejo Nacional y deberá considerar mecanismos
-
 confiables de seguridad, disponibilidad, integridad,
 autenticidad, confidencialidad y custodia.
 Los Sujetos Obligados, en el ámbito de sus
@@ -1314,10 +1297,10 @@ Ley, producirán los mismos efectos que las leyes
 otorgan a los documentos firmados autógrafamente y,
 en consecuencia, tendrán el mismo valor probatorio
 que las disposiciones aplicables les otorgan a éstos.
+
 Artículo 53. Los Sujetos Obligados integrarán al
 Expediente para Trámites y Servicios, los documentos
 firmados autógrafamente cuando se encuentre en su
-
 poder el documento original y se cumpla con lo
 siguiente:
 I. Que la migración a una forma digital haya sido
@@ -1346,9 +1329,9 @@ procedimientos administrativos relacionados con la
 apertura y operación de las empresas, el Expediente
 Electrónico Empresarial hará las veces del
 Expediente para Trámites y Servicios.
+
 Sección IV
 Del Registro Nacional de Visitas Domiciliarias
-
 Artículo 55. El Registro Nacional de Visitas
 Domiciliarias integrará:
 I. El Padrón;
@@ -1372,9 +1355,9 @@ emergencia. Para tales efectos, dentro de un plazo de
 cinco días posteriores a la habilitación, el Sujeto
 Obligado deberá informar y justificar a la Autoridad de
 Mejora Regulatoria correspondiente las razones para
+
 habilitar a nuevos inspectores o verificadores
 requeridos para atender la situación de emergencia.
-
 Artículo 57. El Padrón contará con los datos que
 establezca la Estrategia, de los servidores públicos a
 que se refiere el artículo 56, de conformidad con las
@@ -1399,10 +1382,10 @@ domiciliarias realizadas en el periodo a reportar y la
 demás información que se prevea en la Estrategia,
 misma que determinará la periodicidad para su
 actualización.
+
 Artículo 60. La Comisión Nacional será la
 responsable de administrar y publicar la información
 del Padrón. Las Autoridades de Mejora Regulatoria
-
 serán las responsables de supervisar y coordinar el
 Padrón en el ámbito de sus competencias.
 Los Sujetos Obligados serán los responsables de
@@ -1428,10 +1411,10 @@ Artículo 61. El solicitante podrá presentar una
 Protesta Ciudadana cuando con acciones u omisiones
 el servidor público encargado del Trámite o Servicio
 niegue la gestión sin causa justificada, altere o
+
 incumpla con las fracciones V, VI, VIII, IX, X, XI, XII,
 XIII, XIV, XV, XVI, XVII y XVIII del artículo 46 de esta
 Ley.
-
 Artículo 62. La Autoridad de Mejora Regulatoria
 dispondrá lo necesario para que las personas puedan
 presentar la Protesta Ciudadana tanto de manera
@@ -1460,10 +1443,10 @@ Capítulo II
 Agenda Regulatoria
 Artículo 64. Los Sujetos Obligados deberán
 presentar su Agenda Regulatoria ante la Autoridad de
+
 Mejora Regulatoria en los primeros cinco días de los
 meses de mayo y noviembre de cada año, misma que
 podrá ser aplicada en los periodos subsecuentes de
-
 junio a noviembre y de diciembre a mayo
 respectivamente. La Agenda Regulatoria de cada
 Sujeto Obligado deberá informar al público la
@@ -1486,9 +1469,9 @@ Propuesta Regulatoria;
 IV. Justificación para emitir la Propuesta Regulatoria,
 y
 V. Fecha tentativa de presentación.
+
 Los Sujetos Obligados podrán iniciar los trabajos de
 elaboración de sus Propuestas Regulatorias aun
-
 cuando la materia o tema no esté incluida en su
 Agenda Regulatoria, pero no podrán ser emitidos sin
 que estén incorporados a dicha Agenda, salvo por las
@@ -1513,9 +1496,9 @@ sustancial que reduzca los costos de cumplimiento
 previstos por la Regulación vigente, simplifique
 Trámites o Servicios, o ambas. Para tal efecto la
 Autoridad de Mejora Regulatoria emitirá criterios
+
 específicos para determinar la aplicación de esta
 disposición, y
-
 V. Las Propuestas Regulatorias que sean emitidas
 directamente por los titulares del poder ejecutivo en
 los distintos órdenes de gobierno.
@@ -1541,9 +1524,9 @@ expedirá el Manual de Funcionamiento del Análisis de
 Impacto Regulatorio. En el ámbito de las entidades
 federativas y municipios o alcaldías, cada Autoridad
 de Mejora Regulatoria expedirá el Manual del Análisis
+
 de Impacto Regulatorio respetando los lineamientos
 generales aprobados por el Consejo Nacional.
-
 Artículo 67. Los Análisis de Impacto Regulatorio
 deben contribuir a que las Regulaciones se diseñen
 sobre bases económicas, empíricas y del
@@ -1568,9 +1551,9 @@ con el menor costo posible;
 II. Que sus impactos resulten proporcionales para el
 problema que se busca resolver y para los sujetos
 regulados a los que se aplican;
+
 III. Que promuevan la coherencia de políticas
 públicas;
-
 IV. Que mejoren la coordinación entre poderes y
 órdenes de gobierno;
 V. Que fortalezcan las condiciones sobre los
@@ -1596,10 +1579,10 @@ efectos de las Regulaciones y Propuestas
 Regulatorias, y en la realización de los ejercicios de
 consulta pública correspondientes, los cuales deberán
 contener cuando menos los siguientes elementos:
+
 I. La explicación de la problemática que da origen a
 la necesidad de la intervención gubernamental y los
 objetivos que ésta persigue;
-
 II. El análisis de las alternativas regulatorias y no
 regulatorias que son consideradas para solucionar la
 problemática, incluyendo la explicación de por qué la
@@ -1622,12 +1605,12 @@ Regulación o Propuesta Regulatoria, así como las
 opiniones de los particulares que hayan sido
 recabadas en el ejercicio de Agenda Regulatoria a
 que se refiere el artículo 64 de esta Ley.
+
 Para efectos de lo previsto en el presente artículo
 las Autoridades de Mejora Regulatoria podrán requerir
 información diferenciada de acuerdo a la naturaleza y
 el impacto de las Regulaciones. Asimismo, las
 Autoridades de Mejora Regulatoria deberán
-
 establecer criterios que los Sujetos Obligados
 deberán observar a fin de que sus Propuestas
 Regulatorias mitiguen el impacto sobre las micro,
@@ -1650,12 +1633,12 @@ Análisis de Impacto Regulatorio ex post, a través del
 cual se evalúe la aplicación, efectos y observancia de
 la Regulación vigente, misma que será sometida a
 consulta pública por un plazo de treinta días con la
+
 finalidad de recabar las opiniones y comentarios de
 los interesados.
 Asimismo, la Autoridad de Mejora Regulatoria podrá
 efectuar recomendaciones con el objeto de contribuir
 a cumplir con los objetivos relacionados con la
-
 Regulación, incluyendo propuestas de modificación al
 marco regulatorio aplicable.
 Los Sujetos Obligados deberán manifestar por
@@ -1678,13 +1661,13 @@ atendiendo a lo dispuesto en el artículo 69 de esta
 Ley, cuando menos treinta días antes de la fecha en
 que pretendan publicarse en el Medio de Difusión o
 someterse a la consideración del Titular del Ejecutivo
+
 Federal, de la entidad federativa, municipal, alcaldía,
 según corresponda.
 Se podrá autorizar que el Análisis de Impacto
 Regulatorio se presente hasta en la misma fecha en
 que se someta la Propuesta Regulatoria al Titular del
 Ejecutivo Federal, de la entidad federativa, municipal
-
 o de la alcaldía según corresponda, cuando ésta
 pretenda resolver o prevenir una situación de
 emergencia. En estos casos deberá solicitarse la
@@ -1710,13 +1693,13 @@ los
 elementos
 anteriormente descritos la Autoridad de Mejora
 Regulatoria que corresponda, deberá autorizar o
+
 negar el trato de emergencia en un plazo que no
 excederá de tres días.
 Cuando un Sujeto Obligado estime que la Propuesta
 Regulatoria no implica costos de cumplimiento para
 particulares lo consultará con la Autoridad de Mejora
 Regulatoria que corresponda, la cual resolverá en un
-
 plazo que no podrá exceder de cinco días, de
 conformidad con los criterios para la determinación de
 dichos costos que al efecto se establezcan en el
@@ -1744,13 +1727,13 @@ la Autoridad de Mejora Regulatoria correspondiente
 determinará los elementos esenciales que no podrán
 ser objeto de modificación en la regulación o
 regulaciones que se pretendan expedir. En caso de
+
 que la regulación o regulaciones impliquen un cambio
 a dichos elementos esenciales, se sujetará al
 procedimiento de Análisis de Impacto Regulatorio
 previsto en esta Ley.
 Los Sujetos Obligados darán aviso a la Autoridad de
 Mejora Regulatoria correspondiente de la publicación
-
 de las regulaciones exentas de la elaboración del
 Análisis de Impacto Regulatorio, en un plazo que no
 excederá de tres días hábiles posteriores a su
@@ -1774,13 +1757,13 @@ El experto deberá revisar el Análisis de Impacto
 Regulatorio y entregar comentarios a la Autoridad de
 Mejora Regulatoria y al propio Sujeto Obligado dentro
 de los cuarenta días siguientes a su contratación.
+
 Artículo 73. Las Autoridades de Mejora Regulatoria
 harán públicos, desde que las reciban, las Propuestas
 Regulatorias, el Análisis de Impacto Regulatorio, los
 dictámenes que emitan, las respuestas a éstos, las
 autorizaciones y exenciones previstas en el presente
 Capítulo y todas las opiniones y comentarios de los
-
 interesados que se recaben durante la consulta
 pública.
 Para tal efecto, deberán establecerse plazos
@@ -1804,13 +1787,13 @@ Artículo 74. Cuando a solicitud de un Sujeto
 Obligado, la Autoridad de Mejora Regulatoria
 determine que la publicidad a que se refiere el artículo
 anterior pudiera comprometer los efectos que se
+
 pretendan lograr con la Regulación, ésta no
 consultará a otras autoridades, ni hará pública la
 información respectiva sino hasta el momento en que
 se publique la Regulación en el Medio de Difusión.
 También se aplicará esta regla cuando lo determine la
 Consejería Jurídica del Ejecutivo Federal o autoridad
-
 equivalente en el orden de gobierno correspondiente,
 previa opinión de aquellas, respecto de las
 propuestas regulatorias que se pretendan someter a
@@ -1834,12 +1817,12 @@ justificación será pública a partir del momento en que
 la Regulación se publique en el Medio de Difusión.
 Artículo 75. La Autoridad de Mejora Regulatoria
 deberá emitir y entregar al Sujeto Obligado un
+
 dictamen del Análisis de Impacto Regulatorio y de la
 Propuesta Regulatoria respectiva, dentro de los
 treinta días siguientes a la recepción del Análisis de
 Impacto Regulatorio, de las ampliaciones o
 correcciones al mismo, o de los comentarios de los
-
 expertos a que se refiere el artículo 72 de esta Ley,
 según corresponda.
 El dictamen a que se refiere el párrafo anterior será
@@ -1863,11 +1846,11 @@ por escrito las razones respectivas a la Autoridad de
 Mejora Regulatoria en un plazo no mayor a cuarenta y
 cinco días, a fin de que ésta emita un dictamen final
 dentro de los cinco días siguientes.
+
 En caso de que la Autoridad de Mejora Regulatoria
 no reciba respuesta al dictamen preliminar o a los
 comentarios de los expertos a que se refiere el
 artículo 72 en el plazo indicado en el párrafo anterior,
-
 se tendrá por desechado el procedimiento para la
 Propuesta Regulatoria.
 El dictamen a que se refiere el primer párrafo del
@@ -1892,11 +1875,11 @@ homóloga en el ámbito de las entidades federativas,
 municipios y alcaldías únicamente publicará en el
 Medio de Difusión las Regulaciones que expidan los
 Sujetos Obligados cuando éstos acrediten contar con
+
 una resolución definitiva de la Autoridad de Mejora
 Regulatoria respectiva. La versión que publiquen los
 Sujetos Obligados deberá coincidir íntegramente con
 la contenida en la resolución antes señalada, salvo en
-
 el caso de las disposiciones que emite el Titular del
 Ejecutivo Federal u homólogos en el ámbito de las
 entidades federativas, municipios y alcaldías, en cuyo
@@ -1923,13 +1906,13 @@ determinen la pertinencia de su abrogación,
 modificación o permanencia, para alcanzar sus
 objetivos originales y atender a la problemática
 vigente.
+
 Para el logro del mayor beneficio social de la
 Regulación sujeta a revisión, la Autoridad de Mejora
 Regulatoria
 correspondiente
 podrá
 proponer
-
 modificaciones al marco regulatorio vigente o
 acciones a los Sujetos Obligados correspondientes.
 El proceso de revisión al que hace referencia este
@@ -1955,11 +1938,11 @@ de los siguientes supuestos:
 I. Las que tengan carácter de emergencia;
 II. Las que por su propia naturaleza deban emitirse o
 actualizarse de manera periódica, y
+
 III. Las reglas de operación de programas que se
 emitan de conformidad con el Presupuesto de
 Egresos de la Federación del ejercicio fiscal que
 corresponda.
-
 A efecto de verificar el cumplimiento de lo dispuesto
 en el primer párrafo de este artículo, los Sujetos
 Obligados deberán brindar la información que al
@@ -1989,11 +1972,11 @@ Regulatoria de la entidad federativa correspondiente,
 a efecto de que ante ellas se desahogue el
 procedimiento de mejora regulatoria a que se refiere
 este Capítulo.
+
 Lo anterior, sin perjuicio de que atendiendo a las
 condiciones de desarrollo de cada municipio se
 adopten las políticas y directrices que al respecto
 emita el Consejo Nacional, en su caso.
-
 Capítulo IV
 De los Programas de Mejora Regulatoria
 Sección I
@@ -2017,12 +2000,12 @@ implementación de los Programas de Mejora
 Regulatoria.
 Artículo 81. La Autoridad de Mejora Regulatoria, en
 el ámbito de sus respectivas competencias, podrá
+
 emitir opinión a los Sujetos Obligados con propuestas
 específicas para mejorar sus Regulaciones y
 simplificar sus Trámites y Servicios. Los Sujetos
 Obligados deberán valorar dichas propuestas para
 incorporarlas a sus Programas de Mejora Regulatoria
-
 o, en su defecto, manifestar por escrito las razones
 por las que no considera factible su incorporación en
 un plazo no mayor a diez días. La opinión de la
@@ -2047,11 +2030,11 @@ cumplimiento de los Trámites y Servicios
 comprometidos originalmente.
 Para el caso de Regulaciones los Sujetos Obligados
 únicamente podrán solicitar ajustes a los Programas
+
 de Mejora Regulatoria, siempre y cuando justifiquen
 dicha solicitud.
 Lo dispuesto en el presente artículo deberá
 sujetarse a la autorización previa de la Autoridad de
-
 Mejora Regulatoria, de conformidad con el objeto de
 esta Ley.
 Los órganos internos de control o equivalentes de
@@ -2072,11 +2055,11 @@ II. Establecer plazos de respuesta menores a los
 máximos previstos;
 III. Extender la vigencia de las resoluciones
 otorgadas por los Sujetos Obligados;
+
 IV. No exigir la presentación de datos y documentos,
 y
 V. Implementar cualquier otra acción de mejora a los
 Trámites y Servicios de su competencia.
-
 Sección II
 De los Programas Específicos de Simplificación y
 Mejora Regulatoria
@@ -2099,12 +2082,12 @@ artículo anterior se otorgarán a petición de los Sujetos
 Obligados, previo cumplimiento de los requisitos que
 al efecto se establezcan en los lineamientos que
 expidan las Autoridades de Mejora Regulatoria.
+
 Dichos lineamientos deberán precisar al menos lo
 siguiente:
 I. Definición de los estándares mínimos de mejora
 regulatoria que deberán ser aplicados por el Sujeto
 Obligado;
-
 II. El formato de solicitud que deberán presentar los
 Sujetos Obligados;
 III. Procedimiento a que se sujetará la solicitud,
@@ -2122,13 +2105,13 @@ siguiente:
 I. Proporcionar la información que resulte necesaria
 para determinar la procedencia, o no, de la
 certificación solicitada;
+
 II. Brindar apoyo para la coordinación de agendas de
 trabajo, reuniones y entrevistas que resulten
 necesarias;
 III. Brindar en todo momento facilidades para la
 ejecución de las inspecciones, verificaciones y visitas
 domiciliarias que, en su caso, tengan lugar;
-
 IV. Proporcionar información para el monitoreo y
 seguimiento del cumplimiento de los estándares
 mínimos de mejora regulatoria, misma que deberá
@@ -2149,12 +2132,12 @@ Específicos de Simplificación y Mejora Regulatoria. La
 Autoridad de Mejora Regulatoria cuando detecte el
 incumplimiento de los principios y objetivos señalados
 en esta Ley, revocará el certificado correspondiente.
+
 La Comisión Nacional expedirá los lineamientos
 aplicables a los Programas Específicos de
 Simplificación y Mejora Regulatoria y los publicará en
 el Diario Oficial de la Federación.
 Capítulo V
-
 De las Encuestas, Información Estadística y
 Evaluación en Materia de Mejora Regulatoria
 Artículo 89. La Comisión Nacional promoverá entre
@@ -2175,13 +2158,13 @@ todas las facilidades y proporcionar la información en
 materia de mejora regulatoria que les sea requerida
 por el Instituto Nacional de Estadística y Geografía.
 TÍTULO CUARTO
+
 DE LAS RESPONSABILIDADES
 ADMINISTRATIVAS EN MATERIA DE MEJORA
 REGULATORIA
 Capítulo Único
 De las Responsabilidades Administrativas de los
 Servidores Públicos
-
 Artículo 92. El incumplimiento de las obligaciones
 establecidas por la presente Ley, por parte de los
 servidores públicos de los órdenes de gobierno será
@@ -2200,6 +2183,7 @@ Segundo. El Consejo Nacional de Mejora
 Regulatoria deberá estar instalado en un plazo que no
 exceda los quince meses posteriores a la entrada en
 vigor de la Ley General de Mejora Regulatoria.
+
 Tercero. La Estrategia Nacional de Mejora
 Regulatoria deberá ser propuesta al Consejo Nacional
 de Mejora Regulatoria dentro de un plazo que no
@@ -2208,7 +2192,6 @@ instalación de dicho Consejo.
 Cuarto. El Observatorio Nacional de Mejora
 Regulatoria deberá ser instalado dentro de los seis
 meses siguientes a la instalación del Consejo
-
 Nacional de Mejora Regulatoria. Para ello, el Consejo
 Nacional de Mejora Regulatoria deberá elegir a los
 integrantes de dicho Observatorio, en términos del
@@ -2230,6 +2213,7 @@ obligaciones establecidas en el artículo 48 de dicha
 Ley surtirán efectos una vez que entren en
 operaciones las herramientas tecnológicas del
 Catálogo y del Registro, para lo cual los Sujetos
+
 Obligados tendrán los siguientes plazos para su
 cumplimiento:
 I. Dentro de ciento ochenta días naturales siguientes
@@ -2237,7 +2221,6 @@ al inicio del funcionamiento para los Sujetos
 Obligados de la Administración Pública Federal;
 II. Dentro de un año siguiente al inicio del
 funcionamiento para los Sujetos Obligados de las
-
 entidades federativas y los Sujetos Obligados a los
 que se refiere el Capítulo VI del Título Segundo de la
 Ley General de Mejora Regulatoria, y
@@ -2257,6 +2240,7 @@ Noveno. En el orden federal, las erogaciones que,
 en su caso, se generen con motivo de la entrada en
 vigor de la presente Ley, deberán cubrirse con cargo
 al presupuesto aprobado a los ejecutores de gasto
+
 correspondientes, por lo que no se requerirán de
 ampliaciones presupuestarias y no se incrementarán
 sus presupuestos regularizables durante el presente
@@ -2265,7 +2249,6 @@ Las entidades federativas, municipios y alcaldías
 darán cumplimiento a las obligaciones establecidas
 en la presente Ley con cargo a sus respectivos
 presupuestos.
-
 Décimo. A partir de la entrada en vigor de la
 presente Ley, la Comisión Federal de Mejora
 Regulatoria se denominará Comisión Nacional de
@@ -2287,6 +2270,7 @@ dicha Ley de, al menos, los siguientes programas:
 I. Sistema de Apertura Rápida de Empresas;
 II. Programa de Reconocimiento y Operación del
 Sistema de Apertura Rápida de Empresas;
+
 III. Programa
 administrativas;
 
@@ -2301,7 +2285,6 @@ cargas
 IV. Ventanilla de Construcción Simplificada;
 V. Método Económico y Jurídico de Reforma
 Administrativa;
-
 VI. Programa Nacional de Juicios Orales
 Mercantiles, en coordinación con las autoridades
 competentes, y
@@ -2319,6 +2302,7 @@ Transitorio
 Único.- El presente Decreto entrará en vigor al día
 siguiente de su publicación en el Diario Oficial de la
 Federación.
+
 Ciudad de México, a 26 de abril de 2018.- Dip.
 Edgar Romo García, Presidente.- Sen. Ernesto
 Cordero Arroyo, Presidente.- Dip. Ana Guadalupe
@@ -2327,7 +2311,6 @@ Ramírez, Secretario.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del
 Artículo 89 de la Constitución Política de los Estados
 Unidos Mexicanos, y para su debida publicación y
-
 observancia, expido el presente Decreto en la
 Residencia del Poder Ejecutivo Federal, en la Ciudad
 de México, a dieciocho de mayo de dos mil
