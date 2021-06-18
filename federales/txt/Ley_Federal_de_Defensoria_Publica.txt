@@ -7,7 +7,7 @@ LEY FEDERAL DE DEFENSORÍA PÚBLICA
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 28 de mayo de 1998
 TEXTO VIGENTE
-Última reforma publicada DOF 01-05-2019
+Última reforma publicada DOF 07-06-2021
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -37,16 +37,18 @@ Disposiciones Generales
 Artículo 1. La presente Ley tiene por objeto regular
 la prestación del servicio de defensoría pública en
 asuntos del fuero federal, a fin de garantizar el
-derecho a la defensa en materia penal y laboral y el
+derecho a la defensa en materia penal, laboral, así
+como amparo en materia familiar u otras materias que
+determine el Consejo de la Judicatura Federal, y el
 acceso a la justicia mediante la orientación, asesoría
 y representación jurídica en los términos que la
 misma establece.
-Artículo reformado DOF 01-05-2019
+Artículo reformado DOF 01-05-2019, 07-06-2021
 Artículo 2. El servicio de defensoría pública será
 gratuito. Se prestará bajo los principios de probidad,
+
 honradez y profesionalismo y de manera obligatoria,
 en los términos de esta Ley.
-
 Artículo 3. Para la prestación de los servicios de
 defensoría pública, se crea el Instituto Federal de
 Defensoría Pública, como órgano del Poder Judicial
@@ -80,8 +82,9 @@ Gozar de buena fama y solvencia moral;
 
 V.
 Aprobar los exámenes de ingreso y oposición
-correspondientes;
-Fracción reformada DOF 17-06-2016
+correspondientes, que para tal efecto implemente
+la Escuela Federal de Formación Judicial;
+Fracción reformada DOF 17-06-2016, 07-06-2021
 VI. No haber sido condenado por delito doloso con
 sanción privativa de libertad mayor de un año, y
 Fracción reformada DOF 17-06-2016
@@ -147,19 +150,16 @@ comisionistas, árbitros, ni ser mandatarios
 judiciales ni endosatarios en procuración, o ejercer
 cualquier otra actividad cuando ésta sea
 incompatible con sus funciones.
-Artículo 8. El servicio civil de carrera para los
-defensores públicos y asesores jurídicos, comprende la
-selección,
-ingreso,
-adscripción,
-permanencia,
-promoción, capacitación, prestaciones, estímulos y
-sanciones. Este servicio civil de carrera se regirá por
-esta Ley, por las disposiciones generales que dicte el
-Consejo de la Judicatura Federal y por las bases
-generales de organización y funcionamiento del
-Instituto Federal de Defensoría Pública.
+Artículo 8. El servicio civil de carrera para las y los
+defensores públicos y las y los asesores jurídicos,
+comprende la selección, ingreso, adscripción,
+permanencia, promoción, capacitación, prestaciones,
+estímulos y sanciones. Este servicio civil de carrera
+se regirá por esta Ley, por las disposiciones
+generales que dicte el Consejo de la Judicatura
+Federal y por la normatividad aplicable.
 
+Artículo reformado DOF 07-06-2021
 Artículo 9. El Director General, los defensores
 públicos, asesores jurídicos y el personal técnico del
 Instituto Federal de Defensoría Pública, serán
@@ -270,10 +270,10 @@ o
 IX. Solicitar la ampliación del plazo constitucional
 para el desahogo de medios de prueba que considere
 necesarios;
+
 X. Solicitar las diligencias de investigación que
 hubiere rechazado el Ministerio Público durante la
 investigación;
-
 XI. Acceder a los medios probatorios ofrecidos por la
 víctima u ofendido;
 XII. Formular las conclusiones a que se refiere el
@@ -297,10 +297,10 @@ centros de reclusión o penitenciarios con el objeto de
 comunicar a su defendido el estado procesal en que
 se encuentra su asunto, informar los requisitos para
 su libertad provisional bajo caución o medida cautelar
+
 distinta a la prisión preventiva, así como aquellos para
 obtener los beneficios preliberacionales que en su
 caso correspondan;
-
 XVII. Vigilar el adecuado cumplimiento de las
 sentencias, procurando para sus representados los
 beneficios que, en su caso, establezcan las
@@ -324,6 +324,7 @@ alternas al procedimiento, formas de terminación
 anticipada del proceso y procedimientos especiales,
 explicando a sus representados las implicaciones de
 cada una de las soluciones alternas, produciendo
+
 certeza de la aceptación del defendido de las
 consecuencias
 de
@@ -331,7 +332,6 @@ dichos
 mecanismos
 y
 procedimientos, y
-
 XXIII. En general, realizar todos los actos inherentes
 para una defensa adecuada conforme a Derecho.
 Artículo reformado DOF 17-06-2016
@@ -361,10 +361,10 @@ su situación jurídica o se pongan en riesgo sus
 derechos o garantías;
 III. Mantener una comunicación constante con el
 adolescente o adulto joven, sus padres, tutores, o
+
 quien ejerza la patria potestad, o custodia, para
 informarles de la investigación, el proceso o la
 medida;
-
 IV. Pugnar para que en todo momento se respeten
 los derechos y garantías de los adolescentes o
 adultos jóvenes a quienes defiende, y hacer del
@@ -393,10 +393,10 @@ VIII. Realizar todos los trámites o gestiones
 necesarios, en tiempo y conforme a derecho para una
 eficaz defensa del adolescente o adulto joven,
 incluyendo la aportación de datos de prueba,
+
 ofrecimiento y desahogo de medios de prueba y
 pruebas, realización de careos, formulación de
 alegatos, agravios, conclusiones o réplicas de la
-
 acusación y su coadyuvancia, interposición de
 recursos, incidentes y demás actos conducentes.
 Fracción reformada DOF 17-06-2016
@@ -418,13 +418,18 @@ se sancione a quienes las hubiesen cometido, de
 conformidad con la legislación aplicable.
 CAPÍTULO III
 De los Asesores Jurídicos
-Artículo 14. Para gozar de los beneficios de la
-asesoría jurídica, se llenará solicitud en los formatos
-que para tal efecto elabore el Instituto Federal de
-Defensoría Pública, y se deberán cumplir con los
+Artículo 14. Para
+asesoría jurídica, se
+que para tal efecto
+Defensoría Pública,
+
+gozar de los beneficios de la
+llenará solicitud en los formatos
+elabore el Instituto Federal de
+y se deberán cumplir con los
+
 requisitos previstos en las bases generales de
 organización y funcionamiento.
-
 En la asignación de un asesor jurídico se dará
 preferencia a la elección del usuario, a fin de lograr
 mayor confianza en la prestación del servicio.
@@ -448,10 +453,10 @@ las bases generales de organización y
 funcionamiento;
 V. Los indígenas;
 Fracción reformada DOF 01-05-2019
+
 VI. Las personas que por cualquier razón social o
 económica tengan la necesidad de estos servicios, y
 Fracción reformada DOF 01-05-2019
-
 VII. Las personas que dispongan los Tribunales
 federales en materia laboral, en términos de la
 normatividad aplicable.
@@ -474,11 +479,11 @@ no tiene interés en que se le siga prestando el
 servicio;
 II. El usuario del servicio incurra dolosamente en
 falsedad en los datos proporcionados;
+
 III. El usuario o sus dependientes económicos
 cometan actos de violencia, amenazas o injurias
 en contra del personal del Instituto Federal de
 Defensoría Pública, y
-
 IV. Desaparezcan las causas socioeconómicas que
 dieron origen a la prestación del servicio.
 Artículo 18. En caso de retiro, el asesor jurídico
@@ -506,10 +511,10 @@ deje de actuar.
 Artículo 19. Los asesores jurídicos realizarán sus
 funciones de acuerdo a las bases generales de
 organización y funcionamiento del Instituto Federal de
+
 Defensoría Pública y en función de la naturaleza de
 cada uno de los asuntos para los cuales se prestará
 la asesoría jurídica.
-
 CAPÍTULO IV
 De los Servicios Auxiliares
 Artículo 20. Cuando las necesidades del servicio lo
@@ -537,10 +542,10 @@ corresponda percibir por su actuación profesional.
 Dichas donaciones serán deducibles de impuestos
 en los términos que establezcan las disposiciones
 fiscales.
+
 Artículo 20 Bis.- A fin de garantizar el derecho a la
 defensa en materia penal y a la asesoría jurídica a
 favor de las personas pertenecientes a los pueblos y
-
 comunidades indígenas, a través del acceso a la
 jurisdicción en la lengua indígena nacional en que
 sean hablantes, el Instituto Federal de Defensoría
@@ -565,10 +570,10 @@ establezcan las bases generales de organización y
 funcionamiento.
 Artículo 22. Los servicios que se realicen por
 prestadores de servicio social en todo momento
+
 estarán supervisados por un defensor público o
 asesor jurídico.
 TÍTULO SEGUNDO
-
 DEL INSTITUTO FEDERAL DE DEFENSORÍA
 PÚBLICA
 CAPÍTULO I
@@ -592,10 +597,10 @@ apropiada y suficiente para la actuación de los
 defensores públicos y asesores jurídicos.
 Artículo 26. Para el adecuado cumplimiento de sus
 funciones, el Instituto Federal de Defensoría Pública
+
 promoverá la celebración de convenios de
 coordinación con todos aquéllos que puedan
 coadyuvar en la consecución de los fines de esta Ley.
-
 CAPÍTULO II
 De la Junta Directiva
 Artículo 27. La Junta Directiva estará integrada por
@@ -619,19 +624,17 @@ convocarse por el Director General o mediante
 solicitud que a éste formulen por lo menos tres
 miembros de la Junta Directiva, cuando se estime que
 hay razones de importancia para ello.
+
 Artículo 29. La Junta Directiva tendrá las facultades
 siguientes:
-
 I. Fijar la política y las acciones relacionadas con la
 defensoría pública, considerando las opiniones
 que al respecto se le formulen;
-II. Promover que las instituciones, organismos y
-asociaciones públicas y privadas contribuyan a la
-elevación del nivel profesional de los defensores
-públicos y asesores jurídicos, e igualmente se
-proporcione a la Junta asesoramiento técnico en
-las áreas o asuntos específicos en que ésta lo
-requiera;
+II.
+
+Se deroga.
+Fracción derogada DOF 07-06-2021
+
 III. Propiciar que las diversas instancias públicas y
 privadas apoyen las modalidades del sistema de
 libertad provisional o de garantía económica de
@@ -639,19 +642,24 @@ los defendidos que carezcan de recursos
 económicos suficientes para el pago de la caución
 que se les fije;
 Fracción reformada DOF 17-06-2016
-IV. Promover la realización de estudios tendientes
-a perfeccionar el servicio de defensoría pública;
+IV.
+
+Se deroga.
+Fracción derogada DOF 07-06-2021
+
 V.
 Impulsar la celebración de convenios con los
 distintos sectores sociales y organismos públicos
 y privados;
-VI. Aprobar los lineamientos para la selección,
-ingreso y promoción de los defensores públicos y
-asesores jurídicos;
+VI.
+
+Se deroga.
+Fracción derogada DOF 07-06-2021
 
 VII. Aprobar las bases generales de organización y
 funcionamiento del Instituto Federal de Defensoría
 Pública;
+
 VIII. Aprobar la propuesta de anteproyecto de
 presupuesto que se someta a la consideración del
 Consejo de la Judicatura Federal;
@@ -661,9 +669,9 @@ casos a que se refiere esta Ley, atendiendo los
 criterios presupuestales y de administración que
 determine el Consejo de la Judicatura Federal;
 X.
-Aprobar el Plan Anual de Capacitación y
-Estímulos del Instituto Federal de Defensoría
-Pública;
+Aprobar el Plan Anual de Estímulos del
+Instituto Federal de Defensoría Pública;
+Fracción reformada DOF 07-06-2021
 XI. Examinar y aprobar los informes periódicos
 que someta a su consideración el Director
 General, y
@@ -674,11 +682,11 @@ Del Director General
 Artículo 30. El Director General del Instituto Federal
 de Defensoría Pública será nombrado por el Consejo
 de la Judicatura Federal, a propuesta de su
-
 Presidente y durará tres años en su cargo, pudiendo
 ser reelecto.
 Artículo 31. El Director General del Instituto deberá
 reunir para su designación, los requisitos siguientes:
+
 I. Ser ciudadano mexicano por nacimiento, no haber
 adquirido otra nacionalidad y estar en pleno
 ejercicio de sus derechos civiles y políticos;
@@ -705,10 +713,10 @@ otro que lesione seriamente la buena fama de la
 persona en el concepto público, inhabilitará a ésta
 para ocupar el cargo cualquiera que haya sido la
 penalidad impuesta.
-
 El Consejo de la Judicatura Federal procurará
 preferir, en igualdad de circunstancias, a quien haya
 desempeñado el cargo de defensor público o similar.
+
 Artículo 32. El director general del Instituto Federal
 de Defensoría Pública tendrá las atribuciones
 siguientes:
@@ -740,6 +748,7 @@ IV. Enviar las quejas que se presenten contra los
 defensores públicos y asesores jurídicos al
 Consejo de la Judicatura Federal, para que éste
 investigue la probable responsabilidad de los
+
 empleados del Instituto Federal de Defensoría
 Pública;
 Fracción reformada y recorrida DOF 17-06-2016
@@ -766,10 +775,10 @@ evaluación y rendición de cuentas del Instituto;
 Fracción reformada y recorrida DOF 17-06-2016
 VIII. Se deroga.
 Fracción derogada y recorrida DOF 17-06-2016
-
 IX. Promover y fortalecer las relaciones del
 Instituto Federal de Defensoría Pública con las
 instituciones públicas, sociales y privadas que por
+
 la naturaleza de sus funciones puedan colaborar
 al cumplimiento de sus atribuciones;
 Fracción recorrida DOF 17-06-2016
@@ -841,16 +850,20 @@ su superior jerárquico, el cual, después de cerciorarse
 que es justificada lo expondrá al solicitante
 designando a otro defensor.
 CAPÍTULO VI
-Del Plan Anual de Capacitación y Estímulo
+Del Plan Anual de Capacitación
+Denominación del Capítulo reformada DOF 07-06-2021
 Artículo 36. Para el mejor desempeño del personal
-del Instituto Federal de Defensoría Pública se
-elaborará un Plan Anual de Capacitación y Estímulo,
-de acuerdo con los criterios siguientes:
-I. Se recogerán las orientaciones que proporcione la
-Junta Directiva del Instituto;
+del Instituto Federal de Defensoría Pública, la Escuela
+Federal de Formación Judicial elaborará un Plan
+Anual de Capacitación, de acuerdo con los criterios
+siguientes:
+Párrafo reformado DOF 07-06-2021
+I. Se recogerán las recomendaciones que
+proporcione la Junta Directiva del Instituto;
+Fracción reformada DOF 07-06-2021
+
 II. Se concederá amplia participación a los
 defensores públicos y asesores jurídicos en la
-
 formulación, aplicación y evaluación de los
 resultados del plan;
 III. Se procurará extender la capacitación a los
@@ -859,14 +872,60 @@ corresponda y para interrelacionar a todos los
 profesionales del Instituto Federal de Defensoría
 Pública y optimar su preparación y el servicio que
 prestan, y
-IV. Se preverán estímulos económicos para el
-personal cuyo desempeño lo amerite.
+IV.
+
+Se deroga.
+Fracción derogada DOF 07-06-2021
+
+Artículo 36 Bis. La Escuela Federal de Formación
+Judicial tendrá las atribuciones siguientes:
+I. La capacitación de las personas defensoras
+públicas y las personas asesoras jurídicas del
+Instituto para efectos del servicio de carrera;
+II. Aprobar los lineamientos para la selección,
+ingreso y promoción de los defensores públicos,
+defensoras públicas y asesores jurídicos o
+asesoras jurídicas;
+III.
+
+Llevar a cabo el proceso de selección y
+oposición para el ingreso al servicio de carrera;
+
+IV.
+
+Promover que las instituciones, organismos y
+asociaciones públicas y privadas contribuyan a la
+
+elevación del nivel profesional de las y los
+defensores públicos y las y los asesores jurídicos,
+e igualmente se proporcione a la Junta
+asesoramiento técnico en las áreas o asuntos
+específicos en que ésta lo requiera;
+V. Promover la realización de estudios tendientes a
+perfeccionar el servicio de defensoría pública;
+VI.
+
+Aprobar y ejecutar el Plan Anual de
+Capacitación del Instituto Federal de Defensoría
+Pública, en los términos de esta Ley y demás
+disposiciones aplicables;
+
+VII. Llevar a cabo la capacitación de las personas
+trabajadoras sociales y peritos, en lo que
+corresponda, para interrelacionar a todos los
+profesionales del Instituto Federal de Defensoría
+Pública, así como optimizar su preparación y el
+servicio que prestan, y
+VIII. Las demás que le otorgue esta Ley y otras
+disposiciones jurídicas aplicables.
+Artículo adicionado DOF 07-06-2021
 CAPÍTULO VII
 De la Responsabilidad de los Defensores Públicos
 y Asesores Jurídicos
 Artículo 37. Además de las que se deriven de otras
 disposiciones legales, reglamentos o acuerdos
 generales expedidos por el Consejo de la Judicatura
+
 Federal, o de la Ley Orgánica del Poder Judicial de la
 Federación, serán causas de responsabilidad de los
 servidores públicos del Instituto Federal de
@@ -878,7 +937,6 @@ encuentren impedidos por alguna de las causales
 previstas por las fracciones I, II, IX, XIII, XIV y XV
 del artículo 146 de la Ley Orgánica del Poder
 Judicial de la Federación; precisamente en
-
 contravención con lo dispuesto por el artículo 148
 del ordenamiento jurídico en cita;
 II. Descuidar y abandonar injustificadamente el
@@ -894,6 +952,7 @@ atribuciones;
 V.
 Emitir opinión pública que implique prejuzgar
 sobre un asunto de su competencia;
+
 VI. Negarse injustificadamente a patrocinar la
 defensa de los indiciados que, no teniendo
 defensor particular ni los recursos económicos
@@ -905,7 +964,6 @@ VII. Dejar de interponer en tiempo y forma los
 recursos legales que procedan, desatender su
 trámite, desistirse de ellos o abandonarlos en
 perjuicio de su defendido o asistido;
-
 VIII. Aceptar dádivas o cualquier remuneración por
 los servicios que prestan a sus defendidos o
 asistidos, o solicitar a éstos o a las personas que
@@ -927,6 +985,7 @@ federales, realizar conductas que atenten contra la
 autonomía e independencia de los defensores
 públicos o asesores jurídicos o cualquier otra acción
 que genere o implique subordinación indebida de
+
 estos servidores públicos respecto de alguna persona
 o autoridad.
 Artículo 39. El procedimiento para determinar la
@@ -938,7 +997,6 @@ de la Federación, y su conocimiento, será de la
 exclusiva competencia del Consejo de la Judicatura
 Federal.
 ARTÍCULO SEGUNDO.- ..........
-
 TRANSITORIOS
 PRIMERO. La Ley Federal de Defensoría Pública y
 las reformas a la Ley Orgánica del Poder Judicial de
@@ -954,6 +1012,7 @@ Fuero Federal, pasarán al Instituto Federal de
 Defensoría Pública. Los derechos laborales del
 personal que preste sus servicios en la citada Unidad,
 serán respetados en todos sus términos. Los asuntos
+
 que estén a cargo de la Unidad de Defensoría
 pasarán al Instituto Federal de Defensoría Pública.
 CUARTO. El Consejo de la Judicatura Federal
@@ -966,7 +1025,6 @@ de la presente Ley.
 QUINTO. Dentro de los seis meses siguientes a la
 entrada en vigor de la Ley Federal de Defensoría
 Pública, todos los miembros del Instituto Federal de
-
 Defensoría Pública deberán estar ejerciendo sus
 funciones y brindando los servicios previstos en esta
 Ley.
@@ -982,6 +1040,7 @@ Pérez Jácome, Presidente.- Dip. Aurora Bazán
 López, Presidente.- Sen. José Luis Medina Aguiar,
 Secretario.- Dip. Francisco Antonio Ordaz
 Hernández, Secretario.- Rúbricas".
+
 En cumplimiento de lo dispuesto por la fracción I del
 Artículo 89 de la Constitución Política de los Estados
 Unidos Mexicanos, y para su debida publicación y
