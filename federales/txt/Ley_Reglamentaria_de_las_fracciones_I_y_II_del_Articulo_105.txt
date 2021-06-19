@@ -10,7 +10,7 @@ MEXICANOS
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 11 de mayo de 1995
 TEXTO VIGENTE
-Última reforma publicada DOF 20-05-2021
+Última reforma publicada DOF 07-06-2021
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -33,23 +33,27 @@ Disposiciones Generales
 ARTICULO 1o. La Suprema Corte de Justicia de la
 Nación conocerá y resolverá con base en las
 disposiciones del presente Título, las controversias
-constitucionales y las acciones de inconstitucionalidad
-a que se refieren las fracciones I y II del artículo 105
-de la Constitución Política de los Estados Unidos
-Mexicanos. A falta de disposición expresa, se estará a
+constitucionales en las que se hagan valer violaciones
+a la Constitución Política de los Estados Unidos
+Mexicanos,
+así
+como
 las
-prevenciones
-del
-Código
-Federal
+acciones
 de
-Procedimientos Civiles.
+inconstitucionalidad a que se refieren las fracciones I
+y II del artículo 105 de la Constitución Política de los
+Estados Unidos Mexicanos. A falta de disposición
+expresa, se estará a las prevenciones del Código
+Federal de Procedimientos Civiles.
+Artículo reformado DOF 07-06-2021
 ARTICULO 2o. Para los efectos de esta ley, se
 considerarán como hábiles todos los días que
 determine la Ley Orgánica del Poder Judicial de la
 Federación.
 ARTICULO 3o. Los plazos se computarán de
 conformidad con las reglas siguientes:
+
 I. Comenzarán a correr al día siguiente al en que
 surta sus efectos la notificación, incluyéndose en
 ellos el día del vencimiento;
@@ -79,12 +83,12 @@ recibir copias de traslado.
 ARTICULO 5o. Las partes estarán obligadas a
 recibir los oficios de notificación que se les dirijan a
 sus oficinas, domicilio o lugar en que se encuentren.
+
 En caso de que las notificaciones se hagan por
 conducto de actuario, se hará constar el nombre de la
 persona con quien se entienda la diligencia y si se
 negare a firmar el acta o a recibir el oficio, la
 notificación se tendrá por legalmente hecha.
-
 ARTICULO 6o. Las notificaciones surtirán sus
 efectos a partir del día siguiente al en que hubieren
 quedado legalmente hechas.
@@ -108,10 +112,10 @@ telégrafos que corresponda. En estos casos se
 entenderá que las promociones se presentan en la
 fecha en que las mismas se depositan en la oficina de
 correos o se envían desde la oficina de telégrafos,
+
 según sea el caso, siempre que tales oficinas se
 encuentren ubicadas en el lugar de residencia de las
 partes.
-
 ARTICULO 9o. Las multas previstas en esta ley se
 impondrán a razón de días de salario, sirviendo como
 base para calcularlas el mínimo general vigente en el
@@ -136,8 +140,17 @@ defensa de grupos vulnerables en los términos de la
 ley.
 II. Se trate de controversias constitucionales o
 acciones de inconstitucionalidad en materia de
-competencia económica, monopolios y libre
+
+competencia
 concurrencia.
+
+económica,
+
+monopolios
+
+y
+
+libre
 
 III. Se trate de prevenir daños irreversibles al
 equilibrio ecológico en dichas controversias
@@ -161,15 +174,16 @@ Capítulo I
 De las partes
 ARTICULO 10. Tendrán el carácter de parte en las
 controversias constitucionales:
+
 I. Como actor, la entidad, poder u órgano que
 promueva la controversia;
-
 II.
 
-Como demandado, la entidad, poder u órgano
-que hubiere emitido y promulgado la norma
-general o pronunciado el acto que sea objeto de la
-controversia;
+Como demandada o demandado, la entidad,
+poder u órgano que hubiere emitido y promulgado
+la norma general, pronunciado el acto o incurrido
+en la omisión que sea objeto de la controversia;
+Fracción reformada DOF 07-06-2021
 
 III. Como tercero o terceros interesados, las
 entidades, poderes u órganos a que se refiere la
@@ -194,11 +208,11 @@ hacerlo, salvo prueba en contrario.
 En las controversias constitucionales no se admitirá
 ninguna forma diversa de representación a la prevista
 en el párrafo anterior; sin embargo, por medio de
+
 oficio podrán acreditarse delegados para que hagan
 promociones, concurran a las audiencias y en ellas
 rindan pruebas, formulen alegatos y promuevan los
 incidentes y recursos previstos en esta ley.
-
 El Presidente de los Estados Unidos Mexicanos será
 representado por el secretario de estado, por el jefe
 del departamento administrativo o por el Consejero
@@ -226,11 +240,11 @@ excepción del relativo a la suspensión, se fallará en la
 sentencia definitiva.
 ARTICULO 13. Los incidentes de especial
 pronunciamiento podrán promoverse por las partes
+
 ante el ministro instructor antes de que se dicte
 sentencia.
 Tratándose del incidente de reposición de autos, el
 ministro instructor ordenará certificar la existencia
-
 anterior y la falta posterior del expediente, quedando
 facultado para llevar a cabo aquellas investigaciones
 que no sean contrarias a derecho.
@@ -252,12 +266,12 @@ aplicable.
 La suspensión no podrá otorgarse en aquellos casos
 en que la controversia se hubiere planteado respecto
 de normas generales.
+
 ARTICULO 15. La suspensión no podrá concederse
 en los casos en que se pongan en peligro la
 seguridad o economía nacionales, las instituciones
 fundamentales del orden jurídico mexicano o pueda
 afectarse gravemente a la sociedad en una
-
 proporción mayor a los beneficios que con ella
 pudiera obtener el solicitante.
 ARTICULO 16. La suspensión se tramitará por vía
@@ -281,11 +295,11 @@ ARTICULO 18. Para el otorgamiento de la
 suspensión deberán tomarse en cuenta las
 circunstancias y características particulares de la
 controversia constitucional. El auto o la interlocutoria
+
 mediante el cual se otorgue deberá señalar con
 precisión los alcances y efectos de la suspensión, los
 órganos obligados a cumplirla, los actos suspendidos,
 el territorio respecto del cual opere, el día en que
-
 deba surtir sus efectos y, en su caso, los requisitos
 para que sea efectiva.
 Capítulo III
@@ -296,35 +310,45 @@ I. Contra decisiones de la Suprema Corte de Justicia
 de la Nación;
 II. Contra normas generales o actos en materia
 electoral;
-III. Contra normas generales o actos que sean
-materia de una controversia pendiente de resolver,
+III. Contra normas generales, actos u omisiones
+que sean materia de una controversia pendiente
+de resolver, siempre que exista identidad de
+partes, normas generales o actos y conceptos de
+invalidez;
+Fracción reformada DOF 07-06-2021
+IV. Contra normas generales, actos u omisiones
+que hubieren sido materia de una ejecutoria
+dictada en otra controversia, o contra las
+resoluciones dictadas con motivo de su ejecución,
 siempre que exista identidad de partes, normas
-generales o actos y conceptos de invalidez;
-IV. Contra normas generales o actos que hubieren
-sido materia de una ejecutoria dictada en otra
-controversia, o contra las resoluciones dictadas
-con motivo de su ejecución, siempre que exista
-identidad de partes, normas generales o actos y
-conceptos de invalidez, en los casos a que se
-refiere el artículo 105, fracción I, último párrafo, de
-la Constitución Política de los Estados Unidos
-Mexicanos.
+generales o actos y conceptos de invalidez, en los
+
+casos a que se refiere el artículo 105, fracción I,
+último párrafo, de la Constitución Política de los
+Estados Unidos Mexicanos;
+Fracción reformada DOF 07-06-2021
 V.
 Cuando hayan cesado los efectos de la norma
 general o acto materia de la controversia;
-
 VI. Cuando no se haya agotado la vía legalmente
 prevista para la solución del propio conflicto;
 VII. Cuando la demanda se presentare fuera de los
-plazos previstos en el artículo 21, y
-VIII. En los demás casos en que la improcedencia
-resulte de alguna disposición de esta ley.
+plazos previstos en el artículo 21;
+Fracción reformada DOF 07-06-2021
+VIII. Cuando de la demanda se advierta que no se
+hacen valer violaciones a la Constitución Política
+de los Estados Unidos Mexicanos, y
+Fracción adicionada DOF 07-06-2021
+IX. En los demás casos en que la improcedencia
+resulte de alguna disposición de esta Ley.
+Fracción reformada y recorrida DOF 07-06-2021
 En todo caso, las causales de improcedencia
 deberán examinarse de oficio.
 ARTICULO 20. El sobreseimiento procederá en los
 casos siguientes:
 I. Cuando la parte actora se desista expresamente
 de la demanda interpuesta en contra de actos, sin
+
 que en ningún caso pueda hacerlo tratándose de
 normas generales;
 Fe de erratas a la fracción DOF 19-05-1995
@@ -339,7 +363,6 @@ apareciere claramente demostrado que no existe
 la norma o acto materia de la controversia, o
 cuando no se probare la existencia de ese último;
 y
-
 IV. Cuando por convenio entre las partes, haya
 dejado de existir el acto materia de la controversia,
 sin que en ningún caso ese convenio pueda
@@ -348,13 +371,15 @@ Capítulo IV
 De la demanda y su contestación
 ARTICULO 21. El plazo para la interposición de la
 demanda será:
-I. Tratándose de actos, de treinta días contados a
-partir del día siguiente al en que conforme a la ley
-del propio acto surta efectos la notificación de la
-resolución o acuerdo que se reclame; al en que se
-haya tenido conocimiento de ellos o de su
-ejecución; o al en que el actor se ostente sabedor
-de los mismos;
+I. Tratándose de actos u omisiones, de treinta días
+contados a partir del día siguiente al en que
+conforme a la ley del propio acto surta efectos la
+notificación de la resolución o acuerdo que se
+reclame; al en que se haya tenido conocimiento de
+ellos o de su ejecución; o al en que el actor se
+ostente sabedor de los mismos;
+
+Fracción reformada DOF 07-06-2021
 II.
 
 Tratándose de normas generales, de treinta
@@ -369,7 +394,6 @@ Constitución Política de los Estados Unidos
 Mexicanos, de sesenta días contados a partir de la
 entrada en vigor de la norma general o de la
 realización del acto que los origine.
-
 ARTICULO 22. El escrito de demanda deberá
 señalar:
 I. La entidad, poder u órgano actor, su domicilio y el
@@ -381,9 +405,11 @@ domicilio;
 
 III. Las entidades, poderes u órganos terceros
 interesados, si los hubiere, y sus domicilios;
-IV. La norma general o acto cuya invalidez se
-demande, así como, en su caso, el medio oficial
-en que se hubieran publicado;
+IV. La norma general, acto u omisión cuya
+invalidez se demande, así como, en su caso, el
+medio oficial en que se hubieran publicado;
+Fracción reformada DOF 07-06-2021
+
 V.
 Los preceptos constitucionales que, en su
 caso, se estimen violados;
@@ -396,7 +422,6 @@ ARTICULO 23. El escrito de contestación de
 demanda deberá contener, cuando menos:
 I. La relación precisa de cada uno de los hechos
 narrados por la parte actora, afirmándolos,
-
 negándolos, expresando que los ignora por no ser
 propios o exponiendo cómo ocurrieron, y
 II.
@@ -412,6 +437,7 @@ de la Suprema Corte de Justicia de la Nación
 designará, según el turno que corresponda, a un
 ministro instructor a fin de que ponga el proceso en
 estado de resolución.
+
 ARTICULO 25. El ministro instructor examinará ante
 todo el escrito de demanda, y si encontrare motivo
 manifiesto e indudable de improcedencia, la
@@ -426,7 +452,6 @@ Al contestar la demanda, la parte demandada podrá,
 en su caso, reconvenir a la actora, aplicándose al
 efecto lo dispuesto en esta ley para la demanda y
 contestación originales.
-
 ARTICULO 27. El actor podrá ampliar su demanda
 dentro de los quince días siguientes al de la
 contestación si en esta última apareciere un hecho
@@ -440,6 +465,7 @@ contestación, reconvención o ampliación fueren
 obscuros o irregulares, el ministro instructor
 prevendrá a los promoventes para que subsanen las
 irregularidades dentro del plazo de cinco días.
+
 De no subsanarse las irregularidades requeridas, y
 si a juicio del ministro instructor la importancia y
 trascendencia del asunto lo amerita, correrá traslado
@@ -454,7 +480,6 @@ la reconvención, el ministro instructor señalará fecha
 para una audiencia de ofrecimiento y desahogo de
 pruebas que deberá verificarse dentro de los treinta
 días siguientes. El ministro instructor podrá ampliar el
-
 término de celebración de la audiencia, cuando la
 importancia y trascendencia del asunto así lo amerite.
 ARTICULO 30. La falta de contestación de la
@@ -470,6 +495,7 @@ sean contrarias a derecho. En cualquier caso,
 corresponderá al ministro instructor desechar de
 plano aquellas pruebas que no guarden relación con
 la controversia o no influyan en la sentencia definitiva.
+
 ARTICULO 32. Las pruebas deberán ofrecerse y
 rendirse en la audiencia, excepto la documental que
 podrá presentarse con anterioridad, sin perjuicio de
@@ -482,7 +508,6 @@ de la audiencia, sin contar esta última ni la de
 ofrecimiento, exhibiendo copia de los interrogatorios
 para los testigos y el cuestionario para los peritos, a
 fin de que las partes puedan repreguntar en la
-
 audiencia. En ningún caso se admitirán más de tres
 testigos por cada hecho.
 Al promoverse la prueba pericial, el ministro
@@ -499,6 +524,7 @@ Federación.
 ARTICULO 33. A fin de que las partes puedan rendir
 sus pruebas, todas las autoridades tienen obligación
 de expedirles oportunamente las copias o
+
 documentos que soliciten y, en caso contrario,
 pedirán al ministro instructor que requiera a los
 omisos. Si a pesar del requerimiento no se expidieren
@@ -511,7 +537,6 @@ sin la asistencia de las partes o de sus representantes
 legales. Abierta la audiencia se procederá a recibir,
 por su orden, las pruebas y los alegatos por escrito de
 las partes.
-
 ARTICULO 35. En todo tiempo, el ministro instructor
 podrá decretar pruebas para mejor proveer, fijando al
 efecto fecha para su desahogo. Asimismo, el propio
@@ -528,6 +553,7 @@ Nación, a solicitud de alguno de sus integrantes
 podrá, mediante acuerdos generales, acordar el
 aplazamiento de la resolución de los juicios de
 amparo radicados en ella, hasta en tanto se resuelva
+
 una controversia constitucional siempre que las
 normas impugnadas en unos y otra fueren las
 mismas. En este supuesto, no correrá el término de
@@ -540,7 +566,6 @@ podrá acordarse que se resuelvan en la misma
 sesión.
 Capítulo VI
 De las sentencias
-
 ARTICULO 39. Al dictar sentencia, la Suprema
 Corte de Justicia de la Nación corregirá los errores
 que advierta en la cita de los preceptos invocados y
@@ -553,9 +578,12 @@ deficiencia de la demanda, contestación, alegatos o
 agravios.
 ARTICULO 41. Las sentencias deberán contener:
 I. La fijación breve y precisa de las normas
-generales o actos objeto de la controversia y, en
-su caso, la apreciación de las pruebas
-conducentes a tenerlos o no por demostrados;
+generales, actos u omisiones objeto de la
+controversia y, en su caso, la apreciación de las
+
+pruebas conducentes a tenerlos o no por
+demostrados;
+Fracción reformada DOF 07-06-2021
 II.
 
 Los preceptos que la fundamenten;
@@ -565,23 +593,26 @@ así como los preceptos que en su caso se
 estimaren violados;
 IV. Los alcances y efectos de la sentencia, fijando
 con precisión, en su caso, los órganos obligados a
-cumplirla, las normas generales o actos respecto
-de los cuales opere y todos aquellos elementos
-necesarios para su plena eficacia en el ámbito que
-corresponda. Cuando la sentencia declare la
-
-invalidez de una norma general, sus efectos
-deberán extenderse a todas aquellas normas cuya
-validez dependa de la propia norma invalidada;
+cumplirla, las normas generales, actos u
+omisiones respecto de los cuales opere y todos
+aquellos elementos necesarios para su plena
+eficacia en el ámbito que corresponda. Cuando la
+sentencia declare la invalidez de una norma
+general, sus efectos deberán extenderse a todas
+aquellas normas cuya validez dependa de la
+propia norma invalidada;
+Fracción reformada DOF 07-06-2021
 V.
 Los puntos resolutivos que decreten el
 sobreseimiento, o declaren la validez o invalidez
-de las normas generales o actos impugnados, y
-en su caso la absolución o condena respectivas,
-fijando el término para el cumplimiento de las
-actuaciones que se señalen;
+de las normas generales, actos u omisiones
+impugnados y, en su caso, la absolución o
+condena respectivas, fijando el término para el
+cumplimiento de las actuaciones que se señalen, y
+Fracción reformada DOF 07-06-2021
 VI. En su caso, el término en el que la parte
 condenada deba realizar una actuación.
+
 ARTICULO 42. Siempre que las controversias
 versen sobre disposiciones generales de los Estados
 o de los Municipios impugnadas por la Federación, de
@@ -598,20 +629,26 @@ mencionada en el párrafo anterior, el Pleno de la
 Suprema Corte de Justicia declarará desestimadas
 dichas controversias. En estos casos no será
 aplicable lo dispuesto en el artículo siguiente.
-
 En todos los demás casos las resoluciones tendrán
 efectos únicamente respecto de las partes en la
 controversia.
-ARTICULO 43. Las razones contenidas en los
-considerandos que funden los resolutivos de las
-sentencias aprobadas por cuando menos ocho votos,
-serán obligatorias para las Salas, Plenos de Circuito,
-tribunales unitarios y colegiados de circuito, juzgados
-de distrito, tribunales militares, agrarios y judiciales
-del orden común de los Estados y del Distrito Federal,
-y administrativos y del trabajo, sean éstos federales o
-locales.
-Artículo reformado DOF 02-04-2013
+ARTICULO 43. Las razones que justifiquen las
+decisiones de las sentencias aprobadas por cuando
+menos ocho votos, serán obligatorias para todas las
+autoridades jurisdiccionales de la federación y de las
+entidades federativas. Las cuestiones de hecho o de
+derecho que no sean necesarias para justificar la
+decisión no serán obligatorias.
+
+La Suprema Corte no estará obligada a seguir sus
+propios precedentes. Sin embargo, para que pueda
+apartarse de ellos deberá proporcionar argumentos
+suficientes que justifiquen el cambio de criterio.
+La Suprema Corte estará vinculada por sus
+precedentes en los términos antes descritos, incluso
+cuando éstos se hayan emitido con una integración
+de Ministras y Ministros distinta.
+Artículo reformado DOF 02-04-2013, 07-06-2021
 ARTICULO 44. Dictada la sentencia, el Presidente
 de la Suprema Corte de Justicia de la Nación
 ordenará notificarla a las partes, y mandará publicarla
@@ -627,9 +664,9 @@ publicado.
 ARTICULO 45. Las sentencias producirán sus
 efectos a partir de la fecha que determine la Suprema
 Corte de Justicia de la Nación.
-
 La declaración de invalidez de las sentencias no
 tendrá efectos retroactivos, salvo en materia penal, en
+
 la que regirán los principios generales y disposiciones
 legales aplicables de esta materia.
 Capítulo VII
@@ -656,9 +693,9 @@ asunto al ministro ponente para que someta al Pleno
 el proyecto por el cual se aplique el último párrafo del
 artículo 105 de la Constitución Política de los Estados
 Unidos Mexicanos.
-
 ARTICULO 47. Cuando cualquiera autoridad aplique
 una norma general o acto declarado inválido,
+
 cualquiera de las partes podrá denunciar el hecho
 ante el Presidente de la Suprema Corte de Justicia de
 la Nación, quien dará vista a la autoridad señalada
@@ -686,8 +723,8 @@ conformidad con el procedimiento previsto para tal
 efecto en la Ley de Amparo, Reglamentaria de los
 artículos 103 y 107 de la Constitución Política de los
 Estados Unidos Mexicanos.
-
 Párrafo adicionado DOF 02-04-2013
+
 ARTICULO 48. Lo dispuesto en el artículo anterior,
 se entenderá sin perjuicio de que el Presidente de la
 Suprema Corte de Justicia de la Nación haga cumplir
@@ -714,8 +751,8 @@ ARTICULO 50. No podrá archivarse ningún
 expediente sin que quede cumplida la sentencia o se
 hubiere extinguido la materia de la ejecución.
 Capítulo VIII
-
 De los recursos
+
 Sección I
 De la reclamación
 ARTICULO 51. El recurso de reclamación procederá
@@ -743,9 +780,9 @@ instructor que admitan o desechen pruebas;
 VI. Contra los autos o resoluciones del Presidente
 de la Suprema Corte de Justicia de la Nación que
 tengan por cumplimentadas las ejecutorias
-
 dictadas por el Pleno de la Suprema Corte de
 Justicia de la Nación; y
+
 VII. En los demás casos que señale esta ley.
 ARTICULO 52. El recurso de reclamación deberá
 interponerse en un plazo de cinco días y en él
@@ -768,9 +805,9 @@ multa de diez a ciento veinte días de salario.
 Sección II
 De la queja
 ARTICULO 55. El recurso de queja es procedente:
-
 I. Contra la parte demandada o cualquier otra
 autoridad, por violación, exceso o defecto en la
+
 ejecución del auto o resolución por el que se haya
 concedido la suspensión, y
 II.
@@ -832,8 +869,8 @@ En el caso a que se refiere la fracción II del
 artículo 55, que se aplique lo dispuesto en el
 último párrafo del artículo 105 de la Constitución
 Política de los Estados Unidos Mexicanos.
-
 Título III
+
 De las Acciones de inconstitucionalidad
 Capítulo I
 Disposiciones generales
@@ -929,8 +966,8 @@ transcurrido este plazo, dicho ministro dará vista a los
 órganos legislativos que hubieren emitido la norma y
 el órgano ejecutivo que la hubiere promulgado, para
 que dentro del plazo de quince días rindan un informe
-
 que contenga las razones y fundamentos tendientes a
+
 sostener la validez de la norma general impugnada o
 la improcedencia de la acción de inconstitucionalidad.
 Tratándose del Congreso de la Unión, cada una de
@@ -961,9 +998,9 @@ a que se refieren las fracciones II y III del artículo 20.
 Párrafo reformado DOF 22-11-1996
 La causales previstas en las fracciones III y IV del
 artículo 19 sólo podrán aplicarse cuando los
-
 supuestos contemplados en éstas se presenten
 respecto de otra acción de inconstitucionalidad.
+
 ARTICULO 66. Salvo en los casos en que el Fiscal
 General de la República hubiere ejercitado la acción,
 el ministro instructor le dará vista con el escrito y con
@@ -989,8 +1026,8 @@ Cuando la acción de inconstitucionalidad se
 interponga en contra de una ley electoral, el ministro
 instructor podrá solicitar opinión a la Sala Superior del
 Tribunal Electoral del Poder Judicial de la Federación.
-
 Párrafo adicionado DOF 22-11-1996
+
 Agotado el procedimiento, el ministro instructor
 propondrá al Pleno de la Suprema Corte de Justicia
 de la Nación el proyecto de sentencia para la
@@ -1046,8 +1083,8 @@ Justicia de la Nación sobre la no conformidad de
 leyes electorales a la Constitución, sólo podrán
 referirse a la violación de los preceptos expresamente
 señalados en el escrito inicial.
-
 Párrafo adicionado DOF 22-11-1996
+
 ARTICULO 72. Las resoluciones de la Suprema
 Corte de Justicia sólo podrán declarar la invalidez de
 las normas impugnadas, si fueren aprobadas por
