@@ -9,8 +9,8 @@ TEXTO VIGENTE
 Nueva Ley publicada en el Diario Oficial de la Federación el
 1 de julio de 2020
 
-Fracciones arancelarias de la Tarifa de la Ley modificadas por Decreto
-DOF 22-02-2021
+Fracciones arancelarias de la Tarifa de la Ley modificadas por
+Decreto DOF 16-07-2021
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos
 Mexicanos.- Presidencia de la República.
@@ -38439,13 +38439,21 @@ Los demás butanoles.
 
 Octanol
 
-(alcohol octílico)
+(alcohol
 
-y sus
+octílico)
 
-(alcohol octílico)
+y
 
-y sus
+sus
+
+(alcohol
+
+octílico)
+
+y
+
+sus
 
 isómeros.
 Octanol
@@ -42803,11 +42811,9 @@ Difenilamina y sus derivados; sales
 2921.44.02
 
 de estos productos.
-1-Naftilamina
+1-Naftilamina (alfa-naftilamina),
 
 2921.45
-
-(alfa-naftilamina),
 
 Kg
 
@@ -52252,9 +52258,7 @@ a) polvos
 
 metálicos
 
-impalpables (incluso
-
-de
+impalpables (incluso de
 
 metal
 
@@ -53381,9 +53385,11 @@ dióxido de titanio superior o
 
 al
 
-80% en
+80%
 
 calculado
+
+en
 
 sobre
 
@@ -53406,9 +53412,11 @@ igual
 
 al
 
-80% en
+80%
 
 calculado
+
+en
 
 sobre
 
@@ -58849,10 +58857,9 @@ científicas,
 
 para
 
-enseñanza o
+enseñanza o con fines
 culturales,
 
-con fines
 reconocibles
 
 como
@@ -76608,9 +76615,9 @@ Palissandre
 
 de
 
-Palissandre
-
 Para,
+
+Palissandre
 
 de
 
@@ -76890,12 +76897,15 @@ caja
 
 y
 
-demás plataformas para
-carga;
-
-collarines
+demás plataformas
 
 para
+
+carga;
+
+para
+
+collarines
 
 paletas.
 Paletas,
@@ -85893,11 +85903,10 @@ de
 algodón superior o igual
 al
 
-85% en
+85% en peso, sin
 
 acondicionar
 
-peso, sin
 para
 
 la
@@ -113363,9 +113372,7 @@ b) los artículos de uso personal que se llevan sobre la persona, así
 como los artículos de bolsillo o de bolso de mano (cartera) (por
 ejemplo:
 
-cigarreras,
-
-pitilleras, petacas, bomboneras,
+cigarreras, pitilleras, petacas, bomboneras,
 
 pastilleros, monederos de malla, rosarios).
 
@@ -125809,9 +125816,10 @@ de
 
 (resorte))
 
+muelle
+
 y
 
-muelle
 artículos
 
 similares, de cobre.
@@ -136442,12 +136450,13 @@ De potencia inferior o igual
 a 5,000 kW.
 --
 
-De potencia superior a
+De potencia superior
 5,000 kW.
 De potencia superior
 
 8411.82.01
 
+a
 a
 
 5,000 kW.
@@ -152121,7 +152130,7 @@ parte.
 para refrigerar el aire.
 --
 
-Pasarelas
+de
 
 embarque
 
@@ -152137,13 +152146,9 @@ aeropuertos.
 Las demás.
 -
 
-Las demás máquinas y
-aparatos:
-Para
-
 8479.81
 
-de
+Pasarelas
 
 De los tipos utilizados en
 
@@ -152161,13 +152166,15 @@ Aparatos de evaporación
 
 --
 
-el
-
-metal,
+Las demás máquinas y
+aparatos:
+Para el
 
 tratamiento
 
 del
+
+metal,
 
 incluidas
 
@@ -160412,12 +160419,10 @@ activados
 con
 
 monedas, billetes, tarjetas,
-fichas
-
-o cualquier otro
-
+fichas o cualquier otro
 medio de pago.
 Aparatos
+
 8519.20.01
 
 activados
@@ -160425,11 +160430,9 @@ activados
 con
 
 monedas, billetes, tarjetas,
-fichas
-
-o cualquier otro
-
+fichas o cualquier otro
 medio de pago.
+
 8519.30
 8519.30.02
 8519.50
@@ -162206,12 +162209,10 @@ procesamiento de datos
 de la partida 84.71.
 8528.59
 
-8528.59.01
-
 -- Los demás.
-Con
+Con pantalla inferior
 
-pantalla inferior
+8528.59.01
 
 igual
 
@@ -162478,11 +162479,10 @@ amplificador de bajo ruido
 (LNA), guías
 polarrotor
 
-de
+de onda,
 
 y
 
-onda,
 corneta
 
 alimentadora.
@@ -162520,10 +162520,7 @@ operación sea de hasta
 Los demás.
 -- Los demás, en colores.
 
-Con
-
-pantalla inferior
-
+Con pantalla inferior
 igual
 
 a 35.56
@@ -163895,6 +163892,8 @@ nominales,
 
 para
 
+sistemas con neutro
+
 Kg
 
 5
@@ -163925,7 +163924,8 @@ Ex.
 
 Ex.
 
-sistemas con neutro a
+a
+
 tierra hasta 37 kV.
 8535.40.99
 8535.90
@@ -165894,31 +165894,47 @@ Administración de Nicotina
 
 8543.70.18
 
-(SEAN),
+(SEAN)
 
-Sistemas
-
-Alternativos de Consumo
-de
-
-Nicotina
-
-Sistemas
-
-(SACN),
+y
 
 Similares
 
 Sin
 
-Nicotina
-
 (SSSN),
 
-cigarrillos electrónicos y
-dispositivos vaporizadores
-con usos similares.
+Sistemas
+Nicotina
+cigarrillos
+
+electrónicos y dispositivos
+
+vaporizadores con usos
+similares,
+
+excepto
+
+los
+
+dispositivos
+
+de
+
+calentamiento
+
+de
+
+cartuchos
+
+o
+
+unidades
+
+desmontables con tabaco.
 Fracción creada DOF 24-122020
+Descripción modificada
+DOF 16-07-2021
 8543.70.99
 8543.90
 8543.90.01
@@ -165953,18 +165969,6 @@ Prohibida
 Kg
 
 Ex.
-
-Ex.
-
-Kg
-
-5
-
-Ex.
-
-Kg
-
-5
 
 Ex.
 
@@ -166027,6 +166031,7 @@ eléctricos incorporados
 o provistos de piezas de
 conexión.
 - Alambre para bobinar:
+
 8544.11
 8544.11.01
 8544.19
@@ -166034,11 +166039,60 @@ conexión.
 
 -- De cobre.
 De cobre.
+
+5
+
+Ex.
+
+Kg
+
+5
+
+Ex.
+
+Kg
+
+5
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+5
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+5
+
+Ex.
+
 -- Los demás.
 Los demás.
-
 Cables
+
 8544.20
+
+Kg
 
 y
 
@@ -166058,9 +166112,9 @@ conductores
 
 eléctricos, aislados y con
 funda de malla de metal,
-aun
-
 8544.20.01
+
+aun
 
 cuando
 
@@ -166070,48 +166124,10 @@ aislantes,
 vengan
 
 de
-
-materias
-
 con
 
+materias
 o
-
-Kg
-
-5
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-5
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-5
-
-Ex.
 
 sin
 
@@ -166129,19 +166145,18 @@ aun
 cuando
 
 recubiertos
-aislantes,
-
 8544.20.02
 
 aislados,
+
+aislantes,
+
 vengan
 
 de
-
-materias
-
 con
 
+materias
 o
 
 sin
@@ -166156,24 +166171,19 @@ comprendido
 fracción
 
 excepto
-
-lo
-
 en
 
+lo
 la
 
 arancelaria
 
 8544.20.01.
-Reconocibles para naves
-
 8544.20.03
-
-aéreas.
-
 8544.20.99
 
+Reconocibles para naves
+aéreas.
 Los demás.
 Juegos de cables para
 bujías
@@ -166189,15 +166199,14 @@ y
 - demás juegos de cables
 de los tipos utilizados en
 los medios de transporte.
-Reconocibles para naves
 
 8544.30.01
-
-aéreas.
-
 8544.30.99
 
+Reconocibles para naves
+aéreas.
 Los demás.
+
 Los demás conductores
 -
 
@@ -166255,12 +166264,6 @@ Ex.
 Kg
 
 5
-
-Ex.
-
-Kg
-
-Ex.
 
 Ex.
 
@@ -166358,7 +166361,6 @@ usos eléctricos.
 8545.19.99
 8545.20
 8545.20.01
-8545.90
 
 --
 
@@ -166371,35 +166373,26 @@ hornos.
 Los demás.
 - Escobillas.
 Escobillas.
-- Los demás.
 
+8545.90
 8545.90.99
 
-Los demás.
-
 85.46
-
-Aisladores eléctricos de
-
-cualquier materia.
 8546.10
 8546.10.01
 
 8546.10.02
 
-- De vidrio.
-Tubulares.
-Esbozos,
+- Los demás.
+Los demás.
 
-en
+Kg
 
-forma
+Ex.
 
-campana,
+Ex.
 
-con
-
-la
+Kg
 
 Ex.
 
@@ -166483,6 +166476,20 @@ Kg
 
 Ex.
 
+Aisladores eléctricos de
+cualquier materia.
+- De vidrio.
+Tubulares.
+Esbozos,
+
+en
+
+forma
+
+campana,
+
+con
+
 de
 
 diámetro
@@ -166490,7 +166497,7 @@ diámetro
 igual o superior a 15 cm
 en
 
-Kg
+la
 
 circunferencia
 
@@ -166532,9 +166539,9 @@ porcelana
 
 esteatita
 
-o
-
 para
+
+o
 
 de
 
@@ -166576,19 +166583,18 @@ aéreas.
 De resina, epóxica, no
 rígidos.
 Los demás.
+
 Piezas
 
-85.47
+aislantes
 
 totalmente
 
-aislantes
 de
 
 materia
 
 aislante o con simples
-
 piezas
 
 metálicas
@@ -166604,6 +166610,8 @@ ejemplo,
 casquillos
 
 roscados) embutidas en
+85.47
+
 la masa, para máquinas,
 aparatos o instalaciones
 eléctricas, excepto los
@@ -166612,6 +166620,7 @@ aisladores de la partida
 sus piezas de unión, de
 metal común, aislados
 interiormente.
+
 8547.10
 
 -
@@ -166703,6 +166712,9 @@ plástico.
 Los demás.
 Desperdicios
 desechos
+
+85.48
+
 baterías
 
 y
@@ -166716,8 +166728,6 @@ pilas
 o
 
 acumuladores,
-85.48
-
 eléctricos;
 baterías
 
@@ -166739,7 +166749,6 @@ eléctricas
 de
 
 máquinas o aparatos, no
-
 expresadas
 
 ni
@@ -166814,9 +166823,9 @@ los toboganes, “bobsleighs” y similares (partida 95.06).
 sean identificables como tales:
 a) las juntas o empaquetaduras, arandelas y similares, de cualquier
 materia (régimen de la materia constitutiva o partida 84.84), así como
+
 los demás artículos de caucho vulcanizado sin endurecer (partida
 40.16);
-
 b) las partes y accesorios de uso general, tal como se definen en la
 Nota 2 de la Sección XV, de metal común (Sección XV), ni los
 artículos similares de plástico (Capítulo 39);
@@ -166840,10 +166849,10 @@ parte o un accesorio sea susceptible de responder a las especificaciones
 de dos o más partidas de la Sección, se clasifica en la partida que
 corresponda a su utilización principal.
 4. En esta Sección:
+
 a) los vehículos especialmente concebidos para ser utilizados en
 carretera y sobre carriles (rieles), se clasifican en la partida apropiada
 del Capítulo 87;
-
 b) los vehículos automóviles anfibios se clasifican en la partida
 apropiada del Capítulo 87;
 c) las aeronaves especialmente concebidas para ser utilizadas también
@@ -166871,9 +166880,9 @@ Capítulo 86
 Vehículos y material para vías férreas o similares, y sus partes; aparatos
 mecánicos (incluso electromecánicos) de señalización para vías de
 comunicación
+
 Notas.
 1. Este Capítulo no comprende:
-
 a) las traviesas (durmientes) de madera u hormigón para vías férreas o
 similares y los elementos de hormigón para vías guía de aerotrenes
 (partidas 44.06 o 68.10);
@@ -166909,6 +166918,7 @@ electromecánicos)
 de
 
 señalización, seguridad, control o mando, incluso provistos de
+
 dispositivos accesorios de alumbrado eléctrico, para vías férreas o
 similares,
 
@@ -166922,12 +166932,11 @@ fluviales,
 
 o
 
-estacionamiento, instalaciones portuarias o aeropuertos.
-
 parques
 
 de
 
+estacionamiento, instalaciones portuarias o aeropuertos.
 CUOTA (ARANCEL)
 CÓDIGO
 
@@ -166938,12 +166947,6 @@ UNIDAD IMPUESTO IMPUESTO
 DE IMP.
 
 DE EXP.
-
-Pza
-
-Ex.
-
-Ex.
 
 Pza
 
@@ -167070,9 +167073,6 @@ excepto los de la partida
 8603.10
 8603.10.01
 8603.90
-8603.90.99
-
-86.04
 
 -
 
@@ -167095,13 +167095,27 @@ fuente
 
 electricidad.
 - Los demás.
+
+8603.90.99
+
 Los demás.
 Vehículos
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+5
+
+Ex.
 
 para
 
 mantenimiento o servicio
-
 de
 
 vías
@@ -167110,12 +167124,12 @@ férreas
 
 similares,
 
-o
-
 incluso
 
 autopropulsados
+86.04
 
+o
 (por
 
 ejemplo: vagones taller,
@@ -167181,6 +167195,7 @@ vías, coches para ensayos
 y vagonetas de inspección
 de vías).
 Coches
+86.05
 
 de
 
@@ -167188,19 +167203,11 @@ viajeros,
 
 furgones de equipajes,
 coches correo y demás
-86.05
 
 coches especiales, para
 vías férreas o similares
 (excepto los coches de la
 partida 86.04).
-
-Pza
-
-5
-
-Ex.
-
 Coches
 
 de
@@ -167275,12 +167282,6 @@ Ex.
 
 Ex.
 
-Kg
-
-Ex.
-
-Ex.
-
 Vagones para transporte
 86.06
 
@@ -167339,37 +167340,25 @@ la subpartida 8606.10.
 
 8606.91.02
 8606.92
+8606.92.01
+8606.99
+8606.99.99
+
+86.07
 
 Cubiertos y cerrados.
 --
 
+Abiertos, con pared fija de
 altura superior a 60 cm.
+Abiertos, con pared fija de
+altura superior a 60 cm.
+
 -- Los demás.
-
-8606.99.99
-
 Los demás.
 Partes de vehículos para
-
-86.07
-
 vías férreas o similares.
--
-
-8607.11
-8607.11.01
-
-altura superior a 60 cm.
-Abiertos, con pared fija de
-
-8606.92.01
-8606.99
-
-Abiertos, con pared fija de
-
---
-
-Bojes,
+- Bojes,
 
 "bissels",
 
@@ -167378,9 +167367,9 @@ ejes
 y
 
 ruedas, y sus partes:
-Bojes
+8607.11
 
-y
+--
 
 "bissels",
 
@@ -167393,12 +167382,9 @@ y
 de
 
 tracción.
-Bojes
-
-tracción.
-8607.12
-
 --
+
+Los
 
 demás
 
@@ -167410,18 +167396,16 @@ bojes
 
 y
 
-"bissels".
-Los
-
-8607.12.99
-8607.19
-
-Los
-
 demás
 
 "bissels".
 --
+
+Ex.
+
+Ex.
+
+Kg
 
 Ex.
 
@@ -167440,6 +167424,22 @@ Ejes montados con sus
 8607.19.02
 
 Kg
+
+"bissels".
+Los
+
+8607.12.99
+8607.19
+
+y
+
+tracción.
+Bojes
+
+8607.11.01
+8607.12
+
+Bojes
 
 ruedas.
 
@@ -167545,11 +167545,15 @@ topes, y sus partes.
 8607.99
 8607.99.99
 
+86.08
+
 --
 
 De
 
 locomotoras
+
+o
 
 locotractores.
 De
@@ -167574,15 +167578,12 @@ o
 similares;
 
 aparatos
-86.08
-
-o
+(incluso
 
 vías
 
 mecánicos
 
-(incluso
 electromecánicos)
 
 de
@@ -167590,7 +167591,6 @@ de
 señalización, seguridad,
 control o mando para
 vías férreas o similares,
-
 carreteras
 
 o
@@ -167695,13 +167695,13 @@ estacionamiento,
 instalaciones portuarias o
 aeropuertos; sus partes.
 Contenedores (incluidos
+86.09
+
 los
 
 contenedores
 
 cisterna
-86.09
-
 contenedores
 
 y
@@ -167709,17 +167709,16 @@ y
 los
 depósito)
 
-especialmente
-concebidos y equipados
-para uno o varios medios
-de transporte.
-
 Kg
 
 Ex.
 
 Ex.
 
+especialmente
+concebidos y equipados
+para uno o varios medios
+de transporte.
 Contenedores
 
 (incluidos
@@ -167777,9 +167776,9 @@ Las máquinas e instrumentos de trabajo concebidos para equipar los
 tractores de la partida 87.01 como material intercambiable siguen su
 propio régimen, aunque se presenten con el tractor, incluso si están
 montados sobre éste.
+
 3. Los chasis con cabina incorporada para vehículos automóviles se
 clasifican en las partidas 87.02 a 87.04 y no en la partida 87.06.
-
 4. La partida 87.12 comprende todas las bicicletas para niños. Los demás
 velocípedos para niños se clasifican en la partida 95.03.
 CUOTA (ARANCEL)
@@ -167790,10 +167789,9 @@ Tractores
 
 87.01
 
-UNIDAD IMPUESTO IMPUESTO
-
 (excepto
 
+UNIDAD IMPUESTO IMPUESTO
 DE IMP.
 
 DE EXP.
@@ -167910,9 +167908,10 @@ potencia:
 -- Inferior o igual a 18 kW.
 Tractores de ruedas con
 toma de fuerza o enganche
-de
 
 8701.91.01
+
+de
 
 tres
 
@@ -167941,12 +167940,11 @@ al
 
 menos
 
-anterior al vigente.
-
 2
 
 años
 
+anterior al vigente.
 Tractores de ruedas con
 toma de fuerza o enganche
 de
@@ -168007,12 +168005,6 @@ Ex.
 Pza
 
 5
-
-Ex.
-
-Pza
-
-Ex.
 
 Ex.
 
@@ -168101,12 +168093,12 @@ años
 
 anterior al vigente y lo
 comprendido en la fracción
+
 arancelaria 8701.92.02.
 Tractores de ruedas con
-8701.92.02
-
 toma de fuerza o enganche
 de
+8701.92.02
 
 tres
 
@@ -168117,6 +168109,30 @@ para
 acoplamiento
 
 de
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+5
+
+Ex.
 
 implementos agrícolas, con
 potencia igual o superior a
@@ -168166,24 +168182,6 @@ toldo,
 
 brazos
 
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
 de
 
 levante, contrapesos, tubo
@@ -168232,6 +168230,9 @@ Superior a 37 kW pero
 inferior o igual a 75 kW.
 Tractores de ruedas con
 toma de fuerza o enganche
+
+8701.93.01
+
 de
 
 tres
@@ -168239,13 +168240,13 @@ tres
 puntos,
 
 acoplamiento
-8701.93.01
 
 para
 de
 
 implementos agrícolas, con
 potencia superior a 53 CP,
+
 excepto
 
 aquellos
@@ -168259,12 +168260,11 @@ al
 
 menos
 
-anterior al vigente.
-
 2
 
 años
 
+anterior al vigente.
 Tractores de ruedas con
 toma de fuerza o enganche
 de
@@ -168404,10 +168404,11 @@ excepto lo comprendido en
 las fracciones arancelarias
 8701.94.02, 8701.94.03 y
 8701.94.04.
-Tractores de ruedas con
-toma de fuerza o enganche
 8701.94.02
 
+Tractores de ruedas con
+
+toma de fuerza o enganche
 de
 
 tres
@@ -168525,7 +168526,6 @@ arancelaria 8701.94.02.
 Tractores de ruedas con
 toma de fuerza o enganche
 de
-
 8701.94.05
 
 tres
@@ -168550,6 +168550,7 @@ transmisión
 manual
 
 sincronizada de 12 por 12
+
 e inversor de marcha, que
 no
 
@@ -168561,7 +168562,6 @@ menos
 
 nueve de los siguientes
 elementos: el conjunto de
-
 rines,
 
 toldo,
@@ -168665,6 +168665,8 @@ implementos
 agrícolas,
 
 incompletos o sin terminar,
+8701.95.02
+
 con
 
 transmisión
@@ -168672,8 +168674,6 @@ transmisión
 manual
 
 sincronizada de 12 por 12
-8701.95.02
-
 e inversor de marcha, que
 no
 
@@ -168697,7 +168697,6 @@ levante, contrapesos, tubo
 de escape, eje delantero,
 soporte frontal, radiador,
 salpicaduras, barra de tiro,
-
 horquilla
 
 barra
@@ -168865,6 +168864,7 @@ Ex.
 Ex.
 
 8702.40
+8702.40.01
 
 -
 
@@ -168878,12 +168878,9 @@ Trolebuses,
 excepto
 
 usados.
-8702.40.01
-
 Fracción y arancel
 modificados con vigencia
 temporal DOF 24/12/2020 (a
-
 partir del 01/10/2024 aplica
 arancel 15)
 Eléctricos, excepto usados.
@@ -168988,6 +168985,9 @@ Fracción creada DOF 24-122020
 
 Los demás.
 Automóviles de turismo
+
+87.03
+
 y
 
 demás
@@ -168995,7 +168995,6 @@ demás
 vehículos
 
 automóviles concebidos
-87.03
 
 principalmente
 
@@ -169006,7 +169005,6 @@ el
 transporte de personas
 (excepto los de la partida
 87.02), incluidos los del
-
 tipo familiar ("break" o
 "station wagon") y los de
 carreras.
@@ -169062,12 +169060,6 @@ Pza
 
 Ex.
 
-Pza
-
-20
-
-Ex.
-
 transporte de personas en
 campos de golf y vehículos
 similares.
@@ -169102,9 +169094,6 @@ una
 8703.21.01
 
 dirección
-al
-
-tipo
 
 automóvil
 
@@ -169124,6 +169113,9 @@ de
 
 cuatro
 
+al
+
+tipo
 mismo
 
 ruedas
@@ -169146,19 +169138,18 @@ arancelaria 8703.21.01.
 8703.21.99
 
 Los demás.
-De cilindrada superior a
 
+De cilindrada superior a
 8703.22
 
 -- 1,000 cm³ pero inferior o
 igual a 1,500 cm³.
+De cilindrada superior a
+1,000 cm³ pero inferior o
+igual a 1,500 cm³, excepto
 
 8703.22.01
 
-De cilindrada superior a
-
-1,000 cm³ pero inferior o
-igual a 1,500 cm³, excepto
 lo
 
 comprendido
@@ -169169,62 +169160,62 @@ en
 
 la
 
+Pza
+
+20
+
+Ex.
+
+Pza
+
+50
+
+Ex.
+
+Pza
+
+20
+
+Ex.
+
+Pza
+
+50
+
+Ex.
+
+Pza
+
+20
+
+Ex.
+
+Pza
+
+50
+
+Ex.
+
+Pza
+
+20
+
+Ex.
+
+Pza
+
+50
+
+Ex.
+
 arancelaria
 
 8703.22.02.
 8703.22.02
 
 Usados.
-
-Pza
-
-50
-
-Ex.
-
-Pza
-
-20
-
-Ex.
-
-Pza
-
-50
-
-Ex.
-
-Pza
-
-20
-
-Ex.
-
-Pza
-
-50
-
-Ex.
-
-Pza
-
-20
-
-Ex.
-
-Pza
-
-50
-
-Ex.
-
-Pza
-
-20
-
-Ex.
-
 De cilindrada superior a
+
 8703.23
 
 -- 1,500 cm³ pero inferior o
@@ -169328,19 +169319,18 @@ arancelaria
 8703.31.02
 
 Usados.
-De cilindrada superior a
 
+De cilindrada superior a
 8703.32
 
 -- 1,500 cm³ pero inferior o
 igual a 2,500 cm³.
+De cilindrada superior a
+1,500 cm³ pero inferior o
+igual a 2,500 cm³, excepto
 
 8703.32.01
 
-De cilindrada superior a
-
-1,500 cm³ pero inferior o
-igual a 2,500 cm³, excepto
 lo
 
 comprendido
@@ -169351,6 +169341,36 @@ en
 
 la
 
+Pza
+
+20
+
+Ex.
+
+Pza
+
+50
+
+Ex.
+
+Pza
+
+20
+
+Ex.
+
+Pza
+
+50
+
+Ex.
+
+Pza
+
+20
+
+Ex.
+
 arancelaria
 
 8703.32.02.
@@ -169359,42 +169379,6 @@ arancelaria
 
 Usados.
 --
-
-Pza
-
-50
-
-Ex.
-
-Pza
-
-20
-
-Ex.
-
-Pza
-
-50
-
-Ex.
-
-Pza
-
-20
-
-Ex.
-
-Pza
-
-50
-
-Ex.
-
-Pza
-
-15
-
-Ex.
 
 De cilindrada superior a
 2,500 cm³.
@@ -169478,6 +169462,7 @@ las
 arancelarias
 
 8703.40.02 y 8703.40.03.
+
 Usados,
 8703.40.02
 
@@ -169486,12 +169471,33 @@ excepto
 lo
 
 comprendido en la fracción
+
+Pza
+
+50
+
+Ex.
+
+Pza
+
+15
+
+Ex.
+
+Pza
+
+20
+
+Ex.
+
+Pza
+
+50
+
+Ex.
+
 arancelaria 8703.40.03.
-
-8703.40.03
-
 Motociclos de tres ruedas
-
 (trimotos),
 
 de
@@ -169506,6 +169512,9 @@ presenten
 una
 
 dirección tipo automóvil o,
+
+8703.40.03
+
 al
 
 mismo
@@ -169594,18 +169603,6 @@ se
 
 puedan
 
-Pza
-
-20
-
-Ex.
-
-Pza
-
-50
-
-Ex.
-
 cargar
 
 mediante conexión a una
@@ -169619,16 +169616,16 @@ alimentación eléctrica y lo
 comprendido en la fracción
 arancelaria 8703.50.02.
 8703.50.02
+8703.60
 
 Usados.
+-
+
 Los
 
 demás
 
 equipados
-8703.60
-
--
 
 vehículos,
 para
@@ -169639,7 +169636,6 @@ propulsión con motor de
 émbolo (pistón) alternativo,
 de encendido por chispa y
 con motor eléctrico, que se
-
 puedan cargar mediante
 conexión
 externa
@@ -169772,6 +169768,9 @@ Los
 demás
 
 equipados
+8703.70
+
+-
 
 vehículos,
 para
@@ -169780,9 +169779,6 @@ la
 
 propulsión con motor de
 émbolo
-8703.70
-
--
 
 (pistón),
 
@@ -169790,15 +169786,17 @@ de
 
 encendido por compresión
 (diésel o semi-diésel) y con
+
 motor eléctrico, que se
 puedan cargar mediante
 conexión
 externa
 
 a
-de
 
 una
+
+de
 
 fuente
 
@@ -169809,10 +169807,9 @@ Los
 
 demás
 
-vehículos,
-
 equipados
 
+vehículos,
 para
 
 la
@@ -169884,10 +169881,9 @@ Los
 
 demás
 
-vehículos,
-
 - propulsados
 
+vehículos,
 únicamente
 
 con motor eléctrico.
@@ -169930,12 +169926,6 @@ Pza
 
 Ex.
 
-Pza
-
-Ex.
-
-Ex.
-
 Vehículos
 87.04
 
@@ -169948,14 +169938,16 @@ transporte
 de
 
 mercancías.
-Volquetes
 8704.10
 
 -
 
+Volquetes
+
 automotores
 
 concebidos para utilizarlos
+
 fuera
 
 de
@@ -169967,13 +169959,13 @@ red
 de
 
 carreteras.
-8704.10.02
-
 Volquetes
 
 automotores
 
 concebidos para utilizarlos
+
+8704.10.02
 
 fuera
 
@@ -169984,6 +169976,66 @@ la
 red
 
 de
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+5
+
+Ex.
+
+Pza
+
+50
+
+Ex.
+
+Pza
+
+20
+
+Ex.
+
+Pza
+
+5
+
+Ex.
+
+Pza
+
+50
+
+Ex.
+
+Pza
+
+20
+
+Ex.
+
+Pza
+
+5
+
+Ex.
+
+Pza
+
+50
+
+Ex.
+
+Pza
+
+20
+
+Ex.
 
 carreteras.
 Los demás, con motor de
@@ -170008,69 +170060,9 @@ Acarreadores de escoria,
 8704.21.01
 
 excepto para la recolección
-
-Pza
-
-5
-
-Ex.
-
-Pza
-
-50
-
-Ex.
-
-Pza
-
-20
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
-Pza
-
-50
-
-Ex.
-
-Pza
-
-20
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
-Pza
-
-50
-
-Ex.
-
-Pza
-
-20
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
 de basura doméstica.
 Usados,
+
 8704.21.04
 
 excepto
@@ -170135,50 +170127,27 @@ Los demás, con motor de
 
 (pistón),
 
+encendido por chispa:
+
 de
 
-encendido por chispa:
 De peso total con carga
 8704.31
 
 -- máxima inferior o igual a 5
 t.
+Acarreadores de escoria,
 
 8704.31.01
 
-Acarreadores de escoria,
-
 excepto para la recolección
-de basura doméstica.
-Motociclos de tres ruedas
-(trimotos) que presenten
-una
-8704.31.02
 
-dirección
-al
+Pza
 
-tipo
+5
 
-automóvil
+Ex.
 
-o,
-
-tiempo,
-
-diferencial
-
-y
-
-reversa;
-
-motociclos
-
-de
-
-cuatro
-
-mismo
 Pza
 
 15
@@ -170227,6 +170196,37 @@ Pza
 
 Ex.
 
+de basura doméstica.
+Motociclos de tres ruedas
+(trimotos) que presenten
+una
+8704.31.02
+
+dirección
+al
+
+tipo
+
+automóvil
+
+o,
+
+tiempo,
+
+diferencial
+
+y
+
+reversa;
+
+motociclos
+
+de
+
+cuatro
+
+mismo
+
 ruedas
 
 (cuadrimotos)
@@ -170235,19 +170235,16 @@ con
 
 dirección tipo automóvil.
 Usados,
-
-excepto
-
 comprendido
 
 8704.31.05
 
 fracciones
 
-lo
-
+excepto
 en
 
+lo
 las
 
 arancelarias
@@ -170295,11 +170292,11 @@ arancel 15)
 
 8704.90.99
 
+87.05
+
 Los demás.
 Vehículos
 para
-
-87.05
 
 usos
 
@@ -170313,7 +170310,6 @@ para
 
 transporte de personas o
 mercancías (por ejemplo:
-
 coches
 
 para
@@ -170464,13 +170460,14 @@ arancelaria
 8705.90
 8705.90.01
 8705.90.02
-8705.90.99
 
 Usados.
 - Los demás.
 Con
 
 equipos
+
+especiales
 
 para el aseo de calles.
 Para
@@ -170480,28 +170477,31 @@ aplicación
 de
 
 fertilizantes fluidos.
+
+8705.90.99
+
 Los demás.
-Chasis
 
 87.06
 
-especiales
+Chasis
 
 de
 
+vehículos
+
 automóviles
 
-vehículos
 de
 
 las
 
 partidas 87.01 a 87.05,
 equipados con su motor.
-
+Chasis
 8706.00
 
-- Chasis
+-
 
 de
 
@@ -170562,12 +170562,6 @@ Ex.
 Kg
 
 Ex.
-
-Ex.
-
-Pza
-
-5
 
 Ex.
 
@@ -170649,37 +170643,31 @@ Defensas
 reconocibles
 
 como
-
-concebidas
-
 exclusivamente
 
+concebidas
 para
 
 tractores agrícolas.
 Defensas
-8708.10.03
-
-reconocibles
-concebidas
 
 completas,
+
+reconocibles
+8708.10.03
+
 como
 
+concebidas
 exclusivamente
 
 para
 
-vehículos automóviles de
-hasta diez plazas.
-8708.10.99
+Pza
 
-Los demás.
-Las
+5
 
-demás
-
-partes
+Ex.
 
 Pza
 
@@ -170692,6 +170680,17 @@ Pza
 Ex.
 
 Ex.
+
+vehículos automóviles de
+hasta diez plazas.
+8708.10.99
+
+Los demás.
+Las
+
+demás
+
+partes
 
 y
 
@@ -170859,13 +170858,12 @@ Soportes
 
 o
 
-armazones
-
 para acojinados.
 Reconocibles
 
 8708.29.13
 
+armazones
 como
 
 concebidos
@@ -170874,14 +170872,16 @@ exclusivamente
 para
 
 capots (cofres).
-Toldos
-acojinados,
 8708.29.16
 
-corredizos
+Toldos
+acojinados,
 
 exteriores
 techos
+
+corredizos
+
 centrales
 
 o
@@ -170889,7 +170889,6 @@ o
 laterales y sus partes; de
 accionamiento manual o
 electrónico.
-
 Juntas preformadas para
 
 8708.29.17
@@ -170952,12 +170951,6 @@ Ex.
 Ex.
 
 Kg
-
-Ex.
-
-Ex.
-
-Pza
 
 Ex.
 
@@ -171057,25 +171050,28 @@ como
 
 concebidas
 exclusivamente
+tractores de ruedas.
 
 para
 
-tractores de ruedas.
 Guarniciones
-8708.30.04
-
-montadas,
-comprendido
-fracciones
 
 de
 
-frenos
+montadas,
 
 excepto
-en
+
+comprendido
 
 lo
+
+en
+
+fracciones
+8708.30.04
+
+frenos
 las
 
 arancelarias
@@ -171084,6 +171080,54 @@ arancelarias
 lo
 
 reconocido
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+5
+
+Ex.
+
+Pza
+
+5
+
+Ex.
+
+Pza
+
+5
+
+Ex.
+
+Pza
+
+5
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
 
 como
 
@@ -171114,54 +171158,6 @@ maestros,
 presentados
 
 en
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
 
 surtidos
 
@@ -171237,18 +171233,17 @@ Reconocibles
 como
 
 concebidas
-exclusivamente
 8708.40.01
 
+exclusivamente
 comprendido
+fracciones
 
 para
 en
 
 lo
 las
-
-fracciones
 
 arancelarias
 
@@ -171261,34 +171256,23 @@ arancelarias
 8701.94.01,
 
 8701.95.01 y 8701.94.05.
-8708.40.02
-
 Cajas
+8708.40.02
 
 de
 
-velocidades
-
 mecánicas,
 
+velocidades
 con
 
 peso
 
-inferior a 120 kg.
-8708.40.03
+Pza
 
-Cajas
+Ex.
 
-velocidades
-
-automáticas.
-Cajas
-
-8708.40.04
-
-de
-de
+Ex.
 
 Pza
 
@@ -171338,11 +171322,20 @@ Ex.
 
 Ex.
 
-Pza
+inferior a 120 kg.
+8708.40.03
 
-Ex.
+Cajas
 
-Ex.
+velocidades
+
+automáticas.
+Cajas
+
+8708.40.04
+
+de
+de
 
 velocidades
 
@@ -171426,9 +171419,9 @@ Reconocibles
 como
 
 concebidas
-exclusivamente
 8708.50.02
 
+exclusivamente
 comprendido
 
 para
@@ -171450,18 +171443,54 @@ arancelarias
 8701.94.01,
 
 8701.95.01 y 8701.94.05.
-8708.50.03
-
 Reconocibles
-concebidos
 
 como
+
+concebidos
+8708.50.03
 
 exclusivamente
 
 para
 
 lo
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+5
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+5
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
 
 comprendido en la fracción
 arancelaria 8701.30.01.
@@ -171479,42 +171508,6 @@ concebidos
 exclusivamente
 
 para
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
 
 lo
 
@@ -171560,11 +171553,10 @@ Ejes
 
 con
 
-diferencial
-
 delanteros,
 8708.50.07
 
+diferencial
 excepto
 
 lo
@@ -171583,20 +171575,20 @@ Los
 
 demás
 
-ejes
-
 diferencial
+
+ejes
 
 reconocibles
 
 como
+8708.50.08
+
+con
 
 concebidos
 
 exclusivamente
-8708.50.08
-
-con
 
 para
 
@@ -171608,37 +171600,81 @@ comprendido en la partida
 excepto
 
 comprendidos
-fracciones
 
 en
 
 los
 las
 
+fracciones
+
 arancelarias
 
 8708.50.04 y 8708.50.05.
-8708.50.09
-
 Los
 
 demás
 
 diferencial,
+8708.50.09
 
 ejes
-excepto
 
 con
-los
+
+excepto
 
 comprendidos
+
+los
 
 en
 
 fracción
 
 la
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+5
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
 
 arancelaria
 
@@ -171654,48 +171690,6 @@ excepto lo comprendido en
 la
 
 fracción
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-5
-
-Ex.
 
 arancelaria
 
@@ -171769,20 +171763,20 @@ carga
 superior a 2,724 kg (6,000
 libras), pero inferior o igual
 a 8,172 kg (18,000 libras).
-Forjas para la fabricación
 8708.50.18
+
+Forjas para la fabricación
 
 de flechas de velocidad
 constante (homocinéticas).
-
-8708.50.20
-
 Reconocibles
-concebidos
 
 como
 
+concebidos
 exclusivamente para ejes
+8708.50.20
+
 cardán,
 
 excepto
@@ -171794,6 +171788,42 @@ lo
 en
 
 fracciones
+
+Pza
+
+5
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
 
 las
 
@@ -171820,42 +171850,6 @@ control
 de
 
 delantera-trasera
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
 
 (PTU).
 
@@ -171907,10 +171901,9 @@ vehículos
 
 capacidad
 
-con
-
 de
 
+con
 carga
 
 superior
@@ -171931,8 +171924,9 @@ inferior o igual a 20,884 kg
 Conjuntos compuestos de
 las siguientes fundiciones:
 de portadiferencial, de caja
-para
 8708.50.26
+
+para
 
 baleros,
 
@@ -171946,12 +171940,10 @@ caja
 
 cambiador y de caja piñón,
 todos ellos para integrar
+
 portadiferenciales de eje
 trasero de vehículos de
 carga.
-
-8708.50.27
-
 Fundiciones
 
 de
@@ -171964,6 +171956,8 @@ para
 vehículos
 
 capacidad
+
+8708.50.27
 
 con
 
@@ -171982,6 +171976,43 @@ a
 libras),
 
 kg
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+5
+
+Ex.
+
+Pza
+
+5
+
+Ex.
+
 pero
 
 inferior o igual a 20,884 kg
@@ -172019,36 +172050,6 @@ a
 
 libras),
 
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
 kg
 pero
 
@@ -172085,6 +172086,7 @@ pero inferior o igual a
 
 8708.50.99
 8708.70
+8708.70.06
 
 Los demás.
 -
@@ -172092,6 +172094,8 @@ Los demás.
 Ruedas,
 
 sus
+
+partes
 
 y
 
@@ -172101,22 +172105,17 @@ y
 
 accesorios.
 Tapones
-
-8708.70.06
-
-partes
-
-o
-
 arillos
 
+o
 para
+
+ruedas,
 
 excepto
 
 las
 
-ruedas,
 reconocidas
 
 como
@@ -172124,9 +172123,11 @@ como
 concebidas
 
 exclusivamente
-trolebuses
 
 para
+
+trolebuses
+
 y
 
 lo
@@ -172176,18 +172177,6 @@ Ex.
 Pza
 
 Ex.
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
-Pza
-
-5
 
 Ex.
 
@@ -172280,37 +172269,51 @@ las fracciones arancelarias
 
 Horquillas
 
-de
+levante
 
 hidráulico.
 Horquillas,
 
 8708.80.07
 
-levante
+de
+
 brazos,
 
 excéntricos o pernos, para
 el sistema de suspensión
+
 delantera.
+Partes
 
 8708.80.08
-8708.80.09
-
-Partes
 
 componentes
 
-barras de torsión.
-Barras de torsión.
-
 de
 
+barras de torsión.
+
+8708.80.09
+
+Barras de torsión.
 Rótulas, para el sistema de
 
 8708.80.10
 
 suspensión delantera.
+
+Pza
+
+5
+
+Ex.
+
+Pza
+
+5
+
+Ex.
 
 Pza
 
@@ -172390,12 +172393,6 @@ Ex.
 
 Ex.
 
-Pza
-
-Ex.
-
-Ex.
-
 8708.91
 
 Las
@@ -172415,12 +172412,11 @@ como
 
 concebidas
 exclusivamente
+8708.91.01
 
 para
 
 comprendido
-
-8708.91.01
 
 en
 
@@ -172450,9 +172446,9 @@ de
 aceites
 
 lubricantes para motores
-de
-
 8708.91.03
+
+de
 
 émbolo
 
@@ -172488,31 +172484,72 @@ tubos
 partes.
 
 8708.93
-
--- Embragues y sus partes.
-
 8708.93.05
 8708.94
-8708.94.12
-8708.95
 
+-- Embragues y sus partes.
 Embragues y sus partes.
---
+-- Volantes, columnas y cajas
+
+de dirección; sus partes.
+8708.94.12
 
 Volantes, columnas y cajas
 de dirección; sus partes.
-Volantes, columnas y cajas
-de dirección; sus partes.
+Bolsas
 
--- Bolsas
+8708.95
 
 inflables
 
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+5
+
+Ex.
+
+Pza
+
+5
+
+Ex.
+
+Pza
+
+5
+
+Ex.
+
+Pza
+
+5
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
 de
 
-seguridad con sistema de
+-- seguridad con sistema de
 inflado (airbag); sus partes.
 Bolsas
+
 8708.95.02
 
 inflables
@@ -172520,44 +172557,8 @@ inflables
 de
 
 seguridad con sistema de
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
 inflado (airbag); sus partes.
+
 8708.99
 
 -- Los demás.
@@ -172649,10 +172650,11 @@ arancelaria 8701.30.01.
 
 Los demás.
 Carretillas automóvil sin
-dispositivo de elevación
-de los tipos utilizados en
 
 87.09
+
+dispositivo de elevación
+de los tipos utilizados en
 
 fábricas,
 
@@ -172663,19 +172665,21 @@ para
 
 transporte
 
+de
+
 mercancías
 
 a
 
-de
-corta
-
 distancia;
-tractor
 
 carretillas
 
+tractor
+
 de
+
+corta
 
 los
 
@@ -172712,12 +172716,6 @@ Ex.
 Pza
 
 5
-
-Ex.
-
-Pza
-
-15
 
 Ex.
 
@@ -172815,10 +172813,11 @@ sin
 él;
 
 sidecares.
-Con
 8711.10
 
 -
+
+Con
 
 motor
 
@@ -172834,10 +172833,8 @@ de
 
 cilindrada inferior o igual a
 50 cm³.
-
-8711.10.03
-
 Con
+8711.10.03
 
 motor
 
@@ -172852,6 +172849,37 @@ alternativo
 de
 
 cilindrada inferior o igual a
+
+Pza
+
+15
+
+Ex.
+
+Pza
+
+15
+
+Ex.
+
+Pza
+
+15
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
 50 cm³.
 Con
 
@@ -172887,31 +172915,6 @@ alternativo
 de
 
 cilindrada superior a 50
-
-Pza
-
-15
-
-Ex.
-
-Pza
-
-15
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
 cm³ pero inferior o igual a
 250 cm³.
 Con
@@ -172992,7 +172995,6 @@ y
 
 reversa.
 Esbozo
-
 8711.40.02
 
 de
@@ -173005,9 +173007,9 @@ conjunto
 
 formado
 
-con
-
 bastidor
+
+con
 
 (cuadro)
 
@@ -173020,7 +173022,6 @@ de
 émbolo (pistón) alternativo
 de cilindrada superior a
 500 cm³ pero inferior o
-
 igual
 
 a
@@ -173185,10 +173186,8 @@ demás
 velocípedos (incluidos los
 triciclos de reparto), sin
 motor.
+
 Sillones
-
-87.13
-
 demás
 
 de
@@ -173198,16 +173197,17 @@ ruedas
 vehículos
 
 personas
-discapacidad,
-
-y
+87.13
 
 para
 con
 
-incluso
-
+discapacidad,
 con
+
+y
+
+incluso
 
 motor
 
@@ -173368,20 +173368,22 @@ para
 con
 
 discapacidad.
-De sillones de ruedas y
 8714.20.01
+
+De sillones de ruedas y
 
 demás
 
 vehículos
 
-personas
-discapacidad.
-- Los demás:
-
 para
+
+personas
+
 con
 
+discapacidad.
+- Los demás:
 8714.91
 
 --
@@ -173531,10 +173533,11 @@ Coches, sillas y vehículos
 
 similares para transporte
 de niños.
-Partes reconocibles como
-concebidas
 
 8715.00.02
+
+Partes reconocibles como
+concebidas
 
 exclusivamente
 
@@ -173544,7 +173547,6 @@ lo
 
 comprendido en la fracción
 arancelaria 8715.00.01.
-
 Remolques
 
 y
@@ -173673,9 +173675,9 @@ concebidos
 exclusivamente
 transporte
 
-para
-
 de
+
+para
 
 el
 
@@ -173683,24 +173685,23 @@ lanchas,
 
 yates y veleros de más de
 4.5 m de eslora.
+8716.39.04
+
 Remolques
 
 tipo
 
 plataformas modulares con
-8716.39.04
-
 ejes direccionales, incluso
 con
 
 sección
 
-transportador,
-
 de
 
 puente
 
+transportador,
 acoplamientos hidráulicos
 y/o cuello de ganso y/o
 motor
@@ -173837,9 +173838,9 @@ _______________
 Capítulo 88
 Aeronaves, vehículos espaciales, y sus partes
 Nota de subpartida.
+
 1. En las subpartidas 8802.11 a 8802.40, la expresión peso en vacío se
 refiere al peso de los aparatos en orden normal de vuelo, excepto el
-
 peso de la tripulación, del carburante y del equipo distinto del que está
 fijo en forma permanente.
 CUOTA (ARANCEL)
@@ -173871,12 +173872,6 @@ Ex.
 Pza
 
 15
-
-Ex.
-
-Pza
-
-5
 
 Ex.
 
@@ -173972,30 +173967,25 @@ lanzamiento y vehículos
 suborbitales.
 - Helicópteros:
 8802.11
+8802.11.01
+8802.11.99
+8802.12
 
 --
 
+De peso en vacío inferior o
+igual a 2,000 kg.
+Helicópteros para fumigar,
 hasta de 3 plazas.
+Los demás.
 
-8802.11.99
+-- De peso en vacío superior
+
+a 2,000 kg.
+Helicópteros para fumigar,
 
 8802.12.01
 
-igual a 2,000 kg.
-Helicópteros para fumigar,
-
-8802.11.01
-
-8802.12
-
-De peso en vacío inferior o
-
-Los demás.
---
-
-De peso en vacío superior
-a 2,000 kg.
-Helicópteros para fumigar,
 hasta de 3 plazas.
 
 8802.12.99
@@ -174008,6 +173998,12 @@ Aviones
 -
 
 y
+
+Pza
+
+5
+
+Ex.
 
 Pza
 
@@ -174163,28 +174159,24 @@ vacío superior a 15,000
 kg.
 Aviones
 
+8802.40.01
+
 y
 
 demás
 
 aeronaves, de peso en
-
-8802.40.01
-
 vacío superior a 15,000
+
 kg.
-
-8802.60
-
--
-
 Vehículos
 
 espaciales
 
 (incluidos los satélites) y
+8802.60
 
-sus
+- sus
 
 vehículos
 
@@ -174232,12 +174224,6 @@ Ex.
 Pza
 
 5
-
-Ex.
-
-Kg
-
-10
 
 Ex.
 
@@ -174318,15 +174304,32 @@ planeadores
 - (parapentes) o de aspas
 giratorias; sus partes y
 accesorios.
+
 Paracaídas, incluidos los
-
-8804.00.01
-
 dirigibles,
+8804.00.01
 
 planeadores
 
 (parapentes) o de aspas
+
+Kg
+
+10
+
+Ex.
+
+Kg
+
+5
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
 
 giratorias; sus partes y
 accesorios.
@@ -174421,24 +174424,6 @@ aterrizaje
 
 en
 
-Kg
-
-5
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
 portaaviones y aparatos y
 dispositivos
 
@@ -174456,7 +174441,6 @@ tierra y sus partes:
 8805.21
 8805.21.01
 8805.29
-8805.29.01
 
 --
 
@@ -174466,10 +174450,18 @@ Simuladores de combate
 aéreo y sus partes.
 
 -- Los demás.
+
+8805.29.01
+
 Los demás.
 
-_______________
+Pza
 
+Ex.
+
+Ex.
+
+_______________
 Capítulo 89
 Barcos y demás artefactos flotantes
 Nota.
@@ -174593,24 +174585,23 @@ longitud
 
 inferior
 
-o
-
 igual a 35 m de eslora.
 Los demás.
-Barcos frigorífico, excepto
 
+o
+
+Barcos frigorífico, excepto
 8901.30
 
 - los
 
 de
 
-8901.20.
-
 la
 
 subpartida
 
+8901.20.
 8901.30.01
 8901.30.99
 
@@ -174747,13 +174738,13 @@ de
 los
 
 productos de la pesca.
-Yates y demás barcos y
 89.03
+
+Yates y demás barcos y
 
 embarcaciones de recreo
 o deporte; barcas (botes)
 de remo y canoas.
-
 8903.10
 
 - Embarcaciones inflables.
@@ -174798,12 +174789,6 @@ Ex.
 
 Ex.
 
-Pza
-
-Ex.
-
-Ex.
-
 - Los demás:
 8903.91
 
@@ -174812,19 +174797,17 @@ Ex.
 con motor auxiliar.
 --
 
+los de motor fueraborda.
+los de motor fueraborda.
+
 -- Los demás.
+
+8903.99.99
+
 Los demás.
 Remolcadores y barcos
 
 89.04
-
-8904.00.01
-
-los de motor fueraborda.
-los de motor fueraborda.
-
-8903.99.99
-
 8904.00
 
 Barcos de motor, excepto
@@ -174846,8 +174829,6 @@ empujadores.
 
 Remolcadores
 
-y
-
 barcos
 
 y
@@ -174856,6 +174837,11 @@ barcos
 
 empujadores.
 Remolcadores
+
+8904.00.01
+
+y
+
 empujadores.
 Barcos
 
@@ -174869,9 +174855,9 @@ dragas,
 pontones grúa y demás
 barcos en los que la
 navegación
-89.05
-
 accesoria
+
+89.05
 
 sea
 en
@@ -174894,43 +174880,29 @@ o
 explotación, flotantes o
 sumergibles.
 8905.10
-8905.10.01
 
 - Dragas.
-Dragas.
-Plataformas de perforación
 
+8905.10.01
 8905.20
 
-- o explotación, flotantes o
-sumergibles.
-
-8905.20.01
+Dragas.
+-
 
 Plataformas de perforación
 o explotación, flotantes o
 
 sumergibles.
-8905.90
+Plataformas de perforación
+8905.20.01
 
-- Los demás.
-Unidades
+o explotación, flotantes o
 
-(artefactos)
+Pza
 
-flotantes
-8905.90.01
+Ex.
 
-para
-
-el
-
-procesamiento
-tratamiento
-
-o
-
-de
+Ex.
 
 Pza
 
@@ -174973,6 +174945,28 @@ Pza
 Ex.
 
 Ex.
+
+sumergibles.
+8905.90
+
+- Los demás.
+Unidades
+
+(artefactos)
+
+flotantes
+8905.90.01
+
+para
+
+el
+
+procesamiento
+tratamiento
+
+o
+
+de
 
 petróleo
 
@@ -175066,7 +175060,6 @@ flotantes para desguace.
 
 _______________
 Sección XVIII
-
 INSTRUMENTOS Y APARATOS DE ÓPTICA, FOTOGRAFÍA O
 CINEMATOGRAFÍA,
 DE MEDIDA, CONTROL O PRECISIÓN; INSTRUMENTOS Y APARATOS
@@ -175109,10 +175102,10 @@ espejos de metal común o metal precioso, que no tengan las
 características de elementos de óptica (partida 83.06 o Capítulo 71);
 e) los artículos de vidrio de las partidas 70.07, 70.08, 70.11, 70.14,
 70.15 ó 70.17;
+
 f) las partes y accesorios de uso general, tal como se definen en la
 Nota 2 de la Sección XV, de metal común (Sección XV) y artículos
 similares de plástico (Capítulo 39);
-
 g) las bombas distribuidoras con dispositivo medidor de la partida 84.13;
 las básculas y balanzas para comprobar o contar piezas fabricadas,
 así como las pesas presentadas aisladamente (partida 84.23); los
@@ -175135,10 +175128,7 @@ grabación o reproducción de sonido, así como los aparatos para
 reproducción en serie de soportes de sonido (partida 85.19); los
 lectores de sonido (partida 85.22); las cámaras de televisión, las
 cámaras digitales y las videocámaras (partida 85.25); los aparatos de
-radar, radionavegación o radiotelemando (partida 85.26);
-
-los
-
+radar, radionavegación o radiotelemando (partida 85.26); los
 conectores de fibras ópticas, haces o cables de fibras ópticas (partida
 85.36); los aparatos de control numérico de la partida 85.37; los faros
 o unidades “sellados” de la partida 85.39; los cables de fibras ópticas
@@ -175147,9 +175137,9 @@ ij) los proyectores de la partida 94.05;
 k) los artículos del Capítulo 95;
 l) los monopies, bípodes, trípodes y artículos similares, de la partida
 96.20;
+
 m) las medidas de capacidad, que se clasifican según su materia
 constitutiva;
-
 n) las bobinas y soportes similares (clasificación según la materia
 constitutiva, por ejemplo: partida 39.23, Sección XV).
 2. Salvo lo dispuesto en la Nota 1 anterior, las partes y accesorios de
@@ -175192,6 +175182,7 @@ susceptibles de clasificarse tanto en la partida 90.13 como en la partida
 90.31, se clasifican en esta última.
 6. En la partida 90.21, se entiende por artículos y aparatos de ortopedia los
 que se utilizan para:
+
 -
 
 prevenir o corregir ciertas deformidades corporales;
@@ -175231,6 +175222,7 @@ DE IMP.
 Fibras ópticas y haces de
 fibras ópticas; cables de
 fibras
+90.01
 
 ópticas,
 
@@ -175238,16 +175230,13 @@ excepto
 
 los de la partida 85.44;
 hojas y placas de materia
-90.01
-
 polarizante;
 (incluso
+prismas,
 
 lentes
 
 de
-
-prismas,
 
 contacto),
 
@@ -175255,11 +175244,11 @@ espejos
 
 y
 
+DE EXP.
+
 demás
 
 elementos
-
-de
 
 óptica
 
@@ -175267,12 +175256,13 @@ de
 
 materia,
 
-sin
+de
 
 cualquier
-montar,
 
-DE EXP.
+sin
+
+montar,
 
 excepto los de vidrio sin
 trabajar ópticamente.
@@ -175371,15 +175361,9 @@ o igual a 30 mm.
 Los demás.
 -
 
-(anteojos).
--
-
-Lentes de otras materias
-para gafas (anteojos).
-Lentes de otras materias
-
 9001.50.02
 9001.90
+9001.90.99
 
 (anteojos).
 Lentes de vidrio para gafas
@@ -175389,11 +175373,15 @@ Lentes de vidrio para gafas
 
 Lentes de vidrio para gafas
 
+(anteojos).
+-
+
+Lentes de otras materias
 para gafas (anteojos).
+Lentes de otras materias
+para gafas (anteojos).
+
 - Los demás.
-
-9001.90.99
-
 Los demás.
 Lentes, prismas, espejos
 y demás elementos de
@@ -175409,15 +175397,14 @@ materia, montados, para
 instrumentos o aparatos,
 excepto los de vidrio sin
 trabajar ópticamente.
-- Objetivos:
 
+- Objetivos:
+Para cámaras, proyectores
 9002.11
 
 --
 
-Para cámaras, proyectores
 o aparatos fotográficos o
-
 cinematográficos
 
 de
@@ -175548,14 +175535,14 @@ similares.
 9004.90
 9004.90.99
 
+90.05
+
 - Gafas (anteojos) de sol.
 Gafas (anteojos) de sol.
 - Los demás.
 Los demás.
 Binoculares
 los
-
-90.05
 
 (incluidos
 prismáticos),
@@ -175702,29 +175689,31 @@ Cámaras
 fotográficas;
 
 aparatos y dispositivos,
-incluidos las lámparas y
-tubos, para la producción
 90.06
 
+incluidos las lámparas y
+tubos, para la producción
 de
 
 destellos
 
+en
+
 fotografía,
-lámparas
 
 excepto
+
+lámparas
+
 y
 
 tubos
 
-en
 las
 de
 
 descarga de la partida
 85.39.
-
 Cámaras especiales para
 fotografía
 
@@ -175777,12 +175766,6 @@ Ex.
 Pza
 
 Ex.
-
-Ex.
-
-Pza
-
-10
 
 Ex.
 
@@ -175849,10 +175832,10 @@ Las demás, para películas
 -- en rollo de anchura inferior
 a 35 mm.
 Cámaras fotográficas de
-los tipos utilizados para
 
 9006.52.01
 
+los tipos utilizados para
 registrar
 
 documentos
@@ -175862,22 +175845,14 @@ en
 microfilmes, microfichas u
 otros microformatos.
 9006.52.99
-9006.53
 
 Las demás.
--- Las demás, para películas
 
-en rollo de anchura igual a
-35 mm.
-Cámaras fotográficas de
-los tipos utilizados para
-9006.53.01
+Pza
 
-registrar
+10
 
-documentos
-
-en
+Ex.
 
 Pza
 
@@ -175921,11 +175896,21 @@ Ex.
 
 Ex.
 
-Pza
+Las demás, para películas
+9006.53
 
-10
+-- en rollo de anchura igual a
+35 mm.
+Cámaras fotográficas de
+los tipos utilizados para
 
-Ex.
+9006.53.01
+
+registrar
+
+documentos
+
+en
 
 microfilmes, microfichas u
 otros microformatos.
@@ -175990,12 +175975,11 @@ descarga
 
 para
 
+destellos
+
 de
 
 producir
-
-destellos
-
 (flashes
 
 electrónicos).
@@ -176022,25 +176006,33 @@ cinematográficos,
 
 incluso con grabador o
 reproductor
+incorporados.
+
+9007.10
+
+- Cámaras.
 
 de
 
 sonido
 
-incorporados.
-9007.10
-
-- Cámaras.
 Para
-
-9007.10.01
 
 películas
 
 cinematográficas (filme) de
-anchura inferior a 16 mm o
-para la doble 8 mm.
 
+9007.10.01
+
+anchura inferior a 16 mm o
+
+Pza
+
+10
+
+Ex.
+
+para la doble 8 mm.
 9007.10.02
 
 Giroestabilizadas.
@@ -176091,12 +176083,6 @@ Ex.
 
 Ex.
 
-Pza
-
-Ex.
-
-Ex.
-
 9007.20
 
 - Proyectores.
@@ -176131,26 +176117,29 @@ o
 
 reductoras, fotográficas.
 9008.50
-9008.50.01
-9008.90
-9008.90.02
 
 -
 
-Proyectores, ampliadoras o
 reductoras.
 Proyectores, ampliadoras o
-reductoras.
 
+9008.50.01
+9008.90
+
+Proyectores, ampliadoras o
+
+reductoras.
 - Partes y accesorios.
+
+9008.90.02
+
 Partes y accesorios.
 Aparatos y material para
 laboratorios fotográficos
 o cinematográficos, no
+expresados
 
 90.10
-
-expresados
 
 ni
 
@@ -176168,43 +176157,13 @@ revelado
 
 9010.10
 
-automático
-
-de
-
-película
-
-fotográfica,
-
-película
-
-cinematográfica
-
-- (filme) o papel fotográfico
-en rollo o para impresión
-automática
-reveladas
-
-de
-
-películas
-
-en
-
-rollos
-
-de
-
-papel fotográfico.
-Aparatos y material para
-9010.10.01
-
-revelado
-película
+-
 
 automático
 
 de
+
+película
 
 fotográfica,
 
@@ -176213,6 +176172,62 @@ película
 cinematográfica
 
 (filme) o papel fotográfico
+en rollo o para impresión
+automática
+reveladas
+
+de
+en
+
+películas
+rollos
+
+de
+
+papel fotográfico.
+Aparatos y material para
+revelado
+
+9010.10.01
+
+automático
+
+de
+
+película
+
+fotográfica,
+
+película
+
+cinematográfica
+
+(filme) o papel fotográfico
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+15
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
 en rollo o para impresión
 automática
 reveladas
@@ -176257,24 +176272,6 @@ material para laboratorios
 fotográficos
 
 o
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-15
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
 
 cinematográficos;
 negatoscopios.
@@ -176339,12 +176336,6 @@ Pza
 
 Ex.
 
-Pza
-
-15
-
-Ex.
-
 Los demás microscopios
 9011.20
 
@@ -176359,9 +176350,9 @@ cinefotomicrografía
 o
 
 microproyección.
-Los demás microscopios
 9011.20.99
 
+Los demás microscopios
 para
 
 fotomicrografía,
@@ -176372,12 +176363,43 @@ o
 
 microproyección.
 9011.80
-9011.80.01
 
 - Los demás microscopios.
+
+9011.80.01
+9011.90
+
 Los demás microscopios.
 
-9011.90
+Pza
+
+15
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
 
 - Partes y accesorios.
 
@@ -176394,36 +176416,6 @@ excepto
 los
 
 ópticos;
-
-Kg
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
 
 difractógrafos.
 9012.10
@@ -176526,10 +176518,9 @@ telescópicas
 para
 
 armas; periscopios; visores
-para máquinas, aparatos o
-
 9013.10.01
 
+para máquinas, aparatos o
 instrumentos
 
 de
@@ -176537,15 +176528,11 @@ de
 este
 
 Capítulo o de la Sección
+
 XVI.
 9013.20
-9013.20.01
 
 -
-
-Láseres,
-
-excepto
 
 los
 
@@ -176554,30 +176541,17 @@ excepto
 los
 
 diodos láser.
-Láseres,
-
-diodos láser.
-9013.80
-
 -
 
-demás
-
-dispositivos,
-
-aparatos e instrumentos.
-Los
-
-9013.80.02
-9013.90
-
 Los
 
 demás
 
-dispositivos,
+Pza
 
-aparatos e instrumentos.
+Ex.
+
+Ex.
 
 Pza
 
@@ -176621,18 +176595,29 @@ Ex.
 
 Ex.
 
-Pza
+dispositivos,
 
-Ex.
+aparatos e instrumentos.
+Los
 
-Ex.
+9013.80.02
+9013.90
 
-Kg
+excepto
 
-Ex.
+diodos láser.
+Láseres,
 
-Ex.
+9013.20.01
+9013.80
 
+Láseres,
+
+demás
+
+dispositivos,
+
+aparatos e instrumentos.
 - Partes y accesorios.
 
 9013.90.01
@@ -176730,20 +176715,42 @@ las
 
 brújulas).
 9014.80
-9014.80.03
-9014.90
-9014.90.02
 
 -
 
 Los demás instrumentos y
 aparatos.
+
 Los demás instrumentos y
+
+9014.80.03
+9014.90
+
 aparatos.
 
-- Partes y accesorios.
-Partes y accesorios.
+Pza
 
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+- Partes y accesorios.
+
+9014.90.02
+
+Partes y accesorios.
 Instrumentos y aparatos
 de geodesia, topografía,
 agrimensura, nivelación,
@@ -176764,13 +176771,6 @@ brújulas; telémetros.
 9015.20
 
 Telémetros.
-
-Pza
-
-Ex.
-
-Ex.
-
 - Teodolitos y taquímetros.
 
 9015.20.01
@@ -176832,12 +176832,6 @@ Ex.
 Pza
 
 5
-
-Ex.
-
-Kg
-
-Ex.
 
 Ex.
 
@@ -176908,22 +176902,36 @@ roca o concreto, eléctricos
 o electrónicos.
 
 9015.80.99
-9015.90
 
 Los demás.
+
+9015.90
+
 - Partes y accesorios.
 
 9015.90.01
 
 Partes y accesorios.
 
-90.16
+Kg
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
 
 Balanzas sensibles a un
+90.16
 
 peso inferior o igual a 5
 cg, incluso con pesas.
 Balanzas sensibles a un
+
 9016.00
 
 - peso inferior o igual a 5 cg,
@@ -176933,13 +176941,6 @@ Balanzas sensibles a un
 9016.00.02
 
 peso inferior o igual a 5 cg,
-
-Pza
-
-Ex.
-
-Ex.
-
 incluso con pesas.
 Instrumentos de dibujo,
 trazado o cálculo (por
@@ -177046,38 +177047,20 @@ Kg
 
 Ex.
 
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
 9017.20
 
 -
-
-9017.80
-9017.80.03
-
-de
-
-ángulos.
-
-9017.20.99
-
-9017.30.02
 
 dibujo, trazado o cálculo.
 Transportadores
 
 9017.20.01
 
+de
+
+ángulos.
+
+9017.20.99
 9017.30
 
 Los demás instrumentos de
@@ -177087,29 +177070,23 @@ Los demás.
 
 Micrómetros, pies de rey,
 calibradores y galgas.
+
 Micrómetros, pies de rey,
+
+9017.30.02
+9017.80
+
 calibradores y galgas.
 
-- Los demás instrumentos.
-Comprobadores
+Ex.
 
-de
+Ex.
 
-cuadrante.
-Metros
+Pza
 
-9017.80.04
+Ex.
 
-madera
-
-plegable.
-
-9017.80.99
-9017.90
-
-de
-
-Los demás.
+Ex.
 
 Pza
 
@@ -177153,12 +177130,30 @@ Ex.
 
 Ex.
 
+- Los demás instrumentos.
+Comprobadores
+
+9017.80.03
+
+de
+
+cuadrante.
+Metros
+
+9017.80.04
+
+de
+
+madera
+
+plegable.
+
+9017.80.99
+9017.90
+
 Pza
 
-Ex.
-
-Ex.
-
+Los demás.
 - Partes y accesorios.
 
 9017.90.02
@@ -177252,34 +177247,43 @@ por
 
 resonancia magnética.
 9018.14
+
+-- Aparatos de centellografía.
+
 9018.14.01
 9018.19
 
--- Aparatos de centellografía.
 Aparatos de centellografía.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
 -- Los demás.
 
 9018.19.02
 
 Electroencefalógrafos.
-
-Pza
-
-Ex.
-
-Ex.
+Sistemas de monitoreo de
 
 9018.19.05
 
-Sistemas de monitoreo de
-
-Pza
-
-Ex.
-
-Ex.
-
 pacientes.
+
 9018.19.06
 
 Audiómetros.
@@ -177438,6 +177442,7 @@ sutura
 
 quirúrgica, constituido por
 aguja
+9018.32.04
 
 provista
 
@@ -177447,7 +177452,6 @@ hilo
 
 (catgut u otras ligaduras,
 con
-9018.32.04
 
 diámetro
 
@@ -177646,12 +177650,6 @@ Kg
 
 Ex.
 
-Kg
-
-5
-
-Ex.
-
 Pinzas para la extracción
 9018.49.05
 
@@ -177683,16 +177681,22 @@ biopsia.
 Los demás.
 -
 
+Los demás instrumentos y
 aparatos de oftalmología.
+
 Los demás instrumentos y
 
 9018.50.01
 9018.90
 
-Los demás instrumentos y
-
 aparatos de oftalmología.
 -
+
+Kg
+
+5
+
+Ex.
 
 Los demás instrumentos y
 aparatos.
@@ -177871,10 +177875,9 @@ excepto
 comprendido
 fracciones
 
-lo
-
 en
 
+lo
 las
 
 arancelarias
@@ -177955,30 +177958,20 @@ Kg
 
 Ex.
 
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-5
-
-Ex.
+Aparatos de diatermia de
 
 9018.90.25
-9018.90.27
 
-Aparatos de diatermia de
 onda corta.
 Incubadoras
 
+9018.90.27
+
 para
 
-partes y accesorios.
-
 niños,
+
+partes y accesorios.
 
 9018.90.28
 
@@ -177993,6 +177986,18 @@ Equipos para hemodiálisis
 
 Los demás.
 Aparatos
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+5
+
+Ex.
 
 Pza
 
@@ -178139,9 +178144,6 @@ demás
 terapia
 
 respiratoria.
-
-90.20
-
 Los
 
 demás
@@ -178149,8 +178151,8 @@ demás
 aparatos
 
 respiratorios y máscaras
-
 antigás,
+90.20
 
 excepto
 
@@ -178229,18 +178231,6 @@ Kg
 
 Ex.
 
-Kg
-
-5
-
-Ex.
-
-Kg
-
-5
-
-Ex.
-
 Artículos y aparatos de
 ortopedia, incluidas las
 fajas
@@ -178283,16 +178273,12 @@ incapacidad.
 -
 
 ortopedia o para fracturas.
--
-
-9021.21.02
-9021.29
-9021.29.99
-
-ortopedia o para fracturas.
 Artículos y aparatos de
 
 9021.10.06
+
+ortopedia o para fracturas.
+-
 
 9021.21
 
@@ -178302,45 +178288,66 @@ Artículos y aparatos de
 prótesis dental:
 
 -- Dientes artificiales.
+
+9021.21.02
+9021.29
+
 Dientes artificiales.
--- Los demás.
 Los demás.
-- Los
+-
+
+Ex.
+
+Kg
+
+5
+
+Ex.
+
+Los
 
 demás
 
 artículos
 
+Kg
+
+5
+
+Ex.
+
+Kg
+
+5
+
+Ex.
+
+Kg
+
+5
+
+Ex.
+
 y
 
 aparatos de prótesis:
-9021.31
 
 -- Prótesis articulares.
 
 9021.31.01
 9021.39
 
+5
+
+-- Los demás.
+
+9021.29.99
+
+9021.31
+
+Kg
+
 Prótesis articulares.
-
-Kg
-
-5
-
-Ex.
-
-Kg
-
-5
-
-Ex.
-
-Kg
-
-5
-
-Ex.
-
 -- Los demás.
 
 9021.39.01
@@ -178464,13 +178471,12 @@ médico,
 quirúrgico,
 
 odontológico
+90.22
 
 o
 
 veterinario, incluidos los
 aparatos de radiografía o
-90.22
-
 radioterapia,
 rayos
 
@@ -178487,6 +178493,7 @@ dispositivos generadores
 de rayos X, generadores
 de tensión, consolas de
 mando, pantallas, mesas,
+
 sillones
 
 y
@@ -178495,7 +178502,7 @@ soportes
 
 similares para examen o
 tratamiento.
-- Aparatos
+Aparatos
 
 de
 
@@ -178504,6 +178511,8 @@ rayos
 X,
 
 incluso para uso médico,
+-
+
 quirúrgico, odontológico o
 veterinario,
 
@@ -178556,12 +178565,6 @@ Ex.
 Ex.
 
 Kg
-
-Ex.
-
-Ex.
-
-Pza
 
 Ex.
 
@@ -178661,9 +178664,10 @@ médico,
 
 -- quirúrgico, odontológico o
 veterinario.
-Para
 
 9022.21.02
+
+Para
 
 uso
 
@@ -178671,22 +178675,22 @@ médico,
 
 quirúrgico, odontológico o
 veterinario.
-
 9022.29
-9022.29.01
 
 -- Para otros usos.
-Para otros usos.
 
+9022.29.01
 9022.30
 
-- Tubos de rayos X.
+Para otros usos.
 
-9022.30.01
-9022.90
+Ex.
 
-Tubos de rayos X.
--
+Ex.
+
+Pza
+
+Ex.
 
 Ex.
 
@@ -178708,25 +178712,25 @@ Ex.
 
 Ex.
 
+- Tubos de rayos X.
+
+9022.30.01
+9022.90
+
 Pza
 
-Ex.
-
-Ex.
-
-partes y accesorios.
-aparatos de rayos X.
-
-9022.90.99
-
-Ex.
+Tubos de rayos X.
+-
 
 Los demás, incluidas las
+partes y accesorios.
 Partes y accesorios para
 
 9022.90.03
 
-Pza
+aparatos de rayos X.
+
+9022.90.99
 
 Los demás.
 Instrumentos, aparatos y
@@ -178768,9 +178772,9 @@ no
 susceptibles de otros usos.
 Instrumentos, aparatos y
 modelos concebidos para
-demostraciones
-
 9023.00.01
+
+demostraciones
 
 (por
 
@@ -178809,29 +178813,19 @@ otras
 
 ejemplo: metal, madera,
 textil, papel, plástico).
+
 9024.10
-9024.10.01
 
 -
 
-Máquinas y aparatos para
 ensayo de metal.
-Máquinas y aparatos para
-ensayo de metal.
-
-9024.80
-
 -
 
-aparatos.
-Las demás máquinas y
+Pza
 
-9024.80.01
-9024.90
+Ex.
 
-Las demás máquinas y
-
-aparatos.
+Ex.
 
 Pza
 
@@ -178875,6 +178869,22 @@ Ex.
 
 Ex.
 
+Las demás máquinas y
+aparatos.
+Las demás máquinas y
+
+9024.80.01
+9024.90
+
+ensayo de metal.
+Máquinas y aparatos para
+
+9024.10.01
+9024.80
+
+Máquinas y aparatos para
+
+aparatos.
 - Partes y accesorios.
 
 9024.90.01
@@ -178983,6 +178993,7 @@ fracciones
 arancelarias
 
 9025.19.01 y 9025.19.02.
+
 9025.19.04
 
 Pirómetros.
@@ -179003,20 +179014,21 @@ Pza
 
 Ex.
 
+9025.80
+
+- Los demás instrumentos.
+
+9025.80.01
+
+Aerómetros y densímetros.
+
 Pza
 
 15
 
 Ex.
 
-9025.80
-9025.80.01
-
-- Los demás instrumentos.
-Aerómetros y densímetros.
-
 9025.80.99
-9025.90
 
 Los demás.
 
@@ -179062,11 +179074,7 @@ Ex.
 
 Ex.
 
-Kg
-
-Ex.
-
-Ex.
+9025.90
 
 - Partes y accesorios.
 
@@ -179158,7 +179166,6 @@ manómetros.
 9026.20.99
 9026.80
 9026.80.03
-9026.90
 
 Los demás.
 -
@@ -179168,16 +179175,39 @@ aparatos.
 Los demás instrumentos y
 aparatos.
 
+9026.90
+
 - Partes y accesorios.
 
 9026.90.01
 
 Partes y accesorios.
 
-90.27
+Kg
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
 
 Instrumentos y aparatos
-
 para análisis físicos o
 químicos (por ejemplo:
 polarímetros,
@@ -179185,6 +179215,8 @@ refractómetros,
 espectrómetros,
 analizadores de gases o
 humos); instrumentos y
+90.27
+
 aparatos para ensayos de
 viscosidad,
 
@@ -179207,52 +179239,30 @@ exposímetros);
 
 micrótomos.
 9027.10
+9027.10.01
 
 -
 
 Analizadores de gases o
 humos.
 Analizadores de gases o
-
-9027.10.01
-
 humos.
 Cromatógrafos
 
 9027.20
 
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-e
-
 - instrumentos
 
+e
 de
 
 electroforesis.
 Cromatógrafos
 9027.20.01
 
-e
-
 instrumentos
 
+e
 de
 
 electroforesis.
@@ -179278,22 +179288,22 @@ y
 
 espectrógrafos que utilicen
 radiaciones
+visibles, IR).
 
 ópticas
 
 (UV,
 
-visibles, IR).
 Los demás instrumentos y
 9027.50
 
 -
 
 aparatos
-radiaciones
-visibles, IR).
 
 que
+
+radiaciones
 
 utilicen
 
@@ -179301,6 +179311,7 @@ utilicen
 
 (UV,
 
+visibles, IR).
 Los demás instrumentos y
 aparatos
 
@@ -179429,14 +179440,13 @@ líquido
 
 o
 
+incluidos
+
 de
 
 gas,
 
 electricidad,
-
-incluidos
-
 los
 
 de
@@ -179475,9 +179485,11 @@ su lectura remota (lectura
 electrónica).
 
 9028.20.99
-9028.30
 
 Los demás.
+
+9028.30
+
 - Contadores de electricidad.
 
 9028.30.01
@@ -179499,14 +179511,6 @@ Pza
 Ex.
 
 Ex.
-
-9028.90
-
-- Partes y accesorios.
-
-9028.90.03
-
-Partes y accesorios.
 
 Kg
 
@@ -179538,6 +179542,13 @@ Ex.
 
 Ex.
 
+9028.90
+
+- Partes y accesorios.
+
+9028.90.03
+
+Partes y accesorios.
 Los demás contadores
 (por
 
@@ -179597,10 +179608,11 @@ Partes y accesorios.
 Osciloscopios,
 analizadores de espectro
 y demás instrumentos y
-aparatos para medida o
-control
 
 90.30
+
+aparatos para medida o
+control
 
 de
 
@@ -179610,14 +179622,16 @@ magnitudes
 instrumentos
 
 y aparatos para medida o
+
 detección de radiaciones
 alfa,
 
 beta,
 
+gamma,
+
 cósmicas
 
-gamma,
 o
 
 X,
@@ -179625,7 +179639,6 @@ X,
 demás
 
 radiaciones ionizantes.
-
 Instrumentos
 9030.10
 
@@ -179644,12 +179657,6 @@ y
 aparatos
 
 para medida o detección
-
-Pza
-
-Ex.
-
-Ex.
 
 Pza
 
@@ -179726,6 +179733,8 @@ potencia:
 registrador.
 --
 
+9030.39.01
+
 con
 
 dispositivo registrador.
@@ -179761,20 +179770,15 @@ registrador.
 Los demás, con dispositivo
 registrador.
 Los demás, con dispositivo
-
-9030.39.01
-
 registrador.
 Los demás instrumentos y
 aparatos,
 
-especialmente
-
-concebidos para técnicas
 9030.40
 
--
+especialmente
 
+- concebidos para técnicas
 de telecomunicación (por
 ejemplo:
 
@@ -179783,19 +179787,55 @@ hipsómetros,
 kerdómetros,
 distorsiómetros,
 sofómetros).
-9030.40.02
-
 Los demás instrumentos y
-
 aparatos,
 
 especialmente
 
 concebidos para técnicas
 de telecomunicación (por
+
+9030.40.02
+
 ejemplo:
 
 hipsómetros,
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
 
 kerdómetros,
 distorsiómetros,
@@ -179828,44 +179868,8 @@ obleas
 o
 
 dispositivos,
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
 semiconductores.
+
 9030.84
 
 --
@@ -179905,18 +179909,17 @@ otra
 parte de este Capítulo;
 proyectores de perfiles.
 9031.10
+9031.10.01
 
 -
 
+Máquinas para equilibrar
 piezas mecánicas.
 Máquinas para equilibrar
+piezas mecánicas.
 
-9031.10.01
 9031.20
 
-Máquinas para equilibrar
-
-piezas mecánicas.
 - Bancos de pruebas.
 
 9031.20.02
@@ -179924,9 +179927,38 @@ piezas mecánicas.
 Bancos de pruebas.
 -
 
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+5
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
 Los demás instrumentos y
 aparatos, ópticos:
-
 Para
 
 control
@@ -179969,30 +180001,6 @@ de
 máscaras
 
 o
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-5
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
 
 retículas utilizadas en la
 fabricación de dispositivos
@@ -180050,18 +180058,6 @@ Ex.
 
 Ex.
 
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-15
-
-Ex.
-
 9031.90
 
 - Partes y accesorios.
@@ -180087,15 +180083,30 @@ para regulación o control
 automáticos.
 
 9032.10
-9032.10.01
 
 - Termostatos.
+
+9032.10.01
+
 Para refrigeradores.
-Automáticos para el control
-de la temperatura del agua,
+
+Pza
+
+Ex.
+
+Ex.
 
 9032.10.03
 
+Automáticos para el control
+
+Pza
+
+15
+
+Ex.
+
+de la temperatura del agua,
 con
 
 dispositivos
@@ -180104,7 +180115,6 @@ de
 
 seguridad para fallas de
 flama.
-
 9032.10.04
 
 Para cocinas.
@@ -180170,12 +180180,6 @@ Ex.
 Pza
 
 15
-
-Ex.
-
-Pza
-
-5
 
 Ex.
 
@@ -180272,41 +180276,46 @@ con
 
 capacidad inferior o igual a
 100 CP.
-Reguladores
 9032.89.06
+
+Reguladores
+
+tipo
 
 inducción,
 
-tipo
 excepto
 
 lo
 
 comprendido en la fracción
 arancelaria 9032.89.02.
-
 9032.89.99
-
-Los demás.
-
 9032.90
 9032.90.02
 
+Los demás.
+
+Pza
+
+5
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
 - Partes y accesorios.
 Partes y accesorios.
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
 Partes y accesorios, no
 expresados
 
@@ -180374,8 +180383,8 @@ Notas.
 1. Este Capítulo no comprende:
 a) los cristales para aparatos de relojería y pesas para relojes (régimen
 de la materia constitutiva);
-b) las cadenas de reloj (partidas 71.13 ó 71.17, según los casos);
 
+b) las cadenas de reloj (partidas 71.13 ó 71.17, según los casos);
 c) las partes y accesorios de uso general, tal como se definen en la
 Nota 2 de la Sección XV, de metal común (Sección XV) y los artículos
 similares de plástico (Capítulo 39) o de metal precioso o chapado de
@@ -180405,17 +180414,16 @@ espesor de estos mecanismos será inferior o igual a 12 mm y su
 anchura, longitud o diámetro serán inferiores o iguales a 50 mm.
 4. Salvo lo dispuesto en la Nota 1, los mecanismos y otras partes
 susceptibles de utilizarse como mecanismos o partes de aparatos de
+
 relojería, o en otros usos, por ejemplo, en instrumentos de medida o
 precisión, se clasifican en este Capítulo.
+CUOTA (ARANCEL)
 CÓDIGO
 
 DESCRIPCIÓN
 
-UNIDAD
+UNIDAD IMPUESTO IMPUESTO
 
-CUOTA (ARANCEL)
-
-IMPUESTO IMPUESTO
 Relojes
 
 de
@@ -180589,7 +180597,6 @@ mismos
 tipos),
 
 excepto los de la partida
-
 91.01.
 Relojes
 -
@@ -180754,14 +180761,14 @@ mecanismo de relojería.
 9103.90
 9103.90.99
 
-91.04
-
 - Eléctricos.
 Eléctricos.
 - Los demás.
 Los demás.
+
 Relojes de tablero de
 instrumentos y relojes
+91.04
 
 similares,
 
@@ -180901,10 +180908,10 @@ Eléctricos.
 Los demás.
 Aparatos de control de
 tiempo y contadores de
-tiempo, con mecanismo
 
 91.06
 
+tiempo, con mecanismo
 de
 
 relojería
@@ -180914,13 +180921,13 @@ o
 motor
 
 sincrónico (por ejemplo:
+
 registradores
 
 de
 
 asistencia, registradores
 fechadores,
-
 registradores
 contadores).
 Registradores
@@ -181052,15 +181059,15 @@ o
 motor
 
 sincrónico.
-Pequeños
 91.08
+
+Pequeños
 
 mecanismos
 
 de relojería completos y
 montados.
 - Eléctricos:
-
 Con indicador mecánico
 9108.11
 
@@ -181198,6 +181205,7 @@ blanco"
 
 ("ébauches").
 - Pequeños mecanismos:
+
 Mecanismos
 9110.11
 
@@ -181205,8 +181213,8 @@ completos,
 
 -- sin montar o parcialmente
 montados ("chablons").
-
 Mecanismos
+
 9110.11.01
 
 completos,
@@ -181256,12 +181264,6 @@ Ex.
 Ex.
 
 Kg
-
-Ex.
-
-Ex.
-
-Pza
 
 Ex.
 
@@ -181322,85 +181324,82 @@ chapado de metal precioso
 (plaqué).
 
 9111.20
+9111.20.01
+9111.80
+9111.80.99
+9111.90
+9111.90.01
 
 -
 
+Cajas de metal común,
 incluso dorado o plateado.
+Cajas de metal común,
+incluso dorado o plateado.
+
 - Las demás cajas.
-
-9111.80.99
-9111.90
-
-incluso dorado o plateado.
-Cajas de metal común,
-
-9111.20.01
-9111.80
-
-Cajas de metal común,
-
 Las demás cajas.
 - Partes.
-
-9111.90.01
-
 Partes.
 Cajas
+
+91.12
 
 y
 
 envolturas
 
 similares para los demás
-
-91.12
-
 aparatos de relojería, y
 sus partes.
 
 9112.20
+
+- Cajas
+
+y
+
+envolturas
+
+similares.
+Cajas
+
 9112.20.02
-
--
-
-Cajas
-
-y
-
-envolturas
-
-y
-
-envolturas
-
-similares.
-Cajas
-similares.
-
 9112.90
+
+envolturas
+
+similares.
+
+Pza
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
 
 - Partes.
 
 9112.90.01
 
 Partes.
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
 Pulseras para reloj y sus
 
 91.13
@@ -181410,7 +181409,7 @@ De
 
 9113.10
 
-Kg
+y
 
 metal
 
@@ -181527,9 +181526,9 @@ Las demás.
 _______________
 Capítulo 92
 Instrumentos musicales; sus partes y accesorios
+
 Notas.
 1. Este Capítulo no comprende:
-
 a) las partes y accesorios de uso general, tal como se definen en la
 Nota 2 de la Sección XV, de metal común (Sección XV) y los artículos
 similares de plástico (Capítulo 39);
@@ -181555,26 +181554,12 @@ CUOTA (ARANCEL)
 CÓDIGO
 
 DESCRIPCIÓN
-Pianos,
-
-92.01
 
 UNIDAD IMPUESTO IMPUESTO
 DE IMP.
 
-DE EXP.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
+Pianos,
+92.01
 
 incluso
 
@@ -181583,29 +181568,25 @@ y demás instrumentos
 de cuerda con teclado.
 
 9201.10
-9201.10.01
-9201.20
-9201.20.01
 
 - Pianos verticales.
+
+DE EXP.
+
+9201.10.01
+9201.20
+
 Pianos verticales.
-- Pianos de cola.
-Pianos de cola.
 
-9201.90
+Ex.
 
-- Los demás.
-Pianos
+Ex.
 
-9201.90.01
+Pza
 
-automáticos
+Ex.
 
-(pianolas).
-
-9201.90.99
-
-Los demás.
+Ex.
 
 Pza
 
@@ -181625,6 +181606,26 @@ Ex.
 
 Ex.
 
+- Pianos de cola.
+
+9201.20.01
+9201.90
+
+Pza
+
+Pianos de cola.
+- Los demás.
+Pianos
+
+9201.90.01
+
+automáticos
+
+(pianolas).
+
+9201.90.99
+
+Los demás.
 Los demás instrumentos
 musicales
 
@@ -181721,10 +181722,9 @@ excepto
 
 orquestriones
 
-los
-
 y
 
+los
 los
 
 organillos.
@@ -181762,10 +181762,9 @@ lengüetas metálicas libres.
 9205.90.03
 
 Acordeones
+instrumentos similares.
 
 e
-
-instrumentos similares.
 
 9205.90.04
 
@@ -181787,10 +181786,9 @@ Ex.
 
 Ex.
 
-92.06
-
 Instrumentos musicales
 de
+92.06
 
 percusión
 
@@ -181909,13 +181907,13 @@ Los demás.
 Los demás.
 Cajas
 
+92.08
+
 de
 
 música,
 
 orquestriones,
-92.08
-
 organillos,
 
 pájaros
@@ -181932,7 +181930,6 @@ demás
 
 instrumentos musicales
 no comprendidos en otra
-
 partida de este Capítulo;
 reclamos
 
@@ -181989,12 +181986,6 @@ Ex.
 
 Ex.
 
-Kg
-
-5
-
-Ex.
-
 - Los demás.
 
 9208.90.99
@@ -182045,15 +182036,19 @@ Cuerdas armónicas.
 - Los demás:
 
 9209.91
-9209.91.01
-9209.91.99
 
 --
 
 Partes y accesorios de
 pianos.
 Gabinetes, muebles o sus
+
+9209.91.01
+
 partes.
+
+9209.91.99
+
 Los demás.
 Partes y accesorios de
 
@@ -182067,22 +182062,28 @@ Partes y accesorios de
 
 instrumentos musicales de
 la partida 92.02.
-Partes y accesorios de
 
 9209.94
 
--- instrumentos musicales de
+--
+
+Partes y accesorios de
+instrumentos musicales de
+
 la partida 92.07.
-
 9209.94.01
-
-Gabinetes, muebles o sus
-partes, para pianos.
-
 9209.94.99
 9209.99
 
+Gabinetes, muebles o sus
+partes, para pianos.
 Los demás.
+
+Kg
+
+5
+
+Ex.
 
 Kg
 
@@ -182123,22 +182124,20 @@ e) las ballestas, arcos y flechas para tiro, armas embotonadas para
 esgrima y armas que presenten el carácter de juguete (Capítulo 95);
 f) las armas y municiones que presenten el carácter de objetos de
 colección o antigüedades (partidas 97.05 ó 97.06).
+
 2. En la partida 93.06, el término partes no comprende los aparatos de
 radio o radar de la partida 85.26.
+CUOTA (ARANCEL)
 CÓDIGO
 
 DESCRIPCIÓN
-
-UNIDAD
-
-CUOTA (ARANCEL)
-
-IMPUESTO IMPUESTO
 Armas
+
 93.01
 
 de
 
+UNIDAD IMPUESTO IMPUESTO
 DE IMP.
 
 DE EXP.
@@ -182244,10 +182243,11 @@ pistolas,
 
 excepto los de las partidas
 93.03 ó 93.04.
-Las
-fuego
 
 93.03
+
+Las
+fuego
 
 demás
 y
@@ -182265,10 +182265,9 @@ caza,
 
 armas
 
-de
-
 avancarga,
 
+de
 pistolas
 
 lanzacohete
@@ -182397,11 +182396,11 @@ proyectil
 blindado.
 9303.90.99
 
+93.04
+
 Las demás.
 Las demás armas (por
 ejemplo: armas largas y
-
-93.04
 
 pistolas
 
@@ -182410,15 +182409,16 @@ de
 muelle
 
 (resorte),
-comprimido
 
 aire
+
+comprimido
+
 o
 
 gas,
 
 porras), excepto las de la
-
 partida 93.07.
 Las demás armas (por
 ejemplo: armas largas y
@@ -182551,17 +182551,19 @@ partida 93.01.
 Los demás.
 Bombas,
 
+93.06
+
 granadas,
 
 torpedos, minas, misiles,
 cartuchos
-93.06
 
 y
 
+demás
+
 municiones
 
-demás
 y
 
 proyectiles, y sus partes,
@@ -182572,7 +182574,6 @@ las
 postas,
 
 perdigones y tacos para
-
 cartuchos.
 Cartuchos
 
@@ -182736,7 +182737,6 @@ y fundas.
 
 _______________
 Sección XX
-
 MERCANCÍAS Y PRODUCTOS DIVERSOS
 Capítulo 94
 Muebles; mobiliario medicoquirúrgico; artículos de cama y similares;
@@ -182762,10 +182762,10 @@ f) los aparatos de alumbrado del Capítulo 85;
 g) los muebles que constituyan partes específicas de aparatos de las
 partidas 85.18 (partida 85.18), 85.19 u 85.21 (partida 85.22) o de las
 partidas 85.25 a 85.28 (partida 85.29);
+
 h) los artículos de la partida 87.14;
 ij) los sillones de dentista con aparatos de odontología incorporados de
 la partida 90.18, ni las escupideras para clínica dental (partida 90.18);
-
 k) los artículos del Capítulo 91 (por ejemplo: cajas y envolturas similares
 para aparatos de relojería);
 l) los muebles y aparatos de alumbrado que presenten el carácter de
@@ -182791,12 +182791,12 @@ pero sin combinar con otros elementos.
 B) Cuando se presenten aisladamente, los artículos de la partida 94.04
 se clasifican en dicha partida aunque constituyan partes de muebles
 de las partidas 94.01 a 94.03.
+
 4. En la partida 94.06, se consideran construcciones prefabricadas tanto
 las terminadas en fábrica como las expedidas en forma de elementos
 presentados juntos para montar en destino, tales como locales para
 vivienda, casetas de obra, oficinas, escuelas, tiendas, hangares, garajes
 o construcciones similares.
-
 CUOTA (ARANCEL)
 CÓDIGO
 
@@ -182816,18 +182816,6 @@ Ex.
 Pza
 
 Ex.
-
-Ex.
-
-Pza
-
-10
-
-Ex.
-
-Pza
-
-10
 
 Ex.
 
@@ -182976,32 +182964,21 @@ similares:
 
 9401.52
 9401.52.01
-9401.53
-9401.53.01
-9401.59
-9401.59.99
 
 -- De bambú.
 De bambú.
+
+9401.53
+
 -- De ratán (roten).
+
+9401.53.01
+9401.59
+
 De ratán (roten).
--- Los demás.
-Los demás.
-- Los demás asientos, con
-
-armazón de madera:
-9401.61
-
--- Con relleno.
-
-9401.61.01
-9401.69
-
-Con relleno.
 Los demás.
 -
 
-9401.71.01
 9401.79
 9401.79.99
 9401.80
@@ -183030,6 +183007,12 @@ Pza
 
 Ex.
 
+Pza
+
+10
+
+Ex.
+
 Kg
 
 10
@@ -183048,11 +183031,38 @@ Ex.
 
 Ex.
 
+armazón de madera:
+
 -- Los demás.
+Los demás.
+-
+
+9401.71.01
+
+Pza
+
+Los demás asientos, con
+
+Con relleno.
 
 9401.69.99
 
 9401.71
+
+Ex.
+
+-- Con relleno.
+
+9401.61.01
+9401.69
+
+10
+
+-- Los demás.
+
+9401.59.99
+
+9401.61
 
 Pza
 
@@ -183105,25 +183115,22 @@ camas con mecanismo
 para uso clínico, sillones
 de dentista); sillones de
 peluquería
+similares,
+dispositivos
 
 y
 
 sillones
-
-similares,
-
 con
-
-dispositivos
-
 de
 
 orientación y elevación;
 partes de estos artículos.
-Sillones de dentista, de
 9402.10
 
-- peluquería
+- Sillones de dentista, de
+
+peluquería
 
 y
 
@@ -183205,12 +183212,6 @@ Ex.
 Pza
 
 15
-
-Ex.
-
-Pza
-
-10
 
 Ex.
 
@@ -183309,8 +183310,8 @@ Muebles de madera de los
 tipos utilizados en cocinas.
 Muebles de madera de los
 tipos utilizados en cocinas.
-Muebles de madera de los
 
+Muebles de madera de los
 9403.50
 
 - tipos
@@ -183320,33 +183321,20 @@ utilizados
 en
 
 dormitorios.
+Muebles de madera de los
 9403.50.01
 
-Muebles de madera de los
 tipos
 
 utilizados
 
 en
 
-dormitorios.
-9403.60
+Pza
 
--
+10
 
-Los demás muebles de
-madera.
-Mesas, reconocibles como
-concebidas
-
-9403.60.01
-
-exclusivamente
-dibujo
-
-para
-
-o
+Ex.
 
 Pza
 
@@ -183402,6 +183390,24 @@ Ex.
 
 Ex.
 
+dormitorios.
+9403.60
+
+-
+
+Los demás muebles de
+madera.
+Mesas, reconocibles como
+concebidas
+
+9403.60.01
+
+exclusivamente
+dibujo
+
+o
+
+para
 trazado
 
 (restiradores), sin equipar.
@@ -183477,10 +183483,9 @@ De ratán (roten).
 Los demás.
 - Partes.
 Partes.
+
 Somieres; artículos de
 cama
-
-94.04
 
 y
 
@@ -183492,8 +183497,8 @@ colchones,
 cubrepiés,
 
 edredones, cojines, pufs,
-
 almohadas),
+94.04
 
 bien
 
@@ -183627,15 +183632,14 @@ similares, con fuente de
 luz inseparable, y sus
 partes no expresadas ni
 comprendidas
+parte.
 
 en
 
 otra
 
-parte.
 Lámparas
 aparatos
-9405.10
 
 y
 
@@ -183645,10 +183649,13 @@ eléctricos
 
 de
 
-- alumbrado, para colgar o
+alumbrado, para colgar o
+9405.10
+
+-
+
 fijar al techo o a la pared,
 excepto los de los tipos
-
 utilizados
 
 para
@@ -183711,12 +183718,6 @@ Ex.
 Pza
 
 15
-
-Ex.
-
-Kg
-
-Ex.
 
 Ex.
 
@@ -183803,22 +183804,78 @@ Anuncios, letreros y placas
 
 - indicadoras, luminosos y
 artículos similares.
-Anuncios, letreros y placas
 
 9405.60.01
+
+Anuncios, letreros y placas
 
 indicadoras, luminosos y
 artículos similares.
 - Partes:
-
 9405.91
-9405.91.01
 
 -- De vidrio.
 Bombillas de borosilicato,
 
+9405.91.01
+
 para lámparas o linternas
 de combustible líquido o
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+5
+
+Ex.
+
+Kg
+
+5
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+15
+
+Ex.
+
+Kg
+
+5
+
+Ex.
+
+Kg
+
+15
+
+Ex.
+
+Kg
+
+10
+
+Ex.
+
+Kg
+
+10
+
+Ex.
+
 gaseoso.
 Bombillas para lámparas o
 linternas de combustible
@@ -183834,54 +183891,6 @@ fracción
 en
 
 la
-
-Kg
-
-5
-
-Ex.
-
-Kg
-
-5
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-15
-
-Ex.
-
-Kg
-
-5
-
-Ex.
-
-Kg
-
-15
-
-Ex.
-
-Kg
-
-10
-
-Ex.
-
-Kg
-
-10
-
-Ex.
 
 arancelaria
 
@@ -183944,11 +183953,11 @@ De madera.
 Las demás.
 
 _______________
+
 Capítulo 95
 Juguetes, juegos y artículos para recreo o deporte; sus partes y
 accesorios
 Notas.
-
 1. Este Capítulo no comprende:
 a) las velas (partida 34.06);
 b) los artículos de pirotecnia para diversión de la partida 36.04;
@@ -183973,12 +183982,12 @@ del Capítulo 64 y los tocados especiales para la práctica de deportes
 del Capítulo 65;
 h) los bastones, fustas, látigos y artículos similares (partida 66.02), así
 como sus partes (partida 66.03);
+
 ij) los ojos de vidrio sin montar para muñecas, muñecos u otros
 juguetes, de la partida 70.18;
 k) las partes y accesorios de uso general, tal como se definen en la
 Nota 2 de la Sección XV, de metal común (Sección XV) y los artículos
 similares de plástico (Capítulo 39);
-
 l) las campanas, campanillas, gongos y artículos similares, de la partida
 83.06;
 m) las bombas para líquidos (partida 84.13), aparatos para filtrar o
@@ -184002,12 +184011,12 @@ r) los reclamos y silbatos (partida 92.08);
 s) las armas y demás artículos del Capítulo 93;
 t) las guirnaldas eléctricas de cualquier clase (partida 94.05);
 u) los monopies, bípodes, trípodes y artículos similares (partida 96.20);
+
 v) las cuerdas para raqueta, tiendas (carpas) de campaña, artículos de
 acampar y guantes, mitones y manoplas de cualquier materia
 (régimen de la materia constitutiva);
 w) los artículos de mesa, utensilios de cocina, artículos de tocador y
 baño, alfombras y demás revestimientos para el suelo de materia
-
 textil, ropaje, ropa de cama y mesa, tocador y baño, cocina y artículos
 similares que tengan una función utilitaria (se clasifican según el
 régimen de la materia constitutiva).
@@ -184035,9 +184044,9 @@ Nota de subpartida.
 a) las videoconsolas que permiten la reproducción de imágenes en la
 pantalla de un aparato receptor de televisión, un monitor u otra
 pantalla o superficie exterior;
+
 b) las máquinas de videojuego con pantalla incorporada, incluso
 portátiles.
-
 Esta subpartida no comprende las videoconsolas o máquinas de
 videojuego activadas con monedas, billetes de banco, tarjetas bancarias,
 fichas o por cualquier otro medio de pago (subpartida 9504.30).
@@ -184131,25 +184140,22 @@ reducidos
 y
 
 similares,
+entretenimiento,
 
 modelos
 para
-
-entretenimiento,
-
 incluso
 
 animados; rompecabezas
 de cualquier clase.
 9503.00.01
+9503.00.02
 
 Triciclos o cochecitos de
 pedal o palanca.
 Con ruedas, concebidos
+
 para que los conduzcan
-
-9503.00.02
-
 los niños, impulsados por
 ellos o por otra persona, o
 accionados
@@ -184212,12 +184218,6 @@ Ex.
 Pza
 
 15
-
-Ex.
-
-Kg
-
-Ex.
 
 Ex.
 
@@ -184291,9 +184291,9 @@ Las demás muñecas
 y
 
 muñecos que representen
-solamente seres humanos,
 9503.00.06
 
+solamente seres humanos,
 incluso vestidos, excepto
 lo
 
@@ -184312,32 +184312,12 @@ Trenes eléctricos, incluidos
 9503.00.07
 
 los carriles (rieles), señales
-y demás accesorios.
 
-Juguetes
+Kg
 
-terapéutico-
+Ex.
 
-pedagógicos, reconocibles
-como
-
-concebidos
-
-exclusivamente para usos
-9503.00.08
-
-clínicos,
-
-para
-
-corregir
-
-disfunciones psicomotrices
-o
-
-problemas
-
-de
+Ex.
 
 Kg
 
@@ -184387,17 +184367,31 @@ Kg
 
 Ex.
 
-Kg
+y demás accesorios.
+Juguetes
 
-15
+terapéutico-
 
-Ex.
+pedagógicos, reconocibles
+como
 
-Kg
+concebidos
 
-15
+exclusivamente para usos
+9503.00.08
 
-Ex.
+clínicos,
+
+para
+
+corregir
+
+disfunciones psicomotrices
+o
+
+problemas
+
+de
 
 lento
 
@@ -184488,44 +184482,29 @@ seres no humanos, sin
 rellenar.
 
 9503.00.15
-9503.00.16
-9503.00.17
 
 Instrumentos y aparatos,
 de música, de juguete.
+
+9503.00.16
+
 Rompecabezas de papel o
 cartón.
 Rompecabezas
 
-de
+9503.00.17
 
-materias distintas a papel
+Kg
 
-o cartón.
-Juegos
+15
 
-o
+Ex.
 
-surtidos
+Kg
 
-reconocibles
+15
 
-como
-
-concebidos
-exclusivamente para que
-el
-9503.00.18
-
-niño
-
-o
-
-la
-
-niña,
-
-representen un personaje,
+Ex.
 
 Kg
 
@@ -184557,12 +184536,34 @@ Kg
 
 Ex.
 
-Kg
+de
 
-15
+materias distintas a papel
+o cartón.
+Juegos
 
-Ex.
+o
 
+surtidos
+
+reconocibles
+
+como
+
+concebidos
+exclusivamente para que
+el
+9503.00.18
+
+niño
+
+o
+
+la
+
+niña,
+
+representen un personaje,
 profesión u oficio, excepto
 juegos
 
@@ -184665,11 +184666,11 @@ la
 
 fracción
 
+9503.00.22.
+
 arancelaria
 
-9503.00.22.
 Juguetes
-9503.00.24
 
 destinados
 
@@ -184680,8 +184681,6 @@ de
 
 edad,
 
-comprendido
-
 excepto
 
 lo
@@ -184689,6 +184688,10 @@ lo
 en
 
 las
+
+comprendido
+
+9503.00.24
 
 fracciones
 
@@ -184718,27 +184721,11 @@ arancelarias
 
 9503.00.16,
 
-9503.00.17, 9503.00.20 y
-9503.00.23.
-Juguetes réplica de armas
-de
+Kg
 
-fuego,
+15
 
-que
-
-apariencia,
-
-tengan
-
-forma
-
-y/o
-
-configuración de las armas
-9503.00.25
-
-de la subpartida 9301.90, o
+Ex.
 
 Kg
 
@@ -184764,12 +184751,27 @@ Ex.
 
 Ex.
 
-Kg
+9503.00.17, 9503.00.20 y
+9503.00.23.
+Juguetes réplica de armas
+de
 
-Ex.
+fuego,
 
-Ex.
+que
 
+apariencia,
+
+tengan
+
+forma
+
+y/o
+
+configuración de las armas
+9503.00.25
+
+de la subpartida 9301.90, o
 de las partidas 93.02 y
 93.03, pero que no sean
 las armas comprendidas
@@ -184832,25 +184834,65 @@ para
 
 muñecas y muñecos que
 representen
+seres humanos.
 
 solamente
 
-seres humanos.
 Subensambles eléctricos o
-9503.00.29
-
 electrónicos, reconocibles
 como
+9503.00.29
 
 concebidos
 
 exclusivamente para los
-
 productos
 
 de
 
 fracciones
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
 
 las
 
@@ -184869,42 +184911,6 @@ comprendido
 fracciones
 
 en
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
 
 las
 
@@ -184977,12 +184983,12 @@ comprendidos
 en la fracción arancelaria
 9503.00.24.
 Partes,
+9503.00.35
 
 piezas
 
 accesorios,
 como
-9503.00.35
 
 y
 
@@ -184993,23 +184999,25 @@ concebidas
 para
 
 coches y sillas de ruedas
+
 para muñecas o muñecos,
 para los demás juguetes
 de
 
 rueda,
 
-comprendido
-
 o
 
 para
+
+comprendido
+
 en
+
+fracciones
 
 lo
 las
-
-fracciones
 
 arancelarias
 
@@ -185099,18 +185107,6 @@ Pza
 
 Ex.
 
-Kg
-
-15
-
-Ex.
-
-Kg
-
-15
-
-Ex.
-
 Los
 
 demás
@@ -185159,29 +185155,25 @@ sorteos
 con
 
 números o símbolos, que
+
 están sujetos al azar.
 9504.30.99
 9504.40
 9504.40.01
 
 Los demás.
-- Naipes.
-Naipes.
 
-Videoconsolas y máquinas
-9504.50
+Kg
 
-- de videojuego, excepto las
-de la subpartida 9504.30.
-Partes y accesorios, para
+15
 
-9504.50.03
+Ex.
 
-las
+Kg
 
-videoconsolas
+15
 
-y
+Ex.
 
 Kg
 
@@ -185231,13 +185223,30 @@ Kg
 
 Ex.
 
+- Naipes.
+Naipes.
+Videoconsolas y máquinas
+
+9504.50
+
+- de videojuego, excepto las
+de la subpartida 9504.30.
+Partes y accesorios, para
+
+9504.50.03
+
+las
+
+videoconsolas
+
+y
+
 máquinas de videojuegos.
 Videoconsolas y máquinas
 de videojuego, excepto las
-de la subpartida 9504.30 y
-
 9504.50.04
 
+de la subpartida 9504.30 y
 lo
 
 comprendido
@@ -185252,11 +185261,9 @@ arancelaria
 
 9504.50.03.
 9504.90
-
-- Los demás.
-
 9504.90.01
 
+- Los demás.
 Pelotas de celuloide.
 Bolas,
 
@@ -185293,14 +185300,13 @@ Partes
 sueltas
 
 accesorios
+9504.90.05
+
+y
 
 reconocibles
 
 como
-
-9504.90.05
-
-y
 
 concebidas
 
@@ -185317,11 +185323,11 @@ arancelaria 9504.90.04.
 Los demás.
 Artículos
 
+95.05
+
 para
 
 carnaval
-95.05
-
 diversiones,
 
 u
@@ -185333,25 +185339,22 @@ incluidos
 los de magia y artículos
 sorpresa.
 9505.10
+9505.10.01
+9505.10.99
+9505.90
+9505.90.99
 
 -
 
 Artículos para fiestas de
 Navidad.
-
 Árboles
 
-9505.10.01
+artificiales
 
 para
 
 fiestas de Navidad.
-
-9505.10.99
-9505.90
-
-artificiales
-
 Los demás.
 
 Kg
@@ -185402,16 +185405,7 @@ Ex.
 
 Ex.
 
-Pza
-
-10
-
-Ex.
-
 - Los demás.
-
-9505.90.99
-
 Los demás.
 Artículos y material para
 cultura física, gimnasia,
@@ -185449,23 +185443,17 @@ Esquís para nieve y demás
 - artículos para práctica del
 esquí de nieve:
 9506.11
-
--- Esquís.
-
 9506.11.01
 9506.12
-
-Esquís.
--- Fijadores de esquí.
-
 9506.12.01
 9506.19
-
-Fijadores de esquí.
--- Los demás.
-
 9506.19.99
 
+-- Esquís.
+Esquís.
+-- Fijadores de esquí.
+Fijadores de esquí.
+-- Los demás.
 Los demás.
 Esquís acuáticos, tablas,
 deslizadores
@@ -185489,43 +185477,39 @@ deportes
 
 acuáticos:
 9506.21
-
--- Deslizadores de vela.
-
 9506.21.01
 9506.29
-
-Deslizadores de vela.
--- Los demás.
-
 9506.29.99
 
+-- Deslizadores de vela.
+Deslizadores de vela.
+-- Los demás.
 Los demás.
--
+- Palos de golf ("clubs") y
 
+demás artículos para golf:
 9506.31
-9506.31.01
 
 --
-
-Palos de golf ("clubs") y
-demás artículos para golf:
-Palos
-
-de
 
 golf
 
 ("clubs")
 
 completos.
-Palos de golf ("clubs"),
-
 completos, en juegos.
+
 9506.31.99
-9506.32
 
 Los demás.
+
+Pza
+
+10
+
+Ex.
+
+Pza
 
 Ex.
 
@@ -185542,7 +185526,15 @@ Ex.
 9506.32.01
 9506.39
 
-Pza
+de
+
+Palos de golf ("clubs"),
+
+9506.31.01
+
+9506.32
+
+Palos
 
 Pelotas.
 -- Los demás.
@@ -185705,8 +185697,9 @@ con
 patines
 
 fijos.
-Patines
 9506.70.01
+
+Patines
 
 para
 
@@ -185715,6 +185708,7 @@ hielo
 y
 
 patines de ruedas, incluido
+
 el
 
 calzado
@@ -185725,13 +185719,13 @@ patines
 
 fijos.
 - Los demás:
+Artículos y material para
 9506.91
 
--- Artículos y material para
-
-cultura física, gimnasia o
+-- cultura física, gimnasia o
 atletismo.
 Artículos y material para
+
 9506.91.03
 
 cultura física, gimnasia o
@@ -185835,18 +185829,6 @@ Kg
 
 Ex.
 
-Kg
-
-10
-
-Ex.
-
-Kg
-
-10
-
-Ex.
-
 Cañas
 
 de
@@ -185895,10 +185877,6 @@ similares.
 9507.10.01
 9507.20
 9507.20.01
-9507.30
-9507.30.01
-9507.90
-9507.90.99
 
 Cañas de pescar.
 -
@@ -185913,11 +185891,51 @@ Anzuelos,
 incluso
 
 montados en sedal (tanza).
-- Carretes de pesca.
-Carretes de pesca.
-- Los demás.
-Los demás.
 
+9507.30
+
+- Carretes de pesca.
+
+9507.30.01
+9507.90
+
+Carretes de pesca.
+
+Kg
+
+10
+
+Ex.
+
+Kg
+
+10
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+10
+
+Ex.
+
+- Los demás.
+
+9507.90.99
+
+Los demás.
 Tiovivos,
 
 columpios,
@@ -185957,25 +185975,6 @@ y
 zoológicos,
 
 ambulantes.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-10
-
-Ex.
-
 - Los demás.
 Aparatos
 
@@ -186010,10 +186009,10 @@ a) los lápices de maquillaje o tocador (Capítulo 33);
 b) los artículos del Capítulo 66 (por ejemplo: partes de paraguas o
 bastones);
 c) la bisutería (partida 71.17);
+
 d) las partes y accesorios de uso general, tal como se definen en la
 Nota 2 de la Sección XV, de metal común (Sección XV) y los artículos
 similares de plástico (Capítulo 39);
-
 e) los artículos del Capítulo 82 (útiles, artículos de cuchillería, cubiertos
 de mesa) con mangos o partes de materias para tallar o moldear.
 Cuando se presenten aisladamente, estos mangos y partes se
@@ -186038,12 +186037,12 @@ a) las semillas duras, pepitas, cáscaras, nueces y materias vegetales
 similares para tallar (por ejemplo: nuez de corozo, de palmera-dum);
 b) el ámbar (succino) y la espuma de mar, naturales o reconstituidos,
 así como el azabache y materias minerales análogas al azabache.
+
 3. En la partida 96.03, se consideran cabezas preparadas los mechones de
 pelo, fibra vegetal u otra materia, sin montar, listos para su uso en la
 fabricación de brochas, pinceles o artículos análogos, sin dividirlos o que
 solo necesiten un complemento poco importante de mano de obra, tal
 como el igualado o acabado de puntas.
-
 4. Los artículos de este Capítulo, excepto los de las partidas 96.01 a 96.06
 ó 96.15, constituidos total o parcialmente por metal precioso, chapado
 de metal precioso (plaqué), piedras preciosas o semipreciosas
@@ -186119,8 +186118,6 @@ Marfil
 
 trabajado
 
-y
-
 sus
 
 y
@@ -186136,12 +186133,16 @@ manufacturas.
 - Los demás.
 Los demás.
 Materias
+
+96.02
+
+y
+
 minerales
+trabajadas,
 
 vegetales
 para
-
-trabajadas,
 
 o
 
@@ -186149,7 +186150,6 @@ tallar,
 y
 
 manufacturas de estas
-96.02
 
 materias;
 
@@ -186164,7 +186164,6 @@ o
 resinas
 
 naturales o pasta para
-
 modelar
 
 y
@@ -186225,12 +186224,11 @@ parte;
 
 en
 
-otra
-
 gelatina
 
 endurecer
 
+otra
 sin
 
 trabajada,
@@ -186263,6 +186261,7 @@ Escobas
 y
 
 cepillos,
+96.03
 
 escobillas,
 
@@ -186272,6 +186271,7 @@ y
 
 pinceles (incluso si son
 partes
+aparatos
 
 de
 
@@ -186281,14 +186281,14 @@ o
 
 vehículos),
 
-aparatos
-96.03
-
 escobas mecánicas, sin
+
 motor, de uso manual,
 fregonas
 
 o
+
+mopas
 
 plumeros;
 
@@ -186299,11 +186299,10 @@ cabezas
 preparadas
 artículos
 
-mopas
+para
 
 de
 
-para
 cepillería;
 
 almohadillas
@@ -186330,9 +186329,10 @@ materia
 vegetal atada en haces,
 incluso con mango.
 Escobas y escobillas de
-ramitas
 
 9603.10.01
+
+ramitas
 
 u
 
@@ -186417,11 +186417,9 @@ incluidos los cepillos para
 dentaduras postizas.
 
 9603.29
-
--- Los demás.
-
 9603.29.99
 
+-- Los demás.
 Los demás.
 Pinceles y brochas para
 pintura artística, pinceles
@@ -186431,21 +186429,20 @@ pintura artística, pinceles
 - para escribir y pinceles
 similares para aplicación
 de cosméticos.
-Pinceles y brochas para
-pintura artística, pinceles
 
 9603.30.01
+
+Pinceles y brochas para
+pintura artística, pinceles
 
 para escribir y pinceles
 similares para aplicación
 de cosméticos.
-
+Pinceles y brochas para
+pintar, enlucir, barnizar o
 9603.40
 
 -
-
-Pinceles y brochas para
-pintar, enlucir, barnizar o
 
 similares (excepto los de la
 subpartida
@@ -186542,12 +186539,6 @@ Ex.
 
 Ex.
 
-Kg
-
-15
-
-Ex.
-
 Tamices,
 
 96.04
@@ -186573,27 +186564,10 @@ viaje para aseo personal,
 costura o limpieza del
 calzado o de prendas de
 vestir.
-Juegos o surtidos de viaje
-para
 
 9605.00
 
-- costura
-
-aseo
-o
-
-personal,
-
-limpieza
-
-del
-
-calzado o de prendas de
-vestir.
-9605.00.01
-
-Juegos o surtidos de viaje
+- Juegos o surtidos de viaje
 
 para
 
@@ -186608,6 +186582,60 @@ personal,
 limpieza
 
 del
+
+calzado o de prendas de
+vestir.
+Juegos o surtidos de viaje
+para
+9605.00.01
+
+aseo
+
+costura
+
+o
+
+personal,
+
+limpieza
+
+del
+
+Kg
+
+15
+
+Ex.
+
+Kg
+
+15
+
+Ex.
+
+Kg
+
+15
+
+Ex.
+
+Kg
+
+15
+
+Ex.
+
+Kg
+
+15
+
+Ex.
+
+Kg
+
+15
+
+Ex.
 
 calzado o de prendas de
 vestir.
@@ -186637,51 +186665,15 @@ Botones de presión y sus
 9606.10.01
 
 partes.
-
-Kg
-
-15
-
-Ex.
-
-Kg
-
-15
-
-Ex.
-
-Kg
-
-15
-
-Ex.
-
-Kg
-
-15
-
-Ex.
-
-Kg
-
-15
-
-Ex.
-
 - Botones:
+
 9606.21
 
 --
 
-materia textil.
---
-
-De metal común, sin forrar
-con materia textil.
-De metal común, sin forrar
-
 9606.22.01
 9606.29
+9606.29.99
 
 materia textil.
 De plástico, sin forrar con
@@ -186691,11 +186683,15 @@ De plástico, sin forrar con
 
 De plástico, sin forrar con
 
+materia textil.
+--
+
+De metal común, sin forrar
 con materia textil.
+De metal común, sin forrar
+con materia textil.
+
 -- Los demás.
-
-9606.29.99
-
 Los demás.
 Formas para botones y
 
@@ -186729,31 +186725,22 @@ sus partes.
 
 --
 
-Cierres
-
-de
-
 cremallera
 
-(cierres relámpago):
 Con
 
 dientes
 
+de
+
+metal
+
+de
+
+metal
+
 común.
-
-de
-
-metal
-
-Con
-
-9607.11.01
-9607.19
-
-de
-
-metal
+dientes
 
 común.
 
@@ -186796,12 +186783,6 @@ Ex.
 Pza
 
 15
-
-Ex.
-
-Kg
-
-10
 
 Ex.
 
@@ -186810,7 +186791,16 @@ Ex.
 9607.19.99
 9607.20
 
-dientes
+de
+
+(cierres relámpago):
+
+Con
+
+9607.11.01
+9607.19
+
+Cierres
 
 Los demás.
 - Partes.
@@ -186871,7 +186861,6 @@ punta porosa.
 9608.30
 9608.30.01
 9608.30.99
-9608.40
 
 -
 
@@ -186886,18 +186875,21 @@ Para
 
 dibujar
 
+china.
+Las demás.
+
 con
 
 tinta
 
-china.
-Las demás.
+9608.40
+
 - Portaminas.
 Lapiceros o portaminas sin
+cuerpo ni sujetador o clip,
 
 9608.40.02
 
-cuerpo ni sujetador o clip,
 y
 
 con
@@ -186906,19 +186898,13 @@ tapón,
 
 punta
 
-metálica o cono y con o sin
+Kg
 
-portagomas.
-9608.40.99
+10
 
-Los demás.
-Juegos
+Ex.
 
-9608.50
-
--
-
-de
+Pza
 
 15
 
@@ -186978,11 +186964,18 @@ Ex.
 
 Ex.
 
-Kg
+metálica o cono y con o sin
+portagomas.
+9608.40.99
 
-Ex.
+Los demás.
+Juegos
 
-Ex.
+9608.50
+
+-
+
+de
 
 artículos
 
@@ -186999,8 +186992,6 @@ de
 las
 
 a
-
-Pza
 
 dos
 
@@ -187084,16 +187075,16 @@ común,
 
 alimentadoras.
 Puntas,
+9608.99.10
 
 barras
 
 o
 
 contenedores para uso en
-9608.99.10
-
 plumones o marcadores,
 excepto lo comprendido en
+
 la
 
 fracción
@@ -187105,20 +187096,12 @@ Puntas de fibras acrílicas
 9608.99.11
 
 para uso en plumones o
-marcadores.
 
-De oro de plata o de
-platino,
+Kg
 
-9608.99.12
+Ex.
 
-total
-
-o
-
-parcialmente,
-
-excepto
+Ex.
 
 Kg
 
@@ -187149,6 +187132,20 @@ Kg
 15
 
 Ex.
+
+marcadores.
+De oro de plata o de
+platino,
+
+9608.99.12
+
+total
+
+o
+
+parcialmente,
+
+excepto
 
 partes.
 9608.99.99
@@ -187250,11 +187247,12 @@ escribir o dibujar, incluso
 enmarcados.
 Fechadores,
 
+96.11
+
 sellos,
 
 numeradores,
 timbradores y artículos
-96.11
 
 similares (incluidos los
 aparatos para imprimir
@@ -187262,11 +187260,14 @@ etiquetas),
 
 de
 
+mano;
+
 componedores
+
+e
+
 imprentillas
 
-mano;
-e
 con
 
 componedor, de mano.
@@ -187335,12 +187336,6 @@ Ex.
 
 Ex.
 
-Pza
-
-15
-
-Ex.
-
 Cintas para máquinas de
 escribir
 
@@ -187349,10 +187344,9 @@ y
 cintas
 
 similares, entintadas o
-preparadas de otro modo
-
 96.12
 
+preparadas de otro modo
 para imprimir, incluso en
 carretes
 
@@ -187389,50 +187383,46 @@ para cajas registradoras.
 
 9612.10.99
 9612.20
+9612.20.01
 
 Los demás.
 - Tampones.
-
-9612.20.01
-
 Tampones.
 Encendedores
-mecheros,
 
 96.13
+
+mecheros,
 
 y
 incluso
 
 mecánicos o eléctricos,
+
 y sus partes, excepto las
 piedras y mechas.
-
 9613.10
-9613.10.01
 
 -
 
-Encendedores de gas no
 recargables, de bolsillo.
-Encendedores de gas no
-
-recargables, de bolsillo.
-9613.20
-
 -
+
+Encendedores
 
 de
 
+15
+
+Ex.
+
+Pza
+
+15
+
+Ex.
+
 gas
-
-recargables, de bolsillo.
-Encendedores
-
-9613.20.01
-9613.80
-
-Encendedores
 
 de
 
@@ -187443,9 +187433,19 @@ recargables, de bolsillo.
 
 Pza
 
-15
+recargables, de bolsillo.
+Encendedores
 
-Ex.
+9613.20.01
+9613.80
+
+recargables, de bolsillo.
+Encendedores de gas no
+
+9613.10.01
+9613.20
+
+Encendedores de gas no
 
 Los demás encendedores
 y mecheros.
@@ -187587,17 +187587,18 @@ Kg
 Ex.
 
 Peines,
-pasadores
-similares;
 96.15
 
-rizadores,
+pasadores
+similares;
 
 peinetas,
 y
 
 artículos
 horquillas;
+
+rizadores,
 
 bigudíes
 
@@ -187607,7 +187608,6 @@ artículos similares para
 el peinado, excepto los
 de la partida 85.16, y sus
 partes.
-
 Peines,
 
 peinetas,
@@ -187726,6 +187726,9 @@ Borlas y similares para
 aplicación de polvos, otros
 cosméticos o productos de
 tocador.
+
+96.17
+
 Termos
 
 y
@@ -187733,13 +187736,12 @@ y
 demás
 
 recipientes isotérmicos,
-96.17
-
 montados y aislados por
 vacío,
-partes
 
 así
+
+partes
 
 como
 
@@ -187750,7 +187752,6 @@ sus
 las
 
 ampollas de vidrio).
-
 Termos
 
 y
@@ -187803,18 +187804,6 @@ Ex.
 Kg
 
 5
-
-Ex.
-
-Kg
-
-10
-
-Ex.
-
-Pza
-
-20
 
 Ex.
 
@@ -187887,72 +187876,42 @@ tampones
 higiénicos, pañales para
 bebés y artículos similares,
 de cualquier materia.
-De pasta de papel, papel,
 
 9619.00.01
 
+De pasta de papel, papel,
+
 guata de celulosa o napa
 de fibras de celulosa.
-
 9619.00.02
-9619.00.03
 
 De guata de materia textil.
 Pañales
-artículos
 
 para
+
+artículos
+9619.00.03
+
+otras
 
 bebés
 
 similares,
 
-y
-de
-
-otras
-
 materias
 
-textiles,
-
-excepto lo comprendido en
-la
-
 fracción
 
-arancelaria
+10
 
-9619.00.02.
-Toallas
+Ex.
 
-sanitarias
+Pza
 
-(compresas),
+20
 
-tampones
-
-higiénicos
-9619.00.04
-
-y
-
-similares,
-
-artículos
-
-de
-
-otras
-
-materias textiles, excepto
-lo
-
-comprendido
-
-fracción
-
-en
+Ex.
 
 Kg
 
@@ -187995,6 +187954,49 @@ Kg
 Ex.
 
 Ex.
+
+y
+de
+
+textiles,
+
+excepto lo comprendido en
+la
+
+Kg
+
+arancelaria
+
+9619.00.02.
+Toallas
+
+sanitarias
+
+(compresas),
+
+tampones
+
+higiénicos
+9619.00.04
+
+y
+
+similares,
+
+artículos
+
+de
+
+otras
+
+materias textiles, excepto
+lo
+
+comprendido
+
+fracción
+
+en
 
 la
 
@@ -188075,7 +188077,6 @@ Los demás.
 _______________
 Sección XXI
 OBJETOS DE ARTE O COLECCIÓN Y ANTIGÜEDADES
-
 Capítulo 97
 Objetos de arte o colección y antigüedades
 Notas.
@@ -188100,12 +188101,12 @@ artistas.
 4. A) Salvo lo dispuesto en las Notas 1, 2 y 3, los artículos susceptibles de
 clasificarse en este Capítulo y en otros de la Nomenclatura, se
 clasifican en este Capítulo;
+
 B) los artículos susceptibles de clasificarse en la partida 97.06 y en las
 partidas 97.01 a 97.05 se clasifican en las partidas 97.01 a 97.05.
 5. Los marcos de pinturas, dibujos, collages o cuadros similares, grabados,
 estampas o litografías se clasifican con ellos cuando sus características
 y valor están en relación con los de dichas obras.
-
 Los marcos cuyas características o valor no guarden relación con los
 artículos a los que se refiere esta Nota, siguen su propio régimen.
 CUOTA (ARANCEL)
@@ -188114,16 +188115,11 @@ CÓDIGO
 DESCRIPCIÓN
 Pinturas
 
-y
-
 totalmente
 
 mano,
 
 excepto
-
-97.01
-
 de
 
 49.06
@@ -188150,16 +188146,13 @@ Ex.
 
 Ex.
 
-Pza
-
-Ex.
-
-Ex.
-
 dibujos,
 
 hechos
 dibujos
+97.01
+
+y
 
 UNIDAD IMPUESTO IMPUESTO
 
@@ -188244,8 +188237,8 @@ de
 
 - estatuaria o escultura, de
 cualquier materia.
-Obras
 
+Obras
 9703.00.01
 
 originales
@@ -188253,10 +188246,20 @@ originales
 de
 
 estatuaria o escultura, de
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
 cualquier materia.
-
-97.04
-
 Sellos
 
 (estampillas)
@@ -188264,9 +188267,9 @@ Sellos
 de
 
 correo, timbres fiscales,
-
 marcas postales, sobres
 primer
+97.04
 
 día,
 
@@ -188348,40 +188351,35 @@ incluso obliterados, excepto
 los artículos de la partida
 49.07.
 Colecciones
-
-y
-
 especímenes
 
+y
 para
 
 colecciones de zoología,
-botánica, mineralogía o
-anatomía o que tengan
-
 97.05
 
+botánica, mineralogía o
+anatomía o que tengan
 interés
+arqueológico,
+paleontológico,
 
 histórico,
 
-arqueológico,
-paleontológico,
 etnográfico
 
 o
 
 numismático.
 Colecciones
-9705.00
-
--
 
 y
 
 especímenes
 colecciones
 botánica,
+9705.00
 
 para
 de
@@ -188392,13 +188390,7 @@ mineralogía
 
 o
 
-Pza
-
-Ex.
-
-Ex.
-
-anatomía o que tengan
+- anatomía o que tengan
 interés
 
 histórico,
@@ -188505,10 +188497,10 @@ Sección XXII
 OPERACIONES ESPECIALES
 Capítulo 98
 Operaciones especiales
+
 Notas.
 1. Cuando por su naturaleza, composición, presentación o denominación,
 las mercancías pudieran ser clasificadas en otros Capítulos de la
-
 Nomenclatura, éstas se clasificarán en el presente Capítulo cuando
 correspondan a alguna de las siguientes operaciones especiales:
 a) importaciones o exportaciones de muestras y muestrarios que
@@ -188537,20 +188529,16 @@ Comisión de Comercio Exterior, merecen un tratamiento especial y
 que por sus características no puedan clasificarse de manera unitaria
 conforme a las reglas de clasificación de la nomenclatura de la Tarifa
 de la presente Ley (partida 98.06);
+
 g) las demás operaciones que en opinión de la Comisión de Comercio
 Exterior merecen un tratamiento especial (partida 98.07).
-
+CUOTA (ARANCEL)
 CÓDIGO
 
 DESCRIPCIÓN
-
-UNIDAD
-
-CUOTA (ARANCEL)
-IMPUESTO IMPUESTO
-
 Importaciones
 
+UNIDAD IMPUESTO IMPUESTO
 DE IMP.
 
 DE EXP.
@@ -188672,11 +188660,9 @@ las
 interpretación y aplicación
 de la Tarifa de la Ley de los
 Impuestos
-
-Generales
-
 Importación
 
+Generales
 y
 
 de
@@ -188685,14 +188671,15 @@ de
 Exportación, conforme a los
 criterios que establezca la
 Secretaría de Economía.
-Mercancías
-Programa
-9802.00.03
+9802.00.03 Mercancías
 
 para
-de
 
 el
+
+Programa
+
+de
 
 Promoción
 
@@ -188705,7 +188692,6 @@ las
 
 empresas cuenten con la
 autorización a que se refiere
-
 la
 
 Regla
@@ -188811,6 +188797,7 @@ Promoción
 
 Sectorial de la Industria del
 Calzado,
+9802.00.05
 
 cuando
 
@@ -188828,13 +188815,16 @@ de
 
 las
 
-9802.00.05 Complementarias, para la
+Complementarias, para la
 interpretación y aplicación
 de la Tarifa de la Ley de los
+
 Impuestos
-Importación
 
 Generales
+
+Importación
+
 y
 
 de
@@ -188843,7 +188833,6 @@ de
 Exportación, conforme a los
 criterios que establezca la
 Secretaría de Economía.
-
 Mercancías
 
 para
@@ -188970,15 +188959,14 @@ criterios que establezca la
 Secretaría de Economía.
 Mercancías
 Programa
-Sectorial
+9802.00.08 Sectorial
 
+para
 de
+
 de
 
 Fotográfica,
-9802.00.08
-
-para
 
 el
 
@@ -188992,6 +188980,7 @@ cuando
 las
 
 empresas cuenten con la
+
 autorización a que se refiere
 la
 
@@ -189006,7 +188995,6 @@ las
 Complementarias, para la
 interpretación y aplicación
 de la Tarifa de la Ley de los
-
 Impuestos
 
 Generales
@@ -189046,12 +189034,6 @@ de
 las
 
 9802.00.09 Complementarias, para la
-
-Kg
-
-Ex.
-
-Ex.
 
 Kg
 
@@ -189114,11 +189096,9 @@ las
 interpretación y aplicación
 de la Tarifa de la Ley de los
 Impuestos
-
-Generales
-
 Importación
 
+Generales
 y
 
 de
@@ -189127,15 +189107,17 @@ de
 Exportación, conforme a los
 criterios que establezca la
 Secretaría de Economía.
+
 Mercancías
 Programa
-9802.00.11 Sectorial
-Química,
+Sectorial
 
 para
 de
 
 de
+
+Química,
 
 el
 
@@ -189149,7 +189131,6 @@ cuando
 las
 
 empresas cuenten con la
-
 autorización a que se refiere
 la
 
@@ -189161,7 +189142,26 @@ de
 
 las
 
-Complementarias, para la
+9802.00.11 Complementarias, para la
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
 interpretación y aplicación
 de la Tarifa de la Ley de los
 Impuestos
@@ -189210,19 +189210,6 @@ las
 
 Complementarias, para la
 9802.00.12 interpretación y aplicación
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
 de la Tarifa de la Ley de los
 Impuestos
 
@@ -189248,6 +189235,8 @@ en la fracción arancelaria
 9802.00.38.
 Mercancías
 Programa
+9802.00.13
+
 Sectorial
 
 para
@@ -189264,7 +189253,8 @@ Industria
 
 Siderúrgica cuando se trate
 de productores directos y las
-9802.00.13 empresas cuenten con la
+empresas cuenten con la
+
 autorización a que se refiere
 la
 
@@ -189279,7 +189269,6 @@ las
 Complementarias, para la
 interpretación y aplicación
 de la Tarifa de la Ley de los
-
 Impuestos
 
 Generales
@@ -189399,18 +189388,14 @@ el
 Promoción
 
 Sectorial de la Industria del
-
-9802.00.15
-
-Transporte,
+9802.00.15 Transporte,
+Sector
 
 excepto
 
-Sector
+de
 
 la
-
-de
 
 el
 
@@ -189429,15 +189414,16 @@ de
 para
 
 las
-la
 
 Complementarias,
+
+la
+
 interpretación
 
 y
 
 aplicación de la Tarifa de la
-
 Ley
 
 de
@@ -189475,12 +189461,6 @@ de
 las
 
 9802.00.16 Complementarias, para la
-
-Kg
-
-Ex.
-
-Ex.
 
 Kg
 
@@ -189545,11 +189525,9 @@ las
 interpretación y aplicación
 de la Tarifa de la Ley de los
 Impuestos
-
-Generales
-
 Importación
 
+Generales
 y
 
 de
@@ -189558,6 +189536,7 @@ de
 Exportación, conforme a los
 criterios que establezca la
 Secretaría de Economía.
+
 Mercancías
 Programa
 
@@ -189568,10 +189547,9 @@ el
 
 Promoción
 
-9802.00.18 Sectorial de la Industria del
+Sectorial de la Industria del
 Cuero y Pieles, cuando las
 empresas cuenten con la
-
 autorización a que se refiere
 la
 
@@ -189583,7 +189561,26 @@ de
 
 las
 
-Complementarias, para la
+9802.00.18 Complementarias, para la
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
 interpretación y aplicación
 de la Tarifa de la Ley de los
 Impuestos
@@ -189602,11 +189599,10 @@ criterios que establezca la
 Secretaría de Economía.
 Mercancías
 Programa
+Sectorial
 
 para
 de
-
-Sectorial
 
 de
 
@@ -189630,24 +189626,10 @@ a que se refiere la Regla 8a
 para
 
 las
-
-Complementarias,
-
 la
 
+Complementarias,
 interpretación
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
 
 y
 
@@ -189666,11 +189648,10 @@ los criterios que establezca
 la Secretaría de Economía.
 Mercancías
 Programa
+Sectorial
 
 para
 de
-
-Sectorial
 
 de
 
@@ -189682,17 +189663,19 @@ la
 Industria
 
 Textil y de la Confección
+9802.00.20
+
 excepto lo comprendido en
 la fracción 9802.00.24 y las
 comprendidas en el Anexo
-9802.00.20 II, Apartado C del Decreto
+II, Apartado C del Decreto
 para
 
 el
 
-Fomento
-
 Industria
+
+Fomento
 
 de
 
@@ -189779,12 +189762,6 @@ Ex.
 
 Ex.
 
-Kg
-
-5
-
-Ex.
-
 interpretación y aplicación
 de la Tarifa de la Ley de los
 Impuestos
@@ -189814,9 +189791,7 @@ Promoción
 Sectorial de la Industria del
 Café, cuando las empresas
 cuenten con la autorización
-a que se refiere la Regla 8a
-9802.00.22
-
+9802.00.22 a que se refiere la Regla 8a
 de
 para
 
@@ -189838,25 +189813,23 @@ los
 Impuestos
 
 Generales de Importación y
+
 de Exportación, conforme a
 los criterios que establezca
 la Secretaría de Economía.
-9802.00.23
-
 Mercancías
 Programa
 
 para
 de
 
-el
-
-Promoción
-
 Sectorial
 
 de
 
+el
+
+Promoción
 la
 
 Industria
@@ -189877,6 +189850,8 @@ las
 
 Complementarias, para la
 interpretación y aplicación
+9802.00.23
+
 de la Tarifa de la Ley de los
 Impuestos
 
@@ -189887,6 +189862,18 @@ Importación
 de
 
 y
+
+Kg
+
+5
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
 
 de
 
@@ -189935,7 +189922,7 @@ inferior o igual a 44.4 decitex
 a 1.33 decitex (1.2 deniers)
 por filamento, de la fracción
 arancelaria
-hilados
+9802.00.24 hilados
 
 de
 
@@ -189945,8 +189932,6 @@ filamento
 de
 
 nailon rígidos de título igual
-9802.00.24
-
 a 44.4 decitex (40 deniers) y
 34 filamentos de título igual
 a 1.30 decitex (1.17 deniers)
@@ -189966,12 +189951,6 @@ deniers) por filamento, de la
 fracción
 
 arancelaria
-
-Kg
-
-Ex.
-
-Ex.
 
 5402.47.99;
 
@@ -190064,20 +190043,10 @@ Generales de Importación y
 de Exportación conforme a
 los criterios establecidos por
 la Secretaría de Economía.
-9802.00.25 Mercancías
-
-para
-
-el
-
-Kg
-
-Ex.
-
-Ex.
-
+Mercancías
 Programa
 
+para
 de
 
 Sectorial
@@ -190085,6 +190054,8 @@ Sectorial
 de
 
 Alimentaria
+
+el
 
 Promoción
 la
@@ -190110,7 +190081,7 @@ las
 Complementarias, para la
 interpretación y aplicación
 de la Tarifa de la Ley de los
-Impuestos
+9802.00.25 Impuestos
 
 Generales
 
@@ -190119,6 +190090,19 @@ Importación
 y
 
 de
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
 de
 
 Exportación, conforme a los
@@ -190163,9 +190147,8 @@ Complementarias, para la
 interpretación y aplicación
 de la Tarifa de la Ley de los
 Impuestos
-Importación
+9802.00.26 Importación
 Exportación
-9802.00.26
 
 Generales
 y
@@ -190181,6 +190164,7 @@ Economía, clasificadas en
 las fracciones arancelarias
 cuya unidad de medida de la
 TIGIE se indique como Kg y
+
 listadas en el Anexo II,
 Apartado A del Decreto para
 el Fomento de la Industria
@@ -190192,12 +190176,6 @@ de
 Servicios
 
 de
-
-Kg
-
-Ex.
-
-Ex.
 
 Exportación.
 Mercancías al amparo de la
@@ -190277,10 +190255,8 @@ las
 Complementarias, para la
 interpretación y aplicación
 de la Tarifa de la Ley de los
-Impuestos
+9802.00.28 Impuestos
 Importación
-9802.00.28
-
 Exportación
 
 Generales
@@ -190295,12 +190271,12 @@ conforme a los criterios que
 establezca la Secretaría de
 Economía, clasificadas en
 las fracciones arancelarias
+
 cuya unidad de medida de la
 TIGIE se indique como Kg y
 listadas en el Anexo II,
 Apartado C del Decreto para
 el Fomento de la Industria
-
 Manufacturera, Maquiladora
 y
 
@@ -190391,10 +190367,8 @@ de
 las
 
 Complementarias, para la
-interpretación y aplicación
+9802.00.30 interpretación y aplicación
 de la Tarifa de la Ley de los
-9802.00.30
-
 Impuestos
 Importación
 Exportación
@@ -190412,7 +190386,6 @@ establezca la Secretaría de
 Economía, clasificadas en
 las fracciones arancelarias
 cuya unidad de medida de la
-
 TIGIE se indique como M² y
 listadas en el Anexo II,
 Apartado C del Decreto para
@@ -190501,27 +190474,27 @@ de
 
 las
 
-Complementarias, para la
+9802.00.32 Complementarias, para la
 interpretación y aplicación
-9802.00.32
-
 de la Tarifa de la Ley de los
 Impuestos
-Importación
-Exportación
 
 Generales
+
+de
+
+Importación
+
 y
 
-de
-de
+Exportación
 
+de
 (TIGIE),
 
 conforme a los criterios que
 establezca la Secretaría de
 Economía, clasificadas en
-
 las fracciones arancelarias
 cuya unidad de medida de la
 TIGIE se indique como Pza
@@ -190602,7 +190575,7 @@ de
 Exportación.
 Mercancías al amparo de la
 autorización a que se refiere
-la
+9802.00.34 la
 
 Regla
 
@@ -190613,16 +190586,18 @@ de
 las
 
 Complementarias, para la
-9802.00.34
-
 interpretación y aplicación
+
 de la Tarifa de la Ley de los
 Impuestos
-Importación
-Exportación
 
 Generales
+
+Importación
+
 y
+
+Exportación
 
 de
 de
@@ -190630,7 +190605,6 @@ de
 (TIGIE),
 
 conforme a los criterios que
-
 establezca la Secretaría de
 Economía, clasificadas en
 las fracciones arancelarias
@@ -190712,9 +190686,8 @@ de
 
 Exportación.
 Mercancías al amparo de la
-autorización a que se refiere
+9802.00.36 autorización a que se refiere
 la
-9802.00.36
 
 Regla
 
@@ -190728,15 +190701,17 @@ Complementarias, para la
 interpretación y aplicación
 de la Tarifa de la Ley de los
 Impuestos
-Importación
 
 Generales
+
+Importación
+
 y
 
-de
-de
-
 Exportación
+
+de
+de
 
 (TIGIE),
 
@@ -190775,14 +190750,11 @@ Complementarias, para la
 interpretación y aplicación
 de la Tarifa de la Ley de los
 Impuestos
+Importación
+Exportación
 
 Generales
-
-Importación
-
 y
-
-Exportación
 
 de
 de
@@ -190821,10 +190793,9 @@ Servicios
 de
 
 Exportación.
-Mercancías al amparo de la
-autorización a que se refiere
-9802.00.38
+9802.00.38 Mercancías al amparo de la
 
+autorización a que se refiere
 la
 
 Regla
@@ -190838,7 +190809,6 @@ las
 Complementarias, para la
 interpretación y aplicación
 de la Tarifa de la Ley de los
-
 Impuestos
 
 Generales
@@ -190891,28 +190861,6 @@ Ex.
 Kg
 
 10
-
-Ex.
-
-9804.00.01 Menajes de casa.
-
-Kg
-
-Ex.
-
-Ex.
-
-9804.00.99 Los demás.
-
-Kg
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
 
 Ex.
 
@@ -190970,11 +190918,55 @@ ajusten a los lineamientos
 que establezca la Secretaría
 de Economía.
 
+9804.00.01 Menajes de casa.
+
+Kg
+
+Ex.
+
+Ex.
+
+9804.00.99 Los demás.
+
+Kg
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
 Dispositivos excluidores de
-9805.00.01 tortugas
-partes,
+9805.00.01
+
+tortugas
 
 marinas
+
+partes,
+
 para
 
 y
@@ -191010,24 +191002,6 @@ el
 número
 
 de
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
 
 muestras determinado por la
 Norma
@@ -191067,33 +191041,32 @@ Recursos
 
 Naturales, y de Economía.
 Maquinaria,
-
-equipo,
-
 instrumentos,
 
+equipo,
 materiales,
 
 animales, plantas y demás
 artículos para investigación
 o desarrollos tecnológicos,
+9806.00.03
+
 cuando los centros públicos
 de
 
 investigación,
 
 universidades
-9806.00.03 privadas,
+privadas,
 
 públicas
 
 instituciones
 
 investigación
+tecnológica,
 
 científica
-
-tecnológica,
 
 y
 de
@@ -191102,6 +191075,7 @@ y
 personas
 
 físicas y morales, inscritos
+
 en el Registro Nacional de
 Instituciones
 
@@ -191115,21 +191089,20 @@ se
 sujeten
 
 lineamientos
+por
 
-a
+la
 
 los
 
 establecidos
 
-por
-
-la
-
 Secretaría
 
 Economía
 Nacional
+
+a
 
 y
 
@@ -191175,12 +191148,6 @@ fracciones
 lo
 
 Pza
-
-Ex.
-
-Ex.
-
-Kg
 
 Ex.
 
@@ -191267,31 +191234,35 @@ conteniendo,
 
 entre
 
-diagnósticos
+9806.00.07 diagnósticos
 
 otros,
 
 médicos,
 
-9806.00.07 radiografías,
+radiografías,
 fluorangiografías, resultados
+
 de
 
 laboratorio,
 
 electrocardiogramas.
 Mercancías
-9806.00.08 procesos
-reparación,
 
 destinadas
+
+procesos
+
 tales
 
 a
 
 como
 
+reparación,
 reacondicionamiento
+9806.00.08
 
 o
 
@@ -191301,6 +191272,18 @@ empresas
 cuenten
 
 con
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
 
 registro otorgado conforme
 a
@@ -191354,6 +191337,8 @@ de
 recinto
 
 fiscalizado estratégico, por
+9806.00.09
+
 parte
 
 de
@@ -191367,7 +191352,7 @@ régimen.
 
 Las
 
-9806.00.09 objeto
+objeto
 
 mercancías
 
@@ -191418,13 +191403,6 @@ que correspondan a esas
 mercancías, en los términos
 de las disposiciones que
 resulten aplicables.
-
-Kg
-
-Ex.
-
-Ex.
-
 Maquinaria y equipo, que no
 estén
 
@@ -191535,13 +191513,13 @@ conformidad
 lineamientos
 por
 
+Secretaría de Economía.
+
 la
 
-Secretaría de Economía.
 _______________
 Artículo 2o.- Las Reglas Generales y las Complementarias para la
 aplicación e interpretación de esta Ley, son las siguientes:
-
 I. Reglas Generales.
 La clasificación de mercancías en la Tarifa de la Ley de los Impuestos
 Generales de Importación y de Exportación se regirá por las reglas
@@ -191588,12 +191566,12 @@ más partidas por aplicación de la Regla 2 b) o en cualquier otro caso,
 la clasificación se efectuará como sigue:
 a) La partida con descripción más específica tendrá prioridad sobre
 las partidas de alcance más genérico. Sin embargo, cuando dos o
+
 más partidas se refieran, cada una, solamente a una parte de las
 materias que constituyen un producto mezclado o un artículo
 compuesto o solamente a una parte de los artículos, en el caso de
 mercancías presentadas en juegos o surtidos acondicionados para
 la venta al por menor, tales partidas deben considerarse
-
 igualmente específicas para dicho producto o artículo, incluso si
 una de ellas lo describe de manera más precisa o completa;
 b) Los productos mezclados, las manufacturas compuestas de
@@ -191623,10 +191601,10 @@ de los continentes que confieran al conjunto su carácter esencial;
 b) Salvo lo dispuesto en la Regla 5 a) anterior, los envases que
 contengan mercancías se clasificarán con ellas cuando sean de
 los tipos normalmente utilizados para esa clase de mercancías.
+
 Sin embargo, esta disposición no es obligatoria cuando los
 envases sean susceptibles de ser utilizados razonablemente de
 manera repetida.
-
 6. La clasificación de mercancías en las subpartidas de una misma
 partida está determinada legalmente por los textos de estas
 subpartidas y de las Notas de subpartida así como, mutatis mutandis,
@@ -191661,11 +191639,11 @@ aquellas
 
 cuyo código
 
+subpartida se representa con ceros (00);
+
 numérico de
 
-subpartida se representa con ceros (00);
 Son de primer nivel, aquellas en las que el sexto número es cero (0);
-
 Son de segundo nivel, aquellas en las que el sexto número es distinto
 de cero (0);
 Para los efectos de la Regla General 6, las subpartidas de primer
@@ -191715,32 +191693,33 @@ de
 
 Federación,
 
-modificaciones
-
 las
 
-posteriores,
-
 Notas
-cuya
 
 Nacionales,
-
-aplicación
-
-es
 
 así
 
 como
 
+sus
+
+modificaciones
+
+posteriores,
+
+cuya
+
+aplicación
+
+es
+
 obligatoria
 
-determinar la clasificación arancelaria de las mercancías.
-
-sus
 para
 
+determinar la clasificación arancelaria de las mercancías.
 4ª Con objeto de mantener la unidad de criterio en la clasificación de las
 mercancías dentro de la Tarifa de esta Ley, la Secretaría de Hacienda y
 Crédito Público, previa opinión de la Comisión de Comercio Exterior,
@@ -192028,8 +192007,8 @@ exclusivamente al peso de las mercancías, salvo disposición expresa en
 contrario.
 7ª No se considerarán como mercancías y, en consecuencia, no se
 gravarán:
-a) Los ataúdes y las urnas que contengan cadáveres o sus restos;
 
+a) Los ataúdes y las urnas que contengan cadáveres o sus restos;
 b) Las piezas postales obliteradas que los convenios postales
 internacionales
 
@@ -192076,9 +192055,9 @@ ensamblar en México, por empresas que cuenten con registro de
 empresa fabricante, aprobado por la Secretaría de Economía.
 b) Podrán importarse en una o más remesas o por una o varias
 aduanas, los artículos desmontados o que no hayan sido montados,
+
 que correspondan a artículos completos o terminados o considerados
 como tales.
-
 Los bienes que se importen al amparo de esta Regla deberán utilizarse
 única y exclusivamente para cumplir con la fabricación a que se refiere
 esta Regla, ya sea para ampliar una planta industrial, reponer equipo o
@@ -192125,11 +192104,10 @@ la fracción arancelaria que corresponda que se declare, y que estarán
 ordenados de manera progresiva iniciando del 00 al 99.
 La Secretaría de Economía, dará a conocer mediante Acuerdo publicado
 en el Diario Oficial de la Federación:
+
 a) Los
 
 números
-
-arancelarias.
 
 de
 
@@ -192143,6 +192121,7 @@ las
 
 fracciones
 
+arancelarias.
 b) Las tablas de correlación de las fracciones arancelarias de la Tarifa,
 así como de los números de identificación comercial.
 ARTÍCULO SEGUNDO. ……….
@@ -192172,10 +192151,10 @@ CUARTO. Los números de identificación comercial a que hace referencia el
 artículo 2, fracción II, regla 10 ª del Artículo Primero del presente
 ordenamiento se determinarán a los 90 días naturales siguientes a la entrada
 en vigor del presente Decreto.
+
 QUINTO. La Secretaría de Economía dentro de los 120 días naturales
 siguientes a la entrada en vigor del presente Decreto deberá publicar los
 números de identificación comercial, así como las tablas de correlación de las
-
 fracciones arancelarias de la Tarifa y de los números de identificación
 comercial, a los que se refiere el artículo 2, fracción II, regla 10ª, párrafo
 cuarto, incisos a) y b) de la Ley de los Impuestos Generales de Importación y
