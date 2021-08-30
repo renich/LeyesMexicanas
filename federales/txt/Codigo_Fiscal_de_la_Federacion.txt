@@ -7,7 +7,7 @@ CÓDIGO FISCAL DE LA FEDERACIÓN
 Nuevo Código Publicado en el Diario Oficial de la
 Federación el 31 de diciembre de 1981
 TEXTO VIGENTE
-Última reforma publicada DOF 23-04-2021
+Última reforma publicada DOF 31-07-2021
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -2436,8 +2436,8 @@ el 26 del mes m y hasta el día 10 del mes
 siguiente.
 INPCq = Índice Nacional de Precios al Consumidor
 de la primera quincena del mes m.
-
 INPCq-1 = Índice Nacional de Precios al Consumidor
+
 de la segunda quincena del mes inmediato
 anterior al mes m.
 2.2. Para determinar el valor de la UDI para los días
@@ -2470,8 +2470,8 @@ aprovechamientos actualizados por el periodo a que
 se refiere este párrafo, la tasa que resulte de sumar
 las aplicables en cada año para cada uno de los
 meses transcurridos en el periodo de actualización de
-
 la contribución o aprovechamiento de que se trate. La
+
 tasa de recargos para cada uno de los meses de
 mora será la que resulte de incrementar en 50% a la
 que mediante Ley fije anualmente el Congreso de la
@@ -4891,7 +4891,8 @@ requiera la declaración aun cuando sólo se modifique
 alguno de ellos.
 Iniciado el ejercicio de facultades de comprobación,
 únicamente se
-podrá presentar
+podrá
+presentar
 declaración
 complementaria en las formas especiales a que se
 
