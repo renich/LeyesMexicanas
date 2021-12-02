@@ -22,7 +22,7 @@ En el mundo del Software Libre y de Código Abierto; o FOSS, existen herramienta
 * Control de versiones.
 * Conversión de formatos cerrados a formatos abiertos.
 
-Github es una red social que permite publicar proyectos abiertos; sin costo alguno; por medio de la herramienta Git.
+GitLab es una red social que permite publicar proyectos abiertos; sin costo alguno; por medio de la herramienta Git.
 
 Procedimiento
 =============
