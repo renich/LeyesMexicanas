@@ -1009,17 +1009,11 @@ para desempeñar su actividad laboral, tendrá derecho
 a licencia con goce de sueldo o con medio sueldo
 pagado por la Dependencia o Entidad en que labore,
 conforme a lo siguiente:
-I. A los Trabajadores que tengan menos de un
-de servicios, se les podrá conceder licencia
-enfermedad no profesional, hasta quince días
-goce de sueldo íntegro y hasta quince días más
+I. A los Trabajadores que tengan menos de un año
+de servicios, se les podrá conceder licencia por
+enfermedad no profesional, hasta quince días con
+goce de sueldo íntegro y hasta quince días más con
 medio sueldo;
-
-año
-por
-con
-con
-
 II. A los que tengan de uno a cinco años de
 servicios, hasta treinta días con goce de sueldo
 íntegro y hasta treinta días más con medio sueldo;
@@ -2581,16 +2575,11 @@ las
 responsabilidades y sanciones establecidas en la Ley
 de los Sistemas de Ahorro para el Retiro para los
 funcionarios de las Administradoras.
-Artículo 107. El PENSIONISSSTE elaborará
-presupuesto asegurando que los costos
-administración sean cubiertos únicamente con
-producto de las comisiones cobradas por
+Artículo 107. El PENSIONISSSTE elaborará su
+presupuesto asegurando que los costos de
+administración sean cubiertos únicamente con el
+producto de las comisiones cobradas por la
 administración de los recursos del Fondo.
-
-su
-de
-el
-la
 
 Artículo 108. Los recursos para la operación del
 PENSIONISSSTE se integrarán:
@@ -5016,17 +5005,11 @@ cumplimiento de las fracciones I, II y III del presente
 artículo, y
 IX. Las que le fijen el estatuto orgánico del Instituto y
 las demás disposiciones legales aplicables.
-Artículo 225. El Ejecutivo Federal establecerá
-bases para determinar las organizaciones
-Trabajadores que deberán intervenir en
-designación de los miembros de los órganos
+Artículo 225. El Ejecutivo Federal establecerá las
+bases para determinar las organizaciones de
+Trabajadores que deberán intervenir en la
+designación de los miembros de los órganos de
 gobierno del Instituto.
-
-las
-de
-la
-de
-
 CAPÍTULO III
 COMITÉ DE INVERSIONES
 Artículo 226. El Instituto deberá constituir un Comité
@@ -5058,11 +5041,11 @@ obligaciones;
 
 del
 
-posesiones,
-
 Instituto
 
 lo
+
+posesiones,
 
 derechos
 
@@ -5776,26 +5759,24 @@ incrementará de manera gradual conforme a la tabla
 siguiente:
 Años
 
-2010 y 2011
-2012 y 2013
-2014 y 2015
-2016 y 2017
-2018
-en
-adelante
-
 Edad
 para
 pensión
 por
 edad y tiempo
 de servicios
+2010 y 2011
 56
+2012 y 2013
 57
+2014 y 2015
 58
+2016 y 2017
 59
+2018
+en
 60
-
+adelante
 c) Tendrán derecho a Pensión por cesantía en edad
 avanzada, los Trabajadores que se separen
 voluntariamente del servicio o que queden privados
@@ -6121,14 +6102,11 @@ casos, el Trabajador recibirá la cantidad que
 representen sus Bonos de Pensión del ISSSTE a la
 fecha de redención anticipada conforme a la fórmula
 siguiente:
- VN
-VR t  
- (1.035) n
-
-
-
+ VN 
  * Udi t
-
+VR t  
+ (1.035) n 
+
 
 
 Donde:

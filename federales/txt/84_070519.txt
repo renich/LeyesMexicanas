@@ -1561,6 +1561,9 @@ con la tabla siguiente:
 Párrafo reformado DOF 14-01-2013
 
 Años de Servicios
+
+Factor (meses)
+
 20
 21
 22
@@ -1591,7 +1594,6 @@ Años de Servicios
 47
 48
 
-Factor (meses)
 16
 17
 18

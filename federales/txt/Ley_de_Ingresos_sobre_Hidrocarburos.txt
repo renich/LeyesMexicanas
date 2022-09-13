@@ -9,8 +9,8 @@ Federación el 11 de agosto de 2014
 TEXTO VIGENTE
 Última reforma publicada DOF 09-12-2019
 
-Cantidades actualizadas por Resolución Miscelánea Fiscal DOF
-11-01-2021
+Cantidades actualizadas por Resolución Miscelánea Fiscal
+DOF 13-01-2022
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -679,15 +679,16 @@ América por Barril, de 7.5%, y
 b) Cuando el Precio Contractual del Petróleo
 sea mayor o igual a 48 dólares de los Estados
 Unidos de América por Barril:
-Tasa [(0.125 x Precio Contractual del
-=
-Petróleo) + 1.5 ]%
+Tasa = [(0.125 x Precio Contractual del Petróleo) +
+1.5 ]%
 II. Al Valor Contractual del Gas Natural, se le
 aplicará la siguiente tasa:
 a) Cuando se trate de Gas Natural Asociado:
 Precio Contractual del Gas Natural
-Tasa =
 100
+
+Tasa =
+
 b) Cuando se trate de Gas Natural No
 Asociado:
 i. Cuando el Precio Contractual del Gas
@@ -699,24 +700,24 @@ Natural sea mayor a 5 y menor a 5.5 dólares
 de los Estados Unidos de América por millón
 de BTU:
 
-Tasa =
+Tasa = [
 
-[
+(Precio Contractual del Gas Natural
+– 5) x 60.5
+]
+Precio Contractual del Gas Natural
 
-(Precio Contractual del Gas
-Natural – 5) x 60.5
-Precio Contractual del Gas
-Natural
-
-]%
+%
 
 iii. Cuando el Precio Contractual de Gas
 Natural sea mayor o igual a 5.5 dólares de
 los Estados Unidos de América por millón de
 BTU:
-Precio Contractual del Gas Natural
 Tasa =
+
+Precio Contractual del Gas Natural
 100
+
 III. Al Valor Contractual de los Condensados se le
 aplicará la siguiente tasa:
 a) Cuando el Precio Contractual de los
@@ -728,8 +729,12 @@ Condensados sea mayor o igual a 60 dólares
 de los Estados Unidos de América por Barril:
 Tasa =
 
-[(0.125 x Precio Contractual de los
+[(0.125 x Precio Contractual
 Condensados) – 2.5 ] %
+
+de
+
+los
 
 Para la determinación de las tasas para el cálculo de
 las Regalías contempladas en este artículo se
@@ -767,8 +772,8 @@ los Contratos.
 Las variables de adjudicación de los Contratos serán
 en todos los casos de naturaleza económica,
 conforme a las previsiones de esta Ley, atendiendo
-
 siempre a maximizar los ingresos del Estado para
+
 lograr el mayor beneficio para el desarrollo de largo
 plazo. Considerando las circunstancias particulares
 de cada Contrato, la Secretaría establecerá los
@@ -795,8 +800,8 @@ de las facultades que correspondan a la Comisión
 Nacional de Hidrocarburos.
 Artículo 27.- El Comercializador entregará al Fondo
 Mexicano del Petróleo todos los ingresos derivados
-
 de la venta de la Producción Contractual que de
+
 acuerdo a cada Contrato corresponda al Estado, una
 vez descontado el pago por los servicios de aquél, de
 conformidad con lo establecido en el contrato que
@@ -1263,12 +1268,10 @@ demás Contraprestaciones que, conforme al
 Contrato, correspondan al Estado y al
 Contratista;
 V. Llevar los registros de información que se
-requieran
-para
+requieran para
 la
 verificación
-de
-las
+de las
 Contraprestaciones establecidas en el Contrato y
 para realizar las demás funciones a su cargo;
 VI. Notificar al Fondo Mexicano del Petróleo sobre
@@ -1704,10 +1707,10 @@ Barril, de 7.5%, y
 b) Cuando el precio del Petróleo sea mayor o
 igual a 48 dólares de los Estados Unidos de
 América por Barril:
+
 Tasa=
 
-[ (0.125 x precio del Petróleo) + 1.5 ]
-%
+[ (0.125 x precio del Petróleo) + 1.5 ] %
 
 II. Al valor del Gas Natural, se le aplicará la
 siguiente tasa:
@@ -1726,21 +1729,26 @@ América por millón de BTU, de 0%;
 ii. Cuando el precio del Gas Natural sea mayor
 a 5 y menor a 5.5 dólares de los Estados
 Unidos de América por millón de BTU:
+
 Tasa =
 
 [
 
-(Precio del Gas Natural – 5) x 60.5
+(Precio del Gas Natural – 5) x
+60.5
+]
 Precio del Gas Natural
 
-]%
+%
 
 iii. Cuando el precio del Gas Natural sea
 mayor o igual a 5.5 dólares de los Estados
 Unidos de América por millón de BTU:
-Precio del Gas Natural
 Tasa =
+
+Precio del Gas Natural
 100
+
 III. Al valor de los Condensados se le aplicará la
 siguiente tasa:
 a) Cuando el precio de los Condensados sea
@@ -1749,7 +1757,10 @@ América por Barril, de 5%, y
 b) Cuando el precio de los Condensados sea
 mayor o igual a 60 dólares de los Estados
 Unidos de América por Barril:
-Tasa= [ (0.125 x Precio de los Condensados) – 2.5 ] %
+Tasa=
+
+[ (0.125 x Precio de los Condensados) –
+2.5 ] %
 
 Para la determinación de las tasas para el cálculo
 del derecho a que se refiere este artículo se deberán
@@ -1767,7 +1778,7 @@ mensual del derecho de exploración de hidrocarburos,
 por la parte del Área de Asignación que no se
 encuentre en la fase de producción, de conformidad
 con las siguientes cuotas:
-I. Durante los primeros 60 1,442.57
+I. Durante los primeros 60 1,548.88
 pesos
 por
 meses de vigencia de la kilómetro cuadrado
@@ -1775,16 +1786,17 @@ Asignación
 Cantidad de la fracción
 actualizada por resolución
 miscelánea fiscal DOF 0104-2016, 06-01-2017, 24-122018, 17-01-2020,
-11-01-2021
+11-01-2021, 13-01-2022
 
-II. A partir del mes 61 de 3,449.63pesos
+II. A partir del mes 61 de 3,703.86
+pesos
 por
 vigencia de la Asignación y kilómetro cuadrado
 en adelante
 Cantidad de la fracción
 actualizada por resolución
 miscelánea fiscal DOF 0104-2016, 06-01-2017, 24-122018, 17-01-2020,
-11-01-2021
+11-01-2021, 13-01-2022
 Las cuotas del derecho de exploración de
 hidrocarburos se actualizarán cada año en el mes de
 enero, de acuerdo a la variación en el Índice Nacional
@@ -2106,13 +2118,13 @@ que comprenda el Área Contractual o el Área de
 Asignación, las siguientes cuotas:
 I.
 
-Durante la fase de exploración 1,881.60 pesos, y
+Durante la fase de exploración 2,020.27 pesos, y
 Cantidad de la fracción actualizada por resolución
-miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-122018, 17-01-2020, 11-01-2021
+miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-122018, 17-01-2020, 11-01-2021, 13-01-2022
 
-II. Durante la fase de extracción 7,526.47 pesos.
+II. Durante la fase de extracción 8,081.17 pesos.
 Cantidad de la fracción actualizada por resolución
-miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-122018, 17-01-2020, 11-01-2021
+miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-122018, 17-01-2020, 11-01-2021, 13-01-2022
 Para los efectos de este artículo, la Fase de
 Exploración comprende desde la formalización del
 Contrato o de la Asignación hasta el inicio de la Fase

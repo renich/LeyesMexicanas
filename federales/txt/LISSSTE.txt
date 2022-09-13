@@ -4282,16 +4282,12 @@ lo considere conveniente o cuando el Trabajador tenga derecho a pensionarse. En 
 Trabajador recibirá la cantidad que representen sus Bonos de Pensión del ISSSTE a la fecha de
 redención anticipada conforme a la fórmula siguiente:
 
- VN
-VR t  
- (1.035) n
-
-
-
+ VN 
  * Udi t
-
+VR t  
+ (1.035) n 
+
 
-
 Donde:
 t = El día en el que se evalúa el valor de redención anticipada del Bono de Pensión del ISSSTE.
 Udit = Valor de la unidad de inversión en el día t.

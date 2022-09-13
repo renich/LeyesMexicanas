@@ -9785,7 +9785,58 @@ máx 2 grs
 PRIMODELINCUENCIA
 MEPERIDINA
 (DEMEROL)
+
+1ª
+REINCIDENCIA
+
+2ª
+REINCIDENCIA
+
+MULTIREINCIDENTE
+
+PENA DE PRISION
+
 máx 2 grs
+
+10 meses a
+1 año 4 meses
+
+1 año a
+1 año 6 meses
+
+1 año 3 meses a
+1 año 9 meses
+
+1 año 9 meses a
+2 años 3 meses
+
+1 año 4 meses a
+1 año 9 meses
+1 año 9 meses a
+2 años 9 meses
+2 años 9 meses a
+4 años 3 meses
+
+1 año 6 meses a
+2 años
+2 años a
+3 años 1 mes
+3 años 1 mes a
+4 años 9 meses
+
+1 año 9 meses a
+2 años 3 meses
+2 años 3 meses a
+3 años 5 meses
+3 años 5 meses a
+5 años 3 meses
+
+2 años 3 meses a
+2 años 9 meses
+2 años 9 meses a
+4 años 3 meses
+4 años 3 meses a
+6 años 6 meses
 
 Fe de erratas DOF
 01-08-1994
@@ -9843,55 +9894,6 @@ Fe de erratas DOF
 8-16 grs
 
 8-16 grs
-
-1ª
-REINCIDENCIA
-
-2ª
-REINCIDENCIA
-
-MULTIREINCIDENTE
-
-PENA DE PRISION
-10 meses a
-1 año 4 meses
-
-1 año a
-1 año 6 meses
-
-1 año 3 meses a
-1 año 9 meses
-
-1 año 9 meses a
-2 años 3 meses
-
-1 año 4 meses a
-1 año 9 meses
-1 año 9 meses a
-2 años 9 meses
-2 años 9 meses a
-4 años 3 meses
-
-1 año 6 meses a
-2 años
-2 años a
-3 años 1 mes
-3 años 1 mes a
-4 años 9 meses
-
-1 año 9 meses a
-2 años 3 meses
-2 años 3 meses a
-3 años 5 meses
-3 años 5 meses a
-5 años 3 meses
-
-2 años 3 meses a
-2 años 9 meses
-2 años 9 meses a
-4 años 3 meses
-4 años 3 meses a
-6 años 6 meses
 
 TABLA 2
 FENCICLIDINA
@@ -9969,27 +9971,25 @@ PRIMODELINCUENCIA
 4 años 3 meses
 
 1ª
-REINCIDENCIA
-PENA DE
-1 años a
-1 año 6 meses
-1 año 6 meses a
-2 años
-2 años a
-3 años 1 mes
-3 años 1 mes a
-4 años 9 meses
-
 2ª
 REINCIDENCIA
-PRISIÓN
+REINCIDENCIA
+PENA DE PRISIÓN
+1 años a
 1 año 3 meses a
+1 año 6 meses
 1 año 9 meses
+1 año 6 meses a
 1 año 9 meses a
+2 años
 2 años 3 meses
+2 años a
 2 años 3 meses a
+3 años 1 mes
 3 años 5 meses
+3 años 1 mes a
 3 años 5 meses a
+4 años 9 meses
 5 años 3 meses
 
 MULTIREINCIDENTE
@@ -15711,17 +15711,11 @@ La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenci
 las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades
 correspondientes.
 
-Tercero.- Una vez que entre en vigencia la Ley General para Prevenir, Investigar
-Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes que establece el
-fracción XXI del artículo 73, la fracción XIII del artículo 215 quedará derogada y los
-iniciados por hechos que ocurran a partir de dicha entrada en vigor, se seguirán
+Tercero.- Una vez que entre en vigencia la Ley General para Prevenir, Investigar y Sancionar la
+Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes que establece el inciso a) de la
+fracción XXI del artículo 73, la fracción XIII del artículo 215 quedará derogada y los procedimientos
+iniciados por hechos que ocurran a partir de dicha entrada en vigor, se seguirán conforme a lo
 establecido en la misma.
-
-y Sancionar la
-inciso a) de la
-procedimientos
-conforme a lo
-
 Los procedimientos iniciados antes de la vigencia de dicha ley continuarán su sustanciación de
 conformidad con este Código.
 Cuarto.- Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo

@@ -219,10 +219,7 @@ impuestos y derechos locales de la entidad i, referidos en la variable anterior.
 ni es la última información oficial de población que hubiere dado a conocer el Instituto Nacional de
 Estadística y Geografía para la entidad i.
 
-
-
-es la suma sobre todas las entidades de la variable que le sigue.
-
+ es la suma sobre todas las entidades de la variable que le sigue.
 i
 
 Párrafo reformado DOF 26-12-1990, 31-12-1999. Párrafo con “fórmula” reformado DOF 21-12-2007, 09-12-2013
@@ -2628,10 +2625,7 @@ Entidades Federativas entre el año 2007 y el año t.
 ni es la última información oficial de población que hubiere dado a conocer el Instituto Nacional de
 Estadística, Geografía e Informática para la entidad i.
 
-
-
-es la sumatoria sobre todas las entidades de la variable que le sigue.
-
+ es la sumatoria sobre todas las entidades de la variable que le sigue.
 i
 
 Párrafo con “fórmula” reformado DOF 21-12-2007

@@ -4,9 +4,10 @@ Secretaría de Servicios Parlamentarios
 Versión PDF para vista en dispositivo móvil Android y Apple iOS
 
 LEY GENERAL DE ARCHIVOS
-TEXTO VIGENTE
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 15 de junio de 2018
+TEXTO VIGENTE
+Última reforma publicada DOF 05-04-2022
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -19,9 +20,9 @@ DECRETO
 "EL CONGRESO GENERAL DE LOS ESTADOS
 UNIDOS MEXICANOS, D E C R E T A:
 SE EXPIDE LA LEY GENERAL DE ARCHIVOS
+
 Artículo Único.- Se expide la Ley General de
 Archivos
-
 LEY GENERAL DE ARCHIVOS
 LIBRO PRIMERO
 DE LA ORGANIZACIÓN Y ADMINISTRACIÓN
@@ -45,10 +46,10 @@ municipios.
 Así como determinar las bases de organización y
 funcionamiento del Sistema Nacional de Archivos y
 fomentar el resguardo, difusión y acceso público de
+
 archivos privados de relevancia histórica, social,
 cultural, científica y técnica de la Nación.
 Artículo 2. Son objetivos de esta Ley:
-
 I.
 
 Promover el uso de métodos y técnicas
@@ -78,9 +79,9 @@ y el resguardo de la memoria institucional de
 México;
 IV. Promover el uso y aprovechamiento de
 tecnologías de la información para mejorar la
+
 administración de los archivos por los sujetos
 obligados;
-
 V. Sentar las bases para el desarrollo y la
 implementación de un sistema integral de
 gestión de documentos electrónicos encaminado
@@ -104,9 +105,9 @@ archivos.
 Artículo 3. La aplicación e interpretación de esta
 Ley se hará acorde a la Constitución Política de los
 Estados Unidos Mexicanos y los tratados
+
 internacionales de los que México sea parte,
 privilegiando el respeto irrestricto a los derechos
-
 humanos y favoreciendo en todo tiempo la protección
 más amplia a las personas y el interés público.
 A falta de disposición expresa en la presente Ley, se
@@ -134,9 +135,9 @@ y difundir documentos de archivo;
 III. Archivo: Al conjunto organizado de documentos
 producidos o recibidos por los sujetos obligados
 en el ejercicio de sus atribuciones y funciones,
+
 con independencia del soporte, espacio o lugar
 que se resguarden;
-
 IV. Archivo de concentración: Al integrado por
 documentos transferidos desde las áreas o
 unidades productoras, cuyo uso y consulta es
@@ -165,10 +166,10 @@ VIII. Archivo histórico: Al integrado por documentos
 de conservación permanente y de relevancia
 para la memoria nacional, regional o local de
 carácter público;
+
 IX. Archivos privados de interés público: Al conjunto
 de documentos de interés público, histórico o
 cultural, que se encuentran en propiedad de
-
 particulares, que no reciban o ejerzan recursos
 públicos ni realicen actos de autoridad en los
 diversos ámbitos de gobierno;
@@ -193,9 +194,9 @@ registro general y sistemático que establece los
 valores documentales, la vigencia documental,
 los plazos de conservación y la disposición
 documental;
+
 XIV. Ciclo vital: A las etapas por las que atraviesan
 los documentos de archivo desde su producción
-
 o recepción hasta su baja documental o
 transferencia a un archivo histórico;
 XV. Consejos Locales: A los consejos de archivos
@@ -227,9 +228,9 @@ XX. Cuadro general de clasificación archivística: Al
 instrumento técnico que refleja la estructura de
 un archivo con base en las atribuciones y
 funciones de cada sujeto obligado;
+
 XXI. Datos abiertos: A los datos digitales de
 carácter público que son accesibles en línea y
-
 pueden ser usados, reutilizados y redistribuidos,
 por cualquier interesado;
 XXII. Director General: Al Director General del
@@ -259,9 +260,9 @@ Judicial,
 los
 órganos
 constitucionales
+
 autónomos, las dependencias y entidades de la
 Administración Pública Federal, y sus homólogos
-
 de las entidades federativas, los municipios y
 alcaldías de la Ciudad de México y sus
 dependencias y entidades, la Fiscalía General de
@@ -316,8 +317,8 @@ del área coordinadora de archivos; la unidad de
 transparencia; los titulares de las áreas de
 planeación estratégica, jurídica, mejora continua,
 órganos internos de control o sus equivalentes;
-las áreas responsables de la información, así
 
+las áreas responsables de la información, así
 como el responsable del archivo histórico, con la
 finalidad de coadyuvar en la valoración
 documental;
@@ -392,8 +393,8 @@ por su naturaleza, no son sustituibles y dan
 cuenta de la evolución del Estado y de las
 personas e instituciones que han contribuido en
 su desarrollo; además de transmitir y heredar
-información significativa de la vida intelectual,
 
+información significativa de la vida intelectual,
 social, política, económica, cultural y artística de
 una comunidad, incluyendo aquellos que hayan
 pertenecido o pertenezcan a los archivos de los
@@ -1676,8 +1677,7 @@ VII. Establecer el uso de estándares y de adaptación
 a normas de calidad para gestionar los
 documentos de archivo electrónicos;
 VIII. Posibilitar la interoperabilidad con aplicaciones
-y sistemas
-internos, intranets, portales
+y sistemas internos, intranets, portales
 electrónicos y otras redes, y
 IX. Reflejar en el sistema, de manera coherente y
 auditable, la política de gestión documental de
@@ -1965,17 +1965,11 @@ dentro de su jurisdicción.
 Artículo 71. Las leyes de las entidades federativas
 regularán los Sistemas locales, los cuales contarán
 con un Consejo Local, como órgano de coordinación.
-Asimismo, se deberá prever la creación de
-archivo general como la entidad especializada
-materia de archivos. Su titular deberá tener nivel
-subsecretario, titular de unidad administrativa o
+Asimismo, se deberá prever la creación de un
+archivo general como la entidad especializada en
+materia de archivos. Su titular deberá tener nivel de
+subsecretario, titular de unidad administrativa o su
 equivalente.
-
-un
-en
-de
-su
-
 En los Consejos Locales participarán los municipios
 y las alcaldías de la Ciudad de México, según
 corresponda, en los términos de la legislación de cada
@@ -2439,6 +2433,11 @@ y
 hemerográfico que resguarda, con base en las
 mejores prácticas y las disposiciones jurídicas
 aplicables;
+II Bis. Difundir y proyectar el derecho a la
+memoria de la Nación, en coordinación con las
+dependencias y entidades de la Administración
+Pública Federal;
+Fracción adicionada DOF 05-04-2022
 III. Elaborar, actualizar y publicar en formatos
 abiertos los inventarios documentales de cada
 fondo en su acervo;
@@ -2452,11 +2451,11 @@ VI. Emitir el dictamen de baja documental o de
 transferencia secundaria para los sujetos
 obligados del Poder Ejecutivo Federal, los cuales
 se considerarán de carácter histórico;
+
 VII. Autorizar, recibir y resguardar las transferencias
 secundarias de los documentos de archivo con
 valor histórico producidos por el Poder Ejecutivo
 Federal;
-
 VIII. Analizar la pertinencia de recibir transferencias
 de documentos de archivo con valor histórico de
 sujetos obligados distintos al Poder Ejecutivo
@@ -2483,10 +2482,10 @@ documento;
 XIII. Desarrollar investigaciones encaminadas a la
 organización, conservación y difusión del
 patrimonio documental que resguarda;
+
 XIV. Emitir dictámenes técnicos sobre archivos en
 peligro de destrucción o pérdida, y las medidas
 necesarias para su rescate;
-
 XV. Establecer mecanismos de cooperación y
 asesoría
 con
@@ -2521,7 +2520,6 @@ patrimonio
 
 XXII. Realizar la declaratoria de interés público
 respecto de documentos o archivos privados;
-
 XXIII.
 Otorgar las autorizaciones para la salida del
 país de documentos considerados patrimonio
@@ -2536,8 +2534,7 @@ tengan valor histórico;
 XXV. Expedir copias certificadas, transcripciones
 paleográficas y dictámenes de autenticidad de
 los documentos existentes en sus acervos;
-XXVI. Determinar
-los
+XXVI. Determinar los
 procedimientos
 para
 proporcionar servicios archivísticos al público
@@ -2551,9 +2548,9 @@ XXIX. Fomentar el desarrollo profesional de
 archivólogos, archivónomos y archivistas, a
 través de convenios de colaboración o
 concertación con autoridades e instituciones
+
 educativas públicas o privadas, nacionales o
 extranjeras;
-
 XXX. Proporcionar los servicios complementarios
 que determinen las disposiciones reglamentarias
 y demás disposiciones jurídicas aplicables;
@@ -2577,6 +2574,7 @@ Mexicanos y las demás disposiciones jurídicas
 aplicables.
 Artículo 108. Para el cumplimiento de su objeto, el
 Archivo General contará con los siguientes órganos:
+
 I.
 
 Órgano de Gobierno;
@@ -2604,9 +2602,9 @@ Archivo General;
 
 II. Emitir los lineamientos para el funcionamiento
 del Consejo Técnico, y
+
 III. Las demás previstas en otras disposiciones
 jurídicas aplicables.
-
 Artículo 110. El Órgano de Gobierno estará
 integrado por un miembro de las siguientes
 instancias:
@@ -2634,9 +2632,9 @@ o
 privadas,
 quienes
 intervendrán con voz pero sin voto. Los integrantes
+
 del Órgano de Gobierno, no obtendrán remuneración,
 compensación o emolumento por su participación.
-
 CAPÍTULO III
 DEL DIRECTOR GENERAL
 Artículo 111. El Director General será nombrado por
@@ -2667,9 +2665,9 @@ grado o civil con cualquiera de los miembros del
 Órgano de Gobierno, y
 VI. No haber sido Secretario de Estado, Fiscal
 General de la República, Senador, Diputado
+
 Federal o Local, dirigente de un partido o
 agrupación política, Gobernador de algún estado
-
 o Jefe de Gobierno de la Ciudad de México,
 durante el año previo al día de su nombramiento.
 Durante su gestión, el Director General no podrá
@@ -2699,10 +2697,10 @@ necesarias para el funcionamiento del Archivo
 General;
 III. Proponer al Órgano de Gobierno el proyecto de
 Estatuto Orgánico;
+
 IV. Nombrar y remover a los servidores públicos del
 Archivo General, cuyo nombramiento no
 corresponda al Órgano de Gobierno, y
-
 V. Las demás previstas en esta Ley y en otras
 disposiciones jurídicas aplicables.
 CAPÍTULO IV
@@ -2726,10 +2724,10 @@ El Consejo Técnico estará formado por 13
 integrantes designados por el Consejo Nacional a
 convocatoria pública del Archivo General entre
 representantes de instituciones de docencia,
+
 investigación o preservación de archivos, académicos
 y expertos destacados. Operará conforme a los
 lineamientos aprobados por el Consejo Nacional.
-
 Los integrantes del Consejo Técnico no obtendrán
 remuneración, compensación o emolumento por su
 participación.
@@ -2758,11 +2756,11 @@ obligaciones que adquiera, se le asignen,
 transfieran o adjudiquen por cualquier título
 jurídico.
 LIBRO TERCERO
+
 DE LAS INFRACCIONES ADMINISTRATIVAS Y
 DELITOS EN MATERIA DE ARCHIVOS
 TÍTULO PRIMERO
 DE LAS INFRACCIONES ADMINISTRATIVAS
-
 Artículo 116. Se consideran infracciones a la
 presente Ley, las siguientes:
 I.
@@ -2787,11 +2785,11 @@ documentos de archivo de los sujetos obligados;
 V. Omitir la entrega de algún documento de archivo
 bajo la custodia de una persona al separarse de
 un empleo, cargo o comisión;
+
 VI. No publicar el catálogo de disposición
 documental, el dictamen y el acta de baja
 documental autorizados por el Archivo General
 o, en su caso, las entidades especializadas en
-
 materia de archivos a nivel local, así como el
 acta que se levante en caso de documentación
 siniestrada en los portales electrónicos, y
@@ -2819,6 +2817,7 @@ La autoridad competente podrá imponer multas de
 diez y hasta mil quinientas veces el valor diario de la
 unidad de medida y actualización e individualizará las
 sanciones considerando los siguientes criterios:
+
 I.
 
 La gravedad de la conducta constitutiva de la
@@ -2846,11 +2845,11 @@ la responsabilidad civil o penal de quienes incurran en
 ellas.
 En caso de que existan hechos que pudieran ser
 constitutivos de algún delito, las autoridades estarán
+
 obligadas a realizar la denuncia ante el Ministerio
 Público correspondiente, coadyuvando en la
 investigación y aportando todos los elementos
 probatorios con los que cuente.
-
 Artículo 120. Los congresos locales emitirán las
 disposiciones que establezcan las infracciones,
 procedimientos y órganos competentes que
@@ -2876,10 +2875,10 @@ de la Nación;
 III. Traslade fuera del territorio nacional documentos
 considerados patrimonio documental de la
 Nación, sin autorización del Archivo General;
+
 IV. Mantenga, injustificadamente, fuera del territorio
 nacional documentos considerados patrimonio
 documental de la Nación, una vez fenecido el
-
 plazo por el que el Archivo General le autorizó la
 salida del país, y
 V. Destruya documentos considerados patrimonio
@@ -2902,8 +2901,8 @@ disposiciones jurídicas aplicables.
 Artículo 123. Los Tribunales Federales serán los
 competentes para sancionar los delitos establecidos
 en esta Ley.
-Transitorios
 
+Transitorios
 Primero. La presente Ley entrará en vigor a los 365
 días siguientes contados a partir de su publicación en
 el Diario Oficial de la Federación.
@@ -2934,11 +2933,11 @@ características económicas, culturales y sociales de
 cada región en los municipios que no tengan
 condiciones presupuestarias ni técnicas y cuenten
 con una población menor a 70,000 habitantes.
+
 Quinto. Las Secretarías de Gobernación, de
 Hacienda y Crédito Público y de la Función Pública,
 en el ámbito de sus atribuciones, deberán llevar a
 cabo las gestiones necesarias para que se autorice
-
 conforme a las disposiciones aplicables la estructura
 orgánica y ocupacional del Archivo General.
 Sexto. Las erogaciones que se generen con motivo
@@ -2962,10 +2961,10 @@ A partir del 1 de enero de 2019, se incluirá dentro de
 la relación de Entidades Paraestatales de la
 Administración Pública Paraestatal como no
 sectorizado.
+
 Noveno. La Secretaría de Gobernación, con cargo a
 su presupuesto, proveerá los recursos humanos,
 materiales, tecnológicos y financieros que requiera el
-
 Archivo General para el cumplimiento del presente
 ordenamiento, hasta el 31 de diciembre de 2018.
 Décimo. Los Consejos Locales, deberán empezar a
@@ -2988,11 +2987,11 @@ encuentren en los archivos de concentración y que
 antes de la entrada en vigor de la presente Ley no
 han sido organizados y valorados, se les deberá
 aplicar estos procesos técnicos archivísticos, con el
+
 objetivo de identificar el contenido y carácter de la
 información y determinar su disposición documental.
 Los avances de estos trabajos deberán ser
 publicados al final de cada año mediante instrumentos
-
 de consulta en el portal electrónico del sujeto
 obligado.
 Décimo Quinto. Los documentos transferidos a un
@@ -3016,11 +3015,11 @@ obligado.
 Décimo Sexto. Las disposiciones reglamentarias
 derivadas de esta Ley deberán ser expedidas por el
 Ejecutivo Federal en un plazo no mayor a ciento
+
 ochenta días naturales, contados a partir de la
 entrada en vigor del presente Decreto.
 Décimo Séptimo. En un plazo de un año, contado a
 partir de la entrada en vigor de la presente Ley, los
-
 sujetos obligados deberán establecer programas de
 capacitación en materia de gestión documental y
 administración de archivos.

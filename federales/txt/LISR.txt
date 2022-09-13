@@ -18200,10 +18200,12 @@ mes de calendario de que se trate, la siguiente:
 TABLA
 Subsidio para el empleo mensual
 Límite Inferior
+
+Límite Superior
+
 0.01
 1,768.97
 
-Límite Superior
 1,768.96
 1,978.70
 
@@ -20450,18 +20452,13 @@ El impuesto correspondiente a la ganancia a que se refiere el primer párrafo de
 anterior, se actualizará desde la aportación de los bienes inmuebles y hasta el mes en el
 que se acumule.
 
-Las referencias que otras disposiciones, ordenamientos, reglamentos o acuerdos hagan
-artículo 106, último párrafo de la Ley del Impuesto sobre la Renta, se entenderán referidas
-artículo 106, penúltimo párrafo, del mismo ordenamiento; en tanto que las que se hagan
-artículo 116, último párrafo, de la Ley del Impuesto sobre la Renta, se entenderán referidas
+Las referencias que otras disposiciones, ordenamientos, reglamentos o acuerdos hagan al
+artículo 106, último párrafo de la Ley del Impuesto sobre la Renta, se entenderán referidas al
+artículo 106, penúltimo párrafo, del mismo ordenamiento; en tanto que las que se hagan al
+artículo 116, último párrafo, de la Ley del Impuesto sobre la Renta, se entenderán referidas al
 artículo 116, penúltimo párrafo, del mismo ordenamiento.
 
 302 de 312
-
-al
-al
-al
-al
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN

@@ -7,7 +7,7 @@ LEY DE LA INDUSTRIA ELÉCTRICA
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 11 de agosto de 2014
 TEXTO VIGENTE
-Última reforma publicada DOF 09-03-2021
+Última reforma publicada DOF 11-05-2022
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -1739,17 +1739,11 @@ Definir las especificaciones técnicas generales
 requeridas para realizar las interconexiones y
 conexiones;
 
-II. Definir las características específicas de
-infraestructura requerida para realizar
-interconexión o conexión, a solicitud
-representante de la Central Eléctrica o
+II. Definir las características específicas de la
+infraestructura requerida para realizar la
+interconexión o conexión, a solicitud del
+representante de la Central Eléctrica o del
 Centro de Carga;
-
-la
-la
-del
-del
-
 III. Instruir a los Transportistas o a los Distribuidores
 la celebración del contrato de interconexión o
 conexión, a solicitud del representante de la
@@ -2105,17 +2099,12 @@ eficiencia y calidad de dichos servicios.
 Sin perjuicio de que se sujeten a los requerimientos
 de medición establecidos en las condiciones
 
-generales para la prestación del Servicio Público
-Transmisión y Distribución de Energía Eléctrica o
-las Reglas del Mercado, las siguientes actividades
-se consideran comercialización, por lo que
+generales para la prestación del Servicio Público de
+Transmisión y Distribución de Energía Eléctrica o en
+las Reglas del Mercado, las siguientes actividades no
+se consideran comercialización, por lo que no
 requieren permiso o registro:
 I.
-
-de
-en
-no
-no
 
 La venta de energía eléctrica de un Usuario Final
 a un tercero, siempre y cuando la energía
@@ -3034,11 +3023,15 @@ d) Impulsar el cierre de brechas de capacidad
 técnica y de Calidad de las empresas, a través
 de programas de apoyo para asistencia técnica
 y financiera, y
-e) Integrar un consejo consultivo, encabezado
-por la Secretaría de Economía, con
-representantes de la Secretaría, la CRE,
-académicos y representantes del sector
-privado o de la industria.
+e)
+
+Integrar un consejo consultivo, encabezado
+por la Secretaría de Economía, con personas
+representantes de la Secretaría, la CRE, de la
+academia y del sector privado o de la industria,
+quienes serán designadas garantizando el
+principio de paridad de género.
+Párrafo reformado DOF 11-05-2022
 Dicho consejo apoyará en la definición de
 políticas, criterios y metodologías para el
 diagnóstico de la oferta de productos, bienes y
@@ -3047,15 +3040,16 @@ la formación de cadenas productivas
 regionales y nacionales, y el desarrollo del
 talento de los recursos humanos, la innovación
 y la tecnología, y
+
 II. La estrategia para el fomento de la inversión
 directa deberá:
 a) Fomentar la participación directa de empresas
 mexicanas para llevar a cabo, por sí mismas,
 las actividades en la industria eléctrica;
+
 b) Promover la asociación entre empresas
 mexicanas y extranjeras, para llevar a cabo las
 actividades en la industria eléctrica;
-
 c) Promover la inversión nacional y extranjera
 para que se realicen actividades de
 permanencia en México directamente en la
@@ -3079,11 +3073,11 @@ contenido nacional en la industria eléctrica, así como
 su verificación, para lo cual podrá contar con el apoyo
 de un tercero independiente o de las autoridades del
 Sector.
+
 Las empresas de la industria eléctrica deberán
 proporcionar información a la Secretaría de Economía
 sobre el grado de contenido nacional en las
 actividades que realicen, conforme a lo que
-
 establezcan las disposiciones que para tal efecto
 emita.
 Artículo 92.- Se deroga.
@@ -3109,9 +3103,9 @@ técnico y directivo, de personas de nacionalidad
 mexicana.
 TÍTULO TERCERO
 Del Mercado Eléctrico Mayorista
+
 Capítulo I
 De la Operación del Mercado Eléctrico Mayorista
-
 Artículo 94.- El CENACE operará el Mercado
 Eléctrico Mayorista conforme a la presente Ley. En el
 Mercado Eléctrico Mayorista, los Generadores,
@@ -3141,9 +3135,9 @@ CENACE emitirá las Disposiciones Operativas del
 Mercado. La CRE establecerá mecanismos para la
 autorización, revisión, ajuste y actualización de las
 Disposiciones Operativas del Mercado, los cuales
+
 incluirán la participación de los demás integrantes de
 la industria eléctrica.
-
 La emisión de las Bases del Mercado Eléctrico y de
 las Disposiciones Operativas del Mercado no estará
 sujeta al Título Tercero A de la Ley Federal de
@@ -3173,6 +3167,7 @@ comentarios posteriormente.
 Artículo 96.- Las Reglas del Mercado establecerán
 procedimientos que permitan realizar, al menos,
 transacciones de compraventa de:
+
 I.
 
 Energía eléctrica;
@@ -3200,9 +3195,9 @@ Usuarios Calificados Participantes del Mercado
 podrán celebrar Contratos de Cobertura Eléctrica para
 realizar operaciones de compraventa relativas a la
 energía eléctrica, la potencia o los Servicios Conexos
+
 en un nodo del Sistema Eléctrico Nacional, así como
 a los Derechos Financieros de Transmisión,
-
 sujetándose a las obligaciones para informar al
 CENACE previstas por las Reglas del Mercado.
 Asimismo, podrán celebrar Contratos de Cobertura
@@ -3293,8 +3288,8 @@ Mercado, hayan declarado límites sobre la energía
 total que puede dejar de consumir en un periodo.
 Dicho programa considerará las restricciones
 hidrológicas, ambientales y del suministro de
-combustibles, así como el uso permitido de la
 
+combustibles, así como el uso permitido de la
 Demanda Controlable, entre otras. Para la
 elaboración de dicho programa, el CENACE se
 coordinará con las autoridades competentes y los
@@ -3323,9 +3318,9 @@ programa referido en el artículo anterior y con
 sujeción a las Reglas del Mercado, cuando sea
 necesario para racionar la disponibilidad de energía
 durante un periodo.
+
 Las ofertas que los representantes de Centrales
 Eléctricas realicen en el Mercado Eléctrico Mayorista
-
 se basarán en los costos de dichas Centrales
 Eléctricas y Demanda Controlable, pudiendo ser
 menores a dichos costos, en los términos que definan
@@ -3353,9 +3348,9 @@ ante el CENACE. La CRE requerirá a dichos
 representantes la información relativa a los costos y
 capacidades físicas de cada Central Eléctrica y la
 relativa a las capacidades físicas de la Demanda
+
 Controlable Garantizada, con la finalidad de verificar
 los parámetros registrados. La CRE vigilará que las
-
 ofertas de las Centrales Eléctricas y de la Demanda
 Controlable Garantizada al Mercado Eléctrico
 Mayorista sean consistentes con sus costos y
@@ -3414,8 +3409,8 @@ cualquier convenio, arreglo o coordinación entre
 Participantes del Mercado con la intención o efecto de
 restringir el funcionamiento eficiente del Mercado
 Eléctrico Mayorista. Cuando la Secretaría, la CRE, el
-CENACE o cualquier otra persona detecte dichas
 
+CENACE o cualquier otra persona detecte dichas
 prácticas, informará a la Comisión Federal de
 Competencia Económica para que ésta proceda
 conforme a sus facultades.
@@ -3443,8 +3438,8 @@ con personalidad jurídica y patrimonio propios, que
 tiene a su cargo el Control Operativo del Sistema
 Eléctrico Nacional, la operación del Mercado Eléctrico
 Mayorista y el acceso abierto y no indebidamente
-discriminatorio a la Red Nacional de Transmisión y las
 
+discriminatorio a la Red Nacional de Transmisión y las
 Redes Generales de Distribución, así como las demás
 facultades señaladas en esta Ley y otras
 disposiciones aplicables.
@@ -3479,8 +3474,8 @@ V. Determinar la asignación y el despacho de las
 Centrales Eléctricas, de la Demanda Controlable
 y de los programas de importación y exportación,
 a fin de satisfacer la demanda de energía
-eléctrica en el Sistema Eléctrico Nacional, y
 
+eléctrica en el Sistema Eléctrico Nacional, y
 mantener
 la
 Seguridad

@@ -2125,10 +2125,10 @@ El listado de zonas contaminadas, por tipo de contaminante y localización;
 
 h)
 
-Los tipos de vegetación forestal y de suelos, su localización, formaciones
-tendencias y proyecciones que permitan clasificar y delimitar el estado
-deforestación y degradación, así como las zonas de conservación, protección,
-producción forestal, en relación con las cuencas hidrológicas-forestales,
+Los tipos de vegetación forestal y de suelos, su localización, formaciones y clases, con
+tendencias y proyecciones que permitan clasificar y delimitar el estado actual de la
+deforestación y degradación, así como las zonas de conservación, protección, restauración y
+producción forestal, en relación con las cuencas hidrológicas-forestales, las regiones
 ecológicas, las áreas forestales permanentes y las áreas naturales protegidas;
 
 i)
@@ -2188,12 +2188,6 @@ comercio exterior, desglosado por árbitro, partes, controversia y fecha de la r
 d)
 
 La información relacionada con:
-
-y clases, con
-actual de la
-restauración y
-las regiones
-
 1.
 
 La información geológica, geofísica, geoquímica y yacimientos minerales del país;
