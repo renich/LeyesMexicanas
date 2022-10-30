@@ -1156,6 +1156,9 @@ LEY GENERAL DE VÍCTIMAS
 ==> LGV_200521.txt <==
 LEY GENERAL DE VÍCTIMAS
 
+==> LHHEUM.txt <==
+LEY DE LOS HUSOS HORARIOS EN LOS ESTADOS UNIDOS MEXICANOS
+
 ==> LHidro_040521.txt <==
 LEY DE HIDROCARBUROS
 
@@ -2483,6 +2486,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_de_los_Derechos_de_las_Personas_Adultas_Mayores.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_de_los_Husos_Horarios_en_los_Estados_Unidos_Mexicanos.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_de_los_Impuestos_Generales_de_Importacion_y_de_Exportacion-2020.txt <==
