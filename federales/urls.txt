@@ -1,5 +1,4 @@
 http://www.diputados.gob.mx/LeyesBiblio/pdf/100.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/101_200521.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/102_190221.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/103_220321.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/105.pdf
@@ -111,7 +110,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/CCom.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/CMPP_210618.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP_190221.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LAAT.pdf
@@ -149,6 +148,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LFAAR.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFAEBSP.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFAR.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFCC_200120.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LFCDO.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE_200521.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPo_190521.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFCSQ_200521.pdf
@@ -298,10 +298,10 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF_200521.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LSInt_300519.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LSM.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LSN.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIEG_200521.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LSPREM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LSegNac_200521.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LTE.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LTF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF_090318.pdf
