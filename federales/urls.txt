@@ -1,5 +1,4 @@
 http://www.diputados.gob.mx/LeyesBiblio/pdf/100.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/102_190221.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/103_220321.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/105.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/109.pdf
@@ -146,6 +145,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LEN_120319.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LESS.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFAAR.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFAEBSP.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LFAFE.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFAR.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFCC_200120.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFCDO.pdf
@@ -211,13 +211,13 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LGEEPA.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIMH.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE_130420.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDE_200521.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGMR_200521.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGMSV.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS_240418.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC_200521.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPIST.pdf
@@ -232,8 +232,8 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LGSCMM_300919.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGSMIME.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA_200521.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNSP.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LGT.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP_200521.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LGT_310719.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LHidro_200521.pdf
@@ -264,7 +264,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LNED.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP_090518.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LNMASCMP_200521.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD_270519.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LNSIJPA_011220.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LNSIJPA.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LOAM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf

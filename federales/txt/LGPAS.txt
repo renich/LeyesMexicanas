@@ -1,7 +1,7 @@
 LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -9,7 +9,7 @@ Secretaría de Servicios Parlamentarios
 LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 Nueva Ley publicada en el Diario Oficial de la Federación el 24 de julio de 2007
 TEXTO VIGENTE
-Última reforma publicada DOF 23-01-2014
+Última reforma publicada DOF 07-12-2022
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la
 República.
@@ -31,9 +31,12 @@ la Constitución Política de los Estados Unidos Mexicanos y tiene por objeto re
 administrar el aprovechamiento de los recursos pesqueros y acuícolas en el territorio nacional y las zonas
 sobre las que la nación ejerce su soberanía y jurisdicción; del 73 fracción XXIX-L para establecer las
 bases para el ejercicio de las atribuciones que en la materia corresponden a la federación, las entidades
-federativas y los municipios, bajo el principio de concurrencia y con la participación de los productores
-pesqueros, así como de las demás disposiciones previstas en la propia Constitución que tienen como fin
-propiciar el desarrollo integral y sustentable de la pesca y la acuacultura.
+federativas, los municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, bajo el
+principio de concurrencia y con la participación de los productores pesqueros, así como de las demás
+disposiciones previstas en la propia Constitución que tienen como fin propiciar el desarrollo integral y
+sustentable de la pesca y la acuacultura.
+Artículo reformado DOF 19-01-2018
+
 ARTÍCULO 2o.- Son objetivos de esta Ley:
 I. Establecer y definir los principios para ordenar, fomentar y regular el manejo integral y el
 aprovechamiento sustentable de la pesca y la acuacultura, considerando los aspectos sociales,
@@ -41,12 +44,12 @@ tecnológicos, productivos, biológicos y ambientales;
 II. Promover el mejoramiento de la calidad de vida de los pescadores y acuicultores del país a través
 de los programas que se instrumenten para el sector pesquero y acuícola;
 
-1 de 59
+1 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -88,12 +91,12 @@ I. Los recursos naturales que constituyen la flora y fauna cuyo medio de vida to
 sea el agua, de conformidad con el Artículo 27 de la Constitución Política de los Estados Unidos
 Mexicanos;
 
-2 de 59
+2 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -117,6 +120,14 @@ tecnología, en alguna etapa del cultivo de especies de la flora y fauna, cuyo m
 sea el agua;
 IV. Acuacultura didáctica: Es la que se realiza con fines de capacitación y enseñanza de las personas
 que en cualquier forma intervengan en la acuacultura en cuerpos de agua de jurisdicción federal;
+IV Bis. Acuacultura industrial: Sistema de producción de organismos acuáticos a gran escala, con alto
+nivel de desarrollo empresarial y tecnológico y gran inversión de capital de origen público o privado;
+Fracción adicionada DOF 05-12-2014
+
+IV Ter. Acuacultura rural: Sistema de producción de organismos acuáticos a pequeña escala,
+realizada de forma familiar o en pequeños grupos rurales, llevada a cabo en cultivos extensivos o semiintensivos, para el autoconsumo o venta parcial de los excedentes de la cosecha;
+Fracción adicionada DOF 05-12-2014
+
 V. Arte de pesca: Es el instrumento, equipo o estructura con que se realiza la captura o extracción de
 especies de flora y fauna acuáticas;
 VI. Aviso de arribo: Es el documento en el que se reporta a la autoridad competente los volúmenes de
@@ -130,23 +141,23 @@ de organismos colectados del medio natural, al amparo de un permiso;
 X. Aviso de siembra: Es el documento en el que se reporta a la autoridad competente las especies a
 cultivar, la cantidad de organismos, las fechas de siembra y las medidas sanitarias aplicadas previamente
 al cultivo;
+
+3 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 XI. Barco-fábrica: Es la embarcación pesquera autopropulsada que disponga de equipos para la
 industrialización de la materia prima resultado de su captura y/o de las capturas realizadas por otras
 embarcaciones;
 XII. Bitácora de pesca: Es el documento de registro y control del quehacer pesquero a bordo de una
 embarcación, por medio del cual la autoridad competente recibe del pescador el reporte de la actividad
 que se le ha concesionado o permitido;
-
-3 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XIII. Captura incidental: La extracción de cualquier especie no comprendida en la concesión o permiso
 respectivo, ocurrida de manera fortuita;
 XIV. Certificado de sanidad acuícola: Documento oficial expedido por el Servicio Nacional de Sanidad,
@@ -173,14 +184,25 @@ en la captura o extracción de una o varias especies en una zona y periodo deter
 XX. Guía de pesca: Es el documento que ampara el transporte por vía terrestre, marítima o aérea de
 productos pesqueros vivos, frescos, enhielados o congelados, provenientes de la acuacultura o de la
 pesca;
-XXI. INAPESCA: Instituto Nacional de Pesca, órgano público descentralizado sectorizado con la
-Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
-Fracción reformada DOF 07-06-2012
+XXI. Inapesca.- Instituto Nacional de Pesca y Acuacultura, órgano público descentralizado sectorizado
+con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+Fracción reformada DOF 07-06-2012, 19-06-2017
 
 XXII. Inocuidad: Es la garantía de que el consumo de los recursos pesqueros y acuícolas no cause
 daño en la salud de los consumidores;
 XXIII. Introducción de especies: Actividad que se refiere a aquellas especies que no se distribuyen
 naturalmente existentes en el cuerpo de agua en el que se pretenden introducir;
+
+4 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 XXIV. Normas: Las normas expedidas de conformidad con la Ley Federal sobre Metrología y
 Normalización y esta Ley;
 XXV. Ordenamiento pesquero: Conjunto de instrumentos cuyo objeto es regular y administrar las
@@ -189,17 +211,6 @@ acuícolas, basado en la disponibilidad de los recursos pesqueros, información 
 extracción, usos y potencialidades de desarrollo de actividades, capacidad pesquera o acuícola, puntos
 de referencia para el manejo de las pesquerías y en forma congruente con el ordenamiento ecológico del
 territorio;
-
-4 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XXVI. Permiso: Es el documento que otorga la Secretaría, a las personas físicas o morales, para llevar
 a cabo las actividades de pesca y acuacultura que se señalan en la presente Ley;
 XXVII. Pesca: Es el acto de extraer, capturar o recolectar, por cualquier método o procedimiento,
@@ -232,22 +243,22 @@ tengan de ella;
 XXXVII. Procesamiento Primario: Proceso basado exclusivamente en la conservación del producto por
 la acción del frío, enhielado y congelado, y que no se le aplican métodos de cocción o calor en ninguna
 forma, incluyendo actividades de empacado, eviscerado, descabezado, fileteado o desangrado;
+
+5 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 XXXVIII. Recursos Acuícolas: Las especies acuáticas susceptibles de cultivo, sus productos y
 subproductos;
 XXXIX. Recursos Pesqueros: Las especies acuáticas, sus productos y subproductos, obtenidos
 mediante su cultivo o extracción o captura, en su estado natural;
 XL. Registro: El Registro Nacional de Pesca y Acuacultura;
-
-5 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XLI. Repoblación: Es el acto de introducir organismos acuáticos vivos nativos en cualquiera de los
 estados de su ciclo de vida, en cuerpos de agua de jurisdicción federal con fines de mantener, recuperar
 o incrementar las poblaciones naturales pesqueras;
@@ -265,13 +276,13 @@ instalaciones necesarias para su operación y funcionamiento compartido, operada
 XLVII. Veda: Es el acto administrativo por el que se prohíbe llevar a cabo la pesca en un periodo o
 zona específica establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos
 de reproducción y reclutamiento de una especie;
-L. Zona de escasa prevalencia: Área geográfica determinada en donde se presenta una frecuencia
-mínima de casos recientes de una enfermedad o plaga de especies acuáticas vivas, en una especie y
-periodo específicos;
-LI. Zona de Refugio: Las áreas delimitadas en las aguas de jurisdicción federal, con la finalidad
-primordial de conservar y contribuir, natural o artificialmente, al desarrollo de los recursos pesqueros con
-motivo de su reproducción, crecimiento o reclutamiento, así como preservar y proteger el ambiente que lo
-rodea.
+L (sic DOF 24-07-2007). Zona de escasa prevalencia: Área geográfica determinada en donde se
+presenta una frecuencia mínima de casos recientes de una enfermedad o plaga de especies acuáticas
+vivas, en una especie y periodo específicos;
+LI (sic DOF 24-07-2007). Zona de Refugio: Las áreas delimitadas en las aguas de jurisdicción federal,
+con la finalidad primordial de conservar y contribuir, natural o artificialmente, al desarrollo de los recursos
+pesqueros con motivo de su reproducción, crecimiento o reclutamiento, así como preservar y proteger el
+ambiente que lo rodea.
 ARTÍCULO 5o.- En todo lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas
 en otras leyes relacionadas con las materias que regula este ordenamiento.
 
@@ -279,23 +290,26 @@ TÍTULO SEGUNDO
 COMPETENCIAS Y CONCURRENCIA EN MATERIA DE PESCA Y ACUACULTURA
 CAPÍTULO I
 DE LA DISTRIBUCIÓN DE COMPETENCIAS
-ARTÍCULO 6o.- La Federación, las Entidades Federativas, el Distrito Federal y los Municipios
-ejercerán sus atribuciones en materia de pesca y acuacultura sustentables de conformidad con la
-distribución de competencias prevista en esta Ley y en otros ordenamientos legales.
-ARTÍCULO 7o.- Las atribuciones que esta Ley otorga a la Federación, serán ejercidas por el Poder
-Ejecutivo Federal a través de la Secretaría, salvo las que directamente correspondan al Presidente de la
-República por disposición expresa de la ley.
 
-6 de 59
+6 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+ARTÍCULO 6o.- La Federación, las Entidades Federativas, los Municipios y, en su caso, las
+demarcaciones territoriales de la Ciudad de México, ejercerán sus atribuciones en materia de pesca y
+acuacultura sustentables de conformidad con la distribución de competencias prevista en esta Ley y en
+otros ordenamientos legales.
+Artículo reformado DOF 19-01-2018
+
+ARTÍCULO 7o.- Las atribuciones que esta Ley otorga a la Federación, serán ejercidas por el Poder
+Ejecutivo Federal a través de la Secretaría, salvo las que directamente correspondan al Presidente de la
+República por disposición expresa de la ley.
 Cuando, por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública
 Federal u otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias, la
 Secretaría ejercerá sus atribuciones en coordinación con las mismas.
@@ -325,23 +339,23 @@ para proteger las especies acuáticas que así lo requieran, y establecerá las 
 XIII. Proponer al titular del Ejecutivo Federal el presupuesto destinado al sector pesca y acuacultura,
 que deberá incluir al menos los siguientes programas: fortalecimiento de la cadena productiva,
 ordenamiento pesquero, organización y capacitación, investigación e infraestructura;
+
+7 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 XIV. Regular y fijar el conjunto de instrumentos, artes, equipos, métodos, personal y técnicas de
 pesca;
 XV. Fomentar y promover las actividades pesqueras y acuícolas y el desarrollo integral de quienes
 participan en dichas actividades;
 XVI. Coordinar y supervisar la operación de los programas de administración y regulación pesquera y
 acuícola;
-
-7 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XVII. Determinar las zonas de captura y cultivo, en aguas interiores y frentes de playa, para la
 recolección de reproductores, así como las épocas y volúmenes a que deberá sujetarse la colecta;
 XVIII. Aprobar, expedir y publicar la Carta Nacional Pesquera y la Carta Nacional Acuícola, y sus
@@ -373,6 +387,16 @@ XXIX. La coordinación con INAPESCA, como organismo público descentralizado res
 investigación científica y tecnológica del sector pesquero y de acuacultura nacional;
 Fracción reformada DOF 07-06-2012
 
+8 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 XXX. Establecer y operar el Sistema Nacional de Información Pesquera y Acuícola y el Registro
 Nacional de Pesca y Acuacultura, así como mantenerlos actualizados en forma permanente, de
 conformidad con las disposiciones legales aplicables;
@@ -381,17 +405,6 @@ Pública Federal y celebrar acuerdos de concertación de acciones con los sector
 ejecución de programas y proyectos de fomento y desarrollo de las actividades pesqueras y acuícolas;
 XXXII. Celebrar convenios o acuerdos de coordinación y colaboración con los gobiernos de las
 entidades federativas, en los términos de la presente Ley;
-
-8 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XXXIII. Promover, en coordinación con las instancias correspondientes de la administración pública, el
 consumo de productos pesqueros y acuícolas;
 XXXIV. Promover la inclusión de proyectos de inversión en obra pública a la cartera de programas y
@@ -411,12 +424,15 @@ Fracción reformada DOF 23-01-2014
 
 XL. Promover, regular, dirigir e implementar la ejecución de acciones de mitigación y adaptación al
 cambio climático en materia de pesca y acuacultura sustentables, en concordancia con la Política
-Nacional de Pesca y Acuacultura Sustentables, y
-Fracción adicionada DOF 23-01-2014
+Nacional de Pesca y Acuacultura Sustentables;
+Fracción adicionada DOF 23-01-2014. Reformada DOF 24-04-2018
 
-XLI. Las demás que expresamente le atribuya esta ley, sus disposiciones reglamentarias, las normas
+XLI. Otorgar el Premio a la Pesca y Acuacultura Sustentables, y
+Fracción adicionada DOF 24-04-2018
+
+XLII. Las demás que expresamente le atribuya esta ley, sus disposiciones reglamentarias, las normas
 oficiales, así como las demás disposiciones aplicables.
-Fracción reformada y recorrida DOF 23-01-2014
+Fracción reformada y recorrida DOF 23-01-2014. Recorrida DOF 24-04-2018
 
 ARTÍCULO 9o.- De acuerdo con lo previsto en la Ley Orgánica de la Administración Pública Federal,
 la SEMARNAT se coordinará con la Secretaría para el cumplimiento de los objetivos previstos en la
@@ -425,6 +441,17 @@ ambiente, particularmente, en los siguientes aspectos:
 I. En áreas naturales protegidas, de acuerdo con la declaratoria de creación o el programa de manejo,
 emitir recomendaciones sustentadas, fundadas y motivadas, sobre los permisos y concesiones de pesca
 y acuacultura que se pretendan otorgar, así como los volúmenes de pesca incidental;
+
+9 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 II. En el ámbito de su competencia llevar a cabo la inspección y vigilancia de las actividades
 pesqueras y acuícolas y coordinarse con la Secretaría o la Secretaría de Marina, de conformidad con las
 disposiciones legales aplicables;
@@ -433,17 +460,6 @@ ecosistemas costeros, lagunarios y de aguas interiores, en los términos estable
 del Equilibrio Ecológico y la Protección al Ambiente;
 IV. Participar en la formulación del proyecto de Carta Nacional Pesquera, en los términos establecidos
 en esta Ley y demás ordenamientos aplicables; y
-
-9 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 V. Dictar las medidas tendientes a la protección de los quelonios, mamíferos marinos y especies
 acuáticas sujetas a un estado especial de protección y determinarlas con la participación de la Secretaría
 y otras dependencias competentes. Asimismo, establecerá las vedas, totales o parciales, referentes a
@@ -468,11 +484,25 @@ CAPÍTULO II
 DE LA COORDINACIÓN
 ARTÍCULO 11.- Para la consecución de los objetivos de la presente Ley, la Secretaría podrá celebrar
 convenios o acuerdos de coordinación con los gobiernos de las entidades federativas, con el objeto de
-que éstas, con la participación, en su caso, de sus municipios, asuman las siguientes funciones:
+que éstas, con la participación, en su caso, de sus municipios y, en su caso, las demarcaciones
+territoriales de la Ciudad de México, asuman las siguientes funciones:
+Párrafo reformado DOF 19-01-2018
+
 I. La administración de los permisos para la realización de pesca deportivo-recreativa;
 II. La administración sustentable de las especies sésiles que se encuentren en los sistemas lagunarios
 estuarinos y en el mar territorial frente a sus costas, que se determinen previamente en la Carta Nacional
 Pesquera y en la Carta Nacional Acuícola;
+
+10 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 III. La administración de la pesca en cuerpos de agua que sirvan de límite a dos Entidades
 Federativas, o que pasen de una a otra, que comprenderá además las funciones de inspección y
 vigilancia;
@@ -482,17 +512,8 @@ ordenamiento, o
 VI. La inspección y vigilancia del cumplimiento de esta Ley y demás disposiciones que de ella deriven.
 ARTÍCULO 12.- Los convenios y acuerdos de coordinación que suscriba la Federación, por conducto
 de la Secretaría, con los gobiernos de las entidades federativas, con la participación, en su caso, de sus
-municipios y el Distrito Federal deberán sujetarse a lo siguiente:
-
-10 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
+municipios y las demarcaciones territoriales de la Ciudad de México deberán sujetarse a lo siguiente:
+Párrafo reformado DOF 19-01-2018
 
 I. Establecer su objeto con precisión, las materias y facultades que se asumirán, que deberán ser
 acordes con la política nacional de pesca y acuacultura sustentables;
@@ -514,12 +535,28 @@ DE LA CONCURRENCIA
 ARTÍCULO 13.- Corresponden a los gobiernos de las Entidades Federativas, en el ámbito de su
 competencia de conformidad con lo dispuesto en esta Ley y lo que establezcan las leyes locales en la
 materia, las siguientes facultades:
+Párrafo reformado DOF 19-01-2018
+
 I. Diseñar y aplicar la política, los instrumentos y los programas para la pesca y la acuacultura estatal,
 en concordancia con la Política Nacional de Pesca y Acuacultura Sustentables, vinculándolos con los
-programas nacionales, sectoriales y regionales, así como con su respectivo Plan Estatal de Desarrollo;
+programas nacionales, sectoriales y regionales, así como con su respectivo Plan de Desarrollo de la
+entidad federativa;
+Fracción reformada DOF 19-01-2018
+
 II. Formular y ejercer la política local de inspección y vigilancia pesquera y acuícola en el marco del
 Convenio específico signado con la Secretaría en estas materias y participar de conformidad con los
 acuerdos y convenios que se celebren con la Federación en las acciones de prevención y combate a la
+
+11 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 pesca ilegal, así como en la formulación y evaluación del Programa Integral de Inspección y Vigilancia
 para el Combate a la Pesca Ilegal;
 III. Celebrar convenios o acuerdos de coordinación y colaboración con el gobierno federal en materia
@@ -527,28 +564,23 @@ de pesca y acuacultura;
 IV. Participar con las dependencias competentes de la Administración Pública Federal en la
 elaboración de planes de manejo y de normas oficiales de conformidad con la Ley Federal sobre
 Metrología y Normalización y otras disposiciones aplicables;
-V. Integrar el Consejo Estatal de Pesca y Acuacultura para promover la participación activa de las
-comunidades y los productores en la administración y manejo de los recursos pesqueros y acuícolas y
-participar en la operación del Fondo Mexicano para el Desarrollo Pesquero y Acuícola;
-VI. Establecer, operar y mantener actualizado el Sistema Estatal de Información Pesquera y Acuícola
-y participar en la integración del Sistema Nacional de Información Pesquera y Acuícola, de conformidad
-con las disposiciones legales aplicables, así como integrar y operar el sistema estadístico pesquero y
-acuícola estatal y proporcionar la información estadística local a las autoridades federales competentes
-para actualizar la Carta Nacional Pesquera y la Carta Nacional Acuícola;
+V. Integrar el Consejo de Pesca y Acuacultura de la entidad federativa para promover la participación
+activa de las comunidades y los productores en la administración y manejo de los recursos pesqueros y
+acuícolas y participar en la operación del Fondo Mexicano para el Desarrollo Pesquero y Acuícola;
+Fracción reformada DOF 19-01-2018
 
-11 de 59
+VI. Establecer, operar y mantener actualizado el Sistema de la entidad federativa de Información
+Pesquera y Acuícola y participar en la integración del Sistema Nacional de Información Pesquera y
+Acuícola, de conformidad con las disposiciones legales aplicables, así como integrar y operar el sistema
+estadístico pesquero y acuícola estatal y proporcionar la información estadística local a las autoridades
+federales competentes para actualizar la Carta Nacional Pesquera y la Carta Nacional Acuícola;
+Fracción reformada DOF 19-01-2018
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+VII. Establecer, operar y mantener actualizado el Registro de la entidad federativa de Pesca y
+Acuacultura con carácter público y participar en la integración del Registro Nacional de Pesca y
+Acuacultura, de conformidad con las disposiciones legales aplicables;
+Fracción reformada DOF 19-01-2018
 
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
-VII. Establecer, operar y mantener actualizado el Registro Estatal de Pesca y Acuacultura con carácter
-público y participar en la integración del Registro Nacional de Pesca y Acuacultura, de conformidad con
-las disposiciones legales aplicables;
 VIII. Promover y apoyar la construcción, mejora y equipamiento de embarcaciones y artes de pesca,
 así como la creación y operación de esquemas de financiamiento adecuados para el desarrollo integral
 de la actividad pesquera y acuícola;
@@ -567,6 +599,17 @@ XV. En los cuerpos de agua dulce continental a que se refiere el párrafo quinto
 Constitución Política de los Estados Unidos Mexicanos, con excepción de las aguas continentales que
 abarquen dos o más entidades federativas, las que pasen de una a otra, y las transfronterizas sujetas a la
 jurisdicción federal:
+
+12 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 a) Administrar las actividades de pesca y acuacultura que se realicen en zonas y bienes de su
 competencia;
 b) Expedir, de acuerdo a sus respectivas legislaciones, las autorizaciones que correspondan;
@@ -582,69 +625,72 @@ elaboración de normas oficiales y planes de manejo relativos al aprovechamiento
 de los recursos pesqueros y acuícolas;
 XVI. El ejercicio de las funciones que les transfiera la Federación, conforme a lo dispuesto por la
 presente Ley;
-
-12 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Fracción reformada DOF 23-01-2014
 
-XVII. Coordinarse con la Federación, sus Municipios y con otras Entidades Federativas en materia de
-pesca y acuacultura sustentables, para la implementación de acciones para la mitigación y adaptación al
-cambio climático, y
-Fracción adicionada DOF 23-01-2014
+XVII. Coordinarse con la Federación, con otras Entidades Federativas, con sus Municipios o, en su
+caso, con las demarcaciones territoriales de la Ciudad de México en materia de pesca y acuacultura
+sustentables, para la implementación de acciones para la mitigación y adaptación al cambio climático, y
+Fracción adicionada DOF 23-01-2014. Reformada DOF 19-01-2018
 
 XVIII. Las demás que no estén otorgadas expresamente a la Federación.
 Fracción recorrida DOF 23-01-2014
 
-ARTÍCULO 14.- Corresponden a los Municipios en el ámbito de su competencia y de conformidad con
-lo dispuesto en esta Ley y lo que establezcan las leyes locales en la materia, las siguientes facultades:
-I. Diseñar y aplicar la política y los programas municipales para la pesca y la acuacultura,
-vinculándolos con los programas nacionales, estatales y regionales;
-II. Participar en la integración del Sistema Estatal de Información Pesquera y Acuícola y del Registro
-Estatal de Pesca y Acuacultura;
+ARTÍCULO 14.- Corresponden a los Municipios en el ámbito de su competencia y, en su caso, a las
+demarcaciones territoriales de la Ciudad de México, y de conformidad con lo dispuesto en esta Ley y lo
+que establezcan las leyes locales en la materia, las siguientes facultades:
+Párrafo reformado DOF 19-01-2018
+
+I. Diseñar y aplicar la política y los programas locales para la pesca y la acuacultura, vinculándolos
+con los programas nacionales, de las entidades federativas y regionales;
+Fracción reformada DOF 19-01-2018
+
+II. Participar en la integración del Sistema de Información Pesquera y Acuícola y del Registro de
+Pesca y Acuacultura, ambos de la entidad federativa;
+Fracción reformada DOF 19-01-2018
+
 III. Promover mecanismos de participación pública en el manejo y conservación de los recursos
 pesqueros y acuícolas;
-IV. Proponer a través del Consejo Estatal de Pesca y Acuacultura, métodos y medidas para la
-conservación de los recursos pesqueros y la repoblación de las áreas de pesca;
+IV. Proponer a través del Consejo de Pesca y Acuacultura de la entidad federativa, métodos y
+medidas para la conservación de los recursos pesqueros y la repoblación de las áreas de pesca;
+Fracción reformada DOF 19-01-2018
+
 V. Participar en la formulación de los programas de ordenamiento pesquero y acuícola;
-VI. En coordinación con el gobierno estatal, participar en las acciones de sanidad acuícola, en los
-términos de esta Ley y de la legislación local;
+
+13 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+VI. En coordinación con el gobierno de la entidad federativa, participar en las acciones de sanidad
+acuícola, en los términos de esta Ley y de la legislación local;
+Fracción reformada DOF 19-01-2018
+
 VII. Promover y fomentar la actividad acuícola, en armonía con la preservación del ambiente y la
 conservación de la biodiversidad; y
 VIII. Participar, de conformidad con los acuerdos y convenios que se celebren con las autoridades
 competentes, en la inspección y vigilancia en su jurisdicción.
-ARTÍCULO 15.- Los Congresos de los Estados, con arreglo a sus respectivas Constituciones y la
-Asamblea Legislativa del Distrito Federal, expedirán las disposiciones legales que sean necesarias para
-regular las materias de su competencia previstas en esta Ley. Los ayuntamientos, por su parte, dictarán
-los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas que
-correspondan, para que en sus respectivas circunscripciones, se cumplan las previsiones del presente
-ordenamiento.
-En el ejercicio de sus atribuciones, los Estados, el Distrito Federal y los Municipios, observarán las
-disposiciones de esta Ley y las que de ella se deriven.
+ARTÍCULO 15.- Las legislaturas de las entidades federativas, con arreglo a sus respectivas
+Constituciones, expedirán las disposiciones legales que sean necesarias para regular las materias de su
+competencia previstas en esta Ley. Los ayuntamientos, por su parte, dictarán los bandos de policía y
+buen gobierno, los reglamentos, circulares y disposiciones administrativas que correspondan, para que,
+en sus respectivas circunscripciones, se cumplan las previsiones del presente ordenamiento y, en su
+caso, las demarcaciones territoriales de la Ciudad de México.
+En el ejercicio de sus atribuciones, las entidades federativas, los municipios y, en su caso, las
+demarcaciones territoriales de la Ciudad de México, observarán las disposiciones de esta Ley y las que
+de ella se deriven.
+Artículo reformado DOF 19-01-2018
+
 ARTÍCULO 16.- Las contribuciones que por el aprovechamiento de los recursos pesqueros y
 acuícolas se generen, así como los que se obtengan por el otorgamiento de concesiones o permisos y
 por cualquier otro concepto relacionado con esta actividad y cuya administración se efectúe por los
 gobiernos locales, ingresarán a sus haciendas públicas, con base en lo señalado en la Ley de
 Coordinación Fiscal, y deberán aplicarse en los programas relacionados con el sector pesquero y
 acuícola.
-
-13 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Los convenios y acuerdos de coordinación deberán publicarse en el Diario Oficial de la Federación y
 en el órgano de difusión oficial del gobierno local respectivo.
 
@@ -664,6 +710,17 @@ nación;
 III. Que el aprovechamiento de los recursos pesqueros y acuícolas, su conservación, restauración y la
 protección de los ecosistemas en los que se encuentren, sea compatible con su capacidad natural de
 recuperación y disponibilidad;
+
+14 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 IV. Que la investigación científica y tecnológica se consolide como herramienta fundamental para la
 definición e implementación de políticas, instrumentos, medidas, mecanismos y decisiones relativos a la
 conservación, restauración, protección y aprovechamiento sustentable de los recursos pesqueros y
@@ -676,7 +733,10 @@ ofrecer opciones de empleo en el medio rural, incrementar la producción pesquer
 alimentos que mejoren la dieta de la población mexicana, así como la generación de divisas;
 VI. El ordenamiento de la acuacultura a través de programas que incluyan la definición de sitios para
 su realización, su tecnificación, diversificación, buscando nuevas tecnologías que reduzcan los impactos
-ambientales y que permitan ampliar el número de especies nativas que se cultiven;
+ambientales y que permitan ampliar el número de especies nativas que se cultiven, dando prioridad en
+todo momento al cultivo de especies nativas sobre las especies exóticas;
+Fracción reformada DOF 05-12-2014
+
 VII. El uso de artes y métodos de pesca selectivos y de menor impacto ambiental, a fin de conservar y
 mantener la disponibilidad de los recursos pesqueros, la estructura de las poblaciones, la restauración de
 los ecosistemas costeros y acuáticos, así como, la calidad de los productos de la pesca;
@@ -685,23 +745,52 @@ encuentran las autoridades administrativas competentes en materia de pesca y acu
 enfoque precautorio que incluya la definición de límites de captura y esfuerzo aplicables, así como la
 evaluación y monitoreo del impacto de la actividad pesquera sobre la sustentabilidad a largo plazo de las
 poblaciones;
-IX. La transparencia en los procedimientos administrativos relativos al otorgamiento de concesiones y
-permisos para realizar actividades pesqueras y acuícolas, así como en las medidas para el control del
+IX. Posicionar los productos pesqueros y acuícolas nacionales en los mercados de alto valor,
+garantizando la eficiencia y sanidad a lo largo de la cadena productiva, dándoles valor agregado;
+Fracción adicionada DOF 17-03-2015
 
-14 de 59
+X. Impulsar el establecimiento de una cultura de inocuidad en el manejo, distribución y
+comercialización de productos pesqueros y acuícolas;
+Fracción adicionada DOF 17-03-2015
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+XI. Los sectores pesquero y acuícola se desarrollarán desde una perspectiva sostenible, que integre y
+concilie los factores económicos, sociales y ambientales, a través de un enfoque estratégico y
+ecoeficiente;
+Fracción adicionada DOF 17-03-2015
+
+XII. Transversalidad para la instrumentación de políticas públicas con enfoque interdisciplinario para el
+fortalecimiento y desarrollo de una cultura empresarial pesquera y acuícola, orientada a toda la cadena
+productiva, que aumente la productividad y mejore la competitividad;
+Fracción adicionada DOF 17-03-2015
+
+XIII. Impulso regional equilibrado y equitativo, que priorice el desarrollo de las comunidades y pueblos
+indígenas;
+Fracción adicionada DOF 17-03-2015
+
+XIV. Financiamiento para el desarrollo e innovación tecnológica y científica, modernización de la flota
+pesquera, unidades de cultivo, técnicas ecoeficientes, plantas procesadoras, métodos y artes de captura;
+Fracción adicionada DOF 17-03-2015
+
+15 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+XV. La transparencia en los procedimientos administrativos relativos al otorgamiento de concesiones y
+permisos para realizar actividades pesqueras y acuícolas, así como en las medidas para el control del
 esfuerzo pesquero, para que sean eficaces e incorporen mecanismos de control accesibles a los
 productores, y
-X. La participación, consenso y compromiso de los productores y sus comunidades en la
+Fracción recorrida DOF 17-03-2015
+
+XVI. La participación, consenso y compromiso de los productores y sus comunidades en la
 corresponsabilidad de aprovechar de forma integral y sustentable los recursos pesqueros y acuícolas.
+Fracción recorrida DOF 17-03-2015
+
 ARTÍCULO 18.- Las entidades federativas y los municipios en el ámbito de sus competencias,
 observarán y aplicarán los principios a que se refiere el artículo anterior.
 ARTÍCULO 19.- En la planeación nacional del desarrollo se deberá incorporar la política nacional de
@@ -732,29 +821,38 @@ VI. Investigación científica y tecnológica orientada a incrementar la capacid
 pesquera;
 VII. Programas que fomenten la pesca de los habitantes de las comunidades indígenas, utilizando sus
 artes y métodos de pesca tradicionales;
-VIII. Estudios para identificar los cuerpos de agua susceptibles de ser restaurados para la
-recuperación de los ecosistemas y, por ende, el incremento de la producción;
-IX. Mecanismos específicos para el impulso a la producción, comercialización y consumo en la
-población nacional;
 
-15 de 59
+16 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+VIII. Estudios para identificar los cuerpos de agua susceptibles de ser restaurados para la
+recuperación de los ecosistemas y, por ende, el incremento de la producción;
+IX. Mecanismos específicos para el impulso a la producción, comercialización y consumo en la
+población nacional;
 X. Programas que promuevan proyectos de infraestructura productiva y social que fomenten el
 desarrollo de las comunidades pesqueras;
 XI. Planes de manejo pesquero y de acuacultura publicados por la autoridad correspondiente;
 XII. Programas que impulsen el desarrollo de la investigación científica y tecnológica para la
 diversificación productiva y el aprovechamiento de la acuacultura de especies nativas;
 XIII. Programas que promuevan la acuacultura rural e industrial, así como la reconversión productiva
-como una alternativa de desarrollo, y
-XIV. El Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal.
+como una alternativa de desarrollo;
+Fracción reformada DOF 10-11-2014
+
+XIV. El Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal, y
+Fracción reformada DOF 10-11-2014
+
+XV. Apoyos a los pescadores y acuacultores que se dediquen de manera legal y sustentable a la
+captura y al cultivo de los recursos pesqueros y acuícolas en aguas nacionales, tanto marinas como
+continentales.
+Fracción adicionada DOF 10-11-2014
+
 ARTÍCULO 21.- Para las acciones de inspección y vigilancia, la Secretaría, con la participación que
 corresponda a la Secretaría de Marina, tendrá como función primordial la salvaguarda de los recursos
 pesqueros y acuícolas, así como la prevención de infracciones administrativas.
@@ -779,6 +877,17 @@ recursos y funciones, el Consejo Nacional de Pesca y Acuacultura se convertirá 
 de apoyo, coordinación, consulta, concertación y asesoría, que será convocado cuando menos una vez al
 año y será presidido por el titular de la Secretaría con la colaboración de CONAPESCA, que tendrá como
 objeto proponer las políticas, programas, proyectos e instrumentos tendientes al apoyo, fomento,
+
+17 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 productividad, regulación y control de las actividades pesqueras y acuícolas, así como a incrementar la
 competitividad de los sectores productivos.
 El Consejo estará conformado por representantes de las dependencias y entidades de la
@@ -789,17 +898,6 @@ país, y participará en el Comité Mixto del Fondo Mexicano para el Desarrollo 
 ARTÍCULO 23.- La Secretaría promoverá la integración de Consejos Estatales de Pesca y
 Acuacultura en las entidades federativas del país. La Secretaría podrá solicitar al Consejo Estatal de que
 se trate, opiniones y observaciones técnicas respecto de las solicitudes de aprovechamiento de recursos
-
-16 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 pesqueros y acuícolas, previamente a que sean resueltas. El Consejo correspondiente contará con
 quince días hábiles para emitir su opinión.
 
@@ -831,6 +929,17 @@ c. La construcción, mejora y equipamiento de embarcaciones y de artes de pesca 
 ambientalmente seguras, mediante el apoyo a programas de sustitución y modernización de las mismas;
 d. La construcción de infraestructura portuaria pesquera, así como el mejoramiento de la
 infraestructura existente;
+
+18 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 e. La investigación científica y tecnológica en pesca y acuacultura;
 f. La elaboración coordinada de programas de industrialización, comercialización y consumo de
 productos pesqueros y acuícolas, tendientes a fortalecer las redes de valor de los productos generados
@@ -838,17 +947,6 @@ por la pesca y la acuacultura, mediante acciones de apoyo y difusión;
 g. La organización económica de los productores y demás agentes relacionados al sector, a través de
 mecanismos de comunicación, concertación y planeación;
 h. La realización de obras de rehabilitación ambiental en sistemas lagunarios costeros;
-
-17 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 i. La aplicación de estímulos fiscales, económicos y de apoyo financiero necesarios para el desarrollo
 productivo y competitivo de la pesca y la acuacultura. Para estos efectos, la Secretaría se coordinará con
 las dependencias y entidades competentes, además de observar y aplicar lo dispuesto en la Ley de
@@ -878,6 +976,17 @@ para facilitar la obtención de los permisos que se requieran para la pesca depo
 el pago de los derechos correspondientes.
 
 CAPÍTULO II
+
+19 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 DEL FONDO MEXICANO PARA EL DESARROLLO PESQUERO Y ACUÍCOLA PROMAR
 ARTÍCULO 26.- El Fondo Mexicano para el Desarrollo Pesquero y Acuícola, PROMAR, será el
 instrumento para promover la creación y operación de esquemas de financiamiento para la conservación,
@@ -888,24 +997,15 @@ desarrollando los mecanismos adecuados, así como para garantizar a las instituc
 banca de desarrollo, Financiera Rural o a los Intermediarios Financieros Rurales que operen con el
 Fondo, la recuperación de los créditos que se otorguen a las organizaciones de productores pesqueros y
 acuícolas.
-
-18 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 El Fondo Mexicano para el Desarrollo Pesquero y Acuícola, operará a través de un Comité Mixto, en
 el habrá una representación equilibrada y proporcionada del sector público federal, las entidades
 federativas, así como de las organizaciones privadas y sociales de productores pesqueros y acuícolas.
 La existencia del fondo no limita la creación de diversos fondos privados o sociales que tengan una
 relación directa con el desarrollo pesquero y acuícola.
 ARTÍCULO 27.- El Fondo Mexicano para el Desarrollo Pesquero y Acuícola se podrá integrar con:
-I. Las aportaciones que efectúen los gobiernos federal, estatales, del Distrito Federal y municipales;
+I. Las aportaciones que efectúen los gobiernos federal, de las entidades federativas y municipales;
+Fracción reformada DOF 19-01-2018
+
 II. Créditos y apoyos de organismos nacionales e internacionales;
 III. Las aportaciones y donaciones de personas físicas o morales de carácter privado, mixto,
 nacionales e internacionales;
@@ -926,6 +1026,17 @@ a la conservación, protección, restauración y aprovechamiento sustentable de 
 acuícolas;
 II. Incrementar la capacidad para identificar, cuantificar, aprovechar, administrar, transformar,
 conservar e incrementar las especies pesqueras y acuícolas;
+
+20 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 III. Promover el diseño de nuevas artes y métodos de pesca selectivos y ambientalmente seguros;
 IV. Establecer procedimientos de evaluación para determinar el estado de las pesquerías del país;
 V. Brindar elementos para determinar las condiciones en que deben realizarse la pesca y los cultivos
@@ -933,17 +1044,6 @@ de especies acuícolas, de manera que se lleven a cabo en equilibrio con el medi
 VI. Desarrollar investigación en materia de sanidad e inocuidad acuícola y pesquera, y
 VII. Brindar elementos para el establecimiento de medidas encaminadas a protección de especies
 pesqueras sobreexplotadas.
-
-19 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 ARTÍCULO 29.- El INAPESCA será el órgano administrativo con personalidad jurídica y patrimonio
 propio, encargado de dirigir, coordinar y orientar la investigación científica y tecnológica en materia de
 pesca y acuacultura, así como el desarrollo, innovación y transferencia tecnológica que requiera el sector
@@ -992,13 +1092,24 @@ acuícolas;
 VIII.
 
 Formular estudios y propuestas para el ordenamiento de la actividad pesquera y acuícola en
-coordinación con centros de investigación, universidades, autoridades federales, de los
-gobiernos de las entidades federativas y del Distrito Federal;
+coordinación con centros de investigación, universidades, autoridades federales y de los
+gobiernos de las entidades federativas;
+Fracción reformada DOF 19-01-2018
 
 IX.
 
 Coadyuvar en la realización de análisis de riesgo sobre la introducción, establecimiento y
 diseminación de plagas y enfermedades acuícolas;
+
+21 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 X.
 
@@ -1022,17 +1133,6 @@ Formular y ejecutar programas de adiestramiento y capacitación al sector pesque
 XIV. Difundir sus actividades y los resultados de sus investigaciones, sin perjuicio de los derechos de
 propiedad intelectual y de la información que por su naturaleza deba reservarse conforme a la
 ley de la materia;
-
-20 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XV.
 
 Elaborar los planes de manejo de las actividades pesqueras y acuícolas por recurso o recursos;
@@ -1064,6 +1164,17 @@ conservación de los recursos pesqueros y acuícolas.
 
 CAPÍTULO II
 DE LA CARTA NACIONAL PESQUERA
+
+22 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 ARTÍCULO 32.- La Carta Nacional Pesquera es la presentación cartográfica y escrita que contiene el
 resumen de la información necesaria del diagnóstico y evaluación integral de la actividad pesquera y
 acuícola, así como de los indicadores sobre la disponibilidad y conservación de los recursos pesqueros y
@@ -1075,19 +1186,10 @@ implementación y ejecución de acciones y medidas relacionadas con dichos actos
 La elaboración y actualización de la Carta Nacional Pesquera estará a cargo de la INAPESCA, con la
 participación que le corresponda a las demás unidades administrativas de la Secretaría y las
 contribuciones del sector académico y productivo, que deberán hacerse del conocimiento del Comité
-Asesor Técnico Científico del INAPESCA y deberá publicarse en el Diario Oficial de la Federación
-anualmente y podrán publicarse actualizaciones de las fichas individuales, sin que el total de la Carta
-pierda su validez.
-
-21 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
+Asesor Técnico Científico del INAPESCA y deberá publicarse en el Diario Oficial de la Federación cada
+dos años y podrán publicarse actualizaciones de las fichas individuales, sin que el total de la Carta pierda
+su validez.
+Párrafo reformado DOF 07-12-2022
 
 ARTÍCULO 33.- La Carta Nacional Pesquera, contendrá:
 I. El inventario de los recursos pesqueros que se encuentran en aguas de jurisdicción federal,
@@ -1116,6 +1218,17 @@ atribuciones, para que en un plazo no mayor de treinta días la emitan.
 
 TÍTULO SEXTO
 INSTRUMENTOS DE LA POLÍTICA PESQUERA
+
+23 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 CAPÍTULO I
 DE LOS INSTRUMENTOS
 ARTÍCULO 36.- Para los fines y objetivos de la presente Ley, se reconocen como instrumentos de la
@@ -1125,16 +1238,6 @@ II. Los planes de manejo pesquero; y
 III. Las concesiones y permisos.
 Los instrumentos contenidos en esta Ley, se aplicarán en congruencia con los previstos en otras
 disposiciones legales.
-
-22 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 CAPÍTULO II
 PROGRAMAS DE ORDENAMIENTO PESQUERO
@@ -1159,6 +1262,17 @@ III. La forma en que se organizará la administración del área y los mecanismo
 individuos y comunidades asentadas en la misma;
 IV. Ciclo de captura y estado de aprovechamiento de la pesquería;
 V. Ubicación de las áreas geográficas a que estará sujeto el aprovechamiento;
+
+24 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 VI. Indicadores socioeconómicos de la población dedicada a la pesca en la región y su impacto en la
 misma, y
 VII. Artes y métodos de pesca autorizados.
@@ -1169,17 +1283,6 @@ ARTÍCULO 40.- Requieren concesión las siguientes actividades:
 I. La pesca comercial; y
 II. La acuacultura comercial.
 ARTÍCULO 41.- Requieren permiso las siguientes actividades:
-
-23 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 I. Acuacultura comercial;
 II. Acuacultura de fomento;
 III. Acuacultura didáctica;
@@ -1201,6 +1304,17 @@ mexicanos, por embarcaciones pesqueras extranjeras.
 ARTÍCULO 42.- La Secretaría podrá otorgar concesiones o permisos para la pesca comercial a
 personas físicas o morales de nacionalidad mexicana, previo cumplimiento de los requisitos que se
 establezcan en esta Ley y en las disposiciones reglamentarias.
+
+25 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 La Secretaría podrá otorgar concesiones o permisos a personas físicas o morales para la acuacultura
 comercial, previo cumplimiento de los requisitos que se establezcan en esta Ley y en las disposiciones
 reglamentarias.
@@ -1213,17 +1327,6 @@ dicte el interés público, condicionado siempre a la disponibilidad y preservac
 trate. La Secretaría basará sus decisiones en criterios de equidad social y en la información científica
 disponible del recurso pesquero. Asimismo, se otorgarán preferentemente a los habitantes de las
 comunidades locales, siempre y cuando utilicen artes de pesca autorizadas.
-
-24 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 En igualdad de circunstancias, tendrán preferencia las solicitudes de las comunidades indígenas.
 Cuando la concesión o permiso pueda afectar el hábitat de alguna comunidad indígena la autoridad
 deberá recabar el parecer de los representantes de dicha comunidad.
@@ -1251,6 +1354,17 @@ de tal circunstancia dentro de los cinco días hábiles siguientes a la fecha en
 resolución de la solicitud respectiva, de conformidad con la Ley Federal de Procedimiento Administrativo.
 La falta de resolución a la solicitud podrá implicar responsabilidades a los servidores públicos a
 quienes competa tal resolución, conforme a lo dispuesto en las leyes aplicables.
+
+26 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 ARTÍCULO 46.- Las concesiones o permisos que expida la Secretaría se otorgarán por embarcación
 o unidad de esfuerzo pesquero, según se defina para cada especie, grupo de especies o áreas, en el
 Reglamento de la presente Ley y en las normas oficiales que deriven de la misma.
@@ -1264,17 +1378,6 @@ el propio Reglamento.
 Las demás obligaciones y derechos de los concesionarios y permisionarios, se fijarán en las
 disposiciones reglamentarias que deriven de esta Ley, así como en el título de concesión o permiso
 correspondiente.
-
-25 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 ARTÍCULO 47.- Para el otorgamiento de una concesión de un recurso pesquero por área, especie o
 grupo de especies para la pesca comercial, la Secretaría procederá conforme a lo siguiente:
 I. Evaluará la capacidad técnica, administrativa y financiera del solicitante;
@@ -1298,6 +1401,17 @@ se encuentra en trámite;
 V. Propuesta de manejo de la pesquería o recurso en los términos que señale el reglamento;
 VI. Descripción de las características tecnológicas de la embarcación, equipos y artes de pesca con
 las cuales se pretende llevar a cabo la actividad, y
+
+27 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 VII. Los demás lineamientos que se establezcan en el Reglamento de la presente Ley y demás
 ordenamientos aplicables.
 ARTÍCULO 49.- Las concesiones a que se refiere esta Ley podrán tener una duración de cinco hasta
@@ -1311,17 +1425,6 @@ años, y con base en el dictamen emitido por el Instituto se podrá prorrogar la
 ARTÍCULO 50.- Los titulares de las concesiones podrán ser sustituidos previa autorización expresa
 que otorgue la Secretaría, siempre que se cumplan con los requisitos y condiciones que establezca el
 reglamento de la presente Ley. En el caso del fallecimiento del titular de la concesión, la Secretaría dará
-
-26 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 preferencia para la sustitución, a los designados por el derecho sucesorio aplicable al caso, de
 conformidad con las disposiciones legales aplicables.
 ARTÍCULO 51.- Los permisos de pesca comercial tendrán una duración de dos hasta cinco años, de
@@ -1347,6 +1450,17 @@ V. Descripción de las características tecnológicas de la embarcación, equipo
 cuales se pretende llevar a cabo la actividad, y
 VI. Los demás lineamientos que se establezcan en el Reglamento de la presente Ley y demás
 ordenamientos aplicables.
+
+28 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 ARTÍCULO 53.- Son causas de extinción de las concesiones y permisos: la caducidad, la revocación,
 la nulidad, la terminación del plazo y la declaratoria de rescate por causa de interés público.
 ARTÍCULO 54.- Son causas de caducidad:
@@ -1355,17 +1469,6 @@ II. Suspender, sin causa justificada, la explotación por más de tres meses con
 III. No iniciar la construcción de obras e instalaciones o la adquisición de equipos en los términos y
 plazos convenidos en el permiso o concesión, y
 IV. No concluir las obras e instalaciones en las fechas señaladas.
-
-27 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 En los supuestos anteriores para que no constituyan causa de caducidad, se requiere que el
 interesado someta a consideración de la Secretaría los motivos que lo justifiquen para que ésta los
 califique y resuelva lo conducente.
@@ -1390,6 +1493,17 @@ Federal de Procedimiento Administrativo.
 ARTÍCULO 57.- Las concesiones o permisos a que se refiere esta Ley, se extinguen por terminación
 del plazo para el que se hayan otorgado, sin necesidad de declaración expresa de la Secretaría al
 respecto.
+
+29 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 ARTÍCULO 58.- Los titulares de concesiones o permisos, que incurran en causas de caducidad o
 revocación, no podrán ser titulares de concesiones o permisos, sino transcurridos cuatro años, contados
 a partir de la declaración firme de la caducidad o revocación. Igual tratamiento se dará en los casos de
@@ -1401,16 +1515,6 @@ II. El particular no garantice el mantenimiento de la misma en un plazo basado e
 por el INAPESCA.
 Los titulares de los permisos o concesiones que hubiesen sido rescatados tendrán prelación para el
 acceso a otras pesquerías.
-
-28 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 TÍTULO SÉPTIMO
 DE LA PESCA
@@ -1442,6 +1546,17 @@ esta Ley.
 Los permisos se expedirán por embarcación, por temporada de pesca o por el tiempo que determine
 la Secretaría, que consignará en cada uno de ellos la vigencia, zona de captura, artes y equipos de
 pesca, recurso o recursos pesqueros permitidos y las condiciones de operación.
+
+30 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Tendrán prelación en la captura de dichos excedentes en la zona económica exclusiva, las
 embarcaciones de bandera extranjera que acrediten que su quilla se fabricó en astilleros mexicanos.
 ARTÍCULO 63.- Los interesados en obtener permiso para pescar en altamar o en aguas de
@@ -1454,17 +1569,6 @@ Las cuotas que otorguen al país los gobiernos extranjeros, para el aprovechamie
 sus recursos pesqueros, serán administradas por la Secretaría.
 En caso de que los propios gobiernos permitan a los particulares adquirir directamente licencias,
 permisos o sus equivalentes para pesca comercial, sus titulares, a solicitud de la Secretaría,
-
-29 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 comprobarán que las capturas realizadas se efectuaron al amparo de dichas licencias, permisos o
 equivalentes.
 Los titulares de los permisos para pescar en altamar o en aguas de jurisdicción extranjera, con
@@ -1473,10 +1577,13 @@ términos que establezca el Reglamento de esta Ley.
 ARTÍCULO 64.- La Secretaría podrá otorgar permisos para realizar pesca de fomento a las personas
 que acrediten capacidad técnica y científica para tal fin, en los términos de la presente Ley, de su
 reglamento y de las normas oficiales que al efecto se expidan.
-La Secretaría podrá permitir la pesca de fomento, en el caso de científicos, técnicos e instituciones de
-investigación extranjeros, para lo cual hará del conocimiento de las Secretarías de Relaciones Exteriores
-y de Marina, las peticiones que reciba de extranjeros o de organismos internacionales, sin perjuicio de los
-demás requisitos que deban cumplirse en términos de la legislación aplicable.
+La Secretaría deberá coordinarse con el INAPESCA para que éste emita las opiniones de carácter
+técnico y científicas para permitir la pesca de fomento, en el caso de científicos, técnicos e instituciones
+de investigación extranjeros, para lo cual hará del conocimiento de las Secretarías de Relaciones
+Exteriores y de Marina, las peticiones que reciba de extranjeros o de organismos internacionales, sin
+perjuicio de los demás requisitos que deban cumplirse en términos de la legislación aplicable.
+Párrafo reformado DOF 04-06-2015
+
 ARTÍCULO 65.- La Secretaría podrá otorgar permisos para realizar pesca didáctica a las instituciones
 de enseñanza que desarrollen programas educativos de pesca las cuales deberán informar a la
 Secretaría, acerca del volumen y especies obtenidas, dentro del plazo que se determine en el permiso.
@@ -1490,6 +1597,17 @@ volúmenes de captura incidental que determine dicha autoridad en tales disposic
 considerados como pesca realizada sin concesión o permiso.
 El aprovechamiento de los productos pesqueros obtenidos en la captura incidental se sujetará a las
 normas oficiales que al efecto se expidan, salvo lo previsto en esta Ley para la pesca deportivorecreativa.
+
+31 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 ARTÍCULO 67.- Los permisos para la pesca deportivo-recreativa se expedirán a personas físicas
 nacionales o extranjeras y serán individuales, improrrogables e intransferibles. Requerirán permiso para
 efectuar este tipo de pesca la persona que la realice por sí y los prestadores de servicios a terceros para
@@ -1504,17 +1622,6 @@ base desde la cual se mide el mar territorial.
 No podrán realizarse actividades de pesca distintas a las de investigación, sobre las especies
 destinadas a la pesca deportivo-recreativa en las áreas de reproducción que establezca la Secretaría
 mediante disposiciones reglamentarias.
-
-30 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 ARTÍCULO 69.- Las personas que practiquen la pesca deportivo-recreativa desde tierra no requerirán
 permiso, y estarán obligados a utilizar las artes de pesca y respetar las tallas mínimas y límites de
 captura que autorice la Secretaría conforme a las disposiciones que para tal efecto se emitan.
@@ -1539,6 +1646,17 @@ Las cantidades permitidas por pesquería o especie se especificarán en el regla
 Ley, y en las normas correspondientes.
 
 CAPÍTULO II
+
+32 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 DE LOS PERMISOS PARA DESCARGAR EN PUERTOS EXTRANJEROS Y TRANSBORDAR
 ESPECIES CAPTURADAS POR EMBARCACIONES PESQUERAS DE BANDERA
 MEXICANA
@@ -1554,17 +1672,6 @@ congelados provenientes de la pesca comercial. Para ello los interesados deberá
 el título correspondiente al amparo del cual se realizó la actividad pesquera, expedido por la autoridad
 competente del país de origen, y cumplir con los demás requisitos que se establezcan en el reglamento
 de esta Ley.
-
-31 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 En los casos de emergencia, contingencias climáticas y averías en las embarcaciones se estará a lo
 dispuesto en el Reglamento de la presente Ley.
 
@@ -1592,6 +1699,17 @@ que se realice por vía terrestre, marítima o aérea en cualquier parte del ter
 
 TÍTULO NOVENO
 DE LA ACUACULTURA
+
+33 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 CAPÍTULO I
 DE LA PLANEACIÓN PARA EL DESARROLLO Y DEL ORDENAMIENTO ACUÍCOLA
 ARTÍCULO 78.- En materia de acuacultura, son objetivos de esta Ley:
@@ -1599,34 +1717,54 @@ I. Fomentar el desarrollo de la acuacultura como una actividad productiva que pe
 diversificación pesquera, para ofrecer opciones de empleo en el medio rural;
 II. Incrementar la producción acuícola y la oferta de alimentos que mejoren la dieta de la población
 mexicana, así como generar divisas;
+II Bis. Fortalecer el programa de acuacultura rural, que atienda la demanda alimentaria de las
+comunidades de escasos recursos, se mejore el ingreso de las mismas y se incentive el arraigo en la
+localidad;
+Fracción adicionada DOF 05-12-2014
+
+II Ter. Fortalecer los programas de capacitación de acuacultura rural, para los productos de
+localidades rurales;
+Fracción adicionada DOF 05-12-2014
+
 III. Promover la definición de sitios para su realización, su tecnificación y diversificación, orientándola
 para incrementar su eficiencia productiva reduciendo los impactos ambientales y buscando nuevas
 tecnologías que permitan ampliar el número de especies que se cultiven;
 IV. Impulsar el desarrollo de las actividades acuícolas para revertir los efectos de sobreexplotación
 pesquera;
-
-32 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 V. Aprovechar de manera responsable, integral y sustentable recursos acuícolas, para asegurar su
-producción óptima y su disponibilidad; y
-VI. Fomentar y promover la calidad y la diversidad de los recursos acuícolas.
+producción óptima y su disponibilidad;
+Fracción reformada DOF 05-12-2014
+
+VI. Fomentar y promover la calidad y la diversidad de los recursos acuícolas, y
+Fracción reformada DOF 05-12-2014
+
+VII. Fomentar la transferencia y uso de tecnología en los procesos de producción acuícola en
+poblaciones rurales y de escasos recursos.
+Fracción adicionada DOF 05-12-2014
+
 ARTÍCULO 79.- La Secretaría, regulará el crecimiento ordenado de la acuacultura, atendiendo
 principalmente a las áreas o zonas con potencial para desarrollar esta actividad, mediante la expedición
 de concesiones o permisos por especie o grupos de especies.
 ARTÍCULO 80.- El Programa Nacional de Acuacultura, como parte del Programa Nacional de Pesca y
 Acuacultura se sujetará a las previsiones del Plan Nacional de Desarrollo y contemplará la concurrencia
-que en materia de acuacultura lleven a cabo la Federación, las Entidades Federativas, el Distrito Federal
-y los Municipios, de acuerdo a la distribución de competencias establecidas en esta Ley.
+que en materia de acuacultura lleven a cabo la Federación, las Entidades Federativas, los Municipios y,
+en su caso, las demarcaciones territoriales de la Ciudad de México, de acuerdo a la distribución de
+competencias establecidas en esta Ley.
+Artículo reformado DOF 19-01-2018
+
 ARTÍCULO 81.- La planeación y regulación del ordenamiento acuícola, se llevará a cabo a través de:
 I. El Programa Nacional de Acuacultura y la Carta Nacional Acuícola;
+
+34 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 II. Los programas estatales de acuacultura;
 III. Los planes de ordenamiento acuícola, y
 IV. Los programas de desarrollo de la acuacultura derivados de los señalados en las fracciones
@@ -1634,10 +1772,16 @@ anteriores.
 La Federación y las Entidades Federativas, en los términos de la presente Ley, podrán convenir
 acciones que propicien el ordenamiento territorial de los desarrollos acuícolas ubicados en aguas
 continentales.
-ARTÍCULO 82.- Para regular e inducir las actividades de acuacultura llevadas a cabo en una región
-del país, con el propósito de garantizar la productividad, la funcionalidad y sustentabilidad del medio
-natural, las entidades federativas podrán establecer planes regionales de acuacultura, como instrumentos
-de planeación, conforme a las disposiciones de la presente Ley.
+ARTÍCULO 82.- Para regular e inducir las actividades de acuacultura llevadas a cabo en las distintas
+regiones del país, con el propósito de garantizar la productividad, la funcionalidad y la protección del
+medio natural, las entidades federativas deberán establecer planes de desarrollo regional en la materia
+con el apoyo del Gobierno Federal, que fungirán como instrumentos de planeación, conforme a las
+disposiciones de la presente Ley.
+Dichos planes deberán contemplar como eje rector la orientación de la acuacultura bajo un esquema
+de producción sustentable, cuidando la conservación y cultivo de especies endémicas. En los planes se
+establecerán metas cuantificables en períodos de tres a seis años, que permitan observar el crecimiento
+en la producción de especies nativas y su impacto en los mercados regionales.
+Artículo reformado DOF 05-12-2014
 
 CAPÍTULO II
 DE LA CARTA NACIONAL ACUÍCOLA
@@ -1652,20 +1796,24 @@ ARTÍCULO 84.- La Carta Nacional Acuícola deberá contener, al menos, la siguie
 I. El inventario de las especies acuícolas susceptibles de reproducción y cultivo;
 II. Caracterización de las zonas por su vocación y potencial de cultivo;
 III. Análisis de capacidad instalada por región;
+IV. Las especificaciones respecto al dominio de la tecnología para la reproducción y cultivo de las
+especies acuícolas;
+V. Los planes de ordenamiento acuícola, los cuales irán acompañados de especificaciones sobre los
+sistemas de información geográfica y programas de monitoreo ambiental empleados en su elaboración.
+Los programas de monitoreo ambiental deberán arrojar información, de ser el caso, del impacto sobre los
+ecosistemas de la pesca selectiva, de la introducción de fauna exótica y de la monoexplotación;
+Fracción reformada DOF 05-12-2014
 
-33 de 59
+35 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-IV. Las especificaciones respecto al dominio de la tecnología para la reproducción y cultivo de las
-especies acuícolas;
-V. Los planes de ordenamiento acuícola;
 VI. Las normas aplicables a aspectos de conservación, protección y/o aprovechamiento de los
 recursos acuícolas, incluyendo las relativas a la sanidad, calidad e inocuidad de los productos acuícolas;
 VII. Estadísticas de producción, y
@@ -1700,22 +1848,22 @@ Fracción reformada DOF 23-01-2014
 
 XI. Acciones de mitigación y adaptación a realizar ante la vulnerabilidad actual y futura del cambio
 climático, en concordancia con el Atlas Nacional de Riesgo.
-
-34 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Fracción adicionada DOF 23-01-2014
 
 ARTÍCULO 87.- Las auditorías técnicas preventivas tendrán la finalidad de determinar el grado de
 cumplimiento de la normatividad y de los planes de manejo respectivos por parte de los acuacultores. La
 Secretaría, emitirá un dictamen que haga constar el adecuado cumplimiento de la legislación en la
+
+36 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 materia y de los planes de manejo y, en su caso, hará las recomendaciones sobre las medidas
 preventivas y correctivas necesarias, para garantizar una actividad sustentable.
 ARTÍCULO 88.- La Federación y las Entidades Federativas en el ámbito de sus respectivas
@@ -1747,19 +1895,19 @@ IV. Acreditar su inscripción en el Registro Nacional de Pesca y Acuacultura o c
 se encuentra en trámite.
 ARTÍCULO 91.- La Secretaría podrá otorgar concesión para la acuacultura comercial en aguas de
 jurisdicción federal a personas físicas o morales, a solicitud del interesado y previo cumplimiento de los
+requisitos que se establezcan en el reglamento de esta Ley. Lo anterior sin perjuicio de lo establecido en
+otras disposiciones jurídicas aplicables.
 
-35 de 59
+37 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-requisitos que se establezcan en el reglamento de esta Ley. Lo anterior sin perjuicio de lo establecido en
-otras disposiciones jurídicas aplicables.
 ARTÍCULO 92.- Las personas que realicen actividades de acuacultura, deberían presentar a la
 Secretaría los avisos de cosecha, producción y recolección, en la forma y términos que determine el
 reglamento de esta Ley.
@@ -1797,20 +1945,20 @@ I. Propietarios de laboratorios de producción acuícola, únicamente para satis
 operación, hasta la segunda corrida de producción, y
 II. Concesionarios de la pesca comercial de la especie de que se trate, que cumplan con los requisitos
 y condiciones que se establezcan en el reglamento de esta Ley y demás disposiciones aplicables.
+ARTÍCULO 98.- Aquellas personas que recolecten organismos del medio natural y los acuacultores
+que se abastezcan de ellos, quedan obligados a realizar acciones de repoblación en los términos y
+condiciones que en cada caso determine la Secretaría en normas oficiales y en los propios permisos.
 
-36 de 59
+38 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-ARTÍCULO 98.- Aquellas personas que recolecten organismos del medio natural y los acuacultores
-que se abastezcan de ellos, quedan obligados a realizar acciones de repoblación en los términos y
-condiciones que en cada caso determine la Secretaría en normas oficiales y en los propios permisos.
 Para otorgar los permisos para la recolección de especies en cualquier estadio, la Secretaría
 considerará el dictamen emitido por el INAPESCA, en el que se determinará el número de ejemplares,
 zonas y épocas para su recolección. No se otorgará permiso cuando se determine que se pone en riesgo
@@ -1849,20 +1997,20 @@ esta Ley.
 TÍTULO DÉCIMO PRIMERO
 DE LA SANIDAD, INOCUIDAD Y CALIDAD
 CAPÍTULO I
+DE LA SANIDAD DE ESPECIES ACUÍCOLAS
+ARTÍCULO 103.- La Secretaría, ejercerá sus atribuciones y facultades en materia de sanidad de
+especies acuícolas a través del SENASICA, de conformidad con esta Ley, sus disposiciones
 
-37 de 59
+39 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-DE LA SANIDAD DE ESPECIES ACUÍCOLAS
-ARTÍCULO 103.- La Secretaría, ejercerá sus atribuciones y facultades en materia de sanidad de
-especies acuícolas a través del SENASICA, de conformidad con esta Ley, sus disposiciones
 reglamentarias, las normas oficiales que de ella deriven y los demás ordenamientos que resulten
 aplicables.
 Cuando, por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública
@@ -1898,19 +2046,19 @@ I. Las instalaciones en las que se realicen actividades acuícolas;
 II. Las especies acuáticas vivas que se capturen de poblaciones naturales y se destinen a la
 acuacultura, y
 III. Las unidades de cuarentena.
+Para los efectos de este artículo, la Secretaría tomará en cuenta la opinión del SENASICA para
+establecer en normas oficiales los lineamientos sanitarios para el funcionamiento y operación de
 
-38 de 59
+40 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Para los efectos de este artículo, la Secretaría tomará en cuenta la opinión del SENASICA para
-establecer en normas oficiales los lineamientos sanitarios para el funcionamiento y operación de
 unidades de producción acuícola y de unidades de cuarentena, así como las especificaciones sanitarias
 para el cultivo, siembra y cosecha de organismos acuáticos.
 ARTÍCULO 107.- Los certificados de sanidad acuícola podrán ser expedidos directamente por el
@@ -1946,20 +2094,20 @@ II. La cuarentena, siendo una medida basada en el aislamiento, observación y re
 movilización de especies acuáticas vivas, por la sospecha o existencia de una enfermedad de las
 mismas, sujeta a control;
 III. El diagnóstico e identificación de enfermedades y plagas de las especies mencionadas;
+IV. La retención y disposición de especies acuáticas vivas, sus productos, subproductos y productos
+químicos, farmacéuticos, biológicos y alimenticios, para uso o consumo de dichas especies, que puedan
+ocasionar enfermedades o plagas en los mismos, y
 
-39 de 59
+41 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-IV. La retención y disposición de especies acuáticas vivas, sus productos, subproductos y productos
-químicos, farmacéuticos, biológicos y alimenticios, para uso o consumo de dichas especies, que puedan
-ocasionar enfermedades o plagas en los mismos, y
 V. Las demás que se establezcan en las propias normas oficiales, así como aquellas que, conforme a
 los avances y adelantos científicos y tecnológicos, sean eficaces para la atención de cada caso de
 enfermedad o plaga.
@@ -1997,19 +2145,19 @@ organismos de coadyuvancia para que realicen determinados actos en los términos
 esta Ley.
 ARTÍCULO 114.- Quedan prohibidas la importación o exportación, temporal o definitiva y el tránsito
 internacional de organismos acuícolas, derivados, alimentos, deshechos y despojos, cuando sean
+originarios o procedan de zonas o países que no han sido reconocidos como libres de enfermedades
+emergentes o endémicas. El reconocimiento de zonas o países como libres de enfermedades, lo realizará
 
-40 de 59
+42 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-originarios o procedan de zonas o países que no han sido reconocidos como libres de enfermedades
-emergentes o endémicas. El reconocimiento de zonas o países como libres de enfermedades, lo realizará
 la Secretaría en términos del Reglamento de esta Ley, mediante acuerdos que publicará en el Diario
 Oficial de la Federación.
 En todo caso, la Secretaría, previo análisis de riesgo y en los términos que se establezcan en la
@@ -2052,18 +2200,18 @@ ARTÍCULO 117.- La Secretaría podrá acordar y convenir con los gobiernos de la
 federativas, los municipios, órganos de coadyuvancia y particulares interesados, la creación de uno o
 varios fondos de contingencia para afrontar inmediatamente las emergencias sanitarias que surjan por la
 presencia de enfermedades emergentes o de notificación obligatoria, erradicadas, desconocidas o
+inexistentes que pongan en peligro la producción acuícola en el territorio nacional, así como, las
 
-41 de 59
+43 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-inexistentes que pongan en peligro la producción acuícola en el territorio nacional, así como, las
 emergencias de contaminación en los alimentos cuando se detecte un incremento en los niveles de
 contaminantes o la presencia de residuos tóxicos que vulneren su inocuidad.
 
@@ -2108,18 +2256,18 @@ recolección.
 II. Buenas prácticas de manufactura: Conjunto de procedimientos, actividades, condiciones y
 controles de tipo general que se establezcan en normas oficiales mexicanas y demás disposiciones
 jurídicas que formule y expida la Secretaría, aplicables en los establecimientos Tipo Inspección Federal
+dedicados al procesamiento primario de recursos pesqueros y recursos acuícolas para consumo humano,
 
-42 de 59
+44 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-dedicados al procesamiento primario de recursos pesqueros y recursos acuícolas para consumo humano,
 incluyendo actividades de cortado, cocido, envasado, enlatado, refrigerado y congelado con el objeto de
 disminuir los riesgos de contaminación física, química o biológica.
 III. Cadena de valor: El conjunto de elementos y agentes involucrados en los procesos productivos de
@@ -2165,18 +2313,18 @@ I. Determinar y establecer las medidas y criterios aplicables en materia de buen
 habrán de aplicarse en la producción primaria y el procesamiento primario de recursos, partes y
 derivados de origen pesquero y acuícola para consumo humano en establecimientos TIF, para reducir los
 contaminantes o riesgos que puedan estar presentes en éstos; así como aquellas medidas y criterios que
+conforme al principio de reciprocidad sean necesarios para reconocer las buenas prácticas equivalentes
 
-43 de 59
+45 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-conforme al principio de reciprocidad sean necesarios para reconocer las buenas prácticas equivalentes
 que apliquen otros países para el caso de recursos pesqueros y recursos acuícolas para consumo
 humano que se destinen al comercio exterior;
 II. Regular y certificar por sí o mediante terceros, la aplicación de buenas prácticas pesqueras,
@@ -2223,18 +2371,19 @@ certificada por el SENASICA o por organismos de certificación acreditados en lo
 disposiciones federales aplicables en materia de normalización.
 Artículo adicionado DOF 30-05-2012
 
-44 de 59
+ARTÍCULO 119 Bis 4.- Los establecimientos TIF deberán contar con responsables autorizados por el
+SENASICA que realicen la inspección o verificación en tal número que garantice su eficiencia. Los
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+46 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-ARTÍCULO 119 Bis 4.- Los establecimientos TIF deberán contar con responsables autorizados por el
-SENASICA que realicen la inspección o verificación en tal número que garantice su eficiencia. Los
 establecimientos autorizados para exportar recursos, partes y derivados de origen pesquero y acuícola
 para consumo humano, deberán contar con dichos responsables si el SENASICA lo determina o el país
 importador lo requiere.
@@ -2285,18 +2434,19 @@ términos de lo establecido en las normas oficiales mexicanas y demás disposici
 la Secretaría para tal efecto.
 Artículo adicionado DOF 30-05-2012
 
-45 de 59
+ARTÍCULO 119 Bis 11.- Los sistemas de trazabilidad de recursos, partes y derivados de origen
+pesquero o acuícola para consumo humano, sean nacionales o importados, garantizarán el rastreo en
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+47 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-ARTÍCULO 119 Bis 11.- Los sistemas de trazabilidad de recursos, partes y derivados de origen
-pesquero o acuícola para consumo humano, sean nacionales o importados, garantizarán el rastreo en
 toda la cadena de su procesamiento primario y se deberá contar con la relación de proveedores y
 distribuidores o clientes.
 Artículo adicionado DOF 30-05-2012
@@ -2338,19 +2488,19 @@ CAPÍTULO I
 DEL SISTEMA NACIONAL DE INFORMACIÓN DE PESCA Y ACUACULTURA
 ARTÍCULO 120.- La Secretaría integrará el Sistema Nacional de Información de Pesca y Acuacultura
 que tendrá por objeto organizar, actualizar y difundir la información sobre actividades pesqueras y
+acuícolas, particularmente las que se desarrollan en el país. El sistema se integrará con la información
+siguiente:
 
-46 de 59
+48 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-acuícolas, particularmente las que se desarrollan en el país. El sistema se integrará con la información
-siguiente:
 I. La Carta Nacional Pesquera;
 II. La Carta Nacional Acuícola;
 III. El Registro Nacional de Pesca y Acuacultura;
@@ -2383,21 +2533,21 @@ V. Las personas físicas o morales que cuenten con certificados de sanidad, inoc
 VI. Las escuelas pesqueras y los centros dedicados a la investigación o enseñanza en materia de flora
 y fauna acuáticas aprovechables para la pesca y acuacultura.
 La Secretaría expedirá el certificado de registro correspondiente.
-
-47 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 La organización y funcionamiento del Registro se determinarán en las disposiciones reglamentarias
 que deriven de esta Ley. El INAPESCA, el SENASICA y los gobiernos de las entidades federativas
 contribuirán a la integración, actualización y funcionamiento del Registro, en la forma y términos que
 establezcan las disposiciones aplicables.
+
+49 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 ARTÍCULO 123.- La Secretaría y los gobiernos de las entidades federativas integrarán una Red de
 Información Acuícola, que concentrará la información de los diversos organismos y entidades respecto a
 esta actividad e incluirá, entre otros, la identificación de las especies y ubicación de áreas apropiadas
@@ -2430,20 +2580,23 @@ con el documento oficial que los acredite o autorice a practicar la inspección 
 orden escrita debidamente fundada y motivada, expedida por la autoridad competente de la Secretaría,
 en la que se precisará el lugar o la zona que habrá de inspeccionarse, el objeto de la diligencia y el
 alcance de la misma.
-ARTÍCULO 127.- En toda visita de inspección se levantará acta, en la que se harán constar en forma
-circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia, así como lo
-previsto en la Ley Federal de Procedimiento Administrativo.
-Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para
-que en el mismo acto formule observaciones en relación con los hechos u omisiones asentados en el
-acta respectiva, y para que ofrezca las pruebas que considere convenientes o haga uso de ese derecho
-en el término de cinco días siguientes a la fecha en que la diligencia se hubiere practicado.
+ARTÍCULO 127. En toda visita de inspección se levantará acta, en la que se harán constar en forma
+circunstanciada los hechos que se hubiesen presentado durante la diligencia, cumpliendo las
+formalidades previstas para tal efecto en la Ley Federal de Procedimiento Administrativo.
+Concluido el levantamiento del acta, el inspector o verificador proporcionará al visitado o a la persona
+con quien se entienda la diligencia, la información respecto a la autoridad que emitió la orden de visita de
+inspección o verificación; asimismo, hará de su conocimiento el plazo o término con el que cuenta para
+manifestar lo que a su derecho convenga ante dicha autoridad, y los demás datos sobre las
+consecuencias jurídicas de la visita de inspección o verificación.
+Los hechos, omisiones o irregularidades administrativas detectadas en las visitas de inspección que
+estén debidamente asentados en el acta respectiva se tendrán por ciertos, salvo prueba en contrario.
 
-48 de 59
+50 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2453,12 +2606,16 @@ testigos y por el personal autorizado, quien entregará copia del acta al intere
 quien se entendió la diligencia o los testigos, se negaren a firmar el acta, o el interesado se negare a
 aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez y
 valor probatorio.
-ARTÍCULO 128.- La persona con quien se entienda la diligencia estará obligada a permitir al personal
+Artículo reformado DOF 02-06-2015
+
+ARTÍCULO 128. La persona con quien se entienda la diligencia estará obligada a permitir al personal
 autorizado el acceso al lugar o lugares sujetos a inspección en los términos previstos en la orden escrita
-a que se hace referencia el artículo 124, así como a proporcionar toda clase de información que
+a que se hace referencia en el artículo 126, así como a proporcionar toda clase de información que
 conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones que de ella deriven. La
 información deberá mantenerse por la autoridad en absoluta reserva, si así lo solicita el interesado, salvo
 en caso de requerimiento judicial.
+Artículo reformado DOF 02-06-2015
+
 ARTÍCULO 129.- La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar
 la visita de inspección, cuando alguna persona obstaculice o se oponga a la práctica de la diligencia, con
 independencia de las sanciones a que haya lugar.
@@ -2468,9 +2625,18 @@ inmediato las medidas necesarias para cumplir con las disposiciones jurídicas a
 las concesiones y permisos respectivos, fundando y motivando el requerimiento, señalando el plazo que
 corresponda, y para que dentro del término de quince días exponga lo que a su derecho convenga, y en
 su caso, aporte las pruebas que considere procedentes, en relación con la actuación de la autoridad.
+Si el visitado, en el plazo que señala el primer párrafo de éste artículo ofrece pruebas, la autoridad, en
+el término de tres días hábiles, acordará su admisión y en el mismo proveído fijará fecha para la
+audiencia de desahogo de pruebas, la que deberá celebrarse dentro de los cinco días hábiles siguientes
+a la fecha en que se notifique; y de la cual se levantará acta que será suscrita por los que hayan
+intervenido.
+Párrafo adicionado DOF 02-06-2015
+
 Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a
-que se refiere el párrafo anterior, sin que haya hecho uso de ese derecho, se pondrán a su disposición
-las actuaciones, para que en un plazo tres días hábiles presente por escrito sus alegatos.
+que se refiere el primer párrafo de este artículo, sin que haya hecho uso de ese derecho, se pondrán a su
+disposición las actuaciones, para que en un plazo de tres días hábiles presente por escrito sus alegatos.
+Párrafo reformado DOF 02-06-2015
+
 Una vez recibidos los alegatos o transcurrido el término para presentarlos, la Secretaría procederá,
 dentro de los veinte días siguientes, a dictar por escrito la resolución respectiva, misma que se notificará
 al interesado, personalmente o por correo certificado con acuse de recibo.
@@ -2483,6 +2649,17 @@ Secretaría podrá realizar notificaciones por estrados, las cuales se harán fi
 consecutivos el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la
 autoridad competente que efectúe la notificación y publicando el documento citado, durante el mismo
 plazo, en la página electrónica que al efecto establezca la propia Secretaría.
+
+51 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Dicha autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como
 fecha de notificación la del decimosexto día siguiente al primer día en que se hubiera fijado o publicado el
 documento.
@@ -2490,17 +2667,6 @@ Por lo que hace a los demás requisitos y formalidades que deben observarse en l
 visitas de inspección y vigilancia, son aplicables supletoriamente a este capítulo las disposiciones, de la
 Ley Federal de Procedimiento Administrativo, así como los que señala la Ley Federal sobre Metrología y
 Normalización respecto de la evaluación de la conformidad de las normas oficiales mexicanas.
-
-49 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Respecto de los actos de verificación que realice el SENASICA para la comprobación del
 cumplimiento de las disposiciones relativas a la sanidad de especies acuícolas, es aplicable de forma
 supletoria en lo que corresponda, lo dispuesto en la Ley Federal de Sanidad Animal.
@@ -2530,6 +2696,17 @@ acreditar la concesión o permiso, o no tener en las instalaciones acuícolas co
 X. Efectuar operaciones de pesca con embarcaciones extranjeras sin el permiso correspondiente;
 XI. Desembarcar productos pesqueros en el extranjero o transbordarlos sin contar con el permiso de
 la Secretaría, salvo en los casos previstos en el segundo párrafo en el artículo 74 de esta Ley;
+
+52 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 XII. Descargar en puertos mexicanos productos de pesca comercial provenientes de embarcaciones
 extranjeras, sin permiso de la Secretaría, salvo en los casos previstos en el segundo párrafo en el artículo
 75 de esta Ley;
@@ -2537,17 +2714,6 @@ XIII. Practicar la pesca en alta mar o en aguas de jurisdicción extranjera, con
 matrícula y bandera mexicanas, sin el permiso correspondiente;
 XIV. No acatar las condiciones y requisitos establecidos en las autorizaciones otorgadas por gobiernos
 extranjeros al gobierno mexicano, para la captura de especies;
-
-50 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XV. Hacer uso indebido de la información técnica o científica de la Secretaría o del INAPESCA;
 XVI. Transportar o utilizar en embarcaciones destinadas a la pesca, instrumentos explosivos,
 sustancias contaminantes;
@@ -2576,22 +2742,22 @@ XXVIII. No contar con el equipo especializado de monitoreo satelital, cuando as�
 disposiciones reglamentarias o la concesión o permiso correspondientes;
 XXIX. No cumplir con las disposiciones sanitarias establecidas en la presente Ley y en los
 ordenamientos jurídicos aplicables;
+
+53 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 XXX. Falsificar o alterar los títulos que amparan los derechos de los permisos o concesiones, y
 XXXI. Cualquier otra contravención a lo dispuesto en la presente Ley.
 
 CAPÍTULO II
 DE LAS SANCIONES ADMINISTRATIVAS
-
-51 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 ARTÍCULO 133.- Las infracciones a los preceptos de esta Ley, sus reglamentos y las normas oficiales
 mexicanas que de ella deriven, señaladas en el artículo anterior, serán sancionadas administrativamente
 por la Secretaría con una o más de las siguientes sanciones:
@@ -2624,21 +2790,21 @@ ARTÍCULO 136.- Para los efectos de esta Ley, se considerará reincidente al inf
 de una vez en conductas que impliquen infracciones a un mismo precepto en un periodo de cinco años,
 contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción,
 siempre que ésta no hubiese sido desvirtuada.
-ARTÍCULO 137.- La amonestación sólo será aplicable a los infractores por primera vez, a criterio de la
-Secretaría, a quienes:
-I. Realicen pesca de consumo doméstico, en temporada de veda o con artes de pesca no permitidas,
-o tallas inferiores a las autorizadas o en contravención a las normas establecidas; y
 
-52 de 59
+54 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+ARTÍCULO 137.- La amonestación sólo será aplicable a los infractores por primera vez, a criterio de la
+Secretaría, a quienes:
+I. Realicen pesca de consumo doméstico, en temporada de veda o con artes de pesca no permitidas,
+o tallas inferiores a las autorizadas o en contravención a las normas establecidas; y
 II. Realicen actividades de acuacultura y pesca didáctica, sin contar con la concesión o permiso
 respectivo.
 La amonestación servirá de apoyo para determinar la multa a los reincidentes.
@@ -2670,6 +2836,17 @@ pruebas de laboratorio y demás procedimientos previstos en las normas aplicable
 En los casos en que se imponga como sanción la clausura temporal, la Secretaría deberá indicar al
 infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que
 motivaron dicha sanción, así como los plazos para su realización.
+
+55 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 La clausura que imponga la Secretaría será definitiva y total, en caso de que los riesgos o
 afectaciones a que se refiere la fracción III del presente artículo se causen por o se generen en
 establecimientos TIF regulados por esta Ley.
@@ -2677,17 +2854,6 @@ Artículo reformado DOF 30-05-2012
 
 ARTÍCULO 140.- El decomiso de las embarcaciones se realizará cuando se actualice el supuesto de
 las fracciones I, III, X, XIII, XVI y XIX del artículo 132 de la presente Ley, así como cuando se incurra en
-
-53 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 reincidencia de la infracción establecida en los numerales XVII y XVIII del mismo artículo,
 independientemente de la multa correspondiente.
 ARTÍCULO 141.- El decomiso de los vehículos se realizará cuando se actualice el supuesto de las
@@ -2722,22 +2888,21 @@ ARTÍCULO 146.- Son aplicables supletoriamente a este capítulo en cuanto a las 
 administrativas, las disposiciones del Capítulo Único del Título Cuarto de la Ley Federal de Procedimiento
 Administrativo, con excepción del artículo 70-A de dicho ordenamiento.
 
+56 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 CAPÍTULO III
 DE LAS RESPONSABILIDADES
 ARTÍCULO 147.- Las sanciones administrativas a que se refiere el artículo anterior se aplicarán sin
 perjuicio, en su caso, de las penas que correspondan cuando los actos u omisiones constitutivos de
 infracciones sean también constitutivos de delito, en los términos de las disposiciones penales aplicables
-
-54 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 y sin perjuicio de la responsabilidad ambiental que pudiera resultar, para lo cual será aplicable lo
 dispuesto por el artículo 203 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 Son responsables solidarios de las sanciones a que haya lugar, aquellas personas físicas o morales
@@ -2773,22 +2938,45 @@ ARTÍCULO 150.- Por lo que se refiere a los demás trámites relativos a la tram
 resolución del recurso de revisión a que se refiere el artículo anterior, se estará a lo dispuesto en el Título
 Sexto de la Ley Federal de Procedimiento Administrativo.
 
+TÍTULO DÉCIMO QUINTO
+DEL PREMIO A LA PESCA Y ACUACULTURA SUSTENTABLES
+Título adicionado DOF 24-04-2018
+
+57 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+CAPÍTULO ÚNICO
+Capítulo adicionado DOF 24-04-2018
+
+ARTÍCULO 151.- Se instituye el Premio a la Pesca y Acuacultura Sustentables, con objeto de
+reconocer y premiar anualmente a personas físicas y morales que se dediquen a estas actividades
+conforme a lo establecido en la presente Ley, y cuyo esfuerzo destaque en la realización de acciones
+trascendentes, de innovación, impacto, mejora o buenas prácticas desarrolladas en la pesca o
+acuacultura sustentables, incluyendo el ordenamiento, conservación, protección, aprovechamiento y
+restauración de la diversidad de los ecosistemas acuáticos pesqueros y acuícolas, así como la
+generación e intercambio de conocimiento y comercialización de productos sustentables.
+La Secretaría, por conducto de la Comisión Nacional de Acuacultura y Pesca, organizará el premio, en
+coordinación y colaboración con el Instituto Nacional de Pesca y Acuacultura, con las comisiones en esta
+materia de ambas Cámaras del H. Congreso de la Unión, así como con las demás instancias públicas y
+privadas que estime pertinente.
+Artículo adicionado DOF 24-04-2018
+
+ARTÍCULO 152.- El procedimiento para la selección de los acreedores al premio, así como las demás
+prevenciones que sean necesarias, se establecerá por acuerdo que emita la Secretaría.
+Artículo adicionado DOF 24-04-2018
+
 TRANSITORIOS
 ARTÍCULO PRIMERO.- Esta Ley entrará en vigor a los noventa días siguientes al de su publicación
 en el Diario Oficial de la Federación.
 ARTÍCULO SEGUNDO.- Se abroga la Ley de Pesca publicada en el Diario Oficial de la Federación el
 día 25 de junio de 1992.
-
-55 de 59
-
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 23-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 ARTÍCULO TERCERO.- Los titulares de concesiones, permisos y autorizaciones otorgados con
 anterioridad a la expedición de esta Ley, no serán afectados a su entrada en vigor en los derechos y
 obligaciones consignados en los mismos.
@@ -2809,6 +2997,17 @@ ARTÍCULO SÉPTIMO.- La Circular relativa a los procedimientos administrativos d
 calificación de infracciones en materia de pesca y acuacultura, publicada en el Diario Oficial de la
 Federación el 5 de diciembre de 2003, continuará en vigor en lo que no se oponga a lo establecido en el
 Título Noveno de esta Ley.
+
+58 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 ARTÍCULO OCTAVO.- La presente Ley será aplicable, sin menoscabo de las atribuciones que
 competan a otras dependencias de la Administración Pública Federal, de conformidad con las leyes que
 resulten aplicables.
@@ -2825,12 +3024,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 mes de julio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de
 Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 
-56 de 59
+59 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2868,12 +3067,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación,
 Alejandro Alfonso Poiré Romero.- Rúbrica.
 
-57 de 59
+60 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2907,12 +3106,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro
 Alfonso Poiré Romero.- Rúbrica.
 
-58 de 59
+61 de 72
 
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 23-01-2014
+Última Reforma DOF 07-12-2022
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2942,6 +3141,347 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio
 Chong.- Rúbrica.
 
-59 de 59
+62 de 72
 
-
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+DECRETO por el que se reforma y adiciona el artículo 20 de la Ley General de Pesca y
+Acuacultura Sustentables.
+Publicado en el Diario Oficial de la Federación el 10 de noviembre de 2014
+
+Artículo Único.- Se reforman las fracciones XIII y XIV; y se adiciona la fracción XV, del artículo 20 de
+la Ley General de Pesca y Acuacultura Sustentables, para quedar como sigue:
+……….
+
+Transitorios
+Artículo Primero.- El presente Decreto entrará en vigor el día 1 de enero del año 2015.
+Artículo Segundo.- Las erogaciones que, en su caso, deban realizarse con el fin de dar cumplimiento
+al presente Decreto estarán sujetas al presupuesto autorizado en el Presupuesto de Egresos de la
+Federación y se ejecutarán observando las prioridades que se establezcan en el Plan Nacional de
+Desarrollo, debiendo observar las disposiciones aplicables en materia presupuestaria a partir del ejercicio
+fiscal 2015.
+México, D.F., a 14 de octubre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano
+Aureoles Conejo, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Fernando Bribiesca
+Sahagún, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de noviembre
+de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio
+Chong.- Rúbrica.
+
+63 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+DECRETO por el que se adicionan diversas disposiciones a la Ley General de Pesca y
+Acuacultura Sustentables.
+Publicado en el Diario Oficial de la Federación el 5 de diciembre de 2014
+
+Artículo Único.- Se adicionan las fracciones IV Bis y IV Ter al artículo 4o.; las fracciones II Bis, II Ter
+y VII al artículo 78 de la Ley General de Pesca y Acuacultura Sustentables, para quedar como sigue:
+………
+
+Transitorio
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.
+México, D.F., a 21 de octubre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano
+Aureoles Conejo, Presidente.- Sen. Lucero Saldaña Pérez, Secretaria.- Dip. Fernando Bribiesca
+Sahagún, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de diciembre
+de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio
+Chong.- Rúbrica.
+
+64 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General
+de Pesca y Acuacultura Sustentables.
+Publicado en el Diario Oficial de la Federación el 5 de diciembre de 2014
+
+Artículo Único. Se reforman los artículos 17, fracción VI, 82 y 84, fracción V de la Ley General de
+Pesca y Acuacultura Sustentables, para quedar como sigue:
+……….
+
+Transitorio
+Único. El presente decreto entrará en vigor el siguiente día al de su publicación en el Diario Oficial de
+la Federación.
+México, D.F., a 16 de octubre de 2014.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Miguel
+Barbosa Huerta, Presidente.- Dip. Laura Barrera Fortoul, Secretaria.- Sen. Lilia Guadalupe Merodio
+Reza, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de diciembre
+de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio
+Chong.- Rúbrica.
+
+65 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+DECRETO por el que se adicionan diversas disposiciones al artículo 17 de la Ley General
+de Pesca y Acuacultura Sustentables.
+Publicado en el Diario Oficial de la Federación el 17 de marzo de 2015
+
+Artículo Único. Se adicionan las fracciones IX, X, XI, XII, XIII y XIV, pasando las actuales IX y X a ser
+XV y XVI al artículo 17 de la Ley General de Pesca y Acuacultura Sustentables, para quedar como sigue:
+……..
+
+Transitorios
+Primero. El presente Decreto entrará en vigor el siguiente día al de su publicación en el Diario Oficial
+de la Federación.
+Segundo. Las medidas, programas e instrumentos económicos relativos al desarrollo de la actividad
+pesquera y acuícola, estarán sujetas a lo establecido en las Leyes de Ingresos, Federal de Presupuesto y
+Responsabilidad Hacendaria y de Presupuesto de Egresos de la Federación para el ejercicio fiscal que
+corresponda.
+México, D.F., a 5 de febrero de 2015.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Miguel
+Barbosa Huerta, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lucero Saldaña Pérez,
+Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de marzo de dos
+mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio
+Chong.- Rúbrica.
+
+66 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+DECRETO por el que se reforma y adiciona la Ley General de Pesca y Acuacultura
+Sustentables, en materia de inspección y vigilancia.
+Publicado en el Diario Oficial de la Federación el 2 de junio de 2015
+
+Artículo Único. Se reforman los artículos 127, párrafos primero y segundo; 128 y 130, actual párrafo
+segundo, y se adicionan los artículos 127, con un tercer párrafo, recorriéndose el actual en su orden; y
+130, con un segundo párrafo, recorriéndose los actuales en su orden, a la Ley General de Pesca y
+Acuacultura Sustentables, para quedar como sigue:
+……..
+
+Transitorio
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de
+la Federación.
+México, D.F., a 9 de abril de 2015.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Julio César
+Moreno Rivera, Presidente.- Sen. Lucero Saldaña Pérez, Secretaria.- Dip. Graciela Saldaña Fraire,
+Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de mayo
+de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio
+Chong.- Rúbrica.
+
+67 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+DECRETO por el que se reforma el segundo párrafo del artículo 64 de la Ley General de
+Pesca y Acuacultura Sustentables.
+Publicado en el Diario Oficial de la Federación el 4 de junio de 2015
+
+Artículo Único. Se reforma el segundo párrafo del artículo 64 de la Ley General de Pesca y
+Acuacultura Sustentables, para quedar como sigue:
+………
+
+Transitorio
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de
+la Federación.
+México, D. F., a 28 de abril de 2015.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Julio César
+Moreno Rivera, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Javier Orozco Gómez,
+Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de junio de
+dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio
+Chong.- Rúbrica.
+
+68 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+DECRETO por el que se reforma la fracción XXI del artículo 4o. de la Ley General de
+Pesca y Acuacultura Sustentables.
+Publicado en el Diario Oficial de la Federación el 19 de junio de 2017
+
+Artículo Único.- Se reforma la fracción XXI del artículo 4o. de la Ley General de Pesca y Acuacultura
+Sustentables, para quedar como sigue:
+………
+
+Transitorios
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.
+Segundo.- Las menciones contenidas en otras leyes, reglamentos y, en general en cualquier
+disposición respecto al Instituto Nacional de Pesca, cuyo nombre se modifica por virtud de este Decreto,
+se entenderán referidas al Instituto Nacional de Pesca y Acuacultura.
+Ciudad de México, a 28 de abril de 2017.- Sen. Pablo Escudero Morales, Presidente.- Dip. María
+Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Dip. Ana
+Guadalupe Perea Santos, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil
+diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
+
+69 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del
+Artículo 5o. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la
+Ley del Sistema Nacional de Información Estadística y Geográfica, la Ley General para
+Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción
+XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley
+General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas
+y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en
+Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en
+Materia Electoral, la Ley General de Educación, la Ley General del Servicio Profesional
+Docente, la Ley General de la Infraestructura Física Educativa, la Ley General de
+Bibliotecas, la Ley General de Contabilidad Gubernamental, la Ley General del Equilibrio
+Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable,
+la Ley General de Vida Silvestre, la Ley General para la Prevención y Gestión Integral de
+los Residuos, la Ley General de Cambio Climático, la Ley General de Pesca y Acuacultura
+Sustentables, la Ley General de Bienes Nacionales, la Ley General de Protección Civil, la
+Ley General de Cultura Física y Deporte, la Ley General de Sociedades Cooperativas, la
+Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de
+Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de
+Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre
+de Distrito Federal y definición, en su caso, de las facultades concurrentes para las
+demarcaciones territoriales.
+Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
+
+Artículo Décimo Séptimo.- Se reforman los artículos 1o.; 6o.; 11, primer párrafo; 12, primer párrafo;
+13, primer párrafo y sus fracciones I, V, VI, VII y XVII; 14, primer párrafo y las fracciones I, II, IV y VI; 15;
+27, fracción I; 29, párrafo segundo, fracción VIII y 80 de la Ley General de Pesca y Acuacultura
+Sustentables, para quedar como sigue:
+……..
+
+Transitorios
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.
+Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a
+las que este Decreto hace referencia a las Legislaturas de las Entidades Federativas se entenderán
+conferidas a la Asamblea Legislativa del Distrito Federal para el caso de la Ciudad de México.
+……..
+Ciudad de México, a 23 de noviembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen.
+Ernesto Cordero Arroyo, Presidente.- Dip. Andrés Fernández del Valle Laisequilla, Secretario.- Sen.
+Juan G. Flores Ramírez, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a ocho de enero de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+70 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+DECRETO por el que se adicionan diversas disposiciones de la Ley General de Pesca y
+Acuacultura Sustentables.
+Publicado en el Diario Oficial de la Federación el 24 de abril de 2018
+
+Artículo Único.- Se adiciona una fracción XLI, recorriéndose la actual XLI para quedar como XLII al
+artículo 8o. y un TÍTULO DÉCIMO QUINTO denominado “DEL PREMIO A LA PESCA Y ACUACULTURA
+SUSTENTABLES”, con un Capítulo Único que contiene los artículos 151 y 152, a la Ley General de
+Pesca y Acuacultura Sustentables, para quedar como sigue:
+………
+
+Transitorios
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.
+Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto,
+se cubrirán con cargo al presupuesto autorizado a la Secretaría y a las dependencias y entidades que, en
+su caso, resulten competentes, para el presente ejercicio fiscal y los subsecuentes.
+Ciudad de México, a 22 de febrero de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto
+Cordero Arroyo, Presidente.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Sen. Juan G.
+Flores Ramírez, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a diecisiete de abril de dos mil
+dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete
+Prida.- Rúbrica.
+
+71 de 72
+
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 07-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+DECRETO por el que se reforma el párrafo segundo del artículo 32 de la Ley General de
+Pesca y Acuacultura Sustentables.
+Publicado en el Diario Oficial de la Federación el 7 de diciembre de 2022
+
+Artículo Único.- Se reforma el párrafo segundo del artículo 32 de la Ley General de Pesca y
+Acuacultura Sustentables, para quedar como sigue:
+……..
+
+Transitorios
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.
+Segundo.- El plazo establecido en el artículo 32 del presente Decreto, correrá a partir de la próxima
+publicación de la Carta Nacional Pesquera en el Diario Oficial de la Federación.
+Ciudad de México, a 4 de noviembre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen.
+Alejandro Armenta Mier, Presidente.- Dip. María Macarena Chávez Flores, Secretaria.- Sen. Verónica
+Noemí Camino Farjat, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 29 de noviembre de 2022.- Andrés
+Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López
+Hernández.- Rúbrica.
+
+72 de 72
+
