@@ -5,7 +5,7 @@ Versión PDF para vista en dispositivo móvil Android y Apple iOS
 
 LEY DE INGRESOS DE LA FEDERACIÓN PARA EL
 EJERCICIO FISCAL DE 2023
-TEXTO VIGENTE a partir del 01-01-2023
+TEXTO VIGENTE
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 14 de noviembre de 2022
 
@@ -23,11 +23,11 @@ UNIDOS MEXICANOS DECRETA:
 SE EXPIDE LA LEY DE INGRESOS DE LA
 FEDERACIÓN PARA EL EJERCICIO FISCAL DE
 2023
+
 Artículo Único. Se expide la Ley de Ingresos de la
 Federación para el Ejercicio Fiscal de 2023.
 LEY DE INGRESOS DE LA FEDERACIÓN PARA EL
 EJERCICIO FISCAL DE 2023
-
 Capítulo I
 De los Ingresos y el Endeudamiento Público
 Artículo 1o. En el ejercicio fiscal de 2023, la
@@ -35,12 +35,10 @@ Federación percibirá los ingresos provenientes de los
 conceptos y en las cantidades estimadas en millones
 de pesos que a continuación se enumeran:
 CONCEPTO
+TOTAL
 
 Ingreso
 Estimado
-
-TOTAL
-
 8,299,647.8
 
 1.
@@ -58,22 +56,22 @@ Impuestos
 2,512,233.3
 
 12. Impuestos Sobre el Patrimonio.
-13. Impuestos Sobre la Producción, el
+13. Impuestos Sobre la Producción, el 1,921,070.7
 Consumo y las Transacciones:
-
-1,921,070.7
-
 01. Impuesto al valor agregado.
 
 1,419,457.1
 
-02. Impuesto especial sobre
+02. Impuesto
+especial
 producción y servicios:
 
-486,212.7
+sobre
 
 01. Combustibles
 automotrices:
+
+486,212.7
 
 278,412.8
 
@@ -109,10 +107,13 @@ sorteos.
 
 3,373.3
 
-05. Redes públicas de
+05. Redes
+públicas
 telecomunicaciones.
 
 7,398.3
+
+de
 
 06. Bebidas energetizantes.
 
@@ -123,10 +124,10 @@ telecomunicaciones.
 35,555.7
 
 08. Alimentos no básicos con
-alta densidad calórica.
 
 31,876.8
 
+alta densidad calórica.
 09. Plaguicidas.
 
 2,050.8
@@ -135,12 +136,16 @@ alta densidad calórica.
 
 4,330.2
 
-03. Impuesto sobre automóviles
+03. Impuesto
 nuevos.
 
-15,400.9
+sobre
+
+automóviles
 
 14. Impuestos al Comercio Exterior:
+
+15,400.9
 
 98,341.9
 
@@ -156,63 +161,93 @@ nuevos.
 
 0.0
 
-15. Impuestos Sobre Nóminas y
+15. Impuestos
+Sobre
 Asimilables.
+
+Nóminas
+
+y
+
 16. Impuestos Ecológicos.
 17. Accesorios de impuestos:
 01. Accesorios de impuestos.
 18. Otros impuestos:
-
-83,927.6
-83,927.6
-7,676.6
-
 01. Impuesto por la actividad de
 exploración y extracción de
 hidrocarburos.
 
+83,927.6
+83,927.6
+7,676.6
 7,676.6
 
-02. Impuesto sobre servicios
+2.
+
+02. Impuesto
+sobre
+servicios
 expresamente declarados de
 interés público por ley, en los
-que intervengan empresas
+que
+intervengan
+empresas
+concesionarias de bienes del
+dominio directo de la Nación.
 
 0.0
 
-concesionarias de bienes del
-dominio directo de la Nación.
 19. Impuestos no comprendidos en la
 Ley de Ingresos Vigente, Causados
 en Ejercicios Fiscales Anteriores
 Pendientes de Liquidación o Pago.
-2.
-
-Cuotas y Aportaciones de Seguridad
-Social
-21. Aportaciones para Fondos de
-Vivienda:
-01. Aportaciones y abonos
-retenidos a trabajadores por
-patrones para el Fondo
-Nacional de la Vivienda para los
-Trabajadores.
-22. Cuotas para la Seguridad Social:
-01. Cuotas para el Seguro Social a
-cargo de patrones y
-trabajadores.
-23. Cuotas de Ahorro para el Retiro:
 
 333.0
 
+Cuotas y Aportaciones de Seguridad
+Social
+
 470,845.4
+
+21. Aportaciones
+Vivienda:
+
+para
+
+Fondos
+
+de
+
 0.0
+
+01. Aportaciones
+y
+abonos
+retenidos a trabajadores por
+patrones
+para
+el
+Fondo
+Nacional de la Vivienda para los
+Trabajadores.
+
 0.0
+
+22. Cuotas para la Seguridad Social:
+01. Cuotas para el Seguro Social a
+cargo
+de
+patrones
+y
+trabajadores.
+23. Cuotas de Ahorro para el Retiro:
 
 470,845.4
 470,845.4
 
 0.0
+
+3.
 
 01. Cuotas del Sistema de Ahorro
 para el Retiro a cargo de los
@@ -238,13 +273,12 @@ Seguridad Social para las
 Fuerzas Armadas Mexicanas a
 cargo de los militares.
 
-3.
-
-4.
-
 0.0
 
-25. Accesorios de Cuotas y
+25. Accesorios
+de
+Cuotas
+y
 Aportaciones de Seguridad Social.
 
 0.0
@@ -253,24 +287,32 @@ Contribuciones de Mejoras
 
 34.6
 
-31. Contribuciones de Mejoras por
+31. Contribuciones de
 Obras Públicas:
+
+Mejoras
+
+por
 
 34.6
 
 01. Contribución de mejoras por
-obras públicas de
+obras
+públicas
+de
 infraestructura hidráulica.
 
 34.6
 
 39. Contribuciones de Mejoras no
 Comprendidas en la Ley de Ingresos
+
+0.0
+
 Vigente, Causados en Ejercicios
 Fiscales Anteriores Pendientes de
 Liquidación o Pago.
-
-0.0
+4.
 
 Derechos
 
@@ -282,13 +324,23 @@ Bienes de Dominio Público:
 
 46,184.3
 
-01. Secretaría de Hacienda y
+01. Secretaría de
 Crédito Público.
+
+Hacienda
+
+02. Secretaría
+Pública.
+
+la
+
+de
+
+y
 
 386.7
 
-02. Secretaría de la Función
-Pública.
+Función
 
 0.0
 
@@ -306,23 +358,36 @@ Recursos Naturales.
 
 14,298.5
 
-06. Secretaría de Agricultura y
+06. Secretaría de Agricultura
 Desarrollo Rural.
+
+y
 
 62.6
 
-07. Secretaría del Trabajo y
+07. Secretaría del
 Previsión Social.
 
+y
+
 0.0
 
-08. Secretaría de Educación
+Educación
+
+0.0
+
+08. Secretaría
 Pública.
 
-0.0
+de
 
-09. Instituto Federal de
+Trabajo
+
+09. Instituto
+Federal
 Telecomunicaciones.
+
+de
 
 19,039.9
 
@@ -338,19 +403,34 @@ Telecomunicaciones.
 
 107.6
 
-13. Secretaría de Seguridad y
+13. Secretaría de Seguridad
 Protección Ciudadana.
-43. Derechos por Prestación de
-Servicios:
+
+y
+
+0.1
+
+de
+
+11,008.7
+
 01. Servicios que presta el Estado
 en funciones de derecho
 público:
-01. Secretaría de
+
+11,008.7
+
+43. Derechos
+Servicios:
+
+por
+
+Prestación
+
+01. Secretaría
 Gobernación.
 
-0.1
-11,008.7
-11,008.7
+de
 
 113.6
 
@@ -369,15 +449,15 @@ Nacional.
 272.5
 
 05. Secretaría de Hacienda y
-Crédito Público.
 
 650.0
 
+Crédito Público.
 06. Secretaría de la Función
+Pública.
 
 22.6
 
-Pública.
 07. Secretaría de Energía.
 
 0.0
@@ -391,30 +471,43 @@ Desarrollo Rural.
 
 39.1
 
-10. Secretaría de
+10. Secretaría
 Infraestructura,
-Comunicaciones y
+Comunicaciones
 Transportes.
+11. Secretaría
+Ambiente
+Naturales:
+
+de
+
+de
 
 1,193.7
 
-11. Secretaría de Medio
-Ambiente y Recursos
-Naturales:
+y
+
+Medio
+Recursos
 
 122.3
 
 01. Agencia Nacional de
 Seguridad Industrial y
-de Protección al
+de
+Protección
+al
 Medio Ambiente del
 Sector
 Hidrocarburos.
+
+0.0
+
+y
+
 02. Otros.
 12. Secretaría de Educación
 Pública.
-
-0.0
 
 122.3
 1,303.0
@@ -429,7 +522,9 @@ Previsión Social.
 0.5
 
 15. Secretaría de Desarrollo
-Agrario, Territorial y
+Agrario,
+Territorial
+y
 Urbano.
 
 57.9
@@ -438,15 +533,18 @@ Urbano.
 
 0.0
 
-17. Instituto Federal de
+17. Instituto
+Federal
 Telecomunicaciones.
+
+de
 
 51.1
 
-5.
-
-18. Comisión Nacional de
+18. Comisión Nacional
 Hidrocarburos.
+
+de
 
 0.0
 
@@ -455,7 +553,9 @@ Energía.
 
 28.2
 
-20. Comisión Federal de
+20. Comisión
+Federal
+de
 Competencia Económica.
 
 0.0
@@ -476,6 +576,8 @@ Protección Ciudadana.
 44. Otros Derechos.
 
 0.0
+
+5.
 
 45. Accesorios de Derechos.
 
@@ -502,7 +604,9 @@ derecho público.
 
 10.8
 
-02. Derivados del uso,
+02. Derivados
+del
+uso,
 aprovechamiento o enajenación
 de bienes no sujetos al régimen
 de dominio público:
@@ -520,6 +624,9 @@ locales y construcciones.
 0.4
 
 03. Enajenación de bienes:
+
+2,184.1
+
 01. Muebles.
 
 2,097.2
@@ -528,18 +635,20 @@ locales y construcciones.
 
 86.9
 
-04. Intereses de valores,
+04. Intereses
+de
+valores,
 créditos y bonos.
-
-3,806.2
-
 05. Utilidades:
 
 542.0
 
-01. De organismos
-descentralizados y
-empresas de
+01. De
+organismos
+descentralizados
+y
+empresas
+de
 participación estatal.
 
 0.0
@@ -556,7 +665,7 @@ en Ejercicios Fiscales Anteriores
 Pendientes de Liquidación o Pago.
 6.
 
-2,184.1
+3,806.2
 
 0.0
 0.1
@@ -582,23 +691,31 @@ Aprovechamientos
 
 204.3
 
-01. Sostenimiento de las
+01. Sostenimiento
+de
+las
 escuelas artículo 123.
 
 0.0
 
-02. Servicio de vigilancia
+02. Servicio
 forestal.
 
 0.1
 
+de
+
+vigilancia
+
 03. Otros.
-04. Provenientes de obras públicas
 
 204.2
+
+04. Provenientes de obras públicas
+de infraestructura hidráulica.
+
 110.9
 
-de infraestructura hidráulica.
 05. Participaciones en los ingresos
 derivados de la aplicación de
 leyes locales sobre herencias y
@@ -624,7 +741,10 @@ Federalizado.
 
 08. Cooperación de la Ciudad de
 México por servicios públicos
-locales prestados por la
+locales
+prestados
+por
+la
 Federación.
 
 0.0
@@ -639,7 +759,9 @@ otras obras públicas.
 0.0
 
 10. 5 por ciento de días de cama a
-cargo de establecimientos
+cargo
+de
+establecimientos
 particulares para internamiento
 de enfermos y otros destinados
 a la Secretaría de Salud.
@@ -647,20 +769,24 @@ a la Secretaría de Salud.
 0.0
 
 11. Participaciones a cargo de los
-
-1,053.5
-
-concesionarios de vías
+concesionarios
+de
+vías
 generales de comunicación y
 de empresas de abastecimiento
 de energía eléctrica.
+
+1,053.5
+
 12. Participaciones señaladas por
 la Ley Federal de Juegos y
 Sorteos.
 
 1,103.5
 
-13. Regalías provenientes de
+13. Regalías
+provenientes
+de
 fondos y explotación minera.
 
 0.0
@@ -677,21 +803,29 @@ Desarrollo Forestal:
 
 01. Aportaciones que efectúen
 los Gobiernos de la
-Ciudad de México,
+Ciudad
+de
+México,
 Estatales y Municipales,
-los organismos y
-entidades públicas,
+los
+organismos
+y
+entidades
+públicas,
 sociales y los particulares.
 
 0.0
 
-02. De las reservas
+02. De
+las
+reservas
 nacionales forestales.
 
 0.0
 
 03. Aportaciones al Instituto
-Nacional de
+Nacional
+de
 Investigaciones Forestales
 y Agropecuarias.
 
@@ -709,14 +843,16 @@ y Agropecuarias.
 
 0.0
 
-18. Participaciones por la
+18. Participaciones
+por
+la
 explotación de obras del
-
-0.0
-
 dominio público señaladas por
 la Ley Federal del Derecho de
 Autor.
+
+0.0
+
 19. Provenientes de decomiso y de
 bienes que pasan a propiedad
 del Fisco Federal.
@@ -751,10 +887,12 @@ de Deuda.
 
 0.0
 
-03. Rendimiento mínimo
+03. Rendimiento
 garantizado.
 
 0.0
+
+mínimo
 
 04. Otros.
 
@@ -765,23 +903,29 @@ materia energética:
 
 0.0
 
-01. Agencia Nacional de
+01. Agencia
+Nacional
+de
 Seguridad Industrial y de
-Protección al Medio
-Ambiente del Sector
+Protección
+al
+Medio
+Ambiente
+del
+Sector
 Hidrocarburos.
 
 0.0
 
-02. Comisión Nacional de
+02. Comisión Nacional
 Hidrocarburos.
+
+de
 
 0.0
 
 03. Comisión Reguladora de
 Energía.
-
-7.
 
 0.0
 
@@ -808,7 +952,9 @@ particulares.
 0.0
 
 03. Inversiones en obras de
-agua potable y
+agua
+potable
+y
 alcantarillado.
 
 0.0
@@ -826,53 +972,62 @@ alcantarillado.
 0.0
 
 69. Aprovechamientos no Comprendidos
+
+0.0
+
 en la Ley de Ingresos Vigente,
 Causados en Ejercicios Fiscales
 Anteriores Pendientes de Liquidación
 o Pago.
+7.
 
-0.0
-
-Ingresos por Ventas de Bienes,
+Ingresos por Ventas de Bienes, 1,303,977.5
 Prestación de Servicios y Otros
 Ingresos
 71. Ingresos por Venta de Bienes y
-Prestación de Servicios de
+Prestación
+de
+Servicios
+de
 Instituciones Públicas de Seguridad
-
-1,303,977.5
+Social:
 
 78,495.9
 
-Social:
 01. Instituto Mexicano del Seguro
 Social.
 
 28,526.0
 
-02. Instituto de Seguridad y
+02. Instituto
+de
+Seguridad
+y
 Servicios Sociales de los
 Trabajadores del Estado.
 
 49,969.9
 
-72. Ingresos por Ventas de Bienes y
-Prestación de Servicios de
+72. Ingresos por Ventas de Bienes y 1,225,481.6
+Prestación
+de
+Servicios
+de
 Empresas Productivas del Estado:
-
-1,225,481.6
-
 01. Petróleos Mexicanos.
-
-826,492.8
-
-02. Comisión Federal de
+02. Comisión
 Electricidad.
 
-398,988.8
+Federal
+
+826,492.8
+de
 
 73. Ingresos por Venta de Bienes y
 Prestación de Servicios de Entidades
+
+398,988.8
+
 Paraestatales y Fideicomisos No
 Empresariales y No Financieros.
 74. Ingresos por Venta de Bienes y
@@ -882,17 +1037,23 @@ Financieras con Participación Estatal
 Mayoritaria.
 75. Ingresos por Venta de Bienes y
 Prestación de Servicios de Entidades
-Paraestatales Empresariales
-Financieras Monetarias con
+Paraestatales
+Empresariales
+Financieras
+Monetarias
+con
 Participación Estatal Mayoritaria.
 76. Ingresos por Venta de Bienes y
 Prestación de Servicios de Entidades
-Paraestatales Empresariales
+Paraestatales
+Empresariales
 Financieras No Monetarias con
 Participación Estatal Mayoritaria.
-
 77. Ingresos por Venta de Bienes y
-Prestación de Servicios de
+Prestación
+de
+Servicios
+de
 Fideicomisos Financieros Públicos
 con Participación Estatal Mayoritaria.
 78. Ingresos por Venta de Bienes y
@@ -900,23 +1061,34 @@ Prestación de Servicios de los
 Poderes Legislativo y Judicial, y de
 los Órganos Autónomos.
 79. Otros Ingresos.
+
 8.
 
-Participaciones, Aportaciones,
+Participaciones,
+Aportaciones,
 Convenios, Incentivos Derivados de la
 Colaboración Fiscal y Fondos Distintos
 de Aportaciones
 81. Participaciones.
 82. Aportaciones.
 83. Convenios.
-84. Incentivos Derivados de la
+84. Incentivos
+Derivados
 Colaboración Fiscal.
-85. Fondos Distintos de Aportaciones.
 
+de
+
+la
+
+85. Fondos Distintos de Aportaciones.
 9.
 
-Transferencias, Asignaciones,
-Subsidios y Subvenciones, y
+Transferencias,
+Asignaciones,
+Subsidios
+y
+Subvenciones,
+y
 Pensiones y Jubilaciones
 
 487,742.6
@@ -936,26 +1108,31 @@ Pensiones y Jubilaciones
 97. Transferencias del Fondo Mexicano
 del Petróleo para la Estabilización y
 el Desarrollo:
+01. Ordinarias.
 
 487,742.6
 
-01. Ordinarias.
+487,742.6
+
 02. Extraordinarias.
 0.
 
-487,742.6
 0.0
 
 Ingresos Derivados de Financiamientos 1,176,173.8
 01. Endeudamiento interno:
-01. Endeudamiento interno del
+01. Endeudamiento interno
 Gobierno Federal.
-02. Otros financiamientos:
-01. Diferimiento de pagos.
 
 1,210,347.0
-1,168,313.9
+del 1,168,313.9
+
+02. Otros financiamientos:
+
 42,033.1
+
+01. Diferimiento de pagos.
+
 42,033.1
 
 02. Otros.
@@ -966,12 +1143,13 @@ Gobierno Federal.
 
 0.0
 
-01. Endeudamiento externo del
+01. Endeudamiento externo
 Gobierno Federal.
+
+del
 
 0.0
 
-03. Financiamiento Interno.
 04. Déficit de organismos y empresas de
 control directo.
 
@@ -982,10 +1160,10 @@ Estado.
 
 0.0
 
-Informativo: Endeudamiento neto del Gobierno
-Federal (0.01.01+0.02.01)
+03. Financiamiento Interno.
 
-1,168,313.9
+Informativo: Endeudamiento neto del Gobierno 1,168,313.9
+Federal (0.01.01+0.02.01)
 
 Cuando una ley que establezca alguno de los
 ingresos previstos en este artículo, contenga
@@ -996,7 +1174,6 @@ precepto.
 Se faculta al Ejecutivo Federal para que durante el
 ejercicio fiscal de 2023, otorgue los beneficios fiscales
 que sean necesarios para dar debido cumplimiento a
-
 las resoluciones derivadas de la aplicación de
 mecanismos internacionales para la solución de
 controversias legales que determinen una violación a
@@ -1024,6 +1201,7 @@ Presupuesto
 y
 Responsabilidad
 Hacendaria.
+
 Se estima que durante el ejercicio fiscal de 2023, en
 términos monetarios, el pago en especie del impuesto
 sobre servicios expresamente declarados de interés
@@ -1036,7 +1214,6 @@ Federación el 31 de diciembre de 1968, ascenderá al
 equivalente de 455 millones de pesos.
 La aplicación de los recursos a que se refiere el
 párrafo anterior, se hará de acuerdo a lo establecido
-
 en el Presupuesto de Egresos de la Federación para
 el Ejercicio Fiscal de 2023.
 Con el objeto de que el Gobierno Federal continúe
@@ -1054,6 +1231,7 @@ a que se refiere dicho Transitorio, la Secretaría de
 Hacienda y Crédito Público, por conducto del área
 responsable de la banca y ahorro, continuará con la
 instrumentación, fortalecimiento y supervisión de las
+
 acciones o esquemas que correspondan para
 coadyuvar o intervenir en el resarcimiento de los
 ahorradores afectados.
@@ -1069,7 +1247,6 @@ especie, se registrarán en cuentas de orden, con la
 finalidad de no afectar el patrimonio o activos de los
 entes públicos federales que lleven a cabo esas
 operaciones.
-
 El producto de la enajenación de los derechos y
 bienes decomisados o abandonados relacionados con
 los procesos judiciales y administrativos a que se
@@ -1083,6 +1260,7 @@ para restituir al Gobierno Federal los recursos
 públicos aportados para el resarcimiento de los
 ahorradores afectados a que se refiere dicho
 precepto.
+
 Los recursos que durante el ejercicio fiscal de 2023
 se destinen al Fondo de Estabilización de los Ingresos
 de las Entidades Federativas en términos de las
@@ -1106,7 +1284,6 @@ Para efectos de lo previsto en el artículo 107,
 fracción I de la Ley Federal de Presupuesto y
 Responsabilidad Hacendaria, la Secretaría de
 Hacienda y Crédito Público deberá incluir en los
-
 Informes sobre la Situación Económica, las Finanzas
 Públicas y la Deuda Pública información del origen de
 los ingresos generados por los aprovechamientos a
@@ -1126,6 +1303,7 @@ caso
 tengan
 dichos
 aprovechamientos.
+
 La Secretaría de Hacienda y Crédito Público deberá
 reportar en los Informes Trimestrales que se
 presenten al Congreso de la Unión en términos del
@@ -1148,7 +1326,6 @@ del Estado. El importe del gasto que realice dicho
 Instituto con cargo a los recursos acumulados en las
 Reservas a que se refieren los artículos 237 y 238 de
 la Ley del Instituto de Seguridad y Servicios Sociales
-
 de los Trabajadores del Estado, deberá ser registrado
 en los ingresos y en los egresos del flujo de efectivo
 autorizado para el ejercicio fiscal que corresponda.
@@ -1157,6 +1334,7 @@ conducto de la Secretaría de Hacienda y Crédito
 Público, para contratar y ejercer créditos, empréstitos
 y otras formas del ejercicio del crédito público, incluso
 mediante la emisión de valores, en los términos de la
+
 Ley Federal de Deuda Pública y para el
 financiamiento del Presupuesto de Egresos de la
 Federación para el Ejercicio Fiscal de 2023, por un
@@ -1181,7 +1359,6 @@ Estados Unidos de América, el cual incluye el monto
 de endeudamiento neto externo que se ejercería con
 organismos financieros internacionales. De igual
 forma, el Ejecutivo Federal y las entidades podrán
-
 contratar obligaciones constitutivas de deuda pública
 externa adicionales a lo autorizado, siempre que el
 endeudamiento neto interno sea menor al establecido
@@ -1189,6 +1366,7 @@ en el presente artículo en un monto equivalente al de
 dichas obligaciones adicionales. El cómputo de lo
 anterior se realizará, en una sola ocasión, el último
 día hábil bancario del ejercicio fiscal de 2023
+
 considerando el tipo de cambio para solventar
 obligaciones denominadas en moneda extranjera
 pagaderas en la República Mexicana que publique el
@@ -1214,11 +1392,11 @@ Bancario a contratar créditos o emitir valores con el
 único objeto de canjear o refinanciar exclusivamente
 sus obligaciones financieras, a fin de hacer frente a
 sus obligaciones de pago, otorgar liquidez a sus
-
 títulos y, en general, mejorar los términos y
 condiciones de sus obligaciones financieras. Los
 recursos obtenidos con esta autorización únicamente
 se podrán aplicar en los términos establecidos en la
+
 Ley de Protección al Ahorro Bancario incluyendo sus
 artículos transitorios. Sobre estas operaciones de
 canje y refinanciamiento se deberá informar
@@ -1246,9 +1424,9 @@ características de la emisión y de la colocación, el
 citado Banco procurará las mejores condiciones para
 el mencionado Instituto dentro de lo que el mercado
 permita.
-
 El Banco de México deberá efectuar la colocación
 de los valores a que se refiere el párrafo anterior en
+
 un plazo no mayor de 15 días hábiles contado a partir
 de la fecha en que se presente la insuficiencia de
 fondos en la cuenta del Instituto para la Protección al
@@ -1309,8 +1487,8 @@ interna o externa adicionales a lo autorizado, siempre
 que el endeudamiento neto externo o interno,
 respectivamente, sea menor al establecido en este
 párrafo en un monto equivalente al de dichas
-obligaciones adicionales. El uso del endeudamiento
 
+obligaciones adicionales. El uso del endeudamiento
 anterior deberá cumplir con la meta de balance
 financiero aprobado.
 Se autoriza para la Comisión Federal de Electricidad
@@ -1340,10 +1518,10 @@ obligaciones denominadas en moneda extranjera
 pagaderas en la República Mexicana que publique el
 Banco de México en el Diario Oficial de la Federación,
 así como la equivalencia del peso mexicano con otras
+
 monedas que dé a conocer el propio Banco de
 México, en todos los casos en la fecha en que se
 hubieren realizado las operaciones correspondientes.
-
 La Secretaría de Hacienda y Crédito Público
 informará al Congreso de la Unión de manera
 trimestral sobre el avance del Programa Anual de
@@ -1374,6 +1552,7 @@ Municipios.
 Artículo 4o. En el ejercicio fiscal de 2023, la
 Federación percibirá los ingresos por proyectos de
 infraestructura productiva de largo plazo de inversión
+
 financiada directa y condicionada de la Comisión
 Federal de Electricidad por un total de 286,304.3
 millones de pesos, de los cuales 140,923.0 millones
@@ -1385,7 +1564,6 @@ pesos
 a
 inversión
 condicionada.
-
 Artículo 5o. Se autoriza al Ejecutivo Federal a
 contratar proyectos de inversión financiada de la
 Comisión Federal de Electricidad en los términos de
@@ -1409,6 +1587,7 @@ productivas subsidiarias deberán presentar las
 declaraciones, hacer los pagos y cumplir con las
 obligaciones de retener y enterar las contribuciones a
 cargo de terceros, ante la Tesorería de la Federación,
+
 a través del esquema para la presentación de
 declaraciones que para tal efecto establezca el
 Servicio de Administración Tributaria.
@@ -1418,7 +1597,6 @@ suspender pagos a cuenta de los pagos provisionales
 mensuales del derecho por la utilidad compartida,
 previstos en el artículo 42 de la Ley de Ingresos sobre
 Hidrocarburos.
-
 La Secretaría de Hacienda y Crédito Público
 informará y explicará las modificaciones a los montos
 que, por ingresos extraordinarios o una baja en los
@@ -1439,6 +1617,7 @@ concentrados en la Tesorería de la Federación por el
 Fondo Mexicano del Petróleo para la Estabilización y
 el Desarrollo, a más tardar el día siguiente de su
 recepción, a cuenta de la transferencia a que se
+
 refiere el artículo 16, fracción II, inciso g) de la Ley del
 Fondo Mexicano del Petróleo para la Estabilización y
 el Desarrollo.
@@ -1450,7 +1629,6 @@ disposiciones de la Ley Federal de Presupuesto y
 Responsabilidad Hacendaria", publicado en el Diario
 Oficial de la Federación el 13 de noviembre de 2008,
 eran considerados proyectos de infraestructura
-
 productiva de largo plazo en términos del artículo 32
 de dicha Ley, serán registrados como inversión.
 Capítulo II
@@ -1465,6 +1643,7 @@ la Federación, se autorice el pago a plazos, se
 aplicará la tasa de recargos que a continuación
 se establece, sobre los saldos y durante el
 periodo de que se trate:
+
 1. Tratándose de pagos a plazos en
 parcialidades de hasta 12 meses, la tasa de
 recargos será del 1.26 por ciento mensual.
@@ -1481,7 +1660,6 @@ Las tasas de recargos establecidas en la fracción II
 de este artículo incluyen la actualización realizada
 conforme a lo establecido por el Código Fiscal de la
 Federación.
-
 Artículo 9o. Se ratifican los acuerdos y
 disposiciones de carácter general expedidos en el
 Ramo de Hacienda, de las que hayan derivado
@@ -1493,6 +1671,7 @@ Crédito Público sobre la causación de tales
 gravámenes.
 Se ratifican los convenios que se hayan celebrado
 entre la Federación por una parte y las entidades
+
 federativas, organismos autónomos por disposición
 constitucional de éstas, organismos públicos
 descentralizados de las mismas y los municipios, por
@@ -1514,7 +1693,6 @@ Bienes del Sector Público.
 Artículo 10. El Ejecutivo Federal, por conducto de la
 Secretaría de Hacienda y Crédito Público, queda
 autorizado para fijar o modificar los aprovechamientos
-
 que se cobrarán en el ejercicio fiscal de 2023, incluso
 por el uso, goce, aprovechamiento o explotación de
 bienes sujetos al régimen de dominio público de la
@@ -1522,6 +1700,7 @@ Federación o por la prestación de servicios en el
 ejercicio de las funciones de derecho público por los
 que no se establecen derechos o que por cualquier
 causa legal no se paguen.
+
 Para establecer el monto de los aprovechamientos
 se tomarán en consideración criterios de eficiencia
 económica y de saneamiento financiero y, en su caso,
@@ -1546,10 +1725,10 @@ saneamiento financiero.
 III. Se podrán establecer aprovechamientos
 diferenciales por el uso, goce, aprovechamiento
 o explotación de bienes o por la prestación de
-
 servicios, cuando éstos respondan a estrategias
 de comercialización o racionalización y se
 otorguen de manera general.
+
 Durante el ejercicio fiscal de 2023, la Secretaría de
 Hacienda y Crédito Público, mediante resoluciones de
 carácter particular, aprobará los montos de los
@@ -1578,17 +1757,8 @@ servidor público facultado o certificados digitales,
 equipos o sistemas automatizados; para lo cual, en
 sustitución de la firma autógrafa, se emplearán
 medios de identificación electrónica y la firma
-
-electrónica avanzada,
+electrónica avanzada, en términos de las
 disposiciones aplicables.
-
-en
-
-términos
-
-de
-
-las
 
 El uso de los medios de identificación electrónica a
 que se refiere el párrafo anterior producirá los mismos
@@ -1648,61 +1818,32 @@ a que se refiere este artículo para el ejercicio fiscal de
 2022, multiplicados por el factor que corresponda
 según el mes en el que fueron autorizados o, en el
 caso de haberse realizado una modificación posterior,
+
 a partir de la última vez en la que fueron modificados
 en dicho ejercicio fiscal, conforme a la tabla siguiente:
 MES
-
 FACTOR
-
 Enero
-
 1.0771
-
 Febrero
-
 1.0707
-
 Marzo
-
 1.0619
-
 Abril
-
 1.0515
-
 Mayo
-
 1.0459
-
 Junio
-
 1.0440
-
 Julio
-
 1.0353
-
 Agosto
-
 1.0277
-
-Septiembr
-e
-
-1.0232
-
+Septiembre 1.0232
 Octubre
-
 1.0184
-
-Noviembre
-
-1.0136
-
-Diciembre
-
-1.0053
-
+Noviembre 1.0136
+Diciembre 1.0053
 En el caso de aprovechamientos que, en el ejercicio
 inmediato anterior, se hayan fijado en porcentajes, se
 continuarán aplicando durante el ejercicio fiscal de
@@ -1720,10 +1861,10 @@ cuotas
 compensatorias, recuperaciones de capital, aquéllos a
 que se refieren la Ley Federal para la Administración
 y Enajenación de Bienes del Sector Público, la Ley
+
 Federal de Competencia Económica, y la Ley Federal
 de Telecomunicaciones y Radiodifusión, así como los
 accesorios de los aprovechamientos no requieren de
-
 autorización por parte de la Secretaría de Hacienda y
 Crédito Público para su cobro.
 Tratándose de aprovechamientos que no hayan sido
@@ -1750,12 +1891,12 @@ Federación, deberá informar a la Secretaría de
 Hacienda y Crédito Público, a más tardar en el mes
 de marzo de 2023, los conceptos y montos de los
 ingresos que hayan percibido por aprovechamientos,
+
 así como de los enteros efectuados a la Tesorería de
 la Federación por dichos conceptos, durante el
 ejercicio fiscal inmediato anterior.
 Los sujetos a que se refiere el párrafo anterior
 deberán presentar un informe a la Secretaría de
-
 Hacienda y Crédito Público, durante los primeros 15
 días del mes de julio de 2023, respecto de los
 ingresos y su concepto que hayan percibido por
@@ -1777,8 +1918,12 @@ de 2023, sólo surtirán sus efectos para ese año y, en
 su caso, dicha Secretaría autorizará el destino
 específico para los productos que perciba la
 dependencia correspondiente.
-Para los efectos del párrafo anterior, las
-dependencias interesadas estarán obligadas a
+Para los efectos del
+dependencias interesadas
+
+párrafo anterior, las
+estarán obligadas a
+
 someter para su aprobación, durante los meses de
 enero y febrero de 2023, los montos de los productos
 que se cobren de manera regular. Los productos que
@@ -1788,7 +1933,6 @@ cobrados por la dependencia de que se trate a partir
 del 1 de marzo de 2023. Asimismo, los productos
 cuya autorización haya sido negada por la Secretaría
 de Hacienda y Crédito Público, no podrán ser
-
 cobrados por la dependencia de que se trate, a partir
 de la fecha en que surta efectos la notificación de la
 resolución respectiva. Las solicitudes que formulen
@@ -1810,63 +1954,35 @@ tendrán el mismo valor vinculatorio.
 En tanto no sean autorizados los productos a que se
 refiere este artículo para el ejercicio fiscal de 2023, se
 aplicarán los vigentes al 31 de diciembre de 2022,
+
 multiplicados por el factor que corresponda según el
 mes en que fueron autorizados o, en el caso de
 haberse realizado una modificación posterior, a partir
 de la última vez en la que fueron modificados en dicho
 ejercicio fiscal, conforme a la tabla siguiente:
 MES
-
 FACTOR
-
 Enero
-
 1.0771
-
 Febrero
-
 1.0707
-
 Marzo
-
 1.0619
-
 Abril
-
 1.0515
-
 Mayo
-
 1.0459
-
 Junio
-
 1.0440
-
 Julio
-
 1.0353
-
 Agosto
-
 1.0277
-
-Septiembre
-
-1.0232
-
+Septiembre 1.0232
 Octubre
-
 1.0184
-
-Noviembre
-
-1.0136
-
-Diciembre
-
-1.0053
-
+Noviembre 1.0136
+Diciembre 1.0053
 En el caso de productos que, en el ejercicio
 inmediato anterior, se hayan fijado en porcentajes, se
 continuarán aplicando durante el ejercicio fiscal de
@@ -1883,6 +1999,7 @@ concepto
 de
 penas
 convencionales, los que se establezcan como
+
 contraprestación derivada de una licitación, subasta o
 remate, los intereses, así como aquellos productos
 que provengan de arrendamientos o enajenaciones
@@ -1892,7 +2009,6 @@ para Devolver al Pueblo lo Robado y los accesorios
 de los productos, no requieren de autorización por
 parte de la Secretaría de Hacienda y Crédito Público
 para su cobro.
-
 De los ingresos provenientes de las enajenaciones
 realizadas por el Instituto para Devolver al Pueblo lo
 Robado, respecto de los bienes propiedad del
@@ -1914,6 +2030,7 @@ Robado, respecto de los bienes que pasan a
 propiedad del Fisco Federal conforme a las
 disposiciones fiscales, que hayan sido transferidos
 por el Servicio de Administración Tributaria, el
+
 Instituto para Devolver al Pueblo lo Robado deberá
 descontar los importes necesarios para financiar otras
 transferencias o mandatos de la citada entidad
@@ -1925,7 +2042,6 @@ que se destinará a financiar otras transferencias o
 mandatos y el remanente será enterado a la
 Tesorería de la Federación en los términos de las
 disposiciones aplicables. Un mecanismo como el
-
 previsto en el presente párrafo, se podrá aplicar a los
 ingresos provenientes de las enajenaciones de bienes
 de comercio exterior que transfieran las autoridades
@@ -1945,6 +2061,7 @@ el desglose de las operaciones efectuadas por motivo
 de las transferencias de bienes del Gobierno Federal
 de las autoridades mencionadas en los párrafos
 citados.
+
 Los
 ingresos
 netos
@@ -1963,7 +2080,6 @@ recepción de los bienes transferidos o en el convenio
 que al efecto se celebre se señale dicha situación. Lo
 anterior no resulta aplicable a las enajenaciones de
 bienes decomisados a que se refiere el décimo tercer
-
 párrafo del artículo 13 de esta Ley. Lo previsto en el
 presente párrafo se aplicará sin perjuicio de lo
 dispuesto en los artículos 27, 89 y 93 de la Ley
@@ -1981,6 +2097,7 @@ de los conceptos previstos en los artículos 234 y 237
 de la Ley Nacional de Extinción de Dominio.
 Tratándose de productos que no se hayan cobrado
 en el ejercicio inmediato anterior o que no se cobren
+
 de manera regular, las dependencias interesadas
 deberán someter para su aprobación a la Secretaría
 de Hacienda y Crédito Público el monto de los
@@ -1995,7 +2112,6 @@ hayan percibido por productos, así como de la
 concentración efectuada a la Tesorería de la
 Federación por dichos conceptos durante el ejercicio
 fiscal inmediato anterior.
-
 Las dependencias a que se refiere el párrafo anterior
 deberán presentar un informe a la Secretaría de
 Hacienda y Crédito Público, durante los primeros 15
@@ -2010,6 +2126,7 @@ del artículo 22 de la Ley de Tesorería de la
 Federación, salvo en los siguientes casos:
 I. Se concentrarán en la Tesorería de la
 Federación, a más tardar el día hábil siguiente al
+
 de
 su
 recepción,
@@ -2037,7 +2154,6 @@ concepto en el rubro correspondiente de esta
 Ley, salvo por lo dispuesto en la fracción I de
 este artículo, y deberán conservar a disposición
 de los órganos revisores de la Cuenta Pública
-
 Federal, la documentación comprobatoria de
 dichos ingresos.
 Para los efectos del registro de los ingresos a
@@ -2049,6 +2165,7 @@ avalados por el órgano interno de control o de la
 comisión respectiva del órgano de gobierno,
 según sea el caso, especificando los importes
 del impuesto al valor agregado que hayan
+
 trasladado por los actos o las actividades que
 dieron lugar a la obtención de los ingresos;
 III. Las entidades de control indirecto deberán
@@ -2069,7 +2186,6 @@ oficinas de los propios institutos o por las
 instituciones de crédito que autorice la
 Secretaría de Hacienda y Crédito Público,
 debiendo cumplirse con los requisitos contables
-
 establecidos y reflejarse en la Cuenta Pública
 Federal, y
 V. Los ingresos que obtengan las instituciones
@@ -2079,6 +2195,7 @@ educación media superior, superior, de
 posgrado, de investigación y de formación para
 el trabajo del sector público, por la prestación de
 servicios, venta de bienes derivados de sus
+
 actividades sustantivas o por cualquier otra vía,
 incluidos los que generen sus escuelas, centros
 y unidades de enseñanza y de investigación,
@@ -2102,13 +2219,13 @@ comercialización de certificados de reducción de
 gases de efecto invernadero, como dióxido de
 carbono y metano, se destinarán a las entidades o a
 las empresas productivas del Estado que los generen,
-
 para la realización del proyecto que los generó o
 proyectos de la misma naturaleza. Las entidades o las
 empresas productivas del Estado podrán celebrar
 convenios de colaboración con la iniciativa privada.
 Las contribuciones, productos o aprovechamientos a
 los que las leyes de carácter no fiscal otorguen una
+
 naturaleza distinta a la establecida en las leyes
 fiscales, tendrán la naturaleza establecida en las
 leyes fiscales. Se derogan las disposiciones que se
@@ -2135,7 +2252,6 @@ concentrados en la Tesorería de la Federación bajo la
 naturaleza de aprovechamientos, según su origen, y
 se podrán destinar a los fines que determine la
 Secretaría de Hacienda y Crédito Público, salvo
-
 aquéllos para los que esté previsto un destino distinto
 en el instrumento correspondiente. Asimismo, los
 ingresos
@@ -2143,6 +2259,7 @@ excedentes
 provenientes
 de
 los
+
 aprovechamientos a que se refiere el numeral
 6.62.01, con excepción del numeral 6.62.01.04 del
 artículo 1o. de esta Ley, por concepto de
@@ -2206,9 +2323,9 @@ sujetarse a lo dispuesto por la Ley de Adquisiciones,
 Arrendamientos y Servicios del Sector Público.
 Además de los conceptos señalados en los párrafos
 tercero y cuarto del presente artículo, a los ingresos
+
 que se obtengan por la enajenación de bienes,
 incluyendo acciones, por la enajenación y
-
 recuperación de activos financieros y por la cesión de
 derechos, todos ellos propiedad del Gobierno Federal,
 o de cualquier entidad transferente en términos de la
@@ -2242,10 +2359,10 @@ que
 sea
 necesario
 concentrarlos en la Tesorería de la Federación. Estos
+
 recursos deberán identificarse por el liquidador,
 fiduciario o responsable del proceso en una
 subcuenta específica.
-
 Los pasivos a cargo de organismos descentralizados
 en proceso de desincorporación que tengan como
 acreedor al Gobierno Federal, con excepción de
@@ -2283,13 +2400,13 @@ entidades constituidas o en las que participen
 entidades paraestatales no apoyadas u otras
 entidades con recursos propios, los recursos
 remanentes que les correspondan de dichos procesos
+
 ingresarán a sus respectivas tesorerías para hacer
 frente a sus gastos.
 Los recursos disponibles de los convenios de cesión
 de derechos y obligaciones suscritos, como parte de
 la estrategia de conclusión de los procesos de
 desincorporación de entidades, entre el Instituto para
-
 Devolver al Pueblo lo Robado y las entidades cuyos
 procesos de desincorporación concluyeron, podrán
 ser utilizados por éste, para sufragar las erogaciones
@@ -2314,6 +2431,7 @@ Administración y Enajenación de Bienes del Sector
 Público, previa deducción de los conceptos previstos
 en los artículos 90, 92 y 93 de la Ley Federal para la
 Administración y Enajenación de Bienes del Sector
+
 Público. Los recursos que se concentren en la
 Tesorería de la Federación se considerarán
 aprovechamientos y se destinarán a los fines que
@@ -2322,7 +2440,6 @@ República, en términos de las disposiciones
 aplicables.
 Los ingresos provenientes de numerario, así como
 de los que se obtengan de la conversión de divisas y
-
 de la enajenación de bienes, activos o empresas que
 realice el Instituto para Devolver al Pueblo lo Robado,
 que hayan sido declarados abandonados por parte de
@@ -2345,6 +2462,7 @@ Público, una vez satisfecha la reparación a la víctima,
 y previa deducción de los gastos indirectos de
 operación que correspondan, se entregarán en partes
 iguales, al Poder Judicial de la Federación, a la
+
 Fiscalía General de la República, a la Comisión
 Ejecutiva de Atención a Víctimas para el pago de las
 ayudas, asistencia y reparación integral a víctimas, en
@@ -2354,7 +2472,6 @@ programas sociales conforme a los objetivos
 establecidos en el Plan Nacional de Desarrollo, u
 otras políticas prioritarias, conforme lo determine el
 Gabinete Social de la Presidencia de la República,
-
 con excepción de lo dispuesto en el párrafo décimo
 primero del artículo 1o. de la presente Ley.
 Los ingresos que la Federación obtenga en términos
@@ -2376,6 +2493,7 @@ cubrirán los adeudos generados hasta con el 30 por
 ciento de los remanentes de los ingresos y el resto se
 enterará a la Tesorería de la Federación. Lo previsto
 en el presente párrafo se aplicará sin perjuicio de lo
+
 dispuesto en el artículo 93 de la Ley Federal para la
 Administración y Enajenación de Bienes del Sector
 Público.
@@ -2386,7 +2504,6 @@ paraestatal que estén sujetas a control en los
 términos de la Ley Federal de Presupuesto y
 Responsabilidad Hacendaria, de su Reglamento y del
 Presupuesto de Egresos de la Federación para el
-
 Ejercicio Fiscal de 2023, entre las que se comprende
 de manera enunciativa a las siguientes:
 I. Instituto Mexicano del Seguro Social.
@@ -2404,6 +2521,7 @@ infracciones derivadas del incumplimiento de
 obligaciones fiscales federales distintas a las
 obligaciones de pago, entre otras, las relacionadas
 con el Registro Federal de Contribuyentes, con la
+
 presentación de declaraciones, solicitudes o avisos y
 con la obligación de llevar contabilidad, así como
 aquéllos a los que se les impongan multas por no
@@ -2418,7 +2536,6 @@ del ejercicio de facultades de comprobación, pagarán
 el 50 por ciento de la multa que les corresponda si
 llevan a cabo dicho pago después de que las
 autoridades fiscales inicien el ejercicio de sus
-
 facultades de comprobación y hasta antes de que se
 le levante el acta final de la visita domiciliaria o se
 notifique el oficio de observaciones a que se refiere la
@@ -2436,6 +2553,7 @@ observaciones a que se refiere la fracción IV del
 artículo 48 del Código Fiscal de la Federación o se
 notifique la resolución provisional a que se refiere el
 artículo 53-B, primer párrafo, fracción I del citado
+
 Código, pero antes de que se notifique la resolución
 que determine el monto de las contribuciones
 omitidas o la resolución definitiva a que se refiere el
@@ -2450,7 +2568,6 @@ I. Se otorga un estímulo fiscal a las personas
 que realicen actividades empresariales, que
 obtengan en el ejercicio fiscal en el que
 adquieran el diésel o el biodiésel y sus
-
 mezclas, ingresos totales anuales para los
 efectos del impuesto sobre la renta menores a
 60 millones de pesos y que para determinar
@@ -2473,6 +2590,7 @@ que enajenen diésel o biodiésel y sus mezclas
 en territorio nacional hayan causado por la
 enajenación de dichos combustibles, en
 términos del artículo 2o., fracción I, inciso D),
+
 numeral 1, subinciso c) o numeral 2, según
 corresponda al tipo de combustible, de la Ley
 del Impuesto Especial sobre Producción y
@@ -2494,7 +2612,6 @@ acuerdo con el artículo 179 de la Ley del
 Impuesto sobre la Renta. Para los efectos de
 este párrafo, no se considerarán dentro de los
 ingresos totales, los provenientes de la
-
 enajenación de activos fijos o activos fijos y
 terrenos de su propiedad que hubiesen estado
 afectos a su actividad.
@@ -2512,6 +2629,7 @@ Adicionalmente, para que proceda la
 aplicación del estímulo al biodiésel y sus
 mezclas, el beneficiario deberá contar con el
 pedimento de importación o con el
+
 comprobante fiscal correspondiente a la
 adquisición del biodiésel o sus mezclas, en el
 que se consigne la cantidad de cada uno de
@@ -2530,7 +2648,6 @@ asienten los datos mencionados o que en este
 pedimento de importación, no procederá la
 aplicación del estímulo al biodiésel y sus
 mezclas.
-
 II. Para los efectos de lo dispuesto en la fracción
 anterior, los contribuyentes estarán a lo
 siguiente:
@@ -2543,6 +2660,7 @@ o numeral 2 de la Ley del Impuesto Especial
 sobre Producción y Servicios, según
 corresponda al tipo de combustible, con los
 ajustes que, en su caso, correspondan,
+
 vigente en el momento en que se haya
 realizado la importación o adquisición del
 diésel o el biodiésel y sus mezclas, por el
@@ -2566,7 +2684,6 @@ de multiplicar el valor en aduana del
 pedimento de importación o el precio
 consignado en el comprobante fiscal de
 adquisición del diésel o del biodiésel y sus
-
 mezclas en las estaciones de servicio,
 incluido el impuesto al valor agregado, por
 el factor de 0.355, en lugar de aplicar lo
@@ -2577,6 +2694,7 @@ impuesto correspondiente al artículo 2o.-A
 de la Ley del Impuesto Especial sobre
 Producción y Servicios, incluido dentro del
 precio señalado.
+
 El acreditamiento a que se refiere la fracción
 anterior podrá efectuarse contra el impuesto
 sobre la renta causado en el ejercicio que
@@ -2599,7 +2717,6 @@ silvícolas comprendidas en la fracción I del
 presente apartado podrán solicitar la
 devolución del monto del impuesto especial
 sobre producción y servicios que tuvieran
-
 derecho a acreditar en los términos de la
 fracción II que antecede, en lugar de efectuar
 el acreditamiento a que la misma se refiere,
@@ -2607,6 +2724,7 @@ siempre que cumplan con lo dispuesto en esta
 fracción.
 Las personas morales que cumplan con sus
 obligaciones fiscales en los términos de los
+
 artículos 74 y 75 del Capítulo VIII del Título II
 de la Ley del Impuesto sobre la Renta, que
 podrán solicitar la devolución a que se refiere
@@ -2632,11 +2750,11 @@ abril, julio y octubre de 2023 y enero de 2024.
 Las personas a que se refiere el primer
 párrafo de esta fracción deberán llevar un
 registro de control de consumo de diésel o de
-
 biodiésel y sus mezclas, en el que asienten
 mensualmente la totalidad del diésel o del
 biodiésel y sus mezclas que utilicen para sus
 actividades agropecuarias o silvícolas en los
+
 términos de la fracción I de este artículo, en el
 que se deberá distinguir entre el diésel o el
 biodiésel y sus mezclas que se hubiera
@@ -2696,9 +2814,9 @@ subinciso c) o el numeral 2 citados, que hayan
 pagado en su importación.
 Para los efectos del párrafo anterior, el monto
 que se podrá acreditar será el que resulte de
+
 multiplicar la cuota del impuesto especial
 sobre producción y servicios que corresponda
-
 según el tipo de combustible, conforme al
 artículo 2o., fracción I, inciso D), numeral 1,
 subinciso c) o el numeral 2 de la Ley del
@@ -2727,11 +2845,11 @@ estaciones de servicio, deberá efectuarse con:
 monedero electrónico autorizado por el
 Servicio de Administración Tributaria; tarjeta
 de crédito, débito o de servicios, expedida a
+
 favor del contribuyente que pretenda hacer el
 acreditamiento; con cheque nominativo
 expedido por el importador o adquirente para
 abono en cuenta del enajenante, o bien,
-
 transferencia electrónica de fondos desde
 cuentas abiertas a nombre del contribuyente
 en instituciones que componen el sistema
@@ -2762,13 +2880,13 @@ número del pedimento de importación con el
 que se llevó a cabo la importación del citado
 combustible y deberá recabar de su proveedor
 una copia del pedimento de importación citado
+
 en el comprobante. En caso de que en el
 pedimento de importación o en el
 comprobante fiscal de adquisición no se
 asienten los datos mencionados o que en este
 último caso no se cuente con la copia del
 pedimento de importación, no procederá la
-
 aplicación del estímulo al biodiésel y sus
 mezclas.
 Los beneficiarios del estímulo previsto en esta
@@ -2799,6 +2917,7 @@ dediquen
 exclusivamente al transporte terrestre público
 y privado, de carga o pasaje, así como el
 turístico, que utilizan la Red Nacional de
+
 Autopistas de Cuota, que obtengan en el
 ejercicio fiscal en el que hagan uso de la
 infraestructura carretera de cuota, ingresos
@@ -2812,7 +2931,6 @@ un
 acreditamiento de los gastos realizados en el
 pago de los servicios por el uso de la
 infraestructura mencionada hasta en un 50
-
 por ciento del gasto total erogado por este
 concepto. El estímulo será aplicable
 únicamente cuando se cumplan con los
@@ -2839,6 +2957,7 @@ ejercicio que tenga el contribuyente,
 correspondiente al mismo ejercicio en que se
 realicen los gastos a que se refiere la
 presente fracción, utilizando la forma oficial
+
 que mediante reglas de carácter general dé a
 conocer el Servicio de Administración
 Tributaria; en caso de no hacerlo, perderá el
@@ -2849,7 +2968,6 @@ general que determinen los porcentajes
 máximos de acreditamiento por tramo
 carretero y demás disposiciones que
 considere necesarias para la correcta
-
 aplicación del beneficio contenido en esta
 fracción.
 VI. Se otorga un estímulo fiscal a los
@@ -2867,6 +2985,7 @@ producción y servicios que corresponda, por la
 cantidad del combustible consumido en un
 mes, que no se haya sometido a un proceso
 de combustión.
+
 El monto que resulte conforme a lo señalado
 en el párrafo anterior únicamente podrá ser
 acreditado contra el impuesto sobre la renta
@@ -2882,7 +3001,6 @@ derecho a realizarlo con posterioridad.
 Se faculta al Servicio de Administración
 Tributaria para emitir las reglas de carácter
 general que determinen los porcentajes
-
 máximos de utilización del combustible no
 sujeto a un proceso de combustión por tipos
 de industria, respecto de los litros o toneladas,
@@ -2902,6 +3020,7 @@ consistente
 en
 permitir
 el
+
 acreditamiento del derecho especial sobre
 minería a que se refiere el artículo 268 de la
 Ley Federal de Derechos que hayan pagado
@@ -2919,7 +3038,6 @@ aplicación de esta fracción.
 VIII. Se otorga un estímulo fiscal a las personas
 físicas y morales residentes en México que
 enajenen libros, periódicos y revistas, cuyos
-
 ingresos totales en el ejercicio inmediato
 anterior no hubieran excedido de la cantidad
 de 6 millones de pesos, y que dichos ingresos
@@ -2931,6 +3049,7 @@ trate.
 El estímulo a que se refiere el párrafo anterior
 consiste en una deducción adicional para los
 efectos del impuesto sobre la renta, por un
+
 monto equivalente al 8 por ciento del costo de
 los libros, periódicos y revistas que adquiera
 el contribuyente.
@@ -2954,7 +3073,6 @@ acumulables con ningún otro estímulo fiscal
 establecido en esta Ley.
 Los estímulos establecidos en las fracciones IV
 y V de este apartado podrán ser acumulables
-
 entre sí, pero no con los demás estímulos
 establecidos en la presente Ley.
 Los estímulos fiscales que se otorgan en el
@@ -2962,6 +3080,7 @@ presente apartado están condicionados a que
 los beneficiarios de los mismos cumplan con los
 requisitos que para cada uno de ellos se
 establece en la presente Ley.
+
 Los beneficiarios de los estímulos fiscales
 previstos en las fracciones I a VII de este
 apartado,
@@ -2989,11 +3108,11 @@ preferenciales o diferenciales en materia de ingresos
 y contribuciones federales, distintos de los
 establecidos en la presente Ley, en el Código Fiscal
 de la Federación, en la Ley de Ingresos sobre
-
 Hidrocarburos, ordenamientos legales referentes a
 empresas productivas del Estado, organismos
 descentralizados federales que prestan los servicios
 de seguridad social, decretos presidenciales, tratados
+
 internacionales y las leyes que establecen dichas
 contribuciones, así como los reglamentos de las
 mismas.
@@ -3056,9 +3175,9 @@ de la dependencia, cada uno de los establecimientos
 de la misma en los que se otorga o proporciona, de
 manera autónoma e integral, el uso, goce,
 aprovechamiento o explotación de bienes o el servicio
+
 por el cual se cobra el aprovechamiento o producto,
 según sea el caso.
-
 Se faculta a la Secretaría de Hacienda y Crédito
 Público para que en términos de la Ley Federal de
 Presupuesto y Responsabilidad Hacendaria y su
@@ -3092,12 +3211,12 @@ caso, a los previstos en los presupuestos de las
 entidades, por actividades que no guardan
 relación directa con las funciones recurrentes de
 la institución.
+
 III. Ingresos de carácter excepcional, los cuales se
 obtienen en exceso a los contenidos en el
 calendario de los ingresos a que se refiere esta
 Ley o, en su caso, a los previstos en los
 presupuestos de las entidades, por actividades
-
 de carácter excepcional que no guardan relación
 directa con las atribuciones de la dependencia o
 entidad, tales como la recuperación de seguros,
@@ -3126,6 +3245,7 @@ la facultad de fijar o modificar en una lista la
 clasificación de los ingresos a que se refieren las
 fracciones I, II y III de este artículo. Dicha lista se dará
 a conocer a las dependencias y entidades a más
+
 tardar el último día hábil de enero de 2023 y durante
 dicho ejercicio fiscal, conforme se modifiquen.
 Los ingresos a que se refiere la fracción III de este
@@ -3133,7 +3253,6 @@ artículo se aplicarán en los términos de lo previsto en
 la fracción II y penúltimo párrafo del artículo 19 de la
 Ley Federal de Presupuesto y Responsabilidad
 Hacendaria.
-
 Artículo 20. Quedan sin efecto las exenciones
 relativas a los gravámenes a bienes inmuebles
 previstas en leyes federales a favor de organismos
@@ -3153,6 +3272,7 @@ comprendido de noviembre de 2021 a julio de
 a) Se tomaron las tasas promedio mensuales por
 instrumento, de los valores públicos
 publicados por el Banco de México.
+
 b) Se determinó el factor de ponderación
 mensual por instrumento, dividiendo las
 subastas mensuales de cada instrumento
@@ -3163,7 +3283,6 @@ instrumento, se multiplicó la tasa promedio
 mensual de cada instrumento por su
 respectivo factor de ponderación mensual,
 determinado conforme al inciso anterior.
-
 d) Para determinar la tasa ponderada mensual
 de valores públicos se sumó la tasa
 ponderada mensual por cada instrumento.
@@ -3182,6 +3301,7 @@ publicadas por el Banco de México y se
 determinó el promedio simple de dichos valores
 correspondiente al periodo de noviembre de
 2021 a julio de 2022.
+
 III. Se determinó un factor ponderado de los
 instrumentos públicos y privados en función al
 saldo promedio en circulación de los valores
@@ -3201,7 +3321,6 @@ por su respectivo factor de ponderación,
 determinado conforme a la fracción anterior, y
 posteriormente se sumaron dichos valores
 ponderados.
-
 V. Al valor obtenido conforme a la fracción
 anterior se disminuyó el valor promedio de la
 inflación mensual interanual del índice general
@@ -3216,6 +3335,7 @@ fracción V de este artículo por la tasa
 correspondiente al último tramo de la tarifa del
 artículo 152 de la Ley del Impuesto sobre la
 Renta.
+
 Artículo 22. Para efectos de lo previsto en el
 artículo 39 de la Ley de Ingresos sobre Hidrocarburos,
 los Asignatarios pagarán el derecho por la utilidad
@@ -3233,7 +3353,6 @@ acumulables para efectos de dicha Ley, los
 ingresos por apoyos económicos o monetarios
 que reciban de personas morales o fideicomisos
 autorizados para recibir donativos deducibles
-
 del impuesto sobre la renta, siempre que dichos
 apoyos económicos o monetarios se destinen
 para la reconstrucción o reparación de su casa
@@ -3245,6 +3364,7 @@ los días 7 y 19 de septiembre de 2017, que se
 listen en las declaratorias de desastre natural
 correspondientes, publicadas en el Diario Oficial
 de la Federación.
+
 II. Para los efectos de los artículos 82, fracción IV
 de la Ley del Impuesto sobre la Renta y 138 de
 su Reglamento, se considera que las
@@ -3271,7 +3391,6 @@ recibir
 donativos, se deberá cumplir con lo siguiente:
 1. Contar con autorización vigente para recibir
 donativos al menos durante los 5 años
-
 previos al momento en que se realice la
 donación, y que durante ese periodo la
 autorización correspondiente no haya sido
@@ -3279,6 +3398,7 @@ revocada o no renovada.
 2. Haber obtenido ingresos en el ejercicio
 inmediato anterior cuando menos de 5
 millones de pesos.
+
 3. Auditar sus estados financieros.
 4. Presentar un informe respecto de los
 donativos que se otorguen a organizaciones
@@ -3307,9 +3427,9 @@ primer párrafo de esta fracción, deberán
 cumplir con lo siguiente:
 1. Estar inscritas en el Registro Federal de
 Contribuyentes.
-
 2. Comprobar que han efectuado operaciones
 de atención de desastres, emergencias o
+
 contingencias por lo menos durante 3 años
 anteriores a la fecha de recepción del
 donativo.
@@ -3339,9 +3459,9 @@ otorgados a la donataria autorizada.
 donativos recibidos en su página de Internet
 o, en caso de no contar con una, en la
 página de la donataria autorizada.
+
 El Servicio de Administración Tributaria podrá
 expedir reglas de carácter general necesarias
-
 para la debida y correcta aplicación de esta
 fracción.
 Capítulo III
@@ -3368,11 +3488,11 @@ dicha Secretaría, a más tardar el 15 de marzo de
 2023.
 Artículo 25. Los estímulos fiscales y las facilidades
 administrativas que prevea la Iniciativa de Ley de
+
 Ingresos de la Federación para el Ejercicio Fiscal de
 2024 se otorgarán con base en criterios de eficiencia
 económica, no discriminación, temporalidad definida y
 progresividad.
-
 Para el otorgamiento de los estímulos fiscales
 deberá tomarse en cuenta si los objetivos pretendidos
 pudiesen alcanzarse de mejor manera con la política
@@ -3404,6 +3524,7 @@ tratamientos
 y
 regímenes
 especiales
+
 establecidos en las distintas leyes que en
 materia tributaria aplican a nivel federal.
 El documento a que se refiere el párrafo
@@ -3411,7 +3532,6 @@ anterior, tomará como base los datos
 estadísticos necesarios que el Servicio de
 Administración Tributaria está obligado a
 proporcionar, conforme a lo previsto en el
-
 artículo 22, fracción III de la Ley del Servicio de
 Administración Tributaria, y deberá contener los
 montos referidos estimados para el ejercicio
@@ -3429,6 +3549,7 @@ caso.
 V. Los beneficios sociales y económicos
 asociados a cada una de las renuncias
 recaudatorias.
+
 B. Un reporte de las personas morales y
 fideicomisos autorizados para recibir donativos
 deducibles para los efectos del impuesto sobre
@@ -3443,7 +3564,6 @@ III. Ingresos por donativos recibidos en especie
 de nacionales.
 IV. Ingresos por donativos recibidos en especie
 de extranjeros.
-
 V. Ingresos obtenidos por arrendamiento de
 bienes.
 VI. Ingresos obtenidos por dividendos.
@@ -3454,6 +3574,7 @@ por
 intereses
 devengados a favor y ganancia cambiaria.
 IX. Otros ingresos.
+
 X. Erogaciones efectuadas por
 salarios y gastos relacionados.
 
@@ -3480,9 +3601,9 @@ C. Para la generación del reporte a que se refiere
 el Apartado B de este artículo, la información se
 obtendrá de aquélla que las donatarias
 autorizadas estén obligadas a presentar en la
-
 declaración de las personas morales con fines
 no lucrativos correspondiente al ejercicio fiscal
+
 de 2022, a la que se refiere el tercer párrafo del
 artículo 86 de la Ley del Impuesto sobre la
 Renta.
@@ -3544,11 +3665,11 @@ Ejecutivo Federal al Congreso de la Unión observará
 lo siguiente:
 I. Que se otorgue certidumbre jurídica a los
 contribuyentes.
+
 II. Que el pago de las contribuciones sea sencillo y
 asequible.
 III. Que el monto a recaudar sea mayor que el
 costo de su recaudación y fiscalización.
-
 IV. Que las contribuciones sean estables para las
 finanzas públicas.
 Los aspectos anteriores deberán incluirse en la
@@ -3569,6 +3690,7 @@ procedimientos descritos en forma detallada de cómo
 se realizaron los cálculos, con el fin de que puedan
 ser revisados por la Cámara de Diputados.
 Transitorios
+
 Primero. La presente Ley entrará en vigor el 1 de
 enero de 2023.
 Segundo. Se aprueban las modificaciones a la
@@ -3579,7 +3701,6 @@ lo dispuesto en el segundo párrafo del artículo 131 de
 la Constitución Política de los Estados Unidos
 Mexicanos, ha rendido el propio Ejecutivo Federal al
 Congreso de la Unión en el año 2022.
-
 Tercero. Para los efectos de la Ley de Ingresos de
 la Federación para el Ejercicio Fiscal de 2023, cuando
 de conformidad con la Ley Orgánica de la
@@ -3604,6 +3725,7 @@ de la Federación para el Ejercicio Fiscal de 2014,
 publicada en el Diario Oficial de la Federación el 20
 de noviembre de 2013 continuará destinándose en los
 términos del citado precepto.
+
 Quinto. Durante el ejercicio fiscal de 2023 las
 referencias que en materia de administración,
 determinación, liquidación, cobro, recaudación y
@@ -3622,7 +3744,6 @@ que
 emanen
 de
 dichos
-
 ordenamientos se entenderán hechas también al
 Servicio de Administración Tributaria.
 Sexto. Para efectos de lo previsto en el artículo 107,
@@ -3640,6 +3761,7 @@ propios de las entidades paraestatales bajo control
 presupuestario directo, de las empresas productivas
 del Estado, así como del Gobierno Federal. En el
 caso de éstos últimos se presentará lo
+
 correspondiente a los ingresos provenientes de las
 transferencias del Fondo Mexicano del Petróleo para
 la Estabilización y el Desarrollo.
@@ -3659,7 +3781,6 @@ Los
 recursos
 correspondientes a los aprovechamientos que se
 obtengan, podrán destinarse por la Secretaría de
-
 Hacienda y Crédito Público, conforme a los términos
 establecidos en los convenios que, para tal efecto,
 suscriba con las entidades federativas que justifiquen
@@ -3675,6 +3796,7 @@ realicen las entidades federativas y municipios en
 términos del presente transitorio, no se considerarán
 extemporáneos, por lo que no causan daño a la
 hacienda pública ni se cubrirán cargas financieras,
+
 siempre y cuando dichas disponibilidades hayan
 estado depositadas en cuentas bancarias de la
 entidad federativa y/o municipio.
@@ -3696,7 +3818,6 @@ deberán darse a conocer a las Comisiones de
 Hacienda y Crédito Público de ambas Cámaras del
 Congreso de la Unión, a más tardar 35 días después
 de terminado el ejercicio fiscal de 2023.
-
 Noveno. El Instituto de Seguridad y Servicios
 Sociales de los Trabajadores del Estado, durante el
 ejercicio fiscal de 2023 y en ejercicio de las facultades
@@ -3709,6 +3830,7 @@ dependencias o entidades de los municipios o de las
 entidades federativas, con cargo a las participaciones
 y transferencias federales de las entidades
 federativas y los municipios que correspondan, de
+
 conformidad con lo establecido en el último párrafo
 del artículo 9o. de la Ley de Coordinación Fiscal.
 La Secretaría de Hacienda y Crédito Público
@@ -3729,7 +3851,6 @@ descuentos. El plazo máximo para cubrir los pagos
 derivados de dicha regularización será de 20 años.
 Asimismo, en adición a lo previsto en el artículo 22 de
 la Ley del Instituto de Seguridad y Servicios Sociales
-
 de los Trabajadores del Estado, en el marco de la
 celebración de los referidos convenios, dicho Instituto
 deberá otorgar descuentos en los accesorios
@@ -3740,6 +3861,7 @@ las cuentas individuales de los trabajadores. Para tal
 efecto, deberán adecuar los convenios de
 incorporación voluntaria al régimen obligatorio de la
 Ley del Instituto de Seguridad y Servicios Sociales de
+
 los Trabajadores del Estado, para incluir en el mismo
 lo dispuesto en el párrafo cuarto del artículo 204 de
 dicha Ley.
@@ -3761,7 +3883,6 @@ gobierno local, según corresponda, deberá cubrir los
 gravámenes y demás costos de la operación
 respectiva, los cuales no computarán para el cálculo
 del importe del pago.
-
 Décimo. Las unidades responsables de los
 fideicomisos, mandatos y análogos públicos, en
 términos de la Ley Federal de Presupuesto y
@@ -3770,6 +3891,7 @@ aplicables, serán responsables en todo momento de
 continuar con su obligación de verificar que los
 recursos fideicomitidos se apliquen a los fines de
 dichos instrumentos y que se cumplan dichos fines,
+
 incluyendo durante su proceso de extinción o
 terminación.
 Décimo Primero. Las unidades responsables de los
@@ -3794,13 +3916,13 @@ gastos de operación de dichos vehículos, bajo la
 naturaleza de aprovechamientos, y se destinarán por
 la Secretaría de Hacienda y Crédito Público en
 términos de lo establecido en el artículo 12, último
-
 párrafo, de esta Ley, lo anterior con excepción de
 aquellos vehículos financieros que por disposición
 expresa de ley, decreto o determinación de la
 Secretaría de Hacienda y Crédito Público, dichos
 recursos deban permanecer afectos a su patrimonio o
 destinados al objeto correspondiente.
+
 Décimo Segundo. Con el fin de promover el
 saneamiento de los créditos adeudados por concepto
 de cuotas obrero patronales, capitales constitutivos y
@@ -3827,10 +3949,10 @@ párrafo, resultan funcionales para el cumplimiento de
 su objeto, asegurándose que se encuentren libres de
 cualquier gravamen o proceso judicial y que el monto
 del adeudo no sea mayor al valor del avalúo
-
 efectuado por el Instituto de Administración y Avalúos
 de Bienes Nacionales. En estos casos, la entidad
 federativa, municipio, dependencia o entidad del
+
 gobierno local, según corresponda, deberá cubrir los
 gravámenes y demás costos de la operación
 respectiva, los cuales no computarán para el cálculo
@@ -3894,10 +4016,10 @@ como tal haya sido revocada a dicha fecha, deberán
 concentrarlos a la Tesorería de la Federación, a más
 tardar el 31 de diciembre de 2023, incluyendo los
 rendimientos financieros que hubieran generado.
+
 Para efectos de lo anterior, los aprovechamientos
 provenientes de la concentración de los recursos que
 realicen las entidades federativas y municipios en
-
 términos del presente transitorio, no se considerarán
 extemporáneos, por lo que no causan daño a la
 hacienda pública ni se cubrirán cargas financieras.
@@ -3923,12 +4045,12 @@ cumplida la obligación a que se refiere la citada
 disposición para dicha Secretaría.
 Décimo Noveno. Para efectos de la fracción III del
 artículo 45 de la Ley de Coordinación Fiscal, las
+
 aportaciones federales con cargo al Fondo de
 Aportaciones para la Seguridad Pública de los
 Estados y del Distrito Federal, también podrán
 destinarse para la adquisición de equipos de
 radiocomunicación, vehículos y equipos terrestres
-
 para todas las instituciones de seguridad pública de
 las entidades federativas y municipios.
 Las entidades federativas podrán destinar los
@@ -3957,6 +4079,7 @@ devengados en el ejercicio en que se realice el
 requerimiento correspondiente a la Secretaría de la
 Defensa Nacional, siempre que realicen el pago
 respectivo antes del 31 de marzo del año siguiente,
+
 sin perjuicio del momento de la entrega material de
 dichos bienes.
 Vigésimo Primero. Las entidades federativas
@@ -3968,7 +4091,6 @@ de
 la
 Administración Pública Federal denominado Servicios
 de Salud del Instituto Mexicano del Seguro Social
-
 para el Bienestar, con el objeto de que éste
 proporcione la atención integral gratuita médica y
 hospitalaria con medicamentos y demás insumos
@@ -3991,6 +4113,7 @@ de los recursos del Fondo de Aportaciones para
 los Servicios de Salud y de los intereses
 respectivos que sean entregados en términos de
 la fracción I, con la documentación que acredite la
+
 aportación de los mismos al fideicomiso antes
 referido, lo anterior, para efectos de lo establecido
 en la Ley de Coordinación Fiscal, en la Ley
@@ -4001,7 +4124,6 @@ Servicios de Salud que no sean entregados por
 parte de las entidades federativas en términos de
 la fracción anterior, se sujetarán a las
 disposiciones relativas a la comprobación del
-
 gasto y a la presentación de informes sobre el
 ejercicio y destino de los mismos, conforme a lo
 establecido en las disposiciones señaladas en el
@@ -4023,6 +4145,7 @@ deberán
 estar
 debidamente identificados en las cuentas o
 subcuentas específicas.
+
 Vigésimo Segundo. La Secretaría de Salud federal
 o el Instituto de Salud para el Bienestar deberán,
 según corresponda, transferir al organismo público
@@ -4038,7 +4161,6 @@ refiere el Vigésimo Primero Transitorio de esta Ley,
 mediante el mecanismo presupuestario que se
 establezca y previa autorización de la Secretaría de
 Hacienda y Crédito Público.
-
 Las entidades federativas deberán entregar los
 recursos señalados en el artículo 77 bis 13 y, en su
 caso, los contemplados en el artículo 77 bis 14 de la
@@ -4058,6 +4180,7 @@ deberán
 realizar
 las
 acciones
+
 respectivas para llevar a cabo la terminación de la
 vigencia de los acuerdos de coordinación que hayan
 celebrado previamente con las entidades federativas
@@ -4075,7 +4198,6 @@ los convenios de coordinación referidos en el
 presente transitorio, y para efectos de lo establecido
 en el artículo 9o., último párrafo, parte final, de la Ley
 de Coordinación Fiscal, la Secretaría de Hacienda y
-
 Crédito
 Público
 podrá
@@ -4093,6 +4215,7 @@ Transitorio de esta Ley.
 Vigésimo Tercero. En el supuesto en que las
 entidades federativas celebren los convenios de
 coordinación referidos en el Vigésimo Primero
+
 Transitorio de esta Ley, los recursos del Fondo de
 Aportaciones para los Servicios de Salud podrán
 afectarse para garantizar, como fuente de pago, las
@@ -4112,7 +4235,6 @@ tiempo.
 Los recursos netos que se obtengan de los
 mecanismos antes referidos, únicamente podrán
 destinarse a infraestructura directamente relacionada
-
 con los fines establecidos en el artículo 29 de la Ley
 de Coordinación Fiscal, en términos de los convenios
 de coordinación que las entidades federativas
@@ -4123,6 +4245,7 @@ Social para el Bienestar conforme a lo referido en el
 Vigésimo Primero Transitorio de esta Ley.
 Para las obligaciones que se adquieran al amparo
 de este artículo, no podrá destinarse más del 25 por
+
 ciento de los recursos que anualmente correspondan
 por concepto del Fondo de Aportaciones para los
 Servicios de Salud, para cumplir con dichas
@@ -4145,13 +4268,13 @@ Fondo de Aportaciones para los Servicios de Salud
 que, conforme a la comunicación que emita la
 Federación, reciban las entidades federativas para ser
 destinados o estar asociados a servicios personales,
-
 se deberán clasificar en el capítulo de gasto
 correspondiente a los servicios personales.
 Para efectos de lo establecido en los artículos 10,
 fracción I, último párrafo, y 13, fracción V, de la Ley
 de Disciplina Financiera de las Entidades Federativas
 y los Municipios, se podrá incrementar el techo de
+
 gasto de servicios personales de la entidad federativa
 respectiva siempre y cuando derive de la clasificación
 de los recursos federales etiquetados a que se refiere
@@ -4178,10 +4301,10 @@ Federal, se podrán compensar con cargo a las
 afectaciones que la Secretaría de Hacienda y Crédito
 Público realice a las participaciones federales que
 correspondan. Dicha Secretaría entregará los
-
 recursos respectivos al fideicomiso público o
 instrumento financiero que corresponda, en términos
 del procedimiento que establezca la misma.
+
 Vigésimo Sexto. Las entidades federativas a que se
 refiere el “Decreto por el que se fomenta la
 regularización de vehículos usados de procedencia
@@ -4211,8 +4334,8 @@ Durante el primer bimestre del ejercicio fiscal de
 podrá convenir, así como entregar a los municipios,
 por conducto de las entidades federativas que
 correspondan, mediante el mecanismo de Adeudos
-
 de Ejercicios Fiscales Anteriores, los subsidios
+
 federales que deriven de los aprovechamientos que
 se hayan generado en el ejercicio fiscal de 2022, en
 términos del Decreto mencionado. En este supuesto,
@@ -4242,9 +4365,9 @@ En cumplimiento de lo dispuesto por la fracción I del
 Artículo 89 de la Constitución Política de los Estados
 Unidos Mexicanos, y para su debida publicación y
 observancia, expido el presente Decreto en la
+
 Residencia del Poder Ejecutivo Federal, en la Ciudad
 de México, a 14 de noviembre de 2022.- Andrés
-
 Manuel López Obrador.- Rúbrica.- El Secretario de
 Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
 
