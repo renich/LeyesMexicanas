@@ -940,6 +940,9 @@ LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMET
 ==> LGMDFP_200521.txt <==
 LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR
 
+==> LGMHCTI.txt <==
+LEY GENERAL EN MATERIA DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN
+
 ==> LGMIME.txt <==
 LEY GENERAL DE LOS MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
@@ -2090,6 +2093,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_General_en_Materia_de_Desaparicion_Forzada_de_Personas-Particulares-Sistema_Nacional_de_Busqueda.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_en_materia_de_Humanidades_Ciencias_Tecnologias-Innovacion.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_General_para_Prevenir-Sancionar-Delitos-Materia-Secuestro_Reglamentaria-Fraccion_XXI-Articulo_73.txt <==
