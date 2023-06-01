@@ -7,7 +7,7 @@ LEY DE AGUAS NACIONALES
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 1º de diciembre de 1992
 TEXTO VIGENTE
-Última reforma publicada DOF 11-05-2022
+Última reforma publicada DOF 08-05-2023
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -74,16 +74,21 @@ III. "Aguas claras" o "Aguas de primer uso":
 Aquellas provenientes de distintas fuentes
 naturales y de almacenamientos artificiales que
 no han sido objeto de uso previo alguno;
+III BIS. “Aguas de Laboreo”: Aquéllas del subsuelo
+que necesariamente deban extraerse para
+permitir la realización de obras y trabajos de
+exploración y explotación minera.
+Fracción adicionada DOF 08-05-2023
 IV. "Aguas del subsuelo": Aquellas aguas
 nacionales existentes debajo de la superficie
 terrestre;
 V. "Aguas marinas": Se refiere a las aguas en
 zonas marinas;
+
 VI. "Aguas Residuales": Las aguas de composición
 variada provenientes de las descargas de usos
 público urbano, doméstico, industrial, comercial,
 de servicios, agrícola, pecuario, de las plantas
-
 de tratamiento y en general, de cualquier uso,
 así como la mezcla de ellas;
 VII. "Aprovechamiento": Aplicación del agua en
@@ -109,23 +114,14 @@ servicios de agua con carácter público urbano o
 doméstico;
 IX. "Bienes Públicos Inherentes": Aquellos que se
 mencionan en el Artículo 113 de esta Ley;
+
 X. "Capacidad de Carga": Estimación de la
 tolerancia de un ecosistema al uso de sus
 componentes, tal que no rebase su capacidad
 de recuperación en el corto plazo sin la
 aplicación de medidas de restauración o
-
-recuperación
+recuperación para restablecer el equilibrio
 ecológico;
-
-para
-
-restablecer
-
-el
-
-equilibrio
-
 XI. "Cauce de una corriente": El canal natural o
 artificial que tiene la capacidad necesaria para
 que las aguas de la creciente máxima ordinaria
@@ -149,11 +145,11 @@ de Medio Ambiente y Recursos Naturales, con
 funciones de Derecho Público en materia de
 gestión de las aguas nacionales y sus bienes
 públicos inherentes, con autonomía técnica,
+
 ejecutiva, administrativa, presupuestal y de
 gestión, para la consecución de su objeto, la
 realización de sus funciones y la emisión de los
 actos de autoridad que conforme a esta Ley
-
 corresponde tanto a ésta como a los órganos de
 autoridad a que la misma se refiere;
 XIII. "Concesión": Título que otorga el Ejecutivo
@@ -183,11 +179,11 @@ las aguas conforme a la presente Ley y los
 reglamentos derivados de ella;
 XV. "Consejo de Cuenca": Órganos colegiados de
 integración mixta, que serán instancia de
+
 coordinación y concertación, apoyo, consulta y
 asesoría, entre "la Comisión", incluyendo el
 Organismo de Cuenca que corresponda, y las
 dependencias y entidades de las instancias
-
 federal, estatal o municipal, y los representantes
 de los usuarios de agua y de las organizaciones
 de la sociedad, de la respectiva cuenca
@@ -218,6 +214,7 @@ acuíferos, constituye la unidad de gestión de los
 recursos hídricos. La cuenca hidrológica está a
 su vez integrada por subcuencas y estas últimas
 están integradas por microcuencas.
+
 Para los fines de esta Ley, se considera como:
 a.
 
@@ -230,7 +227,6 @@ en
 función
 de
 sus
-
 características morfológicas, orográficas e
 hidrológicas, en la cual se considera a la
 cuenca hidrológica como la unidad básica
@@ -249,6 +245,7 @@ política por estados, Distrito Federal y
 municipios. Una o varias regiones
 hidrológicas integran una región hidrológico
 - administrativa, y
+
 b. "Región Hidrológico - Administrativa": Área
 territorial definida de acuerdo con criterios
 hidrológicos, integrada por una o varias
@@ -257,12 +254,12 @@ considera a la cuenca hidrológica como la
 unidad básica para la gestión de los
 recursos hídricos y el municipio representa,
 como en otros instrumentos jurídicos, la
+
 unidad mínima de gestión administrativa en
 el país;
 XVII.
 "Cuerpo receptor": La corriente o depósito
 natural de agua, presas, cauces, zonas marinas
-
 o bienes nacionales donde se descargan aguas
 residuales, así como los terrenos en donde se
 infiltran o inyectan dichas aguas, cuando
@@ -293,11 +290,11 @@ naturaleza y características similares a las de
 riego, en materia de infraestructura de temporal,
 incluyendo su operación, conservación y
 mantenimiento y las inversiones inherentes;
+
 XIX. "Cuota Natural de Renovación de las Aguas":
 El volumen de agua renovable anualmente en
 una cuenca hidrológica o en un cuerpo de aguas
 del subsuelo;
-
 XX. "Delimitación de cauce y zona federal":
 Trabajos y estudios topográficos, batimétricos,
 fotogramétricos, hidrológicos e hidráulicos,
@@ -323,10 +320,10 @@ XXIII.
 "Disponibilidad media anual de aguas
 superficiales": En una cuenca hidrológica, es el
 valor que resulta de la diferencia entre el
+
 volumen medio anual de escurrimiento de una
 cuenca hacia aguas abajo y el volumen medio
 anual actual comprometido aguas abajo;
-
 XXIV. "Disponibilidad media anual de aguas del
 subsuelo": En una unidad hidrogeológica entendida ésta como el conjunto de estratos
 geológicos hidráulicamente conectados entre sí,
@@ -351,12 +348,12 @@ así como con sus vasos de almacenamiento, su
 zona federal, de protección y demás bienes y
 obras conexas, pudiendo establecerse también
 con una o varias unidades de riego;
+
 b. "Distrito de Temporal Tecnificado": Área
 geográfica destinada normalmente a las
 actividades agrícolas que no cuenta con
 infraestructura de riego, en la cual mediante el
 uso de diversas técnicas y obras, se aminoran
-
 los daños a la producción por causa de
 ocurrencia de lluvias fuertes y prolongadas éstos también denominados Distritos de
 Drenaje- o en condiciones de escasez, se
@@ -383,12 +380,12 @@ derechos,
 atribuciones y responsabilidades, mediante el
 cual coordinadamente el Estado, los usuarios
 del agua y las organizaciones de la sociedad,
+
 promueven e instrumentan para lograr el
 desarrollo sustentable en beneficio de los seres
 humanos y su medio social, económico y
 ambiental, (1) el control y manejo del agua y las
 cuencas hidrológicas, incluyendo los acuíferos,
-
 por ende su distribución y administración, (2) la
 regulación
 de
@@ -424,12 +421,12 @@ XXX.
 los sistemas acuáticos y terrestres que
 constituyen áreas de inundación temporal o
 permanente, sujetas o no a la influencia de
+
 mareas, como pantanos, ciénagas y marismas,
 cuyos límites los constituyen el tipo de
 vegetación hidrófila de presencia permanente o
 estacional; las áreas en donde el suelo es
 predominantemente hídrico; y las áreas
-
 lacustres o de suelos permanentemente
 húmedos por la descarga natural de acuíferos;
 XXXI. "La Comisión": La Comisión Nacional del
@@ -454,6 +451,7 @@ material utilizado en la construcción, que sea
 extraído de un vaso, cauce o de cualesquiera
 otros bienes señalados en Artículo 113 de esta
 Ley;
+
 XXXVIII.
 "Normas Oficiales Mexicanas": Aquellas
 expedidas por "la Secretaría", en los términos
@@ -461,7 +459,6 @@ de la Ley Federal sobre Metrología y
 Normalización referidas a la conservación,
 seguridad y calidad en la explotación, uso,
 aprovechamiento y administración de las aguas
-
 nacionales y de los bienes nacionales a los que
 se refiere el Artículo 113 de esta Ley;
 XXXIX. "Organismo de Cuenca": Unidad técnica,
@@ -487,13 +484,13 @@ Inciso reformado DOF 08-06-2012
 
 b. "Permisos de Descarga": Título que otorga
 el Ejecutivo Federal a través de "la
+
 Comisión" o del Organismo de Cuenca que
 corresponda, conforme a sus respectivas
 competencias, para la descarga de aguas
 residuales a cuerpos receptores de
 propiedad nacional, a las personas físicas o
 morales de carácter público y privado;
-
 XLI. "Persona física o moral": Los individuos, los
 ejidos, las comunidades, las asociaciones, las
 sociedades y las demás instituciones a las que
@@ -521,13 +518,13 @@ la
 cuenca
 correspondiente y avanzar en la gestión
 integrada de los recursos hídricos;
+
 XLIV. "Registro Público de Derechos de Agua":
 (REPDA) Registro que proporciona información
 y seguridad jurídica a los usuarios de aguas
 nacionales y bienes inherentes a través de la
 inscripción de los títulos de concesión,
 asignación y permisos de descarga, así como
-
 las modificaciones que se efectúen en las
 características de los mismos;
 XLV. "Rescate": Acto emitido por el Ejecutivo
@@ -559,6 +556,7 @@ XLVII. "Ribera o Zona Federal": Las fajas de diez
 metros de anchura contiguas al cauce de las
 corrientes o al vaso de los depósitos de
 propiedad nacional, medidas horizontalmente a
+
 partir del nivel de aguas máximas ordinarias. La
 amplitud de la ribera o zona federal será de
 cinco metros en los cauces con una anchura no
@@ -569,7 +567,6 @@ máxima
 ordinaria
 que
 será
-
 determinada por "la Comisión" o por el
 Organismo de Cuenca que corresponda,
 conforme a sus respectivas competencias, de
@@ -597,6 +594,7 @@ fluyendo sobre el terreno. La magnitud de la
 cárcava o cauce incipiente deberá ser de
 cuando menos de 2.0 metros de ancho por 0.75
 metros de profundidad;
+
 XLVIII. "Río": Corriente de agua natural, perenne o
 intermitente, que desemboca a otras corrientes,
 o a un embalse natural o artificial, o al mar;
@@ -604,7 +602,6 @@ XLIX. "Servicios Ambientales": Los beneficios de
 interés social que se generan o se derivan de
 las cuencas hidrológicas y sus componentes,
 tales como regulación climática, conservación
-
 de los ciclos hidrológicos, control de la erosión,
 control de inundaciones, recarga de acuíferos,
 mantenimiento de escurrimientos en calidad y
@@ -631,6 +628,7 @@ con infraestructura y sistemas de riego, distinta
 de un distrito de riego y comúnmente de menor
 superficie que aquél; puede integrarse por
 asociaciones de usuarios u otras figuras de
+
 productores organizados que se asocian entre sí
 libremente para prestar el servicio de riego con
 sistemas de gestión autónoma y operar las
@@ -638,7 +636,6 @@ obras de infraestructura hidráulica para la
 captación, derivación, conducción, regulación,
 distribución y desalojo de las aguas nacionales
 destinadas al riego agrícola;
-
 LII. "Uso": Aplicación del agua a una actividad que
 implique el consumo, parcial o total de ese
 recurso;
@@ -660,6 +657,7 @@ calidad determinada que se consume al llevar a
 cabo una actividad específica, el cual se
 determina como la diferencia del volumen de
 una calidad determinada que se extrae, menos
+
 el volumen de una calidad también determinada
 que se descarga, y que se señalan en el título
 respectivo;
@@ -667,7 +665,6 @@ LVI. "Uso Doméstico": La aplicación de agua
 nacional para el uso particular de las personas y
 del hogar, riego de sus jardines y de árboles de
 ornato, incluyendo el abrevadero de animales
-
 domésticos que no constituya una actividad
 lucrativa, en términos del Artículo 115 de la
 Constitución Política de los Estados Unidos
@@ -681,6 +678,15 @@ aguas nacionales, por medio de técnicas de cría
 o cultivo, que sean susceptibles de explotación
 comercial, ornamental o recreativa;
 Fracción reformada DOF 24-03-2016
+LVII BIS. “Uso industrial en la minería”: El
+aprovechamiento, explotación o uso de aguas
+nacionales, incluyendo las aguas de laboreo, en
+la exploración, explotación o beneficio de
+minerales y sustancias reservadas a la
+Federación en los términos de la Ley de
+Minería, se considera un tipo de uso industrial;
+Fracción adicionada DOF 08-05-2023
+
 LVIII.
 "Uso industrial": La aplicación de aguas
 nacionales en fábricas o empresas que realicen
@@ -701,7 +707,6 @@ eléctrica o para cualquier otro uso o
 aprovechamiento de transformación;
 LIX. "Uso Pecuario": La aplicación de aguas
 nacionales para la cría y engorda de ganado,
-
 aves de corral y otros animales, y su
 preparación para la primera enajenación
 siempre que no comprendan la transformación
@@ -713,6 +718,7 @@ municipal;
 LXI. "Vaso de lago, laguna o estero": El depósito
 natural de aguas nacionales delimitado por la
 cota de la creciente máxima ordinaria;
+
 LXI BIS.
 “Yacimiento geotérmico hidrotermal”:
 Aquel definido en términos de la Ley de Energía
@@ -729,7 +735,6 @@ respectivas competencias, para su protección y
 adecuada operación, conservación y vigilancia,
 de acuerdo con lo dispuesto en los reglamentos
 de esta Ley;
-
 LXIII.
 "Zona reglamentada": Aquellas áreas
 específicas
@@ -753,6 +758,7 @@ acuíferos,
 cuencas
 hidrológicas, o regiones hidrológicas, en las
 cuales se establecen limitaciones en la
+
 explotación, uso o aprovechamiento de una
 porción o la totalidad de las aguas disponibles,
 con la finalidad de prestar un servicio público,
@@ -776,7 +782,6 @@ adicionales a los establecidos legalmente y
 éstos se controlan mediante reglamentos
 específicos, en virtud del deterioro del agua en
 cantidad o calidad, por la afectación a la
-
 sustentabilidad hidrológica, o por el daño a
 cuerpos de agua superficiales o subterráneos, y
 LXVI. "Zonas Marinas Mexicanas": Las que
@@ -790,6 +795,7 @@ llegaren a ser utilizados en los reglamentos de la
 presente Ley, se definirán en tales instrumentos
 jurídicos.
 Artículo reformado DOF 29-04-2004
+
 TÍTULO SEGUNDO
 Administración del Agua
 Capítulo I
@@ -798,15 +804,28 @@ ARTÍCULO 4. La autoridad y administración en
 materia de aguas nacionales y de sus bienes públicos
 inherentes corresponde al Ejecutivo Federal, quien la
 ejercerá directamente o a través de "la Comisión".
+Cualquier
+autorización,
+permiso,
+concesión,
+asignación o prórroga que se otorgue conforme a la
+presente ley debe priorizar el consumo humano y
+doméstico del agua.
+Párrafo adicionado DOF 08-05-2023
+En caso de que exista riesgo de disponibilidad de
+agua para consumo humano y doméstico, “la
+Autoridad del Agua” disminuirá o cancelará el
+volumen de agua concesionada.
+Párrafo adicionado DOF 08-05-2023
 ARTÍCULO 5. Para el cumplimiento y aplicación de
 esta Ley, el Ejecutivo Federal:
 I. Promoverá la coordinación de acciones con los
 gobiernos de los estados y de los municipios, sin
-
 afectar sus facultades en la materia y en el ámbito de
 sus correspondientes atribuciones. La coordinación
 de la planeación, realización y administración de las
 acciones de gestión de los recursos hídricos por
+
 cuenca hidrológica o por región hidrológica será a
 través de los Consejos de Cuenca, en cuyo seno
 convergen los tres órdenes de gobierno, y participan y
@@ -830,11 +849,11 @@ control de la extracción así como la explotación, uso o
 aprovechamiento de las aguas nacionales del
 subsuelo, inclusive las que hayan sido libremente
 alumbradas, y las superficiales, en los términos del
-
 Título Quinto de la presente Ley; y expedir los
 decretos para el establecimiento, modificación o
 supresión de zonas reglamentadas que requieren un
 manejo específico para garantizar la sustentabilidad
+
 hidrológica
 o
 cuando
@@ -869,10 +888,10 @@ operar, conservar, mantener, rehabilitar y ampliar
 infraestructura hidráulica federal y la prestación de los
 servicios respectivos, mediante pago de la
 indemnización que pudiere corresponder;
-
 VI. Expedir por causas de utilidad pública los
 decretos de expropiación, de ocupación temporal,
 total o parcial de los bienes, o su limitación de
+
 derechos de dominio, en los términos de esta Ley, de
 la Ley de Expropiación y las demás disposiciones
 aplicables, salvo el caso de bienes ejidales o
@@ -900,8 +919,8 @@ pública, y
 XI. Las demás atribuciones que señale la presente
 Ley.
 Artículo reformado DOF 29-04-2004
-
 ARTÍCULO 7. Se declara de utilidad pública:
+
 I. La gestión integrada de los recursos hídricos,
 superficiales y del subsuelo, a partir de las cuencas
 hidrológicas en el territorio nacional, como prioridad y
@@ -927,7 +946,6 @@ el uso del agua para destinarlo al uso doméstico y al
 público urbano; la recarga artificial de acuíferos, así
 como la disposición de agua al suelo y subsuelo,
 acorde con la normatividad vigente;
-
 V. El restablecimiento del equilibrio
 ecosistemas vitales vinculados con el agua;
 
@@ -958,10 +976,10 @@ IX. La prevención y atención de los efectos de
 fenómenos meteorológicos extraordinarios que
 pongan en peligro a personas, áreas productivas o
 instalaciones;
-
 X. El aprovechamiento de aguas nacionales para
 generar energía eléctrica destinada a servicios
 públicos, y
+
 XI. La adquisición o aprovechamiento de los bienes
 inmuebles que se requieran para la construcción,
 operación,
@@ -987,11 +1005,11 @@ las organizaciones de la sociedad en la toma de
 decisiones y asunción de compromisos;
 III. La descentralización y mejoramiento de la
 gestión de los recursos hídricos con la participación
-
 de los estados, del Distrito Federal y de los
 municipios;
 IV. El mejoramiento permanente del conocimiento
 sobre la ocurrencia del agua en el ciclo hidrológico, en
+
 su explotación, uso o aprovechamiento y en su
 conservación en el territorio nacional, y en los
 conceptos y parámetros fundamentales para alcanzar
@@ -1014,7 +1032,6 @@ y la valoración económica y social de las aguas
 nacionales en las políticas, programas y acciones en
 materia de gestión de los recursos hídricos, en el
 ámbito de las instituciones y de la sociedad;
-
 IX. El mejoramiento de las eficiencias y
 modernización
 de
@@ -1025,6 +1042,7 @@ riego,
 particularmente en distritos y unidades de riego, para
 contribuir a la gestión integrada de los recursos
 hídricos;
+
 Fracción reformada DOF 20-06-2011
 X. La organización de los usuarios, asociaciones
 civiles y otros sistemas y organismos públicos y
@@ -1045,12 +1063,12 @@ ARTÍCULO 8. Son atribuciones del Secretario del
 Medio Ambiente y Recursos Naturales:
 I. Proponer al Ejecutivo Federal la política hídrica del
 país;
-
 II. Proponer al Ejecutivo Federal los proyectos de
 ley, reglamentos, decretos y acuerdos relativos al
 sector;
 III. Fungir como Presidente del Consejo Técnico de
 "la Comisión";
+
 IV. Suscribir los instrumentos internacionales, que
 de acuerdo con la Ley sean de su competencia, en
 coordinación con la Secretaría de Relaciones
@@ -1072,12 +1090,12 @@ Capítulo reubicado DOF 29-04-2004
 ARTÍCULO 9. "La Comisión" es un órgano
 administrativo desconcentrado de "la Secretaría", que
 se regula conforme a las disposiciones de esta Ley y
-
 sus reglamentos, de la Ley Orgánica de la
 Administración Pública Federal y de su Reglamento
 Interior.
 "La Comisión" tiene por objeto ejercer las
 atribuciones que le corresponden a la autoridad en
+
 materia hídrica y constituirse como el Órgano
 Superior con carácter técnico, normativo y consultivo
 de la Federación, en materia de gestión integrada de
@@ -1097,7 +1115,6 @@ de los Organismos de Cuenca, con las salvedades
 asentadas en la presente Ley.
 Son atribuciones de "la Comisión" en su Nivel
 Nacional, las siguientes:
-
 I. Fungir como la Autoridad en materia de la cantidad
 y de la calidad de las aguas y su gestión en el
 territorio nacional y ejercer en consecuencia aquellas
@@ -1105,6 +1122,7 @@ atribuciones que conforme a la presente Ley
 corresponden a la autoridad en materia hídrica, dentro
 del ámbito de la competencia federal, con apego a la
 descentralización del sector agua, excepto las que
+
 debe ejercer directamente el Ejecutivo Federal o "la
 Secretaría" y las que estén bajo la responsabilidad de
 los Gobiernos de los estados, del Distrito Federal o
@@ -1125,12 +1143,12 @@ Federal en materia de aguas nacionales y de sus
 bienes públicos inherentes, y asegurar y vigilar la
 coherencia entre los respectivos programas y la
 asignación de recursos para su ejecución;
-
 VI. Emitir disposiciones de carácter general en
 materia de aguas nacionales y de sus bienes públicos
 inherentes;
 VII. Atender los asuntos y proyectos estratégicos y
 de seguridad nacional en materia hídrica;
+
 VIII. Formular y aplicar lineamientos técnicos y
 administrativos para jerarquizar inversiones en obras
 públicas federales de infraestructura hídrica y
@@ -1153,13 +1171,13 @@ actuación directa de "la Comisión" en su nivel
 nacional;
 X. Apoyar, concesionar, contratar, convenir y normar
 las obras de infraestructura hídrica que se realicen
-
 con recursos totales o parciales de la federación o
 con su aval o garantía, en coordinación con otras
 dependencias y entidades federales, con el gobierno
 del Distrito Federal, con gobiernos de los estados que
 correspondan y, por medio de éstos, con los
 gobiernos de los municipios beneficiados con dichas
+
 obras, en los casos establecidos en la fracción
 anterior;
 XI. Operar, conservar y mantener obras y servicios
@@ -1183,12 +1201,12 @@ nacional, para lo cual se coordinará en lo conducente
 con los Gobiernos de los estados, y a través de éstos,
 con los municipios. Esto no afectará las disposiciones,
 facultades y responsabilidades municipales y
-
 estatales, en la coordinación y prestación de los
 servicios referidos;
 XIV. Fomentar y apoyar el desarrollo de los sistemas
 de agua potable y alcantarillado; los de saneamiento,
 tratamiento y reúso de aguas; los de riego o drenaje y
+
 los de control de avenidas y protección contra
 inundaciones en los casos previstos en la fracción IX
 del presente Artículo; contratar, concesionar o
@@ -1218,11 +1236,11 @@ responsabilidades estatales y municipales, así como
 de asociaciones, sociedades y otras organizaciones
 de usuarios de riego, en la coordinación y prestación
 de los servicios referidos;
-
 XVII. Administrar y custodiar las aguas nacionales y
 los bienes nacionales a que se refiere el Artículo 113
 de esta Ley, y preservar y controlar la calidad de las
 mismas, en el ámbito nacional;
+
 XVIII. Establecer las prioridades nacionales en lo
 concerniente a la administración y gestión de las
 aguas nacionales y de los bienes nacionales
@@ -1249,13 +1267,13 @@ usuarios, como árbitro en la prevención, mitigación y
 solución de conflictos relacionados con el agua y su
 gestión, en los términos de los reglamentos de esta
 Ley;
-
 XXII. Analizar y resolver con el concurso de las
 partes que correspondan, los problemas y conflictos
 derivados de la explotación, uso, aprovechamiento o
 conservación de las aguas nacionales entre los usos
 y usuarios, en los casos establecidos en la fracción IX
 del presente Artículo;
+
 XXIII. Celebrar convenios con entidades o
 instituciones extranjeras y organismos afines para la
 asistencia y cooperación técnica, intercambio de
@@ -1279,13 +1297,13 @@ Federación, el Distrito Federal, estados, y a través de
 éstos, con los municipios y sus respectivas
 administraciones públicas, así como de concertación
 con el sector social y privado, y favorecer, en el
-
 ámbito de su competencia, en forma sistemática y con
 medidas específicas, la descentralización de la
 gestión de los recursos hídricos en términos de Ley;
 XXVI. Promover en el ámbito nacional el uso
 eficiente del agua y su conservación en todas las
 fases del ciclo hidrológico, e impulsar el desarrollo de
+
 una cultura del agua que considere a este elemento
 como recurso vital, escaso y de alto valor económico,
 social y ambiental, y que contribuya a lograr la gestión
@@ -1307,7 +1325,6 @@ XXIX. Ejercer las atribuciones fiscales en materia de
 administración, determinación, liquidación, cobro,
 recaudación y fiscalización de las contribuciones y
 aprovechamientos que se le destinen o en los casos
-
 que señalen las leyes respectivas, conforme a lo
 dispuesto en el Código Fiscal de la Federación;
 XXX. Promover y propiciar la investigación científica
@@ -1315,6 +1332,7 @@ y el desarrollo tecnológico, la formación de recursos
 humanos, así como difundir conocimientos en materia
 de gestión de los recursos hídricos, con el propósito
 de fortalecer sus acciones y mejorar la calidad de sus
+
 servicios, para lo cual se coordinará en lo conducente
 con el Instituto Mexicano de Tecnología del Agua;
 XXXI. Proponer a la “Secretaría" las Normas
@@ -1334,13 +1352,13 @@ operación del Registro Público de Derechos de Agua
 a nivel nacional, apoyarlo financieramente y
 coordinarlo; particularmente, "la Comisión" realizará
 las gestiones necesarias conforme a la Ley para
-
 operar regionalmente dicho Registro y sus funciones,
 a través de los Organismos de Cuenca;
 XXXV. Realizar toda clase de actos jurídicos que
 sean necesarios para cumplir con sus atribuciones,
 así como aquellos que fueren necesarios para la
 administración de los recursos y bienes a su cargo;
+
 XXXVI. Vigilar el cumplimiento y aplicación de la
 presente
 Ley,
@@ -1368,7 +1386,6 @@ en el Diario Oficial de la Federación;
 XXXIX. Expedir las declaratorias de clasificación de
 los cuerpos de agua nacionales a que se refiere la
 presente Ley;
-
 XL. Participar en el sistema nacional de protección
 civil y apoyar en la aplicación de los planes y
 programas de carácter federal para prevenir y atender
@@ -1377,6 +1394,7 @@ hidrometeorológicos extremos;
 XLI. Definir los lineamientos técnicos en materia de
 gestión de aguas nacionales, cuencas, obras y
 servicios, para considerarlos en la elaboración de
+
 programas, reglamentaciones y decretos de vedas y
 reserva;
 XLII. Proponer al Titular del Poder Ejecutivo Federal
@@ -1396,7 +1414,6 @@ XLV. Mantener actualizado y hacer público
 periódicamente el inventario de las aguas nacionales,
 y de sus bienes públicos inherentes y de la
 infraestructura hidráulica federal; clasificar las aguas
-
 de acuerdo con los usos, y elaborar balances en
 cantidad y calidad del agua por regiones hidrológicas
 y cuencas hidrológicas;
@@ -1405,6 +1422,7 @@ XLVI. Mejorar y difundir permanentemente en el
 del agua en el ciclo hidrológico, la oferta y demanda
 de agua, los inventarios de agua, suelo, usos y
 usuarios y de información pertinente vinculada con el
+
 agua y su gestión, con el apoyo que considere
 necesario, por parte de otras instancias del orden
 federal, de gobiernos estatales y municipales, así
@@ -1425,7 +1443,6 @@ en los plazos establecidos en la presente Ley.
 Fracción reformada DOF 08-06-2012
 XLIX. Presentar las denuncias que correspondan
 ante autoridades competentes cuando, como
-
 resultado del ejercicio de sus atribuciones, tenga
 conocimiento de actos u omisiones que constituyan
 violaciones a la legislación administrativa en materia
@@ -1434,6 +1451,7 @@ L. En situaciones de emergencia, escasez extrema,
 o sobreexplotación, tomar las medidas necesarias,
 normalmente de carácter transitorio, las cuales
 cesarán en su aplicación cuando "la Comisión" así lo
+
 determine, para garantizar el abastecimiento del uso
 doméstico y público urbano, a través de la expedición
 de acuerdos de carácter general; cuando estas
@@ -1453,7 +1471,6 @@ le son propios, y
 LIV. Realizar las demás que señalen las
 disposiciones legales o reglamentarias.
 Artículo reformado DOF 29-04-2004
-
 ARTÍCULO 9 BIS. Los recursos financieros y de otra
 índole al cargo de "la Comisión" y las disposiciones
 para su manejo y rendición de cuentas serán
@@ -1462,6 +1479,7 @@ Secretaría", la cual respetará los presupuestos
 anuales que se determinen para aquélla en los
 instrumentos jurídicos que al efecto expida el
 Honorable Congreso de la Unión, y actuará conforme
+
 a las disposiciones que establezca la Autoridad en la
 materia.
 Artículo adicionado DOF 29-04-2004
@@ -1481,7 +1499,6 @@ Mexicano de Tecnología del Agua y de la Comisión
 Nacional Forestal. Por cada persona representante
 propietaria se designará a las suplencias necesarias
 con nivel de Subsecretaría o equivalente. A propuesta
-
 del Consejo Técnico, la persona Titular del Ejecutivo
 Federal designará como miembros del propio
 Consejo, observando el principio de paridad de
@@ -1490,6 +1507,7 @@ estados y a un representante de una Organización
 Ciudadana de prestigio y experiencia relacionada con
 las funciones de "la Comisión".
 Párrafo reformado DOF 11-05-2022
+
 El Consejo Técnico cuando así lo considere
 conveniente, podrá invitar a sus sesiones a las
 personas titulares de las demás dependencias y
@@ -1509,7 +1527,6 @@ ARTÍCULO 11. El Consejo Técnico tendrá las
 atribuciones indelegables siguientes:
 I. Aprobar y evaluar los programas y proyectos a
 cargo de "la Comisión";
-
 II. Aprobar, de conformidad con la presente Ley y
 sus reglamentos, presupuesto y operaciones de "la
 Comisión", supervisar su ejecución, así como conocer
@@ -1518,6 +1535,7 @@ General;
 III. Nombrar y remover a propuesta del Director
 General de "la Comisión" a los Directores Generales
 de los Organismos de Cuenca, así como a los
+
 servidores públicos de "la Comisión" de los niveles
 central y regional hidrológico - administrativo, que
 ocupen cargos con las dos jerarquías administrativas
@@ -1535,7 +1553,6 @@ y concertar los créditos y otros mecanismos de
 financiamiento que requiera "la Comisión";
 VII. Acordar la creación de Consejos de Cuenca, así
 como modificaciones a los existentes;
-
 VIII. Para el caso de quebranto en la ejecución y
 cumplimiento de los programas y proyectos a que se
 refiere la Fracción I y de los asuntos acordados a que
@@ -1545,6 +1562,7 @@ IX. Aprobar el Manual de Integración, Estructura
 Orgánica y Funcionamiento de "la Comisión" a
 propuesta de su Director General, así como las
 modificaciones, en su caso, y
+
 X. Las demás que se señalen en la presente Ley o
 sus reglamentos y las que sean necesarias para el
 cumplimiento de su objeto.
@@ -1563,7 +1581,6 @@ la Ley Orgánica de la Administración Pública Federal,
 la Ley Federal de Responsabilidades Administrativas
 de los Servidores Públicos, y en los demás
 ordenamientos aplicables, conforme sea previsto en
-
 el Reglamento Interior de la Secretaría de la Función
 Pública.
 Las ausencias del Contralor Interno, así como las de
@@ -1572,6 +1589,7 @@ responsabilidades, serán suplidas conforme sea
 previsto por el Reglamento Interior de la Secretaría de
 la Función Pública.
 Artículo adicionado DOF 29-04-2004
+
 ARTÍCULO 11 BIS 1. "La Comisión" se considerará
 de acreditada solvencia y no estará obligada por tanto
 a constituir depósito o fianzas legales, ni aun
@@ -1589,13 +1607,13 @@ ejercicio del presupuesto aprobado;
 IV. Otorgar poderes generales y especiales en
 términos de las disposiciones legales aplicables y
 delegar facultades en el ámbito de su competencia;
-
 V. Presentar los informes que le sean solicitados por
 el Consejo Técnico y "la Secretaría";
 VI. Solicitar la aprobación del Consejo Técnico sobre
 los movimientos que impliquen modificar la estructura
 orgánica y ocupacional y plantillas de personal
 operativo, en términos de Ley;
+
 VII. Proponer al Consejo Técnico los estímulos y
 licencias que puedan otorgarse al personal de "la
 Comisión" en términos de Ley;
@@ -1614,7 +1632,6 @@ descentralización de la gestión de los recursos
 hídricos;
 XI. Las señaladas en el Artículo 9 de esta Ley para
 la atención expresa de "la Comisión" y no
-
 comprendidas en los Artículos 11 y 12 BIS 6 de la
 misma, y
 XII. Las demás que se confieran a "la Comisión" en
@@ -1623,6 +1640,7 @@ Artículo reformado DOF 29-04-2004
 Capítulo III BIS
 Organismos de Cuenca
 Capítulo adicionado DOF 29-04-2004
+
 ARTÍCULO 12 BIS. En el ámbito de las cuencas
 hidrológicas, regiones hidrológicas y regiones
 hidrológico - administrativas, el ejercicio de la
@@ -1642,7 +1660,6 @@ Artículo adicionado DOF 29-04-2004
 ARTÍCULO 12 BIS 1. Los Organismos de Cuenca,
 en las regiones hidrológico - administrativas son
 unidades técnicas, administrativas y jurídicas
-
 especializadas, con carácter autónomo que esta Ley
 les confiere, adscritas directamente al Titular de "la
 Comisión", cuyas atribuciones, naturaleza y ámbito
@@ -1652,6 +1669,7 @@ cuyos recursos y presupuesto específicos son
 determinados por "la Comisión".
 Con base en las disposiciones de la presente Ley,
 "la Comisión" organizará sus actividades y adecuará
+
 su integración, organización y funcionamiento al
 establecimiento de los Organismos de Cuenca
 referidos, que tendrán el perfil de unidades regionales
@@ -1673,7 +1691,6 @@ como de su competencia, las facultades establecidas
 en esta Ley, sus Reglamentos y el Reglamento
 Interior de "la Comisión", sin menoscabo de la
 actuación directa por parte de "la Comisión" cuando le
-
 competa, conforme a lo dispuesto en la Fracción IX
 del Artículo 9 de la presente Ley y aquellas al cargo
 del Titular del Poder Ejecutivo Federal.
@@ -1682,6 +1699,7 @@ ARTÍCULO 12 BIS 2. Cada Organismo de Cuenca
 estará a cargo de un Director General nombrado por
 el Consejo Técnico de "la Comisión" a propuesta del
 Director General de ésta.
+
 El Director General del Organismo de Cuenca, quien
 estará subordinado directamente al Director General
 de "la Comisión", tendrá las siguientes atribuciones:
@@ -1700,7 +1718,6 @@ su ámbito de competencia;
 V. Expedir los títulos de concesión, asignación y
 permisos de descarga;
 Fracción reformada DOF 08-06-2012
-
 VI. Las señaladas en el Artículo 12 BIS 6 de esta
 Ley y no comprendidas en el Artículo 12 BIS 3 de
 la misma, y
@@ -1710,6 +1727,7 @@ Cada Organismo de Cuenca contará con un Consejo
 Consultivo, que estará integrado por representantes
 designados por los Titulares de las Secretarías de
 Hacienda y Crédito Público, de Desarrollo Social, de
+
 Energía, de Economía, de Medio Ambiente y
 Recursos Naturales, de Salud y de Agricultura,
 Ganadería, Desarrollo Rural, Pesca y Alimentación, y
@@ -1730,7 +1748,6 @@ en el presente párrafo, participarán con voz y voto.
 Por cada representante propietario se designará a
 los suplentes necesarios, con capacidades suficientes
 para tomar decisiones y asumir compromisos. El
-
 Director General del Organismo de Cuenca fungirá
 como Secretario Técnico del Consejo referido, el cual
 se organizará y operará conforme a las reglas que
@@ -1740,6 +1757,7 @@ representante designado de entre los representantes
 de los usuarios ante él o los Consejos de Cuenca
 existentes en la región hidrológico - administrativa que
 corresponda. El representante de los usuarios
+
 participará con voz, pero sin voto y contará con un
 suplente.
 El Consejo Consultivo del Organismo de Cuenca,
@@ -1759,7 +1777,6 @@ hídrica nacional, así como las medidas que permitan
 la programación hídrica y la acción coordinada entre
 las dependencias, entidades y organismos de las
 administraciones públicas federal y estatales, y a
-
 través de éstas, las municipales, que deban intervenir
 en materia de gestión de los recursos hídricos;
 II. Conocer los asuntos sobre administración del
@@ -1767,6 +1784,7 @@ agua y sobre los bienes y recursos al cargo del
 Organismo de Cuenca que corresponda;
 III. Conocer los programas del Organismo de
 Cuenca, su presupuesto y ejecución y validar los
+
 informes que presente el Director General del
 Organismo de Cuenca;
 IV. Proponer los términos para gestionar y concertar
@@ -1791,7 +1809,6 @@ y
 de
 competencia de los Organismos de Cuenca, se
 establecerán en los Reglamentos de esta Ley y en su
-
 caso, en el Reglamento Interior de "la Comisión",
 atendiendo a la ubicación geográfica de las cuencas
 hidrológicas del país, así como las disposiciones a
@@ -1800,6 +1817,7 @@ garanticen la congruencia de su gestión con la política
 hídrica nacional. Las unidades adscritas a los
 Organismos de Cuenca no estarán subordinadas a
 las unidades adscritas a "la Comisión" en su nivel
+
 nacional, acorde con lo dispuesto en el Artículo 12
 BIS 1.
 Las disposiciones que se emitan para regular la
@@ -1821,7 +1839,6 @@ nacionales de la cuenca o cuencas hidrológicas de
 que se trate, así como de grupos organizados y
 representativos de la sociedad.
 Artículo adicionado DOF 29-04-2004
-
 ARTÍCULO 12 BIS 5. Los recursos al cargo de los
 Organismos de Cuenca y las disposiciones para su
 manejo y rendición de cuentas serán determinados
@@ -1829,6 +1846,7 @@ por "la Comisión", la cual actuará conforme a las
 disposiciones que establezca la Autoridad en la
 materia.
 Artículo adicionado DOF 29-04-2004
+
 ARTÍCULO 12 BIS 6. Los Organismos de Cuenca,
 de conformidad con los lineamientos que expida "la
 Comisión", ejercerán dentro de su ámbito territorial de
@@ -1848,7 +1866,6 @@ y mantener las obras hidráulicas federales
 directamente o a través de contratos o concesiones
 con terceros, y realizar acciones que correspondan al
 ámbito federal para el aprovechamiento integral del
-
 agua, su regulación y control y la preservación de su
 cantidad y calidad;
 V. Apoyar, concesionar, contratar, convenir y normar
@@ -1857,6 +1874,7 @@ con recursos totales o parciales de la federación o
 con su aval o garantía, en coordinación con otras
 dependencias y entidades federales y, por medio de
 los gobiernos estatales, con los gobiernos de los
+
 municipios beneficiados con dichas obras; para lo
 anterior observará las disposiciones que dicte la
 Autoridad en la materia y las correspondientes a las
@@ -1877,7 +1895,6 @@ VIII. Fomentar y apoyar el desarrollo de los sistemas
 de agua potable y alcantarillado; los de saneamiento,
 tratamiento y reúso de aguas; los de riego o drenaje y
 los de control de avenidas y protección contra
-
 inundaciones. En su caso, contratar o concesionar la
 prestación de los servicios que sean de su
 competencia o que así convenga con los Gobiernos
@@ -1886,6 +1903,7 @@ IX. Proponer al Director General de "la Comisión" el
 establecimiento de Distritos de Riego y de Temporal
 Tecnificado y en su caso, la expropiación de los
 bienes inmuebles correspondientes;
+
 X. Regular los servicios de riego en distritos y
 unidades de riego conforme a las disposiciones que
 establezca "la Comisión" para este efecto y llevar
@@ -1909,7 +1927,6 @@ XII. Acreditar, promover y apoyar la organización de
 los usuarios para mejorar la explotación, uso o
 aprovechamiento del agua y la conservación y control
 de su calidad, e impulsar la participación de éstos a
-
 nivel estatal, regional, de cuenca hidrológica o de
 acuífero en términos de Ley;
 XIII. Expedir los títulos de concesión, asignación o
@@ -1917,6 +1934,7 @@ permisos de descarga y de construcción, reconocer
 derechos y operar el Registro Público de Derechos de
 Agua en su ámbito geográfico de acción;
 Fracción reformada DOF 08-06-2012
+
 XIV. Conciliar y, en su caso, fungir a petición de los
 usuarios, de los Consejos de Cuenca, o de los
 estados, como árbitro en la prevención, mitigación y
@@ -1938,7 +1956,6 @@ del sector agua en su ámbito territorial de
 competencia, acorde con las disposiciones que dicte
 la autoridad en la materia y las leyes y reglamentos
 correspondientes;
-
 XVII. Instrumentar y operar el Sistema Financiero del
 Agua en la cuenca o cuencas que correspondan
 conforme a las disposiciones que dicte la Autoridad
@@ -1946,6 +1963,7 @@ en la materia y las leyes y reglamentos
 correspondientes;
 XVIII. Realizar periódicamente los estudios sobre la
 valoración económica y financiera del agua por fuente
+
 de suministro, localidad y tipo de uso, para apoyar el
 diseño de tarifas de cuenca y derechos de agua,
 incluyendo extracción del agua, descarga de aguas
@@ -1967,7 +1985,6 @@ base en las disposiciones establecidas en la Fracción
 XXVIII del Artículo 9 de la presente Ley;
 XX. Instrumentar y operar los mecanismos
 necesarios para la recaudación de los derechos en
-
 materia de agua, conforme a las disposiciones
 fiscales vigentes;
 XXI. Bajo la coordinación y supervisión de "la
@@ -1976,6 +1993,7 @@ de las atribuciones fiscales en materia de
 administración, determinación, liquidación, cobro,
 recaudación y fiscalización de las contribuciones y
 aprovechamientos que se le destinen o en los casos
+
 que señalen las leyes respectivas, conforme a lo
 dispuesto en el Código Fiscal de la Federación;
 XXII. Realizar toda clase de actos jurídicos que sean
@@ -1996,7 +2014,6 @@ autonomía técnica, administrativa y jurídica en el
 manejo de los recursos que se le destinen y de los
 bienes que tenga en los términos de esta Ley, y
 actuar con autonomía de gestión para el cabal
-
 cumplimiento de su objeto y de los objetivos y metas
 señaladas en sus programas y presupuesto,
 observando lo dispuesto en el presente Artículo, en
@@ -2004,6 +2021,7 @@ los Artículos 9 Fracción XXXIII, 12 Fracción X, 12 BIS
 1, 12 BIS 2, 12 BIS 3 y 12 BIS 4, y en las demás
 disposiciones aplicables contenidas en la presente
 Ley y en sus reglamentos;
+
 XXV. Participar en el sistema nacional de protección
 civil y apoyar en la aplicación de los planes y
 programas de carácter federal para prevenir y atender
@@ -2025,7 +2043,6 @@ cuencas hidrológicas en cantidad y calidad de las
 aguas;
 XXVIII. Mejorar y difundir permanentemente el
 conocimiento sobre la ocurrencia del agua en el ciclo
-
 hidrológico, la oferta y demanda de agua, los
 inventarios de agua, suelo, usos y usuarios y de
 información pertinente vinculada con el agua y su
@@ -2034,6 +2051,7 @@ parte de otras instancias del orden federal, de
 gobiernos de los estados y de los municipios, así
 como de usuarios del agua, de organizaciones de la
 sociedad y de particulares;
+
 XXIX. Integrar el Sistema Regional de Información
 sobre cantidad, calidad, usos y conservación del
 agua, en coordinación con los gobiernos de los
@@ -2053,12 +2071,12 @@ violaciones a la legislación administrativa en materia
 de aguas o a las leyes penales;
 XXXII. Regular la transmisión de los derechos de
 agua, y
-
 XXXIII. Realizar las demás que señalen las
 disposiciones legales o reglamentarias.
 Artículo adicionado DOF 29-04-2004
 Capítulo IV
 Consejos de Cuenca
+
 ARTÍCULO 13. "La Comisión", previo acuerdo de su
 Consejo Técnico, establecerá Consejos de Cuenca,
 órganos colegiados de integración mixta, conforme a
@@ -2081,7 +2099,6 @@ ARTÍCULO 13 BIS. Cada Consejo de Cuenca
 contará con un Presidente, un Secretario Técnico y
 vocales, con voz y voto, que representen a los tres
 órdenes de gobierno, usuarios del agua y
-
 organizaciones de la sociedad, conforme a lo
 siguiente:
 Vocales
@@ -2089,8 +2106,13 @@ Vocales
 Proporción
 de
 Representación
-Representantes del Gobierno Los que resulten
+
+Representantes
 Federal
+
+del
+
+Gobierno Los que resulten
 conforme a la
 Fracción IV del
 Artículo 13 BIS 2
@@ -2119,11 +2141,11 @@ Para los fines del presente Capítulo, los organismos
 prestadores de los servicios de agua potable y
 saneamiento son considerados como usuarios.
 Artículo adicionado DOF 29-04-2004
-
 ARTÍCULO 13 BIS 1. Los Consejos de Cuenca se
 establecerán por cada cuenca hidrológica o grupo de
 cuencas hidrológicas que determine "la Comisión", lo
 que constituirá su delimitación territorial.
+
 Los Consejos de Cuenca, con apego a esta Ley y
 sus reglamentos, establecerán sus reglas generales
 de integración, organización y funcionamiento.
@@ -2147,12 +2169,12 @@ de los usuarios del agua de los diferentes usos por
 estado en el contexto de la cuenca hidrológica o
 región hidrológica y de las organizaciones de la
 sociedad ante la Asamblea General de Usuarios,
-
 estarán contenidas en las Reglas Generales de
 Integración, Organización y Funcionamiento del
 Consejo de Cuenca correspondiente, las cuales
 considerarán la representatividad de los usos en la
 cuenca hidrológica o región hidrológica.
+
 La Asamblea General de Usuarios tendrá las
 siguientes funciones:
 1.- Discutir las estrategias, prioridades, políticas,
@@ -2173,11 +2195,11 @@ Cuenca Hidrológica;
 4.- Nombrar sus representantes que fungirán con el
 carácter de vocales en el seno del Consejo de
 Cuenca;
-
 5.- Definir la posición de los usuarios del agua de los
 distintos usos y de las organizaciones de la sociedad,
 en relación con los asuntos que elevará la Asamblea
 General al Consejo de Cuenca.
+
 B. El Comité Directivo del Consejo de Cuenca:
 Integrado por el Presidente y Secretario Técnico del
 Consejo de Cuenca.
@@ -2199,12 +2221,12 @@ Comités de Cuenca -cuyo ámbito de acción
 regularmente corresponde a nivel de microcuenca o
 grupo de microcuencas de una subcuenca específicay de los Comités Técnicos de Aguas del Subsuelo o
 Subterráneas -que desarrollan sus actividades en
-
 relación con un acuífero o grupo de acuíferos
 determinados- que sean necesarios.
 Al igual que los Consejos de Cuenca, las
 Comisiones de Cuenca, Comités de Cuenca y
 Comités Técnicos de Aguas del Subsuelo o
+
 Subterráneas, son órganos colegiados de integración
 mixta, y no están subordinados a "la Comisión" o a los
 Organismos de Cuenca.
@@ -2228,13 +2250,13 @@ adopte, conforme a los siguientes lineamientos
 generales:
 I. Los usuarios del agua que participen como
 vocales en los Consejos de Cuenca serán electos en
-
 la Asamblea General de Usuarios, y provendrán de
 las organizaciones de usuarios del agua a nivel
 nacional de los distintos usos acreditadas ante "la
 Comisión", así como de las organizaciones de
 usuarios del agua por cada estado de los distintos
 usos en la cuenca hidrológica o región hidrológica de
+
 que se trate, en un número que asegure
 proporcionalidad en la representación de los usos y
 permita el eficaz funcionamiento de dichos Consejos
@@ -2263,12 +2285,12 @@ Integración,
 Organización
 y
 Funcionamiento del propio Consejo de Cuenca. Los
-
 vocales propietarios municipales serán Presidentes
 Municipales y podrán designar un suplente,
 preferentemente con nivel de regidor o similar;
 IV. El Gobierno Federal contará con vocales
 representantes designados por las Secretarías de
+
 Medio Ambiente y Recursos Naturales; de Hacienda y
 Crédito
 Público; Desarrollo Social; Energía;
@@ -2302,12 +2324,12 @@ Funcionamiento del propio Consejo de Cuenca;
 VI. A través de los vocales usuarios que tenga
 designados, la Asamblea General de la Cuenca
 canalizará sus recomendaciones al Consejo de
-
 Cuenca y a través de éste, al Organismo de Cuenca
 que corresponda, y
 VII. Los Consejos de Cuenca tendrán la delimitación
 territorial que defina "la Comisión" respecto de los
 Organismos de Cuenca.
+
 Artículo adicionado DOF 29-04-2004
 ARTÍCULO 13 BIS 3. Los Consejos de Cuenca
 tendrán a su cargo:
@@ -2330,12 +2352,12 @@ proponer aquellos que reflejen la realidad del
 desarrollo hídrico a corto, mediano y largo plazos, en
 el ámbito territorial que corresponda al Consejo de
 Cuenca;
-
 IV. Participar en la definición de los objetivos
 generales y los criterios para la formulación de los
 programas de gestión del agua de la cuenca en
 armonía con los criterios generales de la
 programación hídrica nacional;
+
 V. Promover la participación de las autoridades
 estatales y municipales y asegurar la instrumentación
 de los mecanismos de participación de los usuarios
@@ -2363,12 +2385,12 @@ las inversiones en materia hídrica que efectúen los
 gobiernos de los estados, Distrito Federal y
 municipios en el ámbito territorial de las subcuencas y
 acuíferos, y apoyar las gestiones necesarias para
-
 lograr la concurrencia de los recursos para la
 ejecución de las acciones previstas en la
 programación hídrica;
 VIII. Participar en el análisis de los estudios técnicos
 relativos a la disponibilidad y usos del agua; el
+
 mejoramiento y conservación de su calidad; su
 conservación y la de los ecosistemas vitales
 vinculados con ésta; y la adopción de los criterios
@@ -2389,13 +2411,13 @@ instrumentación eficiente del Sistema Financiero del
 Agua en su ámbito territorial, con base en las
 disposiciones establecidas por la Autoridad en la
 materia;
-
 XIII. Apoyar los programas de usuario del agua pagador, y de contaminador - pagador; impulsar las
 acciones derivadas del establecimiento de zonas
 reglamentadas, de zonas de veda y de zonas de
 reserva; y fomentar la reparación del daño ambiental
 en materia de recursos hídricos y de ecosistemas
 vitales en riesgo;
+
 XIV. Apoyar el financiamiento de la gestión regional
 del agua y la preservación de los recursos de la
 cuenca, incluyendo ecosistemas vitales;
@@ -2418,13 +2440,13 @@ Organismo de Cuenca respectivo y sus sistemas
 integrados de monitoreo e información; difundir
 ampliamente entre sus miembros y la sociedad de la
 cuenca o cuencas que corresponda, la información y
-
 documentación referida, enriquecida con las
 orientaciones y determinaciones a las que arribe
 dicho Consejo de Cuenca;
 XVII. Impulsar el uso eficiente y sustentable del
 agua, y en forma específica, impulsar el reúso y la
 recirculación de las aguas;
+
 XVIII. Participar en el mejoramiento de la cultura del
 agua como recurso vital y escaso, con valor
 económico, social y ambiental;
@@ -2448,13 +2470,13 @@ subterráneas, mediante la definición de los
 procedimientos para la intervención de los usuarios y
 sus organizaciones, en el marco de la presente Ley y
 sus reglamentos;
-
 XXII. Conocer los acreditamientos que otorgue "la
 Comisión" en el ámbito federal a organizaciones de
 usuarios constituidas para la explotación, uso y
 aprovechamiento del agua, y reconocer cuando
 proceda a dichas organizaciones como órganos
 auxiliares del Consejo de Cuenca;
+
 XXIII. Promover, con el concurso del Organismo de
 Cuenca
 competente,
@@ -2485,7 +2507,6 @@ de los Organismos de Cuenca, consultará con los
 usuarios y con las organizaciones de la sociedad, en
 el ámbito de los Consejos de Cuenca, y resolverá las
 posibles limitaciones temporales a los derechos de
-
 agua existentes para enfrentar situaciones de
 emergencia,
 escasez
@@ -2500,6 +2521,7 @@ e
 instrumentación
 de
 zonas
+
 reglamentadas, zonas de reserva y zonas de veda.
 En estos casos tendrán prioridad el uso doméstico y
 el público urbano.
@@ -2521,7 +2543,6 @@ con los Gobiernos de los estados, del Distrito Federal
 y de los municipios, los organismos de cuenca, los
 consejos de cuenca y el Consejo Consultivo del Agua,
 promoverá y facilitará la participación de la sociedad
-
 en la planeación, toma de decisiones, ejecución,
 evaluación y vigilancia de la política nacional hídrica.
 Se brindarán apoyos para que las organizaciones
@@ -2529,6 +2550,7 @@ ciudadanas o no gubernamentales con objetivos,
 intereses o actividades específicas en materia de
 recursos hídricos y su gestión integrada, participen en
 el seno de los Consejos de Cuenca, así como en
+
 Comisiones y Comités de Cuenca y Comités Técnicos
 de Aguas Subterráneas. Igualmente se facilitará la
 participación de colegios de profesionales, grupos
@@ -2551,7 +2573,6 @@ propuestas respecto a la planeación, problemas
 prioritarios y estratégicos del agua y su gestión, así
 como evaluar las fuentes de abastecimiento, en el
 ámbito del desarrollo sustentable;
-
 II. Apoyará las organizaciones e iniciativas surgidas
 de la participación pública, encaminadas a la mejor
 distribución de tareas y responsabilidades entre el
@@ -2559,6 +2580,7 @@ Estado -entendido éste como la Federación, los
 estados, el Distrito Federal y los municipios- y la
 sociedad, para contribuir a la gestión integrada de los
 recursos hídricos;
+
 III. Proveerá los espacios y mecanismos para que
 los usuarios y la sociedad puedan:
 a. Participar en los procesos de toma de decisiones
@@ -2579,7 +2601,6 @@ nacional con los sectores de la población enunciados
 en las fracciones anteriores y los medios de
 comunicación, de acuerdo con lo previsto en el
 Capítulo V del Título Sexto de la presente Ley, y
-
 V. Concertará acciones y convenios con los usuarios
 del agua para la conservación, preservación,
 restauración y uso eficiente del agua.
@@ -2587,6 +2608,7 @@ Artículo adicionado DOF 29-04-2004
 Capítulo V BIS
 Consejo Consultivo del Agua
 Capítulo adicionado DOF 29-04-2004
+
 ARTÍCULO 14 BIS 1. El Consejo Consultivo del
 Agua es un organismo autónomo de consulta
 integrado por personas físicas del sector privado y
@@ -2608,7 +2630,6 @@ los recursos hídricos.
 Artículo adicionado DOF 29-04-2004
 Capítulo V BIS 1
 Servicio Meteorológico Nacional
-
 Capítulo adicionado DOF 29-04-2004
 ARTÍCULO 14 BIS 2. El Servicio Meteorológico
 Nacional, unidad técnica especializada autónoma
@@ -2616,6 +2637,7 @@ adscrita directamente al Titular de "la Comisión", tiene
 por objeto generar, interpretar y difundir la información
 meteorológica, su análisis y pronóstico, que se
 consideran de interés público y estratégico de
+
 acuerdo con lo establecido por la presente Ley y sus
 reglamentos.
 Artículo adicionado DOF 29-04-2004
@@ -2636,11 +2658,11 @@ Las atribuciones del Instituto, para los fines de la
 presente Ley y sus reglamentos, son las siguientes:
 I. Coordinar, fomentar y dirigir las acciones de
 investigación y desarrollo tecnológico en materia de
-
 agua, incluyendo su difusión, y la formación y
 capacitación de recursos humanos a nivel nacional;
 II. Certificar personal para instrumentar el Sistema
 Nacional de Servicio Civil de carrera del sector agua;
+
 III. Constituirse en el centro de excelencia en el
 conocimiento actualizado de la gestión integrada de
 los recursos hídricos;
@@ -2666,13 +2688,13 @@ VII. Realizar por sí o a solicitud de parte estudios y
 brindar consultorías especializadas en materia de
 hidráulica, hidrología, control de la calidad del agua,
 de gestión integrada de los recursos hídricos;
-
 VIII. Proponer orientaciones y contenidos para la
 Política Nacional Hídrica y el Programa Nacional
 Hídrico, y encabezar los trabajos de planificación e
 instrumentación de programas y acciones para la
 investigación científica y desarrollo tecnológico en
 materia de agua y su gestión, así como para la
+
 formación y capacitación de recursos humanos en las
 mismas materias;
 IX. Sistematizar y publicar la información técnica
@@ -2694,12 +2716,12 @@ XIII. Promover la educación y la cultura en torno al
 agua que fomente en la sociedad la conciencia de
 que el líquido es un bien escaso que requiere del
 cuidado de su cantidad y calidad, así como de su
-
 aprovechamiento sustentable y de la mitigación de
 sus efectos indeseables, y
 XIV. Las demás que le confieran otros instrumentos
 jurídicos y el Titular de "la Secretaría" para el
 cumplimiento del objeto de esta Ley.
+
 En materia de investigación científica, desarrollo
 tecnológico, fortalecimiento de las capacidades
 institucionales y formación de recursos humanos para
@@ -2726,11 +2748,11 @@ de
 Procuraduría”:
 I. Formular denuncias y aplicar sanciones que sean
 de su competencia;
-
 II. Sustanciar y resolver los procedimientos y
 recursos administrativos de su competencia, en los
 términos de esta Ley y sus disposiciones
 reglamentarias;
+
 III. Imponer las medidas técnicas correctivas y de
 seguridad que sean de su competencia en los
 términos de esta Ley y de la Ley General del
@@ -2753,11 +2775,11 @@ Artículo adicionado DOF 29-04-2004
 TÍTULO TERCERO
 Política y Programación Hídricas
 Denominación del Título reformada DOF 29-04-2004
-
 Capítulo Único
 Sección Primera
 Política Hídrica Nacional
 Sección adicionada DOF 29-04-2004
+
 ARTÍCULO 14 BIS 5. Los principios que sustentan
 la política hídrica nacional son:
 I. El agua es un bien de dominio público federal,
@@ -2778,13 +2800,13 @@ consejos de cuenca, organizaciones de usuarios y de
 la sociedad, organismos de cuenca y "la Comisión",
 son elementos básicos en la descentralización de la
 gestión de los recursos hídricos;
-
 V. La atención de las necesidades de agua
 provenientes de la sociedad para su bienestar, de la
 economía para su desarrollo y del ambiente para su
 equilibrio y conservación; particularmente, la atención
 especial de dichas necesidades para la población
 marginada y menos favorecida económicamente;
+
 VI. Los usos del agua en las cuencas hidrológicas,
 incluyendo los acuíferos y los trasvases entre
 cuencas, deben ser regulados por el Estado;
@@ -2807,11 +2829,11 @@ restauración del agua en cantidad y calidad es asunto
 de seguridad nacional, por tanto, debe evitarse el
 aprovechamiento no sustentable y los efectos
 ecológicos adversos;
-
 X. La gestión integrada de los recursos hídricos por
 cuenca hidrológica, se sustenta en el uso múltiple y
 sustentable de las aguas y la interrelación que existe
 entre los recursos hídricos con el aire, el suelo, flora,
+
 fauna, otros recursos naturales, la biodiversidad y los
 ecosistemas que son vitales para el agua;
 XI. El agua proporciona servicios ambientales que
@@ -2835,11 +2857,11 @@ fracción;
 XIV. En particular, el Ejecutivo Federal establecerá
 las medidas necesarias para mantener una adecuada
 calidad del agua para consumo humano y con ello
-
 incidir en la salud pública; para el mejor cumplimiento
 esta política, se coordinará y solicitará los apoyos
 necesarios a los estados, Distrito Federal y
 municipios;
+
 XV. La gestión del agua debe generar recursos
 económicos y financieros necesarios para realizar sus
 tareas inherentes, bajo el principio de que "el agua
@@ -2863,11 +2885,11 @@ oportuna, plena y fidedigna acerca de la ocurrencia,
 disponibilidad y necesidades de agua, superficial y
 subterránea, en cantidad y calidad, en el espacio
 geográfico y en el tiempo, así como a la relacionada
-
 con fenómenos del ciclo hidrológico, los inventarios
 de usos y usuarios, cuerpos de agua, infraestructura
 hidráulica y equipamiento diverso necesario para
 realizar dicha gestión;
+
 XX. La participación informada y responsable de la
 sociedad, es la base para la mejor gestión de los
 recursos hídricos y particularmente para su
@@ -2895,9 +2917,9 @@ y cuenca hidrológica.
 Artículo adicionado DOF 29-04-2004
 ARTÍCULO 14 BIS 6. Son instrumentos básicos de
 la política hídrica nacional:
-
 I. La planificación hídrica; incluye los ámbitos local,
 estatal, cuenca hidrológica, región hidrológicaadministrativa y nacional;
+
 II. El régimen de concesiones y asignaciones
 referentes a los derechos por explotación, uso o
 aprovechamiento del agua, por el uso de los bienes
@@ -2920,10 +2942,10 @@ gestión;
 VII. Los apoyos sociales para que las comunidades
 rurales y urbanas marginadas accedan al agua y al
 saneamiento, y
-
 VIII. El Sistema Nacional de Información sobre
 cantidad, calidad, usos y conservación del Agua.
 Artículo adicionado DOF 29-04-2004
+
 Sección Segunda
 Planificación y Programación Hídrica
 Sección adicionada DOF 29-04-2004
@@ -2953,10 +2975,10 @@ Cuenca y operen Consejos de Cuenca, elaborados,
 consensuados e instrumentados por éstos; en los
 casos de estados y Distrito Federal que conforme a
 su marco jurídico desarrollen un programa hídrico
-
 estatal apoyado en la integración de la programación
 local con participación de la sociedad organizada y
 autoridades locales, dichos programas serán
+
 incorporados al proceso de programación hídrica por
 cuencas y regiones hidrológicas;
 III. Los subprogramas específicos, regionales, de
@@ -3636,18 +3658,20 @@ la
 explotación,
 uso
 o
-aprovechamiento de las aguas nacionales no será
-menor de cinco ni mayor de treinta años, de acuerdo
-con la prelación del uso específico del cual se trate,
-las prioridades de desarrollo, el beneficio social y el
-capital invertido o por invertir en forma comprobable
-en el aprovechamiento respectivo. En la duración de
-las concesiones y asignaciones, "la Autoridad del
-Agua" tomará en consideración las condiciones que
-guarde la fuente de suministro, la prelación de usos
+aprovechamiento de las aguas nacionales no debe
+ser menor de cinco ni mayor de treinta años, de
+acuerdo con la prelación del uso específico del cual
+se trate, las prioridades de desarrollo, el beneficio
+social y el capital invertido o por invertir en forma
+comprobable en el aprovechamiento respectivo. En la
+duración de las concesiones y asignaciones, "la
+Autoridad del Agua" debe tomar en consideración las
+condiciones que guarde la fuente de suministro en
 
+cuanto a cantidad y calidad, la prelación de usos
 vigentes en la región que corresponda y las
 expectativas de crecimiento de dichos usos.
+Párrafo reformado DOF 08-05-2023
 Las concesiones o asignaciones en los términos del
 Artículo 22 de esta Ley, serán objeto de prórroga
 hasta por igual término y características del título
@@ -3672,9 +3696,9 @@ los volúmenes concesionados o asignados.
 personalmente a los promoventes la resolución sobre
 las solicitudes respectivas referidas en el presente
 Capítulo, conforme al plazo establecido en el Artículo
+
 22 de la presente Ley y al procedimiento establecido
 en el Artículo 35 de la Ley Federal de Procedimiento
-
 Administrativo. En caso de que la autoridad omita dar
 a conocer al promovente la resolución recaída a su
 solicitud, se considerará que ha resuelto negar lo
@@ -3701,9 +3725,9 @@ La concesión, asignación y sus prórrogas se
 entenderán otorgadas sin perjuicio de los derechos de
 terceros inscritos en el Registro Público de Derechos
 de Agua y no garantizan la existencia o invariabilidad
+
 del volumen de agua concesionada o asignada. Los
 concesionarios o asignatarios quedarán obligados a
-
 dar cumplimiento a las disposiciones de esta Ley, los
 reglamentos correspondientes u otros ordenamientos
 aplicables, así como a las condiciones del título,
@@ -3732,8 +3756,8 @@ punto de extracción, el sitio de descarga y la calidad
 de las aguas residuales, la alteración del uso
 consuntivo y la modificación del volumen de agua
 concesionado o asignado, mismos que no podrán ser
-superiores al concesionado o asignado; en caso de
 
+superiores al concesionado o asignado; en caso de
 proceder será necesario presentar la evaluación del
 impacto ambiental, en términos de Ley.
 El derecho del concesionario o asignatario sólo
@@ -4178,59 +4202,74 @@ permiso de descarga podrán revocarse en los
 siguientes casos:
 Párrafo reformado DOF 08-06-2012
 I. Disponer del agua en volúmenes mayores a una
-quinta parte que los autorizados, cuando por la misma
-causa el beneficiario haya sido suspendido en su
-derecho con anterioridad;
+quinta parte que los autorizados, cuando por la
+misma causa el beneficiario haya sido
+suspendido en su derecho con anterioridad;
 II. Explotar, usar o aprovechar aguas nacionales sin
 cumplir con las Normas Oficiales Mexicanas en
 materia de calidad;
 III. Descargar en forma permanente o intermitente
-aguas residuales en contravención a lo dispuesto en
-la presente Ley en cuerpos receptores que sean
-bienes nacionales, incluyendo aguas marinas, así
-como cuando se infiltren en terrenos que sean bienes
-nacionales o en otros terrenos cuando puedan
-contaminar el subsuelo o el acuífero, sin perjuicio de
-las sanciones que fijen las disposiciones sanitarias y
-de equilibrio ecológico y protección al ambiente;
+aguas residuales en contravención a lo dispuesto
+en la presente Ley en cuerpos receptores que
+sean bienes nacionales, incluyendo aguas
+marinas, así como cuando se infiltren en terrenos
+que sean bienes nacionales o en otros terrenos
+cuando puedan contaminar el subsuelo o el
+acuífero, sin perjuicio de las sanciones que fijen
 
-IV. Utilizar la dilución para cumplir con las Normas
+las disposiciones sanitarias y de equilibrio
+ecológico y protección al ambiente;
+IV.
+
+Utilizar la dilución para cumplir con las Normas
 Oficiales Mexicanas en materia ecológica o las
 condiciones particulares de descarga;
+
 V. Ejecutar obras para alumbrar, extraer o disponer
-de aguas del subsuelo en zonas reglamentadas, de
-veda o reservadas, sin el permiso de "la Autoridad del
-Agua";
-VI. Dejar de pagar oportunamente o en forma
+de aguas del subsuelo en zonas reglamentadas,
+de veda o reservadas, sin el permiso de "la
+Autoridad del Agua";
+VI.
+
+Dejar de pagar oportunamente o en forma
 completa las contribuciones, aprovechamientos o
 tarifas que establezca la legislación fiscal por la
 explotación, uso o aprovechamiento de las aguas
-nacionales y bienes nacionales o por los servicios de
-suministro de los mismos, cuando por la misma causa
-el beneficiario haya sido suspendido en su derecho
-con anterioridad aun cuando se trate de distinto
-ejercicio fiscal;
-VII. No ejecutar las obras y trabajos autorizados
-para el aprovechamiento de aguas, su reúso y control
-de su calidad en los términos y condiciones que
-señala esta Ley y demás legislación aplicable o los
-estipulados en la concesión;
-VIII. No ejecutar las obras y trabajos autorizados
-para el aprovechamiento de aguas y control de su
-calidad, en los términos y condiciones que señala
-esta Ley y sus reglamentos, o bien realizar obras no
-autorizadas por "la Autoridad del Agua";
+nacionales y bienes nacionales o por los
+servicios de suministro de los mismos, cuando
+por la misma causa el beneficiario haya sido
+suspendido en su derecho con anterioridad aun
+cuando se trate de distinto ejercicio fiscal;
 
-IX. Dañar ecosistemas como consecuencia de la
+VII. No ejecutar las obras y trabajos autorizados
+para el aprovechamiento de aguas, su reúso y
+control de su calidad en los términos y
+condiciones que señala esta Ley y demás
+legislación aplicable o los estipulados en la
+concesión;
+VIII. No ejecutar las obras y trabajos autorizados
+para el aprovechamiento de aguas y control de
+su calidad, en los términos y condiciones que
+
+señala esta Ley y sus reglamentos, o bien
+realizar obras no autorizadas por "la Autoridad
+del Agua";
+IX.
+
+Dañar ecosistemas como consecuencia de la
 explotación, uso o aprovechamiento de aguas
 nacionales;
+
 X. Realizar descargas de aguas residuales que
 contengan materiales o residuos peligrosos que
 ocasionen o puedan ocasionar daños a la salud,
 recursos naturales, fauna, flora o ecosistemas;
-XI. Transmitir los derechos del título sin permiso de
-"la Autoridad del Agua" o en contravención a lo
-dispuesto en esta Ley;
+XI.
+
+Transmitir los derechos del título sin permiso
+de "la Autoridad del Agua" o en contravención a
+lo dispuesto en esta Ley;
+
 XII. Infringir las disposiciones sobre transmisión de
 derechos;
 XIII. Reincidir en cualesquiera de las infracciones
@@ -4238,20 +4277,41 @@ previstas en el Artículo 119 de esta Ley;
 XIV. Por dar uso a las aguas distinto al autorizado,
 sin permiso de "la Autoridad del Agua";
 XV. Proporcionar a terceros en forma provisional el
-uso total o parcial de las aguas concesionadas sin
-mediar el aviso previo a "la Autoridad del Agua";
-XVI. Incumplir con lo dispuesto en la Ley respecto
-de la explotación, uso o aprovechamiento de aguas
-nacionales o preservación y control de su calidad,
-cuando por la misma causa al infractor se le hubiere
-aplicado con anterioridad sanción mediante resolución
+uso total o parcial de las aguas concesionadas
+sin mediar el aviso previo a "la Autoridad del
+Agua";
 
-que quede firme, conforme a las fracciones II y III del
-Artículo 120 de esta Ley;
-XVII. Por incumplimiento de las medidas preventivas
-y correctivas que ordene "la Autoridad del Agua", y
-XVIII. Las demás previstas en esta Ley, en sus
+XVI. Incumplir con lo dispuesto en la Ley respecto
+de la explotación, uso o aprovechamiento de
+aguas nacionales o preservación y control de su
+calidad, cuando por la misma causa al infractor
+se le hubiere aplicado con anterioridad sanción
+mediante resolución que quede firme, conforme a
+las fracciones II y III del Artículo 120 de esta Ley;
+XVII.
+Por incumplimiento de las medidas
+preventivas y correctivas que ordene "la
+Autoridad del Agua";
+Fracción reformada DOF 08-05-2023
+XVIII.
+Cuando, para obtener o conservar una
+concesión, la persona titular hubiere presentado
+documentación falsa;
+Fracción reformada DOF 08-05-2023
+XIX. Por hechos o actos supervenientes de interés
+público, general o social, o que causen algún tipo
+de desequilibrio económico, social, ambiental o
+de cualquier otra índole;
+Fracción adicionada DOF 08-05-2023
+XX. Cuando no se cumpla con el Programa de
+Restauración, Cierre y Post-cierre previsto en la
+Ley General del Equilibrio Ecológico y la
+Protección al Ambiente, y
+Fracción adicionada DOF 08-05-2023
+XXI. Las demás previstas en esta Ley, en sus
 reglamentos o en las propias concesiones.
+
+Fracción adicionada DOF 08-05-2023
 Al extinguirse los títulos, por término de la concesión
 o asignación o de su última prórroga, o cuando se
 haya revocado el título por incumplimiento, de
@@ -4271,12 +4331,12 @@ caudales determinados en el Programa Nacional
 Hídrico y los programas regionales hídricos, para
 garantizar un adecuado desarrollo económico, social
 y ambiental de los asentamientos humanos;
-
 II. Cuando implique la afectación a zonas
 reglamentadas o aquellas declaradas de protección,
 veda, reserva de aguas, y para la preservación o
 reestablecimiento de ecosistemas vitales y del medio
 ambiente;
+
 III. Cuando afecte el caudal mínimo ecológico, que
 forma parte del Uso Ambiental al que se refiere la
 Fracción LIV del Artículo 3 de la presente Ley,
@@ -4298,12 +4358,12 @@ a dichos convenios, a lo establecido en la presente
 Ley y demás ordenamientos legales aplicables;
 VII. Cuando la Federación decida emprender una
 explotación directa de los volúmenes solicitados;
-
 VIII. Cuando se afecten recursos hídricos
 programados para la creación o sustento de reservas
 nacionales, y
 IX. Cuando exista causa de interés público o interés
 social.
+
 Artículo adicionado DOF 29-04-2004
 Sección Quinta
 Servidumbres
@@ -4329,13 +4389,13 @@ fundo sirviente.
 Se considerarán servidumbres forzosas o legales
 aquellas establecidas sobre los fundos que sirvan
 para la construcción de obras hidráulicas como
-
 embalses, derivaciones, tomas directas y otras
 captaciones, obras de conducción, tratamiento,
 drenajes, obras de protección de riberas y obras
 complementarias, incluyendo caminos de paso y
 vigilancia.
 Artículo adicionado DOF 29-04-2004
+
 Capítulo IV
 Registro Público de Derechos de Agua
 ARTÍCULO 30. "La Comisión" en el ámbito nacional
@@ -4354,13 +4414,13 @@ características de los títulos y actos registrados;
 IV. La transmisión de los títulos de concesión en los
 términos establecidos por la presente Ley y sus
 reglamentos;
-
 V. La suspensión, revocación o terminación de los
 títulos enunciados, y las referencias que se requieran
 de los actos y contratos relativos a la transmisión de
 su titularidad;
 VI. Las sentencias definitivas de los tribunales
 judiciales y administrativos, en las que se ordene la
+
 modificación, cancelación o rectificación de los títulos
 de concesión o asignación, siempre que dichas
 sentencias sean notificadas por el órgano
@@ -4380,7 +4440,6 @@ X. Las zonas reglamentadas, de veda y
 declaratorias de reserva de aguas nacionales
 establecidas conforme a la presente Ley y sus
 reglamentos.
-
 El Registro Público de Derechos de Agua por región
 hidrológico - administrativa, proporcionará el servicio
 de acceso a la información y difusión de la misma,
@@ -4389,6 +4448,7 @@ permisos de descarga a que se refiere la presente
 Ley, así como a los actos jurídicos que, conforme a la
 misma y sus reglamentos, precisen de la fe pública
 para que surtan sus efectos ante terceros. La
+
 prestación de este servicio causará los derechos
 correspondientes que se especificarán por Autoridad
 competente en términos de Ley.
@@ -4408,13 +4468,13 @@ que establezcan los reglamentos de la presente Ley.
 Artículo reformado DOF 29-04-2004
 ARTÍCULO 30 BIS. El Registro Público de Derechos
 de Agua es competente para:
-
 I. Autorizar la apertura y cierre de los libros o folios,
 así como las inscripciones que se efectúen;
 II. Expedir las certificaciones y constancias que le
 sean solicitadas, así como atender y resolver las
 consultas que en materia registral se presenten;
 III. Efectuar las anotaciones preventivas;
+
 IV. Producir la información estadística y cartográfica
 sobre los derechos inscritos;
 V. Resguardar las copias de los títulos inscritos, y
@@ -4434,7 +4494,6 @@ certificaciones de las inscripciones y documentos que
 dieron lugar a las mismas, así como sobre la
 inexistencia de un registro o de una inscripción
 posterior en relación con una determinada.
-
 El Registro Público de Derechos de Agua podrá
 modificar o rectificar una inscripción cuando sea
 solicitada por el afectado, se acredite la existencia de
@@ -4447,6 +4506,7 @@ y
 cancelación
 de
 inscripciones que perjudiquen a terceros, así como las
+
 que se refieran a nulidad de éstas, se resolverán por
 "la Autoridad del Agua" en los términos de la presente
 Ley y sus reglamentos.
@@ -4470,7 +4530,6 @@ organizará y funcionará en los términos de los
 reglamentos de la presente Ley.
 Fe de erratas al artículo DOF 15-02-1993. Reformado
 DOF 29-04-2004
-
 ARTÍCULO 32. En el Registro Público de Derechos
 de Agua se llevará igualmente el registro nacional
 permanente, por cuencas, regiones hidrológicas,
@@ -4481,6 +4540,7 @@ su caso, regular su
 explotación, uso
 o
 aprovechamiento.
+
 "La Autoridad del Agua" solicitará los datos a los
 propietarios de las tierras, independientemente de
 que éstas se localicen dentro o fuera de una zona
@@ -4499,7 +4559,6 @@ Permisos de Descarga, podrán transmitirse en forma
 definitiva total o parcial, con base en las disposiciones
 del presente Capítulo y aquellas adicionales que
 prevea la Ley y sus reglamentos.
-
 Los títulos de concesión para la explotación, uso o
 aprovechamiento de aguas nacionales, para su
 transmisión se sujetarán a lo siguiente:
@@ -4509,6 +4568,7 @@ modifiquen las características del título de concesión,
 procederá la transmisión mediante una solicitud por
 escrito presentada ante "la Autoridad del Agua", quien
 emitirá el acuerdo correspondiente de aceptación o
+
 no, así como la inscripción en el Registro Público de
 Derechos de Agua;
 II. En el caso de que, conforme a los reglamentos de
@@ -4528,7 +4588,6 @@ Distrito Federal, zona o localidad, autorización que se
 otorgará solamente para que se efectúen las
 transmisiones de los títulos respectivos, dentro de una
 misma cuenca o acuífero. Los acuerdos referidos
-
 deberán publicarse en el Diario Oficial de la
 Federación.
 Cuando no se transmitan derechos o se modifique el
@@ -4538,6 +4597,7 @@ el uso total o parcial de las aguas concesionadas, se
 actuará conforme a lo dispuesto en el Artículo 23 BIS
 y los reglamentos de la presente Ley.
 Artículo reformado DOF 29-04-2004
+
 ARTÍCULO 34. "La Autoridad del Agua", en los
 términos del reglamento aplicable y mediante
 acuerdos de carácter regional, por cuenca hidrológica,
@@ -4557,7 +4617,6 @@ refiere el presente Artículo, la solicitud de inscripción
 en el Registro Público de Derechos de Agua, se
 deberá efectuar dentro de los quince días hábiles
 siguientes a la fecha de la autorización por parte de
-
 "la Autoridad del Agua" y hasta entonces dicha
 inscripción producirá efectos frente a terceros,
 siempre y cuando con antelación se haya efectuado el
@@ -4567,6 +4626,7 @@ de derechos se harán en la forma y términos que
 establece la Ley para las promociones; además
 cumplirán con los requisitos que establezcan los
 reglamentos de la presente Ley.
+
 Las autoridades competentes podrán otorgar la
 autorización, negarla o instruir los términos y
 condiciones bajo los cuales se concederá.
@@ -4585,7 +4645,6 @@ Artículo reformado DOF 29-04-2004
 ARTÍCULO 35. La transmisión de los derechos para
 explotar usar o aprovechar aguas del subsuelo en
 zonas de veda o reglamentadas, se convendrá
-
 conjuntamente con la transmisión de la propiedad de
 los terrenos respectivos y en todo caso será en forma
 definitiva, total o parcial.
@@ -4595,6 +4654,7 @@ reglamentos de la presente Ley. En todo caso, existirá
 responsabilidad solidaria entre quien transmite y
 quien adquiere los derechos, para sufragar los gastos
 que ocasione la clausura del pozo que no se utilizará.
+
 En ningún caso se celebrarán actos de transmisión
 de títulos de asignación de aguas nacionales.
 Una vez efectuada la transmisión de derechos, "la
@@ -4609,15 +4669,19 @@ Artículo reformado DOF 29-04-2004
 ARTÍCULO 37. Serán nulas y no producirán ningún
 efecto las transmisiones que se efectúen en
 contravención a lo dispuesto en la presente Ley.
+Queda prohibida la transmisión, para uso industrial
+en la minería, de los derechos para explotar, usar o
+aprovechar aguas nacionales de cualquier otro uso.
+Párrafo adicionado DOF 08-05-2023
 Artículo reformado DOF 29-04-2004
 ARTÍCULO 37 BIS. "La Comisión" podrá establecer
 definitiva o temporalmente instancias en las que se
-
 gestionen operaciones reguladas de transmisión de
 derechos que se denominarán "bancos del agua",
 cuyas funciones serán determinadas en los
 reglamentos respectivos.
 Artículo adicionado DOF 29-04-2004
+
 TÍTULO QUINTO
 Zonas Reglamentadas, de Veda o de Reserva
 Capítulo único
@@ -4640,12 +4704,12 @@ Artículo reformado DOF 29-04-2004
 ARTÍCULO 39. En el decreto que establezca la zona
 reglamentada a que se refiere el Artículo anterior, el
 Ejecutivo Federal fijará los volúmenes de extracción,
-
 uso y descarga que se podrán autorizar, las
 modalidades o límites a los derechos de los
 concesionarios y asignatarios, así como las demás
 disposiciones especiales que se requieran por causa
 de interés público.
+
 En los casos de sequías extraordinarias,
 sobreexplotación grave de acuíferos o condiciones de
 necesidad o urgencia por causa de fuerza mayor, el
@@ -4675,12 +4739,12 @@ extracciones de agua superficial o del subsuelo, a
 partir de un determinado volumen anual fijado por "la
 Autoridad del Agua", sin afectar la sustentabilidad del
 recurso y sin el riesgo de inducir efectos perjudiciales,
-
 económicos o ambientales, en las fuentes de agua de
 la zona en cuestión o en los usuarios del recurso, o
 II. Se requiera prohibir o limitar los usos del agua
 con objeto de proteger su calidad en las cuencas o
 acuíferos.
+
 Artículo adicionado DOF 29-04-2004
 ARTÍCULO 40. Los decretos por los que se
 establezcan, modifiquen o supriman zonas de veda
@@ -4706,12 +4770,12 @@ VI. El diagnóstico de los daños sufridos en los
 ecosistemas hídricos, el volumen disponible de agua
 y su distribución territorial, así como los volúmenes de
 extracción, recarga y de escurrimiento;
-
 VII. Las bases y disposiciones que deberá adoptar
 "la Autoridad del Agua", relativas a la forma,
 condiciones y, en su caso, limitaciones, en relación
 con las extracciones o descargas en forma temporal o
 definitiva;
+
 VIII. La expedición de normas que regulen los
 aprovechamientos y descargas, en relación con la
 fracción anterior, incluyendo el levantamiento y
@@ -4732,9 +4796,9 @@ o levantar mediante decreto la reserva total o parcial
 de las aguas nacionales para los siguientes
 propósitos:
 I. Uso Doméstico y Uso Público Urbano;
-
 II. Generación de energía eléctrica para servicio
 público, y
+
 III. Garantizar los flujos mínimos para la protección
 ecológica, incluyendo la conservación o restauración
 de ecosistemas vitales.
@@ -4760,12 +4824,12 @@ condiciones
 de
 aprovechamiento, que se realicen a partir del decreto
 de veda o reglamentación.
-
 Las concesiones o asignaciones se sujetarán a los
 requisitos que establecen los Artículos 21 y 21 BIS de
 esta Ley y se otorgarán de acuerdo con los estudios
 de disponibilidad respectivos, teniendo en cuenta el
 volumen de agua usada o aprovechada como
+
 promedio en el último año inmediato anterior al
 decreto respectivo, y que se hubieran inscrito en el
 Registro Público de Derechos de Agua.
@@ -4787,9 +4851,9 @@ I. La perforación con el objeto de completar el
 volumen autorizado, si una vez terminada la obra
 hidráulica no se obtiene el mismo;
 II. La reposición de pozo, y
-
 III. La profundización, relocalización o cambio de
 equipo del pozo.
+
 El permiso tomará en cuenta las extracciones
 permitidas en los términos del Artículo 40 de la
 presente Ley.
@@ -4819,11 +4883,11 @@ sistemas sean
 administrados por entidades
 paraestatales o paramunicipales, o se concesionen a
 particulares por la autoridad competente.
-
 Corresponde al municipio, al Distrito Federal y, en
 términos de Ley, al estado, así como a los
 organismos o empresas que presten el servicio de
 agua potable y alcantarillado, el tratamiento de las
+
 aguas residuales de uso público urbano, previa a su
 descarga a cuerpos receptores de propiedad
 nacional, conforme a las Normas Oficiales Mexicanas
@@ -4849,11 +4913,11 @@ servicios en materia de uso público urbano, serán
 responsables directos del cumplimento de sus
 obligaciones ante las autoridades en materia de agua,
 en términos de esta Ley, de sus Reglamentos y los
-
 títulos correspondientes, siendo los estados o quienes
 en su caso se encarguen de prestar el servicio,
 responsables solidarios en el cumplimiento de las
 obligaciones correspondientes.
+
 Los municipios, los estados y, en su caso, el Distrito
 Federal, podrán convenir con los Organismos de
 Cuenca con el concurso de "la Comisión", el
@@ -4877,12 +4941,12 @@ municipal de alcantarillado, se podrán llevar a cabo
 con sujeción a las Normas Oficiales Mexicanas que al
 efecto se expidan y mediante aviso.
 Artículo reformado DOF 29-04-2004
-
 ARTÍCULO 45. Es competencia de las autoridades
 municipales, con el concurso de los gobiernos de los
 estados en los términos de esta Ley, la explotación,
 uso o aprovechamiento de las aguas nacionales que
 se les hubieran asignado, incluyendo las residuales,
+
 desde el punto de su extracción o de su entrega por
 parte de "la Autoridad del Agua", hasta el sitio de su
 descarga a cuerpos receptores que sean bienes
@@ -4912,11 +4976,11 @@ pertenecientes al erario federal o con fondos
 obtenidos con aval o mediante cualquier otra forma de
 garantía otorgada por la Federación, siempre y
 cuando se cumplan los siguientes requisitos:
-
 I. Que las obras se localicen en más de una entidad
 federativa, o que tengan usos múltiples de agua, o
 que sean solicitadas expresamente por los
 interesados;
+
 II. Que los gobiernos de los estados, del Distrito
 Federal y de los municipios respectivos participen, en
 su caso, con fondos e inversiones en la obra a
@@ -4940,12 +5004,12 @@ hidráulica, y
 V. Que en el caso de comunidades rurales, los
 beneficiarios se integren a los procesos de
 planeación, ejecución, operación, administración y
-
 mantenimiento de los sistemas de agua potable y
 saneamiento.
 En los acuerdos o convenios respectivos se
 establecerán los compromisos relativos.
 Artículo reformado DOF 29-04-2004
+
 ARTÍCULO 47. Las descargas de aguas residuales
 a bienes nacionales o su infiltración en terrenos que
 puedan contaminar el subsuelo o los acuíferos, se
@@ -4973,11 +5037,11 @@ comprendido en el presente Capítulo.
 Artículo adicionado DOF 29-04-2004
 Capítulo II
 Uso Agrícola
-
 Sección Primera
 Disposiciones Generales
 ARTÍCULO 48. Los ejidatarios, comuneros y
 pequeños propietarios, así como los ejidos,
+
 comunidades, sociedades y demás personas que
 sean titulares o poseedores de tierras agrícolas,
 ganaderas o forestales dispondrán del derecho de
@@ -5000,11 +5064,11 @@ reglamentos.
 Cuando se trate de unidades, distritos o sistemas de
 riego, la transmisión de los derechos de explotación,
 uso o aprovechamiento de agua se hará cumpliendo
-
 con los términos de los reglamentos respectivos que
 expidan.
 Artículo reformado DOF 29-04-2004
 ARTÍCULO 50. Se podrá otorgar concesión a:
+
 I. Personas físicas o morales para la explotación,
 uso o aprovechamiento individual de aguas
 nacionales para fines agrícolas, y
@@ -5026,13 +5090,13 @@ servicio de riego y su participación en la
 administración y vigilancia del sistema;
 III. La forma de operación, conservación y
 mantenimiento, así como para efectuar inversiones
-
 para el mejoramiento de la infraestructura o sistema
 común, y la forma en que se recuperarán los costos
 incurridos a través de cuotas de autosuficiencia. Será
 obligatorio para los miembros o usuarios el pago de
 las cuotas de autosuficiencia fijadas para seguir
 recibiendo el servicio o efectuar el aprovechamiento;
+
 IV. Los derechos y obligaciones de los miembros o
 usuarios, así como las sanciones por incumplimiento;
 V. La forma y condiciones a las que se sujetará la
@@ -5051,11 +5115,11 @@ IX. La forma y términos en que llevará el padrón de
 usuarios;
 X. La forma y términos para realizar el pago por los
 servicios de riego;
-
 XI. Las medidas necesarias para propiciar el uso
 eficiente de las aguas;
 XII. Las medidas para el control y preservación de la
 calidad del agua, en los términos de Ley, y
+
 XIII. Los demás que se desprendan de la presente
 Ley y sus reglamentos o acuerden los miembros o
 usuarios.
@@ -5078,11 +5142,11 @@ Fracción II del Artículo 50 de la presente Ley, deberá
 precisarse en el padrón que al efecto el concesionario
 deberá llevar, en los términos del reglamento a que se
 refiere el Artículo anterior.
-
 El padrón será público, se constituirá en un medio
 de prueba de la existencia y situación de los derechos
 y estará a disposición para consulta de los
 interesados.
+
 Los derechos inscritos en el padrón no se podrán
 afectar, sin previa audiencia del posible afectado.
 Los miembros o usuarios registrados en el padrón
@@ -5102,12 +5166,12 @@ hidrológica;
 II. Los volúmenes de aguas superficiales y del
 subsuelo;
 III. El programa hídrico por cuenca hidrológica;
-
 IV. El perímetro del distrito, unidad o sistema de
 riego, así como la superficie con derecho de riego que
 integran el distrito, unidad o sistema de riego;
 V. Los requisitos para proporcionar el servicio de
 riego;
+
 VI. El censo de propietarios o poseedores de tierras,
 y
 VII. Los demás requisitos que establece la presente
@@ -5134,13 +5198,13 @@ aprovechen
 dichos
 sistemas
 o
-
 aprovechamientos los que establezcan el reglamento
 interior respectivo.
 Artículo reformado DOF 29-04-2004
 ARTÍCULO 54. Las personas físicas o morales que
 constituyen una unidad o distrito de riego podrán
 variar parcial o totalmente el uso del agua, conforme a
+
 lo que dispongan sus respectivos reglamentos, con la
 intervención, en términos de Ley, de "la Autoridad del
 Agua".
@@ -5167,13 +5231,13 @@ En ningún caso la asamblea o el comisariado ejidal
 podrán usar, disponer o determinar la explotación,
 uso o aprovechamiento de aguas destinadas a las
 parcelas sin el previo y expreso consentimiento de los
-
 ejidatarios titulares de dichas parcelas, excepto
 cuando se trate de aguas indispensables para las
 necesidades domésticas del asentamiento humano.
 Artículo reformado DOF 29-04-2004
 ARTÍCULO 56. Cuando la asamblea general del
 ejido resuelva que los ejidatarios pueden adoptar el
+
 dominio pleno de la parcela, se tendrán por
 transmitidos los derechos de explotación, uso o
 aprovechamiento de las aguas necesarias para el
@@ -5197,12 +5261,12 @@ correspondiente a solicitud del interesado, sin más
 requisito que contar con la constancia oficial de la
 cancelación de la inscripción de la parcela de que se
 trate.
-
 Al otorgar la concesión al solicitante, "la Autoridad
 del Agua" restará del volumen de agua asentado en la
 dotación, restitución o accesión ejidales, el volumen
 que será amparado en la concesión solicitada. La
 concesión y la reducción del volumen referido se
+
 inscribirán en el Registro Público de Derechos de
 Agua.
 Artículo reformado DOF 29-04-2004
@@ -5230,13 +5294,13 @@ aprovechamiento de aguas nacionales.
 Artículo adicionado DOF 29-04-2004
 ARTÍCULO 57. Cuando se transmita el dominio de
 tierras ejidales o de uso común o se aporte el
-
 usufructo de parcelas, a sociedades civiles o
 mercantiles o a cualquier otra persona moral, en los
 términos de la Ley Agraria, dichas personas o
 sociedades adquirentes conservarán los derechos
 sobre la explotación, uso o aprovechamiento de las
 aguas correspondientes. "La Autoridad del Agua", a
+
 solicitud del interesado, otorgará la concesión
 correspondiente en los términos de la presente Ley y
 sus reglamentos.
@@ -5259,11 +5323,11 @@ Artículo reformado DOF 29-04-2004
 ARTÍCULO 59. Las personas físicas o morales
 podrán conformar una persona moral y constituir una
 unidad de riego que tenga por objeto:
-
 I. Construir y operar su propia infraestructura para
 prestar el servicio de riego a sus miembros;
 II. Construir obras de infraestructura de riego en
 coinversión con recursos públicos federales, estatales
+
 y municipales y hacerse cargo de su operación,
 conservación y mantenimiento para prestar el servicio
 de riego a sus miembros, y
@@ -5286,13 +5350,13 @@ dispuesto en el Artículo 51 de la presente Ley y no
 podrán contravenir lo dispuesto en el título de
 concesión respectivo.
 Artículo reformado DOF 29-04-2004
-
 ARTÍCULO 61. En el supuesto a que se refiere la
 fracción II del Artículo 59 de la presente Ley, las
 personas morales estarán obligadas a pagar la parte
 recuperable de la inversión federal conforme a la Ley,
 y a otorgar las garantías que se establezcan para su
 cumplimiento.
+
 En el mismo supuesto, "la Comisión" emitirá la
 normatividad para la construcción, conservación y
 mantenimiento de las obras de infraestructura
@@ -5316,11 +5380,11 @@ actividades y forma de prestar el servicio de riego,
 dictar las medidas correctivas e intervenir en la
 administración en los términos que se deberán
 establecer en el reglamento de operación.
-
 El reglamento de operación y el monto de las cuotas
 de autosuficiencia, así como sus modificaciones,
 requerirán de la sanción de "la Autoridad del Agua".
 Artículo reformado DOF 29-04-2004
+
 ARTÍCULO 63. Las unidades de riego que así lo
 convengan podrán integrar un distrito de riego.
 Independientemente de lo anterior, las unidades de
@@ -5343,12 +5407,12 @@ ARTÍCULO 65. Los distritos de riego serán
 administrados, operados, conservados y mantenidos
 por los usuarios de los mismos, organizados en los
 términos del Artículo 51 de la presente Ley o por
-
 quien éstos designen, para lo cual "la Comisión", por
 conducto de los Organismos de Cuenca,
 concesionará el agua y en su caso, la infraestructura
 pública necesaria a las personas morales que éstos
 constituyan al efecto.
+
 Los usuarios del distrito podrán adquirir la
 infraestructura de la zona de riego en términos de
 Ley.
@@ -5370,12 +5434,12 @@ Artículo reformado DOF 29-04-2004
 ARTÍCULO 67. En los distritos de riego, los usuarios
 tendrán el derecho de recibir el agua para riego al
 cumplir con lo siguiente:
-
 a. Formar parte del padrón de usuarios respectivo, el
 cual será integrado y actualizado por el Organismo de
 Cuenca competente con la información y el apoyo que
 le proporcionen los usuarios, en forma individual y a
 través de sus organizaciones, y
+
 b. Contar con permiso único de siembra expedido
 para tal efecto, cuyas características serán definidas
 por la Autoridad en la materia.
@@ -5397,11 +5461,11 @@ Dichas cuotas de autosuficiencia se someterán a la
 autorización del Organismo de Cuenca que
 corresponda, el cual las podrá objetar cuando no
 cumplan con lo anterior.
-
 El incumplimiento de lo dispuesto en este Artículo
 será suficiente para suspender la prestación del
 servicio de riego, hasta que el infractor regularice su
 situación.
+
 La suspensión por la falta de pago de la cuota de
 autosuficiencia por servicios de riego, no podrá
 decretarse en un ciclo agrícola cuando existan
@@ -5426,12 +5490,12 @@ servicio de riego, aun cuando existan cultivos en pie.
 Cuando haya escasez de agua y los usuarios que
 dispongan de medios propios para riego hayan
 satisfecho las necesidades de agua derivadas de la
-
 superficie autorizada en los padrones, deberán
 entregar al distrito de riego los volúmenes excedentes
 que determine el Organismo de Cuenca que
 corresponda. Aquellos usuarios en el distrito que
 resulten beneficiados con el aprovechamiento de tales
+
 volúmenes excedentes, deberán cubrir los costos que
 se originen a los usuarios o asociación de éstos que
 hubieren contado con excedentes.
@@ -5456,13 +5520,13 @@ nacionales concesionadas, a personas físicas o
 morales fuera del distrito, requerirá de la aprobación
 de la asamblea general de las asociaciones de
 usuarios del distrito.
-
 Las disposiciones contenidas en el presente
 Artículo, se aplicarán sin perjuicio de lo dispuesto en
 la presente Ley y sus reglamentos.
 Artículo reformado DOF 29-04-2004
 ARTÍCULO 71. El Ejecutivo Federal promoverá la
 organización de los productores rurales y la
+
 construcción de la infraestructura necesaria para el
 establecimiento de distritos de riego.
 El establecimiento de un distrito de riego con
@@ -5480,11 +5544,11 @@ ARTÍCULO 72. Para proceder a la constitución de
 un distrito de riego, con financiamiento del gobierno
 federal, "la Comisión", a través del Organismo de
 Cuenca que corresponda:
-
 I. Promoverá, en su caso, las vedas necesarias para
 el buen funcionamiento de las obras;
 II. Elaborará el plano catastral de tierras y
 construcciones comprendidas en el distrito;
+
 III. Formulará el censo de propietarios o poseedores
 de tierras y de otros inmuebles, así como la relación
 de valores fiscales y comerciales que tengan;
@@ -5506,10 +5570,10 @@ corresponda convocará, en los términos de los
 reglamentos de la presente Ley, a audiencias con los
 beneficiarios de la zona de riego proyectada en el
 distrito para:
-
 I. Informar y concertar con los beneficiarios la
 recuperación de la inversión federal en obras de
 infraestructura hidráulica, en los términos de la ley;
+
 II. Invitar a que las obras requeridas para constituir
 la zona de riego proyectada sean ejecutadas por los
 beneficiarios con sus propios recursos, y
@@ -5534,10 +5598,10 @@ proyectada así lo soliciten al Ejecutivo Federal.
 Artículo reformado DOF 29-04-2004
 ARTÍCULO 74. La indemnización que proceda por la
 expropiación de las tierras se cubrirá en efectivo.
-
 A solicitud del afectado por las obras públicas
 federales, la indemnización se podrá cubrir mediante
 compensación en especie por un valor equivalente de
+
 tierras de riego por cada uno de los afectados, en los
 términos de Ley, y el resto de la indemnización, si la
 hubiere, se cubrirá en efectivo.
@@ -5561,10 +5625,10 @@ Comisión" por medio del Organismo de Cuenca que
 corresponda concertará las acciones y medidas
 necesarias para proteger los derechos de los
 usuarios, y
-
 III. Cambiar totalmente el uso del agua, previa
 autorización de "la Comisión".
 Artículo reformado DOF 29-04-2004
+
 Sección Quinta
 Temporal Tecnificado
 Denominación de la Sección reformada DOF 29-04-2004
@@ -5589,11 +5653,11 @@ Distritos de Temporal Tecnificado se publicarán en el
 Diario Oficial de la Federación, que se sustentarán
 en estudios técnicos formulados por los Organismos
 de Cuenca y autorizados por "la Comisión", para lo
-
 cual se coordinará en lo conducente con las
 Autoridades que correspondan, y señalarán además:
 I. Los requisitos para formar parte como usuarios del
 Distrito de Temporal Tecnificado;
+
 II. Los derechos y obligaciones de quienes formen
 del Distrito de Temporal Tecnificado;
 III. La localización geográfica y el perímetro que
@@ -5618,13 +5682,13 @@ y
 mantenimiento de la infraestructura, y cobren por
 superficie beneficiada las cuotas de autosuficiencia
 derivadas de la prestación de tales servicios.
-
 Las cuotas de autosuficiencia deberán cubrir la
 totalidad de los costos de los servicios prestados y
 podrán incluir la recuperación de las inversiones y el
 mejoramiento de la infraestructura de Temporal; para
 tal efecto, los usuarios de los servicios estarán
 obligados a cubrir dichas cuotas de autosuficiencia.
+
 Los gastos por los servicios de operación,
 conservación y mantenimiento que realicen las
 autoridades en la materia, directamente o a través de
@@ -5646,13 +5710,13 @@ los distritos de temporal tecnificado.
 Artículo reformado DOF 29-04-2004
 Capítulo III
 Uso en Generación de Energía Eléctrica
-
 ARTÍCULO 78. "La Comisión", con base en la
 evaluación del impacto ambiental, los planes
 generales sobre aprovechamiento de los recursos
 hídricos del país y la programación hídrica a que se
 refiere la presente Ley, cuando existan volúmenes de
 agua disponibles otorgará el título de concesión de
+
 agua a favor de la Comisión Federal de Electricidad,
 en el cual se determinará el volumen destinado a la
 generación de energía eléctrica y enfriamiento de
@@ -5681,12 +5745,12 @@ aprovechamiento de la energía eléctrica del país. En
 la programación hídrica que realice "la Comisión" y
 que se pueda aprovechar para fines hidroeléctricos,
 se dará la participación que corresponda a la
-
 Comisión Federal de Electricidad en los términos de
 la ley aplicable en la materia.
 Artículo reformado DOF 29-04-2004
 ARTÍCULO 79. El Ejecutivo Federal determinará si
 las obras hidráulicas correspondientes al sistema
+
 hidroeléctrico deberán realizarse por "la Comisión" o
 por la Comisión Federal de Electricidad.
 "La Comisión" podrá utilizar o concesionar la
@@ -5709,12 +5773,12 @@ Artículo reformado DOF 29-04-2004
 ARTÍCULO 81. Los interesados en realizar trabajos
 de exploración con fines geotérmicos, deberán
 solicitar a “la Comisión” permiso de obra para el o los
-
 pozos exploratorios, en términos de lo dispuesto por
 la Ley de Energía Geotérmica y su Reglamento.
 La explotación, uso y aprovechamiento de aguas del
 subsuelo, contenidas en yacimientos geotérmicos
 hidrotermales, requiere de concesión de agua
+
 otorgada por “la Comisión” y de autorización en
 materia de impacto ambiental.
 Las concesiones de agua a que alude el párrafo
@@ -5742,12 +5806,12 @@ Los estudios y exploraciones realizados por los
 interesados deberán determinar la ubicación del
 yacimiento geotérmico hidrotermal con respecto a los
 acuíferos, la probable posición y configuración del
-
 límite inferior de éstos, las características de las
 formaciones geológicas comprendidas entre el
 yacimiento y los acuíferos, entre otros aspectos.
 Si los estudios demuestran que el yacimiento
 geotérmico hidrotermal y los acuíferos sobreyacentes
+
 no tienen conexión hidráulica directa, el otorgamiento
 de la concesión de agua por parte de “la Comisión”,
 no estará sujeta a la disponibilidad de agua de los
@@ -5771,7 +5835,6 @@ cuando se trate de la disposición al subsuelo de los
 recortes de perforación. La reincorporación del agua
 de retorno al yacimiento geotérmico hidrotermal,
 requiere permiso de obra para el pozo de inyección.
-
 Las concesiones de agua otorgadas por “la
 Comisión”, podrán ser objeto de modificación en caso
 de alteración de los puntos de extracción o inyección,
@@ -5781,6 +5844,89 @@ volúmenes,
 relocalización,
 reposición y cierre de pozos.
 Artículo reformado DOF 29-04-2004, 11-08-2014
+
+Capítulo III Bis
+Uso Industrial en la Minería
+Capítulo adicionado DOF 08-05-2023
+ARTÍCULO 81 BIS. La persona solicitante de una
+concesión de aguas nacionales para uso industrial en
+la minería, además de lo dispuesto en el artículo 21
+BIS de esta Ley, debe presentar lo siguiente:
+I. Fallo del concurso de concesión minera favorable
+a la persona solicitante a que se refiere la
+fracción VI del artículo 13 Bis de la Ley de
+Minería;
+II. El documento en el que se indiquen los métodos
+y obras auxiliares que se utilizarán para el uso del
+agua de laboreo en las obras de exploración y
+explotación, así como el volumen estimado que
+se prevé manejar. Dicha información debe ser
+pública;
+III.
+
+El diseño de redes de pozos de monitoreo de
+cantidad y calidad del agua;
+
+IV.
+
+La autorización del Programa de Restauración,
+Cierre y Post-cierre de minas, previsto en la Ley
+General del Equilibrio Ecológico y la Protección al
+Ambiente, y
+
+V. El documento que indique cuáles serán los
+dispositivos de medición telemétrica con
+
+capacidad de transmisión a "la Autoridad del
+Agua" en tiempo real y su localización, para que
+todas las tomas de agua superficiales o
+subterráneas sean medidas, sin excepción.
+Artículo adicionado DOF 08-05-2023
+ARTÍCULO 81 BIS 1. Los concesionarios de aguas
+nacionales para uso industrial en la minería, además
+de las establecidas en el artículo 29 de la presente
+Ley, tienen la obligación de medir el volumen de agua
+explotada, usada o aprovechada que se extraiga de
+las cuencas y acuíferos, así como las aguas
+provenientes de laboreo de las minas para uso
+industrial o de servicios, conforme a lo dispuesto en la
+presente Ley.
+Artículo adicionado DOF 08-05-2023
+ARTÍCULO 81 BIS 2. El volumen de aguas que se
+establezca en la concesión para uso industrial en la
+minería comprende el volumen de aguas
+subterráneas extraídas vía pozos como tomas de
+aguas superficiales.
+Artículo adicionado DOF 08-05-2023
+ARTÍCULO 81 BIS 3. En ningún caso las aguas
+nacionales pueden utilizarse para el transporte de
+materiales provenientes de la operación minera.
+En caso de solicitudes de concesión para el uso
+industrial en la minería, no se debe autorizar la
+construcción de pozos de extracción cuya profundidad
+
+pudiera afectar la disponibilidad de agua para otros
+usos.
+En la concesión de aguas nacionales para uso
+industrial en la minería, no se debe otorgar el permiso
+para la profundización de pozos de extracción.
+Artículo adicionado DOF 08-05-2023
+ARTÍCULO 81 BIS 4. Las concesiones de aguas
+nacionales para uso industrial en la minería tendrán
+una vigencia máxima de treinta años, contados a
+partir del día siguiente a la expedición del título de
+concesión.
+La concesión de aguas nacionales para uso
+industrial en la minería puede prorrogarse hasta por
+veinticinco años e iguales características del título por
+el que se hubiere otorgado, siempre y cuando la
+concesión minera se encuentre vigente y sus titulares
+cumplan con lo previsto en el Programa de
+Restauración, Cierre y Post-cierre de minas, en el
+título de concesión, así como en las disposiciones
+jurídicas aplicables, y lo soliciten al menos seis meses
+previos al término de su vigencia.
+Artículo adicionado DOF 08-05-2023
 Capítulo IV
 Uso en otras Actividades Productivas
 ARTÍCULO
@@ -5791,6 +5937,7 @@ uso
 o
 aprovechamiento de las aguas nacionales en
 actividades industriales, de acuacultura, turismo y
+
 otras actividades productivas, se podrá realizar por
 personas físicas o morales previa la concesión
 respectiva otorgada por "la Autoridad del Agua", en
@@ -5808,7 +5955,6 @@ aprovechamiento. Para la realización de lo anterior,
 Cuenca.
 Las actividades de acuacultura efectuadas en
 sistemas suspendidos en aguas nacionales no
-
 requerirán de concesión, en tanto no se desvíen los
 cauces y siempre que no se afecten la calidad de
 agua, la navegación, otros usos permitidos y los
@@ -5820,6 +5966,7 @@ Inundaciones
 ARTÍCULO 83. "La Comisión", a través de los
 Organismos de Cuenca, en coordinación con los
 gobiernos estatales y municipales, o en concertación
+
 con personas físicas o morales, deberá construir y
 operar, según sea el caso, las obras para el control de
 avenidas y protección de zonas inundables, así como
@@ -5837,7 +5984,6 @@ control y seguimiento y aplicará los fondos de
 contingencia que se integren al efecto.
 Los Organismos de Cuenca apoyarán a "la
 Comisión", de conformidad con las leyes en la
-
 materia, para promover, en su caso, en coordinación
 con las autoridades competentes, el establecimiento
 de seguros contra daños por inundaciones en zonas
@@ -5850,6 +5996,7 @@ control de avenidas y tomará las medidas necesarias
 para dar seguimiento a fenómenos climatológicos
 extremos, promoviendo o realizando las acciones
 preventivas que se requieran; asimismo, realizará las
+
 acciones necesarias que al efecto acuerde su
 Consejo Técnico para atender las zonas de
 emergencia hidráulica o afectadas por fenómenos
@@ -5866,7 +6013,6 @@ Capítulo adicionado DOF 29-04-2004
 ARTÍCULO 84 BIS. "La Comisión", con el concurso
 de los Organismos de Cuenca, deberá promover
 entre la población, autoridades y medios de
-
 comunicación, la cultura del agua acorde con la
 realidad del país y sus regiones hidrológicas, para lo
 cual deberá:
@@ -5879,6 +6025,7 @@ y ambiental; uso eficiente; necesidades y ventajas del
 tratamiento y reúso de las aguas residuales; la
 conservación del agua y su entorno; el pago por la
 prestación de servicios de agua en los medios rural y
+
 urbano y de derechos por extracción, descarga y
 servicios ambientales;
 II. Instrumentar campañas permanentes de difusión
@@ -5894,7 +6041,6 @@ V. Fomentar el uso racional y conservación del agua
 como tema de seguridad nacional, y alentar el empleo
 de procedimientos y tecnologías orientadas al uso
 eficiente y conservación del agua, y
-
 VI. Fomentar el interés de la sociedad en sus
 distintas
 organizaciones
@@ -5909,6 +6055,7 @@ financiamiento, seguimiento y evaluación de
 actividades diversas en la gestión de los recursos
 hídricos.
 Artículo adicionado DOF 29-04-2004
+
 ARTÍCULO 84 BIS 1. "La Secretaría", "la Comisión"
 y los Organismos de Cuenca, deberán promover el
 mejoramiento de la cultura del agua con apoyo en las
@@ -5927,7 +6074,6 @@ naturales, así como la protección de ecosistemas
 vitales y del medio ambiente, en los términos
 dispuestos en la Ley Federal de Radio y Televisión.
 Artículo adicionado DOF 29-04-2004
-
 TÍTULO SÉPTIMO
 Prevención y Control de la Contaminación de las
 Aguas y Responsabilidad por Daño Ambiental
@@ -5938,6 +6084,7 @@ Agua
 Capítulo adicionado DOF 29-04-2004
 ARTÍCULO 85. En concordancia con las Fracciones
 VI y VII del Artículo 7 de la presente Ley, es
+
 fundamental que la Federación, los estados, el Distrito
 Federal y los municipios, a través de las instancias
 correspondientes, los usuarios del agua y las
@@ -5956,7 +6103,6 @@ términos de lo que establece esta Ley y otros
 instrumentos jurídicos aplicables, para contribuir a la
 descentralización de la gestión de los recursos
 hídricos.
-
 Las personas físicas o morales, incluyendo las
 dependencias, organismos y entidades de los tres
 órdenes de gobierno, que exploten, usen o
@@ -5968,6 +6114,7 @@ contaminación y, en su caso, para reintegrar las
 aguas referidas en condiciones adecuadas, a fin de
 permitir su explotación, uso o aprovechamiento
 posterior, y
+
 b. Mantener el equilibrio de los ecosistemas vitales.
 Artículo reformado DOF 29-04-2004
 ARTÍCULO 86. "La Autoridad del Agua" tendrá a su
@@ -5983,7 +6130,6 @@ II. Formular y realizar estudios para evaluar la
 calidad de los cuerpos de agua nacionales;
 III. Formular programas integrales de protección de
 los recursos hídricos en cuencas hidrológicas y
-
 acuíferos, considerando las relaciones existentes
 entre los usos del suelo y la cantidad y calidad del
 agua;
@@ -5993,6 +6139,7 @@ satisfacer las aguas residuales, de los distintos usos y
 usuarios, que se generen en:
 a. Bienes y zonas de jurisdicción federal;
 b. Aguas y bienes nacionales;
+
 c. Cualquier terreno cuando puedan contaminar el
 subsuelo o los acuíferos, y
 d. Los demás casos previstos en la Ley General del
@@ -6007,7 +6154,6 @@ VI. Autorizar en su caso, el vertido de aguas
 residuales en el mar, y en coordinación con la
 Secretaría de Marina cuando provengan de fuentes
 móviles o plataformas fijas;
-
 VII. Vigilar, en coordinación con las demás
 autoridades competentes, que el agua suministrada
 para consumo humano cumpla con las Normas
@@ -6019,6 +6165,7 @@ IX. Promover o realizar las medidas necesarias para
 evitar que basura, desechos, materiales y sustancias
 tóxicas, así como lodos producto de los tratamientos
 de aguas residuales, de la potabilización del agua y
+
 del desazolve de los sistemas de alcantarillado
 urbano o municipal, contaminen las aguas
 superficiales o del subsuelo y los bienes que señala el
@@ -6036,7 +6183,6 @@ contribuir a prevenir y remediar los efectos adversos a
 la salud y al ambiente, en coordinación con la
 Secretaría de Salud y "la Secretaría" en el ámbito de
 sus respectivas competencias;
-
 XII. Ejercer las atribuciones que corresponden a la
 Federación en materia de prevención y control de la
 contaminación del agua y de su fiscalización y
@@ -6046,8 +6192,12 @@ a. El monitoreo sistemático y permanente de la
 calidad del agua, y mantener actualizado el Sistema
 de Información de la Calidad del Agua a nivel
 nacional, coordinado con el Sistema Nacional de
-Información sobre cantidad, calidad, usos y
+
+Información sobre cantidad, calidad, usos
 conservación del Agua en términos de esta Ley;
+
+y
+
 b. El inventario nacional de plantas de tratamiento
 de aguas residuales, y
 c. El inventario nacional de descargas de aguas
@@ -6062,7 +6212,6 @@ reservadas para "la Comisión", ésta determinará la
 actuación explícita de los Organismos de Cuenca,
 conforme a los reglamentos derivados de la presente
 Ley.
-
 Artículo adicionado DOF 29-04-2004
 ARTÍCULO 86 BIS 1. Para la preservación de los
 humedales que se vean afectados por los regímenes
@@ -6072,6 +6221,7 @@ los casos previstos en la Fracción IX del Artículo 9 de
 la presente Ley, que quedan reservados para la
 actuación directa de "la Comisión". Para tales efectos,
 tendrá las siguientes atribuciones:
+
 I. Delimitar y llevar el inventario de los humedales en
 bienes nacionales o de aquéllos inundados por aguas
 nacionales;
@@ -6090,7 +6240,6 @@ humedales, así como para fijar un entorno natural o
 perímetro de protección de la zona húmeda, a efecto
 de preservar sus condiciones hidrológicas y el
 ecosistema, y
-
 V. Otorgar permisos para desecar terrenos en
 humedales cuando se trate de aguas y bienes
 nacionales a su cargo, con fines de protección o para
@@ -6099,6 +6248,7 @@ competan a otra dependencia.
 Para el ejercicio de las atribuciones a que se refiere
 el presente Artículo, "la Comisión" y los Organismos
 de Cuenca se coordinarán con las demás autoridades
+
 que deban intervenir o participar en el ámbito de su
 competencia.
 Artículo adicionado DOF 29-04-2004
@@ -6119,7 +6269,6 @@ ARTÍCULO 87. "La Autoridad del Agua" determinará
 los parámetros que deberán cumplir las descargas, la
 capacidad de asimilación y dilución de los cuerpos de
 aguas nacionales y las cargas de contaminantes que
-
 éstos pueden recibir, así como las metas de calidad y
 los plazos para alcanzarlas, mediante la expedición
 de Declaratorias de Clasificación de los Cuerpos de
@@ -6128,6 +6277,7 @@ Diario Oficial de la Federación, lo mismo que sus
 modificaciones, para su observancia.
 Las declaratorias contendrán:
 I. La delimitación del cuerpo de agua clasificado;
+
 II. Los parámetros que deberán cumplir las
 descargas según el cuerpo de agua clasificado
 conforme a los periodos previstos en el reglamento de
@@ -6145,7 +6295,6 @@ o intermitente aguas residuales en cuerpos receptores
 que sean aguas nacionales o demás bienes
 nacionales, incluyendo aguas marinas, así como
 cuando se infiltren en terrenos que sean bienes
-
 nacionales o en otros terrenos cuando puedan
 contaminar el subsuelo o los acuíferos.
 El control de las descargas de aguas residuales a
@@ -6154,6 +6303,7 @@ de población, corresponde a los municipios, con el
 concurso de los estados cuando así fuere necesario y
 lo determinen las leyes.
 Artículo reformado DOF 29-04-2004
+
 ARTÍCULO 88 BIS. Las personas físicas o morales
 que efectúen descargas de aguas residuales a los
 cuerpos receptores a que se refiere la presente Ley,
@@ -6162,89 +6312,120 @@ I. Contar con el permiso de descarga de aguas
 residuales mencionado en el Artículo anterior;
 II. Tratar las aguas residuales previamente a su
 vertido a los cuerpos receptores, cuando sea
-necesario para cumplir con lo dispuesto en el permiso
-de descarga correspondiente y en las Normas
-Oficiales Mexicanas;
+necesario para cumplir con lo dispuesto en el
+permiso de descarga correspondiente y en las
+Normas Oficiales Mexicanas;
 III. Cubrir, cuando proceda, el derecho federal por el
 uso o aprovechamiento de bienes de propiedad
-nacional como cuerpos receptores de las descargas
-de aguas residuales;
+nacional como cuerpos receptores de las
+descargas de aguas residuales;
 IV. Instalar y mantener en buen estado, los aparatos
-medidores y los accesos para el muestreo necesario
-
-en la determinación de las concentraciones de los
-parámetros previstos en los permisos de descarga;
+medidores y los accesos para el muestreo
+necesario en la determinación de las
+concentraciones de los parámetros previstos en
+los permisos de descarga;
 V. Hacer del conocimiento de "la Autoridad del
 Agua" los contaminantes presentes en las aguas
 residuales que generen por causa del proceso
-industrial o del servicio que vienen operando, y que
-no estuvieran considerados en las condiciones
-particulares de descarga fijadas;
+industrial o del servicio que vienen operando, y
+que no estuvieran considerados en las
+condiciones particulares de descarga fijadas;
+
+V BIS. Para el uso industrial en la minería,
+presentar ante “la Autoridad del Agua” un reporte
+mensual de las mediciones diarias que contenga
+los análisis cronológicos e indicadores de calidad
+del agua de las descargas realizadas en aguas
+superficiales y subterráneas, garantizando su
+calidad de conformidad con los parámetros que
+al efecto establezca dicha autoridad;
+Fracción adicionada DOF 08-05-2023
 VI. Informar a "la Autoridad del Agua" de cualquier
 cambio en sus procesos, cuando con ello se
-ocasionen modificaciones en las características o en
-los volúmenes de las aguas residuales contenidas en
-el permiso de descarga correspondiente;
-VI Bis. Adoptar dentro de sus procesos, la utilización
-de materiales biodegradables, siempre y cuando
-técnicamente sean viables, atendiendo a las
-disposiciones reglamentarias en la materia;
+ocasionen modificaciones en las características o
+en los volúmenes de las aguas residuales
+contenidas en el permiso de descarga
+correspondiente;
+VI Bis. Adoptar dentro de sus procesos, la
+utilización de materiales biodegradables, siempre
+y cuando técnicamente sean viables, atendiendo
+a las disposiciones reglamentarias en la materia;
 Fracción adicionada DOF 06-01-2020
 VII. Operar y mantener por sí o por terceros las
-obras e instalaciones necesarias para el manejo y, en
-su caso, el tratamiento de las aguas residuales, así
-como para asegurar el control de la calidad de dichas
-aguas antes de su descarga a cuerpos receptores;
+obras e instalaciones necesarias para el manejo
+y, en su caso, el tratamiento de las aguas
+residuales, así como para asegurar el control de
+la calidad de dichas aguas antes de su descarga
+a cuerpos receptores;
+
 VIII. Conservar al menos por cinco años el registro
-de la información sobre el monitoreo que realicen;
-
+de la información sobre el monitoreo que
+realicen;
 IX. Cumplir con las condiciones del permiso de
-descarga correspondiente y, en su caso, mantener las
-obras e instalaciones del sistema de tratamiento en
-condiciones de operación satisfactorias;
-X. Cumplir con las Normas Oficiales Mexicanas y en
-su caso con las condiciones particulares de descarga
-que se hubieren fijado, para la prevención y control de
-la contaminación extendida o dispersa que resulte del
-manejo y aplicación de substancias que puedan
-contaminar la calidad de las aguas nacionales y los
-cuerpos receptores;
+descarga correspondiente y, en su caso,
+mantener las obras e instalaciones del sistema
+de tratamiento en condiciones de operación
+satisfactorias;
+X. Cumplir con las Normas Oficiales Mexicanas y
+en su caso con las condiciones particulares de
+descarga que se hubieren fijado, para la
+prevención y control de la contaminación
+extendida o dispersa que resulte del manejo y
+aplicación
+de
+substancias
+que
+puedan
+contaminar la calidad de las aguas nacionales y
+los cuerpos receptores;
 XI. Permitir al personal de "la Autoridad del Agua" o
-de "la Procuraduría", conforme a sus competencias, la
-realización de:
-a. La inspección y verificación de las obras utilizadas
-para las descargas de aguas residuales y su
-tratamiento, en su caso;
-b. La lectura y verificación del funcionamiento de los
-medidores u otros dispositivos de medición;
+de "la Procuraduría", conforme a sus
+competencias, la realización de:
+a. La inspección y verificación de las obras
+utilizadas para las descargas de aguas
+residuales y su tratamiento, en su caso;
+b. La lectura y verificación del funcionamiento de
+los medidores u otros dispositivos de
+medición;
+
 c. La instalación, reparación o sustitución de
-aparatos medidores u otros dispositivos de medición
-que permitan conocer el volumen de las descargas, y
+aparatos medidores u otros dispositivos de
+medición que permitan conocer el volumen de
+las descargas, y
 d. El ejercicio de sus facultades de inspección,
-comprobación y verificación del cumplimiento de las
-disposiciones de esta Ley y sus Reglamentos, así
-como de los permisos de descarga otorgados;
-
+comprobación y verificación del cumplimiento
+de las disposiciones de esta Ley y sus
+Reglamentos, así como de los permisos de
+descarga otorgados;
 XII. Presentar de conformidad con su permiso de
-descarga, los reportes del volumen de agua residual
-descargada, así como el monitoreo de la calidad de
-sus descargas, basados en determinaciones
-realizadas por laboratorio acreditado conforme a la
-Ley Federal sobre Metrología y Normalización y
-aprobado por "la Autoridad del Agua";
+descarga, los reportes del volumen de agua
+residual descargada, así como el monitoreo de la
+calidad de sus descargas, basados en
+determinaciones realizadas por laboratorio
+acreditado conforme a la Ley Federal sobre
+Metrología y Normalización y aprobado por "la
+Autoridad del Agua";
 XIII. Proporcionar a "la Procuraduría", en el ámbito
-de sus respectivas competencias, la documentación
-que le soliciten;
+de
+sus
+respectivas
+competencias,
+la
+documentación que le soliciten;
 XIV. Cubrir dentro de los treinta días siguientes a la
-instalación, compostura o sustitución de aparatos o
-dispositivos medidores que hubiese realizado "la
-Autoridad del Agua", el monto correspondiente al
-costo de los mismos, que tendrá el carácter de crédito
-fiscal, y
-XV. Las demás que señalen las
-disposiciones reglamentarias aplicables.
+instalación, compostura o sustitución de aparatos
+o dispositivos medidores que hubiese realizado
+"la
+Autoridad
+del
+Agua",
+el
+monto
+correspondiente al costo de los mismos, que
+tendrá el carácter de crédito fiscal, y
 
-leyes
+XV. Las demás que señalen las leyes
+disposiciones reglamentarias aplicables.
 
 y
 
@@ -6255,7 +6436,6 @@ de descarga en lugar de la Norma Oficial Mexicana,
 para lo cual le notificará oportunamente al
 responsable de la descarga.
 Artículo adicionado DOF 29-04-2004
-
 ARTÍCULO 88 BIS 1. Las descargas de aguas
 residuales de uso doméstico que no formen parte de
 un sistema municipal de alcantarillado, se podrán
@@ -6275,6 +6455,7 @@ podrán llevar a cabo sus descargas de aguas
 residuales con sujeción a las Normas Oficiales
 Mexicanas que al efecto se expidan y mediante un
 aviso por escrito a "la Autoridad del Agua".
+
 El control de las descargas de aguas residuales a
 los sistemas de drenaje o alcantarillado urbano o
 municipal de los centros de población, que se viertan
@@ -6285,7 +6466,6 @@ cumplirán con los requisitos que al efecto prevé esta
 Ley y se deberá manifestar en ellos, bajo protesta de
 decir verdad, que se está en los supuestos que éstos
 señalan.
-
 Cuando se efectúen en forma fortuita una o varias
 descargas de aguas residuales sobre cuerpos
 receptores que sean bienes nacionales, los
@@ -6305,6 +6485,7 @@ el responsable no dé aviso, o habiéndolo formulado,
 realizar tales labores, su costo será cubierto por
 dichos responsables dentro de los treinta días
 siguientes a su notificación y tendrán el carácter de
+
 crédito fiscal. Los daños que se ocasionen, serán
 determinados y cuantificados por "la Autoridad del
 Agua", y su monto al igual que el costo de las labores
@@ -6314,7 +6495,6 @@ La determinación y cobro del daño causado sobre
 las aguas y los bienes nacionales a que se refiere
 este Artículo, procederá independientemente de que
 "la Autoridad del Agua", "la Procuraduría" y las demás
-
 autoridades competentes apliquen las sanciones,
 administrativas y penales que correspondan.
 Artículo adicionado DOF 29-04-2004
@@ -6335,6 +6515,7 @@ la misma ha resuelto negar el permiso solicitado. En
 tal supuesto, el promovente podrá solicitar la
 información pertinente en relación con su trámite y los
 motivos de la resolución negativa. La falta de
+
 resolución
 a
 la
@@ -6348,7 +6529,6 @@ permiso de descarga al que se deberá sujetar el
 permisionario y en su caso, fijará condiciones
 particulares de descarga y requisitos distintos a los
 contenidos en la solicitud.
-
 Cuando la descarga de las aguas residuales afecte
 o pueda afectar fuentes de abastecimiento de agua
 potable o a la salud pública, "la Autoridad del Agua" lo
@@ -6370,6 +6550,7 @@ originen por el uso o aprovechamiento de aguas
 nacionales, los permisos de descarga tendrán, por lo
 menos, la misma duración que el título de concesión o
 asignación correspondiente y se sujetarán a las
+
 mismas reglas sobre la prórroga o terminación de
 aquéllas.
 Los permisos de descarga se podrán transmitir en
@@ -6377,7 +6558,6 @@ los términos del Capítulo V del Título Cuarto de la
 presente Ley, siempre y cuando se mantengan las
 características del permiso.
 Artículo reformado DOF 29-04-2004
-
 ARTÍCULO 91. La infiltración de aguas residuales
 para recargar acuíferos, requiere permiso de "la
 Autoridad del Agua" y deberá ajustarse a las Normas
@@ -6398,6 +6578,7 @@ Autoridad del Agua", cuando a ésta competa
 establecerlas.
 Las descargas de aguas residuales por uso
 doméstico y público urbano que carezcan o que no
+
 formen parte de un sistema de alcantarillado y
 saneamiento, se podrán llevar a cabo con sujeción a
 las Normas Oficiales Mexicanas que se expidan y
@@ -6406,7 +6587,6 @@ jurisdicción municipal, las autoridades locales serán
 responsables de su inspección, vigilancia y
 fiscalización.
 Artículo adicionado DOF 29-04-2004
-
 ARTÍCULO 91 BIS 1. Cuando se efectúen en forma
 fortuita, culposa o intencional una o varias descargas
 de aguas residuales sobre cuerpos receptores que
@@ -6427,25 +6607,40 @@ Artículo adicionado DOF 29-04-2004
 ARTÍCULO 92. "La Autoridad del Agua" ordenará la
 suspensión de las actividades que den origen a las
 descargas de aguas residuales, cuando:
+
 I. No se cuente con el Permiso de Descarga de
 aguas residuales en los términos de esta Ley;
 II. La calidad de las descargas no se sujete a las
-Normas Oficiales Mexicanas correspondientes, a las
-condiciones particulares de descarga o a lo dispuesto
-en esta Ley y sus reglamentos;
+Normas Oficiales Mexicanas correspondientes, a
+las condiciones particulares de descarga o a lo
+dispuesto en esta Ley y sus reglamentos;
+III.
 
-III. Se omita el pago del derecho por el uso o
-aprovechamiento de bienes nacionales como cuerpos
-receptores de descargas de aguas residuales durante
-más de un año fiscal;
-IV. El responsable de la descarga, contraviniendo
-los términos de Ley, utilice el proceso de dilución de
-las aguas residuales para tratar de cumplir con las
-Normas Oficiales Mexicanas respectivas o las
-condiciones particulares de descarga, y
+Se omita el pago del derecho por el uso o
+aprovechamiento de bienes nacionales como
+cuerpos receptores de descargas de aguas
+residuales durante más de un año fiscal;
+
+IV.
+
+El responsable de la descarga, contraviniendo
+los términos de Ley, utilice el proceso de dilución
+de las aguas residuales para tratar de cumplir con
+las Normas Oficiales Mexicanas respectivas o las
+condiciones particulares de descarga;
+Fracción reformada DOF 08-05-2023
+
 V. Cuando no se presente cada dos años un informe
-que contenga los análisis e indicadores de la calidad
-del agua que descarga.
+que contenga los análisis e indicadores de la
+calidad del agua que descarga, y
+Fracción reformada DOF 08-05-2023
+VI.
+
+No se presente el informe mensual de las
+descargas a que se refiere la fracción V BIS del
+artículo 88 BIS de la presente Ley.
+Fracción adicionada DOF 08-05-2023
+
 La suspensión será sin perjuicio de la
 responsabilidad civil, penal o administrativa en que se
 hubiera podido incurrir.
@@ -6459,7 +6654,6 @@ ARTÍCULO 93. Son causas de revocación del
 permiso de descarga de aguas residuales:
 I. Efectuar la descarga en un lugar distinto del
 autorizado por "la Autoridad del Agua";
-
 II. Realizar los actos u omisiones que se señalan en
 las fracciones II, III y IV del Artículo anterior, cuando
 con anterioridad se hubieren suspendido las
@@ -6472,6 +6666,7 @@ aprovechamiento originen la descarga de aguas
 residuales.
 Cuando proceda la revocación, "la Autoridad del
 Agua" previa audiencia con el interesado, dictará y
+
 notificará la resolución respectiva, la cual deberá estar
 debidamente fundada y motivada.
 El Permiso de Descarga caducará cuando caduque
@@ -6487,7 +6682,6 @@ descargas de aguas residuales de manera reincidente
 en relación con lo dispuesto en la Fracción III del
 Artículo 92 de la presente Ley.
 Artículo adicionado DOF 29-04-2004
-
 ARTÍCULO 94. Cuando la suspensión o cese de
 operación de una planta de tratamiento de aguas
 residuales pueda ocasionar graves perjuicios a la
@@ -6502,6 +6696,7 @@ cargo de la administración y operación provisional de
 las instalaciones de tratamiento de aguas residuales,
 hasta que se suspendan las actividades o se
 considere superada la gravedad de la descarga, sin
+
 perjuicio de la responsabilidad administrativa o penal
 en que se hubiera podido incurrir.
 Los gastos que dicha intervención ocasione serán
@@ -6517,7 +6712,6 @@ contaminación, además de cumplir con las Normas
 Oficiales Mexicanas relativas a descargas de aguas
 residuales, el interesado deberá presentar ante "la
 Autoridad del Agua", un análisis físico, químico y
-
 orgánico de las aguas de las fuentes receptoras en
 puntos inmediatamente previos a la descarga. Dicha
 información servirá para conformar el Registro de
@@ -6531,6 +6725,7 @@ fiscalización de las descargas de aguas residuales
 con el objeto de verificar el cumplimiento de la Ley.
 Los resultados de dicha fiscalización o inspección se
 harán constar en acta circunstanciada, producirán
+
 todos los efectos legales y podrán servir de base para
 que "la Comisión" y las dependencias de la
 Administración Pública Federal competentes, puedan
@@ -6547,7 +6742,6 @@ presente Ley y sus reglamentos.
 competencia, las normas o disposiciones que se
 requieran para hacer compatible el uso de los suelos
 con el de las aguas, con el objeto de preservar la
-
 calidad de las mismas dentro de un ecosistema,
 cuenca hidrológica o acuífero.
 Artículo reformado DOF 29-04-2004
@@ -6560,6 +6754,7 @@ daño ambiental, incluyendo aquellos daños que
 comprometan a ecosistemas vitales, debiendo
 sujetarse en sus actuaciones en términos de ley, de la
 Ley de Aguas Nacionales y su Reglamento.
+
 Artículo adicionado DOF 29-04-2004. Reformado DOF 0706-2013
 ARTÍCULO 96 BIS 1. Las personas físicas o
 morales que descarguen aguas residuales, en
@@ -6574,7 +6769,6 @@ contaminantes del cuerpo receptor afectado y
 restituirlo al estado que guardaba antes de producirse
 el daño.
 Párrafo reformado DOF 07-06-2013
-
 "La Comisión", con apoyo en el Organismo de
 Cuenca competente, intervendrá para que se
 instrumente la reparación del daño ambiental a
@@ -6586,6 +6780,7 @@ TÍTULO OCTAVO
 Inversión en Infraestructura Hidráulica
 Capítulo I
 Disposiciones Generales
+
 ARTÍCULO 96 BIS 2. Se consideran como obras
 públicas necesarias que competen al Ejecutivo
 Federal a través de "la Comisión", las que:
@@ -6601,7 +6796,6 @@ realizadas o estén expresamente al cargo y resguardo
 de otros órdenes de gobierno;
 III. Controlen, y sirvan para la defensa y protección
 de las aguas nacionales, así como aquellas que sean
-
 necesarias para prevenir inundaciones, sequías y
 otras situaciones excepcionales que afecten a los
 bienes de dominio público hidráulico; sin perjuicio de
@@ -6612,6 +6806,7 @@ desalinización cuya realización afecte a dos o más
 estados;
 V. Tengan importancia estratégica en una región
 hidrológica por sus dimensiones o costo de inversión;
+
 VI. Sean necesarias para la ejecución de planes o
 programas nacionales distintos de los hídricos, pero
 que guarden relación con éstos, cuando la
@@ -6628,7 +6823,6 @@ se requieran para su explotación, uso o
 aprovechamiento.
 La administración y operación de estas obras serán
 responsabilidad de los usuarios o de las asociaciones
-
 que formen al efecto, independientemente de la
 explotación, uso o aprovechamiento que se efectúe
 de las aguas nacionales.
@@ -6641,6 +6835,7 @@ casos de perforación de pozos en zonas
 reglamentadas o de veda, se requerirá de permiso en
 los términos de los Artículos 23 y 42 de esta Ley y de
 sus reglamentos. Para este efecto la Autoridad
+
 competente expedirá las Normas Oficiales Mexicanas
 que correspondan.
 "La Autoridad del Agua" supervisará la construcción
@@ -6660,7 +6855,6 @@ modernización de las obras hidráulicas y los servicios
 para su operación.
 "La Autoridad del Agua" proporcionará igualmente
 los apoyos y la asistencia técnica que le soliciten para
-
 la
 adecuada
 operación,
@@ -6677,6 +6871,7 @@ normas o realizará las acciones necesarias para
 evitar que la construcción u operación de una obra
 altere desfavorablemente las condiciones hidráulicas
 de una corriente o ponga en peligro la vida de las
+
 personas y la seguridad de sus bienes o de los
 ecosistemas vitales.
 Artículo reformado DOF 29-04-2004
@@ -6699,7 +6894,6 @@ infraestructura se construya mediante créditos
 avalados por el Gobierno Federal, "la Comisión" en el
 ámbito de su competencia establecerá las normas,
 características y requisitos para su ejecución y
-
 supervisión, salvo que por ley correspondan a otra
 dependencia o entidad.
 Capítulo II
@@ -6711,6 +6905,7 @@ financiamiento, construcción y operación de
 infraestructura hidráulica federal, así como en la
 prestación de los servicios respectivos, "la Comisión"
 podrá:
+
 I. Celebrar con particulares contratos de obra pública
 y servicios con la modalidad de inversión recuperable,
 para la construcción, equipamiento y operación de
@@ -6727,7 +6922,6 @@ Federal y la prestación de los servicios respectivos, y
 III. Otorgar concesión total o parcial para construir,
 equipar y operar la infraestructura hidráulica federal y
 para prestar el servicio respectivo.
-
 "La Comisión" se coordinará en términos de Ley con
 el o los gobiernos de los estados correspondientes
 para otorgar las concesiones referidas en las
@@ -6738,6 +6932,7 @@ presente Artículo, se aplicará en lo conducente lo
 dispuesto en esta Ley para las concesiones de
 explotación, uso o aprovechamiento de agua y lo que
 dispongan sus reglamentos. Los usuarios de dicha
+
 infraestructura tendrán preferencia en el otorgamiento
 de dichas concesiones.
 Artículo reformado DOF 29-04-2004
@@ -6756,7 +6951,6 @@ establecidas en las bases que para cada caso
 establezca "la Comisión".
 Fe de erratas al artículo DOF 15-02-1993. Reformado
 DOF 29-04-2004
-
 ARTÍCULO 104. Las tarifas mínimas a que se
 refiere el Artículo anterior, conforme a las bases que
 emita "la Comisión" deberán:
@@ -6766,6 +6960,7 @@ caso, inhibir actividades que impongan una demanda
 excesiva;
 II. Prever los ajustes necesarios en función de los
 costos variables correspondientes, conforme a los
+
 indicadores conocidos y medibles que establezcan las
 propias bases, y
 III. Considerar un periodo establecido; que en ningún
@@ -6782,7 +6977,6 @@ ARTÍCULO 105. "La Comisión”, en los términos del
 reglamento respectivo, podrá autorizar que el
 concesionario otorgue en garantía los derechos de los
 bienes concesionados a que se refiere el presente
-
 Capítulo, y precisará en este caso los términos y
 modalidades respectivas.
 Las garantías se otorgarán por un término que en
@@ -6794,6 +6988,7 @@ menor a quince años, las garantías se otorgarán por
 un término que no excederá la última octava parte de
 la duración total de la concesión respectiva.
 Artículo reformado DOF 29-04-2004
+
 ARTÍCULO 106. Si durante la última décima u
 octava parte de la duración total de la concesión,
 según el caso que proceda conforme a lo dispuesto
@@ -6810,7 +7005,6 @@ I. Vencimiento del plazo establecido en el título o
 renuncia del titular;
 II. Revocación por incumplimiento en los siguientes
 casos:
-
 a. No ejecutar las obras o trabajos objeto de la
 concesión en los términos y condiciones que señale la
 presente Ley y sus Reglamentos;
@@ -6821,6 +7015,7 @@ demás bienes o servicios concesionados;
 c. Transmitir los derechos del título u otorgar en
 garantía los bienes concesionados, sin contar con la
 autorización de "la Comisión", o
+
 d. Prestar en forma deficiente o irregular el servicio,
 o la construcción, operación, conservación o
 mantenimiento, o su suspensión definitiva, por causas
@@ -6837,7 +7032,6 @@ equivalente por lo menos a la recuperación pendiente
 de la inversión efectuada y la utilidad razonable
 convenida en los términos de la concesión, o
 IV. Resolución Judicial.
-
 En los casos a que se refieren la fracción II, las
 obras o infraestructura construidas, así como sus
 mejoras y accesiones y los bienes necesarios para la
@@ -6848,6 +7042,7 @@ los accesorios y demás bienes necesarios para
 continuar con la explotación o la prestación del
 servicio.
 Artículo reformado DOF 29-04-2004
+
 ARTÍCULO 108. La recuperación total o parcial de la
 inversión privada o social se podrá efectuar mediante
 el suministro de agua para usos múltiples, incluyendo
@@ -6866,7 +7061,6 @@ su desincorporación en los términos de la Ley
 aplicable en la materia.
 Capítulo III
 Recuperación de Inversión Pública
-
 ARTÍCULO 109. Las inversiones públicas en obras
 hidráulicas federales se recuperarán en la forma y
 términos que señale la Ley de Contribución de
@@ -6876,6 +7070,7 @@ de cuotas de autosuficiencia que deberán cubrir las
 personas beneficiadas en forma directa del uso,
 aprovechamiento o explotación de dichas obras.
 Artículo reformado DOF 29-04-2004
+
 ARTÍCULO 110. La operación, conservación y
 mantenimiento de la infraestructura hidráulica se
 efectuarán con cargo a los usuarios de los servicios
@@ -6896,7 +7091,6 @@ Ley Agraria, para asegurar la recuperación de las
 inversiones en las obras y del costo de los servicios
 de riego o de drenaje respectivos.
 Artículo reformado DOF 29-04-2004
-
 Capítulo IV
 Cobro por Explotación, Uso o Aprovechamiento
 de Aguas Nacionales y Bienes Nacionales
@@ -6905,6 +7099,7 @@ TÍTULO OCTAVO BIS
 Sistema Financiero del Agua
 Título adicionado DOF 29-04-2004
 Capítulo Único
+
 Capítulo adicionado DOF 29-04-2004
 ARTÍCULO 111 BIS. El Ejecutivo Federal proveerá
 los medios y marco adecuados para definir, crear e
@@ -6923,7 +7118,6 @@ claridad las distintas fuentes financieras, formas de
 consecución de recursos financieros, criterios de
 aplicación del gasto y recuperación, en su caso, de
 tales recursos financieros, rendición de cuentas e
-
 indicadores de gestión, así como metas resultantes
 de la aplicación de tales recursos e instrumentos
 financieros.
@@ -6934,6 +7128,7 @@ de sus Organismos de Cuenca y la explotación, uso o
 aprovechamiento de aguas nacionales, incluyendo las
 del subsuelo, así como de los bienes nacionales que
 administre "la Comisión", motivará el pago por parte
+
 del usuario de las cuotas que establezca la Ley
 Federal de Derechos.
 La explotación, uso o aprovechamiento de bienes
@@ -6952,7 +7147,6 @@ de los cobros de derechos, con los gobiernos de los
 estados, Distrito Federal o municipios en los términos
 de la Ley de Coordinación Fiscal y la propia Ley
 Federal de Derechos.
-
 Artículo reformado DOF 29-04-2004
 ARTÍCULO 112 BIS. Las cuotas de los derechos y
 otras contribuciones federales y demás cuotas y
@@ -6962,6 +7156,7 @@ relacionados con las obras de infraestructura
 hidráulica deberán estar diseñadas, en concordancia
 con las disposiciones que dicte la Autoridad en la
 materia, para:
+
 I. Privilegiar la gestión de la demanda, al propiciar el
 uso eficiente del agua, la racionalización de los
 patrones de consumo, y, en su caso, inhibir
@@ -6980,12 +7175,12 @@ concesión, y
 IV. Las demás que resulten aplicables, en términos
 de Ley.
 Artículo adicionado DOF 29-04-2004
-
 TÍTULO NOVENO
 Bienes Nacionales a Cargo de "la Comisión"
 Capítulo Único
 ARTÍCULO 113. La administración de los siguientes
 bienes nacionales queda a cargo de "la Comisión":
+
 I. Las playas y zonas federales, en la parte
 correspondiente a los cauces de corrientes en los
 términos de la presente Ley;
@@ -7004,7 +7199,6 @@ descubiertos por causas naturales o por obras
 artificiales;
 VI. Las islas que existen o que se formen en los
 vasos de lagos, lagunas, esteros, presas y depósitos
-
 o en los cauces de corrientes de propiedad nacional,
 excepto las que se formen cuando una corriente
 segregue terrenos de propiedad particular, ejidal o
@@ -7013,6 +7207,7 @@ VII. Las obras de infraestructura hidráulica
 financiadas por el gobierno federal, como presas,
 diques, vasos, canales, drenes, bordos, zanjas,
 acueductos, distritos o unidades de riego y demás
+
 construidas
 para
 la
@@ -7036,13 +7231,13 @@ Párrafo reformado DOF 08-06-2012
 “La Autoridad del Agua” vigilará la explotación de
 dichos materiales y revisará periódicamente la
 vigencia y cumplimiento de las concesiones otorgadas
-
 a personas físicas y morales, con carácter público o
 privado.
 Párrafo reformado DOF 08-06-2012
 Son causas de revocación de la concesión, las
 siguientes:
 Párrafo reformado DOF 08-06-2012
+
 I. Disponer de materiales pétreos en volúmenes
 mayores que los autorizados;
 II.
@@ -7062,7 +7257,6 @@ trabajos autorizados;
 VI. Dañar ecosistemas vitales al agua como
 consecuencia de la disposición de materiales
 pétreos;
-
 VII. Transmitir los derechos del título sin permiso
 de "la Autoridad del Agua" o en contravención a lo
 dispuesto en esta Ley;
@@ -7072,6 +7266,7 @@ por la concesión respectiva, sin mediar la
 transmisión definitiva de derechos, la modificación
 de las condiciones del título respectivo, o la
 autorización previa de "la Autoridad del Agua";
+
 IX. Incumplir las medidas preventivas y correctivas
 que ordene "la Autoridad del Agua", y
 X. Las demás previstas en esta Ley, en sus
@@ -7092,7 +7287,6 @@ deberán
 repararse
 totalmente por los causantes, sin menoscabo de la
 aplicación de otras sanciones administrativas y
-
 penales que pudieran proceder conforme a la
 reglamentación que se expida al respecto.
 Artículo adicionado DOF 29-04-2004
@@ -7101,6 +7295,7 @@ dispuesto en los Artículos del presente Título, "la
 Comisión" se apoyará en los Organismos de Cuenca
 y cuando sea necesario, en los tres órdenes de
 gobierno y sus instituciones.
+
 "La Comisión" y los Organismos de Cuenca podrán
 coordinarse con los gobiernos de los estados y del
 Distrito Federal, para que estos últimos ejecuten
@@ -7120,7 +7315,6 @@ las aguas.
 Para expedir la declaratoria respectiva se realizarán
 o referirán los estudios técnicos que justifiquen o
 comprueben que la corriente o depósito de que se
-
 trate reúne las características que la Ley señala para
 ser aguas nacionales.
 La declaratoria comprenderá además de la
@@ -7129,6 +7323,7 @@ corriente o depósito de aguas nacionales, los cauces,
 vasos y zonas federales, sin que sea necesario
 efectuar las demarcaciones en cada caso.
 Artículo adicionado DOF 29-04-2004
+
 ARTÍCULO 114. Cuando por causas naturales
 ocurra un cambio definitivo en el curso de una
 corriente propiedad de la Nación, ésta adquirirá por
@@ -7149,7 +7344,6 @@ terrenos aledaños tendrán el derecho de construir las
 obras de defensa necesarias. En caso de cambio
 consumado, tendrán el derecho de construir obras de
 rectificación, dentro del plazo de un año contado a
-
 partir de la fecha del cambio. Para proceder a la
 construcción de defensas o de rectificación, bastará
 determinar el impacto ambiental, y que se dé aviso
@@ -7159,6 +7353,7 @@ el caso de que se causen o puedan causarse daños a
 terceros o a ecosistemas vitales.
 Fe de erratas al artículo DOF 15-02-1993. Reformado
 DOF 29-04-2004
+
 ARTÍCULO 115. Cuando por causas naturales
 ocurra un cambio definitivo en el curso de una
 corriente de propiedad nacional, los propietarios
@@ -7178,7 +7373,6 @@ del cauce abandonado.
 Artículo reformado DOF 29-04-2004
 ARTÍCULO 116. Los terrenos ganados por medios
 artificiales al encauzar una corriente, pasarán al
-
 dominio público de la Federación. Los terrenos
 descubiertos al limitar o desecar parcial o totalmente
 un vaso de propiedad nacional, seguirán en el
@@ -7189,6 +7383,7 @@ correspondientes, y de la zona federal y de la zona de
 protección respectivas, por lo que estarán sujetas al
 dominio público de la Federación.
 Artículo reformado DOF 29-04-2004
+
 ARTÍCULO 117. El Ejecutivo Federal por sí o a
 través de la Comisión podrá reducir o suprimir
 mediante declaratoria la zona federal de corrientes,
@@ -7208,7 +7403,6 @@ las custodias, conservación y mantenimiento de las
 zonas federales referidas en este Artículo. En el caso
 de los particulares interesados, esto se realizará
 mediante subasta pública.
-
 Artículo reformado DOF 29-04-2004
 ARTÍCULO 118. Los bienes nacionales a que se
 refiere el presente Título, podrán explotarse, usarse o
@@ -7217,6 +7411,7 @@ mediante concesión que otorgue "la Autoridad del
 Agua" para tal efecto. Para el caso de materiales
 pétreos se estará a lo dispuesto en el Artículo 113 BIS
 de esta Ley.
+
 Para el otorgamiento de las concesiones
 mencionadas en el párrafo anterior, se aplicará en lo
 conducente lo dispuesto en esta Ley y sus
@@ -7229,6 +7424,11 @@ federal a que se refiere este Artículo, en igualdad de
 circunstancias, fuera de las zonas urbanas y para
 fines productivos, tendrá preferencia el propietario o
 poseedor colindante a dicha zona federal.
+“La Autoridad del Agua” tiene prohibido otorgar
+concesiones sobre cauces o vasos y sus zonas
+federales para la disposición final de residuos mineros
+o depósitos de aguas residuales de uso minero.
+Párrafo adicionado DOF 08-05-2023
 Artículo reformado DOF 29-04-2004
 ARTÍCULO 118 BIS. Los concesionarios a que se
 refiere el presente Capítulo estarán obligados a:
@@ -7236,9 +7436,9 @@ I. Ejecutar la explotación, uso o aprovechamiento
 consignado en la concesión con apego a las
 especificaciones que hubiere dictado "la Autoridad del
 Agua";
-
 II. Realizar únicamente las obras aprobadas en la
 concesión o autorizadas por "la Autoridad del Agua";
+
 III. Iniciar el ejercicio de los derechos consignados
 en la concesión a partir de la fecha aprobada
 conforme a las condiciones asentadas en el Título
@@ -7261,9 +7461,9 @@ caso de reincidencia, de la revocación de la
 concesión respectiva.
 En relación con materiales pétreos, se estará a lo
 dispuesto en el Artículo 113 BIS de la presente Ley.
-
 Artículo adicionado DOF 29-04-2004
 TÍTULO DÉCIMO
+
 Medidas de Apremio, Seguridad, Infracciones,
 Sanciones y Recursos
 Denominación del Título reformada DOF 08-06-2012
@@ -7286,10 +7486,10 @@ inmediata alguna o algunas de las siguientes
 medidas:
 I. Clausura temporal del aprovechamiento de aguas
 nacionales.
-
 II. Suspensión de las actividades que dan origen al
 proceso generador de las descargas de aguas
 residuales.
+
 III. Promover ante las autoridades de protección civil
 y seguridad pública de los gobiernos Federal, de los
 estados, del Distrito Federal y de los municipios, la
@@ -7315,135 +7515,150 @@ Artículo adicionado DOF 08-06-2012
 Capítulo II
 Infracciones y Sanciones Administrativas
 Capítulo recorrido (antes Capítulo I) DOF 08-06-2012
-
 ARTÍCULO 119. "La Autoridad del Agua" sancionará
 conforme a lo previsto por esta Ley, las siguientes
 faltas:
+
 I. Descargar en forma permanente, intermitente o
 fortuita aguas residuales en contravención a lo
-dispuesto en la presente Ley en cuerpos receptores
-que sean bienes nacionales, incluyendo aguas
-marinas, así como cuando se infiltren en terrenos que
-sean bienes nacionales o en otros terrenos cuando
-puedan contaminar el subsuelo o el acuífero;
+dispuesto en la presente Ley en cuerpos
+receptores que sean bienes nacionales,
+incluyendo aguas marinas, así como cuando se
+infiltren en terrenos que sean bienes nacionales
+o en otros terrenos cuando puedan contaminar el
+subsuelo o el acuífero;
 II. Explotar, usar o aprovechar aguas nacionales
 residuales sin cumplir con las Normas Oficiales
 Mexicanas en la materia y en las condiciones
 particulares establecidas para tal efecto;
 III. Explotar, usar o aprovechar aguas nacionales en
-volúmenes mayores a los autorizados en los títulos
-respectivos o en las inscripciones realizadas en el
-Registro Público de Derechos de Agua;
+volúmenes mayores a los autorizados en los
+títulos respectivos o en las inscripciones
+realizadas en el Registro Público de Derechos de
+Agua;
 IV. Ocupar o aprovechar vasos, cauces, canales,
-zonas federales, zonas de protección y demás bienes
-a que se refiere el Artículo 113 de esta Ley, sin el
-título de concesión;
+zonas federales, zonas de protección y demás
+bienes a que se refiere el Artículo 113 de esta
+Ley, sin el título de concesión;
 V. Alterar la infraestructura hidráulica autorizada
-para la explotación, uso o aprovechamiento del agua,
-o su operación, sin el permiso correspondiente;
+para la explotación, uso o aprovechamiento del
+agua, o su operación, sin el permiso
+correspondiente;
 
 VI. No acondicionar las obras o instalaciones en los
-términos establecidos en los reglamentos o en las
-demás normas o disposiciones que dicte la autoridad
-competente para prevenir efectos negativos a
-terceros o al desarrollo hidráulico de las fuentes de
-abastecimientos o de la cuenca;
+términos establecidos en los reglamentos o en
+las demás normas o disposiciones que dicte la
+autoridad competente para prevenir efectos
+negativos a terceros o al desarrollo hidráulico de
+las fuentes de abastecimientos o de la cuenca;
 VII. No instalar, no conservar, no reparar o no
-sustituir, los dispositivos necesarios para el registro o
-medición de la cantidad y calidad de las aguas, en los
-términos que establece esta Ley, sus reglamentos y
-demás disposiciones aplicables, o modificar o alterar
-las instalaciones y equipos para medir los volúmenes
-de agua explotados, usados o aprovechados, sin
-permiso correspondiente, incluyendo aquellos que en
+sustituir, los dispositivos necesarios para el
+registro o medición de la cantidad y calidad de
+las aguas, en los términos que establece esta
+Ley, sus reglamentos y demás disposiciones
+aplicables, o modificar o alterar las instalaciones
+y equipos para medir los volúmenes de agua
+explotados, usados o aprovechados, sin permiso
+correspondiente, incluyendo aquellos que en
 ejercicio de sus facultades hubiere instalado "la
 Autoridad del Agua";
 VIII. Explotar, usar o aprovechar aguas nacionales
-sin el título respectivo, cuando así se requiere en los
-términos de la presente Ley;
+sin el título respectivo, cuando así se requiere en
+los términos de la presente Ley;
 Fracción reformada DOF 08-06-2012
 IX. Ejecutar para sí o para un tercero obras para
-alumbrar, extraer o disponer de aguas del subsuelo
-en zonas reglamentadas, de veda o reservadas, sin el
-permiso respectivo así como a quien hubiere
-ordenado la ejecución de dichas obras;
-X. Impedir u obstaculizar las visitas, inspecciones,
-reconocimientos, verificaciones y fiscalizaciones que
+alumbrar, extraer o disponer de aguas del
+subsuelo en zonas reglamentadas, de veda o
+reservadas, sin el permiso respectivo así como a
+quien hubiere ordenado la ejecución de dichas
+obras;
 
-realice "la Autoridad del Agua" en los términos de esta
-Ley y sus reglamentos;
+X. Impedir u obstaculizar las visitas, inspecciones,
+reconocimientos, verificaciones y fiscalizaciones
+que realice "la Autoridad del Agua" en los
+términos de esta Ley y sus reglamentos;
 XI. No entregar los datos requeridos por "la
 Autoridad del Agua" o "la Procuraduría", según el
 caso, para verificar el cumplimiento de las
-disposiciones contenidas en esta Ley y en los títulos
-de concesión, asignación o permiso de descarga, así
-como en otros ordenamientos jurídicos;
+disposiciones contenidas en esta Ley y en los
+títulos de concesión, asignación o permiso de
+descarga, así como en otros ordenamientos
+jurídicos;
 XII. Usar volúmenes de agua mayores que los que
-generan las descargas de aguas residuales para diluir
-y así tratar de cumplir con las Normas Oficiales
-Mexicanas en materia ecológica o las condiciones
-particulares de descarga;
+generan las descargas de aguas residuales para
+diluir y así tratar de cumplir con las Normas
+Oficiales Mexicanas en materia ecológica o las
+condiciones particulares de descarga;
 XIII. Suministrar aguas nacionales para consumo
-humano que no cumplan con las normas de calidad
-correspondientes;
+humano que no cumplan con las normas de
+calidad correspondientes;
 XIV. Arrojar o depositar cualquier contaminante, en
-contravención a las disposiciones legales, en ríos,
-cauces, vasos, lagos, lagunas, esteros, aguas
-marinas y demás depósitos o corrientes de agua, o
-infiltrar materiales y sustancias que contaminen las
-aguas del subsuelo;
-XV. No cumplir con las obligaciones consignadas en
-los títulos de concesión, asignación o permiso de
-descarga;
+contravención a las disposiciones legales, en
+ríos, cauces, vasos, lagos, lagunas, esteros,
+aguas marinas y demás depósitos o corrientes
+de agua, o infiltrar materiales y sustancias que
+contaminen las aguas del subsuelo;
 
+XV. No cumplir con las obligaciones consignadas
+en los títulos de concesión, asignación o permiso
+de descarga;
 XVI. No solicitar el concesionario o asignatario la
-inscripción en el Registro Público de Derechos de
-Agua en los términos previstos en la presente Ley y
-sus reglamentos;
-XVII. Ocasionar daños ambientales considerables o
-que generen desequilibrios, en materia de recursos
-hídricos de conformidad con las disposiciones en la
-materia;
-XVIII. Desperdiciar el agua en contravención a lo
+inscripción en el Registro Público de Derechos
+de Agua en los términos previstos en la presente
+Ley y sus reglamentos;
+XVII.
+Ocasionar
+daños
+ambientales
+considerables o que generen desequilibrios, en
+materia de recursos hídricos de conformidad con
+las disposiciones en la materia;
+XVIII.
+Desperdiciar el agua en contravención a lo
 dispuesto en la Ley y sus reglamentos;
 XIX. No ejecutar el cegamiento de los pozos que
 hayan sido objeto de relocalización, reposición o
-cuyos derechos hayan sido transmitidos totalmente a
-otro predio, así como dejar de ajustar la capacidad de
-sus equipos de bombeo cuando se transmitan
-parcialmente los derechos de explotación, uso o
-aprovechamiento de aguas nacionales;
+cuyos derechos hayan sido transmitidos
+totalmente a otro predio, así como dejar de
+ajustar la capacidad de sus equipos de bombeo
+cuando se transmitan parcialmente los derechos
+de explotación, uso o aprovechamiento de aguas
+nacionales;
 Fracción reformada DOF 08-06-2012
 XX. Modificar o desviar los cauces, vasos o
-corrientes cuando sean propiedad nacional, sin el
-permiso correspondiente; cuando se dañe o destruya
-una obra hidráulica de propiedad nacional;
+corrientes cuando sean propiedad nacional, sin
+el permiso correspondiente; cuando se dañe o
+destruya una obra hidráulica de propiedad
+nacional;
+
 XXI. No informar a "la Autoridad del Agua", de
-cualquier cambio en sus procesos cuando con ello se
-ocasionen modificaciones en las características o en
-los volúmenes de las aguas residuales que hubieren
-
-servido para expedir
-correspondiente;
-
-el
-
-permiso
-
+cualquier cambio en sus procesos cuando con
+ello se ocasionen modificaciones en las
+características o en los volúmenes de las aguas
+residuales que hubieren servido para expedir el
+permiso de descarga correspondiente;
+XXII.
+Dejar
 de
-
-descarga
-
-XXII. Dejar de llevar y presentar los registros
-cronológicos a que se refiere "la Ley";
-XXIII. Explotar, usar o aprovechar bienes nacionales
-determinados en los Artículos 113 y 113 BIS de esta
-Ley, sin contar con título de concesión, y
+presentar
+los
+registros
+cronológicos a que se refiere "la Ley" u omitir la
+presentación del reporte mensual descrito en el
+artículo 88 BIS, fracción V BIS, de la presente
+Ley;
+Fracción reformada DOF 08-05-2023
+XXIII.
+Explotar, usar o aprovechar bienes
+nacionales determinados en los Artículos 113 y
+113 BIS de esta Ley, sin contar con título de
+concesión, y
 Fracción reformada DOF 08-06-2012
-XXIV. Explotar, usar o aprovechar bienes nacionales
-determinados en los Artículos 113 y 113 BIS de la
-presente Ley, en cantidad superior o en forma distinta
-a lo establecido en el respectivo título de concesión.
+XXIV. Explotar, usar o aprovechar bienes
+nacionales determinados en los Artículos 113 y
+113 BIS de la presente Ley, en cantidad superior
+o en forma distinta a lo establecido en el
+respectivo título de concesión.
 Fracción reformada DOF 08-06-2012
 Artículo reformado DOF 29-04-2004
 ARTÍCULO 120. Las faltas a que se refiere el
@@ -7452,6 +7667,7 @@ anterior
 serán
 sancionadas
 administrativamente por "la Autoridad del Agua" con
+
 multas que serán equivalentes al valor diario de la
 Unidad de Medida y Actualización vigente en el
 momento en que se cometa la infracción, y en las
@@ -7463,7 +7679,6 @@ Nacionales y Ley Federal de Metrología y
 Normalización y sus reglamentos, las Normas
 Oficiales Mexicanas, el Código Penal Federal y
 demás disposiciones aplicables en la materia:
-
 Párrafo reformado DOF 06-01-2020
 I. 260 a 1,950 Unidades de Medida y Actualización,
 en el caso de violación a las fracciones X, XI, XVI,
@@ -7489,6 +7704,7 @@ obras
 de
 alumbramiento
 y
+
 aprovechamiento de aguas y se retendrá o
 conservará en depósito o custodia la maquinaria y
 equipo de perforación, hasta que se reparen los
@@ -7498,7 +7714,6 @@ penales aplicables.
 Las multas que imponga "la Autoridad del Agua" se
 deberán cubrir dentro de los plazos que dispone la
 Ley Federal de Procedimiento Administrativo.
-
 Cuando las multas no se paguen en la fecha
 establecida, el monto de las mismas se actualizará
 mensualmente desde el momento en que debió
@@ -7514,6 +7729,7 @@ II. Las condiciones económicas del infractor;
 III. Derogada, y
 Fracción derogada DOF 08-06-2012
 IV. La reincidencia.
+
 Si una vez vencido el plazo concedido por la
 autoridad para subsanar la o las infracciones que se
 hubieren cometido, resultare que dicha infracción o
@@ -7524,7 +7740,6 @@ máximo permitido conforme al Artículo anterior.
 En el caso de reincidencia, el monto de la multa
 podrá ser hasta por tres veces el monto originalmente
 impuesto, sin que exceda del triple del máximo
-
 permitido, haciéndose también acreedor a la
 suspensión y en su caso, revocación del título o
 permiso con carácter provisional.
@@ -7543,6 +7758,7 @@ clausura en el caso de:
 I. Incumplimiento de la orden de suspensión de
 actividades o suspensión del permiso de descarga
 de aguas residuales a que se refiere el Artículo 92
+
 de la presente Ley, caso en el cual procederá la
 clausura definitiva o temporal de la empresa o
 establecimiento causantes directos de la
@@ -7555,7 +7771,6 @@ hidráulica sin contar con el título de concesión o
 asignación que se requiera conforme a lo previsto
 en la presente Ley, o en el caso de pozos
 clandestinos o ilegales.
-
 Párrafo reformado DOF 08-06-2012
 En el caso de clausura, se actuará en los términos
 de la Ley Federal de Procedimiento Administrativo
@@ -7574,6 +7789,7 @@ construcción de cualquier tipo de obra o
 infraestructura, sin contar con el título
 correspondiente, “la Autoridad del Agua” queda
 facultada para remover o demoler las mismas con
+
 cargo al infractor, sin perjuicio de las sanciones
 que correspondan.
 Párrafo reformado DOF 08-06-2012
@@ -7584,7 +7800,6 @@ específico en favor de "la Comisión" y se impondrán
 sin perjuicio de las multas por infracciones fiscales y
 de la aplicación de las sanciones por la
 responsabilidad penal que resulte.
-
 Ante el incumplimiento de las disposiciones y en los
 términos de la presente Ley, "la Autoridad del Agua"
 notificará los adeudos que tengan las personas físicas
@@ -7603,6 +7818,7 @@ Títulos, en contravención a esta Ley, a la Ley Federal
 de Responsabilidades Administrativas de los
 Servidores Públicos y al Código Penal Federal.
 Artículo adicionado DOF 29-04-2004
+
 ARTÍCULO 123 BIS 1. En los casos en que se
 presuma la existencia de algún delito, "la Comisión"
 formulará la denuncia correspondiente ante el
@@ -7612,7 +7828,6 @@ Capítulo III
 Recurso de Revisión y Denuncia Popular
 Denominación del Capítulo reformada DOF 29-04-2004.
 Capítulo recorrido (antes Capítulo II) DOF 08-06-2012
-
 ARTÍCULO 124. Contra los actos o resoluciones
 definitivas de "la Autoridad del Agua" que causen
 agravio a particulares, se podrá interponer el recurso
@@ -7631,6 +7846,7 @@ dirigido al Director General de "la Comisión", en los
 casos establecidos en la Fracción IX del Artículo 9 de
 la presente Ley, o al Director General del Organismo
 de Cuenca competente, en el que se deberán
+
 expresar el nombre y domicilio del recurrente y los
 agravios, acompañándose los elementos de prueba
 que se consideren necesarios, así como las
@@ -7640,7 +7856,6 @@ Si se recurre la imposición de una multa, se
 suspenderá el cobro de ésta hasta que se resuelva el
 recurso, siempre y cuando se garantice su pago en
 los términos previstos por las disposiciones fiscales.
-
 Los recursos contra actos o resoluciones que se
 emitan en materia fiscal conforme a la presente Ley,
 serán resueltos en los términos del Código Fiscal de
@@ -7662,6 +7877,7 @@ Artículo adicionado DOF 29-04-2004
 TRANSITORIOS
 ARTICULO PRIMERO.- Se deroga.
 Artículo derogado DOF 29-04-2004
+
 ARTICULO SEGUNDO.- Se deroga.
 Artículo derogado DOF 29-04-2004
 ARTICULO TERCERO.- Se deroga.
@@ -7670,7 +7886,6 @@ ARTICULO CUARTO.- Se deroga.
 Artículo derogado DOF 29-04-2004
 ARTICULO QUINTO.- Se deroga.
 Artículo derogado DOF 29-04-2004
-
 ARTICULO SEXTO.- Se deroga.
 Artículo derogado DOF 29-04-2004
 ARTICULO SEPTIMO.- Se deroga.
@@ -7685,6 +7900,7 @@ ARTICULO DECIMO PRIMERO.- Se deroga.
 Artículo derogado DOF 29-04-2004
 ARTICULO DECIMO SEGUNDO.- Se deroga.
 Artículo derogado DOF 29-04-2004
+
 ARTICULO DECIMO TERCERO.- Se deroga.
 Artículo derogado DOF 29-04-2004
 México, D.F., a 24 de noviembre de 1992.- Dip.
@@ -7692,7 +7908,6 @@ Patricia Ruiz Anchondo, Presidenta.- Sen. Idolina
 Moguel Contreras, Presidenta.- Dip. Miguel Gómez
 Guerrero, Secretario.- Sen. Roberto Suárez Nieto,
 Secretario.- Rúbricas."
-
 En cumplimiento de lo dispuesto por la fracción I del
 Artículo 89 de la Constitución Política de los Estados
 Unidos Mexicanos y para su debida publicación y
