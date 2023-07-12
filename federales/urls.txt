@@ -123,7 +123,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LCMM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LCNDH.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LCT.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LDFEFM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LDPAM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LDSCA.pdf
@@ -267,9 +266,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LOAM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LOCFCRL_060120.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LOCGEUM.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LOCNCT.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LOEFAM.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LOFNDAR.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LOPDC.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf
@@ -444,7 +441,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_de_Nacional_Financi
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_de_Sociedad_Hipotecaria.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_de_la_Administracion_Publica.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_de_la_Armada.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_de_la_Financiera_Nacional-Desarrollo_Agropecuario_Rural_Forestal-Pesquero.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_de_la_Procuraduria_General_de_Justicia_del_Distrito_Federal.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_de_la_Procuraduria_de_la_Defensa_del_Contribuyente.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_de_la_Universidad_Autonoma_Agraria_Antonio_Narro.pdf
@@ -457,7 +453,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_del_Banco_Nacional_
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_del_Banco_del_Bienestar.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_del_Centro_Federal_de_Conciliacion_y_Registro_Laboral.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_del_Congreso.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_del_Consejo_Nacional_de_Ciencia_y_Tecnologia.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_del_Ejercito_y_Fuerza_Aerea.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_del_Instituto_Nacional_de_Antropologia_e_Historia.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_Organica_del_Instituto_Politecnico_Nacional.pdf
@@ -493,7 +488,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Camaras_Empresariales_y_s
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Caminos_Puentes_y_Autotransporte.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Capitalizacion_del_Procampo.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Carrera_Judicial_del_Poder_Judicial.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Ciencia_y_Tecnologia.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Comercio_Exterior.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Concursos_Mercantiles.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Contribucion_de_Mejoras_por_Obras_Publicas-de_Infraestructura_Hidraulica.pdf
