@@ -11,12 +11,6 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 21 de diciembre de
 TEXTO VIGENTE
 Última reforma publicada DOF 25-04-2023
 
-Nota de vigencia: Las reformas a los artículos 5 A, fracción XII; 64, párrafo tercero, fracción II; 65; 66, párrafos
-primero, tercero y cuarto; 69; 84, fracciones I, II, III y IV; 127, párrafo primero, fracción IV y párrafos segundo y
-tercero, 130; 137; 138, párrafo primero, fracciones I, III y IV; 165, párrafos primero y segundo; 166, párrafo primero;
-y las adiciones de los artículos 5 A, con las fracciones XX y XXI; y 140, con un párrafo segundo, de esta Ley,
-publicadas en el DOF 20-01-2023, entrarán en vigor el 20 de julio de 2023.
-
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la
 República.
 ERNESTO ZEDILLO PONCE DE LEON, Presidente de los Estados Unidos Mexicanos, a sus
@@ -44,6 +38,11 @@ por otros ordenamientos.
 Artículo 5. La organización y administración del Seguro Social, en los términos consignados en esta
 Ley, están a cargo del organismo público descentralizado con personalidad jurídica y patrimonio propios,
 de integración operativa tripartita, en razón de que a la misma concurren los sectores público, social y
+privado, denominado Instituto Mexicano del Seguro Social, el cual tiene también el carácter de organismo
+fiscal autónomo.
+Artículo reformado DOF 20-12-2001
+
+Artículo 5 A. Para los efectos de esta Ley, se entiende por:
 
 1 de 164
 
@@ -55,11 +54,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-privado, denominado Instituto Mexicano del Seguro Social, el cual tiene también el carácter de organismo
-fiscal autónomo.
-Artículo reformado DOF 20-12-2001
-
-Artículo 5 A. Para los efectos de esta Ley, se entiende por:
 I.
 
 Ley: la Ley del Seguro Social;
@@ -134,6 +128,13 @@ Pensionados o pensionado: el asegurado que por resolución del Instituto tiene o
 pensión por: incapacidad permanente total; incapacidad permanente parcial superior al
 cincuenta por ciento o en su caso incapacidad permanente parcial entre el veinticinco y el
 cincuenta por ciento; invalidez; cesantía en edad avanzada y vejez, así como los beneficiarios
+de aquél cuando por resolución del Instituto tengan otorgada pensión de viudez, orfandad, o
+de ascendencia;
+
+XV.
+
+Cuotas obrero patronales o cuotas: las aportaciones de seguridad social establecidas en la
+Ley a cargo del patrón, trabajador y sujetos obligados;
 
 2 de 164
 
@@ -144,13 +145,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-de aquél cuando por resolución del Instituto tengan otorgada pensión de viudez, orfandad, o
-de ascendencia;
-XV.
-
-Cuotas obrero patronales o cuotas: las aportaciones de seguridad social establecidas en la
-Ley a cargo del patrón, trabajador y sujetos obligados;
 
 XVI.
 
@@ -207,6 +201,11 @@ Artículo adicionado DOF 20-12-2001
 Artículo 6. El Seguro Social comprende:
 I. El régimen obligatorio, y
 II. El régimen voluntario.
+Artículo 7. El Seguro Social cubre las contingencias y proporciona los servicios que se especifican a
+propósito de cada régimen particular, mediante prestaciones en especie y en dinero, en las formas y
+condiciones previstas por esta Ley y sus reglamentos.
+Artículo 8. Los derechohabientes para recibir o, en su caso, seguir disfrutando de las prestaciones
+que esta Ley otorga, deberán cumplir con los requisitos establecidos en la misma y en sus reglamentos.
 
 3 de 164
 
@@ -218,11 +217,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 7. El Seguro Social cubre las contingencias y proporciona los servicios que se especifican a
-propósito de cada régimen particular, mediante prestaciones en especie y en dinero, en las formas y
-condiciones previstas por esta Ley y sus reglamentos.
-Artículo 8. Los derechohabientes para recibir o, en su caso, seguir disfrutando de las prestaciones
-que esta Ley otorga, deberán cumplir con los requisitos establecidos en la misma y en sus reglamentos.
 Para tal efecto el Instituto expedirá a todos los derechohabientes, un documento de identificación a fin
 de que puedan ejercitar los derechos que la Ley les confiere, según el caso.
 Artículo reformado DOF 20-12-2001
@@ -260,6 +254,15 @@ I.
 Las personas que de conformidad con los artículos 20 y 21 de la Ley Federal del Trabajo,
 presten, en forma permanente o eventual, a otras de carácter físico o moral o unidades
 económicas sin personalidad jurídica, un servicio remunerado, personal y subordinado,
+cualquiera que sea el acto que le dé origen y cualquiera que sea la personalidad jurídica o la
+naturaleza económica del patrón aun cuando éste, en virtud de alguna ley especial, esté exento
+del pago de contribuciones;
+Fracción reformada DOF 20-12-2001
+
+II.
+
+Los socios de sociedades cooperativas;
+Fracción reformada DOF 20-12-2001, 02-07-2019
 
 4 de 164
 
@@ -270,16 +273,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-cualquiera que sea el acto que le dé origen y cualquiera que sea la personalidad jurídica o la
-naturaleza económica del patrón aun cuando éste, en virtud de alguna ley especial, esté exento
-del pago de contribuciones;
-Fracción reformada DOF 20-12-2001
-
-II.
-
-Los socios de sociedades cooperativas;
-Fracción reformada DOF 20-12-2001, 02-07-2019
 
 III.
 
@@ -329,6 +322,12 @@ V. La contribución a cargo del Gobierno Federal, cuando en su caso proceda;
 VI. Los procedimientos de inscripción y los de cobro de las cuotas, y
 VII. Las demás modalidades que se requieran conforme a esta Ley y sus reglamentos.
 Artículo 15. Los patrones están obligados a:
+I.
+
+Registrarse e inscribir a sus trabajadores en el Instituto, comunicar sus altas y bajas, las
+modificaciones de su salario y los demás datos, dentro de plazos no mayores de cinco días
+hábiles;
+Fracción reformada DOF 20-12-2001
 
 5 de 164
 
@@ -339,13 +338,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-I.
-
-Registrarse e inscribir a sus trabajadores en el Instituto, comunicar sus altas y bajas, las
-modificaciones de su salario y los demás datos, dentro de plazos no mayores de cinco días
-hábiles;
-Fracción reformada DOF 20-12-2001
 
 II.
 
@@ -411,6 +403,10 @@ Párrafo reformado DOF 20-12-2001
 La información a que se refieren las fracciones I, II, III y IV, deberá proporcionarse al Instituto en
 documento impreso, o en medios magnéticos, digitales, electrónicos, ópticos, magneto ópticos o de
 cualquier otra naturaleza, conforme a las disposiciones de esta Ley y sus reglamentos.
+Párrafo reformado DOF 20-12-2001
+
+Artículo 15 A. La contratación de servicios especializados o la ejecución de obras especializadas
+deberán cumplir con las condiciones y requisitos establecidos en la Ley Federal del Trabajo.
 
 6 de 164
 
@@ -422,10 +418,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Párrafo reformado DOF 20-12-2001
-
-Artículo 15 A. La contratación de servicios especializados o la ejecución de obras especializadas
-deberán cumplir con las condiciones y requisitos establecidos en la Ley Federal del Trabajo.
 La persona física o moral que contrate la prestación de servicios o la ejecución de obras con otra
 persona física o moral que incumpla las obligaciones en materia de seguridad social, será responsable
 solidaria en relación con los trabajadores utilizados para ejecutar dichas contrataciones.
@@ -475,6 +467,11 @@ Los patrones que no se encuentren en el supuesto del párrafo anterior podrán o
 sus aportaciones al Instituto, por contador público autorizado, en términos del reglamento señalado.
 Los patrones que presenten dictamen, no serán sujetos de visita domiciliaria por los ejercicios
 dictaminados a excepción de que:
+I.
+
+El dictamen se haya presentado con abstención de opinión, con opinión negativa o con
+salvedades sobre aspectos que, a juicio del contador público, recaigan sobre elementos
+esenciales del dictamen, o
 
 7 de 164
 
@@ -485,12 +482,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-I.
-
-El dictamen se haya presentado con abstención de opinión, con opinión negativa o con
-salvedades sobre aspectos que, a juicio del contador público, recaigan sobre elementos
-esenciales del dictamen, o
 
 II.
 
@@ -537,6 +528,9 @@ Artículo 21. Los avisos de baja de los trabajadores incapacitados temporalmente
 surtirán efectos para las finalidades del Seguro Social, mientras dure el estado de incapacidad.
 Artículo 22. Los documentos, datos e informes que los trabajadores, patrones y demás personas
 proporcionen al Instituto, en cumplimiento de las obligaciones que les impone esta Ley, serán
+estrictamente confidenciales y no podrán comunicarse o darse a conocer en forma nominativa e
+individual.
+Lo dispuesto en el párrafo anterior no se aplicará cuando:
 
 8 de 164
 
@@ -548,9 +542,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-estrictamente confidenciales y no podrán comunicarse o darse a conocer en forma nominativa e
-individual.
-Lo dispuesto en el párrafo anterior no se aplicará cuando:
 I.
 
 Se trate de juicios y procedimientos en que el Instituto fuere parte;
@@ -600,6 +591,11 @@ El Instituto, mediante estudio técnico-jurídico de los contratos colectivos de
 previamente a los interesados, hará la valuación actuarial de las prestaciones contractuales,
 comparándolas individualmente con las de la Ley, para elaborar las tablas de distribución de cuotas que
 correspondan.
+Artículo 24. Los patrones tendrán el derecho a descontar del importe de las prestaciones
+contractuales que deben cubrir directamente, las cuantías correspondientes a las prestaciones de la
+misma naturaleza otorgadas por el Instituto.
+Artículo 25. En los casos previstos por el artículo 23, el Estado aportará la contribución que le
+corresponda en términos de esta Ley, independientemente de la que resulte a cargo del patrón por la
 
 9 de 164
 
@@ -611,11 +607,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 24. Los patrones tendrán el derecho a descontar del importe de las prestaciones
-contractuales que deben cubrir directamente, las cuantías correspondientes a las prestaciones de la
-misma naturaleza otorgadas por el Instituto.
-Artículo 25. En los casos previstos por el artículo 23, el Estado aportará la contribución que le
-corresponda en términos de esta Ley, independientemente de la que resulte a cargo del patrón por la
 valuación actuarial de su contrato, pagando éste, tanto su propia cuota como la parte de la cuota obrera
 que le corresponda conforme a dicha valuación.
 Para cubrir las prestaciones en especie del seguro de enfermedades y maternidad de los pensionados
@@ -674,16 +665,6 @@ VII.
 Los premios por asistencia y puntualidad, siempre que el importe de cada uno de estos
 conceptos no rebase el diez por ciento del salario base de cotización;
 
-10 de 164
-
-LEY DEL SEGURO SOCIAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 25-04-2023
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 VIII.
 
 Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para
@@ -694,6 +675,16 @@ establezca la Comisión Nacional del Sistema de Ahorro para el Retiro, y
 IX.
 
 El tiempo extraordinario dentro de los márgenes señalados en la Ley Federal del Trabajo.
+
+10 de 164
+
+LEY DEL SEGURO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 25-04-2023
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 Para que los conceptos mencionados en este precepto se excluyan como integrantes del salario base
 de cotización, deberán estar debidamente registrados en la contabilidad del patrón.
@@ -732,6 +723,11 @@ Fracción reformada DOF 20-12-2001
 III. En los casos en que el salario de un trabajador se integre con elementos fijos y variables, se
 considerará de carácter mixto, por lo que, para los efectos de cotización, se sumará a los elementos fijos
 el promedio obtenido de los variables en términos de lo que se establece en la fracción anterior.
+Artículo 31. Cuando por ausencias del trabajador a sus labores no se paguen salarios, pero subsista
+la relación laboral, la cotización mensual se ajustará a las reglas siguientes:
+I. Si las ausencias del trabajador son por períodos menores de ocho días consecutivos o
+interrumpidos, se cotizará y pagará por dichos períodos únicamente en el seguro de enfermedades y
+maternidad. En estos casos los patrones deberán presentar la aclaración correspondiente, indicando que
 
 11 de 164
 
@@ -743,11 +739,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 31. Cuando por ausencias del trabajador a sus labores no se paguen salarios, pero subsista
-la relación laboral, la cotización mensual se ajustará a las reglas siguientes:
-I. Si las ausencias del trabajador son por períodos menores de ocho días consecutivos o
-interrumpidos, se cotizará y pagará por dichos períodos únicamente en el seguro de enfermedades y
-maternidad. En estos casos los patrones deberán presentar la aclaración correspondiente, indicando que
 se trata de cuotas omitidas por ausentismo y comprobarán la falta de pago de salarios respectivos,
 mediante la exhibición de las listas de raya o de las nóminas correspondientes. Para este efecto el
 número de días de cada mes se obtendrá restando del total de días que contenga el período de cuotas
@@ -787,16 +778,6 @@ Instituto los avisos de modificación del salario diario base de cotización den
 máximo de cinco días hábiles, contados a partir del día siguiente a la fecha en que cambie el
 salario;
 
-12 de 164
-
-LEY DEL SEGURO SOCIAL
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 25-04-2023
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 II.
 
 En los casos previstos en la fracción II del artículo 30, los patrones estarán obligados a
@@ -808,13 +789,23 @@ III.
 
 En los casos previstos en la fracción III del artículo 30, si se modifican los elementos fijos del
 salario, el patrón deberá presentar el aviso de modificación dentro de los cinco días hábiles
+
+12 de 164
+
+LEY DEL SEGURO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 25-04-2023
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 siguientes de la fecha en que cambie el salario. Si al concluir el bimestre respectivo hubo
 modificación de los elementos variables que se integran al salario, el patrón presentará al
 Instituto el aviso de modificación en los términos de la fracción II anterior.
 El salario diario se determinará, dividiendo el importe total de los ingresos variables obtenidos
 en el bimestre anterior entre el número de días de salario devengado y sumando su resultado
 a los elementos fijos del salario diario.
-
 En todos los casos previstos en este artículo, si la modificación se origina por revisión del contrato
 colectivo, se comunicará al Instituto dentro de los treinta días naturales siguientes a su celebración.
 Las sociedades cooperativas deberán presentar los avisos de modificación de las percepciones base
@@ -845,6 +836,12 @@ determinación de cuotas del mes de que se trate, y realizar el pago respectivo,
 diecisiete del mes inmediato siguiente.
 La obligación de determinar las cuotas deberá cumplirse aun en el supuesto de que no se realice el
 pago correspondiente dentro del plazo señalado en el párrafo anterior.
+Los capitales constitutivos tienen el carácter de definitivos al momento de notificarse y deben pagarse
+al Instituto, en los términos y plazos previstos en esta Ley.
+Artículo reformado DOF 20-12-2001
+
+Artículo 39 A. Sin perjuicio de lo dispuesto en el primer párrafo del artículo anterior, el Instituto, en
+apoyo a los patrones, podrá entregar una propuesta de cédula de determinación, elaborada con los datos
 
 13 de 164
 
@@ -856,12 +853,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Los capitales constitutivos tienen el carácter de definitivos al momento de notificarse y deben pagarse
-al Instituto, en los términos y plazos previstos en esta Ley.
-Artículo reformado DOF 20-12-2001
-
-Artículo 39 A. Sin perjuicio de lo dispuesto en el primer párrafo del artículo anterior, el Instituto, en
-apoyo a los patrones, podrá entregar una propuesta de cédula de determinación, elaborada con los datos
 con que cuente de los movimientos afiliatorios comunicados al Instituto por los propios patrones y, en su
 caso, por sus trabajadores en los términos de la presente Ley.
 La propuesta a que se refiere el párrafo anterior podrá ser entregada por el Instituto en documento
@@ -900,6 +891,12 @@ pago de las cuotas.
 Las cédulas de liquidación que formule el Instituto deberán ser pagadas por los patrones, dentro de
 los quince días hábiles siguientes a la fecha en que surta efectos su notificación, en los términos del
 Código.
+En el caso de que el patrón o sujeto obligado, espontáneamente opte por regularizar su situación
+fiscal, conforme a los programas de regularización que en su caso se establezcan, el Instituto podrá
+proporcionarle, previa solicitud por escrito, la emisión correspondiente sea de manera impresa, o bien, a
+través de medios magnéticos, digitales, electrónicos, ópticos, magneto ópticos o de cualquier otra
+naturaleza.
+Artículo adicionado DOF 20-12-2001
 
 14 de 164
 
@@ -910,13 +907,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-En el caso de que el patrón o sujeto obligado, espontáneamente opte por regularizar su situación
-fiscal, conforme a los programas de regularización que en su caso se establezcan, el Instituto podrá
-proporcionarle, previa solicitud por escrito, la emisión correspondiente sea de manera impresa, o bien, a
-través de medios magnéticos, digitales, electrónicos, ópticos, magneto ópticos o de cualquier otra
-naturaleza.
-Artículo adicionado DOF 20-12-2001
 
 Artículo 39 D. Respecto de las cédulas de liquidación emitidas por el Instituto en el supuesto
 señalado en el segundo párrafo del artículo anterior, el patrón podrá, dentro de los cinco días hábiles
@@ -960,6 +950,11 @@ Artículo adicionado DOF 20-12-2001
 Artículo 40 B. Se aceptarán como forma de pago: dinero en efectivo, cheques certificados o de caja,
 así como las transferencias electrónicas de fondos y tarjetas de crédito o de débito expedidas por
 instituciones de crédito, en los términos del correspondiente reglamento. También se podrá efectuar el
+pago mediante las notas de crédito que expida el Instituto para la devolución de cantidades enteradas sin
+justificación legal, las cuales sólo serán recibidas en las oficinas que el Instituto autorice.
+El patrón podrá aplicar las notas de crédito expedidas por el Instituto, dentro de los cinco años
+siguientes a su expedición o solicitar su monetización una vez vencido dicho plazo, siempre y cuando no
+tenga adeudos con el Instituto. En este último caso, deberá presentar ante la oficina correspondiente, la
 
 15 de 164
 
@@ -971,11 +966,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-pago mediante las notas de crédito que expida el Instituto para la devolución de cantidades enteradas sin
-justificación legal, las cuales sólo serán recibidas en las oficinas que el Instituto autorice.
-El patrón podrá aplicar las notas de crédito expedidas por el Instituto, dentro de los cinco años
-siguientes a su expedición o solicitar su monetización una vez vencido dicho plazo, siempre y cuando no
-tenga adeudos con el Instituto. En este último caso, deberá presentar ante la oficina correspondiente, la
 solicitud de monetización a la que adjuntará la nota de crédito original para que se tramite el pago de la
 misma.
 Transcurrido el plazo señalado sin que el patrón hubiese aplicado la nota de crédito o solicitado su
@@ -1016,6 +1006,14 @@ Comisión Nacional del Sistema de Ahorro para el Retiro, así como a las entidad
 mediante reglas generales determine la misma Comisión.
 Artículo adicionado DOF 20-12-2001
 
+Artículo 40 E. El Consejo Técnico del Instituto por el voto de al menos las tres cuartas partes de sus
+integrantes podrá autorizar, de manera excepcional y previa solicitud del patrón, el pago a plazos o
+diferido de las cuotas a su cargo, que se generen hasta por los seis periodos posteriores a la fecha de su
+solicitud, cuando cumpla con los siguientes requisitos:
+I.
+
+No tener adeudos en los dos últimos ejercicios anteriores a la fecha de solicitud;
+
 16 de 164
 
 LEY DEL SEGURO SOCIAL
@@ -1025,14 +1023,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Artículo 40 E. El Consejo Técnico del Instituto por el voto de al menos las tres cuartas partes de sus
-integrantes podrá autorizar, de manera excepcional y previa solicitud del patrón, el pago a plazos o
-diferido de las cuotas a su cargo, que se generen hasta por los seis periodos posteriores a la fecha de su
-solicitud, cuando cumpla con los siguientes requisitos:
-I.
-
-No tener adeudos en los dos últimos ejercicios anteriores a la fecha de solicitud;
 
 II.
 
@@ -1084,6 +1074,10 @@ trabajadores en ejercicio o con motivo del trabajo.
 Artículo 42. Se considera accidente de trabajo toda lesión orgánica o perturbación funcional,
 inmediata o posterior; o la muerte, producida repentinamente en ejercicio, o con motivo del trabajo,
 cualquiera que sea el lugar y el tiempo en que dicho trabajo se preste.
+También se considerará accidente de trabajo el que se produzca al trasladarse el trabajador,
+directamente de su domicilio al lugar del trabajo, o de éste a aquél.
+Artículo 43. Enfermedad de trabajo es todo estado patológico derivado de la acción continuada de
+una causa que tenga su origen o motivo en el trabajo, o en el medio en que el trabajador se vea obligado
 
 17 de 164
 
@@ -1095,10 +1089,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-También se considerará accidente de trabajo el que se produzca al trasladarse el trabajador,
-directamente de su domicilio al lugar del trabajo, o de éste a aquél.
-Artículo 43. Enfermedad de trabajo es todo estado patológico derivado de la acción continuada de
-una causa que tenga su origen o motivo en el trabajo, o en el medio en que el trabajador se vea obligado
 a prestar sus servicios. En todo caso, serán enfermedades de trabajo las consignadas en la Ley Federal
 del Trabajo.
 Artículo 44. Cuando el trabajador asegurado no esté conforme con la calificación que del accidente o
@@ -1133,6 +1123,10 @@ II. Si el riesgo trae como consecuencia la muerte del asegurado, los beneficiari
 tendrán derecho a las prestaciones en dinero que otorga el presente capítulo. Por lo que se refiere a las
 prestaciones en especie de enfermedades y maternidad, éstas se otorgarán conforme al capítulo IV de
 este Título.
+Artículo 48. Si el Instituto comprueba que el riesgo de trabajo fue producido intencionalmente por el
+patrón, por sí o por medio de tercera persona, el Instituto otorgará al asegurado las prestaciones en
+dinero y en especie que la presente Ley establece y el patrón quedará obligado a restituir íntegramente al
+Instituto las erogaciones que éste haga por tales conceptos.
 
 18 de 164
 
@@ -1144,10 +1138,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 48. Si el Instituto comprueba que el riesgo de trabajo fue producido intencionalmente por el
-patrón, por sí o por medio de tercera persona, el Instituto otorgará al asegurado las prestaciones en
-dinero y en especie que la presente Ley establece y el patrón quedará obligado a restituir íntegramente al
-Instituto las erogaciones que éste haga por tales conceptos.
 Artículo 49. En los términos establecidos por la Ley Federal del Trabajo, cuando el asegurado sufra
 un riesgo de trabajo por falta inexcusable del patrón a juicio de los Tribunales federales en materia
 laboral, las prestaciones en dinero que este capítulo establece a favor del trabajador asegurado, se
@@ -1187,6 +1177,9 @@ Artículo 55. Los riesgos de trabajo pueden producir:
 I. Incapacidad temporal;
 II. Incapacidad permanente parcial;
 III. Incapacidad permanente total, y
+IV. Muerte.
+Se entenderá por incapacidad temporal, incapacidad permanente parcial e incapacidad permanente
+total, lo que al respecto disponen los artículos relativos de la Ley Federal del Trabajo.
 
 19 de 164
 
@@ -1197,10 +1190,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-IV. Muerte.
-Se entenderá por incapacidad temporal, incapacidad permanente parcial e incapacidad permanente
-total, lo que al respecto disponen los artículos relativos de la Ley Federal del Trabajo.
 
 SECCION SEGUNDA
 DE LAS PRESTACIONES EN ESPECIE
@@ -1239,6 +1228,11 @@ renta vitalicia y sobrevivencia el Instituto calculará el monto constitutivo ne
 monto constitutivo se le restará el saldo acumulado en la cuenta individual del trabajador y la diferencia
 positiva será la suma asegurada, que deberá pagar el Instituto a la institución de seguros elegida por el
 trabajador para la contratación de los seguros de renta vitalicia y de sobrevivencia. El seguro de
+sobrevivencia cubrirá, en caso de fallecimiento del pensionado a consecuencia del riesgo de trabajo, la
+pensión y demás prestaciones económicas a que se refiere este capítulo, a sus beneficiarios; si al
+momento de producirse el riesgo de trabajo, el asegurado hubiere cotizado cuando menos ciento
+cincuenta semanas, el seguro de sobrevivencia también cubrirá el fallecimiento de éste por causas
+distintas a riesgos de trabajo o enfermedades profesionales.
 
 20 de 164
 
@@ -1250,11 +1244,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-sobrevivencia cubrirá, en caso de fallecimiento del pensionado a consecuencia del riesgo de trabajo, la
-pensión y demás prestaciones económicas a que se refiere este capítulo, a sus beneficiarios; si al
-momento de producirse el riesgo de trabajo, el asegurado hubiere cotizado cuando menos ciento
-cincuenta semanas, el seguro de sobrevivencia también cubrirá el fallecimiento de éste por causas
-distintas a riesgos de trabajo o enfermedades profesionales.
 Cuando el trabajador tenga una cantidad acumulada en su cuenta individual que sea mayor al
 necesario para integrar el monto constitutivo para contratar una renta vitalicia que sea superior a la
 pensión a que tenga derecho, en los términos de este capítulo, así como para contratar el seguro de
@@ -1290,6 +1279,9 @@ derecho en los términos de este capítulo.
 Artículo 60. Los certificados de incapacidad temporal que expida el Instituto se sujetarán a lo que
 establezca el reglamento relativo.
 El pago de los subsidios se hará por períodos vencidos no mayores de siete días.
+Artículo 61. Al declararse la incapacidad permanente, sea parcial o total, se concederá al trabajador
+asegurado la pensión que le corresponda, con carácter provisional, por un período de adaptación de dos
+años.
 
 21 de 164
 
@@ -1301,9 +1293,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 61. Al declararse la incapacidad permanente, sea parcial o total, se concederá al trabajador
-asegurado la pensión que le corresponda, con carácter provisional, por un período de adaptación de dos
-años.
 Durante ese período de dos años, en cualquier momento el Instituto podrá ordenar y, por su parte, el
 trabajador asegurado tendrá derecho a solicitar la revisión de la incapacidad con el fin de modificar la
 cuantía de la pensión.
@@ -1346,6 +1335,8 @@ la presente Ley. En caso de que el trabajador fallecido haya acumulado en su cue
 mayor al necesario para integrar el monto constitutivo necesario para contratar una renta que sea
 superior al monto de las pensiones a que tengan derecho sus beneficiarios, en los términos de este
 capítulo, éstos podrán optar por:
+a) Retirar la suma excedente en una sola exhibición de la cuenta individual del trabajador fallecido, o
+b) Contratar rentas por una cuantía mayor.
 
 22 de 164
 
@@ -1357,8 +1348,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-a) Retirar la suma excedente en una sola exhibición de la cuenta individual del trabajador fallecido, o
-b) Contratar rentas por una cuantía mayor.
 Las pensiones y prestaciones a que se refiere la presente Ley serán:
 I. El pago de una cantidad igual a sesenta días de salario mínimo general que rija en el Distrito
 Federal en la fecha de fallecimiento del asegurado.
@@ -1399,6 +1388,9 @@ El derecho al goce de las pensiones a que se refiere el párrafo anterior, se ex
 términos expresados en las fracciones III y IV de este precepto.
 Al término de las pensiones de orfandad establecidas en este artículo, se otorgará al huérfano un
 pago adicional de tres mensualidades de la pensión que disfrutaba.
+A las personas señaladas en las fracciones II y VI de este artículo, así como a los ascendientes
+pensionados en los términos del artículo 66, se les otorgará un aguinaldo anual equivalente a quince días
+del importe de la pensión que perciban.
 
 23 de 164
 
@@ -1410,9 +1402,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-A las personas señaladas en las fracciones II y VI de este artículo, así como a los ascendientes
-pensionados en los términos del artículo 66, se les otorgará un aguinaldo anual equivalente a quince días
-del importe de la pensión que perciban.
 Artículo 65. Sólo a falta de la o el cónyuge, tendrá derecho a recibir la pensión señalada en la
 fracción II del artículo anterior, la persona con quien la o el asegurado vivió como si fueran matrimonio
 durante los cinco años que precedieron inmediatamente a su muerte o con quien procreó o registró hijos,
@@ -1459,6 +1448,9 @@ riesgos de trabajo serán revisadas e incrementadas en la proporción que corres
 dispuesto en el artículo anterior.
 Artículo reformado DOF 20-01-2023
 
+SECCION QUINTA
+DEL REGIMEN FINANCIERO
+
 24 de 164
 
 LEY DEL SEGURO SOCIAL
@@ -1469,8 +1461,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-SECCION QUINTA
-DEL REGIMEN FINANCIERO
 Artículo 70. Las prestaciones del seguro de riesgos de trabajo, inclusive los capitales constitutivos de
 las rentas líquidas al fin de año y los gastos administrativos, serán cubiertos íntegramente por las cuotas
 que para este efecto aporten los patrones y demás sujetos obligados.
@@ -1506,6 +1496,10 @@ correspondiente o cubrir la prima media que les corresponda conforme al reglamen
 artículo 73 de esta Ley.
 Artículo reformado DOF 20-12-2001
 
+Artículo 73. Al inscribirse por primera vez en el Instituto o al cambiar de actividad, las empresas
+cubrirán la prima media de la clase que conforme al Reglamento les corresponda, de acuerdo a la tabla
+siguiente:
+
 25 de 164
 
 LEY DEL SEGURO SOCIAL
@@ -1516,9 +1510,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 73. Al inscribirse por primera vez en el Instituto o al cambiar de actividad, las empresas
-cubrirán la prima media de la clase que conforme al Reglamento les corresponda, de acuerdo a la tabla
-siguiente:
 Prima media
 Clase I
 Clase II
@@ -1569,6 +1560,10 @@ Si la Asamblea General lo autorizare, el Consejo Técnico podrá promover la rev
 artículo en cualquier tiempo, tomando en cuenta la experiencia adquirida.
 Artículo 77. El patrón que estando obligado a asegurar a sus trabajadores contra riesgos de trabajo
 no lo hiciera, deberá enterar al Instituto, en caso de que ocurra el siniestro, los capitales constitutivos de
+las prestaciones en dinero y en especie, de conformidad con lo dispuesto en la presente Ley, sin perjuicio
+de que el Instituto otorgue desde luego las prestaciones a que haya lugar.
+La misma regla se observará cuando el patrón asegure a sus trabajadores en forma tal que se
+disminuyan las prestaciones a que los trabajadores asegurados o sus beneficiarios tuvieran derecho,
 
 26 de 164
 
@@ -1580,10 +1575,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-las prestaciones en dinero y en especie, de conformidad con lo dispuesto en la presente Ley, sin perjuicio
-de que el Instituto otorgue desde luego las prestaciones a que haya lugar.
-La misma regla se observará cuando el patrón asegure a sus trabajadores en forma tal que se
-disminuyan las prestaciones a que los trabajadores asegurados o sus beneficiarios tuvieran derecho,
 limitándose los capitales constitutivos, en este caso, a la suma necesaria para completar las prestaciones
 correspondientes señaladas en la Ley.
 Esta regla se aplicará tratándose de recaídas por riesgos de trabajo, con el mismo patrón con el que
@@ -1626,6 +1617,11 @@ Fracción reformada DOF 20-12-2001
 IX. En su caso, gastos de funeral;
 X. Indemnizaciones globales en sustitución de la pensión, en los términos del último párrafo de la
 fracción III del artículo 58 de esta Ley;
+XI. Valor actual de la pensión, que es la cantidad calculada a la fecha del siniestro y que, invertida a
+una tasa anual de interés compuesto del cinco por ciento, sea suficiente, la cantidad pagada y sus
+intereses, para que el beneficiario disfrute la pensión durante el tiempo a que tenga derecho a ella, en la
+cuantía y condiciones aplicables que determina esta Ley, tomando en cuenta las probabilidades de
+reactividad, de muerte y de reingreso al trabajo, así como la edad y sexo del pensionado, y
 
 27 de 164
 
@@ -1637,11 +1633,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-XI. Valor actual de la pensión, que es la cantidad calculada a la fecha del siniestro y que, invertida a
-una tasa anual de interés compuesto del cinco por ciento, sea suficiente, la cantidad pagada y sus
-intereses, para que el beneficiario disfrute la pensión durante el tiempo a que tenga derecho a ella, en la
-cuantía y condiciones aplicables que determina esta Ley, tomando en cuenta las probabilidades de
-reactividad, de muerte y de reingreso al trabajo, así como la edad y sexo del pensionado, y
 XII. El cinco por ciento del importe de los conceptos que lo integren, por gastos de administración.
 Para el fincamiento de los capitales constitutivos, el Instituto, al iniciar la atención del asegurado o, en
 su caso, del beneficiario, por conducto de sus servicios médicos, establecerá el diagnóstico y el
@@ -1681,6 +1672,13 @@ con el objeto de realizar programas para la prevención de los accidentes y las 
 Artículo 82. El Instituto llevará a cabo las investigaciones que estime convenientes sobre riesgos de
 trabajo y sugerirá a los patrones las técnicas y prácticas convenientes a efecto de prevenir la realización
 de dichos riesgos.
+El Instituto podrá verificar el establecimiento de programas o acciones preventivas de riesgos de
+trabajo en aquellas empresas que por la siniestralidad registrada, puedan disminuir el monto de la prima
+de este seguro.
+Párrafo reformado DOF 20-12-2001
+
+Artículo 83. Los patrones deben cooperar con el Instituto en la prevención de los riesgos de trabajo,
+en los términos siguientes:
 
 28 de 164
 
@@ -1692,13 +1690,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-El Instituto podrá verificar el establecimiento de programas o acciones preventivas de riesgos de
-trabajo en aquellas empresas que por la siniestralidad registrada, puedan disminuir el monto de la prima
-de este seguro.
-Párrafo reformado DOF 20-12-2001
-
-Artículo 83. Los patrones deben cooperar con el Instituto en la prevención de los riesgos de trabajo,
-en los términos siguientes:
 I.
 
 Facilitarle la realización de estudios e investigaciones;
@@ -1763,6 +1754,14 @@ V.
 Los hijos menores de dieciséis años del asegurado y de los pensionados, en los términos
 consignados en las fracciones anteriores;
 
+VI.
+
+Los hijos del asegurado cuando no puedan mantenerse por su propio trabajo debido a una
+enfermedad crónica o discapacidad por deficiencias físicas, mentales, intelectuales o
+sensoriales, hasta en tanto no desaparezca la incapacidad que padecen o hasta la edad de
+veinticinco años cuando realicen estudios en planteles del sistema educativo nacional;
+Fracción reformada DOF 27-05-2011
+
 29 de 164
 
 LEY DEL SEGURO SOCIAL
@@ -1772,14 +1771,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-VI.
-
-Los hijos del asegurado cuando no puedan mantenerse por su propio trabajo debido a una
-enfermedad crónica o discapacidad por deficiencias físicas, mentales, intelectuales o
-sensoriales, hasta en tanto no desaparezca la incapacidad que padecen o hasta la edad de
-veinticinco años cuando realicen estudios en planteles del sistema educativo nacional;
-Fracción reformada DOF 27-05-2011
 
 VII.
 
@@ -1832,6 +1823,12 @@ en dinero del seguro de enfermedades y maternidad, o bien cuando el subsidio a q
 viera disminuido en su cuantía.
 El Instituto, se subrogará en los derechos de los derechohabientes y concederá las prestaciones
 mencionadas en el párrafo anterior. En este caso, el patrón enterará al Instituto el importe de los capitales
+constitutivos. Dicho importe será deducible del monto de las cuotas obrero patronales omitidas hasta esa
+fecha que correspondan al seguro de enfermedades y maternidad, del trabajador de que se trate.
+Párrafo reformado DOF 20-12-2001
+
+No procederá la determinación del capital constitutivo, cuando el Instituto otorgue a los
+derechohabientes las prestaciones en especie y en dinero a que tengan derecho, siempre y cuando los
 
 30 de 164
 
@@ -1843,12 +1840,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-constitutivos. Dicho importe será deducible del monto de las cuotas obrero patronales omitidas hasta esa
-fecha que correspondan al seguro de enfermedades y maternidad, del trabajador de que se trate.
-Párrafo reformado DOF 20-12-2001
-
-No procederá la determinación del capital constitutivo, cuando el Instituto otorgue a los
-derechohabientes las prestaciones en especie y en dinero a que tengan derecho, siempre y cuando los
 avisos de ingreso o alta de los trabajadores asegurados y los de modificaciones de su salario, hubiesen
 sido entregados al Instituto dentro de los plazos que señalan los artículos 15, fracción I y 34 de esta Ley.
 Párrafo adicionado DOF 20-12-2001
@@ -1906,6 +1897,9 @@ Artículo 90. El Instituto elaborará los cuadros básicos de medicamentos que c
 sujetos a permanente actualización, a fin de que los productos en ellos comprendidos sean los de mayor
 eficacia terapéutica.
 
+SECCION SEGUNDA
+DE LAS PRESTACIONES EN ESPECIE
+
 31 de 164
 
 LEY DEL SEGURO SOCIAL
@@ -1916,8 +1910,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-SECCION SEGUNDA
-DE LAS PRESTACIONES EN ESPECIE
 Artículo 91. En caso de enfermedad no profesional, el Instituto otorgará al asegurado la asistencia
 médico quirúrgica, farmacéutica y hospitalaria que sea necesaria, desde el comienzo de la enfermedad y
 durante el plazo de cincuenta y dos semanas para el mismo padecimiento.
@@ -1964,6 +1956,10 @@ Artículo 96. En caso de enfermedad no profesional, el asegurado tendrá derecho
 dinero que se otorgará cuando la enfermedad lo incapacite para el trabajo. El subsidio se pagará a partir
 del cuarto día del inicio de la incapacidad, mientras dure ésta y hasta por el término de cincuenta y dos
 semanas.
+Si al concluir dicho período el asegurado continuare incapacitado, previo dictamen del Instituto, se
+podrá prorrogar el pago del subsidio hasta por veintiséis semanas más.
+Artículo 97. El asegurado sólo percibirá el subsidio que se establece en el artículo anterior, cuando
+tenga cubiertas por lo menos cuatro cotizaciones semanales inmediatamente anteriores a la enfermedad.
 
 32 de 164
 
@@ -1975,10 +1971,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Si al concluir dicho período el asegurado continuare incapacitado, previo dictamen del Instituto, se
-podrá prorrogar el pago del subsidio hasta por veintiséis semanas más.
-Artículo 97. El asegurado sólo percibirá el subsidio que se establece en el artículo anterior, cuando
-tenga cubiertas por lo menos cuatro cotizaciones semanales inmediatamente anteriores a la enfermedad.
 Los trabajadores eventuales percibirán el subsidio cuando tengan cubiertas seis cotizaciones
 semanales en los últimos cuatro meses anteriores a la enfermedad.
 Artículo 98. El subsidio en dinero que se otorgue a los asegurados será igual al sesenta por ciento
@@ -2023,6 +2015,10 @@ posteriores al parto.
 Si la asegurada estuviera percibiendo otro subsidio, se cancelará el que sea por menor cantidad.
 Artículo 102 Bis. A solicitud expresa de la asegurada, con la previa autorización escrita del médico
 del Instituto o, en su caso, del médico externo que lleve el control y vigilancia prenatal, y tomando en
+cuenta la opinión del patrón y la naturaleza del trabajo que desempeñe, se podrán transferir hasta cuatro
+de las seis semanas de descanso previas al parto para después del mismo.
+En caso de que se presente autorización de médicos particulares, ésta deberá contener el nombre y
+número de cédula profesional de quien los expida, la fecha y el estado médico de la trabajadora.
 
 33 de 164
 
@@ -2034,10 +2030,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-cuenta la opinión del patrón y la naturaleza del trabajo que desempeñe, se podrán transferir hasta cuatro
-de las seis semanas de descanso previas al parto para después del mismo.
-En caso de que se presente autorización de médicos particulares, ésta deberá contener el nombre y
-número de cédula profesional de quien los expida, la fecha y el estado médico de la trabajadora.
 Las disposiciones reglamentarias establecerán el procedimiento.
 Artículo adicionado DOF 24-03-2023
 
@@ -2075,6 +2067,10 @@ Artículo 107. Las prestaciones en dinero del seguro de enfermedades y maternida
 con una cuota del uno por ciento sobre el salario base de cotización, que se pagará de la forma siguiente:
 I. A los patrones les corresponderá pagar el setenta por ciento de dicha cuota;
 II. A los trabajadores les corresponderá pagar el veinticinco por ciento de la misma, y
+III. Al Gobierno Federal le corresponderá pagar el cinco por ciento restante.
+Artículo 108. Las aportaciones del Gobierno Federal serán cubiertas en pagos mensuales iguales,
+equivalentes a la doceava parte de la estimación que presente el Instituto para el año siguiente a la
+Secretaría de Hacienda y Crédito Público, en el mes de julio de cada ejercicio. En el caso de que en un
 
 34 de 164
 
@@ -2086,10 +2082,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-III. Al Gobierno Federal le corresponderá pagar el cinco por ciento restante.
-Artículo 108. Las aportaciones del Gobierno Federal serán cubiertas en pagos mensuales iguales,
-equivalentes a la doceava parte de la estimación que presente el Instituto para el año siguiente a la
-Secretaría de Hacienda y Crédito Público, en el mes de julio de cada ejercicio. En el caso de que en un
 cuatrimestre la inflación sea cuatro puntos porcentuales mayor o menor a la prevista en dichos cálculos,
 se harán las compensaciones preliminares correspondientes antes de que termine el siguiente bimestre,
 realizándose los ajustes definitivos, en base a la inflación real anual, durante el mes de enero del año
@@ -2132,6 +2124,11 @@ Artículo 111. El Instituto se coordinará con la Secretaría de Salud y con otr
 organismos públicos, con objeto de realizar las campañas y programas a que se refiere el artículo
 anterior.
 
+SECCIÓN SÉPTIMA
+DEL REGISTRO DE LAS ACTIVIDADES PARA LA SALUD A LA POBLACIÓN
+DERECHOHABIENTE
+Sección adicionada DOF 20-12-2001
+
 35 de 164
 
 LEY DEL SEGURO SOCIAL
@@ -2141,11 +2138,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-SECCIÓN SÉPTIMA
-DEL REGISTRO DE LAS ACTIVIDADES PARA LA SALUD A LA POBLACIÓN
-DERECHOHABIENTE
-Sección adicionada DOF 20-12-2001
 
 Artículo 111 A. El Instituto para realizar los registros, anotaciones y certificaciones relativas a la
 atención a la salud de la población derechohabiente, podrá utilizar medios escritos, electrónicos,
@@ -2183,6 +2175,10 @@ según se señala en las disposiciones relativas a cada uno de los riesgos ampar
 Para los efectos de este artículo, se considerarán como semanas de cotización por lo que se refiere al
 seguro contenido en este capítulo las que se encuentren amparadas por certificado de incapacidad
 médica para el trabajo.
+Artículo 114. El pago de la pensión de invalidez, en su caso, se suspenderá durante el tiempo en que
+el pensionado desempeñe un trabajo en un puesto igual a aquél que desarrollaba al declarase ésta.
+Artículo 115. Cuando una persona tuviera derecho a dos o más de las pensiones establecidas en
+esta Ley, por ser simultáneamente pensionado, asegurado y beneficiario de otro u otros asegurados,
 
 36 de 164
 
@@ -2194,10 +2190,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 114. El pago de la pensión de invalidez, en su caso, se suspenderá durante el tiempo en que
-el pensionado desempeñe un trabajo en un puesto igual a aquél que desarrollaba al declarase ésta.
-Artículo 115. Cuando una persona tuviera derecho a dos o más de las pensiones establecidas en
-esta Ley, por ser simultáneamente pensionado, asegurado y beneficiario de otro u otros asegurados,
 recibirá en su caso, la pensión de acuerdo a los recursos acumulados en la cuenta individual que
 corresponda.
 Artículo 116. Si una persona tiene derecho a cualquiera de las pensiones de este capítulo y también
@@ -2239,6 +2231,14 @@ I.
 
 Pensión temporal;
 
+II.
+
+Pensión definitiva.
+
+La pensión y el seguro de sobrevivencia a que se refiere esta fracción, se contratarán por el
+asegurado con la institución de seguros que elija. Para la contratación de los seguros de renta vitalicia y
+de sobrevivencia, el Instituto calculará el monto constitutivo necesario para su contratación. Al monto
+
 37 de 164
 
 LEY DEL SEGURO SOCIAL
@@ -2249,13 +2249,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-II.
-
-Pensión definitiva.
-
-La pensión y el seguro de sobrevivencia a que se refiere esta fracción, se contratarán por el
-asegurado con la institución de seguros que elija. Para la contratación de los seguros de renta vitalicia y
-de sobrevivencia, el Instituto calculará el monto constitutivo necesario para su contratación. Al monto
 constitutivo se le restará el saldo acumulado en la cuenta individual del asegurado y la diferencia positiva
 será la suma asegurada que el Instituto deberá entregar a la institución de seguros para la contratación
 de los seguros a que se refiere esta fracción.
@@ -2291,6 +2284,9 @@ Artículo 123. No se tiene derecho a disfrutar de pensión de invalidez, cuando 
 I. Por sí o de acuerdo con otra persona se haya provocado intencionalmente la invalidez;
 II. Resulte responsable del delito intencional que originó la invalidez, y
 III. Padezca un estado de invalidez anterior a su afiliación al régimen obligatorio.
+En los casos de las fracciones I y II, el Instituto podrá otorgar el total o una parte de la pensión a los
+familiares que tuvieran derecho a las prestaciones que se conceden en el caso de muerte y la pensión se
+cubrirá mientras dure la invalidez del asegurado.
 
 38 de 164
 
@@ -2302,9 +2298,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-En los casos de las fracciones I y II, el Instituto podrá otorgar el total o una parte de la pensión a los
-familiares que tuvieran derecho a las prestaciones que se conceden en el caso de muerte y la pensión se
-cubrirá mientras dure la invalidez del asegurado.
 Artículo 124. Los asegurados que soliciten el otorgamiento de una pensión de invalidez y los
 inválidos que se encuentren disfrutándola, deberán sujetarse a las investigaciones de carácter médico,
 social y económico que el Instituto estime necesarias, para comprobar si existe o subsiste el estado de
@@ -2357,6 +2350,13 @@ V.
 
 Asistencia médica, en los términos del capítulo IV de este Título.
 
+En caso de fallecimiento de un asegurado o de una asegurada, las pensiones a que se refieren las
+fracciones I, II y III de este artículo se otorgarán por la institución de seguros que elijan los beneficiarios
+para la contratación de su renta vitalicia. A tal efecto, se deberán integrar un monto constitutivo en la
+aseguradora elegida, el cual deberá ser suficiente para cubrir la pensión, las ayudas asistenciales y las
+demás prestaciones de carácter económico previstas en este capítulo. Para ello, el Instituto Mexicano del
+Seguro Social otorgará una suma asegurada que, adicionada a los recursos acumulados en la cuenta
+
 39 de 164
 
 LEY DEL SEGURO SOCIAL
@@ -2367,12 +2367,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-En caso de fallecimiento de un asegurado o de una asegurada, las pensiones a que se refieren las
-fracciones I, II y III de este artículo se otorgarán por la institución de seguros que elijan los beneficiarios
-para la contratación de su renta vitalicia. A tal efecto, se deberán integrar un monto constitutivo en la
-aseguradora elegida, el cual deberá ser suficiente para cubrir la pensión, las ayudas asistenciales y las
-demás prestaciones de carácter económico previstas en este capítulo. Para ello, el Instituto Mexicano del
-Seguro Social otorgará una suma asegurada que, adicionada a los recursos acumulados en la cuenta
 individual del trabajador fallecido, deberá ser suficiente para integrar el monto constitutivo con cargo al
 cual se pagará la pensión, las ayudas asistenciales y las demás prestaciones de carácter económico
 previstas en este capítulo, por la institución de seguros.
@@ -2412,6 +2406,14 @@ pensionado por invalidez tenía varias o varios concubinas o concubinarios, ning
 derecho a recibir la pensión.
 Artículo reformado DOF 20-01-2023
 
+Artículo 131. La pensión de viudez será igual al noventa por ciento de la que hubiera correspondido
+al asegurado en el caso de invalidez o de la que venía disfrutando el pensionado por este supuesto.
+Artículo 132. No se tendrá derecho a la pensión de viudez que establece el artículo anterior, en los
+siguientes casos:
+I.
+
+Cuando la muerte del asegurado acaeciera antes de cumplir seis meses de matrimonio;
+
 40 de 164
 
 LEY DEL SEGURO SOCIAL
@@ -2421,14 +2423,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Artículo 131. La pensión de viudez será igual al noventa por ciento de la que hubiera correspondido
-al asegurado en el caso de invalidez o de la que venía disfrutando el pensionado por este supuesto.
-Artículo 132. No se tendrá derecho a la pensión de viudez que establece el artículo anterior, en los
-siguientes casos:
-I.
-
-Cuando la muerte del asegurado acaeciera antes de cumplir seis meses de matrimonio;
 
 II.
 
@@ -2470,6 +2464,11 @@ Artículo 136. El derecho al goce de la pensión de orfandad comenzará desde el
 del asegurado o pensionado por invalidez y cesará con la muerte del beneficiario, o cuando éste haya
 alcanzado los dieciséis años de edad, o una edad mayor, de acuerdo con las disposiciones de los dos
 artículos anteriores.
+Con la última mensualidad se otorgará al huérfano un pago finiquito equivalente a tres mensualidades
+de su pensión.
+Artículo 137. Si no existieran viuda, viudo, huérfanos, ni concubina o concubinario con derecho a
+pensión, o quien haya suscrito una unión civil y que le sobreviva, ésta se otorgará a cada uno de los
+ascendientes que dependían económicamente de la o el asegurado o pensionado por invalidez fallecido,
 
 41 de 164
 
@@ -2481,11 +2480,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Con la última mensualidad se otorgará al huérfano un pago finiquito equivalente a tres mensualidades
-de su pensión.
-Artículo 137. Si no existieran viuda, viudo, huérfanos, ni concubina o concubinario con derecho a
-pensión, o quien haya suscrito una unión civil y que le sobreviva, ésta se otorgará a cada uno de los
-ascendientes que dependían económicamente de la o el asegurado o pensionado por invalidez fallecido,
 por una cantidad igual al veinte por ciento de la pensión que el asegurado o asegurada estuviese
 gozando al fallecer, o de la que le hubiera correspondido suponiendo realizado el estado de invalidez.
 Artículo reformado DOF 20-12-2001, 20-01-2023
@@ -2542,6 +2536,13 @@ Si el pensionado sólo tuviera un ascendiente con derecho al disfrute de asignac
 le concederá una ayuda asistencial equivalente al diez por ciento de la cuantía de la pensión
 que deba disfrutar.
 
+Estas asignaciones familiares se entregarán de preferencia al propio pensionado, pero la
+correspondiente a los hijos podrá entregarse a la persona o institución que los tenga bajo su cargo
+directo, en el caso de no vivir con el pensionado.
+Las asignaciones familiares cesarán con la muerte del familiar que la originó y, en el caso de los hijos,
+terminarán con la muerte de éstos o cuando cumplan los dieciséis años, o bien los veinticinco años,
+aplicándose en lo conducente lo dispuesto por el artículo 134 de esta Ley.
+
 42 de 164
 
 LEY DEL SEGURO SOCIAL
@@ -2552,12 +2553,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Estas asignaciones familiares se entregarán de preferencia al propio pensionado, pero la
-correspondiente a los hijos podrá entregarse a la persona o institución que los tenga bajo su cargo
-directo, en el caso de no vivir con el pensionado.
-Las asignaciones familiares cesarán con la muerte del familiar que la originó y, en el caso de los hijos,
-terminarán con la muerte de éstos o cuando cumplan los dieciséis años, o bien los veinticinco años,
-aplicándose en lo conducente lo dispuesto por el artículo 134 de esta Ley.
 Las asignaciones familiares concedidas para los hijos del pensionado con motivo de no poderse
 mantener por sí mismos, debido a inhabilitación para trabajar por enfermedad crónica, física o psíquica,
 podrán continuarse pagando hasta en tanto no desaparezca la inhabilitación.
@@ -2596,6 +2591,12 @@ duración del tratamiento respectivo, a fin de que el patrón o patrones de ést
 licencia.
 La licencia expedida por el Instituto al padre o madre trabajador asegurado, tendrá una vigencia de
 uno y hasta veintiocho días. Podrán expedirse tantas licencias como sean necesarias durante un periodo
+máximo de tres años sin que se excedan trescientos sesenta y cuatro días de licencia, mismos que no
+necesariamente deberán ser continuos.
+Los padres o madres trabajadores asegurados ubicados en el supuesto establecido en los párrafos
+que anteceden y que hayan cubierto por lo menos treinta cotizaciones semanales en el periodo de doce
+meses anteriores a la fecha del diagnóstico por los servicios médicos institucionales, y en caso de no
+cumplir con este periodo, tener al menos registradas cincuenta y dos semanas de cotización inmediatas
 
 43 de 164
 
@@ -2607,12 +2608,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-máximo de tres años sin que se excedan trescientos sesenta y cuatro días de licencia, mismos que no
-necesariamente deberán ser continuos.
-Los padres o madres trabajadores asegurados ubicados en el supuesto establecido en los párrafos
-que anteceden y que hayan cubierto por lo menos treinta cotizaciones semanales en el periodo de doce
-meses anteriores a la fecha del diagnóstico por los servicios médicos institucionales, y en caso de no
-cumplir con este periodo, tener al menos registradas cincuenta y dos semanas de cotización inmediatas
 previas al inicio de la licencia, gozarán de un subsidio equivalente al sesenta por ciento del último salario
 diario de cotización registrado por el patrón.
 La licencia a que se refiere el presente artículo, únicamente podrá otorgarse a petición de parte, ya
@@ -2660,6 +2655,11 @@ Artículo 142. El monto determinado conforme al artículo anterior, servirá de 
 pensiones que se deriven de la muerte tanto del pensionado, como del asegurado, al igual que para fijar
 la cuantía del aguinaldo anual.
 En todo caso, el monto del aguinaldo a que se refiere el párrafo anterior, no será inferior a treinta días.
+Artículo 143. La pensión que se otorgue por invalidez incluyendo el importe de las asignaciones
+familiares y ayudas asistenciales que se concedan, no excederá del cien por ciento del salario promedio
+que sirvió de base para fijar la cuantía de la pensión.
+Artículo 144. El total de las pensiones atribuidas a la viuda, o a la concubina y a los huérfanos de un
+asegurado fallecido no deberá exceder del monto de la pensión de invalidez que disfrutaba el asegurado
 
 44 de 164
 
@@ -2671,11 +2671,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 143. La pensión que se otorgue por invalidez incluyendo el importe de las asignaciones
-familiares y ayudas asistenciales que se concedan, no excederá del cien por ciento del salario promedio
-que sirvió de base para fijar la cuantía de la pensión.
-Artículo 144. El total de las pensiones atribuidas a la viuda, o a la concubina y a los huérfanos de un
-asegurado fallecido no deberá exceder del monto de la pensión de invalidez que disfrutaba el asegurado
 o de la que le hubiera correspondido en el caso de invalidez. Si ese total excediera, se reducirán
 proporcionalmente cada una de las pensiones.
 Cuando se extinga el derecho de alguno de los pensionados se hará una nueva distribución de las
@@ -2713,6 +2708,9 @@ DE LA CONSERVACION Y RECONOCIMIENTO DE DERECHOS
 Artículo 150. Los asegurados que dejen de pertenecer al régimen obligatorio, conservarán los
 derechos que tuvieran adquiridos a pensiones en el seguro de invalidez y vida por un período igual a la
 cuarta parte del tiempo cubierto por sus cotizaciones semanales, contado a partir de la fecha de su baja.
+Este tiempo de conservación de derechos no será menor de doce meses.
+Artículo 151. Al asegurado que haya dejado de estar sujeto al régimen obligatorio y reingrese a éste,
+se le reconocerá el tiempo cubierto por sus cotizaciones anteriores, en la forma siguiente:
 
 45 de 164
 
@@ -2724,9 +2722,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Este tiempo de conservación de derechos no será menor de doce meses.
-Artículo 151. Al asegurado que haya dejado de estar sujeto al régimen obligatorio y reingrese a éste,
-se le reconocerá el tiempo cubierto por sus cotizaciones anteriores, en la forma siguiente:
 I. Si la interrupción en el pago de cotizaciones no fuese mayor de tres años, se le reconocerán, al
 momento de la reinscripción, todas sus cotizaciones;
 II. Si la interrupción excediera de tres años, pero no de seis, se le reconocerán todas las cotizaciones
@@ -2765,6 +2760,10 @@ Para gozar de las prestaciones de este ramo se requiere que el asegurado tenga r
 Instituto un mínimo de mil cotizaciones semanales.
 Párrafo reformado DOF 16-12-2020
 
+El trabajador cesante que tenga sesenta años o más y no reúna las semanas de cotización señaladas
+en el párrafo precedente, podrá retirar el saldo de su cuenta individual en una sola exhibición o seguir
+cotizando hasta cubrir las semanas necesarias para que opere su pensión.
+
 46 de 164
 
 LEY DEL SEGURO SOCIAL
@@ -2775,9 +2774,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-El trabajador cesante que tenga sesenta años o más y no reúna las semanas de cotización señaladas
-en el párrafo precedente, podrá retirar el saldo de su cuenta individual en una sola exhibición o seguir
-cotizando hasta cubrir las semanas necesarias para que opere su pensión.
 En este caso, si el asegurado tiene cotizadas un mínimo de setecientas cincuenta semanas tendrá
 derecho a las prestaciones en especie del seguro de enfermedades y maternidad, en los términos del
 capítulo IV de este Título.
@@ -2822,6 +2818,10 @@ cuando la pensión que se le calcule en el sistema de renta vitalicia sea superi
 ciento de la pensión garantizada que le corresponda conforme a las semanas de cotización, al salario
 base de cotización y a la edad de sesenta años, de la tabla establecida en el artículo 170 de esta Ley,
 una vez cubierta la prima del seguro de sobrevivencia para sus beneficiarios.
+El pensionado tendrá derecho a recibir el excedente de los recursos acumulados en su cuenta
+individual en una o varias exhibiciones, solamente si la pensión que se le otorgue es superior en más del
+treinta por ciento de la pensión garantizada que le corresponda conforme a las semanas de cotización, al
+salario base de cotización y a la edad de sesenta años, de la tabla establecida en el artículo 170 de esta
 
 47 de 164
 
@@ -2833,10 +2833,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-El pensionado tendrá derecho a recibir el excedente de los recursos acumulados en su cuenta
-individual en una o varias exhibiciones, solamente si la pensión que se le otorgue es superior en más del
-treinta por ciento de la pensión garantizada que le corresponda conforme a las semanas de cotización, al
-salario base de cotización y a la edad de sesenta años, de la tabla establecida en el artículo 170 de esta
 Ley, una vez cubierta la prima del seguro de sobrevivencia para sus beneficiarios. La disposición de la
 cuenta, así como de sus rendimientos estará exenta del pago de contribuciones.
 Lo dispuesto en este artículo es aplicable al ramo de vejez.
@@ -2898,6 +2894,12 @@ VIII.
 Suma asegurada es la cantidad que resulta de restar al monto constitutivo el saldo de la cuenta
 individual del trabajador.
 
+La renta vitalicia y el seguro de sobrevivencia, que otorguen de acuerdo a lo previsto en los seguros
+de riesgos de trabajo, invalidez y vida y retiro, cesantía en edad avanzada y vejez, las instituciones de
+seguros se sujetarán a las reglas de carácter general que expida la Comisión Nacional de Seguros y
+Fianzas, oyendo previamente la opinión de la Comisión Nacional del Sistema de Ahorro para el Retiro.
+Aclaración al párrafo DOF 16-01-1996
+
 48 de 164
 
 LEY DEL SEGURO SOCIAL
@@ -2907,12 +2909,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-La renta vitalicia y el seguro de sobrevivencia, que otorguen de acuerdo a lo previsto en los seguros
-de riesgos de trabajo, invalidez y vida y retiro, cesantía en edad avanzada y vejez, las instituciones de
-seguros se sujetarán a las reglas de carácter general que expida la Comisión Nacional de Seguros y
-Fianzas, oyendo previamente la opinión de la Comisión Nacional del Sistema de Ahorro para el Retiro.
-Aclaración al párrafo DOF 16-01-1996
 
 La renta vitalicia se sujetará a las modalidades de contratación que elija el asegurado de entre las
 opciones que estén registradas ante la Comisión Nacional de Seguros y Fianzas, previo acuerdo del
@@ -2954,6 +2950,15 @@ Contratar con una compañía de seguros pública, social o privada de su elecci�
 vitalicia, que se actualizará anualmente en el mes de febrero conforme al Indice Nacional de
 Precios al Consumidor, y
 
+II.
+
+Mantener el saldo de su cuenta individual en una Administradora de Fondos para el Retiro y
+efectuar con cargo a éste, retiros programados.
+
+Los supuestos referidos se sujetarán a lo establecido en esta Ley y de conformidad con las reglas de
+carácter general que expida la Comisión Nacional del Sistema de Ahorro para el Retiro.
+Aclaración al párrafo DOF 16-01-1996. Reformado DOF 16-12-2020
+
 49 de 164
 
 LEY DEL SEGURO SOCIAL
@@ -2963,15 +2968,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-II.
-
-Mantener el saldo de su cuenta individual en una Administradora de Fondos para el Retiro y
-efectuar con cargo a éste, retiros programados.
-
-Los supuestos referidos se sujetarán a lo establecido en esta Ley y de conformidad con las reglas de
-carácter general que expida la Comisión Nacional del Sistema de Ahorro para el Retiro.
-Aclaración al párrafo DOF 16-01-1996. Reformado DOF 16-12-2020
 
 El asegurado que elija la opción prevista en la fracción II o ambas podrá, en cualquier momento,
 contratar una renta vitalicia de acuerdo a lo dispuesto en la fracción I, excepto cuando la renta mensual
@@ -3021,6 +3017,15 @@ enterar al Instituto el importe de las cuotas obrero patronales y la aportación
 cesantía en edad avanzada y vejez. Dichas cuotas se recibirán y se depositarán en las respectivas
 subcuentas de la cuenta individual de cada trabajador, en los términos previstos en la Ley para la
 Coordinación de los Sistemas de Ahorro para el Retiro.
+Artículo 168. Las cuotas y aportaciones a que se refiere el artículo anterior serán:
+I.
+
+En el ramo de retiro, a los patrones les corresponde cubrir el importe equivalente al dos por
+ciento del salario base de cotización del trabajador.
+
+II.
+
+En los ramos de cesantía en edad avanzada y vejez:
 
 50 de 164
 
@@ -3032,15 +3037,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 168. Las cuotas y aportaciones a que se refiere el artículo anterior serán:
-I.
-
-En el ramo de retiro, a los patrones les corresponde cubrir el importe equivalente al dos por
-ciento del salario base de cotización del trabajador.
-
-II.
-
-En los ramos de cesantía en edad avanzada y vejez:
 a)
 
 Los patrones cubrirán la cuota que corresponda sobre el salario base de cotización,
@@ -3085,6 +3081,14 @@ conforme a la tabla siguiente:
 
 Párrafo con tabla reformado DOF 16-12-2020
 
+Los valores mencionados del importe de la cuota social, se actualizarán trimestralmente de
+conformidad con el Índice Nacional de Precios al Consumidor, en los meses de marzo, junio,
+septiembre y diciembre de cada año.
+Fracción reformada DOF 26-05-2009
+
+Estas cuotas y aportaciones al destinarse al otorgamiento de pensiones y demás beneficios
+establecidos en esta Ley, se entenderán destinadas al gasto público en materia de seguridad social.
+
 51 de 164
 
 LEY DEL SEGURO SOCIAL
@@ -3095,13 +3099,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Los valores mencionados del importe de la cuota social, se actualizarán trimestralmente de
-conformidad con el Índice Nacional de Precios al Consumidor, en los meses de marzo, junio,
-septiembre y diciembre de cada año.
-Fracción reformada DOF 26-05-2009
-
-Estas cuotas y aportaciones al destinarse al otorgamiento de pensiones y demás beneficios
-establecidos en esta Ley, se entenderán destinadas al gasto público en materia de seguridad social.
 Párrafo reformado DOF 26-05-2009
 
 Artículo 169. Los recursos depositados en la cuenta individual de cada trabajador son propiedad de
