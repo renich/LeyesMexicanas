@@ -11,9 +11,6 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 1º de abril de 19
 TEXTO VIGENTE
 Última reforma publicada 27-12-2022
 
-Nota de vigencia: La adición de la fracción IV al artículo 337, publicada por Decreto DOF 01-05-2019, entrará
-en vigor de conformidad con lo que establece el artículo Vigésimo Quinto Transitorio de dicho Decreto.
-
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la
 República.
 GUSTAVO DIAZ ORDAZ, Presidente Constitucional de los Estados Unidos Mexicanos, a sus
@@ -44,6 +41,7 @@ La igualdad sustantiva es la que se logra eliminando la discriminación contra l
 menoscaba o anula el reconocimiento, goce o ejercicio de sus derechos humanos y las libertades
 fundamentales en el ámbito laboral. Supone el acceso a las mismas oportunidades, considerando las
 diferencias biológicas, sociales y culturales de mujeres y hombres.
+Artículo reformado DOF 30-11-2012
 
 1 de 331
 
@@ -54,8 +52,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Artículo reformado DOF 30-11-2012
 
 Artículo 3o.- El trabajo es un derecho y un deber social. No es artículo de comercio, y exige respeto
 para las libertades y dignidad de quien lo presta, así como el reconocimiento a las diferencias entre
@@ -123,6 +119,9 @@ Correr traslado: poner a disposición de alguna de las partes algún documento o
 en el local del Tribunal, salvo los casos previstos en esta Ley.
 Artículo adicionado DOF 01-05-2019
 
+Artículo 4o.- No se podrá impedir el trabajo a ninguna persona ni que se dedique a la profesión,
+industria o comercio que le acomode, siendo lícitos. El ejercicio de estos derechos sólo podrá vedarse
+
 2 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -133,8 +132,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 4o.- No se podrá impedir el trabajo a ninguna persona ni que se dedique a la profesión,
-industria o comercio que le acomode, siendo lícitos. El ejercicio de estos derechos sólo podrá vedarse
 por resolución de la autoridad competente cuando se ataquen los derechos de tercero o se ofendan los
 de la sociedad:
 I.
@@ -214,6 +211,10 @@ IX.
 La obligación directa o indirecta para obtener artículos de consumo en tienda o lugar
 determinado;
 
+X.
+
+La facultad del patrón de retener el salario por concepto de multa;
+
 3 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -223,10 +224,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-X.
-
-La facultad del patrón de retener el salario por concepto de multa;
 
 XI.
 
@@ -277,6 +274,8 @@ Son funciones de confianza las de dirección, inspección, vigilancia y fiscaliz
 carácter general, y las que se relacionen con trabajos personales del patrón dentro de la empresa o
 establecimiento.
 Artículo 10.- Patrón es la persona física o moral que utiliza los servicios de uno o varios trabajadores.
+Si el trabajador, conforme a lo pactado o a la costumbre, utiliza los servicios de otros trabajadores, el
+patrón de aquél, lo será también de éstos.
 
 4 de 331
 
@@ -288,8 +287,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Si el trabajador, conforme a lo pactado o a la costumbre, utiliza los servicios de otros trabajadores, el
-patrón de aquél, lo será también de éstos.
 Artículo 11.- Los directores, administradores, gerentes y demás personas que ejerzan funciones de
 dirección o administración en la empresa o establecimiento, serán considerados representantes del
 patrón y en tal concepto lo obligan en sus relaciones con los trabajadores.
@@ -331,6 +328,8 @@ presentación del requerimiento. Transcurrido dicho plazo sin que se notifique l
 efectuado el registro para los efectos legales a que dé lugar.
 La Secretaría del Trabajo y Previsión Social negará o cancelará en cualquier tiempo el registro de
 aquellas personas físicas o morales que no cumplan con los requisitos previstos por esta Ley.
+Las personas físicas o morales que obtengan el registro a que se refiere este artículo quedarán
+inscritas en un padrón, que deberá ser público y estar disponible en un portal de Internet.
 
 5 de 331
 
@@ -342,8 +341,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Las personas físicas o morales que obtengan el registro a que se refiere este artículo quedarán
-inscritas en un padrón, que deberá ser público y estar disponible en un portal de Internet.
 La Secretaría del Trabajo y Previsión Social expedirá las disposiciones de carácter general que
 determinen los procedimientos relativos al registro a que se refiere este artículo.
 Artículo reformado DOF 21-01-1988, 23-04-2021
@@ -386,6 +383,8 @@ cual una persona se obliga a prestar a otra un trabajo personal subordinado, med
 salario.
 La prestación de un trabajo a que se refiere el párrafo primero y el contrato celebrado producen los
 mismos efectos.
+Artículo 21.- Se presumen la existencia del contrato y de la relación de trabajo entre el que presta un
+trabajo personal y el que lo recibe.
 
 6 de 331
 
@@ -397,8 +396,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 21.- Se presumen la existencia del contrato y de la relación de trabajo entre el que presta un
-trabajo personal y el que lo recibe.
 Artículo 22. Los mayores de quince años pueden prestar libremente sus servicios con las limitaciones
 establecidas en esta Ley.
 Los mayores de quince y menores de dieciséis necesitan autorización de sus padres o tutores y a falta
@@ -448,6 +445,11 @@ Si la relación de trabajo es para obra o tiempo determinado, por temporada, de 
 inicial o por tiempo indeterminado y, en su caso, si está sujeta a un periodo de prueba;
 Fracción reformada DOF 30-11-2012
 
+III.
+
+El servicio o servicios que deban prestarse, los que se determinarán con la mayor precisión
+posible;
+
 7 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -457,11 +459,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-III.
-
-El servicio o servicios que deban prestarse, los que se determinarán con la mayor precisión
-posible;
 
 IV.
 
@@ -531,6 +528,8 @@ d)
 
 Los mecanismos para informar al trabajador acerca de las autoridades consulares y
 diplomáticas mexicanas a las que podrá acudir en el extranjero y de las autoridades
+competentes del país a donde se prestarán los servicios, cuando el trabajador considere
+que sus derechos han sido menoscabados, a fin de ejercer la acción legal conducente;
 
 8 de 331
 
@@ -542,8 +541,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-competentes del país a donde se prestarán los servicios, cuando el trabajador considere
-que sus derechos han sido menoscabados, a fin de ejercer la acción legal conducente;
 II.
 
 El patrón señalará en el contrato de trabajo domicilio dentro de la República para todos los
@@ -609,6 +606,10 @@ competentes del país a donde se prestarán los servicios, cuando el trabajador 
 sus derechos han sido menoscabados, a fin de ejercer la acción legal conducente.
 Artículo adicionado DOF 30-11-2012
 
+Artículo 28-B. En el caso de trabajadores mexicanos reclutados y seleccionados en México, para un
+empleo concreto en el exterior de duración determinada, que sean colocados por entidades privadas, se
+observarán las normas siguientes:
+
 9 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -619,9 +620,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 28-B. En el caso de trabajadores mexicanos reclutados y seleccionados en México, para un
-empleo concreto en el exterior de duración determinada, que sean colocados por entidades privadas, se
-observarán las normas siguientes:
 I. Las agencias de colocación de trabajadores deberán estar debidamente autorizadas y registradas,
 según corresponda, conforme a lo dispuesto en las disposiciones legales aplicables;
 II. Las agencias de colocación de trabajadores deberán cerciorarse de:
@@ -658,6 +656,10 @@ Todo convenio o liquidación, para ser válido, deberá hacerse por escrito y co
 circunstanciada de los hechos que lo motiven y de los derechos comprendidos en él. Será ratificado ante
 los Centros de Conciliación o al Tribunal según corresponda, que lo aprobará siempre que no contenga
 renuncia de los derechos de los trabajadores.
+Cuando el convenio sea celebrado sin la intervención de las autoridades, será susceptible de ser
+reclamada la nulidad ante el Tribunal, solamente de aquello que contenga renuncia de los derechos de
+los trabajadores, conservando su validez el resto de las cláusulas convenidas.
+Artículo reformado DOF 01-05-2019
 
 10 de 331
 
@@ -668,11 +670,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Cuando el convenio sea celebrado sin la intervención de las autoridades, será susceptible de ser
-reclamada la nulidad ante el Tribunal, solamente de aquello que contenga renuncia de los derechos de
-los trabajadores, conservando su validez el resto de las cláusulas convenidas.
-Artículo reformado DOF 01-05-2019
 
 Artículo 34.- En los convenios celebrados entre los sindicatos y los patrones que puedan afectar
 derechos de los trabajadores, se observarán las normas siguientes:
@@ -726,6 +723,10 @@ El periodo de prueba a que se refiere el párrafo anterior, podrá extenderse ha
 sólo cuando se trate de trabajadores para puestos de dirección, gerenciales y demás personas que
 ejerzan funciones de dirección o administración en la empresa o establecimiento de carácter general o
 para desempeñar labores técnicas o profesionales especializadas.
+Durante el período de prueba el trabajador disfrutará del salario, la garantía de la seguridad social y
+de las prestaciones de la categoría o puesto que desempeñe. Al término del periodo de prueba, de no
+acreditar el trabajador que satisface los requisitos y conocimientos necesarios para desarrollar las
+labores, a juicio del patrón, tomando en cuenta la opinión de la Comisión Mixta de Productividad,
 
 11 de 331
 
@@ -737,10 +738,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Durante el período de prueba el trabajador disfrutará del salario, la garantía de la seguridad social y
-de las prestaciones de la categoría o puesto que desempeñe. Al término del periodo de prueba, de no
-acreditar el trabajador que satisface los requisitos y conocimientos necesarios para desarrollar las
-labores, a juicio del patrón, tomando en cuenta la opinión de la Comisión Mixta de Productividad,
 Capacitación y Adiestramiento en los términos de esta Ley, así como la naturaleza de la categoría o
 puesto, se dará por terminada la relación de trabajo, sin responsabilidad para el patrón.
 Artículo adicionado DOF 30-11-2012
@@ -787,6 +784,11 @@ obligaciones que los trabajadores por tiempo indeterminado, en proporción al ti
 periodo.
 Artículo adicionado DOF 30-11-2012
 
+Artículo 40.- Los trabajadores en ningún caso estarán obligados a prestar sus servicios por más de
+un año.
+Artículo 41.- La substitución de patrón no afectará las relaciones de trabajo de la empresa o
+establecimiento. El patrón substituido será solidariamente responsable con el nuevo por las obligaciones
+
 12 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -797,10 +799,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 40.- Los trabajadores en ningún caso estarán obligados a prestar sus servicios por más de
-un año.
-Artículo 41.- La substitución de patrón no afectará las relaciones de trabajo de la empresa o
-establecimiento. El patrón substituido será solidariamente responsable con el nuevo por las obligaciones
 derivadas de las relaciones de trabajo y de la Ley, nacidas antes de la fecha de la substitución, hasta por
 el término de seis meses; concluido éste, subsistirá únicamente la responsabilidad del nuevo patrón.
 El término de seis meses a que se refiere el párrafo anterior, se contará a partir de la fecha en que se
@@ -862,6 +860,14 @@ IX.
 La licencia a que se refiere el artículo 140 Bis de la Ley del Seguro Social.
 Fracción adicionada DOF 04-06-2019
 
+Artículo 42 Bis. En los casos en que las autoridades competentes emitan una declaratoria de
+contingencia sanitaria, conforme a las disposiciones aplicables, que implique la suspensión de las
+labores, se estará a lo dispuesto por el artículo 429, fracción IV de esta Ley.
+Artículo adicionado DOF 30-11-2012
+
+Artículo 43. La suspensión a que se refiere el artículo 42 surtirá efectos:
+Párrafo reformado DOF 30-11-2012
+
 13 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -871,14 +877,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Artículo 42 Bis. En los casos en que las autoridades competentes emitan una declaratoria de
-contingencia sanitaria, conforme a las disposiciones aplicables, que implique la suspensión de las
-labores, se estará a lo dispuesto por el artículo 429, fracción IV de esta Ley.
-Artículo adicionado DOF 30-11-2012
-
-Artículo 43. La suspensión a que se refiere el artículo 42 surtirá efectos:
-Párrafo reformado DOF 30-11-2012
 
 I.
 
@@ -935,6 +933,12 @@ Rescisión de las relaciones de trabajo
 Artículo 46.- El trabajador o el patrón podrá rescindir en cualquier tiempo la relación de trabajo, por
 causa justificada, sin incurrir en responsabilidad.
 Artículo 47.- Son causas de rescisión de la relación de trabajo, sin responsabilidad para el patrón:
+I.
+
+Engañarlo el trabajador o en su caso, el sindicato que lo hubiese propuesto o recomendado con
+certificados falsos o referencias en los que se atribuyan al trabajador capacidad, aptitudes o
+facultades de que carezca. Esta causa de rescisión dejará de tener efecto después de treinta
+días de prestar sus servicios el trabajador;
 
 14 de 331
 
@@ -945,13 +949,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-I.
-
-Engañarlo el trabajador o en su caso, el sindicato que lo hubiese propuesto o recomendado con
-certificados falsos o referencias en los que se atribuyan al trabajador capacidad, aptitudes o
-facultades de que carezca. Esta causa de rescisión dejará de tener efecto después de treinta
-días de prestar sus servicios el trabajador;
 
 II.
 
@@ -1026,6 +1023,11 @@ XIV. La sentencia ejecutoriada que imponga al trabajador una pena de prisión, q
 cumplimiento de la relación de trabajo;
 Fracción reformada DOF 30-11-2012
 
+XIV Bis. La falta de documentos que exijan las leyes y reglamentos, necesarios para la prestación del
+servicio cuando sea imputable al trabajador y que exceda del periodo a que se refiere la
+fracción IV del artículo 43; y
+Fracción adicionada DOF 30-11-2012
+
 15 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -1035,11 +1037,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-XIV Bis. La falta de documentos que exijan las leyes y reglamentos, necesarios para la prestación del
-servicio cuando sea imputable al trabajador y que exceda del periodo a que se refiere la
-fracción IV del artículo 43; y
-Fracción adicionada DOF 30-11-2012
 
 XV.
 
@@ -1090,6 +1087,10 @@ improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustancia
 juicio laboral, se le impondrá una multa de 100 a 1000 veces la Unidad de Medida y Actualización.
 Párrafo reformado DOF 01-05-2019
 
+Si la dilación es producto de omisiones o conductas irregulares de los servidores públicos, la sanción
+aplicable será la suspensión hasta por noventa días sin pago de salario y en caso de reincidencia la
+destitución del cargo, en los términos de las disposiciones aplicables. Además, en este último supuesto
+
 16 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -1100,9 +1101,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Si la dilación es producto de omisiones o conductas irregulares de los servidores públicos, la sanción
-aplicable será la suspensión hasta por noventa días sin pago de salario y en caso de reincidencia la
-destitución del cargo, en los términos de las disposiciones aplicables. Además, en este último supuesto
 se dará vista al Ministerio Público para que investigue la posible comisión de delitos contra la
 administración de justicia.
 A los servidores públicos del Centro Federal de Conciliación y Registro Laboral cuando retrasen,
@@ -1145,6 +1143,10 @@ sindicato que labore en el centro de trabajo de cuyo contrato se reclame.
 II. Tratándose de servidores públicos se considerarán actuaciones notoriamente improcedentes:
 a) Levantar razón de una notificación haciendo constar que se constituyó en el domicilio que se
 le ordenó realizar la notificación, sin haberse constituido en el mismo;
+b) Levantar razón de una notificación o cédula de emplazamiento sin que éstas se hayan
+realizado;
+c) Omitir efectuar una notificación dentro del plazo establecido por la Ley u ordenado por la
+autoridad laboral;
 
 17 de 331
 
@@ -1156,10 +1158,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-b) Levantar razón de una notificación o cédula de emplazamiento sin que éstas se hayan
-realizado;
-c) Omitir efectuar una notificación dentro del plazo establecido por la Ley u ordenado por la
-autoridad laboral;
 d) Dilatar de manera deliberada la notificación de una audiencia de conciliación, el
 emplazamiento de un juicio laboral o cualquier notificación personal del procedimiento laboral,
 para beneficiar a alguna de las partes del procedimiento o para recibir un beneficio de alguna
@@ -1217,6 +1215,13 @@ IV.
 En el trabajo del hogar, y
 Fracción reformada DOF 01-05-2019, 02-07-2019
 
+V.
+
+Cuando se trate de trabajadores eventuales.
+
+Para ejercer este derecho el patrón podrá acudir al Tribunal en la vía paraprocesal contemplada en el
+artículo 982 de esta Ley para depositar la indemnización a que se refiere el artículo 50 de esta Ley. Para
+
 18 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -1227,12 +1232,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-V.
-
-Cuando se trate de trabajadores eventuales.
-
-Para ejercer este derecho el patrón podrá acudir al Tribunal en la vía paraprocesal contemplada en el
-artículo 982 de esta Ley para depositar la indemnización a que se refiere el artículo 50 de esta Ley. Para
 tal efecto el patrón aportará al Tribunal la información relacionada con el nombre y domicilio del
 trabajador, para que se le notifique dicho paraprocesal, debiendo manifestar bajo protesta de decir
 verdad que en el caso se actualiza alguna de las hipótesis contempladas en el presente artículo. Con el
@@ -1291,16 +1290,6 @@ Incurrir el patrón, sus familiares o trabajadores, fuera del servicio, en los a
 la fracción anterior, si son de tal manera graves que hagan imposible el cumplimiento de la
 relación de trabajo;
 
-19 de 331
-
-LEY FEDERAL DEL TRABAJO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 27-12-2022
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 IV.
 
 Reducir el patrón el salario del trabajador;
@@ -1312,6 +1301,16 @@ No recibir el salario correspondiente en la fecha o lugar convenidos o acostumbr
 VI.
 
 Sufrir perjuicios causados maliciosamente por el patrón, en sus herramientas o útiles de trabajo;
+
+19 de 331
+
+LEY FEDERAL DEL TRABAJO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 27-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 VII.
 
@@ -1375,6 +1374,8 @@ tendrá el trabajador los derechos consignados en el artículo 48.
 
 TITULO TERCERO
 Condiciones de Trabajo
+CAPITULO I
+Disposiciones generales
 
 20 de 331
 
@@ -1386,8 +1387,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-CAPITULO I
-Disposiciones generales
 Artículo 56. Las condiciones de trabajo basadas en el principio de igualdad sustantiva entre mujeres y
 hombres en ningún caso podrán ser inferiores a las fijadas en esta Ley y deberán ser proporcionales a la
 importancia de los servicios e iguales para trabajos iguales, sin que puedan establecerse diferencias y/o
@@ -1428,6 +1427,8 @@ reputará jornada nocturna.
 Artículo 61.- La duración máxima de la jornada será: ocho horas la diurna, siete la nocturna y siete
 horas y media la mixta.
 Artículo 62.- Para fijar la jornada de trabajo se observará lo dispuesto en el artículo 5o., fracción III.
+Artículo 63.- Durante la jornada continua de trabajo se concederá al trabajador un descanso de media
+hora, por lo menos.
 
 21 de 331
 
@@ -1439,8 +1440,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 63.- Durante la jornada continua de trabajo se concederá al trabajador un descanso de media
-hora, por lo menos.
 Artículo 64.- Cuando el trabajador no pueda salir del lugar donde presta sus servicios durante las
 horas de reposo o de comidas, el tiempo correspondiente le será computado como tiempo efectivo de la
 jornada de trabajo.
@@ -1476,6 +1475,10 @@ salario de los días en que hubiese trabajado o sobre el que hubiese percibido d
 Artículo 73.- Los trabajadores no están obligados a prestar servicios en sus días de descanso. Si se
 quebranta esta disposición, el patrón pagará al trabajador, independientemente del salario que le
 corresponda por el descanso, un salario doble por el servicio prestado.
+Artículo 74. Son días de descanso obligatorio:
+I.
+
+El 1o. de enero;
 
 22 de 331
 
@@ -1486,11 +1489,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Artículo 74. Son días de descanso obligatorio:
-I.
-
-El 1o. de enero;
 
 II.
 
@@ -1552,6 +1550,10 @@ requiera.
 Artículo reformado DOF 27-12-2022
 
 Artículo 79.- Las vacaciones no podrán compensarse con una remuneración.
+Si la relación de trabajo termina antes de que se cumpla el año de servicios, el trabajador tendrá
+derecho a una remuneración proporcionada al tiempo de servicios prestados.
+Artículo 80.- Los trabajadores tendrán derecho a una prima no menor de veinticinco por ciento sobre
+los salarios que les correspondan durante el período de vacaciones.
 
 23 de 331
 
@@ -1563,10 +1565,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Si la relación de trabajo termina antes de que se cumpla el año de servicios, el trabajador tendrá
-derecho a una remuneración proporcionada al tiempo de servicios prestados.
-Artículo 80.- Los trabajadores tendrán derecho a una prima no menor de veinticinco por ciento sobre
-los salarios que les correspondan durante el período de vacaciones.
 Artículo 81.- Las vacaciones deberán concederse a los trabajadores dentro de los seis meses
 siguientes al cumplimiento del año de servicios. Los patrones entregarán anualmente a sus trabajadores
 una constancia que contenga su antigüedad y de acuerdo con ella el período de vacaciones que les
@@ -1605,6 +1603,10 @@ día veinte de diciembre, equivalente a quince días de salario, por lo menos.
 Los que no hayan cumplido el año de servicios, independientemente de que se encuentren laborando
 o no en la fecha de liquidación del aguinaldo, tendrán derecho a que se les pague la parte proporcional
 del mismo, conforme al tiempo que hubieren trabajado, cualquiera que fuere éste.
+Párrafo reformado DOF 31-12-1975
+
+Artículo 88.- Los plazos para el pago del salario nunca podrán ser mayores de una semana para las
+personas que desempeñan un trabajo material y de quince días para los demás trabajadores.
 
 24 de 331
 
@@ -1616,10 +1618,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Párrafo reformado DOF 31-12-1975
-
-Artículo 88.- Los plazos para el pago del salario nunca podrán ser mayores de una semana para las
-personas que desempeñan un trabajo material y de quince días para los demás trabajadores.
 Artículo 89.- Para determinar el monto de las indemnizaciones que deban pagarse a los trabajadores
 se tomará como base el salario correspondiente al día en que nazca el derecho a la indemnización,
 incluyendo en él la cuota diaria y la parte proporcional de las prestaciones mencionadas en el artículo 84.
@@ -1664,6 +1662,10 @@ de los trabajadores, de los patrones y del gobierno, la cual podrá auxiliarse d
 de carácter consultivo que considere indispensables para el mejor desempeño de sus funciones.
 Artículo reformado DOF 21-01-1988
 
+Artículo 95.- La Comisión Nacional de los Salarios Mínimos y las Comisiones Consultivas se
+integrarán en forma tripartita, de acuerdo a lo establecido por el Capítulo II del Título Trece de esta Ley.
+Artículo reformado DOF 24-12-1974, 21-01-1988
+
 25 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -1673,10 +1675,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Artículo 95.- La Comisión Nacional de los Salarios Mínimos y las Comisiones Consultivas se
-integrarán en forma tripartita, de acuerdo a lo establecido por el Capítulo II del Título Trece de esta Ley.
-Artículo reformado DOF 24-12-1974, 21-01-1988
 
 Artículo 96.- La Comisión Nacional determinará la división de la República en áreas geográficas, las
 que estarán constituidas por uno o más municipios en los que deba regir un mismo salario mínimo
@@ -1730,6 +1728,9 @@ imposibilitado para efectuar personalmente el cobro, el pago se hará a la perso
 apoderado mediante carta poder suscrita por dos testigos.
 El pago hecho en contravención a lo dispuesto en el párrafo anterior no libera de responsabilidad al
 patrón.
+Artículo 101.- El salario en efectivo deberá pagarse precisamente en moneda de curso legal, no
+siendo permitido hacerlo en mercancías, vales, fichas o cualquier otro signo representativo con que se
+pretenda substituir la moneda.
 
 26 de 331
 
@@ -1741,9 +1742,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 101.- El salario en efectivo deberá pagarse precisamente en moneda de curso legal, no
-siendo permitido hacerlo en mercancías, vales, fichas o cualquier otro signo representativo con que se
-pretenda substituir la moneda.
 Previo consentimiento del trabajador, el pago del salario podrá efectuarse por medio de depósito en
 cuenta bancaria, tarjeta de débito, transferencias o cualquier otro medio electrónico. Los gastos o costos
 que originen estos medios alternativos de pago serán cubiertos por el patrón.
@@ -1803,6 +1801,9 @@ Artículo adicionado DOF 09-01-1974. Reformado DOF 02-07-1976, 30-11-2012
 
 Artículo 104.- Es nula la cesión de los salarios en favor del patrón o de terceras personas, cualquiera
 que sea la denominación o forma que se le dé.
+Artículo 105.- El salario de los trabajadores no será objeto de compensación alguna.
+Artículo 106.- La obligación del patrón de pagar el salario no se suspende, salvo en los casos y con
+los requisitos establecidos en esta Ley.
 
 27 de 331
 
@@ -1814,9 +1815,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 105.- El salario de los trabajadores no será objeto de compensación alguna.
-Artículo 106.- La obligación del patrón de pagar el salario no se suspende, salvo en los casos y con
-los requisitos establecidos en esta Ley.
 Artículo 107.- Está prohibida la imposición de multas a los trabajadores, cualquiera que sea su causa
 o concepto.
 Artículo 108.- El pago del salario se efectuará en el lugar donde los trabajadores presten sus
@@ -1873,6 +1871,9 @@ Fracción reformada DOF 30-11-2012
 VI.
 
 Pago de las cuotas sindicales ordinarias previstas en los estatutos de los sindicatos.
+El trabajador podrá manifestar por escrito su voluntad de que no se le aplique la cuota sindical,
+en cuyo caso el patrón no podrá descontarla;
+Fracción reformada DOF 01-05-2019
 
 28 de 331
 
@@ -1883,10 +1884,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-El trabajador podrá manifestar por escrito su voluntad de que no se le aplique la cuota sindical,
-en cuyo caso el patrón no podrá descontarla;
-Fracción reformada DOF 01-05-2019
 
 VII.
 
@@ -1929,6 +1926,10 @@ practicará las investigaciones y realizará los estudios necesarios y apropiado
 condiciones generales de la economía nacional y tomará en consideración la necesidad de fomentar el
 desarrollo industrial del país, el derecho del capital a obtener un interés razonable y la necesaria
 reinversión de capitales.
+Artículo 119.- La Comisión Nacional podrá revisar el porcentaje que hubiese fijado, de conformidad
+con lo dispuesto en el artículo 587 y siguientes.
+Artículo 120.- El Porcentaje fijado por la Comisión constituye la participación que corresponderá a los
+trabajadores en las utilidades de cada empresa.
 
 29 de 331
 
@@ -1940,10 +1941,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 119.- La Comisión Nacional podrá revisar el porcentaje que hubiese fijado, de conformidad
-con lo dispuesto en el artículo 587 y siguientes.
-Artículo 120.- El Porcentaje fijado por la Comisión constituye la participación que corresponderá a los
-trabajadores en las utilidades de cada empresa.
 Para los efectos de esta Ley, se considera utilidad en cada empresa la renta gravable, de conformidad
 con las normas de la Ley del Impuesto sobre la Renta.
 Artículo 121.- El derecho de los trabajadores para formular objeciones a la declaración que presente
@@ -1990,6 +1987,12 @@ haber mediado objeción de los trabajadores o haber sido ésta resuelta, el repa
 de los sesenta días siguientes a la fecha en que se notifique la resolución. Sólo en el caso de que ésta
 fuera impugnada por el patrón, se suspenderá el pago del reparto adicional hasta que la resolución quede
 firme, garantizándose el interés de los trabajadores.
+El importe de las utilidades no reclamadas en el año en que sean exigibles, se agregará a la utilidad
+repartible del año siguiente.
+Artículo reformado DOF 02-07-1976
+
+Artículo 123.- La utilidad repartible se dividirá en dos partes iguales: la primera se repartirá por igual
+entre todos los trabajadores, tomando en consideración el número de días trabajados por cada uno en el
 
 30 de 331
 
@@ -2001,12 +2004,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-El importe de las utilidades no reclamadas en el año en que sean exigibles, se agregará a la utilidad
-repartible del año siguiente.
-Artículo reformado DOF 02-07-1976
-
-Artículo 123.- La utilidad repartible se dividirá en dos partes iguales: la primera se repartirá por igual
-entre todos los trabajadores, tomando en consideración el número de días trabajados por cada uno en el
 año, independientemente del monto de los salarios. La segunda se repartirá en proporción al monto de
 los salarios devengados por el trabajo prestado durante el año.
 Artículo 124.- Para los efectos de este capítulo, se entiende por salario la cantidad que perciba cada
@@ -2069,6 +2066,12 @@ VI.
 
 Las empresas que tengan un capital menor del que fije la Secretaría del Trabajo y Previsión
 Social por ramas de la industria, previa consulta con la Secretaría de Economía. La resolución
+podrá revisarse total o parcialmente, cuando existan circunstancias económicas importantes
+que lo justifiquen.
+Fracción reformada DOF 09-04-2012
+
+Artículo 127.- El derecho de los trabajadores a participar en el reparto de utilidades, reconocido en la
+Constitución Política de los Estados Unidos Mexicanos, se ajustará a las normas siguientes:
 
 31 de 331
 
@@ -2080,12 +2083,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-podrá revisarse total o parcialmente, cuando existan circunstancias económicas importantes
-que lo justifiquen.
-Fracción reformada DOF 09-04-2012
-
-Artículo 127.- El derecho de los trabajadores a participar en el reparto de utilidades, reconocido en la
-Constitución Política de los Estados Unidos Mexicanos, se ajustará a las normas siguientes:
 Párrafo reformado DOF 23-04-2021
 
 I.
@@ -2146,6 +2143,11 @@ Artículo 129.- La participación en las utilidades a que se refiere este capít
 parte del salario, para los efectos de las indemnizaciones que deban pagarse a los trabajadores.
 Artículo 130.- Las cantidades que correspondan a los trabajadores por concepto de utilidades quedan
 protegidas por las normas contenidas en los artículos 98 y siguientes.
+Artículo 131.- El derecho de los trabajadores a participar en las utilidades no implica la facultad de
+intervenir en la dirección o administración de las empresas.
+
+TITULO CUARTO
+Derechos y Obligaciones de los Trabajadores y de los Patrones
 
 32 de 331
 
@@ -2157,11 +2159,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 131.- El derecho de los trabajadores a participar en las utilidades no implica la facultad de
-intervenir en la dirección o administración de las empresas.
-
-TITULO CUARTO
-Derechos y Obligaciones de los Trabajadores y de los Patrones
 CAPITULO I
 Obligaciones de los patrones
 Artículo 132.- Son obligaciones de los patrones:
@@ -2226,6 +2223,12 @@ X.-
 Permitir a los trabajadores faltar a su trabajo para desempeñar una comisión accidental o
 permanente de su sindicato o del Estado, siempre que avisen con la oportunidad debida y
 que el número de trabajadores comisionados no sea tal que perjudique la buena marcha del
+establecimiento. El tiempo perdido podrá descontarse al trabajador a no ser que lo
+compense con un tiempo igual de trabajo efectivo. Cuando la comisión sea de carácter
+permanente, el trabajador o trabajadores podrán volver al puesto que ocupaban,
+conservando todos sus derechos, siempre y cuando regresen a su trabajo dentro del término
+de seis años. Los substitutos tendrán el carácter de interinos, considerándolos como de
+planta después de seis años;
 
 33 de 331
 
@@ -2237,12 +2240,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-establecimiento. El tiempo perdido podrá descontarse al trabajador a no ser que lo
-compense con un tiempo igual de trabajo efectivo. Cuando la comisión sea de carácter
-permanente, el trabajador o trabajadores podrán volver al puesto que ocupaban,
-conservando todos sus derechos, siempre y cuando regresen a su trabajo dentro del término
-de seis años. Los substitutos tendrán el carácter de interinos, considerándolos como de
-planta después de seis años;
 XI.-
 
 Poner en conocimiento del sindicato titular del contrato colectivo y de los trabajadores de la
@@ -2304,6 +2301,15 @@ XVIII.
 Fijar visiblemente y difundir en los lugares donde se preste el trabajo, las disposiciones
 conducentes de los reglamentos y las normas oficiales mexicanas en materia de seguridad,
 salud y medio ambiente de trabajo, así como el texto íntegro del o los contratos colectivos de
+trabajo que rijan en la empresa; asimismo, se deberá difundir a los trabajadores la
+información sobre los riesgos y peligros a los que están expuestos;
+Fracción reformada DOF 28-04-1978, 30-11-2012
+
+XIX.-
+
+Proporcionar a sus trabajadores los medicamentos profilácticos que determine la autoridad
+sanitaria en los lugares donde existan enfermedades tropicales o endémicas, o cuando
+exista peligro de epidemia;
 
 34 de 331
 
@@ -2314,16 +2320,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-trabajo que rijan en la empresa; asimismo, se deberá difundir a los trabajadores la
-información sobre los riesgos y peligros a los que están expuestos;
-Fracción reformada DOF 28-04-1978, 30-11-2012
-
-XIX.-
-
-Proporcionar a sus trabajadores los medicamentos profilácticos que determine la autoridad
-sanitaria en los lugares donde existan enfermedades tropicales o endémicas, o cuando
-exista peligro de epidemia;
 
 XIX Bis. Cumplir con las disposiciones que en caso de emergencia sanitaria fije la autoridad
 competente, así como proporcionar a sus trabajadores los elementos que señale dicha
@@ -2386,16 +2382,6 @@ Trabajadores, a efecto de que los trabajadores puedan ser sujetos del crédito q
 proporciona dicha entidad. La afiliación será gratuita para el patrón;
 Fracción adicionada DOF 30-11-2012
 
-35 de 331
-
-LEY FEDERAL DEL TRABAJO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 27-12-2022
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XXVII.-
 
 Proporcionar a las mujeres embarazadas la protección que establezcan los reglamentos.
@@ -2405,6 +2391,16 @@ XXVII Bis. Otorgar permiso de paternidad de cinco días laborables con goce de s
 trabajadores, por el nacimiento de sus hijos y de igual manera en el caso de la adopción de
 un infante;
 Fracción adicionada DOF 30-11-2012. Reformada DOF 22-06-2018
+
+35 de 331
+
+LEY FEDERAL DEL TRABAJO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 27-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 XXVIII.- Participar en la integración y funcionamiento de las Comisiones que deban formarse en cada
 centro de trabajo, de acuerdo con lo establecido por esta Ley, y
@@ -2465,16 +2461,6 @@ II.-
 
 Exigir que los trabajadores compren sus artículos de consumo en tienda o lugar determinado;
 
-36 de 331
-
-LEY FEDERAL DEL TRABAJO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 27-12-2022
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 III.-
 
 Exigir o aceptar dinero de los trabajadores como gratificación porque se les admita en el trabajo
@@ -2487,6 +2473,16 @@ sindicato o agrupación a que pertenezcan, o a que voten por determinada candida
 como cualquier acto u omisión que atente contra su derecho a decidir quién debe
 representarlos en la negociación colectiva;
 Fracción reformada DOF 01-05-2019
+
+36 de 331
+
+LEY FEDERAL DEL TRABAJO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 27-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 V.
 
@@ -2551,6 +2547,14 @@ trabajadores, y
 Fracción adicionada DOF 01-05-2019
 
 XVIII. Las demás que establezca esta Ley.
+Fracción adicionada DOF 01-05-2019
+
+CAPITULO II
+Obligaciones de los trabajadores
+Artículo 134.- Son obligaciones de los trabajadores:
+I.-
+
+Cumplir las disposiciones de las normas de trabajo que les sean aplicables;
 
 37 de 331
 
@@ -2561,15 +2565,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Fracción adicionada DOF 01-05-2019
-
-CAPITULO II
-Obligaciones de los trabajadores
-Artículo 134.- Son obligaciones de los trabajadores:
-I.-
-
-Cumplir las disposiciones de las normas de trabajo que les sean aplicables;
 
 II.
 
@@ -2634,17 +2629,6 @@ razón del trabajo que desempeñen, así como de los asuntos administrativos res
 divulgación pueda causar perjuicios a la empresa.
 
 Artículo 135.- Queda prohibido a los trabajadores:
-
-38 de 331
-
-LEY FEDERAL DEL TRABAJO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 27-12-2022
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 I.
 
 Ejecutar cualquier acto que pueda poner en peligro su propia seguridad, la de sus compañeros
@@ -2662,6 +2646,16 @@ Substraer de la empresa o establecimiento útiles de trabajo o materia prima o e
 IV.
 
 Presentarse al trabajo en estado de embriaguez;
+
+38 de 331
+
+LEY FEDERAL DEL TRABAJO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 27-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 V.
 
@@ -2718,16 +2712,6 @@ integrado en forma tripartita por representantes del Gobierno Federal, de los tr
 patrones.
 Artículo reformado DOF 24-04-1972
 
-39 de 331
-
-LEY FEDERAL DEL TRABAJO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 27-12-2022
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 139.- La ley que cree dicho organismo regulará los procedimientos y formas conforme a los
 cuales los trabajadores podrán adquirir en propiedad habitaciones y obtener los créditos a que se refiere
 el artículo 137.
@@ -2737,6 +2721,16 @@ Artículo 140.- El organismo a que se refieren los artículos 138 y 139, tendrá
 coordinación y el financiamiento de los programas de construcción de casas habitación destinadas a ser
 adquiridas en propiedad por los trabajadores.
 Artículo reformado DOF 24-04-1972
+
+39 de 331
+
+LEY FEDERAL DEL TRABAJO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 27-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 Artículo 141.- Las aportaciones al Fondo Nacional de la Vivienda son gastos de previsión social de
 las empresas y se aplicarán en su totalidad a constituir depósitos en favor de los trabajadores que se
@@ -2777,17 +2771,6 @@ con los pagos hechos en efectivo por cuota diaria, y las gratificaciones, percep
 habitación, primas, comisiones, prestaciones en especie y cualquier otra cantidad o prestación que se
 entregue al trabajador por sus servicios; no se tomarán en cuenta dada su naturaleza, los siguientes
 conceptos:
-
-40 de 331
-
-LEY FEDERAL DEL TRABAJO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 27-12-2022
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 a)
 
 Los instrumentos de trabajo, tales como herramientas, ropa y otros similares;
@@ -2802,6 +2785,16 @@ c)
 
 Las aportaciones al Instituto de Fondo Nacional de la Vivienda para los Trabajadores y las
 participaciones en las utilidades de las empresas;
+
+40 de 331
+
+LEY FEDERAL DEL TRABAJO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 27-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 d)
 
@@ -2854,16 +2847,6 @@ I.
 
 Los deportistas profesionales y
 
-41 de 331
-
-LEY FEDERAL DEL TRABAJO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 27-12-2022
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 II.
 
 Los trabajadores a domicilio.
@@ -2874,6 +2857,16 @@ empresas que tengan un capital o un ingreso inferior a los mínimos que el propi
 Estas resoluciones podrán revisarse total o parcialmente cuando a su juicio existan circunstancias que lo
 justifiquen.
 Artículo reformado DOF 24-04-1972
+
+41 de 331
+
+LEY FEDERAL DEL TRABAJO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 27-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 Artículo 149.- El organismo que se cree para administrar los recursos del Fondo Nacional de la
 Vivienda, determinará las sumas que se asignarán al financiamiento de programas de casas habitación
@@ -2933,16 +2926,6 @@ b).
 Subarrendar las habitaciones.
 Artículo reformado DOF 24-04-1972
 
-42 de 331
-
-LEY FEDERAL DEL TRABAJO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 27-12-2022
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 152.- Los trabajadores tendrán derecho a ejercitar ante el Tribunal las acciones individuales y
 colectivas que deriven del incumplimiento de las obligaciones impuestas en este capítulo.
 Artículo reformado DOF 01-05-2019
@@ -2953,6 +2936,17 @@ capítulo.
 Artículo reformado DOF 01-05-2019
 
 Capítulo III BIS
+
+42 de 331
+
+LEY FEDERAL DEL TRABAJO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 27-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 De la Productividad, Formación y Capacitación de los Trabajadores
 Capítulo adicionado DOF 28-04-1978. Denominación reformada DOF 30-11-2012
 
@@ -2991,16 +2985,6 @@ Actualizar y perfeccionar los conocimientos y habilidades de los trabajadores y 
 información para que puedan aplicar en sus actividades las nuevas tecnologías que los
 empresarios deben implementar para incrementar la productividad en las empresas;
 
-43 de 331
-
-LEY FEDERAL DEL TRABAJO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 27-12-2022
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 II.
 
 Hacer del conocimiento de los trabajadores sobre los riesgos y peligros a que están expuestos
@@ -3017,6 +3001,16 @@ IV.
 En general mejorar el nivel educativo, la competencia laboral y las habilidades de los
 trabajadores.
 Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012
+
+43 de 331
+
+LEY FEDERAL DEL TRABAJO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 27-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 Artículo 153-D. Los trabajadores a quienes se imparta capacitación o adiestramiento están obligados
 a:
@@ -3075,16 +3069,6 @@ sector, entidad federativa o región a los micro y pequeños empresarios, a los 
 que laboran en dichas empresas.
 Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012
 
-44 de 331
-
-LEY FEDERAL DEL TRABAJO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 27-12-2022
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 153-F. Las autoridades laborales cuidarán que las Comisiones Mixtas de Capacitación,
 Adiestramiento y Productividad se integren y funcionen oportuna y normalmente, vigilando el
 cumplimiento de sus obligaciones.
@@ -3095,6 +3079,16 @@ Previsión Social y la Secretaría de Economía, los planes y programas de capac
 productividad que se haya acordado establecer, o en su caso, las modificaciones que se hayan
 convenido acerca de planes y programas ya implantados.
 Artículo adicionado DOF 30-11-2012
+
+44 de 331
+
+LEY FEDERAL DEL TRABAJO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 27-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 Artículo 153-G. El registro de que trata el tercer párrafo del artículo 153-A se otorgará a las personas
 o instituciones que satisfagan los siguientes requisitos:
@@ -3150,6 +3144,16 @@ Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012
 
 Artículo 153-I. Se entiende por productividad, para efectos de esta Ley, el resultado de optimizar los
 factores humanos, materiales, financieros, tecnológicos y organizacionales que concurren en la empresa,
+en la rama o en el sector para la elaboración de bienes o la prestación de servicios, con el fin de
+promover a nivel sectorial, estatal, regional, nacional e internacional, y acorde con el mercado al que
+tiene acceso, su competitividad y sustentabilidad, mejorar su capacidad, su tecnología y su organización,
+e incrementar los ingresos, el bienestar de los trabajadores y distribuir equitativamente sus beneficios.
+Al establecimiento de los acuerdos y sistemas para medir e incrementar la productividad, concurrirán
+los patrones, trabajadores, sindicatos, gobiernos y academia.
+Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012
+
+Artículo 153-J. Para elevar la productividad en las empresas, incluidas las micro y pequeñas
+empresas, se elaborarán programas que tendrán por objeto:
 
 45 de 331
 
@@ -3161,16 +3165,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-en la rama o en el sector para la elaboración de bienes o la prestación de servicios, con el fin de
-promover a nivel sectorial, estatal, regional, nacional e internacional, y acorde con el mercado al que
-tiene acceso, su competitividad y sustentabilidad, mejorar su capacidad, su tecnología y su organización,
-e incrementar los ingresos, el bienestar de los trabajadores y distribuir equitativamente sus beneficios.
-Al establecimiento de los acuerdos y sistemas para medir e incrementar la productividad, concurrirán
-los patrones, trabajadores, sindicatos, gobiernos y academia.
-Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012
-
-Artículo 153-J. Para elevar la productividad en las empresas, incluidas las micro y pequeñas
-empresas, se elaborarán programas que tendrán por objeto:
 I.
 
 Hacer un diagnóstico objetivo de la situación de las empresas en materia de productividad;
@@ -3232,16 +3226,6 @@ El Comité Nacional de Concertación y Productividad se reunirá por lo menos ca
 las facultades que enseguida se enumeran:
 Párrafo reformado DOF 01-05-2019
 
-46 de 331
-
-LEY FEDERAL DEL TRABAJO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 27-12-2022
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 I.
 
 Realizar el diagnóstico nacional e internacional de los requerimientos necesarios para elevar la
@@ -3256,9 +3240,19 @@ II.
 
 Colaborar en la elaboración y actualización permanente del Catálogo Nacional de Ocupaciones
 y en los estudios sobre las características de la tecnología, maquinaria y equipo en existencia y
+
+46 de 331
+
+LEY FEDERAL DEL TRABAJO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 27-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 uso, así como de las competencias laborales requeridas en las actividades correspondientes a
 las ramas industriales o de servicios;
-
 III.
 
 Sugerir alternativas tecnológicas y de organización del trabajo para elevar la productividad en
@@ -3320,16 +3314,6 @@ sugerir cursos de acción que brinden mayor certeza, transparencia y confiabilid
 actuaciones de la autoridad registral en materia de acreditación de representatividad sindical;
 Fracción adicionada DOF 01-05-2019
 
-47 de 331
-
-LEY FEDERAL DEL TRABAJO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 27-12-2022
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XIV. Realizar diagnósticos respecto de los procedimientos de legitimación y depósito de contratos
 colectivos de trabajo y su impacto en la productividad de las empresas; asimismo, emitir
 propuestas para promover la negociación colectiva;
@@ -3342,6 +3326,16 @@ Fracción adicionada DOF 01-05-2019
 
 XVI. Las demás que se establezcan en esta y otras disposiciones normativas.
 Fracción recorrida DOF 01-05-2019
+
+47 de 331
+
+LEY FEDERAL DEL TRABAJO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 27-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 Las recomendaciones que emita el Comité serán tomadas en cuenta en el diseño de las políticas
 públicas, en el ámbito que corresponda, y serán dadas a conocer públicamente.
@@ -3384,16 +3378,6 @@ Artículo adicionado DOF 28-04-1978. Reformado DOF 30-12-1983, 30-11-2012, 01-05
 Artículo 153-R. (Se deroga).
 Artículo adicionado DOF 28-04-1978. Derogado DOF 30-11-2012
 
-48 de 331
-
-LEY FEDERAL DEL TRABAJO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 27-12-2022
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 153-S. Cuando el patrón no dé cumplimiento a la obligación de conservar a disposición de la
 Secretaría del Trabajo y Previsión Social los planes y programas de capacitación y adiestramiento, en los
 términos del artículo 153-N, o cuando dichos planes y programas no se lleven a la práctica, será
@@ -3405,6 +3389,17 @@ Artículo adicionado DOF 28-04-1978. Reformado DOF 30-11-2012
 Artículo 153-T.- Los trabajadores que hayan sido aprobados en los exámenes de capacitación y
 adiestramiento en los términos de este Capítulo, tendrán derecho a que la entidad instructora les expida
 las constancias respectivas, mismas que, autentificadas por la Comisión Mixta de Capacitación y
+
+48 de 331
+
+LEY FEDERAL DEL TRABAJO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 27-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Adiestramiento de la Empresa, se harán del conocimiento de la Secretaría del Trabajo y Previsión Social,
 por conducto del correspondiente Comité Nacional o, a falta de éste, a través de las autoridades del
 trabajo a fin de que la propia Secretaría las registre y las tome en cuenta al formular el padrón de
@@ -3447,6 +3442,13 @@ Artículo adicionado DOF 28-04-1978. Reformado DOF 01-05-2019
 
 CAPITULO IV
 Derechos de preferencia, antigüedad y ascenso
+Artículo 154. Los patrones estarán obligados a preferir, en igualdad de circunstancias, a los
+trabajadores mexicanos respecto de quienes no lo sean, a quienes les hayan servido satisfactoriamente
+por mayor tiempo, a quienes no teniendo ninguna otra fuente de ingreso económico tengan a su cargo
+una familia, a los que hayan terminado su educación básica obligatoria, a los capacitados respecto de los
+que no lo sean, a los que tengan mayor aptitud y conocimientos para realizar un trabajo y a los
+sindicalizados respecto de quienes no lo estén.
+Párrafo reformado DOF 30-11-2012
 
 49 de 331
 
@@ -3457,14 +3459,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Artículo 154. Los patrones estarán obligados a preferir, en igualdad de circunstancias, a los
-trabajadores mexicanos respecto de quienes no lo sean, a quienes les hayan servido satisfactoriamente
-por mayor tiempo, a quienes no teniendo ninguna otra fuente de ingreso económico tengan a su cargo
-una familia, a los que hayan terminado su educación básica obligatoria, a los capacitados respecto de los
-que no lo sean, a los que tengan mayor aptitud y conocimientos para realizar un trabajo y a los
-sindicalizados respecto de quienes no lo estén.
-Párrafo reformado DOF 30-11-2012
 
 Si existe contrato colectivo y éste contiene cláusula de admisión, la preferencia para ocupar las
 vacantes o puestos de nueva creación se regirá por lo que disponga el contrato colectivo y el estatuto
@@ -3510,6 +3504,13 @@ inferior, así como mayor capacitación, con mayor antigüedad, demuestre mayor 
 productividad y sea apto para el puesto.
 Artículo reformado DOF 31-12-1974, 28-04-1978, 30-11-2012
 
+Artículo 160.- Cuando se trate de vacantes menores de treinta días, se estará a lo dispuesto en el
+párrafo primero del artículo anterior.
+Artículo 161.- Cuando la relación de trabajo haya tenido una duración de más de veinte años, el
+patrón sólo podrá rescindirla por alguna de las causas señaladas en el artículo 47, que sea
+particularmente grave o que haga imposible su continuación, pero se le impondrá al trabajador la
+corrección disciplinaria que corresponda, respetando los derechos que deriven de su antigüedad.
+
 50 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -3520,12 +3521,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 160.- Cuando se trate de vacantes menores de treinta días, se estará a lo dispuesto en el
-párrafo primero del artículo anterior.
-Artículo 161.- Cuando la relación de trabajo haya tenido una duración de más de veinte años, el
-patrón sólo podrá rescindirla por alguna de las causas señaladas en el artículo 47, que sea
-particularmente grave o que haga imposible su continuación, pero se le impondrá al trabajador la
-corrección disciplinaria que corresponda, respetando los derechos que deriven de su antigüedad.
 La repetición de la falta o la comisión de otra u otras, que constituyan una causa legal de rescisión,
 deja sin efecto la disposición anterior.
 Artículo 162.- Los trabajadores de planta tienen derecho a una prima de antigüedad, de conformidad
@@ -3583,17 +3578,6 @@ CAPITULO V
 Invenciones de los trabajadores
 Artículo 163.- La atribución de los derechos al nombre y a la propiedad y explotación de las
 invenciones realizadas en la empresa, se regirá por las normas siguientes:
-
-51 de 331
-
-LEY FEDERAL DEL TRABAJO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 27-12-2022
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 I.
 
 El inventor tendrá derecho a que su nombre figure como autor de la invención;
@@ -3606,6 +3590,17 @@ procedimientos utilizados en la empresa, por cuenta de ésta la propiedad de la 
 derecho a la explotación de la patente corresponderán al patrón. El inventor,
 independientemente del salario que hubiese percibido, tendrá derecho a una compensación
 complementaria, que se fijará por convenio de las partes o por el Tribunal cuando la importancia
+
+51 de 331
+
+LEY FEDERAL DEL TRABAJO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 27-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 de la invención y los beneficios que puedan reportar al patrón no guarden proporción con el
 salario percibido por el inventor, y
 Fe de erratas a la fracción DOF 30-04-1970. Reformada DOF 01-05-2019
@@ -3651,6 +3646,12 @@ en su salario, prestaciones y derechos.
 Cuando con motivo de la declaratoria de contingencia sanitaria se ordene la suspensión general de
 labores, a las mujeres en periodos de gestación o de lactancia les será aplicable lo dispuesto por el
 artículo 429, fracción IV de esta Ley.
+Artículo derogado DOF 31-12-1974. Adicionado DOF 30-11-2012
+
+Artículo 169.- (Se deroga).
+Artículo derogado DOF 31-12-1974
+
+Artículo 170.- Las madres trabajadoras tendrán los siguientes derechos:
 
 52 de 331
 
@@ -3662,12 +3663,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo derogado DOF 31-12-1974. Adicionado DOF 30-11-2012
-
-Artículo 169.- (Se deroga).
-Artículo derogado DOF 31-12-1974
-
-Artículo 170.- Las madres trabajadoras tendrán los siguientes derechos:
 I.
 
 Durante el período del embarazo, no realizarán trabajos que exijan esfuerzos considerables y
@@ -3728,6 +3723,12 @@ Artículo 170 Bis.- Los padres o madres de menores diagnosticados con cualquier 
 gozarán de la licencia a que se refiere el artículo 140 Bis de la Ley del Seguro Social, en los términos
 referidos, con la intención de acompañar a los mencionados pacientes en sus correspondientes
 tratamientos médicos.
+Artículo adicionado DOF 04-06-2019
+
+Artículo 171.- Los servicios de guardería infantil se prestarán por el Instituto Mexicano del Seguro
+Social, de conformidad con su Ley y disposiciones reglamentarias.
+Artículo 172.- En los establecimientos en que trabajen mujeres, el patrón debe mantener un número
+suficiente de asientos o sillas a disposición de las madres trabajadoras.
 
 53 de 331
 
@@ -3738,13 +3739,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-Artículo adicionado DOF 04-06-2019
-
-Artículo 171.- Los servicios de guardería infantil se prestarán por el Instituto Mexicano del Seguro
-Social, de conformidad con su Ley y disposiciones reglamentarias.
-Artículo 172.- En los establecimientos en que trabajen mujeres, el patrón debe mantener un número
-suficiente de asientos o sillas a disposición de las madres trabajadoras.
 
 TITULO QUINTO BIS
 Trabajo de los Menores
@@ -3799,6 +3793,15 @@ Artículo reformado DOF 30-11-2012
 
 Artículo 175 Bis. Para los efectos de este capítulo, no se considerará trabajo las actividades que bajo
 la supervisión, el cuidado y la responsabilidad de los padres, tutores o quienes ejerzan la patria potestad,
+realicen los menores de quince años relacionadas con la creación artística, el desarrollo científico,
+deportivo o de talento, la ejecución musical o la interpretación artística en cualquiera de sus
+manifestaciones, cuando se sujeten a las siguientes reglas:
+Párrafo reformado DOF 12-06-2015
+
+a)
+
+La relación establecida con el solicitante deberá constar por escrito y contendrá el consentimiento
+expreso que en nombre del menor manifiesten los padres, tutores o quienes ejerzan la patria
 
 54 de 331
 
@@ -3810,19 +3813,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-realicen los menores de quince años relacionadas con la creación artística, el desarrollo científico,
-deportivo o de talento, la ejecución musical o la interpretación artística en cualquiera de sus
-manifestaciones, cuando se sujeten a las siguientes reglas:
-Párrafo reformado DOF 12-06-2015
-
-a)
-
-La relación establecida con el solicitante deberá constar por escrito y contendrá el consentimiento
-expreso que en nombre del menor manifiesten los padres, tutores o quienes ejerzan la patria
 potestad, así como la incorporación del compromiso que asuma el solicitante de respetar a favor
 del mismo menor los derechos que la Constitución, los convenios internacionales y las leyes
 federales y locales reconozcan a favor de la niñez;
-
 b)
 
 Las actividades que realice el menor no podrán interferir con su educación, esparcimiento y
@@ -3894,6 +3887,13 @@ deshidratación, golpe de calor, hipotermia o congelación.
 
 En vialidades con amplio volumen de tránsito vehicular (vías primarias).
 
+8.
+
+Agrícolas, forestales, de aserrado, silvícolas, de caza y pesca, que impliquen el uso de
+químicos, manejo de maquinaria, vehículos pesados, y los que determine la autoridad
+competente;
+Numeral reformado DOF 05-04-2022
+
 55 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -3903,13 +3903,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-8.
-
-Agrícolas, forestales, de aserrado, silvícolas, de caza y pesca, que impliquen el uso de
-químicos, manejo de maquinaria, vehículos pesados, y los que determine la autoridad
-competente;
-Numeral reformado DOF 05-04-2022
 
 9.
 
@@ -3992,6 +3985,11 @@ Las actividades previstas en este artículo, para los menores de dieciocho años
 años de edad, se sujetarán a los términos y condiciones consagrados en la Constitución Política de los
 Estados Unidos Mexicanos, en las leyes y los Tratados Internacionales de los que el Estado Mexicano
 sea parte.
+Artículo reformado DOF 30-11-2012, 12-06-2015
+
+Artículo 177.- La jornada de trabajo de los menores de dieciséis años no podrá exceder de seis horas
+diarias y deberán dividirse en períodos máximos de tres horas. Entre los distintos períodos de la jornada,
+disfrutarán de reposos de una hora por lo menos.
 
 56 de 331
 
@@ -4003,11 +4001,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo reformado DOF 30-11-2012, 12-06-2015
-
-Artículo 177.- La jornada de trabajo de los menores de dieciséis años no podrá exceder de seis horas
-diarias y deberán dividirse en períodos máximos de tres horas. Entre los distintos períodos de la jornada,
-disfrutarán de reposos de una hora por lo menos.
 Artículo 178. Queda prohibida la utilización del trabajo de los menores de dieciocho años, en horas
 extraordinarias y en los días domingos y de descanso obligatorio. En caso de violación de esta
 prohibición, las horas extraordinarias se pagarán con un doscientos por ciento más del salario que
@@ -4061,6 +4054,11 @@ esta Ley en cuanto no las contraríen.
 
 CAPITULO II
 Trabajadores de confianza
+Artículo 182.- Las condiciones de trabajo de los trabajadores de confianza serán proporcionadas a la
+naturaleza e importancia de los servicios que presten y no podrán ser inferiores a las que rijan para
+trabajos semejantes dentro de la empresa o establecimiento.
+Artículo 183.- Los trabajadores de confianza no podrán formar parte de los sindicatos de los demás
+trabajadores, ni serán tomados en consideración en los recuentos que se efectúen para determinar la
 
 57 de 331
 
@@ -4072,11 +4070,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 182.- Las condiciones de trabajo de los trabajadores de confianza serán proporcionadas a la
-naturaleza e importancia de los servicios que presten y no podrán ser inferiores a las que rijan para
-trabajos semejantes dentro de la empresa o establecimiento.
-Artículo 183.- Los trabajadores de confianza no podrán formar parte de los sindicatos de los demás
-trabajadores, ni serán tomados en consideración en los recuentos que se efectúen para determinar la
 mayoría en los casos de huelga, ni podrán ser representantes de los trabajadores en los organismos que
 se integren de conformidad con las disposiciones de esta Ley.
 Dichos trabajadores de confianza tampoco podrán participar en las pruebas de recuento dentro de los
@@ -4117,6 +4110,10 @@ Artículo 191. Queda prohibido el trabajo a que se refiere este capítulo a los 
 años y el de los menores de dieciocho en calidad de pañoleros o fogoneros.
 Artículo reformado DOF 12-06-2015
 
+Artículo 192.- No se considera relación de trabajo el convenio que celebre a bordo el capitán de un
+buque con personas que se hayan introducido a él y que tengan por objeto devengar, con servicios
+personales, el importe del pasaje, salvo lo dispuesto en el artículo siguiente.
+
 58 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -4127,9 +4124,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 192.- No se considera relación de trabajo el convenio que celebre a bordo el capitán de un
-buque con personas que se hayan introducido a él y que tengan por objeto devengar, con servicios
-personales, el importe del pasaje, salvo lo dispuesto en el artículo siguiente.
 Tampoco se considerará relación de trabajo el convenio celebrado en los términos del párrafo
 anterior, con los mexicanos que deban repatriarse, a solicitud del Cónsul respectivo.
 Artículo 193.- Las personas que presten sus servicios a bordo exclusivamente por el tiempo en que el
@@ -4195,6 +4189,10 @@ trabajador hasta concluir la descarga del buque o el desembarque de pasajeros en
 convenga.
 Si es por tiempo determinado o indeterminado se fijará el puerto al que deba ser restituido el
 trabajador, y a falta de ello, se tendrá por señalado el del lugar donde se le tomó.
+Artículo 197.- Para la prestación de servicios de trabajadores mexicanos en buques extranjeros se
+observará lo dispuesto en el artículo 28.
+Artículo 198.- Cuando el buque se encuentre en el mar y la naturaleza del trabajo no permita el
+descanso semanal, se aplicará lo dispuesto en el artículo 73.
 
 59 de 331
 
@@ -4206,10 +4204,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 197.- Para la prestación de servicios de trabajadores mexicanos en buques extranjeros se
-observará lo dispuesto en el artículo 28.
-Artículo 198.- Cuando el buque se encuentre en el mar y la naturaleza del trabajo no permita el
-descanso semanal, se aplicará lo dispuesto en el artículo 73.
 Artículo 199.- Los trabajadores tienen derecho a un período mínimo de doce días laborables de
 vacaciones anuales pagadas, que se aumentará en dos días laborables, hasta llegar a veinticuatro, por
 cada año subsecuente de servicios. Con posterioridad se aumentará el período de vacaciones en dos
@@ -4258,16 +4252,6 @@ populares y los procesos de revocación de mandato, siempre que la seguridad del
 permita y no se entorpezca su salida en la fecha y hora fijadas;
 Fracción reformada DOF 28-04-2022
 
-60 de 331
-
-LEY FEDERAL DEL TRABAJO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 27-12-2022
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 VI.
 
 Permitir a los trabajadores que falten a sus labores para desempeñar comisiones del Estado o
@@ -4277,6 +4261,16 @@ VII.
 
 Proporcionar la alimentación y alojamiento, tratamiento médico y medicamentos y otros medios
 terapéuticos, en los casos de enfermedades, cualquiera que sea su naturaleza;
+
+60 de 331
+
+LEY FEDERAL DEL TRABAJO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 27-12-2022
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 VIII.
 
@@ -4335,6 +4329,16 @@ V.
 La cancelación o la revocación definitiva de los certificados de aptitud o de las libretas de mar
 exigidos por las leyes y reglamentos;
 
+VI.
+
+La violación de las leyes en materia de importación o exportación de mercancías en el
+desempeño de sus servicios; y
+
+VII.
+
+La ejecución, en el desempeño del trabajo por parte del trabajador, de cualquier acto o la
+omisión intencional o negligencia que pueda poner en peligro su seguridad o la de los demás
+
 61 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -4345,18 +4349,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-VI.
-
-La violación de las leyes en materia de importación o exportación de mercancías en el
-desempeño de sus servicios; y
-
-VII.
-
-La ejecución, en el desempeño del trabajo por parte del trabajador, de cualquier acto o la
-omisión intencional o negligencia que pueda poner en peligro su seguridad o la de los demás
 trabajadores, de los pasajeros o de terceras personas, o que dañe, perjudique o ponga en
 peligro los bienes del patrón o de terceros.
-
 Artículo 209.- La terminación de las relaciones de trabajo de los trabajadores se sujetará a las
 normas siguientes:
 I.
@@ -4413,6 +4407,9 @@ Artículo 211.- El Reglamento Interior de Trabajo, depositado ante la Autoridad 
 esta Ley, deberá registrarse en la Capitanía de Puerto.
 Párrafo reformado DOF 01-05-2019
 
+Las violaciones al reglamento se denunciarán al Inspector del Trabajo, quien, previa averiguación, las
+pondrá en conocimiento de la autoridad del trabajo, juntamente con la opinión del Capitán de Puerto.
+
 62 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -4423,8 +4420,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Las violaciones al reglamento se denunciarán al Inspector del Trabajo, quien, previa averiguación, las
-pondrá en conocimiento de la autoridad del trabajo, juntamente con la opinión del Capitán de Puerto.
 Artículo 212.- Corresponde a la Inspección del Trabajo vigilar el cumplimiento de las leyes y demás
 normas de trabajo, atendiendo a las leyes y disposiciones sobre comunicaciones por agua, cuando los
 buques estén en puerto.
@@ -4484,6 +4479,10 @@ III.
 
 El navegante; y
 
+IV.
+
+Los sobrecargos.
+
 63 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -4493,10 +4492,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-IV.
-
-Los sobrecargos.
 
 Artículo 219.- Serán considerados representantes del patrón, por la naturaleza de las funciones que
 desempeñan, los gerentes de operación o superintendentes de vuelos, jefes de adiestramiento, jefes de
@@ -4540,6 +4535,9 @@ tres horas. Si requiere mayor tiempo, serán relevados o suspenderán el vuelo e
 próximo del trayecto.
 Fe de erratas al artículo DOF 30-04-1970
 
+Artículo 229.- Cuando se use equipo a reacción podrá reducirse la duración del tiempo total de
+servicios señalado en este capítulo.
+
 64 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -4550,8 +4548,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 229.- Cuando se use equipo a reacción podrá reducirse la duración del tiempo total de
-servicios señalado en este capítulo.
 Fe de erratas al artículo DOF 05-06-1970
 
 Artículo 230.- Cuando por necesidades del servicio los tripulantes excedan su tiempo total de
@@ -4597,6 +4593,8 @@ b)
 
 Cuando los alimentos no puedan tomarse a bordo, los tripulantes percibirán una
 asignación en efectivo, que se fijará según el número de comidas que deban hacerse en
+cada viaje o en los lugares de pernoctación extraordinaria. El monto de estas
+asignaciones se fijará de común acuerdo;
 
 65 de 331
 
@@ -4608,8 +4606,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-cada viaje o en los lugares de pernoctación extraordinaria. El monto de estas
-asignaciones se fijará de común acuerdo;
 II.
 
 Pagar a los tripulantes los gastos de traslado, incluyendo los del cónyuge y familiares de primer
@@ -4685,6 +4681,12 @@ X.
 
 Efectuar vuelos de auxilio, búsqueda o salvamento en cualquier tiempo y lugar que se requiera;
 
+XI.
+
+Tratándose de los pilotos al mando de la aeronave, anotar en la bitácora, con exactitud y bajo
+su responsabilidad, los datos exigidos por las disposiciones legales relativas y hacer, cuando
+proceda, la distribución del tiempo de servicio de los demás miembros de la tripulación;
+
 66 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -4694,12 +4696,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-XI.
-
-Tratándose de los pilotos al mando de la aeronave, anotar en la bitácora, con exactitud y bajo
-su responsabilidad, los datos exigidos por las disposiciones legales relativas y hacer, cuando
-proceda, la distribución del tiempo de servicio de los demás miembros de la tripulación;
 
 XII.
 
@@ -4759,6 +4755,9 @@ Artículo 243.- Es causa especial de suspensión de las relaciones de trabajo, s
 el patrón, la suspensión transitoria de las licencias respectivas, de los pasaportes, visas y demás
 documentos exigidos por las leyes nacionales y extranjeras cuando sea imputable al tripulante.
 Artículo 244.- Son causas especiales de terminación o rescisión de las relaciones de trabajo:
+I.
+
+La cancelación o revocación definitiva de los documentos especificados en el artículo anterior;
 
 67 de 331
 
@@ -4769,10 +4768,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-I.
-
-La cancelación o revocación definitiva de los documentos especificados en el artículo anterior;
 
 II.
 
@@ -4834,6 +4829,8 @@ Artículo 247.- En los contratos colectivos se podrá determinar el personal de 
 consideración lo dispuesto en el artículo 9o.
 Artículo 248.- En los contratos colectivos se podrá estipular que los trabajadores trenistas presten sus
 servicios sobre la base de viajes en una sola o en dos direcciones.
+Artículo 249.- Cuando algún trabajador esté próximo a cumplir los términos de jubilación
+determinados en los contratos colectivos, la relación de trabajo sólo podrá rescindirse por causas
 
 68 de 331
 
@@ -4845,8 +4842,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 249.- Cuando algún trabajador esté próximo a cumplir los términos de jubilación
-determinados en los contratos colectivos, la relación de trabajo sólo podrá rescindirse por causas
 particularmente graves que hagan imposible su continuación, de conformidad con las disposiciones
 contenidas en los contratos colectivos. A falta de disposiciones expresas se estará a lo dispuesto en el
 artículo 161.
@@ -4897,6 +4892,9 @@ La negativa a efectuar el viaje contratado o su interrupción, sin causa justifi
 
 CAPITULO VI
 Trabajo de autotransportes
+Artículo 256.- Las relaciones entre los choferes, conductores, operadores, cobradores y demás
+trabajadores que prestan servicios a bordo de autotransportes de servicio público, de pasajeros, de carga
+o mixtos, foráneos o urbanos, tales como autobuses, camiones, camionetas o automóviles, y los
 
 69 de 331
 
@@ -4908,9 +4906,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 256.- Las relaciones entre los choferes, conductores, operadores, cobradores y demás
-trabajadores que prestan servicios a bordo de autotransportes de servicio público, de pasajeros, de carga
-o mixtos, foráneos o urbanos, tales como autobuses, camiones, camionetas o automóviles, y los
 propietarios o permisionarios de los vehículos, son relaciones de trabajo y quedan sujetas a las
 disposiciones de este capítulo.
 La estipulación que en cualquier forma desvirtúe lo dispuesto en el párrafo anterior, no produce ningún
@@ -4958,6 +4953,11 @@ II.
 Someterse a los exámenes médicos periódicos que prevengan las leyes y demás normas de
 trabajo;
 
+III.
+
+Cuidar el buen funcionamiento de los vehículos e informar al patrón de cualquier desperfecto
+que observen;
+
 70 de 331
 
 LEY FEDERAL DEL TRABAJO
@@ -4967,11 +4967,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-III.
-
-Cuidar el buen funcionamiento de los vehículos e informar al patrón de cualquier desperfecto
-que observen;
 
 IV.
 
@@ -5092,6 +5087,7 @@ Artículo 276.- Para el pago de indemnizaciones en los casos de riesgos de traba
 normas siguientes:
 I. Si el riesgo produce incapacidad, el pago se hará de conformidad con lo dispuesto en el artículo
 483;
+II. El patrón bajo cuya autoridad se prestó el trabajo, será responsable de los accidentes de trabajo; y
 
 72 de 331
 
@@ -5103,7 +5099,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-II. El patrón bajo cuya autoridad se prestó el trabajo, será responsable de los accidentes de trabajo; y
 III. Si se trata de enfermedades de trabajo, cada patrón que hubiese utilizado los servicios del
 trabajador durante 90 días, por lo menos, en los tres años anteriores a la fecha en que se determine el
 grado de incapacidad para el trabajo, contribuirá en la proporción en que hubiese utilizado los servicios.
@@ -13332,14 +13327,12 @@ I.
 Tienen derecho a participar en la elección:
 a)
 
-Los sindicatos de patrones debidamente registrados, cuyos
+Los sindicatos de patrones debidamente registrados, cuyos miembros tengan
 trabajadores a su servicio.
 
 b)
 
 Los patrones independientes que tengan trabajadores a su servicio;
-
-miembros tengan
 
 II.
 
