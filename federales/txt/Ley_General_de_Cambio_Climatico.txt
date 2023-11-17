@@ -7,7 +7,7 @@ LEY GENERAL DE CAMBIO CLIMÁTICO
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 6 de junio de 2012
 TEXTO VIGENTE
-Última reforma publicada DOF 11-05-2022
+Última reforma publicada DOF 15-11-2023
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -115,6 +115,13 @@ evaluaciones de riesgo en asentamientos humanos,
 regiones o zonas geográficas vulnerables, consideran
 los actuales y futuros escenarios climáticos.
 Fracción reformada DOF 16-10-2014. Recorrida DOF 1307-2018
+III Bis. Atlas Nacional de Vulnerabilidad al
+Cambio Climático: Conjunto estructurado y
+sistemático de mapas que muestran la vulnerabilidad
+ante el cambio climático y orientan la realización de
+estrategias dentro del proceso de planeación y
+adaptación.
+Fracción adicionada DOF 15-11-2023
 IV. Cambio climático: Variación del clima atribuido
 directa o indirectamente a la actividad humana, que
 altera la composición de la atmósfera global y se
@@ -129,13 +136,13 @@ efecto invernadero, sus precursores y partículas que
 absorben y emiten radiación infrarroja en la
 atmósfera;
 Fracción recorrida DOF 13-07-2018
+
 VII. Comunicación Nacional: Informe nacional
 elaborado periódicamente en cumplimiento de los
 compromisos establecidos por la Convención Marco
 de las Naciones Unidas sobre el Cambio Climático.
 Fracción recorrida DOF 13-07-2018
 VIII. Consejo: Consejo de Cambio Climático.
-
 Fracción recorrida DOF 13-07-2018
 IX. Contaminantes climáticos de vida corta:
 Llamados también forzadores climáticos de vida corta,
@@ -157,12 +164,12 @@ Fracción adicionada DOF 13-07-2018
 XI. Convención: Convención Marco de las
 Naciones Unidas sobre el Cambio Climático.
 Fracción recorrida DOF 13-07-2018
+
 XII. Carbono negro: material particulado producido
 por la combustión incompleta de combustibles fósiles
 o de biomasa, y que contribuye al calentamiento
 global como contaminante climático de vida corta.
 Fracción adicionada DOF 13-07-2018
-
 XIII. Corredores Biológicos: Ruta geográfica que
 permite el intercambio y migración de las especies de
 flora y fauna silvestre dentro de uno o más
@@ -184,6 +191,7 @@ Fracción recorrida DOF 13-07-2018
 XVI. Emisiones: Liberación a la atmósfera de gases
 de efecto invernadero y/o sus precursores y aerosoles
 en la atmósfera, incluyendo en su caso compuestos
+
 de efecto invernadero, en una zona y un periodo de
 tiempo específicos.
 Fracción recorrida DOF 13-07-2018
@@ -191,7 +199,6 @@ XVII. Emisiones de línea base: Estimación de las
 emisiones, absorción o captura de gases o
 compuestos de efecto invernadero, asociadas a un
 escenario de línea base.
-
 Fracción recorrida DOF 13-07-2018
 XVIII. Escenario de línea base: Descripción
 hipotética de lo que podría ocurrir con las variables
@@ -210,13 +217,13 @@ cambio climático.
 Fracción recorrida DOF 13-07-2018
 XXI. Se deroga.
 Fracción recorrida DOF 13-07-2018. Derogada DOF 0611-2020
+
 XXII. Fuentes emisoras: Todo proceso, actividad,
 servicio o mecanismo que libere un gas o compuesto
 de efecto invernadero a la atmósfera.
 Fracción recorrida DOF 13-07-2018
 XXIII. Gases de efecto invernadero: Aquellos
 componentes gaseosos de la atmósfera, tanto
-
 naturales como antropógenos, que absorben y emiten
 radiación infrarroja.
 Fracción recorrida DOF 13-07-2018
@@ -237,6 +244,7 @@ XXVIII. Mitigación: Aplicación de políticas y
 acciones destinadas a reducir las emisiones de las
 fuentes, o mejorar los sumideros de gases y
 compuestos de efecto invernadero.
+
 Fracción recorrida DOF 13-07-2018
 XXIX. Panel Intergubernamental de Expertos
 sobre
@@ -247,7 +255,6 @@ Climático
 internacional encargado de evaluar los conocimientos
 científicos relativos al cambio climático.
 Fracción adicionada DOF 13-07-2018
-
 XXX. Programa: Programa Especial de Cambio
 Climático.
 Fracción recorrida DOF 13-07-2018
@@ -268,12 +275,12 @@ actividades o proyectos, que fueron certificadas por
 alguna entidad autorizada para dichos efectos.
 Fracción recorrida DOF 13-07-2018
 XXXIV. Registro: Registro Nacional de Emisiones.
+
 Fracción recorrida DOF 13-07-2018
 XXXV. Resiliencia: Capacidad de los sistemas
 naturales o sociales para recuperarse o soportar los
 efectos derivados del cambio climático.
 Fracción recorrida DOF 13-07-2018
-
 XXXVI. Resistencia: Capacidad de los sistemas
 naturales o sociales para persistir ante los efectos
 derivados del cambio climático.
@@ -304,13 +311,13 @@ ante
 fenómenos
 hidrometeorológicos extremos relacionados con el
 cambio climático.
+
 Fracción adicionada DOF 13-07-2018
 XL. Sumidero: Cualquier proceso, actividad o
 mecanismo que retira de la atmósfera un gas de
 efecto invernadero y o sus precursores y aerosoles en
 la atmósfera incluyendo en su caso, compuestos de
 efecto invernadero.
-
 Fracción recorrida DOF 13-07-2018
 XLI. Toneladas de bióxido de carbono
 equivalentes: Unidad de medida de los gases de
@@ -332,11 +339,11 @@ Ley, se aplicarán las disposiciones contenidas en
 otras leyes relacionadas con las materias que regula
 este ordenamiento.
 TITULO SEGUNDO
+
 DISTRIBUCIÓN DE COMPETENCIAS
 CAPÍTULO ÚNICO
 DE LA FEDERACIÓN, LAS ENTIDADES
 FEDERATIVAS Y LOS MUNICIPIOS
-
 Artículo 5o. La federación, las entidades federativas
 y los municipios ejercerán sus atribuciones para la
 mitigación y adaptación al cambio climático, de
@@ -359,18 +366,20 @@ I. Formular y conducir la política nacional en materia
 de cambio climático;
 II. Elaborar, coordinar y aplicar los instrumentos de
 política previstos por esta Ley;
+
 III. Formular, conducir y publicar, con la participación
 de la sociedad, la Estrategia Nacional, el Programa, y
 las contribuciones determinadas a nivel nacional, así
 como llevar a cabo su instrumentación, seguimiento y
 evaluación;
-
 Fracción reformada DOF 13-07-2018
-IV. Elaborar, actualizar, publicar y aplicar el atlas
-nacional de riesgo y la Política Nacional de
+IV. Elaborar, actualizar, publicar y aplicar el Atlas
+Nacional de Riesgo y la Política Nacional de
 Adaptación, y emitir los criterios para la elaboración
-de los atlas de riesgo estatales;
-Fracción reformada DOF 13-07-2018
+de los atlas de riesgo de las entidades federativas,
+considerando la información del Atlas Nacional de
+Vulnerabilidad al Cambio Climático;
+Fracción reformada DOF 13-07-2018, 15-11-2023
 V. Establecer procedimientos para realizar consultas
 públicas a la sociedad en general, los sectores
 público y privado, con el fin de formular la Estrategia
@@ -385,12 +394,12 @@ y aprovechamiento sustentable de los recursos
 naturales, los ecosistemas terrestres, acuáticos,
 marinos, costeros, islas, cayos, arrecifes y los
 recursos hídricos;
+
 Inciso reformado DOF 13-05-2015
 b) Agricultura, ganadería, desarrollo rural, pesca y
 acuacultura;
 c) Educación;
 d) Energía;
-
 e) Planeación nacional del desarrollo;
 f) Soberanía y seguridad alimentaria;
 g) Prevención y atención a enfermedades derivadas
@@ -405,13 +414,13 @@ ambiental criterios de mitigación y adaptación al
 cambio climático;
 VIII. Se deroga.
 Fracción derogada DOF 06-11-2020
+
 IX. Crear, autorizar y regular el comercio de
 emisiones;
 X. Fomentar la investigación científica y tecnológica,
 el desarrollo, transferencia y despliegue de
 tecnologías, equipos y procesos para la mitigación y
 adaptación al cambio climático;
-
 XI. Promover la educación y difusión de la cultura en
 materia de cambio climático en todos los niveles
 educativos, así como realizar campañas de educación
@@ -431,12 +440,12 @@ inventario y en su caso los inventarios estatales; así
 como requerir la información necesaria para su
 integración a los responsables de las siguientes
 categorías de fuentes emisoras:
+
 a) Generación y uso de energía;
 b) Transporte;
 c) Agricultura, ganadería, bosques y otros usos de
 suelo;
 d) Residuos;
-
 e) Procesos industriales, y
 f) Otras, determinadas por las instancias
 internacionales o las autoridades competentes.
@@ -462,12 +471,12 @@ de carbono, mejorando su eficiencia energética,
 participando en el comercio de emisiones y en
 mecanismos de financiamiento nacionales o
 internacionales;
+
 XIX. Determinar los indicadores de efectividad e
 impacto que faciliten la evaluación de los resultados
 de la aplicación del presente ordenamiento e integrar
 los resultados al Sistema de Información sobre el
 Cambio Climático;
-
 XX. Diseñar y promover ante las dependencias y
 entidades competentes, el establecimiento y
 aplicación de instrumentos económicos, fiscales,
@@ -490,13 +499,13 @@ los recursos energéticos fósiles y renovables del país,
 de conformidad con la Ley para el Aprovechamiento
 Sustentable de la Energía y la Ley para el
 Aprovechamiento de Energías Renovables y el
+
 Financiamiento de la Transición Energética, en lo que
 resulte aplicable;
 XXIV. Elaborar y proponer las previsiones
 presupuestales para la adaptación y mitigación con el
 fin de reducir la vulnerabilidad del país ante los
 efectos adversos del cambio climático;
-
 XXV. Emitir recomendaciones a las entidades
 federativas y municipios, con la finalidad de promover
 acciones en materia de cambio climático;
@@ -518,11 +527,11 @@ I. Formular, conducir y evaluar la política de la
 entidad federativa en materia de cambio climático en
 concordancia con la política nacional;
 Fracción reformada DOF 19-01-2018
+
 II. Formular, regular, dirigir e instrumentar acciones
 de mitigación y adaptación al cambio climático, de
 acuerdo con la Estrategia Nacional y el Programa en
 las materias siguientes:
-
 a)
 Preservación,
 restauración,
@@ -553,12 +562,12 @@ g) Recursos naturales y protección al ambiente
 dentro de su competencia;
 h) Residuos de manejo especial;
 i) Protección civil, y
+
 j) Prevención y atención de enfermedades derivadas
 de los efectos del cambio climático;
 III. Incorporar en sus instrumentos de política
 ambiental, criterios de mitigación y adaptación al
 cambio climático;
-
 IV. Elaborar e instrumentar su programa en materia
 de cambio climático, promoviendo la participación
 social, escuchando y atendiendo a los sectores
@@ -579,11 +588,11 @@ VIII. Fomentar la investigación científica y
 tecnológica, el desarrollo, transferencia y despliegue
 de tecnologías, equipos y procesos para la mitigación
 y adaptación al cambio climático;
+
 IX. Desarrollar estrategias, programas y proyectos
 integrales de mitigación de emisiones de gases de
 efecto invernadero para impulsar el transporte
 eficiente y sustentable, público y privado;
-
 X. Realizar campañas de educación e información
 para sensibilizar a la población sobre los efectos
 adversos del cambio climático;
@@ -598,10 +607,15 @@ Inventario Nacional de Emisiones y en su caso,
 integrar el inventario estatal de emisiones, conforme a
 los criterios e indicadores elaborados por la
 federación en la materia;
-XIII. Elaborar, publicar y actualizar el atlas estatal de
-riesgo, en coordinación con sus municipios o
-delegaciones, conforme a los criterios emitidos por la
+XIII. Elaborar, publicar y actualizar los atlas de
+riesgo de su competencia, con información
+proporcionada por el Atlas Nacional de Riesgo y el
+Atlas Nacional de Vulnerabilidad al Cambio Climático,
+en coordinación con sus municipios o demarcaciones
+territoriales, conforme a los criterios emitidos por la
 federación;
+Fracción reformada DOF 15-11-2023
+
 XIV. Establecer las bases e instrumentos para
 promover el fortalecimiento de capacidades
 institucionales y sectoriales para enfrentar al cambio
@@ -609,7 +623,6 @@ climático;
 XV. Diseñar y promover el establecimiento y
 aplicación de incentivos que promuevan la ejecución
 de acciones para el cumplimiento del objeto de la ley;
-
 XVI. Convenir con los sectores social y privado la
 realización de acciones e inversiones concertadas
 hacia el cumplimiento de su programa;
@@ -626,6 +639,7 @@ siguientes atribuciones:
 I. Formular, conducir y evaluar la política municipal
 en materia de cambio climático en concordancia
 con la política nacional y estatal;
+
 II. Formular e instrumentar políticas y acciones para
 enfrentar al cambio climático en congruencia con
 el Plan Nacional de Desarrollo, la Estrategia
@@ -634,7 +648,6 @@ materia de cambio climático y con las leyes
 aplicables, en las siguientes materias:
 a) Prestación del servicio de agua potable y
 saneamiento;
-
 b) Ordenamiento ecológico local y desarrollo
 urbano;
 c) Recursos naturales y protección al ambiente
@@ -655,9 +668,9 @@ IV.
 
 Desarrollar estrategias, programas y proyectos
 integrales de mitigación al cambio climático para
+
 impulsar el transporte eficiente y sustentable,
 público y privado;
-
 V. Realizar campañas de educación e información,
 en coordinación con el gobierno estatal y federal,
 para sensibilizar a la población sobre los efectos
@@ -687,6 +700,7 @@ Fuentes Emisoras que se originan en su territorio,
 para su incorporación al Inventario Nacional de
 Emisiones, conforme a los criterios e indicadores
 elaborados por la federación en la materia;
+
 XI.
 
 Vigilar y promover, en el ámbito de su
@@ -698,7 +712,6 @@ XII. Las demás que señale esta ley y las
 disposiciones jurídicas aplicables.
 Los municipios, con acuerdo de sus ayuntamientos
 podrán coordinarse y/o asociarse para una eficiente
-
 implementación de las disposiciones previstas en este
 artículo.
 Párrafo adicionado DOF 02-04-2015
@@ -718,6 +731,7 @@ necesarias para regular las materias de su
 competencia previstas en esta ley.
 Artículo 12. Corresponde al gobierno de la Ciudad
 de México ejercer las facultades y obligaciones que
+
 este ordenamiento confiere a las entidades
 federativas y a los municipios en lo que resulte
 aplicable.
@@ -726,7 +740,6 @@ TÍTULO TERCERO
 INSTITUTO NACIONAL DE ECOLOGÍA Y CAMBIO
 CLIMÁTICO
 CAPÍTULO I
-
 DISPOSICIONES GENERALES
 Artículo 13. Se crea el Instituto Nacional de
 Ecología y Cambio Climático como un organismo
@@ -745,6 +758,7 @@ Cambio Climático (INECC) tiene por objeto:
 Párrafo reformado DOF 13-07-2018
 I. Coordinar y realizar estudios y proyectos de
 investigación científica o tecnológica con instituciones
+
 académicas, de investigación, públicas o privadas,
 nacionales o extranjeras en materia de cambio
 climático, protección al ambiente y preservación y
@@ -753,7 +767,6 @@ II. Brindar apoyo técnico y científico a la secretaría
 para formular, conducir y evaluar la política nacional
 en materia de equilibrio ecológico y protección del
 medio ambiente;
-
 III. Promover y difundir criterios, metodologías y
 tecnologías
 para
@@ -779,6 +792,7 @@ estimación de los costos futuros asociados al cambio
 climático, y los beneficios derivados de las acciones
 para enfrentarlo;
 Fracción reformada DOF 13-07-2018
+
 VI. Evaluar el cumplimiento de los objetivos de
 adaptación y mitigación previstos en esta Ley, así
 como las metas y acciones contenidas en la
@@ -794,7 +808,6 @@ las
 dependencias
 de
 la
-
 administración pública federal centralizada y
 paraestatal, de las entidades federativas y de los
 municipios.
@@ -811,6 +824,7 @@ III. Las adquisiciones, créditos, préstamos y
 cooperación técnica en numerario o en especie, que
 obtenga de cualquier dependencia o entidad pública,
 institución privada u organismos nacionales o
+
 internacionales, de conformidad con las disposiciones
 jurídicas aplicables;
 IV. Los bienes muebles e inmuebles, las acciones,
@@ -820,7 +834,6 @@ V. Los recursos que en su caso, le sean asignados
 en el Presupuesto de Egresos de la Federación del
 Ejercicio Fiscal que corresponda;
 VI. Los ingresos que obtenga por:
-
 a) Los recursos que las Entidades Federativas, y
 Municipios les destinen;
 b) Los recursos que se obtengan para el
@@ -840,6 +853,7 @@ y
 aprovechamientos que le fijen las leyes y reglamentos
 o que provengan de otras fuentes de ingreso.
 Fracción reformada DOF 06-11-2020
+
 Artículo 17. La Junta de Gobierno será la máxima
 autoridad del organismo, estará presidida por el titular
 de la Secretaría de Medio Ambiente y Recursos
@@ -851,7 +865,6 @@ Energía; de Salud; de Desarrollo Agrario, Territorial y
 Urbano, y del Consejo Nacional de Ciencia y
 Tecnología.
 Párrafo reformado DOF 29-12-2014
-
 Cada integrante de este órgano colegiado deberá
 nombrar un suplente con nivel jerárquico de
 subsecretario.
@@ -872,6 +885,7 @@ se
 deberá
 acreditar
 experiencia,
+
 conocimientos académicos, técnicos y administrativos
 relacionados con la investigación, políticas y
 programas nacionales e internacionales sobre medio
@@ -904,6 +918,7 @@ competencia, y
 VIII. Las demás atribuciones que le confieran tanto
 las disposiciones legales o reglamentarias, como el
 Estatuto Orgánico del INECC.
+
 Artículo 21. El Estatuto Orgánico del INECC
 determinará las unidades administrativas, las bases
 de la organización, así como las facultades y
@@ -914,7 +929,6 @@ adaptación al cambio climático conforme a lo
 establecido en el capítulo segundo del presente título.
 El Estatuto Orgánico será elaborado por la Junta de
 Gobierno del INECC.
-
 Artículo 22. El INECC tendrá las atribuciones
 siguientes:
 I. Coordinar, promover y desarrollar con, la
@@ -929,6 +943,7 @@ siguientes temas:
 a) Política y economía ambientales y del cambio
 climático;
 b) Mitigación de emisiones;
+
 c) Vulnerabilidad y adaptación al cambio climático
 en el país;
 d) Saneamiento ambiental;
@@ -938,7 +953,6 @@ f) Conservación y aprovechamiento sustentable de
 la vida silvestre, de especies y ecosistemas
 prioritarios, así como especies migratorias;
 g) Ordenamiento ecológico del territorio;
-
 h) Prevención y control de la contaminación, manejo
 de materiales y residuos peligrosos, sitios
 contaminados
@@ -966,6 +980,7 @@ II. Brindar apoyo técnico y científico a la Secretaría
 para formular, conducir y evaluar la política nacional
 en materia de equilibrio ecológico y protección del
 medio ambiente;
+
 III. Participar en el diseño de instrumentos
 económicos, fiscales, financieros y de mercado,
 vinculados a la política nacional en materia de medio
@@ -977,7 +992,6 @@ V. Proponer la definición de prioridades, asignación
 y optimación de recursos del gobierno federal para la
 investigación sobre medio ambiente y cambio
 climático;
-
 VI. Integrar la información para elaborar las
 comunicaciones nacionales que presenten los
 Estados Unidos Mexicanos ante la Convención;
@@ -991,6 +1005,7 @@ sumideros, de las categorías de fuentes emisoras
 determinadas en la presente ley;
 X. Fomentar la construcción de capacidades de las
 entidades federativas y de los municipios, en la
+
 elaboración de sus programas e inventarios de
 emisiones;
 XI. Emitir opiniones respecto de las consultas que le
@@ -1002,7 +1017,6 @@ materiales didácticos sobre cambio climático, de
 conformidad con la Ley General de Educación;
 XIII. Fomentar, en coordinación con la Secretaría de
 Educación Pública y las instituciones de investigación
-
 y educación superior del país, la capacidad científica,
 tecnológica y de innovación, en materia de desarrollo
 sustentable, medio ambiente y cambio climático;
@@ -1017,6 +1031,7 @@ económicas para calcular el producto interno neto
 ecológico;
 XVI. Contribuir al diagnóstico de la situación
 ambiental en relación con los compromisos
+
 internacionales, así como al diseño de políticas para
 cumplir con los mismos;
 XVII. Participar, en el diseño de mecanismos de
@@ -1030,7 +1045,6 @@ para la Conservación y Aprovechamiento Sustentable
 de la Vida Silvestre, así como desarrollar estudios
 científicos que tengan por objeto identificar las
 especies en riesgo, determinar las especies y
-
 poblaciones prioritarias para la conservación y
 promover la declaración de hábitat críticos y áreas de
 refugio;
@@ -1046,6 +1060,7 @@ ecológico, conservación de ecosistemas y especies
 de vida silvestre, contaminación y calidad ambiental,
 de colecta de especímenes con fines científicos y de
 investigación, de aprovechamiento para su utilización
+
 en biotecnología, acceso a recursos genéticos, así
 como para la utilización confinada, el manejo, la
 movilización y la liberación experimental, en
@@ -1062,7 +1077,6 @@ tanto
 nacionales
 como
 internacionales;
-
 XXIII. Promover el intercambio de científicos con
 instituciones de investigación y enseñanza media
 superior y superior, tanto nacionales como
@@ -1077,6 +1091,7 @@ conferencias y talleres nacionales e internacionales
 trabajos sobre los estudios científicos y desarrollos
 normativos, relacionados con las actividades del
 INECC;
+
 XXVI. Publicar libros, publicaciones periódicas,
 catálogos, manuales, artículos e informes técnicos
 sobre los trabajos que realice en las materias de su
@@ -1088,17 +1103,22 @@ XXVIII. Funcionar como laboratorios de referencia
 en materia de análisis y calibración de equipos de
 medición de contaminantes atmosféricos, residuos
 peligrosos, así como en la detección e identificación
-de organismos genéticamente modificados, y
-
-XXIX. Ejercer las atribuciones que expresamente le
+de organismos genéticamente modificados;
+Fracción reformada DOF 15-11-2023
+XXIX. Elaborar, actualizar, publicar y difundir el Atlas
+Nacional de Vulnerabilidad al Cambio Climático, y
+Fracción adicionada DOF 15-11-2023
+XXX. Ejercer las atribuciones que expresamente le
 confieran otras leyes como organismo público
 descentralizado y las que se determinen en su
 Estatuto Orgánico.
+Fracción recorrida DOF 15-11-2023
 CAPÍTULO II
 DE LA COORDINACIÓN DE EVALUACIÓN
 Artículo 23. La Coordinación de Evaluación se
 integrará por el titular del INECC y seis consejeros
 sociales, representantes de la comunidad científica,
+
 académica, técnica e industrial, con amplia
 experiencia en materia de medio ambiente,
 particularmente en temas relacionados con el cambio
@@ -1117,7 +1137,6 @@ acuerdos la Coordinación de Evaluación contará con
 un secretario técnico que será el titular de la
 Coordinación de Cambio Climático del INECC y que
 contará con nivel mínimo de director general.
-
 Artículo 25. La evaluación de la política nacional en
 materia de cambio climático podrá realizarse por la
 Coordinación de Evaluación o a través de uno o
@@ -1127,6 +1146,7 @@ podrán participar serán instituciones de educación
 superior, de investigación científica u organizaciones
 no lucrativas. Cuando las evaluaciones se lleven a
 cabo por un organismo distinto de la coordinación,
+
 ésta emitirá la convocatoria correspondiente y
 designará al adjudicado y resolverá lo conducente en
 términos de las disposiciones jurídicas que resulten
@@ -1144,7 +1164,6 @@ TÍTULO CUARTO
 POLÍTICA NACIONAL DE CAMBIO CLIMÁTICO
 CAPÍTULO I
 PRINCIPIOS
-
 Artículo 26. En la formulación de la política nacional
 de cambio climático se observarán los principios de:
 I. Sustentabilidad en el aprovechamiento o uso de
@@ -1154,6 +1173,7 @@ II. Corresponsabilidad entre el Estado y la sociedad
 en general, en la realización de acciones para la
 mitigación y adaptación a los efectos adversos
 del cambio climático;
+
 III.
 
 Precaución, cuando haya amenaza de daño
@@ -1179,9 +1199,9 @@ VI.
 Integralidad y transversalidad, adoptando un
 enfoque de coordinación y cooperación entre
 órdenes de gobierno, así como con los sectores
-
 social y privado para asegurar la instrumentación
 de la política nacional de cambio climático;
+
 VII. Participación ciudadana, en la formulación,
 ejecución, monitoreo y evaluación de la
 Estrategia Nacional, planes y programas de
@@ -1189,6 +1209,7 @@ mitigación y adaptación a los efectos del cambio
 climático;
 VIII. Responsabilidad ambiental, quien realice obras
 o actividades que afecten o puedan afectar al
+
 medio ambiente, estará obligado a prevenir,
 minimizar, mitigar, reparar, restaurar y, en última
 instancia, a la compensación de los daños que
@@ -1210,16 +1231,9 @@ concientización de la población, poniendo a su
 disposición la información relativa al cambio
 climático y proporcionando acceso efectivo a los
 procedimientos judiciales y administrativos
-
-pertinentes atendiendo
+pertinentes atendiendo a las disposiciones
 jurídicas aplicables;
 XI.
-
-a
-
-las
-
-disposiciones
 
 Conservación de los ecosistemas y su
 biodiversidad, dando prioridad a los humedales,
@@ -1230,6 +1244,7 @@ Fracción reformada DOF 13-07-2018
 
 XII. Compromiso con la economía y el desarrollo
 económico nacional, para lograr la sustentabilidad
+
 sin vulnerar su competitividad frente a los
 mercados internacionales, y
 Fracción reformada DOF 13-07-2018
@@ -1252,7 +1267,6 @@ efectiva de las medidas que se requieran para su
 cumplimiento; sin que represente un retroceso
 respecto a metas anteriores, considerando, la
 mejor información científica disponible y los
-
 avances tecnológicos, todo ello en el contexto del
 desarrollo sostenible.
 Fracción adicionada DOF 13-07-2018
@@ -1265,6 +1279,7 @@ discapacidad y las personas en situaciones de
 vulnerabilidad y el derecho al desarrollo, así como la
 igualdad de género, el empoderamiento de la mujer y
 la equidad intergeneracional.
+
 Párrafo adicionado DOF 13-07-2018
 CAPÍTULO II
 ADAPTACIÓN
@@ -1279,7 +1294,6 @@ II. Fortalecer la resiliencia y resistencia de los
 sistemas naturales y humanos;
 III. Minimizar riesgos y daños, considerando los
 escenarios actuales y futuros del cambio climático;
-
 IV. Identificar la vulnerabilidad y capacidad de
 adaptación y transformación de los sistemas
 ecológicos, físicos y sociales y aprovechar
@@ -1289,6 +1303,7 @@ V. Establecer mecanismos de atención inmediata y
 expedita en zonas impactadas por los efectos del
 cambio climático como parte de los planes y acciones
 de protección civil, y
+
 VI. Facilitar y fomentar la seguridad alimentaria, la
 productividad agrícola, ganadera, pesquera, acuícola,
 la preservación de los ecosistemas y de los recursos
@@ -1306,7 +1321,6 @@ Nacional de Adaptación y los programas en los
 siguientes ámbitos:
 Párrafo adicionado DOF 13-07-2018
 I. Gestión integral del riesgo;
-
 II. Recursos hídricos;
 III. Agricultura, ganadería, silvicultura, pesca y
 acuacultura;
@@ -1314,6 +1328,7 @@ IV. Ecosistemas y biodiversidad, en especial de
 zonas costeras, marinas, de alta montaña,
 semiáridas, desérticas, recursos forestales y suelos;
 V. Energía, industria y servicios;
+
 VI. Infraestructura de transportes y comunicaciones;
 VII.
 Ordenamiento
@@ -1342,7 +1357,6 @@ acciones
 de
 
 I. La determinación de la vocación natural del suelo;
-
 II. El establecimiento de centros de población o
 asentamientos humanos, así como en las acciones de
 desarrollo, mejoramiento y conservación de los
@@ -1358,6 +1372,7 @@ aprovechamiento
 sustentable, rehabilitación de playas, costas, zona
 federal marítimo terrestre, terrenos ganados al mar y
 cualquier otro depósito que se forme con aguas
+
 marítimas para uso turístico, industrial, agrícola,
 pesquero, acuícola o de conservación;
 V. Los programas hídricos de cuencas hidrológicas;
@@ -1384,11 +1399,17 @@ IX. El aprovechamiento sustentable en los distritos
 de desarrollo rural;
 X. El establecimiento y conservación de las áreas
 naturales protegidas y corredores biológicos;
-
-XI. La elaboración de los atlas de riesgo;
+X Bis. La elaboración y actualización del Atlas
+Nacional de Vulnerabilidad al Cambio Climático;
+Fracción adicionada DOF 15-11-2023
+XI. La elaboración y actualización de los atlas de
+riesgo tomando en consideración la información del
+Atlas Nacional de Vulnerabilidad al Cambio Climático;
+Fracción reformada DOF 15-11-2023
 XII. La elaboración y aplicación de las reglas de
 operación de programas de subsidio y proyectos de
 inversión;
+
 XIII.
 Los
 programas
@@ -1419,23 +1440,27 @@ Artículo 30. Las dependencias y entidades de la
 administración pública federal centralizada y
 paraestatal, las entidades federativas y los
 municipios, en el ámbito de sus competencias,
-
 implementarán acciones para la adaptación conforme
 a las disposiciones siguientes:
 I. Elaborar y publicar los atlas de riesgo que
 consideren los escenarios de vulnerabilidad actual y
-futura ante el cambio climático, atendiendo de manera
-preferencial a la población más vulnerable y a las
-zonas de mayor riesgo, así como a las islas, zonas
-costeras y deltas de ríos;
-II. Utilizar la información contenida en los atlas de
-riesgo para la elaboración de los planes de desarrollo
-urbano, reglamentos de construcción y ordenamiento
-territorial de las entidades federativas y municipios; y
-para prevenir y atender el posible desplazamiento
-interno de personas provocado por fenómenos
-relacionados con el cambio climático;
-Fracción reformada DOF 01-06-2016
+futura ante el cambio climático, tomando en
+consideración la información del Atlas Nacional de
+
+Vulnerabilidad al Cambio Climático, atendiendo de
+manera preferencial a la población más vulnerable y a
+las zonas de mayor riesgo, así como a las islas,
+zonas costeras y deltas de ríos;
+Fracción reformada DOF 15-11-2023
+II. Utilizar la información contenida tanto en los atlas
+de riesgo como en el Atlas Nacional de Vulnerabilidad
+al Cambio Climático, para la elaboración de los planes
+de desarrollo urbano, reglamentos de construcción y
+ordenamiento territorial de las entidades federativas,
+los municipios; y para prevenir y atender el posible
+desplazamiento interno de personas provocado por
+fenómenos relacionados con el cambio climático;
+Fracción reformada DOF 01-06-2016, 15-11-2023
 III. Proponer e impulsar mecanismos de recaudación
 y obtención de recursos, para destinarlos a la
 protección y reubicación de los asentamientos
@@ -1445,10 +1470,10 @@ IV. Establecer planes de protección y contingencia
 ambientales en zonas de alta vulnerabilidad, áreas
 naturales protegidas y corredores biológicos ante
 eventos meteorológicos extremos;
-
 V. Establecer planes de protección y contingencia en
 los destinos turísticos, así como en las zonas de
 desarrollo turístico sustentable;
+
 VI. Elaborar e implementar programas de
 fortalecimiento de capacidades que incluyan medidas
 que promuevan la capacitación, educación, acceso a
@@ -1475,10 +1500,10 @@ producción bajo condiciones de prácticas de
 agricultura sustentable y prácticas sustentables de
 ganadería, silvicultura, pesca y acuacultura; el
 desarrollo de variedades resistentes, cultivos de
-
 reemplazo de ciclo corto y los sistemas de alerta
 temprana sobre pronósticos de temporadas con
 precipitaciones o temperaturas anormales;
+
 XIII. Impulsar el cobro de derechos y establecimiento
 de sistemas tarifarios por los usos de agua que
 incorporen el pago por los servicios ambientales
@@ -1502,10 +1527,10 @@ de la Estrategia Nacional de Biodiversidad. El
 programa especial tendrá las finalidades siguientes:
 a) Fomentar la investigación, el conocimiento y
 registro de impactos del cambio climático en los
-
 ecosistemas y su biodiversidad, tanto en el territorio
 nacional como en las zonas en donde la nación ejerce
 su soberanía y jurisdicción;
+
 b) Establecer medidas de adaptación basadas en la
 preservación de los ecosistemas, su biodiversidad y
 los servicios ambientales que proporcionan a la
@@ -1533,10 +1558,10 @@ XXII. Establecer nuevas áreas naturales protegidas,
 corredores biológicos, y otras modalidades de
 conservación y zonas prioritarias de conservación
 ecológica para que se facilite el intercambio genético
-
 y se favorezca la adaptación natural de la
 biodiversidad al cambio climático, a través del
 mantenimiento e incremento de la cobertura vegetal
+
 nativa, de los humedales y otras medidas de manejo,
 y
 XXIII. Realizar diagnósticos de vulnerabilidad en el
@@ -1562,10 +1587,10 @@ considerando las contribuciones determinadas a nivel
 nacional para el cumplimiento de los objetivos del
 Acuerdo de París, el acceso a recursos financieros, la
 transferencia de tecnología y el desarrollo de
-
 capacidades, así como cualquier otro tratado
 internacional suscrito por el Estado mexicano en
 materia de cambio climático.
+
 Párrafo reformado DOF 13-07-2018
 La política debe cuidar que la línea base a
 comprometer por México no limite el crecimiento
@@ -1592,8 +1617,8 @@ cubrir los costos para la implementación de dichas
 políticas y actividades, éstas podrán instrumentarse
 en dos fases, cuando exista área de oportunidad para
 los sectores regulados:
-
 Párrafo reformado DOF 06-11-2020
+
 I. Fomento de capacidades nacionales en la cual, las
 políticas y actividades a ser desarrolladas, deberán
 implementarse con carácter voluntario, con el objetivo
@@ -1673,9 +1698,9 @@ transferencia y desarrollo de tecnologías bajas en
 carbono, particularmente en bienes muebles e
 inmuebles de dependencias y entidades de la
 administración pública federal centralizada y
-
 paraestatal, de las entidades federativas y de los
 municipios;
+
 V. Promover de manera prioritaria, tecnologías de
 mitigación cuyas emisiones de gases y compuestos
 de efecto invernadero sean bajas en carbono durante
@@ -1698,9 +1723,9 @@ X. Promover la cogeneración eficiente para evitar
 emisiones a la atmósfera;
 XI. Promover el aprovechamiento del potencial
 energético contenido en los residuos;
-
 XII. Promover el incremento del transporte público,
 masivo y con altos estándares de eficiencia,
+
 privilegiando la sustitución de combustibles fósiles y el
 desarrollo de sistemas de transporte sustentable
 urbano y suburbano, público y privado;
@@ -1726,9 +1751,9 @@ la industria nacional.
 Artículo 34. Para reducir las emisiones, las
 dependencias y entidades de la administración
 pública federal, las Entidades Federativas y los
-
 Municipios, en el ámbito de su competencia,
 promoverán el diseño y la elaboración de políticas y
+
 acciones de mitigación asociadas a los sectores
 correspondientes, considerando las disposiciones
 siguientes:
@@ -1779,9 +1804,9 @@ para la construcción de edificaciones sustentables,
 incluyendo el uso de materiales ecológicos y la
 eficiencia y sustentabilidad energética.
 II. Reducción de emisiones en el Sector Transporte:
-
 a) Promover la inversión en la construcción de
 ciclovías o infraestructura de transporte no
+
 motorizado, así como la implementación de
 reglamentos de tránsito que promuevan el uso de la
 bicicleta.
@@ -1818,9 +1843,9 @@ viviendas, construcción y operación de edificios
 públicos y privados, comercios e industrias.
 e) Establecer programas que promuevan el trabajo
 de oficina en casa, cuidando aspectos de
-
 confidencialidad, a fin de reducir desplazamientos y
 servicios de los trabajadores.
+
 f) Coordinar, promover y ejecutar programas de
 permuta o renta de vivienda para acercar a la
 población a sus fuentes de empleo y recintos
