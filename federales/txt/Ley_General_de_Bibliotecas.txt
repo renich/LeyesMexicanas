@@ -4,9 +4,10 @@ Secretaría de Servicios Parlamentarios
 Versión PDF para vista en dispositivo móvil Android y Apple iOS
 
 LEY GENERAL DE BIBLIOTECAS
-TEXTO VIGENTE
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 1 de junio de 2021
+TEXTO VIGENTE
+Última reforma publicada DOF 29-11-2023
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -20,9 +21,9 @@ DECRETO
 "EL CONGRESO GENERAL DE LOS ESTADOS
 UNIDOS MEXICANOS, D E C R E T A :
 SE EXPIDE LA LEY GENERAL DE BIBLIOTECAS.
+
 Artículo Único.- Se expide la Ley General de
 Bibliotecas.
-
 LEY GENERAL DE BIBLIOTECAS
 CAPÍTULO I
 Disposiciones Generales
@@ -49,9 +50,9 @@ VI. Fomentar y garantizar la conservación del
 patrimonio
 documental,
 bibliográfico,
+
 hemerográfico, auditivo, visual, audiovisual,
 digital y, en general, cualquier otro medio que
-
 contenga
 información
 afín,
@@ -83,9 +84,9 @@ General de Bibliotecas.
 III. Biblioteca del Congreso de la Unión:
 Institución que reúne los fondos documentales y
 bibliográficos del Congreso de la Unión y es
+
 facultada, a partir del decreto del 24 de
 diciembre de 1936, para recibir dos ejemplares
-
 de cada libro o periódico que se publiquen en el
 país a través del Depósito Legal.
 IV. Biblioteca Nacional de México: Institución que
@@ -728,12 +729,18 @@ CAPITULO X
 Del Depósito Legal de Publicaciones
 Artículo 33. Se declara de interés público la
 recopilación, integración, almacenamiento, custodia y
-conservación de toda obra de contenido educativo,
-cultural, científico, técnico o de esparcimiento,
-distribuida para su comercialización o de manera
-gratuita, en formatos impreso o electrónico, analógico
-o digital, en el territorio nacional. El conjunto de obras
-recopiladas constituye el Depósito Legal.
+conservación de toda obra editada o producida en el
+territorio nacional, de contenido educativo, cultural,
+científico
+o
+técnico,
+distribuida
+para
+su
+comercialización o de manera gratuita, en formatos
+impreso o electrónico, analógico o digital. El conjunto
+de obras recopiladas constituye el Depósito Legal.
+Artículo reformado DOF 29-11-2023
 Artículo 34. Las obras a que se refiere el artículo
 anterior podrán ser, de manera enunciativa y no
 limitativa, las siguientes:
@@ -759,6 +766,29 @@ VII. Material gráfico, carteles y diagramas, y
 VIII. Cualquier otra que se considere relevante para
 documentar la memoria del conocimiento en el
 territorio nacional.
+Artículo 34 Bis. Las obras señaladas en el artículo
+anterior se integrarán al Depósito Legal con base en
+lo que señale el reglamento de la Ley y tomando en
+cuenta los siguientes criterios:
+I. Respeto a los derechos de autor y conexos;
+II. Implementación de medidas tecnológicas de
+protección por parte de las Instituciones
+Depositarias;
+III. Obras de contenido educativo, cultural, científico
+o técnico;
+IV.Disponibilidad de los materiales para la consulta
+pública conforme al número de ejemplares
+entregados a cada institución depositaria o, en su
+caso, con base en los acuerdos que se
+
+establezcan con los editores o productores de las
+obras;
+V. Características de entrega de las obras con base
+en sus formatos de edición, distribución o
+difusión, y
+VI.Fomento del trabajo colegiado entre las
+Instituciones receptoras del Depósito Legal.
+Artículo adicionado DOF 29-11-2023
 Artículo 35. No serán objeto de Depósito Legal las
 publicaciones y documentos a que se refiere la Ley
 General de Archivos.
@@ -777,7 +807,6 @@ materiales mencionados en los artículos 33 y 34 de
 esta Ley, deberán entregar ejemplares de todas sus
 ediciones y producciones, de acuerdo con lo
 siguiente:
-
 I.
 
 Dos ejemplares a la Biblioteca de México;
@@ -795,12 +824,15 @@ Artículo 38. Cada uno de los repositorios del
 Depósito Legal, establecerá sus políticas de
 almacenamiento, custodia, conservación y consulta
 pública, con base en las disposiciones aplicables.
-Artículo 39. Los materiales a que se refiere el
-artículo 37, se entregarán dentro de los sesenta días
-naturales siguientes a la fecha de su edición o
-producción, con excepción de las publicaciones
-periódicas que deberán ser entregadas, tan pronto
-sean puestas en circulación.
+Artículo 39. Las obras a que se refieren los artículos
+33, 34 y 34 Bis, se entregarán dentro de los noventa
+días naturales siguientes a la fecha de su publicación,
+distribución comercial, difusión o puesta a disposición,
+salvo aquellas que por la naturaleza de su formato,
+producción o comercialización, requieran de un plazo
+mayor y cuyas prevenciones se establezcan en el
+reglamento.
+Artículo reformado DOF 29-11-2023
 Artículo 40. Las instituciones
 Depósito Legal deberán:
 I.
@@ -850,13 +882,16 @@ de
 
 la
 
-Artículo 43. Los editores y productores del país que
-no cumplan con la obligación consignada en el
-artículo 39 de esta Ley, se harán acreedores a una
-multa equivalente a cincuenta veces el precio de
-venta al público de los materiales no entregados. La
-aplicación de la sanción no excusa al infractor de
-cumplir con la entrega de los materiales.
+Artículo 43. Los editores y productores que no
+cumplan con la obligación consignada en el artículo
+39 de esta Ley, se harán acreedores a una multa
+equivalente a veinte veces el precio de venta al
+público de los materiales no entregados. La aplicación
+de la sanción no excusa al infractor de cumplir con la
+entrega de los materiales. Se exceptúa de lo anterior
+a los editores de obras impresas en cualquier formato
+cuyo tiraje sea inferior a 25 ejemplares.
+Artículo reformado DOF 29-11-2023
 Artículo 44. La Secretaría de Hacienda y Crédito
 Público hará efectivas las sanciones administrativas
 que correspondan conforme a las disposiciones
@@ -865,16 +900,16 @@ concepto de multas se integrará en un fondo para el
 fortalecimiento de los propósitos de Depósito Legal.
 Transitorios
 Primero. La presente Ley entrará en vigor el día
-siguiente al de su publicación en el Diario Oficial de
-la Federación.
+siguiente al de su publicación en el Diario Oficial de la
+Federación.
 Segundo. Se abroga la Ley General de Bibliotecas
 publicada en el Diario Oficial de la Federación el 21
 de enero de 1988.
+
 Tercero. Se abroga el Decreto que dispone la
 obligación de los editores y productores de materiales
 bibliográficos y documentales, de entregar ejemplares
 de sus obras a la Biblioteca Nacional y a la Biblioteca
-
 del Congreso de la Unión, publicado en el Diario
 Oficial de la Federación el 23 de julio de 1991.
 Cuarto. Las erogaciones que se generen con motivo

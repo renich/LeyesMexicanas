@@ -8,7 +8,7 @@ LIBRO
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 24 de julio de 2008
 TEXTO VIGENTE
-Última reforma publicada DOF 19-01-2018
+Última reforma publicada DOF 29-11-2023
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -43,9 +43,9 @@ en la materia, siempre y cuando no contravengan lo
 que en ésta se dispone.
 Artículo 2.- Para efectos de la presente Ley se
 entenderá como:
-Edición: Proceso de formación del libro a partir de la
-selección de textos y otros contenidos para ofrecerlo
-después de su producción al lector.
+Edición: Proceso de formación del libro a partir de
+la selección de textos y otros contenidos para
+ofrecerlo después de su producción al lector.
 
 Editor: Persona física o moral que selecciona o
 concibe una edición y realiza por sí o a través de
@@ -57,34 +57,31 @@ mercado.
 Distribuidor: Persona física o moral legalmente
 constituida, dedicada a la distribución de libros y
 revistas.
-Cadena productiva del libro: Conjunto de industrias
-que participan en los diversos procesos de producción
-del libro, y está conformada por la de la Celulosa y el
-Papel, la de las Artes Gráficas y la Editorial. En la de
-Artes Gráficas se incluye la participación de los que
-brindan servicios editoriales, los impresores y los
-encuadernadores que reciban sus ingresos en más de
-un ochenta por ciento de los trabajos relacionados
-con el libro y la revista.
+Cadena productiva del libro: Conjunto de
+industrias que participan en los diversos procesos de
+producción del libro, y está conformada por la de la
+Celulosa y el Papel, la de las Artes Gráficas y la
+Editorial. En la de Artes Gráficas se incluye la
+participación de los que brindan servicios editoriales,
+los impresores y los encuadernadores que reciban
+sus ingresos en más de un ochenta por ciento de los
+trabajos relacionados con el libro y la revista.
 Cadena del libro: Conjunto de personas físicas o
 morales que inciden en la creación, producción,
 distribución, promoción, venta y lectura del libro.
 Libro: Toda publicación unitaria, no periódica, de
 carácter literario, artístico, científico, técnico,
-educativo, informativo o recreativo, impresa en
-cualquier soporte, cuya edición se haga en su
-totalidad de una sola vez en un volumen o a intervalos
+educativo, informativo o recreativo, impresa o editada
+en cualquier soporte, lenguaje o código, cuya edición
+se haga en su totalidad de una sola vez en un
 
-en varios volúmenes o fascículos. Comprenderá
-también los materiales complementarios en cualquier
-tipo de soporte, incluido el electrónico, que
-conformen, conjuntamente con el libro, un todo
-unitario
-que
-no
-pueda
-comercializarse
-separadamente.
+volumen o a intervalos en varios volúmenes o
+fascículos. Comprenderá también los materiales
+complementarios en cualquier tipo de soporte,
+incluido el electrónico, que conformen, conjuntamente
+con el libro, un todo unitario que no pueda
+comercializarse separadamente.
+Párrafo reformado DOF 29-11-2023
 Revista: Publicación de periodicidad no diaria,
 generalmente ilustrada, encuadernada, con escritos
 sobre varias materias o especializada. Para el objeto
@@ -105,8 +102,8 @@ Sistema Educativo Nacional: Constituido por los
 educandos y educadores, las autoridades educativas,
 los planes, programas, métodos y materiales
 educativos; las instituciones educativas del Estado y
-de sus organismos descentralizados; las instituciones
 
+de sus organismos descentralizados; las instituciones
 de los particulares con autorización o con
 reconocimiento de validez oficial de estudios, y las
 instituciones de educación superior a las que la ley
@@ -132,10 +129,10 @@ legislación vigente, al traductor respecto de su
 traducción, al compilador y a quien extracta o adapta
 obras originales, así como al ilustrador y al fotógrafo,
 respecto de sus correspondientes trabajos.
+
 Precio único de venta al público: Valor de
 comercialización establecido libremente por el editor o
 importador para cada uno de sus títulos.
-
 Vendedores de libros al menudeo: Aquellas
 personas, físicas o morales, que comercializan libros
 al público.
@@ -158,10 +155,10 @@ de la lectura;
 II. Fomentar y estimular la edición, distribución y
 comercialización del libro y las publicaciones
 periódicas;
+
 III. Fomentar y apoyar el establecimiento y desarrollo
 de librerías, bibliotecas y otros espacios públicos y
 privados para la lectura y difusión del libro;
-
 IV. Establecer mecanismos de coordinación
 interinstitucional con los distintos órdenes de gobierno
 y la vinculación con los sectores social y privado, para
@@ -182,20 +179,23 @@ profesional de los diferentes actores de la cadena del
 libro y promotores de la lectura.
 CAPÍTULO II
 DE LAS AUTORIDADES RESPONSABLES
+
 Artículo 5.- Son autoridades encargadas de la
 aplicación de la presente Ley en el ámbito de sus
 respectivas competencias:
 A. La Secretaría de Cultura;
-
 Inciso reformado DOF 17-12-2015
 B. La Secretaría de Educación Pública;
 Inciso reformado DOF 17-12-2015
 C. El Consejo Nacional de Fomento para el Libro y
-la Lectura, y
+la Lectura;
+Inciso reformado DOF 29-11-2023
 D. Los Gobiernos de las entidades federativas,
 municipales y demarcaciones territoriales de la
-Ciudad de México.
-Inciso reformado DOF 19-01-2018
+Ciudad de México, y
+Inciso reformado DOF 19-01-2018, 29-11-2023
+E. La Procuraduría Federal del Consumidor.
+Inciso adicionado DOF 29-11-2023
 Artículo 6.- Corresponde a la Secretaría de Cultura
 y a la Secretaría de Educación Pública, de manera
 concurrente y considerando la opinión y propuestas
@@ -204,6 +204,7 @@ Lectura:
 Párrafo reformado DOF 17-12-2015
 I. Elaborar el Programa de Fomento para el Libro y
 la Lectura, y
+
 II. Poner en práctica las políticas y estrategias
 contenidas en el Programa, estableciendo la
 coordinación interinstitucional con las instancias
@@ -212,7 +213,6 @@ con los distintos sectores de la sociedad civil.
 El Programa de Fomento para el Libro y la Lectura
 será expedido por el Secretario de Cultura.
 Párrafo adicionado DOF 17-12-2015
-
 Artículo 7.- Las autoridades responsables
 emplearán tiempos oficiales y públicos que
 corresponden al Estado en los medios de
@@ -232,6 +232,7 @@ encargados de instrumentar las acciones de fomento
 a la lectura y a la cultura escrita.
 Artículo 10.- Corresponde a la Secretaría de
 Educación Pública:
+
 I. Fomentar el acceso al libro y la lectura en el
 Sistema Educativo Nacional, promoviendo que en él
 se formen lectores cuya comprensión lectora
@@ -239,7 +240,6 @@ corresponda al nivel educativo que cursan, en
 coordinación con las autoridades educativas locales;
 II. Garantizar la distribución oportuna, completa y
 eficiente de los libros de texto gratuitos, así como de
-
 los acervos para bibliotecas escolares y de aula y
 otros materiales educativos indispensables en la
 formación de lectores en las escuelas de educación
@@ -259,6 +259,7 @@ fomento a la lectura y el libro en el Sistema Educativo
 Nacional, con base en los mecanismos de
 participación establecidos en la Ley General de
 Educación;
+
 V. Promover la producción de títulos que
 enriquezcan la oferta disponible de libros, de géneros
 y temas variados, para su lectura y consulta en el
@@ -268,7 +269,6 @@ iniciativa privada, instituciones de educación superior
 e investigación y otros actores interesados;
 VI. Promover la realización periódica de estudios
 sobre las prácticas lectoras en el Sistema Educativo
-
 Nacional y sobre el impacto de la inversión pública en
 programas de fomento a la lectura en este sistema,
 así como la difusión de sus resultados en los medios
@@ -289,6 +289,7 @@ difusión del libro y la lectura, en colaboración con
 autoridades educativas de los diferentes órdenes de
 gobierno, instituciones de educación media superior y
 superior y la iniciativa privada.
+
 Artículo 11.- Corresponde a la Secretaría de
 Cultura:
 Párrafo reformado DOF 17-12-2015
@@ -296,7 +297,6 @@ I. Impulsar, de manera coordinada con las
 autoridades correspondientes de los distintos órdenes
 de gobierno, programas, proyectos y acciones que
 promuevan de manera permanente la formación de
-
 usuarios plenos de la cultura escrita entre la población
 abierta;
 II. Promover conjuntamente con la iniciativa privada
@@ -315,6 +315,7 @@ territoriales de la Ciudad de México, así como con
 miembros de la iniciativa privada en acciones que
 garanticen el acceso de la población abierta a los
 libros a través de diferentes medios gratuitos o
+
 pagados, como bibliotecas, salas de lectura o
 librerías, y
 Fracción reformada DOF 19-01-2018
@@ -322,8 +323,13 @@ VI. Generar programas de desarrollo profesional de
 fomento a la lectura para la población abierta y para
 los bibliotecarios de la red nacional de bibliotecas
 públicas.
+VII. Llevar el registro del precio único de libros a
+partir de la información que le proporcionen los
+editores e importadores de libros, y
+Fracción adicionada DOF 29-11-2023
+VIII. Promover y facilitar el acceso a libros digitales.
+Fracción adicionada DOF 29-11-2023
 CAPÍTULO III
-
 DEL CONSEJO NACIONAL DE FOMENTO PARA
 EL LIBRO Y LA LECTURA
 Artículo 12.- Se crea el Consejo Nacional de
@@ -336,6 +342,7 @@ Artículo reformado DOF 17-12-2015
 Artículo 13.- El Consejo Nacional de Fomento para
 el Libro y la Lectura se regirá por el manual de
 operación que emita, por las disposiciones contenidas
+
 en esta Ley y por lo que quede establecido en su
 Reglamento.
 Artículo 14.- El Consejo estará conformado por:
@@ -350,7 +357,6 @@ Fracción reformada DOF 17-12-2015
 II Bis. Un represente de la Secretaría de Educación
 Pública que designe su titular;
 Fracción adicionada DOF 17-12-2015
-
 III.
 
 El titular del Instituto Nacional de Lenguas
@@ -397,6 +403,7 @@ XIV. El Presidente de la Comisión de Biblioteca y
 Asuntos Editoriales de la Cámara de Senadores,
 y
 Fracción adicionada DOF 02-04-2015
+
 XV. El Presidente de la Comisión Bicamaral del
 Sistemas de Bibliotecas del Congreso de la
 Unión.
@@ -413,7 +420,6 @@ La pertenencia y participación en este Consejo, es a
 título honorario.
 Artículo 15.- El Consejo Nacional de Fomento para
 el Libro y la Lectura tendrá las siguientes funciones:
-
 I. Coadyuvar al cumplimiento y ejecución de la
 presente Ley;
 II. Asesorar en el diseño, formulación y ejecución del
@@ -422,6 +428,7 @@ establecido en el artículo 6 de la presente Ley;
 III. Concertar los esfuerzos e intereses de los
 sectores público y privado para el desarrollo sostenido
 de las políticas nacionales del libro y la lectura;
+
 IV. Proponer a las autoridades competentes la
 adopción de políticas o medidas jurídicas, fiscales y
 administrativas que contribuyan a fomentar y
@@ -438,7 +445,6 @@ datos que contemple: catálogos y directorios
 colectivos de autores, obras, editoriales, industria
 gráfica, bibliotecas y librerías mexicanas, disponible
 para la consulta en red desde cualquier país;
-
 VII. Integrar las comisiones y grupos de trabajo que
 sean necesarios para el cumplimiento de sus
 objetivos;
@@ -446,9 +452,9 @@ VIII. Asesorar, a petición de parte, a los tres niveles
 de gobierno, poderes, órganos autónomos e
 instituciones sociales y privadas en el fomento a la
 lectura y el libro;
-IX. Crear y mantener permanentemente actualizada
-una base de datos, con acceso libre al público, que
-contenga el registro del precio único de los libros;
+IX. Se deroga.
+Fracción derogada DOF 29-11-2023
+
 X. Promover la formación, actualización y
 capacitación de profesionales en los diferentes
 eslabones de la cadena del libro;
@@ -463,7 +469,6 @@ sus actividades;
 XIV. Proponer incentivos para la creación, edición,
 producción, difusión, venta y exportación de libros en
 las diferentes lenguas del país, y apoyar la traducción
-
 a ellas de textos de literatura nacional y universal a
 las diferentes lenguas del país, y
 XV. Expedir su manual de operación conforme al
@@ -475,6 +480,7 @@ mínimo tres veces al año y sobre los asuntos que el
 mismo establezca.
 Artículo 17.- Las reuniones extraordinarias serán
 convocadas por el Presidente, o bien por un tercio de
+
 los integrantes del Consejo, con una antelación de al
 menos 48 horas. En caso de no haber el quórum
 requerido, se trate de reuniones ordinarias o
@@ -491,7 +497,6 @@ decisiones sean válidas deberán ser aprobadas por la
 mayoría de los miembros presentes, salvo en lo
 establecido en el artículo inmediato anterior.
 CAPÍTULO IV
-
 DE LA COORDINACIÓN INTERINSTITUCIONAL,
 INTERGUBERNAMENTAL Y CON LA SOCIEDAD
 CIVIL
@@ -504,6 +509,7 @@ gobierno, con base en los objetivos, estrategias y
 prioridades de la política nacional de fomento a la
 lectura y el libro.
 Artículo reformado DOF 17-12-2015
+
 Artículo 20.- Para impulsar la coordinación
 interinstitucional e intergubernamental en la aplicación
 de la presente Ley, la Secretaría de Cultura deberá:
@@ -520,7 +526,6 @@ II. Establecer compromisos con las instancias y
 organismos internacionales que, mediante convenios
 y acuerdos bilaterales y multilaterales, incentiven el
 desarrollo integral de las políticas públicas en la
-
 materia facilitando a autores, editores, promotores,
 lectores, espacios y alternativas de promoción y
 difusión que favorezcan el conocimiento de nuestra
@@ -532,6 +537,7 @@ fideicomisos, cooperativas y colectivos, cuya labor a
 favor del fomento a la lectura y el libro han sido
 fundamentales para el desarrollo cultural en el país.
 CAPÍTULO V
+
 DE LA DISPONIBILIDAD Y ACCESO EQUITATIVO
 AL LIBRO
 Artículo 21.- En todo libro editado en México,
@@ -547,11 +553,21 @@ o importe libros estará obligada a fijar un precio de
 venta al público para los libros que edite o importe. El
 editor o importador fijará libremente el precio de venta
 al público, que regirá como precio único.
+Artículo 23.- Previo a su venta a los consumidores,
+los editores o importadores de libros deberán registrar
+el precio único de los libros en la base de datos a
+cargo de la Secretaría de Cultura, la cual estará
+disponible a la consulta pública. En dicha base se
+registrará al menos:
+I. Nombre, denominación o razón social y domicilio
+del editor;
+II. Datos que identifiquen al libro y su autor;
+III. Número Internacional Normalizado del Libro
+(ISBN);
 
-Artículo 23.- El precio se registrará en una base de
-datos a cargo del Consejo Nacional de Fomento para
-el Libro y la Lectura y estará disponible para consulta
-pública.
+IV. Fecha de impresión o importación, y
+V. Precio único de venta al público.
+Artículo reformado DOF 29-11-2023
 Artículo 24.- Los vendedores de libros al menudeo
 deben aplicar el precio único de venta al público sin
 ninguna variación, excepto en lo establecido en el
@@ -563,23 +579,33 @@ reventa, hagan el Estado, las bibliotecas que ofrezcan
 atención al público o préstamo, los establecimientos
 de enseñanza y de formación profesional o de
 investigación.
-Artículo 26.- Los vendedores de libros podrán
-aplicar precios inferiores al precio de venta al público
-mencionado en el artículo 22 de la presente Ley,
-cuando se trate de libros editados o importados con
-más de dieciocho meses de anterioridad, así como los
-libros antiguos, los usados, los descatalogados, los
-agotados y los artesanales.
+Artículo 26.- El precio único de venta al público
+tendrá una vigencia de treinta y seis meses contados
+a partir de la fecha de impresión o reimpresión
+consignada en el colofón o en el pedimento de
+importación. Se exceptúa de lo anterior a los libros
+impresos antiguos, usados, descatalogados, agotados
+o artesanales. En tanto un libro impreso en papel esté
+sujeto al régimen de precio único, su versión
+electrónica equivalente estará sujeta a las mismas
+disposiciones.
+Artículo reformado DOF 29-11-2023
+
 Artículo 27.- Las acciones para detener y reparar
 las violaciones al precio único establecido en esta Ley
-pueden ser emprendidas por cualquier competidor,
-por profesionales de la edición y difusión del libro, así
-como por autores o por cualquier organización de
-defensa de autores.
-
-Dicha defensa se llevará a cabo por vía
-jurisdiccional y en su caso por medio de arbitraje para
-lo cual el consejo podrá actuar como perito.
+pueden ser emprendidas por cualquier consumidor,
+competidor, profesionales de la edición y difusión del
+libro, autores, sociedades de gestión colectiva o
+cualquier organización de defensa de consumidores.
+Artículo reformado DOF 29-11-2023
+Artículo 28.- Corresponde a la Procuraduría Federal
+del Consumidor proteger y vigilar la distribución y
+comercialización de libros en los términos de la
+presente Ley o, en su caso, aplicar las medidas
+necesarias y las sanciones correspondientes que
+garanticen su cumplimiento conforme a las
+disposiciones aplicables.
+Artículo adicionado DOF 29-11-2023
 TRANSITORIOS
 Artículo Primero.- La presente Ley entrará en vigor
 al día siguiente de su publicación en el Diario Oficial
@@ -592,6 +618,7 @@ Diario Oficial de la Federación el 8 de junio del año
 Artículo Tercero.- En el término de noventa días
 contados a partir de la entrada en vigor de la presente
 Ley deberá formarse el Consejo Nacional de Fomento
+
 para el Libro y la Lectura con base en lo establecido
 en los artículos 12 y 14 de la presente Ley. De no
 hacerlo, convocará la Secretaría Ejecutiva.
@@ -602,7 +629,6 @@ días de su integración.
 Artículo Quinto.- El Programa de Fomento para el
 Libro y la Lectura establecido en el artículo 6 de la
 presente Ley tendrá que ser expedido por el
-
 Secretario de Educación Pública en un plazo no
 mayor a 120 días naturales contados a partir de la
 entrada en vigor de esta Ley.
