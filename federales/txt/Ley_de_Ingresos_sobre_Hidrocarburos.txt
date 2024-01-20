@@ -10,7 +10,7 @@ TEXTO VIGENTE
 Última reforma publicada DOF 09-12-2019
 
 Cantidades actualizadas por Resolución Miscelánea Fiscal
-DOF 27-12-2022
+DOF 29-12-2023
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -679,8 +679,9 @@ América por Barril, de 7.5%, y
 b) Cuando el Precio Contractual del Petróleo
 sea mayor o igual a 48 dólares de los Estados
 Unidos de América por Barril:
-Tasa = [(0.125 x Precio Contractual del Petróleo) +
-1.5 ]%
+Tasa [(0.125 x Precio Contractual del
+=
+Petróleo) + 1.5 ]%
 II. Al Valor Contractual del Gas Natural, se le
 aplicará la siguiente tasa:
 a) Cuando se trate de Gas Natural Asociado:
@@ -721,8 +722,12 @@ y
 b) Cuando el Precio Contractual de los
 Condensados sea mayor o igual a 60 dólares
 de los Estados Unidos de América por Barril:
-Tasa = [(0.125 x Precio Contractual de los Condensados) –
-2.5 ] %
+Tasa = [(0.125 x Precio Contractual
+Condensados) – 2.5 ] %
+
+de
+
+los
 
 Para la determinación de las tasas para el cálculo de
 las Regalías contempladas en este artículo se
@@ -1695,17 +1700,19 @@ Barril, de 7.5%, y
 b) Cuando el precio del Petróleo sea mayor o
 igual a 48 dólares de los Estados Unidos de
 América por Barril:
-
 Tasa=
 
-[ (0.125 x precio del Petróleo) + 1.5 ] %
+[ (0.125 x precio del Petróleo) + 1.5 ]
+%
 
 II. Al valor del Gas Natural, se le aplicará la
 siguiente tasa:
 a) Cuando se trate de Gas Natural Asociado:
-Precio del Gas Natural
 Tasa =
+
+Precio del Gas Natural
 100
+
 b) Cuando se trate de Gas Natural No
 Asociado:
 
@@ -1715,17 +1722,12 @@ América por millón de BTU, de 0%;
 ii. Cuando el precio del Gas Natural sea mayor
 a 5 y menor a 5.5 dólares de los Estados
 Unidos de América por millón de BTU:
+Tasa = [
 
-Tasa =
-
-[
-
-(Precio del Gas Natural – 5) x
-60.5
-]
+(Precio del Gas Natural – 5) x 60.5
 Precio del Gas Natural
 
-%
+] %
 
 iii. Cuando el precio del Gas Natural sea
 mayor o igual a 5.5 dólares de los Estados
@@ -1741,9 +1743,15 @@ América por Barril, de 5%, y
 b) Cuando el precio de los Condensados sea
 mayor o igual a 60 dólares de los Estados
 Unidos de América por Barril:
-Tasa=
+Tasa= [
+(0.125
+x
+Precio
+Condensados) – 2.5 ] %
 
-[ (0.125 x Precio de los Condensados) – 2.5 ] %
+de
+
+los
 
 Para la determinación de las tasas para el cálculo
 del derecho a que se refiere este artículo se deberán
@@ -1761,7 +1769,7 @@ mensual del derecho de exploración de hidrocarburos,
 por la parte del Área de Asignación que no se
 encuentre en la fase de producción, de conformidad
 con las siguientes cuotas:
-I. Durante los primeros 60 1,669.53
+I. Durante los primeros 60 1,741.65
 pesos
 por
 meses de vigencia de la kilómetro cuadrado
@@ -1769,9 +1777,9 @@ Asignación
 Cantidad de la fracción
 actualizada por resolución
 miscelánea fiscal DOF 0104-2016, 06-01-2017, 24-122018, 17-01-2020,
-11-01-2021, 13-01-2022, 2712-2022
+11-01-2021, 13-01-2022, 2712-2022, 29-12-2023
 
-II. A partir del mes 61 de 3,992.39
+II. A partir del mes 61 de 4,164.86
 pesos
 por
 vigencia de la Asignación y kilómetro cuadrado
@@ -1779,7 +1787,7 @@ en adelante
 Cantidad de la fracción
 actualizada por resolución
 miscelánea fiscal DOF 0104-2016, 06-01-2017, 24-122018, 17-01-2020,
-11-01-2021, 13-01-2022, 2712-2022
+11-01-2021, 13-01-2022, 2712-2022, 29-12-2023
 Las cuotas del derecho de exploración de
 hidrocarburos se actualizarán cada año en el mes de
 enero, de acuerdo a la variación en el Índice Nacional
@@ -2101,13 +2109,15 @@ que comprenda el Área Contractual o el Área de
 Asignación, las siguientes cuotas:
 I.
 
-Durante la fase de exploración 2,177.64 pesos, y
+Durante la fase de exploración 2,271.71 pesos, y
 Cantidad de la fracción actualizada por resolución
-miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-122018, 17-01-2020, 11-01-2021, 13-01-2022, 27-12-2022
+miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-122018, 17-01-2020, 11-01-2021, 13-01-2022, 27-12-2022,
+29-12-2023
 
-II. Durante la fase de extracción 8,710.69 pesos.
+II. Durante la fase de extracción 9,086.99 pesos.
 Cantidad de la fracción actualizada por resolución
-miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-122018, 17-01-2020, 11-01-2021, 13-01-2022, 27-12-2022
+miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-122018, 17-01-2020, 11-01-2021, 13-01-2022, 27-12-2022,
+29-12-2023
 Para los efectos de este artículo, la Fase de
 Exploración comprende desde la formalización del
 Contrato o de la Asignación hasta el inicio de la Fase
@@ -2123,8 +2133,8 @@ el centésimo.
 Las cuotas del impuesto previsto en el presente
 Título, se actualizarán anualmente el primero de
 enero de cada año, considerando el periodo
-comprendido desde el decimotercer mes inmediato
 
+comprendido desde el decimotercer mes inmediato
 anterior y hasta el último mes anterior a aquél en que
 se efectúa la actualización.
 No se causará el impuesto por la actividad de
@@ -2152,9 +2162,9 @@ contribuyente. Dicha compensación deberá realizarse
 conforme a lo previsto en el artículo 17-A del Código
 Fiscal de la Federación, considerándose el periodo
 comprendido desde el mes en el que se obtenga la
+
 cantidad a favor, hasta el mes en el que se realice la
 compensación.
-
 Párrafo adicionado DOF 09-12-2019
 Para el cumplimiento de lo dispuesto en este Título
 se aplicarán en lo conducente, las disposiciones
@@ -2182,9 +2192,9 @@ las Áreas de Asignación se ubiquen en regiones
 terrestres, el 100% de los recursos recaudados
 se destinará a la entidad federativa donde se
 sitúen dichas áreas. Las entidades federativas
+
 deberán distribuir al menos el 20% de los
 recursos a los municipios en donde se
-
 encuentren las Áreas Contractuales o las Áreas
 de Asignación, considerando la extensión de las
 mismas respecto del total correspondiente a la
@@ -2210,10 +2220,10 @@ Para efectos del párrafo anterior, la Comisión
 Nacional de Hidrocarburos, deberá proveer a la
 Secretaría la información necesaria, de acuerdo
 a las reglas de operación señaladas, y
+
 IV. La totalidad de los recursos se deberá destinar a
 inversión en infraestructura para resarcir, entre
 otros fines, las afectaciones al entorno social y
-
 ecológico.
 Las
 entidades
@@ -2243,12 +2253,16 @@ materia de transparencia derivadas de las
 disposiciones aplicables, el Fondo Mexicano del
 Petróleo y la Secretaría deberán hacer pública
 mensualmente por medios electrónicos y mantener
-actualizada, en lo que corresponda a sus
+
+actualizada, en lo que corresponda
 atribuciones, la siguiente información:
 I.
 
-Por cada Contrato y de manera agregada:
+a
 
+sus
+
+Por cada Contrato y de manera agregada:
 a) Volumen producido, por tipo de Hidrocarburo;
 b) Ingresos derivados de la comercialización
 de los Hidrocarburos que realice el Estado;
@@ -2272,11 +2286,11 @@ de
 los
 Condensados, del Gas Natural y del Petróleo,
 para cada Periodo;
+
 h) Monto de los honorarios fiduciarios
 cobrados por el Fondo Mexicano del Petróleo;
 i) Casos en los que se haya aplicado un
 Mecanismo de Ajuste y el resultado del mismo;
-
 j) Montos de inversión
 Contratistas;
 
@@ -2300,12 +2314,12 @@ c) Montos recibidos por concepto de cada uno de
 los derechos;
 d) Montos de las inversiones reportadas por
 los Asignatarios, y
+
 e) Montos de los costos deducibles y los
 efectivamente deducidos por los Asignatarios
 en el periodo;
 III. De manera agregada, el monto del impuesto
 sobre la renta pagado por los Contratistas y
-
 Asignatarios, y en su caso, el monto de las
 devoluciones efectuadas;
 IV. Los convenios o bases de coordinación que se
@@ -2325,11 +2339,11 @@ que se refiere el artículo 37, apartado B,
 fracción X, de esta Ley, así como el reporte
 obtenido de la Comisión Nacional de
 Hidrocarburos;
+
 d) Los casos en que se haya ejercido la
 función a que se refiere el artículo 37, apartado
 A, fracción VII, y apartado B, fracción XI, de
 esta Ley, y
-
 e) Los montos de los créditos fiscales firmes
 determinados a los Asignatarios con motivo de
 las revisiones que se practiquen en términos
@@ -2353,12 +2367,12 @@ Mexicano del Petróleo se considerarán federales y
 quedarán sujetos a las facultades de fiscalización de
 las autoridades federales, conforme a las
 disposiciones jurídicas aplicables.
+
 Con el objeto de garantizar que los recursos del
 Fondo Mexicano del Petróleo se utilicen para los fines
 autorizados, se deberán establecer procedimientos y
 mecanismos de control, seguimiento y registro de
 operaciones claros y transparentes, para que la
-
 Secretaría y demás autoridades fiscalizadoras puedan
 verificarlas
 periódicamente,
@@ -2386,12 +2400,12 @@ condiciones económicas relativas a los términos
 fiscales, así como los servidores públicos de la
 Secretaría de Energía responsables de adjudicar las
 Asignaciones o del diseño técnico de los Contratos,
+
 así como de los lineamientos técnicos que deberán
 observarse en el proceso de licitación de dichos
 contratos contarán, en términos de los lineamientos
 que emita la Secretaría, con seguros, fianzas o
 cauciones, que cubran el monto de la indemnización
-
 por los daños que cause su actuación en el ejercicio
 de sus atribuciones, o bien, seguros para asumir los
 servicios de defensa y asistencia legal de dichos
@@ -2414,13 +2428,13 @@ de Administración Tributaria la realización de las
 auditorías y visitas a que se refiere la fracción VII del
 apartado B del artículo 37 de esta Ley.
 Artículo reformado DOF 07-12-2016
+
 Artículo 64.- Para los efectos de esta Ley, así como
 para la Ley del Impuesto sobre la Renta se considera
 que se constituye establecimiento permanente
 cuando un residente en el extranjero realice las
 actividades a que se refiere la Ley de Hidrocarburos,
 en territorio nacional o en la zona económica
-
 exclusiva sobre la cual México tenga derecho, en un
 periodo que sume en conjunto más de 30 días en
 cualquier periodo de 12 meses.
@@ -2449,13 +2463,13 @@ con
 dicho
 establecimiento, respecto de un empleo relacionado
 con las actividades de los Contratistas o Asignatarios
+
 a los que se refiere la Ley de Hidrocarburos, realizado
 en territorio nacional o en la zona económica
 exclusiva sobre la cual México tenga derecho, en un
 plazo que exceda de 30 días en cualquier período de
 12 meses, estarán gravados de conformidad con el
 artículo 154 de la Ley del Impuesto sobre la Renta.
-
 ARTÍCULO SEGUNDO. Se establecen las
 siguientes disposiciones transitorias de la Ley de
 Ingresos sobre Hidrocarburos:
@@ -2484,6 +2498,7 @@ Ingresos sobre Hidrocarburos.
 III. Petróleos Mexicanos y sus organismos
 subsidiarios podrán solicitar y obtener la
 migración a Contratos de las Asignaciones que
+
 se les adjudiquen en términos del sexto
 transitorio del Decreto por el que se reforman y
 adicionan
@@ -2494,7 +2509,6 @@ la
 Constitución Política de los Estados Unidos
 Mexicanos, en Materia de Energía, publicado en
 el Diario Oficial de la Federación el 20 de
-
 diciembre de 2013; de ser el caso, por las
 actividades de Exploración y Extracción de
 Hidrocarburos derivadas de estos Contratos
@@ -2519,13 +2533,13 @@ entregarse al Fondo Mexicano del Petróleo para
 la Estabilización y el Desarrollo.
 V. Sin perjuicio de lo dispuesto en las fracciones
 anteriores, durante el ejercicio fiscal 2014
+
 Petróleos Mexicanos y sus organismos
 subsidiarios estarán sujetos al régimen fiscal
 previsto en la Ley de Ingresos de la Federación
 para el Ejercicio Fiscal 2014. A partir del ejercicio
 fiscal 2015, no se establecerá en la Ley de
 Ingresos de la Federación correspondiente dicho
-
 régimen fiscal, por lo que Petróleos Mexicanos y
 sus organismos subsidiarios estarán sujetos a la
 Ley del Impuesto Sobre la Renta.
@@ -2549,11 +2563,11 @@ o Fiscal ntaje
 2017 11.550
 %
 2018 12.025
+
 %
 VIII. Para los efectos de los artículos 39 y 42 de la
 Ley de Ingresos sobre Hidrocarburos, en lugar
 de aplicar la tasa contenida en el citado artículo
-
 39, durante los ejercicios fiscales 2015 al 2018
 se aplicarán las siguientes tasas:
 Ejercicio
@@ -2591,12 +2605,12 @@ Hidrocarburos y la Ley de Ingresos sobre
 Hidrocarburos. Asimismo, el Gobierno Federal
 podrá establecer mecanismos o instrumentos
 financieros para asegurar la estabilidad y certeza
+
 de los elementos económicos de los actos a que
 se refiere esta ley.
 El vehículo financiero especializado del Estado
 Mexicano a que se refiere el artículo 16 de la Ley
 de Hidrocarburos podrá recibir recursos de los
-
 vehículos o mecanismos de financiamiento que
 se establezcan conforme a lo dispuesto en el
 párrafo primero de esta fracción. Lo anterior, sin
@@ -2624,6 +2638,7 @@ aplicable, conforme a sus facultades legales,
 para el reporte para efectos contables y
 financieros de las Asignaciones o Contratos, así
 como los beneficios esperados de los mismos.
+
 Las
 adecuaciones
 señaladas
@@ -2634,7 +2649,6 @@ referido al Fondo Mexicano del Petróleo y a la
 Secretaría, así como notificar a ambos los
 eventos relevantes que, en términos de las
 disposiciones aplicables, deban informarse. Lo
-
 dispuesto en este párrafo deberá preverse como
 una obligación a cargo de los Asignatarios y
 Contratistas en las Asignaciones o Contratos
@@ -2655,6 +2669,7 @@ los pagos establecidos en la fracción I del artículo
 16 de la Ley del Fondo Mexicano del Petróleo
 para la Estabilización y el Desarrollo y los
 rendimientos de la Reserva del Fondo, el
+
 Gobierno Federal entregará a las entidades
 federativas y municipios, con cargo al Presupuesto
 de Egresos de la Federación del siguiente
@@ -2662,7 +2677,6 @@ ejercicio fiscal, una cantidad equivalente al monto
 que les correspondería como participaciones de
 considerar participable, en términos de la Ley de
 Ingresos del año de que se trate, el monto que
-
 resulte de descontar del excedente que se registre
 entre los ingresos observados y los ingresos
 estimados, la diferencia existente entre el monto
@@ -2687,6 +2701,7 @@ este Decreto, el Gobierno Federal entregará a las
 entidades federativas y los municipios, con cargo
 al Presupuesto de Egresos de la Federación del
 siguiente ejercicio fiscal, una cantidad equivalente
+
 a la diferencia entre el monto que les hubiera
 correspondido como participaciones conforme a
 las
@@ -2698,7 +2713,6 @@ monto
 efectivamente observado conforme a lo dispuesto
 en el párrafo tercero del artículo 2o. de la Ley de
 Coordinación Fiscal.
-
 Los recursos que se entreguen a las entidades
 federativas y municipios en términos de la fracción I
 de este transitorio no podrán ser mayores a 11,800

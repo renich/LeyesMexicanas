@@ -8,7 +8,7 @@ VIAL
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 17 de mayo de 2022
 TEXTO VIGENTE
-Última reforma publicada DOF 08-05-2023
+Última reforma publicada DOF 29-12-2023
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -142,10 +142,12 @@ asegurar el acceso de las personas con
 discapacidad, en igualdad de condiciones con
 los demás, al entorno físico, el transporte, la
 información y las comunicaciones, incluidos los
-sistemas y las tecnologías de la información, y
-otros servicios e instalaciones abiertos al
-público o de uso público, tanto en zonas
-urbanas como rurales e insulares;
+sistemas y las tecnologías de la información, la
+accesibilidad cognitiva y otros servicios e
+instalaciones abiertos al público o de uso
+público, tanto en zonas urbanas como rurales
+e insulares;
+Fracción reformada DOF 29-12-2023
 
 II.
 
@@ -181,8 +183,8 @@ ambulancia;
 V. Auditorías de Seguridad Vial: Metodología
 aplicable a cualquier infraestructura vial para
 identificar, reconocer y corregir las deficiencias
-antes de que ocurran siniestros viales o
 
+antes de que ocurran siniestros viales o
 cuando éstos ya están sucediendo. Las
 auditorías de seguridad vial buscan identificar
 riesgos de la vía con el fin de emitir
@@ -1302,12 +1304,14 @@ garantizar, al menos, lo siguiente:
 I.
 
 Que los servicios de transporte prevean
-vehículos y entornos con diseño universal y en
-su caso, con ayudas técnicas para la
-accesibilidad de personas con discapacidad y
-movilidad limitada, con las acciones afirmativas
-y los ajustes razonables que se requieran para
-ello;
+vehículos y entornos con diseño universal,
+incluida la accesibilidad cognitiva y en su caso,
+con ayudas técnicas para la accesibilidad de
+personas con discapacidad y movilidad limitada,
+apoyos a la comunicación y a la información con
+las acciones afirmativas y los ajustes razonables
+que se requieran para ello;
+Fracción reformada DOF 29-12-2023
 
 II.
 
@@ -1316,20 +1320,21 @@ contemplando infraestructura que permita que
 las personas con discapacidad y movilidad
 limitada se desplacen de manera segura, tales
 como rutas accesibles, señales auditivas,
-visuales, táctiles, rampas, entre otras;
+visuales, táctiles, rampas, información en
+formatos accesibles, entre otras;
+Fracción reformada DOF 29-12-2023
 
 III. Que se contribuya a la accesibilidad de las
-personas con discapacidad y movilidad
-limitada, aportando especificaciones de diseño
-universal que permitan construir un entorno
-incluyente, y
-IV. Que las modalidades de transporte en las
-zonas remotas y de difícil acceso, así como en
-los territorios insulares contemplen las rutas y
-los servicios más seguros, incluyentes,
-accesibles y asequibles para las personas.
-Artículo 15. De la eficiencia.
+personas con discapacidad y movilidad limitada,
+aportando especificaciones de diseño universal
+que permitan construir un entorno incluyente, y
+IV. Que las modalidades de transporte en las zonas
+remotas y de difícil acceso, así como en los
+territorios insulares contemplen las rutas y los
 
+servicios más seguros, incluyentes, accesibles y
+asequibles para las personas.
+Artículo 15. De la eficiencia.
 Las autoridades deben, en todo tiempo, maximizar
 los desplazamientos ágiles y asequibles, optimizando
 los recursos ambientales y económicos, y hacer uso
@@ -1353,11 +1358,11 @@ en la sociedad y en el medio ambiente, derivados de
 las actividades de transporte, en particular, la
 congestión vehicular, la contaminación del aire, la
 emisión de gases de efecto invernadero, entre otras.
+
 Artículo 18. Las políticas en materia de movilidad
 que se determinen por las autoridades de los tres
 órdenes de gobierno, promoverán e incentivarán la
 gradual adopción de las innovaciones tecnológicas en
-
 los sistemas aplicados al transporte, vehículos,
 combustibles, fuentes de energía e infraestructura.
 Artículo 19. De la calidad.
@@ -1385,11 +1390,11 @@ procurarán proporcionar, de manera progresiva,
 servicios de transporte específico para personas con
 discapacidad.
 Artículo 21. De la inclusión e igualdad.
+
 El sistema de movilidad debe ser igualitario,
 equitativo e inclusivo, por lo que las autoridades
 competentes deberán garantizar la equiparación de
 las oportunidades de la población para alcanzar un
-
 efectivo ejercicio de su derecho a la movilidad,
 independientemente del modo que utilice para
 trasladarse, poniendo especial énfasis en los grupos
@@ -1408,42 +1413,39 @@ vigilarán que el sistema de movilidad se
 modifique y adapte en la medida necesaria y
 adecuada, sin que se impongan cargas
 desproporcionadas, cuando se requiera, para
-asegurar que las personas gocen o ejerzan
-sus derechos en igualdad de condiciones, con
+asegurar que las personas gocen o ejerzan sus
+derechos en igualdad de condiciones, con
 dignidad y autonomía.
 
 II.
 
-Diseño universal: Todos los componentes de
-los sistemas de movilidad deben seguir
-criterios de diseño que incluyan a todas las
-personas, independientemente de su situación
-o condición y equiparando oportunidades.
+Diseño universal: Todos los componentes de los
+sistemas de movilidad deben seguir criterios de
+diseño que incluyan a todas las personas,
+independientemente de su situación o condición
+y equiparando oportunidades.
 
-III. Perspectiva de género: El sistema de
-movilidad debe tener las condiciones
-adecuadas
-y
-diseñarse
-considerando
-estrategias que mejoren y faciliten el acceso e
-
-inclusión de las mujeres en un marco de
-seguridad y conforme a sus necesidades, con
-el fin de garantizar la igualdad de género.
+III. Perspectiva de género: El sistema de movilidad
+debe tener las condiciones adecuadas y
+diseñarse considerando estrategias que mejoren
+y faciliten el acceso e inclusión de las mujeres
+en un marco de seguridad y conforme a sus
+necesidades, con el fin de garantizar la igualdad
+de género.
 IV. Pluriculturalidad y multilingüismo: El espacio
 público y el sistema de transporte deben
 garantizar el respeto por la pluriculturalidad y
 deben contemplar mecanismos que garanticen
 la accesibilidad de las personas indígenas,
-afromexicanas, con discapacidad en materia
-lingüística.
+afromexicanas y sordas hablantes de lenguas
+de señas.
+Fracción reformada DOF 29-12-2023
 V. Prioridad en el uso de la vía: El sistema de
 movilidad debe garantizar el uso equitativo del
-espacio público por parte de todas las
-personas usuarias, de acuerdo con la jerarquía
-de la movilidad y las necesidades territoriales
-de los centros de población.
+espacio público por parte de todas las personas
+usuarias, de acuerdo con la jerarquía de la
+movilidad y las necesidades territoriales de los
+centros de población.
 Artículo 23. Derechos de las víctimas de
 siniestros de tránsito y sus familiares.
 En todo proceso de carácter administrativo, penal o
@@ -1451,6 +1453,7 @@ civil que se lleve a cabo como consecuencia de un
 siniestro de tránsito, las autoridades competentes
 deberán garantizar a las víctimas los siguientes
 derechos:
+
 I.
 
 Recibir la información, orientación y asesoría
@@ -1487,12 +1490,12 @@ considerar
 las
 condiciones de vulnerabilidad que les afecten,
 y
+
 VI. Todos los demás derechos reconocidos en la
 Constitución, en los Tratados Internacionales
 en materia de derechos humanos de los que el
 Estado Mexicano es parte y demás
 instrumentos internacionales en la materia.
-
 En los procesos penales iniciados con motivo de un
 siniestro de tránsito en el que se hubiere actualizado
 algún tipo penal, las víctimas gozarán de los derechos
@@ -1516,10 +1519,10 @@ materia de movilidad, seguridad vial y ordenamiento
 territorial, y demás aplicables, así como aquellas
 específicas a los grupos en situación de
 vulnerabilidad.
+
 La Estrategia Nacional de Movilidad y Seguridad Vial
 será formulada y aprobada por el Sistema Nacional y
 publicada en el Diario Oficial de la Federación.
-
 Artículo 25. Formulación de la Estrategia
 Nacional de Movilidad y Seguridad Vial.
 Para la formulación de la Estrategia Nacional se
@@ -1548,11 +1551,11 @@ IV. Establecimiento de mecanismos para el
 fortalecimiento de las políticas y acciones
 afirmativas en materia de movilidad y
 seguridad vial;
+
 V. Promoción de la congruencia de las políticas,
 programas y acciones, que, en los distintos
 órdenes de gobierno, deberán implementarse
 en materia de movilidad y seguridad vial;
-
 VI. Conformación de las estrategias que
 promuevan modos de transporte público
 sostenible y seguro, el uso de vehículos no
@@ -1579,12 +1582,12 @@ La Estrategia Nacional tendrá una visión con un
 horizonte a corto, mediano y largo plazo del desarrollo
 nacional de la movilidad y la seguridad vial. Tendrá
 como objetivo gestionar, desde un enfoque de
+
 sistemas seguros, la movilidad y seguridad vial, con la
 premisa que el cambio en su instrumentación será
 progresivo, las acciones y políticas deberán obedecer
 a un proceso iterativo. Podrá ser revisada y, en su
 caso, actualizada cada cuatro años o cuando ocurran
-
 cambios profundos que puedan afectar la estructura
 de movilidad del país. Su elaboración y modificación
 será conforme a lo siguiente:
@@ -1614,6 +1617,7 @@ Sistema de Información Territorial y Urbano
 Sección Primera
 Movilidad y Seguridad Vial dentro del Sistema de
 Información Territorial y Urbano
+
 Artículo 27. Indicadores y Bases de Datos de
 Movilidad y Seguridad Vial contenidas en el
 Sistema de Información Territorial y Urbano.
@@ -1621,7 +1625,6 @@ El Sistema de Información Territorial y Urbano es un
 instrumento de la Ley General de Asentamientos
 Humanos, Ordenamiento Territorial y Desarrollo
 Urbano que tiene por objeto organizar, actualizar y
-
 difundir la información e indicadores sobre el
 ordenamiento territorial y el desarrollo urbano, donde
 además se integra, organiza, actualiza, publica y
@@ -1647,13 +1650,13 @@ La protección y publicidad de la información
 contenida en el Sistema de Información Territorial y
 Urbano se realizará en términos de lo establecido en
 las Leyes Federal y General de Transparencia y
+
 Acceso a la Información Pública y General de
 Protección de Datos Personales en Posesión de
 Sujetos Obligados y demás legislación aplicable.
 El Sistema de Información Territorial y Urbano en
 materia de movilidad y seguridad vial estará
 conformado por una base de datos integrada por la
-
 información que proporcionen las autoridades
 federales, las entidades federativas, los municipios y
 las demarcaciones territoriales, en el ámbito de sus
@@ -1678,6 +1681,7 @@ de Datos de Movilidad y Seguridad Vial.
 La integración de indicadores y bases de datos del
 Sistema de Información Territorial y Urbano se
 integrarán por las siguientes:
+
 I.
 
 Base de Datos sobre información de movilidad,
@@ -1688,9 +1692,9 @@ II.
 Base de Datos de información y seguimiento
 de seguridad vial.
 Sección Segunda
-
 De las Bases de Datos sobre Movilidad y
 Seguridad Vial
+
 Artículo 29. Bases de Datos sobre Movilidad y
 Seguridad Vial.
 La Federación y las entidades federativas, en el
@@ -1714,13 +1718,13 @@ Licencias de conducir, incluyendo el tipo de
 licencia y seguros registrados por vehículo;
 
 III. Operadores de servicios de transporte;
+
 IV. Conductores de vehículos de servicios de
 transporte;
 V. Información sobre infracciones cometidas y
 cumplimiento de las sanciones respectivas;
 VI. Información sobre siniestros de tránsito, con
 datos que permitan, al menos, geolocalizar el
-
 lugar del siniestro a nivel de sitio, conocer el
 tipo de vehículo involucrado, la existencia de
 personas lesionadas y de víctimas fatales, por
@@ -1740,12 +1744,12 @@ X. Alta y baja de placas de vehículos nuevos o
 usados;
 XI. Información respecto de adecuaciones de
 infraestructura y red vial;
+
 XII. Información sobre los resultados de las
 auditorías e inspecciones de seguridad vial, y
 XIII. La información que el Sistema Nacional
 determine necesaria para la debida integración
 de las Bases de Datos.
-
 Para el caso de vehículos no motorizados,
 específicamente bicicletas, monopatines, y otros
 vehículos sin motor de combustión interna, cuya
@@ -1768,6 +1772,7 @@ seguridad vial.
 La información de las entidades federativas deberá
 ser remitida en datos georreferenciados y
 estadísticos, indicadores de movilidad, seguridad vial
+
 y gestión administrativa, así como indicadores
 incluidos en los instrumentos de planeación e
 información sobre el avance de los proyectos y
@@ -1775,7 +1780,6 @@ programas locales.
 CAPÍTULO V
 Planeación y Programación de la Movilidad y la
 Seguridad Vial
-
 Sección Primera
 Política de Movilidad y Seguridad Vial
 Artículo 31. Criterios de Movilidad y Seguridad
@@ -1800,6 +1804,7 @@ territorial.
 La planeación de la movilidad y de la seguridad vial
 realizada por cualquiera de los tres órdenes de
 gobierno, integrará los principios y jerarquía de la
+
 movilidad establecidos en esta Ley, observando las
 siguientes acciones:
 I.
@@ -1833,13 +1838,13 @@ V. Establecer medidas que fomenten una
 movilidad sustentable y que satisfagan las
 necesidades de desplazamiento de la
 población, logren un sistema de integración
+
 física, operativa, informativa, de imagen y de
 modo de pago conectado a las vías urbanas y
 metropolitanas;
 VI. Priorizar la planeación de los sistemas de
 transporte público, de la estructura vial y de la
 movilidad no motorizada y tracción humana;
-
 VII. Establecer acciones afirmativas y ajustes
 razonables en materia de accesibilidad y
 diseño universal, en los sistemas de movilidad
@@ -1865,15 +1870,18 @@ sistemas de movilidad; así como evitar gravar
 y sobre regular los servicios de autotransporte
 federal, transporte privado y sus servicios
 auxiliares regulados por la Secretaría de
+
 Infraestructura,
-Comunicaciones
-y
 Transportes;
+
+Comunicaciones
+
+y
+
 X. Promover acciones que contribuyan a mejorar
 la calidad del medio ambiente, a través de la
 reducción de la contaminación del aire, las
 emisiones de gases de efecto invernadero, el
-
 consumo de energía y el ruido, derivados del
 impacto de la movilidad;
 XI. Promover la participación ciudadana en la
@@ -1899,11 +1907,11 @@ violencias de género al hacer uso de la vía. Lo
 anterior debe tomar en consideración la
 interseccionalidad de las mujeres, y los
 principios de equidad y transversalidad;
+
 XV. Establecer mecanismos y acciones de
 coordinación administrativa y de concertación
 entre los sectores público, privado y social en
 materia de movilidad y seguridad vial;
-
 XVI. Garantizar que los factores como la
 velocidad y la circulación cercana a vehículos
 motorizados no pongan en riesgo a personas
@@ -1926,13 +1934,13 @@ programas de ordenamiento ecológico del
 territorio y protección al medio ambiente,
 conforme a las disposiciones jurídicas
 ambientales aplicables;
+
 XIX. Los planes o programas de desarrollo
 urbano deberán considerar las Normas
 Oficiales Mexicanas emitidas en materia de
 movilidad y transporte, y
 XX. Implementar estrategias de movilidad urbana,
 interurbana, rural e insular sostenible a
-
 mediano y largo plazo privilegiando el
 establecimiento de transporte colectivo, de
 movilidad no motorizada y de tracción humana
@@ -1957,9 +1965,9 @@ disponible y los diagnósticos, que promuevan
 la implementación de acciones afirmativas y
 con perspectiva de género que mejoren y
 hagan más segura, incluyente y eficiente la
+
 experiencia de la movilidad de las mujeres y de
 la movilidad de cuidado.
-
 II.
 
 Incluir en las estrategias e instrumentos de
@@ -1967,7 +1975,6 @@ movilidad y seguridad vial, en los tres órdenes
 de gobierno, acciones afirmativas y con
 perspectiva de género para prevenir y
 erradicar las violencias de género. Dichas
-
 acciones serán implementadas bajo el principio
 de transversalidad con las autoridades
 competentes en los ámbitos de seguridad
@@ -1976,6 +1983,7 @@ Esto también incluirá la capacitación en la
 materia y sensibilización de género de las
 personas responsables de diseñar, operar y
 evaluar los sistemas de movilidad.
+
 III. Considerar en la planeación de la movilidad y
 la seguridad vial los criterios y contenido de la
 Ley General de Acceso de las Mujeres a una
@@ -1995,14 +2003,12 @@ Seguridad Ciudadana, y demás dependencias
 e institutos estatales y municipales relevantes,
 así como de la sociedad civil y organismos
 internacionales.
+
 Sección Segunda
 De los Instrumentos de Política Pública de
 Movilidad y Seguridad Vial para la Infraestructura
-Artículo 33. De los instrumentos para
+Artículo 33. De los instrumentos para la
 Infraestructura de Movilidad y Seguridad Vial.
-
-la
-
 La Federación, las entidades federativas, los
 municipios y las demarcaciones territoriales de la
 Ciudad de México establecerán en su normativa
@@ -2025,13 +2031,13 @@ interseccionalidad de las personas usuarias de la vía,
 se encaminen a evitar muertes, lesiones, incluidas en
 las que se adquiere alguna discapacidad, a través del
 mejoramiento de la infraestructura vial.
+
 Artículo 34. Diseño de la red vial.
 Las autoridades competentes del diseño de la red
 vial, urbana y carretera deberán considerar la
 vocación de la vía como un espacio público que
 responde a una doble función de movilidad y de
 habitabilidad:
-
 I.
 
 Movilidad se enfoca en el tránsito de personas
@@ -2060,6 +2066,7 @@ municipios y las demarcaciones territoriales de la
 Ciudad de México en el ámbito de su competencia
 considerarán, además de los principios establecidos
 en la presente Ley, los siguientes criterios en el
+
 diseño y operación de la infraestructura vial, urbana y
 carretera, para garantizar una movilidad segura,
 eficiente y de calidad:
@@ -2068,7 +2075,6 @@ I.
 Diseño universal. La construcción de
 infraestructura vial deberá considerar espacios
 de calidad, accesibles y seguros que permitan
-
 la inclusión de todas las personas sin
 discriminación alguna, con especial énfasis en
 la jerarquía de la movilidad estipulada en esta
@@ -2093,13 +2099,13 @@ a) Aceras pavimentas reservadas para el tránsito
 de personas peatonas;
 b) Iluminación que permita el transito nocturno
 y seguro de personas peatonas;
+
 c) Pasos peatonales que garanticen zonas de
 intersección seguras entre la circulación
 rodada y el tránsito peatonal;
 d) Señales de control de tráfico peatonal,
 motorizado y no motorizado que regule el
 paso seguro de personas peatonas;
-
 II.
 
 Priorizar a los grupos en situación de
@@ -2124,6 +2130,7 @@ completa, asignando secciones adecuadas a
 personas peatonas, carriles exclusivos para
 vehículos no motorizados y carriles exclusivos
 al transporte público, cuando se trate de un
+
 corredor de alta demanda o el contexto así lo
 amerite;
 V. Intersecciones seguras. Las intersecciones
@@ -2132,7 +2139,6 @@ seguridad de todas las personas usuarias de la
 vía, especialmente a las y los peatones y
 personas con movilidad limitada y grupos en
 situación de vulnerabilidad;
-
 VI. Pacificación del tránsito. Los diseños en
 infraestructura vial, sentidos y operación vial,
 deberán priorizar la reducción de flujos y
@@ -2157,6 +2163,7 @@ para
 que
 sus
 velocidades de operación sean compatibles
+
 con el diseño y las personas usuarias de la vía
 que en ella convivan;
 VIII. Legibilidad y autoexplicabilidad. Es la cualidad
@@ -2166,7 +2173,6 @@ usuarias simplemente por su diseño y su
 facilidad de entendimiento y uso. El diseño y la
 configuración de una calle o carretera
 autoexplicable cumple las expectativas de las
-
 personas usuarias, anticipa adecuadamente
 las situaciones y genera conductas seguras.
 Las vías autoexplicables integran sus
@@ -2188,6 +2194,7 @@ permitir el desplazamiento libre de personas
 peatonas, personas usuarias de movilidad
 activa o no motorizada y otros prioritarios,
 incluidos vehículos de emergencia;
+
 X. Permeabilidad. La infraestructura debe contar
 con un diseño que permita la recolección e
 infiltración de agua pluvial y su reutilización en
@@ -2198,7 +2205,6 @@ competente;
 XI. Tolerancia. Las vías y sus costados deben
 prever la posible ocurrencia de errores de las
 personas usuarias, y con su diseño y
-
 equipamiento técnico procurarán minimizar las
 consecuencias de siniestros de tránsito;
 XII. Movilidad
@@ -2220,6 +2226,7 @@ estéticamente y permanecer en el tiempo, y
 XIV. Tratamiento de condiciones climáticas. El
 proyecto debe incorporar un diseño con un
 enfoque integral que promueva y permita una
+
 menor dependencia de los combustibles
 fósiles, así como hacer frente a la agenda de
 adaptación y mitigación al cambio climático.
@@ -2267,7 +2274,6 @@ contemplar, previamente a su inicio, la colocación de
 dispositivos de desvíos, reducción de velocidades y
 protección de obra, conforme a las normas técnicas
 aplicables a la planeación.
-
 Los tres órdenes de gobierno deberán estandarizar
 las especificaciones técnicas de seguridad en las
 zonas de obras viales, conforme a las normas
@@ -2287,6 +2293,7 @@ ya existentes, se deberán prever pasos de fauna. En
 caso de carreteras y autopistas ya existentes, se
 colocarán reductores de velocidad en los puntos
 críticos.
+
 Cuando un tramo de vía de jurisdicción federal o
 estatal se adentre en una zona urbana, ésta deberá
 adaptar su
@@ -2299,7 +2306,6 @@ Cuando una vía de jurisdicción federal o estatal
 corte un asentamiento humano urbano a nivel y no
 existan libramientos, deberá considerarse la
 construcción de pasos peatonales seguros a nivel,
-
 para garantizar la permeabilidad entre las zonas
 urbanas.
 Las vías interurbanas adentradas en zonas urbanas
@@ -2322,6 +2328,7 @@ operación de la infraestructura de movilidad e
 identifiquen las medidas necesarias que se deben
 emprender para que se cumplan los principios y
 criterios establecidos en la presente Ley.
+
 El Sistema Nacional emitirá los lineamientos en
 materia
 de
@@ -2337,7 +2344,6 @@ municipios y las demarcaciones territoriales de la
 Ciudad de México, en el ámbito de sus competencias,
 procurarán que todos los proyectos de infraestructura
 vial a implementar generen espacios públicos de
-
 calidad, respetuosos del medio ambiente, accesibles,
 seguros,
 incluyentes,
@@ -2379,7 +2385,6 @@ Ciudad de México, en el ámbito de sus competencias,
 vincularán los estudios técnicos aplicables a la
 movilidad y la seguridad vial, con los principios y
 criterios establecidos en esta Ley.
-
 Artículo 42. Sistemas integrados de modalidades
 de transporte.
 Los servicios de transporte público y privado, tanto
@@ -2402,6 +2407,7 @@ esquemas metropolitanos.
 Las autoridades estatales, municipales y de las
 demarcaciones territoriales tomarán en cuenta las
 medidas necesarias para articular, dentro de los
+
 sistemas integrados de transporte, los servicios para
 vehículos no motorizados y tracción humana.
 Artículo 43. Del servicio de transporte público.
@@ -2413,7 +2419,6 @@ y poder circular por ella libremente atendiendo a la
 jerarquía de esta Ley, mediante la adecuada
 regulación de la circulación, así como del uso y
 disfrute del espacio público, las vías, la
-
 infraestructura, los servicios y los sistemas de
 movilidad. El cumplimiento uniforme y continuo de
 este servicio debe ser permanentemente asegurado,
@@ -2432,6 +2437,7 @@ transporte público sean publicadas para conocimiento
 de todas las personas usuarias en los Periódicos o
 Gacetas Oficiales de las entidades federativas, con la
 debida anticipación.
+
 Las entidades federativas, los municipios y las
 demarcaciones territoriales de la Ciudad de México,
 deberán proveer en las localidades rurales e insulares
@@ -2442,7 +2448,6 @@ educación primaria y 60 minutos o tres kilómetros
 para educación secundaria y media superior, con el
 fin de garantizar el derecho a la movilidad y el
 derecho a la educación.
-
 Asimismo, deberán establecer rutas de transporte
 público destinadas a facilitar a las personas
 trabajadoras el desplazamiento a sus centros de
@@ -2461,6 +2466,7 @@ esta Ley.
 Los instrumentos de control expedidos para la
 operación de servicios de autotransporte federal y sus
 servicios auxiliares, incluyen la cobertura en vías de
+
 jurisdicción estatal y municipal, por lo que las
 entidades federativas, municipios y demarcaciones de
 la Ciudad de México no podrán sobre regularlos, ni
@@ -2472,7 +2478,6 @@ Artículo 45. Instrumentos de control de
 operación del transporte.
 Para una adecuada operación de los servicios de
 transporte, las autoridades competentes deberán
-
 definir los instrumentos que se usen para los
 siguientes procesos:
 I.
@@ -2494,8 +2499,15 @@ cualquier irregularidad en la prestación del servicio de
 transporte público. Para ello, se observarán los
 principios de accesibilidad, prontitud, imparcialidad,
 integridad y gratuidad, otorgando de forma expedita
+
 atención a la persona quejosa y se le deberá informar
 sobre las resoluciones adoptadas.
+Cuando se trate de personas hablantes de lenguas
+indígenas o de Lengua de Señas Mexicana o
+regional, la atención deberá prestarse asegurando
+que la comunicación se lleve a cabo en su propia
+lengua.
+Párrafo adicionado DOF 29-12-2023
 Artículo 47. Modernización del parque vehicular.
 A efecto de mejorar la calidad ambiental y disminuir
 los riesgos de siniestros de tránsito, las autoridades
@@ -2503,7 +2515,6 @@ competentes podrán promover mecanismos y
 programas para la renovación del parque vehicular de
 prestadores del servicio de transporte público de
 pasajeros y de carga.
-
 Las autoridades competentes podrán establecer los
 acuerdos
 necesarios
@@ -2520,6 +2531,7 @@ De los Instrumentos de Política Pública de
 Movilidad y Seguridad Vial del Tránsito
 Artículo 48. Modalidades a la circulación de
 vehículos.
+
 Las autoridades competentes podrán regular y
 ordenar la circulación de vehículos mediante el
 establecimiento de modalidades al flujo vehicular en
@@ -2536,7 +2548,6 @@ expedición de permisos adicionales para la movilidad
 de bienes y mercancías.
 Para efectos del párrafo anterior, las autoridades de
 los tres órdenes de gobierno deberán reconocer los
-
 permisos otorgados por éstas para suministrar los
 servicios de transporte.
 Artículo 49. Medidas mínimas de tránsito.
@@ -2549,6 +2560,7 @@ seguridad, protegiendo la vida y la integridad física de
 las personas en sus desplazamientos bajo el principio
 de que toda muerte o lesión por siniestros de tránsito
 es prevenible.
+
 Las autoridades de los tres órdenes de gobierno
 establecerán, en su normativa aplicable, las
 sanciones correspondientes a quienes infrinjan las
@@ -2580,6 +2592,7 @@ máximas no deberán rebasar las siguientes:
 a) 20 km/h en zonas de hospitales, asilos,
 albergues y casas hogar.
 Inciso adicionado DOF 08-05-2023
+
 b) 20 km/h en zonas y entornos escolares en
 vías secundarias y calles terciarias; y hasta 30
 km/h en zonas y entornos escolares en vías
@@ -2594,7 +2607,6 @@ Inciso recorrido DOF 08-05-2023
 e) 80 km/h en carriles centrales de avenidas de
 acceso controlado.
 Inciso recorrido DOF 08-05-2023
-
 f) 80 km/h en carreteras estatales fuera de
 zonas urbanas; 50 km/h dentro de zonas
 urbanas.
@@ -2606,6 +2618,7 @@ autopistas de jurisdicción federal.
 Inciso recorrido DOF 08-05-2023
 h) Ninguna intersección, independientemente
 de la naturaleza de la vía, podrá tener
+
 velocidad de operación mayor a 50 km/h en
 cualquiera de sus accesos.
 Inciso recorrido DOF 08-05-2023
@@ -2622,7 +2635,6 @@ de las personas;
 VI. Que cualquier persona menor de doce años o
 que por su constitución física lo requiera, viaje
 en los asientos traseros con un sistema de
-
 retención infantil o en un asiento de seguridad
 que cumpla con los requisitos establecidos en la
 Norma Oficial Mexicana aplicable;
@@ -2633,6 +2645,7 @@ con los estándares establecidos en la Norma
 Oficial Mexicana aplicable;
 IX. El uso obligatorio de casco para personas
 conductoras y pasajeros de motocicletas que
+
 cumpla con la Norma Oficial Mexicana aplicable
 en la materia;
 X. La prohibición de hablar por teléfono celular o
@@ -2652,7 +2665,6 @@ estar
 debidamente colocado en un sujetador que
 facilite su manipulación y que no obstaculice la
 visibilidad al conducir;
-
 XII. La obligación de las entidades federativas y los
 municipios de realizar pruebas de alcoholemia
 de manera permanente con el objetivo de evitar
@@ -2669,6 +2681,7 @@ conduzcan
 motocicletas queda prohibido hacerlo con una
 alcoholemia superior a 0.1 mg/L en aire
 espirado o 0.02 g/dL en sangre.
+
 b) Para vehículos destinados al transporte de
 pasajeros y de carga, queda prohibido
 conducir con cualquier concentración de
@@ -2682,7 +2695,6 @@ modalidades deberán cumplir con las Normas
 Oficiales Mexicanas y demás leyes aplicables, y
 XIV. Medidas para la prevención y mitigación de
 factores de riesgo.
-
 Las entidades federativas y municipios podrán
 prever
 en
@@ -2705,6 +2717,7 @@ seguridad del tránsito.
 Las autoridades competentes de los tres órdenes de
 gobierno, en las regulaciones que se emitan sobre el
 diseño vial seguro, establecerán la utilización de
+
 dispositivos de control del tránsito y dispositivos de
 seguridad vial de manera progresiva, acordes a la
 evidencia internacional, con el objeto de establecer
@@ -2722,7 +2735,6 @@ habilidades necesarias, antes de la fecha de
 expedición o renovación de la licencia o permiso.
 Asimismo, podrán establecer que las licencias no
 tengan una vigencia mayor a cinco años de forma
-
 general y de dos años en el caso de licencias para la
 conducción de vehículos de emergencia, incluyendo
 aquellos para actividades de atención médica o
@@ -2735,6 +2747,7 @@ Las autoridades competentes establecerán en sus
 respectivos reglamentos de tránsito que a las
 personas que sean sorprendidas manejando bajo el
 influjo del alcohol o cualquier droga, psicotrópico o
+
 estupefaciente, se les retire la licencia o permiso para
 conducir por un periodo no menor a un año y por un
 periodo no menor a seis meses en caso de
@@ -2771,6 +2784,7 @@ tecnológicas,
 mismas
 que
 permitirán la acreditación de las habilidades y
+
 requisitos correspondientes para la conducción
 del tipo de vehículo de que se trate y tendrán
 plena validez en territorio nacional.
@@ -2791,7 +2805,6 @@ de las lesiones, de acuerdo con los lineamientos que
 al respecto emitan las autoridades competentes.
 La información y registros generados en relación con
 la atención médica prehospitalaria estarán disponibles
-
 en el Sistema de Información Territorial y Urbano
 garantizando la protección de la información que
 corresponda, en términos de lo establecido en las
@@ -2805,6 +2818,7 @@ Los vehículos nuevos que se comercialicen en el
 territorio nacional deberán cumplir con los
 dispositivos, sistemas y estándares de seguridad que
 se establezcan en las Normas Oficiales Mexicanas
+
 correspondientes, de acuerdo con lo establecido en la
 Ley de Infraestructura de la Calidad, tomando como
 base los criterios internacionales en la materia. La
@@ -2822,7 +2836,6 @@ de las vías, enfatizando en la seguridad de quienes
 son más vulnerables y deberá tomar en cuenta los
 principios establecidos en esta Ley, así como los
 acuerdos y experiencias internacionales relativos a la
-
 seguridad de los vehículos, con lo que deben
 determinarse los riesgos especialmente graves para
 la seguridad vehicular.
@@ -2834,6 +2847,7 @@ correspondientes, con el fin de responder a los
 avances tecnológicos en seguridad vehicular que
 demuestren salvar vidas y reducir lesiones graves a
 nivel internacional.
+
 Las autoridades competentes, en coordinación con
 la Secretaría de Infraestructura, Comunicaciones y
 Transportes, deberán establecer un sistema de
@@ -2851,7 +2865,6 @@ deberán verificar la seguridad de los vehículos nuevos
 y en circulación, de acuerdo con las disposiciones
 normativas vigentes y aplicables.
 Sección Cuarta
-
 De los Instrumentos en materia de Movilidad y
 Seguridad Vial en la Gestión de la Demanda
 Artículo 55. Gestión de la demanda de movilidad.
@@ -2863,6 +2876,7 @@ las entidades federativas y municipales y de las
 demarcaciones territoriales de la Ciudad de México,
 deberán implementar medidas enfocadas en reducir
 emisiones y demás externalidades negativas
+
 previstas en esta Ley y la Ley General de Cambio
 Climático.
 Artículo 56. Zonas y tramos de vía de gestión de
@@ -2881,7 +2895,6 @@ zonas de alta demanda de viajes de las ciudades, a
 fin de priorizar la gestión de la seguridad vial, la
 movilidad peatonal, ciclista y de transporte colectivo,
 reducir el volumen vehicular o los vehículos con
-
 mayor impacto ambiental y de riesgo vial, mediante
 las disposiciones que para tal efecto emita la
 autoridad competente.
@@ -2891,6 +2904,7 @@ digitales de placas o lectura visual, por parte de
 agentes públicos u operadores privados en los
 términos que se establezcan en la normatividad
 aplicable.
+
 Lo establecido en la presente disposición se
 realizará sin perjuicio de la productividad,
 competitividad y el mantenimiento de la regularidad
@@ -2910,7 +2924,6 @@ necesarios para mejorar la eficiencia y equidad en el
 acceso de los sistemas de movilidad, la renovación
 vehicular, la gestión de la seguridad vial y la
 sostenibilidad.
-
 Artículo 58. Impacto a la movilidad y a la
 seguridad vial.
 La Federación, las entidades federativas, los
@@ -2922,6 +2935,7 @@ vial, lo cual tendrá por objeto analizar y evaluar las
 posibles influencias o alteraciones generadas por la
 realización de obras y actividades privadas y públicas,
 sobre los desplazamientos de las personas y bienes,
+
 a fin de evitar o reducir los efectos negativos sobre la
 calidad de vida, la accesibilidad, la competitividad, y
 los demás aspectos previstos en esta Ley.
@@ -2939,7 +2953,6 @@ Los programas, acciones y proyectos de
 infraestructura relacionados con la movilidad y la
 seguridad vial se enfocarán prioritariamente en lo
 siguiente:
-
 I.
 
 Implementar mejoras a la infraestructura para
@@ -2955,9 +2968,9 @@ II.
 
 La mejora de la infraestructura para la
 movilidad, servicios auxiliares y el transporte
+
 que promuevan el diseño universal y la
 seguridad vial;
-
 III. Desarrollar políticas para reducir siniestros de
 tránsito, así como proyectos estratégicos de
 infraestructura para la movilidad y seguridad
@@ -2973,7 +2986,6 @@ distribución eficiente de bienes y mercancías;
 V. Realizar estudios para la innovación, el
 desarrollo tecnológico e informático, así como
 para promover la movilidad no motorizada y el
-
 transporte público en los centros de población
 con menores ingresos;
 VI. Desarrollar
@@ -2986,6 +2998,7 @@ movilidad y seguridad vial, y
 VII. Otros que permitan el cumplimiento de esta
 Ley, sus principios y objetivos conforme a la
 jerarquía de la movilidad.
+
 Artículo 61. Programas federales de inversión.
 Las dependencias y entidades de la Administración
 Pública Federal incorporarán en la ejecución de sus
@@ -3004,7 +3017,6 @@ competencias, diseñarán, implementarán, ejecutarán,
 evaluarán y darán seguimiento a los planes,
 programas, campañas y acciones para sensibilizar,
 educar y formar a la población en materia de
-
 movilidad y seguridad vial, con el objetivo de generar
 la adopción de hábitos de prevención de siniestros de
 tránsito, el uso racional del automóvil particular; la
@@ -3016,6 +3028,7 @@ participación de personas especialistas y la academia
 en el diseño e implementación de programas,
 campañas y acciones en materia de educación vial,
 movilidad, y perspectiva de género que generen el
+
 desarrollo de políticas sostenibles e incluyentes con
 especial atención a los grupos en situación de
 vulnerabilidad, orientadas al peatón, la bicicleta, al
@@ -3032,7 +3045,6 @@ problemas que se generan en ésta.
 Las políticas, programas, campañas y acciones de
 sensibilización sobre movilidad y seguridad vial
 deberán observar los siguientes criterios:
-
 I.
 
 Mensajes sustentados en evidencia científica y
@@ -3048,6 +3060,7 @@ ambiente seguro para la movilidad activa y no
 motorizada;
 IV. Respeto entre las personas usuarias de la vía
 y hacia los elementos de policía de tránsito y
+
 prestadores de servicio de transporte público
 de pasajeros, y
 V. Importancia de la incorporación de la
@@ -3063,7 +3076,6 @@ la cual deberá ser con perspectiva interseccional.
 Las políticas, programas, campañas y acciones de
 educación en materia de movilidad y seguridad vial
 deberán observar los siguientes criterios:
-
 I.
 
 Desarrollar contenidos sobre los factores de
@@ -3080,6 +3092,7 @@ parte de todas las personas usuarias de la vía;
 III. Priorizar el uso de la infraestructura para la
 movilidad conforme a la jerarquía de la
 movilidad establecida en esta Ley;
+
 IV. Informar y fomentar el respeto irrestricto de la
 ciudadanía, personas operadoras de los
 sistemas de movilidad, y autoridades a las
@@ -3095,7 +3108,6 @@ limitada;
 VI. Adoptar desplazamientos sustentables y
 seguros promoviendo la movilidad activa y no
 motorizada;
-
 VII. Fomentar el cumplimiento de los programas de
 verificación y protección al medio ambiente, y
 VIII. Promover la participación ciudadana, de
@@ -3108,6 +3120,7 @@ vial implica que el personal técnico y/o profesional
 cuenta con capacitación en dichas materias, así como
 en perspectiva de género y necesidades de los
 grupos en situación de vulnerabilidad.
+
 La Federación, las entidades federativas, los
 municipios y las demarcaciones territoriales de la
 Ciudad de México, en el ámbito de sus respectivas
@@ -3123,7 +3136,6 @@ De la Distribución de Competencias
 CAPÍTULO I
 De la Distribución de Competencias y
 Coordinación
-
 Artículo 66. De la Federación.
 Corresponde a la Federación, en las respectivas
 atribuciones de sus dependencias:
@@ -3140,9 +3152,9 @@ II.
 Celebrar convenios de coordinación y
 concertación con las entidades federativas, los
 municipios y las demarcaciones territoriales de
+
 la Ciudad de México, en materia de la presente
 Ley;
-
 III. Promover la difusión sobre los factores de
 riesgo y la prevención en materia de
 seguridad vial;
@@ -3157,7 +3169,6 @@ México, así como con los sectores social y
 privado, cumplan con el objetivo establecido
 en la presente Ley y en el Plan Nacional de
 Desarrollo;
-
 V. Promover que la construcción de obras de
 infraestructura y equipamiento para la
 movilidad urbana, interurbana, rural e insular;
@@ -3169,6 +3180,7 @@ establecidos en la presente Ley;
 VI. Proponer los mecanismos de financiamiento
 necesarios en materia de movilidad y
 seguridad vial;
+
 VII. La expedición de las Normas Oficiales
 Mexicanas y la vigilancia de su cumplimiento
 en las materias de movilidad y seguridad vial, y
@@ -3188,9 +3200,9 @@ II.
 Gestionar la seguridad vial y la movilidad
 urbana, interurbana, rural e insular, en el
 ámbito de su competencia, con base en lo
-
 establecido en esta Ley y demás disposiciones
 legales en la materia;
+
 III. Vigilar el cumplimiento de las Normas Oficiales
 Mexicanas expedidas por la Federación, en
 materia de movilidad y seguridad vial;
@@ -3200,6 +3212,7 @@ de la Ciudad de México, en la planeación,
 diseño, instrumentación e implementación de
 la Estrategia Nacional y de los Convenios de
 Coordinación Metropolitanos, en los términos
+
 previstos en esta Ley y demás disposiciones
 legales aplicables;
 V. Armonizar los programas de ordenamiento
@@ -3215,7 +3228,6 @@ VII. Desarrollar estrategias, programas y proyectos
 para la movilidad y la seguridad vial, con
 prioridad en el uso del transporte público y los
 modos no motorizados;
-
 VIII. Asignar, gestionar y administrar recursos
 públicos, en coordinación con los municipios y
 las demarcaciones territoriales de la Ciudad de
@@ -3230,6 +3242,7 @@ transporte;
 IX. Establecer la reglamentación para los estudios
 de impacto de movilidad y seguridad vial con
 perspectiva de género;
+
 X. Impulsar la consolidación de los sistemas de
 movilidad en los centros de población;
 XI. Otorgar licencias y permisos para conducir, en
@@ -3246,7 +3259,6 @@ los servicios auxiliares;
 XIII. Establecer los acuerdos y medidas necesarias
 para la conservación, mantenimiento y
 renovación del parque vehicular destinado a la
-
 prestación de los servicios público, mercantil y
 privado de transporte de pasajeros y de carga,
 de conformidad con la legislación aplicable;
@@ -3257,6 +3269,7 @@ su adecuada operación; así como la
 implementación de su infraestructura vial y
 equipamiento necesario, en coordinación con
 las autoridades competentes;
+
 XV. Expedir las normas y lineamientos que
 deberán cumplir los vehículos motorizados que
 cuenten con registro en la entidad federativa,
@@ -3273,7 +3286,6 @@ sus indicadores y bases de datos en materia
 de movilidad y seguridad vial que se incorpore
 al Sistema de Información Territorial y Urbano
 a los que se refiere esta Ley;
-
 XIX. Realizar los operativos de control de uso de
 distractores durante la conducción de
 vehículos, sistemas de retención infantil,
@@ -3284,6 +3296,7 @@ establecidos por el Sistema Nacional;
 XX. Instrumentar y articular, en concordancia con
 la política nacional, las acciones necesarias
 para disminuir las muertes, lesiones graves y
+
 discapacidades ocasionadas por siniestros de
 tránsito;
 XXI. Fortalecer el transporte público de
@@ -3303,16 +3316,14 @@ individual y colectivo, para garantizar su
 desplazamiento seguro en las vías, y
 XXIII. Las demás previstas para el cumplimiento
 de la presente Ley.
-
 Artículo 68. De los municipios.
 Corresponde a los municipios
 atribuciones:
+I.
 
 las
 
 siguientes
-
-I.
 
 Participar en el Sistema Nacional de Movilidad
 y Seguridad Vial, de conformidad con lo
@@ -3341,7 +3352,6 @@ entidades federativas y de otros municipios en
 la planeación, regulación, instrumentación e
 implementación de los Convenios de
 Coordinación Metropolitanos;
-
 V. Constituir las instancias locales y de
 coordinación
 metropolitana
@@ -3355,6 +3365,7 @@ VI. Celebrar convenios de coordinación con la
 Federación, otras entidades federativas,
 municipios y demarcaciones territoriales de la
 Ciudad de México para la implementación de
+
 acciones específicas, obras e inversiones en la
 materia, así como aquellas que prioricen la
 movilidad de los grupos en situación de
@@ -3377,7 +3388,6 @@ motorizados;
 IX. Asignar, gestionar y administrar recursos para
 apoyar e implementar acciones y proyectos en
 materia de movilidad, su infraestructura,
-
 servicios auxiliares, operación y capacitación
 de las personas operadoras, transporte y
 seguridad vial, promoviendo una mejor
@@ -3386,6 +3396,7 @@ de la movilidad;
 X. Establecer los mecanismos necesarios para
 mejorar la seguridad vial, de conformidad con
 la jerarquía de la movilidad y sus necesidades;
+
 XI. Realizar estudios para el diseño, modificación
 y adecuación de las vías en los centros de
 población, de conformidad con lo establecido
@@ -3408,22 +3419,13 @@ programas;
 XV. Realizar estudios de impacto de movilidad en
 el ámbito de su competencia, incluyendo
 criterios de sustentabilidad, perspectiva de
-
-género, entre
+género, entre otros que se consideren
 relevantes;
-
-otros
-
-que
-
-se
-
-consideren
-
 XVI. Autorizar las áreas de transferencia para el
 transporte en su territorio;
 XVII. Regular el servicio del estacionamiento en
 vía pública;
+
 XVIII. Impulsar la accesibilidad e inclusión de
 personas con discapacidad y personas con
 movilidad limitada a los servicios públicos de
@@ -3443,7 +3445,6 @@ los siniestros de tránsito;
 XXI. Implementar programas especiales de
 seguridad vial en los entornos escolares y
 puntos de alta afluencia de personas;
-
 XXII. Prever en su legislación aplicable, que los
 desarrollos inmobiliarios cuenten con el criterio
 de calle completa;
@@ -3452,6 +3453,7 @@ las autoridades acciones de movilidad
 asequible, incluyente, segura y sustentable
 entre sus municipios y el territorio continental,
 y
+
 XXIV. Las demás previstas para el cumplimiento
 de la presente Ley.
 Artículo 69. De las demarcaciones territoriales de
@@ -3474,7 +3476,6 @@ vial, en el ámbito de su competencia;
 III. Vigilar el cumplimiento de las Normas Oficiales
 Mexicanas expedidas por la Federación, en
 materia de movilidad y seguridad vial;
-
 IV. Promover, en coordinación con las entidades
 federativas y con otros municipios o
 demarcaciones territoriales de la Ciudad de
@@ -3488,6 +3489,7 @@ municipios
 y
 demarcaciones territoriales de la Ciudad de
 México para alcanzar los objetivos y
+
 prioridades previstos en los planes o
 programas en materia de movilidad, y los
 demás que de éstos deriven;
@@ -3510,16 +3512,17 @@ II.
 
 Diseñar, en conjunto con las dependencias
 que integren el Sistema Nacional, los
-
 instrumentos y mecanismos necesarios para el
 diagnóstico, información, seguimiento y
 evaluación de las políticas, programas y
 acciones de movilidad y seguridad vial en el
 territorio nacional, de conformidad con lo
 establecido en la presente Ley;
+
 III. Brindar asesoría técnica a las entidades
 federativas, municipios y demarcaciones
 territoriales de la Ciudad de México, para la
+
 implementación de obras de infraestructura y
 equipamiento que cumplan con los requisitos
 establecidos en el Título Segundo de la
@@ -3539,7 +3542,6 @@ gobiernos de las entidades federativas, de los
 municipios y demarcaciones territoriales de la
 Ciudad de México que lo soliciten, para la
 ejecución y planeación de programas, obras
-
 de infraestructura, equipamiento y servicios en
 materia de movilidad y seguridad vial;
 VII. Emitir, en conjunto con las dependencias que
@@ -3547,6 +3549,7 @@ integren el Sistema Nacional, los lineamientos
 técnicos para la realización de las auditorías
 de seguridad vial, a efecto de proveer de una
 metodología homologada a nivel nacional;
+
 VIII. Colaborar, con las dependencias federales
 correspondientes, en el establecimiento de la
 normatividad en materia de seguridad
@@ -3579,7 +3582,6 @@ establecimiento de sistemas de transporte
 público, uso de vehículos no motorizados de
 transporte y otros medios de alta eficiencia
 energética y ambiental;
-
 XI. Realizar, en coordinación con los integrantes
 del
 Sistema
@@ -3599,6 +3601,7 @@ Sistema
 Nacional,
 convenios
 de
+
 colaboración con instituciones de investigación
 y
 educación
@@ -3626,13 +3629,15 @@ XIV. Colaborar, a través del convenio respectivo
 con la Secretaría de Educación Pública en la
 incorporación de contenidos relacionados con
 la movilidad y la seguridad vial dentro de los
-
 planes de estudio de todos los niveles
 educativos, y
 XV. Las demás previstas para el cumplimiento de
 la presente Ley.
-Artículo 71. Secretaría de Infraestructura,
+Artículo 71. Secretaría de
 Comunicaciones y Transportes.
+
+Infraestructura,
+
 Corresponden a la Secretaría de Infraestructura,
 Comunicaciones y Transportes, las siguientes
 atribuciones:
@@ -3658,7 +3663,6 @@ Nacional;
 IV. Impulsar el desarrollo de la movilidad y
 seguridad vial en la regulación del
 autotransporte federal;
-
 V. Participar en el diseño de las políticas públicas
 en materia de movilidad y seguridad vial,
 educación vial, y en especial, aquellas
@@ -3670,6 +3674,7 @@ del
 autotransporte federal;
 VI. Participar en las acciones que en materia de
 protección al medio ambiente lleven a cabo
+
 otras autoridades federales o estatales en las
 materias de su competencia, en relación con la
 movilidad y seguridad vial;
@@ -3691,12 +3696,12 @@ que se adentren en los centros de población,
 con las entidades federativas, los municipios,
 para el cumplimiento de lo establecido en esta
 Ley;
-
 X. Coordinar la planificación de rutas e
 infraestructuras que se adentren a los centros
 de población en zonas insulares, con las
 entidades federativas, los municipios, para el
 cumplimiento de lo establecido en esta Ley;
+
 XI. Realizar los operativos de alcoholimetría, con
 base en los límites establecidos por la
 Secretaría de Salud, en las vías de su
@@ -3717,7 +3722,6 @@ Artículo 72. Secretaría de Seguridad y Protección
 Ciudadana.
 Corresponden a la Secretaría de Seguridad y
 Protección Ciudadana, las siguientes atribuciones:
-
 I.
 
 Remitir al Sistema Nacional la información
@@ -3727,9 +3731,9 @@ II.
 
 Mantener actualizada la información contenida
 en el Registro Público Vehicular, con el
+
 objetivo de coadyuvar al cumplimiento de los
 principios de la presente Ley;
-
 III. Participar, en el marco de sus competencias,
 en las acciones que en materia de protección
 al medio ambiente lleven a cabo otras
@@ -3749,7 +3753,6 @@ movilidad, y
 VI. Las demás previstas para el cumplimiento de
 la presente Ley.
 Artículo 73. Secretaría de Salud.
-
 Corresponden a la Secretaría de Salud, a través del
 Secretariado Técnico del Consejo Nacional para la
 Prevención de Accidentes, las siguientes atribuciones:
@@ -3757,9 +3760,9 @@ I.
 
 Elaborar guías de práctica clínica y protocolos
 que permitan mejorar la calidad de la atención
+
 médica prehospitalaria e intrahospitalaria por
 siniestros de tránsito;
-
 II.
 
 Elaborar e implementar los programas de
@@ -3791,11 +3794,11 @@ tránsito, en materias de su competencia;
 VI. Fijar los límites de alcohol en la sangre y aire
 expirado, con base en lo establecido en el
 artículo 49, que deberán ser los referentes en
-
 los operativos de alcoholimetría en todo el
 territorio nacional, y
 VII. Las demás previstas para el cumplimiento de
 la presente Ley.
+
 Artículo 74. Mecanismos de coordinación y
 colaboración.
 Las atribuciones en materia de movilidad y
@@ -3826,12 +3829,12 @@ Comunicaciones y Transportes;
 
 III. La Secretaría de Seguridad y Protección
 Ciudadana;
-
 IV. La Secretaría de Salud, a través del
 Secretariado Técnico del Consejo Nacional
 para la Prevención de Accidentes;
 V. La Secretaría de Medio Ambiente y Recursos
 Naturales;
+
 VI. Las dependencias o entidades competentes de
 las entidades federativas;
 VII. Las dependencias competentes de los
@@ -3852,7 +3855,6 @@ Artículo 75. Convenios de coordinación
 metropolitanos.
 En el caso de las zonas metropolitanas que
 correspondan a una entidad federativa, su planeación
-
 y regulación en materia de movilidad y seguridad vial
 se podrá realizar de manera conjunta y coordinada
 entre municipios, a través de sus instancias de
@@ -3863,6 +3865,7 @@ Urbano,
 mediante
 convenios
 de
+
 coordinación que para tal efecto se elaboren, con
 apego a lo dispuesto en esta Ley y demás
 disposiciones jurídicas aplicables.
@@ -3887,10 +3890,10 @@ celebrados por los tres órdenes de gobierno, podrán
 establecer las autoridades que serán las encargadas
 de la planeación, diseño, ejecución, operación,
 monitoreo y evaluación de la política de movilidad y
-
 seguridad vial a nivel metropolitano prevista en esta
 Ley y demás disposiciones jurídicas aplicables.
 CAPÍTULO III
+
 De la participación social de las entidades
 federativas, municipios, demarcaciones
 territoriales y zonas metropolitanas
@@ -3917,11 +3920,11 @@ la seguridad vial, la accesibilidad, la eficiencia, la
 sostenibilidad, la calidad y la inclusión e igualdad y
 sus implicaciones en el ordenamiento territorial, y en
 general sobre la aplicación de la presente Ley.
-
 Artículo 79. A fin de garantizar la participación
 efectiva de la sociedad, las leyes de las entidades
 federativas deberán tomar en cuenta a las
 instituciones de planeación y de participación
+
 ciudadana establecidas en la Ley General de
 Asentamientos Humanos, Ordenamiento Territorial y
 Desarrollo Urbano, sin limitar la posibilidad de crear
@@ -3954,8 +3957,8 @@ Artículo 82. Las entidades federativas establecerán
 las regulaciones específicas a que se sujetará la
 creación y operación de los Observatorios, con base
 en esta Ley.
-
 Transitorios
+
 Primero. La presente Ley entrará en vigor el día
 siguiente al de su publicación en el Diario Oficial de la
 Federación.
@@ -3981,9 +3984,9 @@ Ley, las Secretarías integrantes del Sistema Nacional
 de Movilidad y Seguridad Vial, las entidades
 federativas, así como los municipios, deberán integrar
 los registros, indicadores y bases de datos en materia
-
 de movilidad y seguridad vial como parte del Sistema
 de Información Territorial y Urbano.
+
 Sexto. Las erogaciones que se generen con motivo
 de la entrada en vigor de la presente Ley, se cubrirán
 con cargo al presupuesto autorizado para los
@@ -4014,7 +4017,6 @@ Unidos Mexicanos, y para su debida publicación y
 observancia, expido el presente Decreto en la
 Residencia del Poder Ejecutivo Federal, en la Ciudad
 de México, a 10 de mayo de 2022.- Andrés Manuel
-
 López Obrador.- Rúbrica.- El Secretario de
 Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
 
