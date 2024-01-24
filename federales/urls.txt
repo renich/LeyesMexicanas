@@ -74,7 +74,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/63.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/64_090318.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/65_071220.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/67.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/69_200521.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/70.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/71_240418.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/74.pdf
@@ -84,6 +83,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/84_070519.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/88_200521.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/93_041218.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/96_190418.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/CCom.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf
@@ -150,6 +150,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LFFAOSC.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFFMAA.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFFPMN_130420.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFGR.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFISAN.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV_230518.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFLL.pdf
@@ -251,7 +252,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LISF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LISSSTE.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LMV_090119.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LMigra.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LMin.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM_071220.pdf
@@ -313,7 +314,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2023.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2024.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdfCCF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Codigo_Civil_Federal.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Codigo_Federal_de_Procedimientos_Civiles.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Codigo_Fiscal_de_la_Federacion.pdf
