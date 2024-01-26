@@ -1,7 +1,7 @@
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -9,7 +9,7 @@ Secretaría de Servicios Parlamentarios
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 Nueva Ley publicada en el Diario Oficial de la Federación el 15 de junio de 2007
 TEXTO VIGENTE
-Última reforma publicada DOF 10-01-2014
+Última reforma publicada DOF 24-01-2024
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la
 República.
@@ -38,19 +38,22 @@ los ordenamientos que a continuación se indican:
 I. La Ley de Instituciones de Crédito;
 II. La Ley de Ahorro y Crédito Popular;
 III. La Ley General de Organizaciones y Actividades Auxiliares del Crédito;
-IV. La Ley del Banco de México;
-V. Ley de Protección y Defensa al Usuario de Servicios Financieros;
+III Bis. La Ley para Regular las Instituciones de Tecnología Financiera;
+Fracción adicionada DOF 09-03-2018
 
-1 de 41
+IV. La Ley del Banco de México;
+
+1 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+V. Ley de Protección y Defensa al Usuario de Servicios Financieros;
 VI. La Ley Federal de Protección al Consumidor;
 VII. El Código de Comercio;
 VIII. El Código Civil Federal, y
@@ -96,6 +99,10 @@ operaciones de crédito, préstamos o financiamientos. En todos los casos, se co
 cargos por el uso o aceptación de Medios de Disposición;
 Fracción reformada DOF 25-06-2009
 
+IV Bis. Consorcio: al conjunto de personas morales vinculadas entre sí por una o más personas
+físicas que integrando un Grupo de Personas, tengan el Control de las primeras;
+Fracción adicionada DOF 09-03-2018
+
 V.
 
 Contrato de Adhesión: al documento elaborado unilateralmente por las Entidades para
@@ -103,27 +110,35 @@ establecer en formatos uniformes los términos y condiciones aplicables a la cel
 operaciones que lleven a cabo con sus Clientes. Tratándose de Entidades Financieras, se
 considerarán las operaciones pasivas, activas o de servicio, y tratándose de Entidades
 Comerciales, se considerarán las operaciones de crédito, préstamos o financiamientos;
-Fracción reformada DOF 25-06-2009
 
-V Bis. Crédito al Consumo: a las siguientes operaciones celebradas por las Entidades: créditos
-directos, denominados en moneda nacional, extranjera o en UDIs, así como los intereses que
-generen, otorgados a personas físicas, derivados de operaciones de crédito, préstamo o
-financiamiento revolvente asociado a una tarjeta, de créditos personales cuyo monto no
-exceda el equivalente a tres millones de unidades de inversión, de créditos para la adquisición
-
-2 de 41
+2 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Fracción reformada DOF 25-06-2009
+
+V Bis. Control: a la capacidad de imponer, directa o indirectamente, decisiones en las asambleas
+generales de accionistas de la sociedad; el mantener la titularidad de derechos que permitan,
+directa o indirectamente, ejercer el voto respecto de más del cincuenta por ciento del capital
+social de la sociedad, y dirigir, directa o indirectamente, la administración, la estrategia o las
+principales políticas de la sociedad, ya sea a través de la propiedad de valores o por cualquier
+otro acto jurídico;
+Fracción adicionada DOF 25-06-2009. Reformada DOF 09-03-2018
+
+V Ter. Crédito al Consumo: a las siguientes operaciones celebradas por las Entidades: créditos
+directos, denominados en moneda nacional, extranjera o en UDIs, así como los intereses que
+generen, otorgados a personas físicas, derivados de operaciones de crédito, préstamo o
+financiamiento revolvente asociado a una tarjeta, de créditos personales cuyo monto no
+exceda el equivalente a tres millones de unidades de inversión, de créditos para la adquisición
 de bienes de consumo duradero y las operaciones de arrendamiento financiero que sean
-celebradas con personas físicas.
-Fracción adicionada DOF 25-06-2009
+celebradas con personas físicas;
+Fracción adicionada DOF 09-03-2018
 
 VI.
 
@@ -152,8 +167,8 @@ Entidad Financiera: a las instituciones de crédito, a las sociedades financiera
 múltiple reguladas y no reguladas, a las sociedades financieras populares, a las sociedades
 financieras comunitarias, a las sociedades cooperativas de ahorro y préstamo, a las entidades
 financieras que actúen como fiduciarias en fideicomisos que otorguen crédito, préstamo o
-financiamiento al público y a las uniones de crédito;
-Fracción reformada DOF 25-06-2009, 10-01-2014
+financiamiento al público, las uniones de crédito y las instituciones de tecnología financiera;
+Fracción reformada DOF 25-06-2009, 10-01-2014, 09-03-2018
 
 X.
 
@@ -172,51 +187,96 @@ términos reales como nominales, conforme a las disposiciones que emita el Banco
 para su cálculo;
 Fracción adicionada DOF 25-05-2010. Reformada DOF 10-01-2014
 
-XII.
-
-Medio de Disposición: a las tarjetas de débito asociadas a depósitos bancarios de dinero a
-la vista, a las tarjetas de crédito emitidas al amparo de un contrato de apertura de crédito, a
-los cheques, a las órdenes de transferencia de fondos incluyendo el servicio conocido como
-domiciliación, cualquier dispositivo o interfase que permita la realización de pagos o
-transferencias de recursos, así como aquellos otros que la Comisión Nacional Bancaria y de
-Valores y el Banco de México, de manera conjunta, reconozcan como tales mediante
-disposiciones de carácter general.
-Para efectos de lo dispuesto en este artículo, toda persona que emita o coloque Medios de
-Disposición estará sujeta a lo dispuesto por los artículos 2 y 103 de la Ley de Instituciones de
-Crédito y demás legislación que resulte aplicable;
-Fracción reformada y recorrida DOF 25-05-2010. Reformada DOF 10-01-2014
-
-XII Bis. Participante en Redes: a toda persona que de manera habitual preste servicios relacionados
-con las Redes de Medios de Disposición de conformidad con las disposiciones de carácter
-
-3 de 41
+3 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+XI Bis. Grupo de Personas: a las personas que tengan acuerdos, de cualquier naturaleza, para
+tomar decisiones en un mismo sentido. Se presume, salvo prueba en contrario, que
+constituyen un Grupo de Personas:
+a)
+
+Las personas que tengan parentesco por consanguinidad, afinidad o civil hasta el
+cuarto grado, los cónyuges, la concubina y el concubinario, y
+
+b)
+
+Las personas que formen parte de un mismo Consorcio o Grupo Empresarial y las
+personas o conjunto de personas que tengan el Control de dichas sociedades.
+Fracción adicionada DOF 09-03-2018
+
+XI Ter. Grupo Empresarial: al conjunto de personas morales organizadas bajo esquemas de
+participación directa o indirecta del capital social, en las que una misma sociedad mantiene el
+Control de dichas personas morales, incluyendo a los grupos financieros constituidos
+conforme a la Ley para Regular las Agrupaciones Financieras;
+Fracción adicionada DOF 09-03-2018
+
+XII.
+
+Medio de Disposición: a las tarjetas de débito asociadas a depósitos de dinero a la vista; a
+las tarjetas de crédito emitidas al amparo de un contrato de apertura de crédito; a los cheques;
+a las órdenes de transferencia de fondos, incluyendo el servicio conocido como domiciliación;
+cualquier dispositivo, tarjeta, o interfaz que permita la realización de pagos, transferencias de
+recursos o disposición de efectivo cuyas operaciones se procesen por medio de las Redes de
+Medios de Disposición, así como aquellos otros que la Comisión Nacional Bancaria y de
+Valores y el Banco de México, de manera conjunta, reconozcan como tales mediante
+disposiciones de carácter general.
+Párrafo reformado DOF 09-03-2018
+
+Para efectos de lo dispuesto en este artículo, toda persona que emita o coloque Medios de
+Disposición estará sujeta a lo dispuesto por los artículos 2 y 103 de la Ley de Instituciones de
+Crédito y demás legislación que resulte aplicable;
+No quedarán comprendidos en esta definición aquellos medios emitidos al amparo de
+programas de lealtad o recompensa ofrecidos por personas morales a sus clientes, que solo
+puedan ser aceptados por dichas personas morales o por sociedades afiliadas a dichos
+programas a cambio de bienes, servicios o beneficios, siempre y cuando no puedan ser
+convertidos a moneda de curso legal en territorio nacional o en cualquier otra jurisdicción y
+que las personas morales que los ofrezcan cuenten con un listado de las sociedades afiliadas
+a dichos programas que, en su conjunto, no podrán ser superiores al veinte por ciento del total
+de los establecimientos mercantiles habilitados para recibirlos, así como los montos por pago
+anticipado, que solo puedan ser aceptados por el emisor o cualquiera de las sociedades que
+pertenezcan a un mismo Consorcio o Grupo Empresarial del emisor, a cambio de bienes,
+servicios o beneficios, siempre y cuando no puedan ser convertidas a moneda de curso legal
+en territorio nacional o en cualquier otra jurisdicción;
+Párrafo adicionado DOF 09-03-2018
+Fracción reformada y recorrida DOF 25-05-2010. Reformada DOF 10-01-2014
+
+XII Bis. Participante en Redes: a toda persona que de manera habitual preste servicios relacionados
+con las Redes de Medios de Disposición de conformidad con las disposiciones de carácter
 general que al efecto emitan la Comisión Nacional Bancaria y de Valores y el Banco de
 México;
 Fracción adicionada DOF 10-01-2014
 
+4 de 46
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 24-01-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 XIII.
-
-Sistema de Pagos: a la serie de instrumentos, procedimientos, reglas y sistemas para la
-transferencia de fondos, y
-Fracción recorrida DOF 25-05-2010. Reformada DOF 10-01-2014
-
-XIV.
 
 Redes de Medios de Disposición: a la serie de acuerdos, protocolos, instrumentos,
 interfaces, procedimientos, reglas, programas, sistemas, infraestructura y demás elementos
 relacionados con el uso de Medios de Disposición, y que, conforme al artículo 4 Bis 3
 corresponde regular de manera conjunta a la Comisión Nacional Bancaria y de Valores y al
-Banco de México.
-Fracción adicionada DOF 10-01-2014
+Banco de México, y
+Fracción recorrida DOF 25-05-2010. Reformada DOF 10-01-2014, 09-03-2018
+
+XIV.
+
+Sistema de Pagos: a la serie de instrumentos, procedimientos, reglas y sistemas para la
+transferencia de fondos.
+Fracción adicionada DOF 10-01-2014. Reformada DOF 09-03-2018
 
 Capítulo II.- De las Comisiones y Cuotas de Intercambio
 Artículo 4.- Para los fines previstos en el artículo 1 de esta Ley, el Banco de México emitirá
@@ -250,19 +310,19 @@ Ley que la rige, determine entre otros aspectos, si existe o no competencia efec
 mercados relevantes respectivos.
 Con base en la opinión de la citada dependencia, el Banco de México, en su caso, tomará las
 medidas regulatorias pertinentes, las que se mantendrán sólo mientras subsistan las condiciones que las
+motivaran. En la regulación, Banco de México establecerá las bases para la determinación de dichas
+Comisiones y Tasas de Interés, así como mecanismos de ajuste y períodos de vigencia.
 
-4 de 41
+5 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-motivaran. En la regulación, Banco de México establecerá las bases para la determinación de dichas
-Comisiones y Tasas de Interés, así como mecanismos de ajuste y períodos de vigencia.
 El Banco de México, la Comisión Nacional Bancaria y de Valores y la Secretaría de Hacienda y
 Crédito Público, podrán solicitar a la Comisión Federal de Competencia Económica que emita opinión
 sobre la subsistencia de las condiciones que motivaron la regulación.
@@ -303,19 +363,19 @@ Cliente, o bien por una operación realizada por él;
 II. Las Entidades no podrán cobrar más de una Comisión por un mismo acto, hecho o evento. Este
 mismo principio aplicará cuando así lo determine el Banco de México tratándose de actos, hechos o
 eventos en los que intervengan más de una Entidad Financiera, y
+III. Las Entidades no podrán cobrar Comisiones que inhiban la movilidad o migración de los Clientes
+de una Entidad Financiera a otra.
 
-5 de 41
+6 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-III. Las Entidades no podrán cobrar Comisiones que inhiban la movilidad o migración de los Clientes
-de una Entidad Financiera a otra.
 Asimismo, las Entidades Financieras tienen prohibido cobrar Comisiones a Clientes o Usuarios por los
 siguientes conceptos:
 a) Por la recepción de pagos de Clientes o Usuarios de créditos otorgados por otras Entidades
@@ -355,20 +415,20 @@ Artículo 4 Bis 3.- Para los fines previstos en el artículo 1 de esta Ley, la C
 y de Valores y el Banco de México, de manera conjunta, deberán emitir disposiciones de carácter general
 para regular los términos y condiciones en que se presten servicios relacionados con las Redes de
 Medios de Disposición, así como las Cuotas de Intercambio y Comisiones que se cobren directa o
+indirectamente, excepto por los servicios provistos por el Banco de México y aquellos a que se refiere la
+Ley de Sistemas de Pagos.
+Lo anterior, debiéndose, al efecto, seguir los siguientes principios:
 
-6 de 41
+7 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-indirectamente, excepto por los servicios provistos por el Banco de México y aquellos a que se refiere la
-Ley de Sistemas de Pagos.
-Lo anterior, debiéndose, al efecto, seguir los siguientes principios:
 I.
 
 Fomento de la competencia; ampliación de infraestructura y reducción de cobros y
@@ -428,19 +488,18 @@ a)
 
 Los términos y condiciones de cualquier requerimiento de solvencia, técnico, tecnológico,
 de escala, de certificación, parámetros, acuerdos, protocolos o similar para poder ser
+miembro o participar de una Red de Medios de Disposición, para interconectarse a dicha
+Red o para poder intercambiar información transaccional o de otra índole con la misma.
 
-7 de 41
+8 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
-
-miembro o participar de una Red de Medios de Disposición, para interconectarse a dicha
-Red o para poder intercambiar información transaccional o de otra índole con la misma.
 
 III.
 
@@ -511,25 +570,24 @@ Protección de los Intereses de los Usuarios. Sin perjuicio de las atribuciones 
 otras autoridades, la Comisión Nacional Bancaria y de Valores velará por la protección de los
 intereses del usuario final de los Medios de Disposición, incluyendo titulares de los mismos y
 comercios. En adición a lo anterior, la Comisión Nacional Bancaria y de Valores procurará:
-
-8 de 41
-
-LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 10-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 a)
 
 La transparencia en el cobro de Comisiones, cuotas o cobros de cualquier clase tanto por
 cada operación, que incluye cualquier tipo de facultad o prohibición contractual bajo la
+
+9 de 46
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 24-01-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 cual se instrumenten éstos, como a nivel de reportes periódicos en la página de Internet y
 también a la Comisión Nacional Bancaria y de Valores para su publicación comparativa
 periódica;
-
 b)
 
 Que no existan cobros múltiples, directos o indirectos, o por diversas personas por la
@@ -555,11 +613,14 @@ Artículo adicionado DOF 10-01-2014
 Artículo 5. Las Entidades que operen cajeros automáticos deberán informar en las pantallas de éstos
 las Comisiones que cobran por su uso, así como obtener el previo consentimiento de los Clientes para el
 cobro de tales Comisiones.
-Artículo 6. Las instituciones de crédito, sociedades financieras de objeto limitado y las sociedades
-financieras de objeto múltiple reguladas, deberán registrar ante el Banco de México las Comisiones que
-cobran por los servicios de pago y créditos que ofrecen al público, así como sus respectivas
-modificaciones. Dicho registro se realizará con al menos treinta días naturales de anticipación a su
-entrada en vigor para nuevas Comisiones o cuando impliquen un incremento.
+Artículo 6. Las instituciones de crédito y las sociedades financieras de objeto múltiple reguladas, así
+como las instituciones de tecnología financiera, deberán registrar ante el Banco de México las
+Comisiones que pretendan cobrar por los servicios de pago y créditos que ofrecen al público, así como
+sus respectivas modificaciones. Dicho registro se realizará con al menos treinta días naturales de
+anticipación a la entrada en vigor de las nuevas Comisiones o de las modificaciones a las previamente
+registradas cuando impliquen un incremento.
+Párrafo reformado DOF 09-03-2018
+
 Para el caso de reducción del monto de dichas Comisiones, el registro deberá realizarse con al menos
 dos días naturales de anticipación a su entrada en vigor.
 Lo anterior lo deberán efectuar en la forma y términos que el propio Banco de México señale en las
@@ -579,12 +640,12 @@ Las atribuciones conferidas al Banco de México en los párrafos anteriores del 
 entenderán otorgadas a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios
 Financieros respecto de las sociedades financieras de objeto múltiple no reguladas, las sociedades
 
-9 de 41
+10 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -638,12 +699,12 @@ caracteres distintivos de manera clara, notoria e indubitable.
 Cuando las Entidades pacten una tasa de referencia en sus operaciones de crédito, préstamo o
 financiamiento, deberán pactar una o más tasas de referencia sustitutivas, para el evento de que deje de
 
-10 de 41
+11 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -693,12 +754,12 @@ Artículo 10 Bis 2. Las Entidades podrán contactar a sus clientes, que expresam
 autorizado, únicamente en su lugar de trabajo, directamente o por vía telefónica para ofrecer algún
 servicio financiero, en el horario acordado. Las Entidades en todo caso deberán verificar el registro de
 
-11 de 41
+12 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -776,12 +837,12 @@ VI.
 Los conceptos de cobro y sus montos;
 Fracción reformada DOF 25-06-2009
 
-12 de 41
+13 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -843,12 +904,12 @@ Artículo adicionado DOF 25-06-2009
 Artículo 11 Bis 1. Los Clientes contarán con un período de gracia de diez días hábiles posteriores a
 la firma de un contrato de adhesión que documenten operaciones masivas establecidas por las
 
-13 de 41
+14 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -913,12 +974,12 @@ suspensión de la publicidad que realicen las Entidades Comerciales, en los tér
 párrafo anterior.
 Párrafo reformado DOF 25-06-2009
 
-14 de 41
+15 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -976,12 +1037,12 @@ La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios
 formular observaciones y ordenar modificaciones a los estados de cuenta que documenten las
 operaciones o servicios que celebren las Entidades Financieras.
 
-15 de 41
+16 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1036,12 +1097,12 @@ derivadas de servicios de domiciliación previstos en la Ley de Instituciones de
 operaciones que determine el Banco de México a través de disposiciones de carácter general. Lo
 anterior, siempre y cuando existan fondos suficientes en las cuentas respectivas.
 
-16 de 41
+17 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1103,12 +1164,12 @@ debidamente actualizada y contener al menos los siguientes datos: nombre del des
 teléfonos, y nombre de los socios.
 Artículo adicionado DOF 10-01-2014
 
-17 de 41
+18 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1158,12 +1219,12 @@ Capítulo III Bis.
 De los créditos, préstamos o financiamientos revolventes asociados a una tarjeta
 Capítulo adicionado DOF 25-06-2009
 
-18 de 41
+19 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1182,9 +1243,10 @@ II.
 En los respectivos formularios se señalen los datos de inscripción del Contrato de Adhesión
 en el registro a que se refiere el quinto párrafo del artículo 11 de la Ley.
 Tanto para la contratación como en caso de alguna controversia respecto de créditos,
-préstamos o financiamientos revolventes asociados a una tarjeta, se entenderá que el
-contrato de adhesión válido en la operación de que se trate, es el registrado ante la Comisión
-Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros.
+préstamos o financiamientos revolventes, se entenderá que el contrato de adhesión válido en
+la operación de que se trate, es el registrado ante la Comisión Nacional para la Protección y
+Defensa de los Usuarios de Servicios Financieros.
+Párrafo reformado DOF 09-03-2018
 
 III.
 
@@ -1221,12 +1283,12 @@ deberán ser inferiores a la tasa de interés ordinaria máxima, siempre y cuand
 condiciones estén claramente estipulados.
 Artículo adicionado DOF 25-06-2009
 
-19 de 41
+20 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1284,12 +1346,12 @@ El Banco de México al emitir las citadas disposiciones deberá prever que no ex
 negativas en el crédito conferido y se procure que las deudas sean cubiertas en un periodo razonable.
 Artículo adicionado DOF 25-06-2009
 
-20 de 41
+21 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1344,12 +1406,12 @@ Tratándose de Entidades Comerciales, la Procuraduría Federal del Consumidor es
 conocer de cualquier controversia relacionada con la aplicación de la presente Ley entre las Entidades
 Comerciales y sus Clientes.
 
-21 de 41
+22 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1362,30 +1424,66 @@ Las Entidades Comerciales estarán obligadas a suministrar a la Procuraduría Fe
 en la forma y términos que ésta les requiera, la información sobre los Medios de Disposición, créditos,
 préstamos o financiamientos respectivos, así como, en general aquélla que le sea útil para proveer el
 adecuado cumplimiento de sus funciones.
-Artículo 22.- Las disposiciones de carácter general, tales como circulares y reglas, así como actos
-administrativos y notificaciones que emita el Banco de México en ejercicio de las facultades que le
-otorgan la Constitución Política de los Estados Unidos Mexicanos, y las leyes, podrán darse a conocer:
-I. Mediante publicación en el Diario Oficial de la Federación, o
-II. A través de los medios que determine el Banco de México mediante disposiciones de carácter
+Artículo 22.- Las disposiciones de carácter general, tales como circulares y reglas, así como demás
+actos y notificaciones que emita el Banco de México en ejercicio de las facultades que le otorgan la
+Constitución Política de los Estados Unidos Mexicanos, y las leyes, podrán darse a conocer:
+Párrafo reformado DOF 24-01-2024
+
+I.
+
+Mediante publicación en el Diario Oficial de la Federación, o
+
+II.
+
+A través de los medios que determine el Banco de México mediante disposiciones de carácter
 general.
+
 Las publicaciones que realice el Banco de México en el Diario Oficial de la Federación conforme a
 este artículo, estarán exentas del pago de derechos en términos de la Ley Federal de Derechos.
 Para los efectos de la fracción II del presente artículo:
-a) Las instituciones de crédito, entidades e intermediarios financieros de que se trate, deberán
-proporcionar al Banco de México la información que requiera para dar a conocer las disposiciones, actos
-administrativos y notificaciones mencionadas. Las disposiciones, actos administrativos y notificaciones
+a)
+
+Las instituciones de crédito, entidades e intermediarios financieros de que se trate, deberán
+proporcionar al Banco de México la información que requiera para dar a conocer las
+disposiciones, actos y notificaciones mencionadas. Las disposiciones, actos y notificaciones
 que el Banco de México envíe o comunique con base en la información que le proporcionen las
-instituciones de crédito, entidades e intermediarios financieros, obligan y surten sus efectos en los
-términos que éstas señalen.
-b) Cuando las disposiciones, actos administrativos y notificaciones del Banco de México se envíen a
-las instituciones de crédito, entidades o intermediarios financieros, a través de medios electrónicos
-distintos del fax, que permitan adjuntar el mensaje de datos y firmarlo electrónicamente, las firmas
-respectivas deberán corresponder a los funcionarios competentes para emitirlas en términos del
-Reglamento Interior del Banco de México, y haber sido generadas con base en los datos de creación de
-firma electrónica conforme a los procedimientos y sistemas de la Infraestructura Extendida de Seguridad
-que administra el propio Banco de México.
+instituciones de crédito, entidades e intermediarios financieros, obligan y surten sus efectos en
+los términos que éstas señalen.
+Inciso reformado DOF 24-01-2024
+
+b)
+
+Cuando las disposiciones, actos y notificaciones del Banco de México se envíen a las
+instituciones de crédito, entidades o intermediarios financieros, a través de medios electrónicos
+distintos del fax, que permitan adjuntar el mensaje de datos y firmarlo electrónicamente, las
+firmas respectivas deberán corresponder a los funcionarios competentes para emitirlas en
+términos del Reglamento Interior del Banco de México, y haber sido generadas con base en los
+datos de creación de firma electrónica conforme a los procedimientos y sistemas de la
+Infraestructura Extendida de Seguridad que administra el propio Banco de México.
+Inciso reformado DOF 24-01-2024
+
+El Banco de México estará facultado para supervisar y vigilar el cumplimiento, por parte de los sujetos
+correspondientes, de las disposiciones de las leyes que le confieran atribuciones para regular los actos y
+operaciones específicos indicados en dichas disposiciones, sin perjuicio de las facultades de supervisión
+y vigilancia que dichas leyes confieran a alguna otra autoridad respecto de las demás disposiciones ahí
+contenidas. En el ejercicio de dichas facultades de supervisión y vigilancia, el Banco observará lo
+dispuesto a ese respecto en la Ley del Banco de México, así como en las reglas de carácter general
+emitidas por este, para proveer a la observancia de su propia regulación.
+Párrafo adicionado DOF 24-01-2024
+
 Artículo 23. En todas las operaciones y servicios que las Entidades Financieras celebren por medio
 de Contratos de Adhesión masivamente celebradas y hasta por los montos máximos que establezca la
+
+23 de 46
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 24-01-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros en
 disposiciones de carácter general, aquéllas deberán proporcionarle a sus Clientes la asistencia, acceso y
 facilidades necesarias para atender las aclaraciones relacionadas con dichas operaciones y servicios.
@@ -1400,17 +1498,6 @@ I.
 
 Cuando el Cliente no esté de acuerdo con alguno de los movimientos que aparezcan en el estado
 de cuenta respectivo o en los medios electrónicos, ópticos o de cualquier otra tecnología que se
-
-22 de 41
-
-LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 10-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 hubieren pactado, podrá presentar una solicitud de aclaración dentro del plazo de noventa días
 naturales contados a partir de la fecha de corte o, en su caso, de la realización de la operación o
 del servicio.
@@ -1453,6 +1540,16 @@ disposiciones aplicables, deba obrar en su poder y que se relacione directamente
 de aclaración que corresponda y sin incluir datos correspondientes a operaciones relacionadas
 con terceras personas;
 
+24 de 46
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 24-01-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 IV. En caso de que la institución no diere respuesta oportuna a la solicitud del Cliente o no le
 entregare el dictamen e informe detallado, así como la documentación o evidencia antes
 referidos, la Comisión Nacional para la Protección y Defensa de los Usuarios de los Servicios
@@ -1465,16 +1562,6 @@ V.
 Hasta en tanto la solicitud de aclaración de que se trate no quede resuelta de conformidad con el
 procedimiento señalado en este artículo, la institución no podrá reportar como vencidas las
 cantidades sujetas a dicha aclaración a las sociedades de información crediticia.
-
-23 de 41
-
-LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 10-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 Lo antes dispuesto es sin perjuicio del derecho de los Clientes de acudir ante la Comisión Nacional
 para la Protección y Defensa de los Usuarios de Servicios Financieros o ante la autoridad jurisdiccional
@@ -1514,34 +1601,91 @@ Artículo adicionado DOF 10-01-2014
 
 Capítulo V
 Del procedimiento administrativo sancionador
+
+25 de 46
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 24-01-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Sección I
 De las disposiciones generales
 Artículo 24.- La facultad de las autoridades para imponer sanciones de carácter administrativo
 establecidas en esta Ley, caducará en un plazo de cinco años, contado a partir del día hábil siguiente al
 en que se realizó la conducta o se actualizó el supuesto de infracción.
-El plazo señalado se interrumpirá cuando las autoridades otorguen el derecho de audiencia al
-probable infractor, en términos de lo previsto en los artículos 28 y 29 de la presente Ley.
+Para el caso de conductas continuas, el plazo referido en el párrafo anterior se computará a partir del
+momento en que cese la misma y tratándose de las continuadas, dicho plazo contará a partir de la
+consumación de la última conducta.
+Párrafo adicionado DOF 24-01-2024
 
-24 de 41
+El plazo de cinco años previsto en el primer párrafo del presente artículo se interrumpirá, para efectos
+del inicio del procedimiento administrativo sancionador, a partir del momento de la notificación al presunto
+infractor del oficio mediante el cual se le concede el derecho de audiencia, en términos de lo previsto en
+los artículos 28 y 29 de la presente Ley.
+Párrafo reformado DOF 24-01-2024
+
+Asimismo, el plazo de cinco años previsto por este artículo se suspenderá:
+I.
+
+Hasta por dos años, cuando la Entidad Financiera: no se ubique en el domicilio registrado ante
+la Autoridad respectiva sin que haya presentado el aviso de cambio correspondiente, o hubiere
+señalado un domicilio incorrecto.
+El citado plazo se reanudará a partir de la fecha en que la Autoridad tenga conocimiento del
+domicilio actual.
+
+II.
+
+Cuando la Entidad Financiera haya controvertido cualquiera de los actos relacionados con el
+proceso de imposición de la sanción. Dicha suspensión se computará desde la fecha de
+interposición del medio de defensa y hasta aquella en que se dicte la resolución definitiva
+correspondiente.
+Párrafo adicionado DOF 24-01-2024
+
+Artículo 24 Bis.- Tratándose de la facultad del Banco de México para imponer sanciones de carácter
+administrativo, por infracciones a preceptos de otras leyes, así como a las disposiciones que este emita
+con fundamento en dichas leyes, cuando estas no prevean expresamente un plazo para la caducidad de
+sus atribuciones se estará a los términos y condiciones del artículo 24 anterior.
+Artículo adicionado DOF 24-01-2024
+
+Artículo 25.- El procedimiento administrativo será autónomo de la reparación de los daños y perjuicios
+que, en su caso, demanden las personas afectadas por los actos de que se trate.
+Artículo 26.- Todas las actuaciones deberán practicarse en días y horas hábiles. Serán días hábiles,
+respecto de las Entidades Financieras, todos los días del año, salvo los sábados y domingos y los que
+determine la Autoridad competente para resolver el procedimiento administrativo sancionador respectivo,
+mediante disposiciones de carácter general, acuerdos o publicaciones, realizadas en el Diario Oficial de
+la Federación con la periodicidad que determine cada Autoridad. Serán horas hábiles, respecto de las
+entidades financieras las comprendidas entre las nueve y las dieciocho horas. Asimismo, serán días
+hábiles respecto de las entidades comerciales, aquellos señalados con tal carácter en la Ley Federal de
+Procedimiento Administrativo.
+
+26 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-Artículo 25.- El procedimiento administrativo será autónomo de la reparación de los daños y perjuicios
-que, en su caso, demanden las personas afectadas por los actos de que se trate.
-Artículo 26.- Todas las actuaciones deberán practicarse en días y horas hábiles. Serán días hábiles
-todos los días del año, salvo los sábados y domingos y los que determine la Comisión Nacional Bancaria
-y de Valores mediante las disposiciones de carácter general que señalan los días del año en que las
-entidades financieras sujetas a la supervisión de la Comisión deberán suspender operaciones, publicadas
-en el Diario Oficial de la Federación para cada ejercicio social. Serán horas hábiles las comprendidas
-entre las nueve y las dieciocho horas.
-Artículo 27.- Las notificaciones se regirán por los artículos 134, 135, 136, 137, 139 y 140 del Código
-Fiscal de la Federación.
+Sin perjuicio de lo dispuesto en este artículo, las Autoridades podrán llevar a cabo notificaciones por
+medios electrónicos fuera de las horas hábiles previstas en el párrafo anterior, en cuyo caso se
+entenderán realizadas en la hora hábil inmediata siguiente al momento en que se hubiere realizado.
+Artículo reformado DOF 24-01-2024
+
+Artículo 27.- Las notificaciones que realicen las Autoridades podrán efectuarse electrónicamente
+mediante los sistemas que las mismas señalen en las disposiciones de carácter general que al efecto
+emitan. En lo no previsto en las disposiciones señaladas en el presente párrafo respecto de las
+notificaciones electrónicas, así como en el caso en que no sea posible la notificación a través de dicha
+vía, será aplicable el Código Fiscal de la Federación en su parte relativa a las notificaciones.
+Tratándose de las notificaciones que corresponda realizar al Banco de México, estas quedarán
+sujetas además del ordenamiento a que se refiere el párrafo anterior, a las reglas de carácter general
+emitidas al efecto.
+Artículo reformado DOF 24-01-2024
 
 Sección II
 Del inicio del procedimiento
@@ -1549,9 +1693,11 @@ Artículo 28.- Las Autoridades previo a la imposición de las sanciones que les 
 conforme a esta Ley, notificarán por escrito al presunto infractor los hechos que se le imputan y las
 disposiciones que se consideren probablemente infringidas.
 Artículo 29.- En la notificación a que se refiere el artículo inmediato anterior, las Autoridades deberán
-otorgar el derecho de audiencia al presunto infractor, a fin de que en un plazo de diez días hábiles
-bancarios, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación
-correspondiente, manifieste lo que a su interés convenga y ofrezca pruebas por escrito.
+otorgar el derecho de audiencia al presunto infractor, a fin de que en un plazo de diez días hábiles,
+contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente,
+manifieste lo que a su interés convenga y ofrezca pruebas por escrito.
+Párrafo reformado DOF 24-01-2024
+
 Las Autoridades, a petición de parte, podrán ampliar por una sola ocasión el plazo mencionado, hasta
 por el mismo lapso, atendiendo a las circunstancias particulares del caso.
 
@@ -1563,28 +1709,43 @@ absolución de posiciones. No se considerará comprendida en esta prohibición l
 las Autoridades, respecto de hechos que consten en sus expedientes o de documentos agregados a
 ellos.
 Las pruebas supervenientes podrán presentarse, siempre que no se haya cerrado la instrucción.
-El ofrecimiento, admisión, preparación, desahogo y valoración de las pruebas se hará conforme a lo
-establecido en el Código Federal de Procedimientos Civiles.
-Artículo 31.- Concluido el desahogo de pruebas, se otorgará al presunto infractor un plazo de cinco
-días hábiles bancarios, contado a partir del día hábil bancario siguiente al de la notificación
-correspondiente, para que formule alegatos por escrito. Al vencer el citado plazo se tendrá por cerrada la
-instrucción.
+El ofrecimiento, admisión, preparación, desahogo y valoración de las pruebas se hará en los términos
+y condiciones establecidos en el Código Federal de Procedimientos Civiles.
+Párrafo reformado DOF 24-01-2024
+
+Artículo 31.- Concluido el plazo a que se refiere el artículo 29 de la presente Ley y, en su caso, el de
+su ampliación, las Autoridades contarán con hasta sesenta días hábiles para el desahogo de las pruebas.
+Una vez desahogadas las pruebas admitidas al presunto infractor, la Autoridad que corresponda le
+notificará la apertura del periodo de cinco días hábiles para formular alegatos. La Autoridad respectiva
+podrá realizar dicha notificación por estrados o por cualquier otro medio, en los casos en que así lo
+determine.
+
+27 de 46
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 24-01-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la
+instrucción y la Autoridad respectiva contará con un plazo no mayor a ciento ochenta días hábiles para
+emitir y notificar la resolución que ponga fin al procedimiento sancionador e imponer, en su caso, las
+sanciones que conforme a derecho procedan.
+Artículo reformado DOF 24-01-2024
+
+Artículo 31 Bis.- Tratándose de la facultad del Banco de México para imponer sanciones de carácter
+administrativo por infracciones a preceptos de otras leyes, así como a las disposiciones que de ellas
+emita, cuando dichas leyes no prevean expresamente las etapas y los plazos para el ejercicio de esa
+facultad, el Banco observará lo dispuesto en el artículo 31 anterior.
+Artículo adicionado DOF 24-01-2024
 
 Sección IV
 De la resolución del procedimiento
 Artículo 32.- En la imposición de sanciones administrativas, las Autoridades deberán tomar en
 cuenta:
-
-25 de 41
-
-LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 10-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 I. La capacidad económica del infractor.
 II. La gravedad de la infracción cometida.
 III. Las atenuantes o agravantes.
@@ -1611,6 +1772,17 @@ de esta facultad.
 Artículo 36.- Las sanciones podrán ser impuestas tanto a las Entidades o Cámaras de
 Compensación, previo derecho de audiencia que se les otorgue conforme a los artículos 28 y 29 de la
 presente Ley.
+
+28 de 46
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 24-01-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 37.- En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o
 más ocasiones, ni por dos o más autoridades administrativas.
 Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta Ley imponga
@@ -1624,17 +1796,6 @@ Federación para este tipo de supuestos.
 En caso de que el infractor pague las multas impuestas por las Autoridades dentro de los quince días
 referidos en el párrafo inmediato anterior, se aplicará una reducción en un veinte por ciento de su monto,
 siempre y cuando no se interponga medio de defensa alguno.
-
-26 de 41
-
-LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 10-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 39.- En ejercicio de sus facultades sancionadoras, las Autoridades deberán hacer del
 conocimiento del público en general por el medio que consideren conveniente, las sanciones que al
 efecto impongan por infracciones a esta Ley, una vez que dichas resoluciones hayan quedado firmes o
@@ -1673,6 +1834,16 @@ II.
 No expresen en términos anuales las tasas de interés ordinarias y moratorias, conforme al
 artículo 9 de la presente Ley.
 
+29 de 46
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 24-01-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 III.
 
 Empleen modelos de Contratos de Adhesión que incumplan lo previsto en el artículo 11 de esta
@@ -1696,16 +1867,6 @@ Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros,
 disposiciones de carácter general.
 Fracción reformada DOF 25-06-2009
 
-27 de 41
-
-LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 10-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 VI. Se abstengan de enviar a la propia Comisión Nacional para la Protección y Defensa de los
 Usuarios de Servicios Financieros los modelos de Contratos de Adhesión, en contravención al
 artículo 11 del presente Ordenamiento;
@@ -1721,10 +1882,10 @@ Fracción adicionada DOF 25-06-2009
 IX. Aplique tasas de interés en contravención a lo señalado por el artículo 18 Bis 6.
 Fracción adicionada DOF 25-06-2009
 
-Artículo 43. La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios
-Financieros sancionará con multa de cuatro mil a veinte mil días de salario, a las Entidades Financieras
-que:
-Párrafo reformado DOF 25-06-2009
+Artículo 43.- La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios
+Financieros sancionará con multa de cuatro mil a ciento cincuenta mil Unidades de Medida y
+Actualización, a las Entidades Financieras que:
+Párrafo reformado DOF 25-06-2009, 09-03-2018
 
 I.
 
@@ -1753,6 +1914,16 @@ V.
 
 No suspendan la publicidad conforme al artículo 12 de esta Ley.
 
+30 de 46
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 24-01-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 VI.
 
 No modifiquen los estados de cuenta en los términos que señale la Comisión Nacional para la
@@ -1772,16 +1943,6 @@ IX.
 Otorguen crédito, préstamo o financiamiento en contravención a lo dispuesto por el artículo 10
 Bis, de la presente Ley.
 Fracción adicionada DOF 25-06-2009
-
-28 de 41
-
-LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 10-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 X.
 
@@ -1823,6 +1984,17 @@ días de salario, a las Entidades Comerciales que infrinjan cualquier disposici�
 conducta no competa sancionar a otra de las Autoridades y que no correspondan a las conductas
 infractoras señaladas en el párrafo siguiente, así como cuando infrinjan las disposiciones de carácter
 general que la propia Procuraduría expida en términos de esta Ley.
+
+31 de 46
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 24-01-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Asimismo, la Procuraduría Federal del Consumidor sancionará, en el ámbito de su competencia, con
 multa de:
 I.
@@ -1844,16 +2016,6 @@ c)
 Empleen modelos de Contratos de Adhesión que incumplan lo previsto en el artículo 11 de
 esta Ley o en las disposiciones de carácter general que expida la Procuraduría Federal del
 Consumidor, que regulen Contratos de Adhesión.
-
-29 de 41
-
-LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 10-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 d)
 
@@ -1888,7 +2050,10 @@ Inciso adicionado DOF 25-06-2009
 
 II.
 
-Cuatro mil a veinte mil días de salario, a las Entidades Comerciales que:
+Cuatro mil a ciento cincuenta mil Unidades de Medida y Actualización, a las Entidades
+Comerciales que:
+Párrafo reformado DOF 09-03-2018
+
 a)
 
 Realicen cargos adicionales a sus Clientes por la terminación de los contratos que tengan
@@ -1912,6 +2077,16 @@ Cobren Comisiones distintas a las pactadas en los Contratos de Adhesión.
 e)
 
 No suspendan la publicidad conforme al artículo 12 de esta Ley.
+
+32 de 46
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 24-01-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 f)
 
@@ -1941,16 +2116,6 @@ que al efecto establezca el Banco de México a través de disposiciones de cará
 k)
 
 Cobren intereses en términos distintos a lo previsto en el artículo 10, de la presente Ley.
-
-30 de 41
-
-LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 10-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 l)
 
@@ -1987,7 +2152,20 @@ Artículo 46. Se deroga
 Artículo derogado DOF 25-06-2009
 
 Sección VIII
-Sanciones que corresponde imponer al Banco de México
+Sanciones que corresponde imponer al Banco de México o a la Comisión Nacional
+Bancaria y de Valores
+Denominación de la Sección reformada DOF 09-03-2018
+
+33 de 46
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 24-01-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 47.- El Banco de México sancionará con multa de doscientos a dos mil días de salario, a las
 Entidades Financieras y Cámaras de Compensación que infrinjan cualquier disposición de esta Ley cuya
 conducta no competa sancionar a otra de las Autoridades y que no correspondan a las conductas
@@ -2002,17 +2180,6 @@ instrucciones de cargo, en contravención a lo señalado en el artículo 16 de e
 disposiciones de carácter general que con fundamento en dicho artículo expida el Banco de México.
 Artículo 49.- El Banco de México sancionará con multa de cuatro mil a veinte mil días de salario, a las
 Entidades Financieras que:
-
-31 de 41
-
-LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 10-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 I. Incumplan con las disposiciones de carácter general que emita el Banco de México en términos del
 artículo 4 de esta Ley.
 II. Se abstengan de observar la fórmula, los componentes y la metodología de cálculo del CAT, que al
@@ -2041,6 +2208,17 @@ Fracción adicionada DOF 25-05-2010
 Artículo 49 Bis. El Banco de México podrá, previo derecho de audiencia, suspender o limitar de
 manera parcial las operaciones de las Cámaras de Compensación que incumplan de manera reiterada lo
 previsto en los artículos 19 y 19 Bis, o en las disposiciones que de ellos emanen.
+
+34 de 46
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 24-01-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Asimismo, el Banco de México podrá revocar las autorizaciones mencionadas en el artículo 19 Bis, en
 caso de que se infrinja de manera reiterada y grave lo previsto en los artículos señalados en el párrafo
 anterior o en las disposiciones que de éste emanen.
@@ -2066,16 +2244,6 @@ I.
 
 Amonestación con apercibimiento;
 
-32 de 41
-
-LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 10-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 II.
 
 Multa de 2,000 a 5,000 días de salario;
@@ -2094,16 +2262,37 @@ Auxilio de la fuerza pública.
 Artículo adicionado DOF 10-01-2014
 
 Artículo 49 Bis 2. La Comisión Nacional Bancaria y de Valores sancionará con multa de 5,000 a
-20,000 días de salario, a las Entidades que infrinjan cualquier disposición de esta Ley o las disposiciones
-de carácter general que expidan la propia Comisión Nacional Bancaria y de Valores y el Banco de
-México, de manera conjunta, en términos de esta Ley en relación con las Redes de Medios de
-Disposición a que se refiere el Artículo 4 Bis 3. En caso de reincidencia, la Comisión Nacional Bancaria y
-de Valores podrá imponer sanciones equivalentes hasta por el doble de la prevista.
+20,000 veces la Unidad de Medida y Actualización, a las Entidades y Participantes en Redes que infrinjan
+cualquier disposición de esta Ley o las disposiciones de carácter general que expidan, de manera
+conjunta la Comisión Nacional Bancaria y de Valores y el Banco de México, en términos de esta Ley en
+relación con las Redes de Medios de Disposición a que se refiere el artículo 4 Bis 3. En caso de
+reincidencia, la Comisión Nacional Bancaria y de Valores podrá imponer sanciones equivalentes hasta
+por el doble de la prevista en este párrafo.
+Párrafo reformado DOF 09-03-2018
+
 Con independencia de las demás sanciones que pueda imponer, la Comisión Nacional Bancaria y de
 Valores, podrá formular observaciones y, en su caso, ordenar la adopción de medidas tendientes a
 corregir los hechos, actos u omisiones irregulares que haya detectado en ejercicio de las funciones que
 lleve a cabo conforme a esta Ley.
+En caso de que la Comisión Nacional Bancaria y de Valores o el Banco de México, en ejercicio de sus
+respectivas facultades, detecte actos u omisiones de las Entidades o Participantes en Redes que
+pudieran implicar infracciones a las disposiciones que les resulten aplicables en términos de la presente
+Ley, lo hará del conocimiento de la otra autoridad. Para efectos de lo anterior, la Comisión Nacional
+Bancaria y de Valores y el Banco de México celebrarán un convenio de colaboración por el que
+establezcan la forma y términos para darse a conocer lo previsto en el presente párrafo, así como las
+medidas que adopten en el ejercicio de sus atribuciones.
+Párrafo adicionado DOF 09-03-2018
 Artículo adicionado DOF 10-01-2014
+
+35 de 46
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 24-01-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 Capítulo VI
 Del recurso de revisión
@@ -2130,17 +2319,6 @@ Servicio de Administración Tributaria conforme al Código Fiscal de la Federaci
 Artículo 53.- Para la ejecución de las multas que imponga el Banco de México en términos de esta
 Ley, se observará lo previsto en los artículos 66 y 67 de la Ley del Banco de México.
 ARTÍCULO SEGUNDO. ..........
-
-33 de 41
-
-LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 10-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 ARTÍCULO TERCERO. ..........
 ARTÍCULO CUARTO. ...........
 
@@ -2155,6 +2333,17 @@ leyes vigentes al momento de realizarse las citadas infracciones.
 ARTÍCULO TERCERO.- Las Entidades dispondrán de un plazo de hasta ciento ochenta días
 naturales a partir de la entrada en vigor del presente decreto, a efecto de adecuarse a las disposiciones
 del mismo.
+
+36 de 46
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 24-01-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 ARTÍCULO CUARTO.- Para los efectos de lo dispuesto en el artículo 48 Bis 2 de la Ley de
 Instituciones de Crédito, el Banco de México dispondrá de treinta días a partir de la entrada en vigor del
 presente decreto, para emitir las disposiciones de carácter general.
@@ -2191,17 +2380,6 @@ IV. El artículo 12. Sin perjuicio de lo anterior cuando las autoridades que res
 conforme a lo señalado en el artículo 13 de la presente Ley para la Transparencia y
 Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia,
 las disposiciones de carácter general que en materia de estados de cuenta prevé esta última Ley,
-
-34 de 41
-
-LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 10-01-2014
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 deberán incluir el cálculo del Costo Anual Total que corresponda al resto de la vigencia del
 Crédito Garantizado a la Vivienda.
 ARTÍCULO SÉPTIMO.- Al entrar en vigor el presente Decreto se derogan de la Ley General de
@@ -2218,15 +2396,26 @@ Lopez Adame, Secretario.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
 Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
 Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes
-de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación,
-Francisco Javier Ramírez Acuña.- Rúbrica.
 
-35 de 41
+37 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación,
+Francisco Javier Ramírez Acuña.- Rúbrica.
+
+38 de 46
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2274,12 +2463,12 @@ sancionarán conforme a la Ley vigente al momento de cometerse las citadas infra
 En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su
 continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las
 
-36 de 41
+39 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2303,12 +2492,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
-37 de 41
+40 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2355,12 +2544,12 @@ presente Decreto.
 Sexto. Para los efectos del artículo 20, las Sociedades deberán eliminar, en un plazo no mayor a 90
 días naturales, de sus bases de datos los registros cuyo origen no haya sido informado por los Usuarios
 
-38 de 41
+41 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2376,12 +2565,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
-39 de 41
+42 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2443,12 +2632,12 @@ La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios
 contará con un plazo de ciento ochenta días naturales para poner en funcionamiento el Buró
 de Entidades Financieras, contados a partir de la entrada en vigor del presente Decreto.
 
-40 de 41
+43 de 46
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 10-01-2014
+Última Reforma DOF 24-01-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2505,5 +2694,87 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio
 Chong.- Rúbrica.
 
-41 de 41
+44 de 46
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 24-01-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+DECRETO por el que se expide la Ley para Regular las Instituciones de Tecnología
+Financiera y se reforman y adicionan diversas disposiciones de la Ley de Instituciones
+de Crédito, de la Ley del Mercado de Valores, de la Ley General de Organizaciones y
+Actividades Auxiliares del Crédito, de la Ley para la Transparencia y Ordenamiento de los
+Servicios Financieros, de la Ley para Regular las Sociedades de Información Crediticia,
+de la Ley de Protección y Defensa al Usuario de Servicios Financieros, de la Ley para
+Regular las Agrupaciones Financieras, de la Ley de la Comisión Nacional Bancaria y de
+Valores y, de la Ley Federal para la Prevención e Identificación de Operaciones con
+Recursos de Procedencia Ilícita.
+Publicado en el Diario Oficial de la Federación el 9 de marzo de 2018
+
+ARTÍCULO QUINTO.- Se reforman los artículos 3, fracciones V Bis, IX, XII, párrafo primero, XIII y XIV;
+6, párrafo primero; 18 Bis, fracción II, párrafo segundo; 43, primer párrafo; 44, segundo párrafo, fracción II
+y 49 Bis 2, párrafo primero, así como la denominación de la Sección VIII del Capítulo V, y se adicionan
+los artículos 2, fracción III Bis; 3, fracciones IV Bis, V Ter, XI Bis, XI Ter, XII, párrafo tercero; y 49 Bis 2,
+párrafo tercero de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, para quedar
+como sigue:
+………
+
+TRANSITORIO
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de
+la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
+Ciudad de México, a 1 de marzo de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar
+Romo García, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Ana Guadalupe Perea
+Santos, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en el
+municipio de Acapulco de Juárez, estado de Guerrero, a ocho de marzo de dos mil dieciocho.- Enrique
+Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+45 de 46
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 24-01-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+DECRETO por el que se reforman, adicionan y derogan diversas leyes financieras en
+materia de procedimiento administrativo.
+Publicado en el Diario Oficial de la Federación el 24 de enero de 2024
+
+Artículo Primero.- Se reforman los artículos 22, párrafos primero y tercero, incisos a) y b); 24, actual
+párrafo segundo; 26; 27; 29, párrafo primero; 30, párrafo tercero; y 31; y se adicionan los artículos 22,
+con un párrafo cuarto; 24, con los párrafos segundo y cuarto; 24 Bis; y 31 Bis, de la Ley para la
+Transparencia y Ordenamiento de los Servicios Financieros, para quedar como sigue:
+………
+
+Transitorios
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.
+Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente
+Decreto, se hubieren iniciado deberán continuarse hasta su conclusión, conforme al procedimiento
+vigente al momento de su notificación al presunto infractor.
+Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se
+hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia,
+antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al
+procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
+Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de
+entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las
+Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la
+misma fecha de entrada en vigor del presente Decreto.
+Ciudad de México, a 13 de diciembre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen.
+Ana Lilia Rivera Rivera, Presidenta.- Dip. Diana Estefanía Gutiérrez Valtierra, Secretaria.- Sen.
+Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2024.- Andrés
+Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+46 de 46
 
