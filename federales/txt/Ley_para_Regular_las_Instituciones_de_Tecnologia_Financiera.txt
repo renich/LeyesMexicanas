@@ -8,7 +8,7 @@ TECNOLOGÍA FINANCIERA
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 9 de marzo de 2018
 TEXTO VIGENTE
-Última reforma publicada DOF 20-05-2021
+Última reforma publicada DOF 24-01-2024
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -2026,7 +2026,7 @@ socios,
 representantes y demás empleados de las
 personas morales que presten servicios de
 auditoría externa, y
-IV. Emitir o reconocer normas y procedimientos de
+IV.Emitir o reconocer normas y procedimientos de
 auditoría que deberán observar las personas
 morales que presten servicios de auditoría
 externa al dictaminar o emitir opiniones relativas a
@@ -2363,8 +2363,7 @@ de carácter general a que se refiere este artículo.
 Las ITF deberán conservar, por al menos diez años
 la información y documentación a que se refiere la
 fracción III del párrafo anterior, sin perjuicio de lo
-establecido
-en
+establecido en
 otras
 disposiciones jurídicas
 aplicables.
@@ -2725,11 +2724,12 @@ refiere este artículo se impondrán sin perjuicio de las
 sanciones que puedan resultar aplicables en términos
 de lo previsto en esta Ley y demás disposiciones que
 resulten aplicables.
-Artículo 69.- La CNBV con aprobación del Comité
-Interinstitucional, y después de escuchar a la ITF
-afectada, podrá declarar la revocación de la
+Artículo 69.- La CNBV después de escuchar a la
+ITF afectada, y con aprobación del Comité
+Interinstitucional, podrá declarar la revocación de la
 autorización que le haya otorgado a dicha ITF, en los
 casos siguientes:
+Párrafo reformado DOF 24-01-2024
 I. Si no mantiene el capital mínimo o neto necesario
 para llevar a cabo sus actividades de acuerdo con
 lo previsto en esta Ley y las disposiciones de
@@ -2763,9 +2763,9 @@ inmediatos siguientes a la fecha en que haya
 quedado firme la resolución correspondiente;
 VIII. Cometer alguna de las conductas calificadas
 como graves en esta Ley, y
+
 IX.Si la ITF de que se trate, por conducto de su
 representante legal, así lo solicita, siempre que
-
 no existan Operaciones pendientes de liquidar
 entre sus Clientes o, en caso de Operaciones
 pendientes, que haya cedido su administración,
@@ -2773,16 +2773,56 @@ cumpliendo con las disposiciones legales y
 contractuales aplicables. En este caso, la
 sociedad deberá modificar sus estatutos para no
 contemplar su operación como ITF.
-La revocación impedirá que la ITF pueda realizar
+La Comisión otorgará el derecho de audiencia a la
+ITF interesada a fin de que, dentro del plazo de diez
+días hábiles, contado a partir del día hábil siguiente a
+aquél en que surta efectos la notificación
+correspondiente, manifieste por escrito lo que a su
+interés convenga y ofrezca pruebas. La Comisión, a
+petición de parte, podrá ampliar por una sola ocasión
+el plazo a que se refiere este párrafo, hasta por el
+mismo lapso, atendiendo a las circunstancias
+particulares del caso. Las notificaciones surtirán
+efectos al día hábil siguiente a aquél en que se
+practiquen.
+Párrafo adicionado DOF 24-01-2024
+Concluido el plazo a que se refiere el párrafo
+anterior y, en su caso el de su ampliación, la
+Comisión contará con un plazo de hasta sesenta días
+hábiles para el desahogo de las pruebas. Una vez
+desahogadas las pruebas, la Comisión notificará a la
+ITF la apertura del periodo de cinco días hábiles para
+formular alegatos. La Comisión podrá realizar dicha
+
+notificación por estrados o por cualquier otro medio,
+que determine.
+Párrafo adicionado DOF 24-01-2024
+Al día hábil siguiente al vencimiento del plazo para
+formular alegatos, se tendrá por cerrada la instrucción
+y la Comisión respectiva contará con un plazo no
+mayor a ciento ochenta días hábiles para obtener la
+aprobación del Comité Interinstitucional y emitir y
+notificar la resolución que ponga fin a los
+procedimientos administrativos de revocación a que
+se refiere el presente artículo.
+Párrafo adicionado DOF 24-01-2024
+La declaración de revocación se publicará en el
+Diario Oficial de la Federación y deberá inscribirse en
+el Registro Público de Comercio que corresponda al
+domicilio social de la ITF de que se trate, para lo cual
+el Registro únicamente requerirá previa notificación
+de la CNBV.
+Párrafo adicionado DOF 24-01-2024
+La revocación incapacitará a la ITF para realizar
 nuevas Operaciones a partir de la fecha en que se
-notifique la resolución correspondiente y obligará a la
-ITF a efectuar los actos necesarios para que se
-concluyan todas las Operaciones que se realizaron
-previamente o, a su cesión conforme a la fracción IX
-de este artículo. Una vez realizado lo anterior, la ITF
-deberá iniciar su proceso de liquidación, salvo por el
-caso establecido en dicha fracción IX.
+notifique la resolución correspondiente y salvo por el
+caso establecido en la fracción IX de este artículo,
+pondrá en estado de disolución y liquidación a la
+sociedad, sin necesidad del acuerdo de la asamblea
+de accionistas.
+Párrafo reformado DOF 24-01-2024
 CAPÍTULO IV
+
 De la Inspección, Vigilancia e Intercambio de
 Información
 Artículo 70.- Las ITF estarán obligadas a
@@ -2795,7 +2835,6 @@ alguna o algunas de ellas en lo individual, los datos
 que permitan estimar su situación financiera y, en
 general, aquella que sea útil a la CNBV o al Banco de
 México para proveer el adecuado cumplimiento de
-
 sus funciones, en la forma y términos que las propias
 Autoridades determinen.
 El cumplimiento de las obligaciones señaladas en
@@ -2812,6 +2851,7 @@ demás disposiciones que resulten aplicables. La
 CNBV podrá efectuar visitas de inspección a las ITF
 con el objeto de revisar, verificar, comprobar y evaluar
 las actividades que éstas realizan.
+
 Asimismo, el Banco de México estará facultado para
 supervisar el cumplimiento de las ITF respecto de las
 disposiciones que este emita de manera individual en
@@ -2824,7 +2864,6 @@ entre los intermediarios financieros a que se refiere la
 Ley del Banco de México.
 Asimismo, la CNBV, conforme a lo establecido en
 este artículo, podrá investigar hechos, actos u
-
 omisiones de los cuales pueda presumirse la violación
 a esta Ley y demás disposiciones que de ella
 emanen.
@@ -2840,6 +2879,7 @@ párrafo anterior, se practiquen en cualquiera de los
 supuestos siguientes:
 I. Para examinar y, en su caso, corregir situaciones
 especiales operativas;
+
 II. Para dar seguimiento a los resultados obtenidos
 en una visita de inspección;
 III. Cuando se presenten cambios o modificaciones
@@ -2849,7 +2889,6 @@ IV.Cuando deriven de la cooperación internacional.
 Las visitas de investigación se efectuarán siempre
 que la CNBV tenga indicios de los cuales pueda
 desprenderse la realización de alguna conducta que
-
 presuntamente contravenga lo previsto en esta Ley y
 demás disposiciones de carácter general que de ella
 emanen.
@@ -2866,6 +2905,7 @@ proporcionar el espacio físico necesario para el
 desarrollo de la visita de inspección y poner a su
 disposición el equipo de cómputo, de oficina y de
 comunicación que se requiera para tal efecto.
+
 En la documentación a que se refiere el párrafo
 anterior, queda comprendida de manera enunciativa
 mas no limitativa, la información general o específica
@@ -2884,7 +2924,6 @@ grabados y procedimientos ópticos para su consulta o
 de cualquier otra naturaleza.
 La CNBV y el Banco de México, para el ejercicio de
 sus respectivas facultades de supervisión, podrán
-
 solicitar y ejercer las medidas de apremio a que se
 refiere el artículo siguiente.
 Cuando en el ejercicio de la función prevista en este
@@ -2901,6 +2940,7 @@ efectos de lo anterior, la CNBV y el Banco de México
 celebrarán un convenio de colaboración por el que
 establezcan la forma y términos para darse a conocer
 lo previsto en el presente párrafo, así como las
+
 medidas que adopten en el ejercicio de sus
 atribuciones.
 Artículo 72.- La CNBV y el Banco de México, en el
@@ -2912,7 +2952,6 @@ hacer cumplir sus determinaciones respecto a las
 personas sujetas a la presente Ley, podrán aplicar
 indistintamente, los medios de apremio siguientes:
 I. Amonestación con apercibimiento;
-
 II. Multa de 2,000 a 5,000 UMA;
 III. Multa adicional de 50 a 100 UMA por cada día
 que persista la infracción, y
@@ -2925,6 +2964,7 @@ Para efectos de este artículo, las autoridades
 judiciales o ministeriales federales y los cuerpos de
 seguridad o policiales federales o locales deberán
 prestar en forma expedita el apoyo que le solicite la
+
 CNBV o el Banco de México, en ejercicio de sus
 respectivas facultades.
 En los casos de cuerpos de seguridad pública de las
@@ -2938,7 +2978,6 @@ Artículo 73.- La información y documentación
 relativa a las actividades y servicios que presten las
 ITF de conformidad con la presente Ley y las
 Operaciones que se realicen a través de ellas, tendrá
-
 el carácter confidencial, por lo que las ITF, en
 protección del derecho a la privacidad de sus Clientes
 que en este artículo se establece, en ningún caso
@@ -2955,6 +2994,7 @@ dictada en juicio en el que el Cliente sea parte o
 acusado. Para efectos del presente párrafo, la
 autoridad judicial podrá formular su solicitud
 directamente a la ITF, o a través de la CNBV.
+
 Asimismo, las ITF estarán exceptuadas de la
 prohibición prevista en el primer párrafo de este
 artículo y, por tanto, obligadas a dar las noticias o
@@ -2968,7 +3008,6 @@ obtener datos de prueba para sustentar el
 ejercicio de la acción penal, la acusación contra el
 imputado y la reparación del daño;
 Fracción reformada DOF 20-05-2021
-
 II. Los procuradores generales de justicia o fiscales
 generales de las entidades federativas o los
 servidores públicos en quienes deleguen
@@ -2984,6 +3023,7 @@ III. El Procurador General de Justicia Militar, a fin de
 reunir indicios para el esclarecimiento de los
 hechos y, en su caso, obtener datos de prueba
 para sustentar el ejercicio de la acción penal, la
+
 acusación contra el imputado y la reparación del
 daño;
 IV.Las autoridades hacendarias
@@ -3001,7 +3041,6 @@ información, en los términos de las disposiciones
 a que se refiere el último párrafo del presente
 artículo, cuando el acto de vigilancia lo amerite,
 para solicitar los estados de cuenta y cualquier
-
 otra información relativa a las cuentas personales
 de los servidores públicos, auxiliares y, en su
 caso,
@@ -3025,6 +3064,7 @@ de
 Responsabilidades
 Administrativas, o sus homólogos en las
 entidades federativas, para el esclarecimiento de
+
 los hechos, siempre que la información respectiva
 esté relacionada con la comisión de infracciones
 a que se refiere dicha Ley, y
@@ -3038,7 +3078,6 @@ solicitarán y obtendrán la información que resulte
 necesaria para el ejercicio de sus atribuciones
 legales a través de la Unidad Técnica de
 Fiscalización del Instituto Nacional Electoral.
-
 Las autoridades mencionadas en las fracciones
 anteriores solicitarán las noticias o información a que
 se refiere este artículo en el ejercicio de sus
@@ -3055,6 +3094,7 @@ por solicitar a la autoridad judicial que expida la orden
 correspondiente, a efecto de que la ITF entregue la
 información requerida, siempre que dichos servidores
 públicos o autoridades especifiquen la denominación
+
 de la ITF, el número de cuenta o de identificación del
 Cliente, el nombre del Cliente y demás datos y
 elementos que permitan su identificación plena, de
@@ -3068,7 +3108,6 @@ necesaria para actuar de manera inmediata, de
 acuerdo a los convenios o protocolos de emergencia
 que se establezcan para tal efecto entre dichas
 autoridades, agencias gubernamentales involucradas
-
 en el combate de este tipo de delitos, la CNBV y las
 ITF.
 Los empleados y funcionarios de las ITF serán
@@ -3085,6 +3124,7 @@ términos de ley y, respecto de aquellos, se deberá
 observar la más estricta confidencialidad, aun cuando
 el servidor público de que se trate se separe del
 servicio. Al servidor público que indebidamente
+
 quebrante la reserva de las actuaciones, proporcione
 copia de las mismas o de los documentos con ellas
 relacionados, o que de cualquier otra forma revele
@@ -3098,7 +3138,6 @@ funciones de inspección y vigilancia, les solicite en
 relación con las Operaciones y demás actos que
 celebren y los servicios que presten, así como
 tampoco la obligación de proporcionar la información
-
 que les sea solicitada por otras Autoridades
 Financieras, en los términos de las disposiciones
 legales aplicables.
@@ -3119,6 +3158,7 @@ La CNBV sancionará con multa administrativa de 1 a
 15,000 UMA a las ITF por no dar respuesta en los
 plazos otorgados en el presente artículo para la
 atención de los requerimientos de información,
+
 documentación, aseguramiento, desbloqueo de
 cuentas, transferencia o situación de fondos
 formulados por las autoridades competentes
@@ -3131,7 +3171,6 @@ autoridades a que se refiere este artículo, a efecto de
 que las ITF requeridas estén en aptitud de identificar,
 localizar y aportar las noticias o información
 solicitadas por dichas autoridades.
-
 Artículo 74.- Con el objeto de preservar la
 estabilidad financiera, evitar interrupciones o
 alteraciones en el funcionamiento del sistema
@@ -3146,6 +3185,7 @@ con otras entidades, personas o autoridades, y
 III. Directamente de otras autoridades.
 A la facultad mencionada en el párrafo anterior, no le
 serán oponibles las restricciones relativas a la
+
 información reservada o confidencial en términos de
 las disposiciones legales aplicables. Quien reciba la
 información a que se refiere este artículo será
@@ -3164,7 +3204,6 @@ definir
 el
 grado
 de
-
 confidencialidad o reserva de la información, así como
 las instancias de control respectivas a las que se
 informarán los casos en que se niegue la entrega de
@@ -3184,6 +3223,7 @@ tales como documentos, constancias, registros,
 declaraciones y demás evidencias que dichas
 Autoridades Financieras tengan en su poder por
 haberla obtenido en el ejercicio de sus facultades.
+
 Para efectos de lo previsto en el párrafo anterior, las
 Autoridades Financieras deberán tener suscrito un
 acuerdo de intercambio de información con las
@@ -3201,7 +3241,6 @@ confidencialidad que obre en su poder por haberla
 obtenido en el ejercicio de sus facultades, actuando
 en coordinación con otras entidades, personas o
 autoridades o bien directamente de otras autoridades.
-
 En todo caso, la CNBV y el Banco de México podrán
 abstenerse de proporcionar la información a que se
 refiere el párrafo anterior, cuando el uso que se le
@@ -3217,6 +3256,7 @@ autoridades financieras del exterior.
 Artículo 76.- Las Entidades Financieras, los
 transmisores de dinero, las sociedades de
 información crediticia, las cámaras de compensación
+
 a que se refiere la Ley para la Transparencia y
 Ordenamiento de los Servicios Financieros, las ITF y
 las sociedades autorizadas para operar con Modelos
@@ -3231,7 +3271,6 @@ información siguiente:
 I. Datos financieros abiertos: son aquellos
 generados por las entidades mencionadas en el
 primer párrafo de este artículo que no contienen
-
 información confidencial, tales como información
 de productos y servicios que ofrecen al público
 general, la ubicación de sus oficinas y sucursales,
@@ -3246,6 +3285,7 @@ este artículo, sin contener un nivel de
 desagregación tal que puedan identificarse los
 datos personales o transacciones de una
 persona.
+
 Solamente tendrán acceso a los datos agregados
 las personas que cuenten con los mecanismos de
 autenticación que establezcan las Comisiones
@@ -3261,7 +3301,6 @@ disposición contratados a nombre de los clientes
 de las entidades mencionadas en el primer
 párrafo de este artículo, entre otra información
 relacionada con las transacciones que los clientes
-
 hayan realizado o intentado realizar en su
 Infraestructura Tecnológica. Estos datos, en su
 carácter de datos personales de los clientes, solo
@@ -3281,6 +3320,7 @@ vulnerabilidades que pongan en riesgo la información
 de sus clientes o el tercero incumpla con los términos
 y condiciones que se hayan pactado para el
 intercambio de información. Dicha interrupción deberá
+
 ser notificada en un período no mayor a dos horas a
 partir de su detección a las Comisiones Supervisoras
 o al Banco de México, según corresponda y dichas
@@ -3296,7 +3336,6 @@ Comisión Supervisora, o el Banco de México para el
 caso de las sociedades de información crediticia y las
 cámaras de compensación a que se refiere el primer
 párrafo de este artículo, en las cuales podrán
-
 establecerse los estándares necesarios para la
 interoperabilidad de interfaces de programación de
 aplicaciones; el diseño, desarrollo, mantenimiento y
@@ -3312,6 +3351,7 @@ interfaces de programación de aplicaciones
 informáticas estandarizadas por parte de las personas
 mencionadas en este artículo se requerirá
 autorización previa de las Comisiones Supervisoras o
+
 del Banco de México para el caso de las sociedades
 de información crediticia y las cámaras de
 compensación. Las autorizaciones que se otorguen
@@ -3326,10 +3366,8 @@ datos e información, las cuales deberán ser
 equitativas y transparentes a todos los individuos
 involucrados a fin de que en ningún caso constituyan
 barreras de
-entrada,
-formales, regulatorias,
+entrada, formales, regulatorias,
 económicas o prácticas.
-
 Para efectos de lo señalado en el párrafo anterior,
 las entidades referidas deberán registrar ante las
 Comisiones Supervisoras o el Banco de México,
@@ -3343,6 +3381,7 @@ Para el caso de reducción del monto de dichas
 contraprestaciones, el registro deberá realizarse con
 al menos dos días naturales de anticipación a su
 entrada en vigor.
+
 Lo anterior lo deberán efectuar en la forma y
 términos que las Comisiones Supervisoras o el Banco
 de México, según corresponda, señalen en
@@ -3363,7 +3402,6 @@ facultad la Autoridad Financiera competente,
 escuchará a la entidad de que se trate. Las
 Comisiones Supervisoras o el Banco de México,
 según corresponda, harán públicas las observaciones
-
 que en su caso formule conforme a este párrafo. En el
 supuesto de que la Autoridad Financiera competente
 haya formulado y publicado observaciones en cuanto
@@ -3387,6 +3425,7 @@ podrán
 cobrar
 contraprestaciones
 diferenciadas por el acceso a su información.
+
 Las entidades mencionadas en el primer párrafo de
 este artículo, bajo su responsabilidad, podrán permitir
 que los solicitantes de información y datos propongan
@@ -3406,7 +3445,6 @@ corresponda.
 La Comisión Supervisora o, en su caso, el Banco de
 México, previo derecho de audiencia que se otorgue a
 las entidades mencionadas en el primer párrafo de
-
 este artículo, podrá ordenar la suspensión parcial o
 total, temporal o definitiva, del intercambio de
 información y datos que se realice, cuando se
@@ -3422,6 +3460,7 @@ en dichas disposiciones de carácter general.
 La Comisión Supervisora o el Banco de México para
 el caso de las sociedades de información crediticia y
 las cámaras de compensación a que se refiere el
+
 primer párrafo de este artículo podrán requerir a las
 entidades mencionadas en el primer párrafo de este
 artículo y, a través de estas, a aquellos con quienes
@@ -3437,7 +3476,6 @@ México, formulará directamente a las entidades
 mencionadas en el primer párrafo de este artículo los
 requerimientos de información y, en su caso, las
 observaciones y medidas correctivas que deriven de
-
 la supervisión que realice con motivo de este artículo
 para asegurar la integridad de la información y el
 apego a lo establecido en esta Ley. Asimismo, la
@@ -3453,6 +3491,7 @@ y datos, o bien, ordenar a las entidades mencionadas
 en el primer párrafo de este artículo, realizar
 auditorías a dichos terceros, quedando obligada la
 propia entidad a rendir un informe al respecto a la
+
 Comisión Supervisora o al Banco de México, según
 corresponda.
 La Comisión Supervisora, o el Banco de México
@@ -3468,7 +3507,6 @@ mediante los cuales se formalice el intercambio de
 datos e información, la estipulación expresa del
 tercero contratado de que acepta apegarse a lo
 establecido en el presente artículo.
-
 Artículo 77.- El intercambio de información a que se
 refiere el artículo anterior no se entenderá como
 violación a las obligaciones de confidencialidad
@@ -3481,6 +3519,7 @@ asociaciones gremiales, las cuales podrán llevar a
 cabo, entre otras funciones, el desarrollo y la
 implementación de estándares de conducta y
 operación que deberán cumplir sus agremiados, a fin
+
 de contribuir al sano desarrollo de las mencionadas
 instituciones.
 Las asociaciones gremiales a que se refiere este
@@ -3494,7 +3533,6 @@ operación y la verificación de su cumplimiento, y
 III. Los estándares y políticas para un adecuado
 cumplimiento de las disposiciones de esta Ley y
 de las disposiciones que de ella emanen.
-
 Artículo 79.- Las asociaciones gremiales podrán
 llevar a cabo evaluaciones periódicas a sus
 agremiados sobre el cumplimiento de las mejores
@@ -3508,6 +3546,7 @@ CNBV, sin perjuicio de las facultades que
 corresponda ejercer a la propia CNBV. Asimismo,
 dichas asociaciones deberán llevar un registro de las
 medidas correctivas y disciplinarias que apliquen a
+
 sus agremiados, el cual estará a disposición de la
 CNBV.
 Las mejores prácticas que se expidan en términos
@@ -3523,7 +3562,6 @@ Artículo 80.- Las personas morales constituidas de
 conformidad con la legislación mercantil mexicana,
 distintas a las ITF, a las Entidades Financieras y a
 otros sujetos supervisados por alguna Comisión
-
 Supervisora o por el Banco de México, deberán
 obtener autorización para que mediante Modelos
 Novedosos lleven a cabo alguna actividad cuya
@@ -3536,6 +3574,7 @@ competencia, de manera discrecional, previa revisión
 del cumplimiento de los criterios y condiciones que se
 establecen en el artículo 82 de esta Ley, podrán
 otorgar o negar, con la debida fundamentación y
+
 motivación, una autorización temporal condicionada a
 las sociedades interesadas en prestar servicios
 financieros a través de estos Modelos. Dicha
@@ -3553,7 +3592,6 @@ temporales serán expedidas considerando los actos
 administrativos previstos en las leyes que regulan
 dichas actividades para su autorización, registro o
 concesión. En caso de que corresponda a la
-
 Secretaría otorgar las autorizaciones mencionadas,
 las Comisiones Supervisoras serán competentes para
 supervisar las actividades de las sociedades
@@ -3566,6 +3604,7 @@ las acciones necesarias para obtener la autorización,
 registro o concesión definitivos durante el plazo de la
 autorización temporal, conforme a las leyes
 financieras que regulen dichos actos. Cuando no
+
 realice dichas acciones, deberá llevar a cabo el
 procedimiento de salida a que se refiere la fracción X
 del artículo 83 de esta Ley. En caso de que la
@@ -3584,7 +3623,6 @@ artículo, las Autoridades Financieras establecerán, en
 función del Modelo Novedoso correspondiente, las
 excepciones y condicionantes al cumplimiento de los
 requisitos y obligaciones establecidos en las leyes
-
 financieras respectivas, así como los términos y
 condiciones para la prestación de los servicios de que
 se trate. En el caso de las prórrogas, dichas
@@ -3597,6 +3635,7 @@ Supervisoras tengan facultades para conocer de los
 asuntos a que se refiere este Capítulo, o que las
 actividades de que se trate también estén sujetas a la
 autorización del Banco de México o de la Secretaría,
+
 las solicitudes de autorización deberán ser
 presentadas a la Autoridad Financiera cuyas
 facultades estén relacionadas con la actividad
@@ -3612,7 +3651,6 @@ las Autoridades Financieras evaluarán, entre otros
 aspectos, el cumplimiento de los criterios y
 condiciones siguientes:
 I. Que la propuesta sea un Modelo Novedoso;
-
 II. El producto a ofrecerse o el servicio a prestarse al
 público debe requerir probarse en un medio
 controlado, en términos de este Capítulo;
@@ -3624,6 +3662,7 @@ IV.El proyecto se debe encontrar en una etapa en la
 que el inicio de operaciones pueda ser inmediato;
 V. El proyecto debe poder ser probado con un
 número limitado de Clientes, y
+
 VI.Los demás que, en su caso, determinen las
 Autoridades Financieras competentes mediante
 disposiciones de carácter general.
@@ -3637,7 +3676,6 @@ en su objeto social, de las actividades que
 pretenda llevar a cabo, y
 b) Establecer su domicilio social en territorio
 nacional;
-
 II. La descripción del Modelo Novedoso, la totalidad
 de las operaciones o actividades que pretenda
 realizar a través de este Modelo y el detalle de
@@ -3649,6 +3687,7 @@ seguridad en la Infraestructura Tecnológica y de
 seguridad de la información;
 IV.Las disposiciones jurídicas que regulan la
 actividad reservada que consideran que
+
 obstaculizan el desarrollo de los productos o
 servicios a través del Modelo Novedoso;
 V. Los beneficios potenciales para los Clientes del
@@ -3664,7 +3703,6 @@ podrán recibir durante la vigencia de su
 autorización temporal;
 VII. La forma en que habrán de resarcir los daños y
 perjuicios que, en su caso, genere a sus Clientes
-
 por la prestación de los servicios que otorgue
 durante el periodo en desarrollo, lo cual deberá
 pactarse en los contratos que para tal efecto
@@ -3680,6 +3718,7 @@ así como los riesgos a que se encuentran sujetos
 por ello;
 IX.La forma, método y plazos en que habrán de
 cumplir con los requisitos para obtener la
+
 autorización, registro o concesión definitivos
 conforme a las leyes financieras que regulan el
 servicio a prestar;
@@ -3694,7 +3733,6 @@ Autoridades Financieras competentes requieran
 al efecto.
 La presentación de la solicitud de autorización a que
 se refiere este Capítulo deberá ser aprobada por el
-
 órgano de administración de la sociedad que pretenda
 ser autorizada.
 Cada Autoridad Financiera deberá publicar las
@@ -3709,6 +3747,7 @@ establecer, mediante disposiciones de carácter
 general, las bases de la organización y
 funcionamiento de este registro, así como las
 anotaciones adicionales que deberá incorporar.
+
 Artículo 84.- La CONDUSEF, en términos de la Ley
 de Protección y Defensa al Usuario de Servicios
 Financieros, contará con las facultades que dicha Ley
@@ -3724,7 +3763,6 @@ facultades que se otorgan a la CNBV en los preceptos
 señalados se entenderán otorgadas a las demás
 Autoridades Financieras en el ámbito de sus
 competencias.
-
 CAPÍTULO II
 De los Modelos Novedosos en Entidades
 Reguladas
@@ -3742,6 +3780,7 @@ Novedosos cuando en su realización se requiera de
 excepciones o condicionantes a lo contenido en las
 disposiciones de carácter general aplicables, emitidas
 por las propias Autoridades.
+
 Las autorizaciones temporales a que se refiere este
 artículo deberán ser otorgadas previo acuerdo de la
 Junta de Gobierno de las respectivas Comisiones
@@ -3754,7 +3793,6 @@ Autoridad Financiera que deba resolver establecerá
 las excepciones, condicionantes, términos y
 condiciones para los productos a ofrecer o la
 prestación de los servicios de que se trate.
-
 Las autorizaciones temporales no podrán tener una
 vigencia mayor a un año, prorrogable por única vez
 por otro año más.
@@ -3772,6 +3810,7 @@ realizar a través de este Modelo y el detalle de
 cada una de ellas, justificando la necesidad de
 obtener la autorización temporal para operar con
 dicho Modelo Novedoso;
+
 II. Las políticas de análisis de riesgo, incluyendo
 aquellas políticas a seguir en materia de
 seguridad en la Infraestructura Tecnológica y de
@@ -3785,7 +3824,6 @@ producto para los Clientes con respecto a lo
 existente en el mercado;
 V. El mercado objetivo o número máximo de
 Clientes a los que se les ofrecería o impactaría la
-
 operación o actividad de que se trate,
 especificando en su caso, la ubicación geográfica
 respectiva y el monto máximo de recursos que
@@ -3800,6 +3838,7 @@ la operatividad de la persona de que se trate;
 VII. La forma en que habrán de resarcir los daños y
 perjuicios que, en su caso, generen a sus
 Clientes por la realización de las operaciones o
+
 actividades que lleven a cabo, lo cual deberá
 pactarse en los contratos que para tal efecto
 celebren;
@@ -3812,7 +3851,6 @@ Autoridades Financieras competentes requieran
 al efecto.
 La presentación de la solicitud de autorización a que
 se refiere este Capítulo deberá ser aprobada por el
-
 consejo de administración de la Entidad Financiera o
 persona sujeta a supervisión de la Autoridad
 Financiera competente.
@@ -3831,6 +3869,7 @@ las
 características
 mencionadas en el último párrafo del artículo 30 de
 esta Ley. Dichas operaciones estarán sujetas en
+
 cuanto a sus condiciones y restricciones, a las
 disposiciones de carácter general que para tal efecto
 emita el Banco de México.
@@ -3844,7 +3883,6 @@ supervisión de las Autoridades Financieras que
 obtengan la autorización temporal a que se refiere
 este Título deberán elaborar y entregar a las
 Autoridades Financieras un reporte en la periodicidad
-
 que esta determine, durante la vigencia de la
 autorización, el cual contendrá lo siguiente:
 I. El número de operaciones realizadas durante el
@@ -3868,6 +3906,7 @@ IV.La demás información que las Autoridades
 Financieras requieran para tal efecto conforme a
 las disposiciones de carácter general que éstas
 emitan.
+
 Además, las sociedades autorizadas para operar
 con Modelos Novedosos, ITF, Entidades Financieras
 y demás personas sujetas a la supervisión de las
@@ -3882,7 +3921,6 @@ como cualquier otra que las Autoridades Financieras
 determinen en la autorización temporal o en
 disposiciones de carácter general que para tal efecto
 emitan.
-
 Artículo 90.- Las Autoridades Financieras podrán
 hacer pública la información reportada por los sujetos
 obligados a que se refiere este Título si lo consideran
@@ -3899,6 +3937,7 @@ dependencias y entidades de la Administración
 Pública Federal, así como las demás instancias
 federales, entregarán la información relacionada.
 Asimismo, las Autoridades Financieras podrán
+
 solicitar a organismos extranjeros con funciones de
 supervisión o regulación similares corroborar la
 información que al efecto se le proporcione.
@@ -3911,7 +3950,6 @@ supuestos siguientes:
 I. Deje de cumplir con alguno de los requisitos que
 le sean aplicables conforme a este Título o a las
 disposiciones de carácter general que para tal
-
 efecto se emitan o aquellos otros especificados
 en la autorización temporal de que se trate;
 II. En caso de que existan riesgos inesperados para
@@ -3924,6 +3962,53 @@ temporal, y
 V. Si así lo solicita, siempre que no existan
 operaciones pendientes de liquidar entre sus
 Clientes.
+
+Las Comisiones Supervisoras, otorgarán el derecho
+de audiencia previsto en este artículo a la sociedad
+interesada, a fin de que dentro del plazo de diez días
+hábiles, contado a partir del día hábil siguiente a
+aquél en que surta efectos la notificación
+correspondiente, manifieste por escrito lo que a su
+interés convenga y ofrezca pruebas. A petición de
+parte, dichas Autoridades podrán ampliar por una sola
+ocasión el plazo a que se refiere este párrafo, hasta
+por el mismo lapso, atendiendo a las circunstancias
+particulares del caso. Las notificaciones surtirán
+efectos al día hábil siguiente a aquél en que se
+practiquen.
+Párrafo adicionado DOF 24-01-2024
+Concluido el plazo a que se refiere el párrafo
+anterior, y en su caso el de su ampliación, las
+Comisiones Supervisoras, contarán con un plazo de
+hasta sesenta días hábiles para el desahogo de las
+pruebas. Transcurrido el plazo para el desahogo de
+las pruebas, la Comisión Supervisora notificará a la
+ITF de que se trate la apertura del periodo de cinco
+días hábiles para formular alegatos. La Comisión
+respectiva podrá realizar dicha notificación por
+estrados o por cualquier otro medio, que determine.
+Párrafo adicionado DOF 24-01-2024
+Al día hábil siguiente al vencimiento del plazo para
+formular alegatos, se tendrá por cerrada la instrucción
+y la Comisión Supervisora contará con un plazo no
+mayor a ciento ochenta días hábiles para emitir y
+notificar la resolución que ponga fin a los
+
+procedimientos administrativos de revocación a que
+se refiere el presente artículo.
+Párrafo adicionado DOF 24-01-2024
+La revocación de las autorizaciones temporales
+otorgadas conforme al artículo 80 de esta Ley,
+deberán anotarse en el Registro previsto por el
+artículo 83, e incapacitará a la sociedad cuya
+autorización le fue revocada para continuar realizando
+las actividades u operaciones cuya realización
+requiere de una autorización, registro o concesión de
+conformidad con esta Ley o por otra ley financiera, a
+partir de la fecha en que se notifique la resolución
+correspondiente.
+Párrafo adicionado DOF 24-01-2024
+
 TÍTULO V
 Grupo de Innovación Financiera
 Artículo 93.- El Grupo de Innovación Financiera es
@@ -4023,15 +4108,16 @@ en un plazo de diez días hábiles contado a partir
 del día hábil siguiente a aquel en que surta
 efectos la notificación correspondiente, deberá
 manifestar por escrito lo que a su interés
-convenga, ofrecer pruebas y formular alegatos.
-Las Comisiones Supervisoras o el Banco de
-México, a petición de parte, podrán ampliar por
-una sola ocasión el plazo a que se refiere esta
-fracción, hasta por el mismo lapso, para lo cual
+convenga y ofrecer pruebas. Las Comisiones
+Supervisoras o el Banco de México, a petición de
+parte, podrán ampliar por una sola ocasión el
+plazo a que se refiere esta fracción, hasta por el
+mismo lapso, para lo cual considerará las
 
-considerará las circunstancias particulares del
-caso. La notificación surtirá efectos al día hábil
-siguiente a aquel en que se practique;
+circunstancias particulares del caso. Las
+notificaciones surtirán efectos al día hábil
+siguiente a aquel en que se practiquen;
+Fracción reformada DOF 24-01-2024
 II. En caso de que el presunto infractor no hiciere
 uso del derecho de audiencia a que se refiere la
 fracción anterior dentro del plazo concedido o
@@ -4086,13 +4172,32 @@ correspondiente, y
 h) Las demás circunstancias que las Comisiones
 Supervisoras o el Banco de México estime
 aplicables para tales efectos.
-La resolución del procedimiento de imposición de
-sanciones deberá ser emitida en un plazo que no
-exceda los noventa días hábiles posteriores a la fecha
-en que se emplazó al infractor, cuando lo inicie el
-respectivo presidente de las Comisiones Supervisoras
-o los servidores públicos en quienes se delegue esta
-facultad o el servidor público del Banco de México.
+Concluido el plazo a que se refiere la fracción I de
+este artículo y en su caso el de su ampliación, las
+Comisiones Supervisoras o el Banco de México,
+según corresponda, contarán con un plazo de hasta
+sesenta días hábiles para el desahogo de las
+pruebas.
+Párrafo adicionado DOF 24-01-2024
+Una vez desahogadas las pruebas admitidas al
+presunto infractor, la autoridad que corresponda de
+las señaladas en el párrafo anterior notificará al
+mismo la apertura del periodo de cinco días hábiles
+para formular alegatos. La Autoridad respectiva podrá
+realizar dicha notificación por estrados o por cualquier
+otro medio, en los casos que así lo determine. Al día
+hábil siguiente al vencimiento del plazo para formular
+alegatos, se tendrá por cerrada la instrucción y las
+Comisiones Supervisoras o el Banco de México,
+según corresponda, contarán con un plazo no mayor
+a ciento ochenta días hábiles para emitir y notificar la
+resolución que ponga fin al procedimiento
+
+sancionador, imponiendo, en su caso, las sanciones
+que conforme a derecho procedan.
+Párrafo adicionado DOF 24-01-2024
+Reforma DOF 24-01-2024: Derogó del artículo el entonces
+párrafo segundo
 Artículo 99.- Las Comisiones Supervisoras o el
 Banco de México considerarán como atenuante en la
 imposición de sanciones administrativas, cuando el
@@ -4105,7 +4210,6 @@ vigilancia, a efecto de deslindar responsabilidades.
 Artículo 100.- Los procedimientos para la
 imposición de las sanciones administrativas a que se
 refiere esta Ley se iniciarán con independencia de la
-
 opinión de delito que, en su caso, emita la Autoridad
 Financiera en términos de esta Ley.
 Artículo 101.- Las multas a que se refiere el
@@ -4121,6 +4225,7 @@ funcionarios, empleados o personas que ostenten un
 cargo, mandato, comisión o cualquier otro título
 jurídico que dichas sociedades les otorguen para la
 realización de sus actividades, cuando hayan
+
 incurrido directamente o hayan ordenado la
 realización de la conducta materia de la infracción.
 Artículo 102.- En los procedimientos administrativos
@@ -4137,7 +4242,6 @@ recurso de revisión previsto en esta Ley, únicamente
 se admitirán pruebas supervenientes, siempre y
 cuando no se haya emitido la resolución
 correspondiente.
-
 Las Comisiones Supervisoras y el Banco de México
 podrán allegarse de los medios de prueba que
 consideren necesarios, así como acordar sobre la
@@ -4149,6 +4253,7 @@ improcedentes, innecesarias o contrarias a la moral o
 al derecho. La valoración de las pruebas se hará
 conforme a lo establecido en el Código Federal de
 Procedimientos Civiles.
+
 Artículo 103.- Las multas previstas en esta Ley que
 le corresponde imponer a la CNBV serán las
 siguientes:
@@ -4173,7 +4278,6 @@ reservadas para las ITF, salvo aquellas
 exceptuadas conforme a esta Ley;
 II. Multa de 3,000 a 15,000 UMA a las ITF o
 sociedades autorizadas para operar con Modelos
-
 Novedosos que no cumplan con las obligaciones
 previstas en los artículos 13 y 48, tercer párrafo
 de esta Ley;
@@ -4183,6 +4287,7 @@ Autoridades Financieras o cualquier otra
 autoridad competente, de conformidad con la
 presente Ley;
 IV.Multa de 30,000 a 150,000 UMA por lo siguiente:
+
 a) No incluir la información transaccional en el
 registro de cuentas que deban llevar conforme
 a la presente Ley, y
@@ -4199,7 +4304,6 @@ b) Difundir información falsa o engañosa o que
 induzca al error, a través de las ITF,
 sociedades autorizadas para operar con
 Modelos Novedosos o de cualquier otra forma
-
 para la realización de las Operaciones a que se
 refiere esta Ley;
 c) Omitir la divulgación de información que
@@ -4210,6 +4314,7 @@ conocimiento de riesgos de los inversionistas
 señalado en el artículo 18, fracción III de esta
 Ley o no proporcionar los medios necesarios
 para lograr la formalización de las Operaciones
+
 a sus Clientes señalados en el artículo 18,
 fracción V de esta Ley;
 e) Tratándose de instituciones de financiamiento
@@ -4225,7 +4330,6 @@ inicien sus actividades sin acreditar a la CNBV el
 cumplimiento de los requisitos señalados en el
 artículo 40 de esta Ley;
 VII. Multa de 15,000 a 100,000 UMA a las ITF que:
-
 a) No cumplan con lo dispuesto en los artículos 41
 y 46 de esta Ley, así como las disposiciones de
 carácter general a que se refiere dicho artículo
@@ -4236,6 +4340,7 @@ carácter general a que se refiere dicha
 disposición;
 c) Desvíen los recursos de sus Clientes a
 cualquier fin distinto al pactado;
+
 d) Excedan los límites especificados en el artículo
 44 de esta Ley o en las disposiciones a que se
 refiere dicho artículo respecto de las
@@ -4251,7 +4356,6 @@ demás elementos de juicio en los que sustenten
 sus dictámenes y conclusiones en contravención
 a lo establecido en el artículo 52, segundo párrafo
 de esta Ley;
-
 IX.Multa de 1 a 15,000 UMA que impondrá la CNBV
 a las ITF por no dar respuesta en los plazos
 otorgados para la atención de los requerimientos
@@ -4264,6 +4368,7 @@ Financieras y las ITF que no establezcan
 interfaces de programación de aplicaciones
 informáticas con el fin de compartir y
 transaccionar datos con aquellas Entidades
+
 Financieras, ITF o sociedades autorizadas para
 operar con Modelos Novedosos que cumplan con
 lo establecido en las disposiciones de carácter
@@ -4280,7 +4385,6 @@ autorizado por sus Clientes, la información y
 datos intercambiados a través de interfaces de
 programación de aplicaciones informáticas con
 una Entidad Financiera u otra ITF;
-
 XII. Multa de 2,000 a 15,000 UMA a las sociedades
 autorizadas para operar con Modelos Novedosos
 y las Entidades Financieras que en términos del
@@ -4293,6 +4397,7 @@ información en términos distintos a los que se
 refiere el artículo 76 de esta Ley o no notifiquen
 de la interrupción a las Comisiones Supervisoras.
 Esta misma sanción podrá ser impuesta por la
+
 CNSF y la CONSAR en el ámbito de sus
 respectivas competencias, y
 XIV. Multa de 2,000 a 10,000 UMA por las
@@ -4309,7 +4414,6 @@ sanción que corresponda adicionando a la misma
 hasta una y media veces el equivalente a dicho daño
 o al beneficio obtenido por el infractor, lo que resulte
 mayor. Se entenderá por beneficio la ganancia
-
 obtenida o la pérdida evitada para sí o para un
 tercero.
 Artículo 104.- Las multas previstas en esta Ley que
@@ -4321,6 +4425,7 @@ contar con la previa autorización del Banco de
 México o por realizar Operaciones con activos
 virtuales distintos a los determinados por el
 Banco de México;
+
 II. Multa de 15,000 a 100,000 UMA a las
 instituciones de fondos de pago electrónico por
 exceder los límites de operación a que están
@@ -4337,7 +4442,6 @@ realizar;
 IV.Multa de 1,000 a 150,000 UMA a las sociedades
 de información crediticia o las cámaras de
 compensación a que se refiere la Ley para la
-
 Transparencia y Ordenamiento de los Servicios
 Financieros que interrumpan el acceso a la
 información en términos distintos a los que se
@@ -4350,6 +4454,7 @@ tengan sanción especialmente señalada en este
 ordenamiento.
 En caso de que alguna de las infracciones
 contenidas en este artículo generen un daño
+
 patrimonial o un beneficio, se podrá imponer la
 sanción que corresponda adicionando a la misma
 hasta una y media veces el equivalente a dicho daño
@@ -4367,7 +4472,6 @@ Operación o servicio que se realice con un Cliente
 que se haya informado que se encuentra en la lista de
 personas bloqueadas; con multa equivalente del 10%
 al 100% del monto de la Operación inusual no
-
 reportada, o en su caso, de la serie de Operaciones
 relacionadas entre sí del mismo Cliente que debieron
 haber sido reportadas como Operaciones inusuales; o
@@ -4383,6 +4487,7 @@ administración,
 administradores,
 directivos,
 funcionarios, empleados, factores y apoderados
+
 respectivos y a las personas físicas y morales que, en
 razón de sus actos, hayan ocasionado o intervenido
 para que dichas sociedades incurran en la
@@ -4400,7 +4505,6 @@ Autoridades Financieras, y se refieran a hechos, actos
 u omisiones que no revistan gravedad, no exista
 reincidencia, no se cuente con elementos que
 permitan demostrar que se afecten los intereses de
-
 terceros o del propio sistema financiero y no
 constituyan delito.
 Se considerarán conductas graves:
@@ -4410,6 +4514,7 @@ error, por ocultamiento u omisión;
 II. Utilizar el dinero, fondos de pago electrónico o
 activos virtuales de los Clientes para fines
 distintos a los pactados;
+
 III. Realizar
 actividades
 autorizadas;
@@ -4432,7 +4537,6 @@ omitir establecer el comité de comunicación y
 control u omitir designar a un oficial de
 cumplimiento conforme a lo establecido en el
 artículo 58, tercer párrafo, fracciones V y VI;
-
 VII. Realizar Operaciones con algún Cliente que se
 encuentre en la lista de personas bloqueadas a
 que se refiere el artículo 58 de esta Ley;
@@ -4444,11 +4548,51 @@ de capital.
 Artículo 106.- Las facultades de las Comisiones
 Supervisoras y el Banco de México para imponer las
 sanciones de carácter administrativo previstas en esta
+
 Ley, así como en las disposiciones que de ella
 emanen, caducarán en un plazo de cinco años,
-contado a partir del día hábil siguiente a aquel en que
+contado a partir del día hábil siguiente a aquél en que
 se realizó la conducta o se actualizó el supuesto de
-infracción.
+infracción. En el caso de una conducta continua, el
+plazo referido deberá computarse a partir de que cesó
+la conducta infractora. Tratándose de conductas
+continuadas, el plazo referido correrá a partir de que
+se consumó la última conducta.
+La caducidad referida en el párrafo anterior, se
+interrumpirá a partir de la notificación al presunto
+infractor del oficio mediante el cual se le concede el
+derecho de audiencia.
+El plazo de caducidad señalado en el párrafo
+inmediato anterior se interrumpirá al iniciarse los
+procedimientos relativos. Se entenderá que el
+procedimiento de que se trata ha iniciado a partir de la
+notificación al presunto infractor del oficio mediante el
+cual se le concede el derecho de audiencia.
+Asimismo, el plazo de cinco años previsto por este
+artículo se suspenderá:
+I. Hasta por dos años, cuando la Entidad
+Financiera: no se ubique en el domicilio
+registrado ante la Autoridad respectiva sin que
+haya
+presentado
+el
+aviso
+de
+cambio
+correspondiente, o hubiere señalado un domicilio
+incorrecto.
+
+El citado plazo se reanudará a partir de la fecha
+en que la Autoridad tenga conocimiento del
+domicilio actual.
+II. Cuando la Entidad Financiera haya controvertido
+cualquiera de los actos relacionados con el
+proceso de imposición de la sanción. Dicha
+suspensión se computará desde la fecha de
+interposición del medio de defensa y hasta
+aquella en que se dicte la resolución definitiva
+correspondiente.
+Artículo reformado DOF 24-01-2024
 Artículo 107.- Las Comisiones Supervisoras y el
 Banco de México podrán, además de la imposición de
 la sanción que corresponda, amonestar al infractor, o
@@ -4459,7 +4603,6 @@ demostrar que se afectan intereses de terceros o del
 propio sistema financiero, que habiéndose causado
 un daño este haya sido reparado, así como la
 existencia de atenuantes.
-
 Artículo 108.- Para tutelar el ejercicio del derecho
 de acceso a la información pública gubernamental, las
 Comisiones Supervisoras y el Banco de México,
@@ -4467,6 +4610,7 @@ ajustándose a los lineamientos que emitan, deberán
 hacer del conocimiento del público en general, a
 través de su portal de internet, las sanciones que al
 efecto impongan por infracciones a esta Ley o a las
+
 disposiciones que de ella emanen, para lo cual
 deberán señalar:
 I. El nombre, denominación o razón social del
@@ -4486,13 +4630,13 @@ efectos por alguna autoridad competente, deberá
 igualmente publicarse tal circunstancia.
 La información antes señalada no será considerada
 como reservada o confidencial.
-
 Artículo 109.- La CONDUSEF sancionará con multa
 de 200 a 1,000 UMA a las ITF que incumplan con
 cualquier disposición prevista en esta Ley o en las
 disposiciones de carácter general que de ella
 emanen, cuya supervisión, vigilancia o cumplimiento
 sea competencia de dicha Comisión.
+
 Artículo 110.- Cuando la CNBV presuma que una
 persona física o moral está actuando como ITF sin
 contar con la autorización correspondiente, podrá
@@ -4521,7 +4665,6 @@ productos que correspondan a ellos, por las que
 pueda inferirse la realización de las actividades
 propias de las referidas entidades, por parte de
 personas distintas a las autorizadas para ello, con
-
 independencia de las sanciones penales y
 administrativas que correspondan, se castigará por la
 CNBV con multa de 2,000 a 20,000 UMA y la
@@ -4532,6 +4675,7 @@ ser
 clausurados
 administrativamente por la CNBV hasta que su uso
 sea cambiado.
+
 Artículo 111.- Los afectados con motivo de los
 actos de la Autoridad Financiera que pongan fin a los
 procedimientos de autorización, suspensión de
@@ -4552,12 +4696,12 @@ El escrito mediante el cual se interponga el recurso
 de revisión deberá contener:
 I. El nombre, denominación o razón social del
 recurrente;
-
 II. Domicilio para oír y recibir toda clase de citas y
 notificaciones, el cual deberá ubicarse en
 territorio nacional;
 III. Los documentos con los que se acredita la
 personalidad de quien promueve;
+
 IV.El acto que se recurre y la fecha de su
 notificación;
 V. Los agravios que se le causen con motivo del
@@ -4579,13 +4723,13 @@ omitieran las pruebas se tendrán por no ofrecidas.
 Tratándose de las sanciones impuestas por el Banco
 de México, procederá contra ellas el recurso de
 reconsideración previsto en la Ley del Banco de
-
 México, por lo que el procedimiento para su
 interposición se regulará conforme a lo previsto en
 dicha Ley.
 Artículo 112.- La interposición del recurso de
 revisión suspenderá los efectos del acto impugnado
 cuando se trate de multas.
+
 Artículo 113.- La Autoridad Financiera encargada
 de resolver el recurso de revisión podrá:
 I. Desecharlo por improcedente;
@@ -4609,13 +4753,13 @@ IV.Revocar total o parcialmente el acto impugnado, y
 V. Modificar o mandar reponer el acto impugnado o
 dictar u ordenar expedir uno nuevo que lo
 sustituya.
-
 No se podrán revocar o modificar los actos
 administrativos en la parte no impugnada por el
 recurrente.
 La Autoridad Financiera encargada de resolver el
 recurso de revisión deberá atenderlo sin la
 intervención del servidor público que haya
+
 dictaminado la sanción administrativa que haya dado
 origen a la imposición del recurso correspondiente.
 Artículo 114.- La resolución de los recursos de
@@ -4639,12 +4783,12 @@ Comisiones Supervisoras o del Banco de México,
 según corresponda, un programa de autocorrección
 cuando detecten irregularidades o incumplimientos a
 lo previsto en esta Ley y demás disposiciones
-
 jurídicas aplicables, incluidas las autorizaciones a que
 se refiere esta Ley.
 No podrán ser materia de un programa de
 autocorrección en los términos del presente artículo,
 lo siguiente:
+
 I. Las irregularidades o incumplimientos que sean
 detectados por las Comisiones Supervisoras o el
 Banco de México en ejercicio de sus facultades
@@ -4667,13 +4811,13 @@ cuando haya sido detectada en el transcurso de
 la visita de inspección, o bien, corregida con
 posterioridad a que haya mediado requerimiento
 en el transcurso de la visita;
-
 II. Cuando la contravención a la norma de que se
 trate corresponda a alguno de los delitos
 contemplados en esta Ley, y
 III. Cuando se trate de alguna de las infracciones
 consideradas como graves en términos de esta
 Ley.
+
 Artículo 116.- Los programas de autocorrección a
 que se refiere el artículo anterior se sujetarán a las
 disposiciones de carácter general que emitan las
@@ -4709,7 +4853,6 @@ parte de la Entidad Financiera, ITF, sociedad
 autorizada para operar con Modelos Novedosos o
 demás personas sujetas a la supervisión de las
 Comisiones Supervisoras o el Banco de México para
-
 corregir la irregularidad o incumplimiento que motivó
 este programa.
 En caso de que la Entidad Financiera, ITF, sociedad
@@ -4717,6 +4860,7 @@ autorizada para operar con Modelos Novedosos o
 demás personas sujetas a la supervisión de las
 Comisiones Supervisoras o el Banco de México
 requieran de un plazo para subsanar la irregularidad o
+
 incumplimiento
 cometido,
 el
@@ -4743,7 +4887,6 @@ apegue a lo establecido en el presente artículo y
 demás disposiciones jurídicas aplicables, contarán
 con un plazo de cinco días hábiles contados a partir
 de la notificación respectiva para subsanar dichas
-
 deficiencias. Dicho plazo podrá prorrogarse por única
 ocasión hasta por cinco días hábiles, previa
 autorización de dichas Autoridades Financieras.
@@ -4751,6 +4894,7 @@ De no subsanarse las deficiencias a las que se
 refiere el párrafo anterior, el programa de
 autocorrección se tendrá por no presentado y, en
 consecuencia, las irregularidades o incumplimientos
+
 cometidos no podrán ser objeto de otro programa de
 autocorrección.
 Artículo 117.- Durante la vigencia de los programas
@@ -4777,7 +4921,6 @@ personas sujetas a la supervisión de las Comisiones
 Supervisoras o el Banco de México estará obligado a
 dar seguimiento a la instrumentación del programa de
 autocorrección autorizado e informar de su avance
-
 tanto a la Autoridad Financiera respectiva, como al
 consejo de administración y al director general o los
 órganos o personas equivalentes de la Entidad
@@ -4786,6 +4929,7 @@ Modelos Novedosos o demás personas sujetas a la
 supervisión de las Comisiones Supervisoras o el
 Banco de México, en la forma y términos que cada
 Autoridad Financiera establezca en las disposiciones
+
 de carácter general a que se refiere esta Ley. Lo
 anterior, con independencia de la facultad de dichas
 Autoridades para supervisar, en cualquier momento,
@@ -4807,7 +4951,6 @@ disposiciones fiscales aplicables.
 CAPÍTULO II
 De los Delitos
 Sección Primera
-
 Del Requisito de Procedibilidad y la Prescripción
 Artículo 118.- Para proceder penalmente por los
 delitos previstos en este Capítulo, será necesario que
@@ -4815,6 +4958,7 @@ la Secretaría formule petición, previa opinión de la
 CNBV; también se procederá a petición de las
 personas reguladas en esta Ley o de quien tenga
 interés jurídico. Los delitos contenidos en esta Ley
+
 solo admitirán comisión dolosa. La acción penal en
 los casos previstos en esta Ley perseguibles por
 petición de la Secretaría, por las personas reguladas
@@ -4836,7 +4980,6 @@ delitos previstos en esta Ley. Los abogados
 hacendarios designados por la peticionaria podrán
 actuar como asesores jurídicos dentro de dichos
 procedimientos y juicios.
-
 En los procedimientos penales en los que la
 Secretaría tenga el carácter de parte se estará a lo
 dispuesto en los lineamientos que esta expida en
@@ -4845,6 +4988,7 @@ formas de terminación anticipada del proceso
 previstas en el Código Nacional de Procedimientos
 Penales y demás leyes aplicables, respecto a los
 delitos previstos en esta Ley.
+
 Sección segunda
 Delitos para la Protección del Patrimonio de los
 Clientes de las ITF y de las Sociedades
@@ -4866,7 +5010,6 @@ Modelos Novedosos o es un tercero ajeno pero con
 acceso autorizado por éstas a sus propios sistemas,
 será sancionado con prisión de seis a dieciocho años
 y multa de 10,000 a 300,000 UMA.
-
 Artículo 120.- Será sancionado con prisión de tres a
 nueve años y multa de 5,000 a 150,000 UMA, quien
 se encuentre facultado para disponer de los recursos
@@ -4874,6 +5017,7 @@ a cargo de una ITF o una sociedad, Entidad
 Financiera u otro sujeto supervisado por alguna
 Comisión Supervisora o por el Banco de México,
 autorizado para operar con Modelos Novedosos y no
+
 realice la devolución de éstos a sus clientes, estando
 obligado a hacerlo o se niegue sin causa justificada.
 Artículo 121.- Serán sancionados con prisión de
@@ -4894,7 +5038,6 @@ Financiera u otro sujeto supervisado por alguna
 Comisión Supervisora o por el Banco de México,
 autorizado para operar con Modelos Novedosos, se
 impondrán las siguientes sanciones:
-
 I. Cuando el monto del quebranto o perjuicio
 patrimonial, según corresponda, exceda de 2,200
 UMA y no de 57,000 UMA; se sancionará con
@@ -4903,6 +5046,7 @@ prisión de cuatro a diez años y multa de 7,000 a
 II. Cuando el monto del quebranto o perjuicio
 patrimonial según corresponda, exceda de
 57,000, pero no de 400,000 UMA, se sancionará
+
 con prisión de cinco a once años y multa de 9,000
 a 200,000 UMA.
 III. Cuando el monto del quebranto o perjuicio
@@ -4922,7 +5066,6 @@ Modelos Novedosos.
 Artículo 123.- Serán sancionados con prisión de
 dos a siete años y multa de 5,000 a 150,000 UMA
 todo aquel que, habiendo sido removido o
-
 suspendido, por resolución firme de la CNBV, en
 términos de lo previsto en el artículo 62 de esta Ley,
 continúe desempeñando las funciones respecto de las
@@ -4930,6 +5073,7 @@ cuales fue removido o suspendido o bien, ocupe un
 empleo, cargo o comisión, dentro del sistema
 financiero mexicano, a pesar de encontrarse
 suspendido para ello.
+
 Artículo 124.- Será sancionado con pena de prisión
 de siete a quince años y multa de 5,000 a 150,000
 UMA quien:
@@ -4954,7 +5098,6 @@ Artículo 125.- Será sancionado con pena de prisión
 de siete a quince años y multa de 5,000 a 150,000
 UMA quien para obtener la autorización para operar
 como ITF o con Modelos Novedosos o con activos
-
 virtuales, proporcione información falsa a la autoridad
 financiera que corresponda.
 Artículo 126.- Serán sancionados con prisión de
@@ -4963,6 +5106,7 @@ quien proporcione a las Autoridades Financieras que
 correspondan, información falsa respecto de su
 situación contable, financiera, económica y jurídica,
 que le sea requerida en términos de esta Ley.
+
 Artículo 127.- Serán sancionados con prisión de
 dos a diez años y multa de 5,000 a 150,000 UMA a
 quien por sí o a través de un tercero, difunda,
@@ -4983,7 +5127,6 @@ quien destruya, modifique total o parcialmente, los
 sistemas o registros contables o la documentación
 que dé origen a los asientos contables de una ITF o
 sociedad autorizada para operar con Modelos
-
 Novedosos, con anterioridad al vencimiento de los
 plazos legales de conservación.
 Artículo 129.- Será sancionado con prisión de uno a
@@ -4992,6 +5135,7 @@ se ostente frente al público en general como una ITF
 o sociedad o Entidad Financiera u otro sujeto
 supervisado por alguna Comisión Supervisora o por el
 Banco de México, autorizado para operar con
+
 Modelos Novedosos en términos de esta Ley, sin
 contar con la autorización que corresponda.
 Sección Cuarta
@@ -5012,7 +5156,6 @@ alguno de sus directivos, consejeros, empleados,
 funcionarios, dependientes o representantes legales.
 A quien lleve a cabo el supuesto delictivo previsto en
 el párrafo anterior y obtenga un beneficio para sí o
-
 para un tercero, será sancionado con prisión de seis a
 doce años y multa de 10,000 a 250,000 UMA.
 Artículo 131.- Se sancionará con prisión de tres a
@@ -5021,6 +5164,7 @@ utilice, realice u obtenga, por sí o a través de
 interpósita persona, cualquier servicio, Operación o
 producto proporcionado por alguna de las ITF o
 sociedad o Entidad Financiera u otro sujeto
+
 supervisado por alguna Comisión Supervisora o por el
 Banco de México, autorizado para operar con
 Modelos Novedosos previstas en esta Ley bajo una
@@ -5041,7 +5185,6 @@ supervisados por alguna Comisión Supervisora o por
 el Banco de México, autorizados para operar con
 Modelos Novedosos, se le impondrán las siguientes
 sanciones:
-
 I. Cuando el monto de los recursos o el valor de los
 fondos de pago electrónicos o activos virtuales en
 el momento en que se cometa la conducta a que
@@ -5049,6 +5192,7 @@ se refiere el presente artículo, según
 corresponda, exceda de 2,200 y no de 57,000
 UMA; se sancionará con prisión de cuatro a diez
 años y multa de 7,000 a 170,000 UMA.
+
 II. Cuando el monto de los recursos o el valor de los
 fondos de pago electrónicos o activos virtuales en
 el momento en que se cometa la conducta a que
@@ -5080,7 +5224,6 @@ de
 imposición
 de
 sanciones
-
 administrativas o de cualquier acto que ponga fin a los
 procedimientos de suspensión, revocación de
 autorización a que se refiere la presente Ley, así
@@ -5089,6 +5232,7 @@ se refiere la presente Ley y las resoluciones
 administrativas que le recaigan a los recursos de
 revisión interpuestos conforme a las leyes aplicables,
 se podrán realizar de las maneras siguientes:
+
 I. Personalmente, conforme a lo siguiente:
 a) En las oficinas de las Autoridades Financieras,
 de acuerdo a lo previsto en el artículo 136 de
@@ -5106,7 +5250,6 @@ III. Por edictos, en los supuestos señalados en el
 artículo 141 de esta Ley, y
 IV.Por medio electrónico, en el supuesto previsto en
 el artículo 142 de esta Ley.
-
 Respecto a la información y documentación que
 deba exhibirse a los inspectores de la CNBV al
 amparo de una visita de inspección se deberá
@@ -5114,6 +5257,7 @@ observar lo previsto en el reglamento expedido por el
 Ejecutivo Federal en materia de supervisión, en
 términos del artículo 5, primer párrafo de la Ley de la
 Comisión Nacional Bancaria y de Valores.
+
 Artículo 135.- Las autorizaciones, revocaciones de
 autorizaciones solicitadas por el interesado o su
 representante, los actos que provengan de trámites
@@ -5135,13 +5279,13 @@ Sin perjuicio de lo anterior, se podrán notificar los
 actos a que se refiere el primer párrafo del presente
 artículo por cualquiera de las formas de notificación
 señaladas en el artículo anterior.
-
 Artículo 136.- Las notificaciones personales podrán
 efectuarse en las oficinas de las Autoridades
 Financieras solamente cuando el interesado o su
 representante acuda a las mismas y manifieste su
 conformidad en recibir las notificaciones; para lo cual
 quien realice la notificación levantará por duplicado un
+
 acta que cumpla con la regulación aplicable a este
 tipo de actos.
 Artículo 137.- Las notificaciones personales podrán
@@ -5165,13 +5309,13 @@ caso de encontrar cerrado dicho domicilio o que se
 nieguen a recibir la notificación respectiva, la hará
 mediante instructivo conforme a lo previsto en el
 artículo 140 de esta Ley. Quien realice la notificación
-
 levantará acta en los términos previstos en el
 penúltimo párrafo de este artículo.
 El citatorio a que se refiere el párrafo anterior deberá
 elaborarse por duplicado y dirigirse al interesado o a
 su representante, señalando lugar y fecha de
 expedición, fecha y hora fija en que deberá esperar al
+
 notificador, quien deberá asentar su nombre, cargo y
 firma en dicho citatorio, el objeto de la comparecencia
 y el apercibimiento respectivo, así como el nombre y
@@ -5194,7 +5338,6 @@ levantará por duplicado un acta en la que hará
 constar, además de las circunstancias antes
 señaladas, su nombre, cargo y firma, que se cercioró
 que se constituyó y se apersonó en el domicilio
-
 buscado, que notificó al interesado, a su
 representante o persona que atendió la diligencia,
 previa identificación de tales personas, el oficio en el
@@ -5202,6 +5345,7 @@ que conste el acto administrativo que deba notificarse,
 asimismo hará constar la designación de los testigos,
 el lugar, hora y fecha en que se levante, datos de
 identificación del oficio mencionado, los medios de
+
 identificación exhibidos, nombre del interesado,
 representante legal o persona que atienda la
 diligencia y de los testigos designados. Si las
@@ -5229,7 +5373,6 @@ entienda la diligencia niegue que es el domicilio de
 dicho interesado o su representante, quien realice la
 diligencia levantará acta para hacer constar tal
 circunstancia. Dicha acta deberá reunir, en lo
-
 conducente, los requisitos previstos en el penúltimo
 párrafo del artículo anterior.
 En el caso previsto en este artículo, quien efectúe la
@@ -5237,6 +5380,7 @@ notificación podrá realizar la notificación personal en
 cualquier lugar en que se encuentre el interesado o su
 representante. Para los efectos de esta notificación,
 quien la realice levantará acta en la que haga constar
+
 que la persona notificada es de su conocimiento
 personal o haberle sido identificada por dos testigos,
 además de asentar, en lo conducente, lo previsto en
@@ -5258,7 +5402,6 @@ apercibimiento señalado en el mencionado citatorio.
 Para tales efectos llevará a cabo la notificación,
 mediante instructivo que fijará en lugar visible del
 domicilio, anexando el oficio en el que conste el acto
-
 a notificar, ante la presencia de dos testigos que al
 efecto designe.
 El instructivo de referencia se elaborará por
@@ -5267,6 +5410,7 @@ representante. En dicho instructivo se harán constar
 las circunstancias por las cuales resultó necesario
 practicar la notificación por ese medio, lugar y fecha
 de expedición; el nombre, cargo y firma de quien
+
 levante el instructivo; el nombre, datos de
 identificación y firma de los testigos; la mención de
 que quien realice la notificación se cercioró de que se
@@ -5287,7 +5431,6 @@ consecutivas un resumen del oficio respectivo, en un
 periódico de circulación nacional, sin perjuicio de que
 la Autoridad Financiera que notifique difunda el edicto
 en la página electrónica de la red mundial
-
 denominada internet que corresponda a la Autoridad
 Financiera que notifique; señalando que el oficio
 original se encuentra a su disposición en el domicilio
@@ -5296,6 +5439,7 @@ Artículo 142.- Las notificaciones por medios
 electrónicos, con acuse de recibo, podrán realizarse
 siempre y cuando el interesado o su representante así
 lo haya aceptado o solicitado expresamente por
+
 escrito a las Autoridades Financieras a través de los
 sistemas automatizados y mecanismos de seguridad
 que cada una de ellas establezca en el ámbito de sus
@@ -5314,13 +5458,13 @@ administrativo de que se trate.
 En los supuestos señalados en el párrafo anterior, la
 notificación se podrá realizar con cualquier persona
 que se encuentre en el citado domicilio.
-
 Artículo 145.- Las notificaciones a que se refiere
 este Título surtirán sus efectos al día hábil siguiente al
 que:
 I. Se hubieren efectuado personalmente;
 II. Se hubiere entregado el oficio respectivo en los
 supuestos previstos en los artículos 135 y 140;
+
 III. Se hubiere efectuado la última publicación a que
 se refiere el artículo 141, y
 IV.Se hubiere efectuado por correo ordinario, medio
@@ -5337,7 +5481,6 @@ el artículo 58 de esta Ley.
 Asimismo, contará con un plazo de doce meses,
 para emitir las disposiciones de carácter general a
 que se refiere el artículo 82, fracción VI de esta Ley.
-
 TERCERA.- La Comisión Nacional Bancaria y de
 Valores contará con los plazos que se señalan a
 continuación contados a partir de la entrada en vigor
@@ -5347,6 +5490,7 @@ I. Seis meses para emitir las disposiciones de
 carácter general a que se refieren los artículos
 18, fracción I; 36, fracción IV; 39, fracciones VI,
 XI, XII y XVI; 44; 45; 48, primer párrafo, para las
+
 reglas relacionadas con contabilidad y plan de
 continuidad de negocio;
 II. Doce meses para emitir las disposiciones de
@@ -5363,7 +5507,6 @@ tendrá un plazo de doce meses contado a partir de la
 entrada en vigor de esta Ley para la emisión de las
 disposiciones de carácter general a que se refiere el
 artículo 57 de esta Ley.
-
 Asimismo, contará con un plazo de doce meses,
 para emitir las disposiciones de carácter general a
 que se refiere el artículo 82, fracción VI de esta Ley.
@@ -5373,6 +5516,7 @@ Seguros y Fianzas tendrán los plazos que se señalan
 a continuación contados a partir de la entrada en vigor
 de esta Ley, para emitir las disposiciones de carácter
 general siguientes:
+
 I. Doce meses para emitir las disposiciones de
 carácter general a que se refieren los artículos
 82, fracción VI y 116 de esta Ley, y
@@ -5390,7 +5534,6 @@ II. Doce meses para emitir las disposiciones de
 carácter general a que se refieren los artículos
 30; 32; 46; 57; 82, fracción VI y 116 de esta Ley,
 y
-
 III. Veinticuatro meses para emitir las disposiciones
 de carácter general a que se refiere el artículo 76
 de esta Ley.
@@ -5399,6 +5542,7 @@ Valores y el Banco de México contarán con un plazo
 de doce meses para la emisión conjunta de las
 disposiciones a que se refieren los artículos 48, 54,
 56, segundo párrafo de esta Ley, así como para
+
 celebrar el convenio previsto en el artículo 71 de este
 ordenamiento.
 OCTAVA.- Las personas que a la entrada en vigor
@@ -5420,7 +5564,6 @@ para llevar a cabo dicha actividad se encuentra en
 trámite por lo que no es una actividad supervisada por
 las autoridades mexicanas. La Comisión Nacional
 Bancaria y de Valores denegará la autorización
-
 cuando las personas respectivas incumplan la
 obligación de publicación señalada en este párrafo.
 En caso de que las personas a que se refiere el
@@ -5430,6 +5573,7 @@ obtengan una vez solicitada, éstas deberán
 abstenerse de continuar prestando sus servicios para
 la celebración de nuevas Operaciones y deberán
 realizar únicamente los actos tendientes a la
+
 conclusión o cesión de las Operaciones existentes
 reguladas en esta Ley, notificando a sus Clientes
 dicha circunstancia y la forma en que se concluirán o
@@ -5449,7 +5593,6 @@ establezcan en las disposiciones de carácter general
 que se emitan, en un plazo que no exceda de doce
 meses contado a partir de la entrada en vigor de
 dichas disposiciones.
-
 DÉCIMA.- A propuesta de la Secretaría de Hacienda
 y Crédito Público, la Cámara de Diputados deberá
 destinar recursos en el Presupuesto de Egresos de la
@@ -5460,6 +5603,7 @@ Defensa de los Usuarios de Servicios Financieros
 conforme a la presente Ley, para el establecimiento
 del área encargada de preparar e implementar el
 programa y los lineamientos para las sociedades
+
 autorizadas para operar con Modelos Novedosos
 reguladas en la presente Ley.
 DÉCIMA PRIMERA.- El Grupo de Innovación
@@ -5477,7 +5621,6 @@ Transitorias de este Decreto se disponga lo contrario.
 Ciudad de México, a 1 de marzo de 2018.- Sen.
 Ernesto Cordero Arroyo, Presidente.- Dip. Edgar
 Romo García, Presidente.- Sen. Rosa Adriana Díaz
-
 Lizama, Secretaria.- Dip. Ana Guadalupe Perea
 Santos, Secretaria.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del
@@ -5486,5 +5629,6 @@ Unidos Mexicanos, y para su debida publicación y
 observancia, expido el presente Decreto en el
 municipio de Acapulco de Juárez, estado de
 Guerrero, a ocho de marzo de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de
+
 Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 

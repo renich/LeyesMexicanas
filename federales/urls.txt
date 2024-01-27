@@ -6,7 +6,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/112_180518.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/124.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/131_160218.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/136_300118.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/139_090318.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/140_120718.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/143_190118.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/145_220618.pdf
@@ -25,7 +24,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/170_171215.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/171.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/176_210618.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/177.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/17_200521.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/183.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/187_291214.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/19.pdf
@@ -49,7 +47,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/219.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/234.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/235_030621.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/237_090318.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/238.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/246.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/24_171215.pdf
@@ -66,7 +63,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/33.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/35.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/36_200521.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/44_150618.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/52_161220.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/53.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/56_200521.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/57.pdf
@@ -94,6 +90,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LAAT.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LACP.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LANEM.pdf
@@ -203,6 +200,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIMH.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDE_200521.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGMHCTI.pdf
@@ -210,6 +208,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LGMIME.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGMR_200521.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGMSV.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LGOAAC.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf
@@ -283,17 +282,19 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LPM_110814.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LPO.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LPPDDHP.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LPlan.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LRAF_090318.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LRAF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LRAM.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LRASCAP_200521.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LRASCAP.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt3_MMCE_300919.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt6_MDR_300518.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt76_fracVI.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LRFIyII_Art105.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LRFXIIIB_Art123.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF_200521.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LRSF.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LRSIC.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LSInt_300519.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LSM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LSN.pdf
@@ -394,6 +395,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Desarrollo_Social
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Educacion.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Educacion_Superior.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Instituciones_y_Procedimientos_Electorales.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Mecanismos_Alternativos_de_Solucion_de_Controversias.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Mejora_Regulatoria.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Movilidad_y_Seguridad_Vial.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Organizaciones_y_Actividades_Auxiliares_del_Credito.pdf
