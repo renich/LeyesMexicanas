@@ -93,7 +93,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LACP.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LANEM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LANSI.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP_150618.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LAREFAM.pdf
@@ -237,10 +236,8 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LIEPS.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LIElec.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNCT.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNVT.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2023.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2024.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIEx.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN_170517.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LIMJ.pdf
@@ -311,7 +308,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LUPDECR.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LVGC.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LVZMM_130420.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LViv_140519.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2023.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2024.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf
@@ -517,7 +513,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Fondos_de_Aseguramiento_A
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Fondos_de_Inversion.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Hidrocarburos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Infraestructura_de_la_Calidad.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Ingresos_2023.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Ingresos_2024.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Ingresos_sobre_Hidrocarburos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Instituciones_de_Credito.pdf
@@ -565,7 +560,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Industria_Electrica.pd
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Policia_Federal.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_los_Derechos_de_las_Personas_Adultas_Mayores.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_los_Husos_Horarios_en_los_Estados_Unidos_Mexicanos.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_los_Impuestos_Generales_de_Importacion_y_de_Exportacion-2020.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_los_Impuestos_Generales_de_Importacion_y_de_Exportacion-2022.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_los_Institutos_Nacionales_de_Salud.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_los_Organos_Reguladores_Coordinados_en_Materia_Energetica.pdf
@@ -617,7 +611,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_que_Establece_Bases-Convenio
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_que_crea_el_Fondo_de_Garantia_y_Fomento_a_la_Agricultura_Ganaderia_y_Avicultura.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_que_crea_el_Instituto_Nacional_de_Bellas_Artes_y_Literatura.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_que_crea_la_Agencia_Espacial_Mexicana.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_que_crea_la_Agencia_de_Noticias_del_Estado.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_que_crea_la_Universidad_Autonoma_Chapingo.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_sobre_Camaras_Agricolas-Asociaciones_Agricolas.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_sobre_Elaboracion_y_Venta_de_Cafe_Tostado.pdf
@@ -627,7 +620,6 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_sobre_el_Escudo_la_Bandera_y
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_sobre_la_Aprobacion_de_Tratados_Internacionales_en_Materia_Economica.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_sobre_la_Celebracion_de_Tratados.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ordenanza_General_de_la_Armada.pdf
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Presupuesto_de_Egresos_2023.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Presupuesto_de_Egresos_2024.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Reglamento_de_la_Camara_de_Diputados.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Reglamento_del_Senado.pdf
