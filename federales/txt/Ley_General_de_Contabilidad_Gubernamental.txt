@@ -8,7 +8,7 @@ GUBERNAMENTAL
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 31 de diciembre de 2008
 TEXTO VIGENTE
-Última reforma publicada DOF 30-01-2018
+Última reforma publicada DOF 01-04-2024
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -759,13 +759,15 @@ técnico para que realice los ajustes que
 correspondan.
 El consejo, al emitir sus decisiones, tomará en
 cuenta las características de los municipios con
-población indígena para que se contribuya al
+personas pertenecientes a pueblos y comunidades
+Indígenas y afromexicanas para que se contribuya al
 desarrollo y mejoramiento de sus condiciones.
 Asimismo, el consejo debe asegurarse que sus
 disposiciones se emitan en pleno respeto a los
 
 derechos que la constitución otorga a los pueblos y
-las comunidades indígenas.
+comunidades indígenas y afromexicanas.
+Párrafo reformado DOF 01-04-2024
 La Secretaría de Hacienda podrá emitir, previa
 opinión de la Secretaría de la Función Pública, en el
 ámbito federal, las disposiciones correspondientes, en
@@ -790,9 +792,9 @@ consejos de armonización contable de las entidades
 federativas deberán remitir la información relacionada
 con dichos actos, dentro de un plazo de quince días
 hábiles contados a partir de la fecha en la que
+
 concluya el plazo que el Consejo haya establecido
 para tal fin.
-
 Párrafo reformado DOF 30-12-2015
 El secretario técnico publicará la información a que
 se refiere este artículo en una página de Internet
@@ -820,10 +822,10 @@ Artículo 17.- Cada ente público será responsable de
 su contabilidad, de la operación del sistema; así como
 del cumplimiento de lo dispuesto por esta Ley y las
 decisiones que emita el consejo.
+
 Artículo 18.- El sistema estará conformado por el
 conjunto de registros, procedimientos, criterios e
 informes, estructurados sobre la base de principios
-
 técnicos comunes destinados a captar, valuar,
 registrar, clasificar, informar e interpretar, las
 transacciones, transformaciones y eventos que,
@@ -854,8 +856,8 @@ integración de la información presupuestaria y
 contable;
 V. Refleje un registro congruente y ordenado de
 cada operación que genere derechos y
-obligaciones derivados de la gestión económicofinanciera de los entes públicos;
 
+obligaciones derivados de la gestión económicofinanciera de los entes públicos;
 VI. Genere, en tiempo real, estados financieros, de
 ejecución presupuestaria y otra información que
 coadyuve a la toma de decisiones, a la
@@ -888,9 +890,9 @@ contabilidad
 gubernamental, así como organizar la efectiva
 sistematización que permita la obtención de
 información veraz, clara y concisa.
+
 Los entes públicos deberán aplicar los postulados
 básicos de forma tal que la información que
-
 proporcionen sea oportuna, confiable y comparable
 para la toma de decisiones.
 CAPÍTULO II
@@ -915,10 +917,10 @@ Asimismo, en la cuenta pública incluirán la relación
 de los bienes que componen su patrimonio conforme
 a los formatos electrónicos que apruebe el consejo.
 Párrafo adicionado DOF 12-11-2012
+
 Artículo 24.- Los registros contables de los bienes a
 que se refiere el artículo anterior se realizarán en
 cuentas específicas del activo.
-
 Artículo 25.- Los entes públicos, conforme lo
 determine el Consejo en términos de las
 disposiciones jurídicas aplicables, elaborarán un
@@ -944,10 +946,10 @@ Dicho inventario deberá estar debidamente conciliado
 con el registro contable. En el caso de los bienes
 inmuebles, no podrá establecerse un valor inferior al
 catastral que le corresponda.
+
 Los entes públicos contarán con un plazo de 30 días
 hábiles para incluir en el inventario físico los bienes
 que adquieran. Los entes públicos publicarán el
-
 inventario de sus bienes a través de internet, el cual
 deberán actualizar, por lo menos, cada seis meses.
 Los municipios podrán recurrir a otros medios de
@@ -972,8 +974,15 @@ registro y hubieren sido recibidos o adquiridos durante
 el encargo de su administración, deberán ser
 entregados oficialmente a la administración entrante a
 través de un acta de entrega y recepción. La
-administración entrante realizará el registro e
+
+administración entrante realizará
 inventario a que se refiere esta Ley.
+
+el
+
+registro
+
+e
 
 Artículo 32.- Los entes públicos deberán registrar
 en una cuenta de activo, los derechos patrimoniales
@@ -999,11 +1008,11 @@ conforme a la fecha de su realización,
 independientemente de la de su pago, y la del ingreso
 se registrará cuando exista jurídicamente el derecho
 de cobro.
+
 Artículo 35.- Los entes públicos deberán mantener
 un registro histórico detallado de las operaciones
 realizadas como resultado de su gestión financiera,
 en los libros diario, mayor, e inventarios y balances.
-
 Artículo 36.- La contabilidad deberá contener
 registros auxiliares que muestren los avances
 presupuestarios y contables, que permitan realizar el
@@ -1038,6 +1047,7 @@ y
 sus
 respectivas
 entidades
+
 paraestatales,
 la
 unidad
@@ -1045,7 +1055,6 @@ administrativa
 competente en materia de contabilidad
 gubernamental que corresponda en cada caso.
 Fracción reformada DOF 19-01-2018
-
 Artículo 38.- El registro de las etapas del
 presupuesto de los entes públicos se efectuará en las
 cuentas contables que, para tal efecto, establezca el
@@ -1076,6 +1085,7 @@ automático y por única vez de las mismas en los
 momentos contables correspondientes.
 Artículo 41.- Para el registro único de las
 operaciones presupuestarias y contables, los entes
+
 públicos
 dispondrán
 de
@@ -1083,7 +1093,6 @@ clasificadores
 presupuestarios, listas de cuentas y catálogos de
 bienes o instrumentos similares que permitan su
 interrelación automática.
-
 Artículo 42.- La contabilización de las operaciones
 presupuestarias y contables deberá respaldarse con
 la documentación original que compruebe y justifique
@@ -1106,11 +1115,11 @@ CAPÍTULO I
 De la Información Financiera Gubernamental
 Artículo 44.- Los estados financieros y la
 información emanada de la contabilidad deberán
+
 sujetarse a criterios de utilidad, confiabilidad,
 relevancia, comprensibilidad y de comparación, así
 como a otros atributos asociados a cada uno de ellos,
 como oportunidad, veracidad, representatividad,
-
 objetividad, suficiencia, posibilidad de predicción e
 importancia relativa, con el fin de alcanzar la
 modernización y armonización que la Ley determina.
@@ -1141,9 +1150,9 @@ a) Estado de actividades;
 b) Estado de situación financiera;
 c) Estado de variación en la hacienda pública;
 d) Estado de cambios en la situación financiera;
+
 e) Estado de flujos de efectivo;
 f) Informes sobre pasivos contingentes;
-
 g) Notas a los estados financieros;
 h) Estado analítico del activo, e
 i) Estado analítico de la deuda y otros pasivos, del
@@ -1162,9 +1171,9 @@ los ingresos excedentes generados;
 b) Estado analítico del ejercicio del presupuesto
 de egresos del que se derivarán las
 clasificaciones siguientes:
+
 1. Administrativa;
 2. Económica;
-
 3. Por objeto del gasto, y
 4. Funcional.
 El estado analítico del ejercicio del presupuesto
@@ -1183,16 +1192,16 @@ desagregación siguiente:
 
 con
 
-la
-
 a) Gasto por categoría programática;
 b) Programas y proyectos de inversión, y
 c) Indicadores de resultados, y
+
+la
+
 IV. La información complementaria para generar
 las cuentas nacionales y atender otros
 requerimientos provenientes de organismos
 internacionales de los que México es miembro.
-
 Los estados analíticos sobre deuda pública y otros
 pasivos, y el de patrimonio deberán considerar por
 concepto el saldo inicial del ejercicio, las entradas y
@@ -1217,6 +1226,7 @@ I.
 Estado analítico de la deuda, del cual se
 derivarán las siguientes clasificaciones:
 a) Corto y largo plazo;
+
 b)
 
 Fuentes de financiamiento;
@@ -1265,10 +1275,10 @@ reconocimiento
 y
 presentación de la información presupuestaria,
 contable y patrimonial;
+
 III. Destacar que la información se elaboró conforme
 a las normas, criterios y principios técnicos
 emitidos por el consejo y las disposiciones
-
 legales aplicables, obedeciendo a las mejores
 prácticas contables;
 IV. Contener información relevante del pasivo,
@@ -1292,11 +1302,11 @@ financiera y patrimonial.
 Artículo 50.- El consejo emitirá los lineamientos en
 materia de integración y consolidación de los estados
 financieros y demás información presupuestaria y
+
 contable que emane de las contabilidades de los
 entes públicos.
 Artículo 51.- La información financiera que generen
 los entes públicos en cumplimiento de esta Ley será
-
 organizada, sistematizada y difundida por cada uno
 de éstos, al menos, trimestralmente en sus
 respectivas páginas electrónicas de internet, a más
@@ -1320,11 +1330,14 @@ técnicas que emanen de esta Ley o que emita el
 consejo.
 Los estados correspondientes a los ingresos y
 gastos públicos presupuestarios se elaborarán sobre
-la base de devengado y, adicionalmente, se
+
+la base de devengado y, adicionalmente,
 presentarán en flujo de efectivo.
+
+se
+
 Artículo 53.- La cuenta pública del Gobierno
 Federal, que será formulada por la Secretaría de
-
 Hacienda, y las de las entidades federativas deberá
 atender en su cobertura a lo establecido en su marco
 legal vigente y contendrá como mínimo:
@@ -1356,7 +1369,6 @@ Deuda pública, y
 V. La información a que se refieren las fracciones I
 a III de este artículo, organizada por
 dependencia y entidad.
-
 Artículo 54.- La información presupuestaria y
 programática que forme parte de la cuenta pública
 deberá relacionarse, en lo conducente, con los
@@ -1380,11 +1392,11 @@ Artículo 55.- Las cuentas públicas de los
 ayuntamientos de los municipios deberán contener la
 información contable y presupuestaria a que se refiere
 el artículo 48 de la presente Ley conforme a lo que
+
 determine el Consejo, en atención a las
 características de los mismos.
 Artículo reformado DOF 30-12-2015
 TÍTULO QUINTO
-
 De la Transparencia y Difusión de la Información
 Financiera
 Título adicionado DOF 12-11-2012
@@ -1408,12 +1420,12 @@ Artículo 57.- La Secretaría de Hacienda, las
 secretarías de finanzas o sus equivalentes de las
 entidades federativas, así como las tesorerías de los
 municipios y sus equivalentes en las demarcaciones
+
 territoriales del Distrito Federal, establecerán, en su
 respectiva página de Internet, los enlaces electrónicos
 que permitan acceder a la información financiera de
 todos los entes públicos que conforman el
 correspondiente orden de gobierno así como a los
-
 órganos o instancias de transparencia competentes.
 En el caso de las secretarías de finanzas o sus
 equivalentes, podrán incluir, previo convenio
@@ -1442,11 +1454,11 @@ entes públicos en Internet y, en su caso, podrá emitir
 recomendaciones al ente público correspondiente y
 proponer al consejo, por conducto del secretario
 técnico, la emisión o modificación de las normas y los
+
 formatos que permitan mejorar y uniformar la
 presentación de dicha información.
 Las recomendaciones y propuestas del comité, así
 como las respuestas que reciba sobre las mismas, se
-
 difundirán en la página de Internet del consejo, mismo
 que procurará que la información se presente de la
 forma más accesible y comprensible para el público
@@ -1469,13 +1481,13 @@ presupuestos de egresos y demás documentos que
 deban publicarse en los medios oficiales de difusión,
 se incluirán en las respectivas páginas de Internet.
 Artículo adicionado DOF 12-11-2012
+
 Artículo 61.- Además de la información prevista en
 las respectivas leyes en materia financiera, fiscal y
 presupuestaria y la información señalada en los
 artículos 46 a 48 de esta Ley, la Federación, las
 entidades federativas, los municipios, y en su caso,
 las demarcaciones territoriales del Distrito Federal,
-
 incluirán en sus respectivas leyes de ingresos y
 presupuestos
 de
@@ -1511,13 +1523,13 @@ la
 administración
 pública
 correspondiente, y la celebración de actos jurídicos
+
 análogos a los anteriores y sin perjuicio de que dichas
 obligaciones tengan como propósito el canje o
 refinanciamiento de otras o de que sea considerado o
 no como deuda pública en los ordenamientos
 aplicables. Asimismo, la composición de dichas
 obligaciones y el destino de los recursos obtenidos;
-
 II. Presupuestos de Egresos:
 a) Las prioridades de gasto, los programas y
 proyectos, así como la distribución del presupuesto,
@@ -1539,13 +1551,13 @@ económica y, en su caso, geográfica y sus
 interrelaciones que faciliten el análisis para valorar la
 eficiencia y eficacia en el uso y destino de los
 recursos y sus resultados.
+
 En el proceso de integración de la información
 financiera para la elaboración de los presupuestos se
 deberán incorporar los resultados que deriven de los
 procesos de implantación y operación del
 presupuesto basado en resultados y del sistema de
 evaluación del desempeño, establecidos en términos
-
 del artículo 134 de la Constitución Política de los
 Estados Unidos Mexicanos.
 El consejo establecerá las normas, metodologías,
@@ -1567,13 +1579,13 @@ de los documentos señalados en el párrafo anterior,
 con el fin de armonizar su presentación y contenido.
 Artículo adicionado DOF 12-11-2012
 CAPÍTULO III
+
 De la Información Financiera Relativa a la
 Aprobación de las Leyes de Ingresos y de los
 Presupuestos de Egresos
 Capítulo adicionado DOF 12-11-2012
 Artículo 63.- La Iniciativa de Ley de Ingresos, el
 Proyecto de Presupuesto de Egresos y demás
-
 documentos de los entes públicos que dispongan los
 ordenamientos legales, deberán publicarse en las
 respectivas páginas de Internet.
@@ -1595,13 +1607,13 @@ marco jurídico aplicable, deberán publicarse en las
 respectivas páginas de Internet.
 Artículo adicionado DOF 12-11-2012
 CAPÍTULO IV
+
 De la Información Relativa al Ejercicio
 Presupuestario
 Capítulo adicionado DOF 12-11-2012
 Artículo 66.- La Secretaría de Hacienda publicará
 en el Diario Oficial de la Federación los calendarios
 de ingresos y de presupuesto de egresos en los
-
 términos de la Ley Federal de Presupuesto y
 Responsabilidad Hacendaria.
 Las secretarías de finanzas o sus equivalentes de
@@ -1622,6 +1634,7 @@ que los pagos se hagan directamente en forma
 electrónica, mediante abono en cuenta de los
 beneficiarios, salvo en las localidades donde no haya
 disponibilidad de servicios bancarios.
+
 Los entes públicos publicarán en Internet la
 información sobre los montos pagados durante el
 periodo por concepto de ayudas y subsidios a los
@@ -1630,7 +1643,6 @@ nombre del beneficiario, y en lo posible la Clave Única
 de Registro de Población cuando el beneficiario sea
 persona física o el Registro Federal de
 Contribuyentes con Homoclave cuando sea persona
-
 moral o persona física con actividad empresarial y
 profesional, y el monto recibido.
 Artículo adicionado DOF 12-11-2012
@@ -1651,6 +1663,7 @@ citadas en el párrafo anterior y de la Ley de
 Coordinación Fiscal, así como las disposiciones del
 presente Capítulo.
 Párrafo reformado DOF 19-01-2018
+
 En los programas en que concurran recursos
 federales, de las entidades federativas y en su caso,
 municipios y demarcaciones territoriales del Distrito
@@ -1658,7 +1671,6 @@ Federal, se harán las anotaciones respectivas
 identificando el monto correspondiente a cada orden
 de gobierno.
 Artículo adicionado DOF 12-11-2012
-
 Artículo 69.- Para la presentación de la información
 financiera y la cuenta pública, los gobiernos de las
 entidades federativas, de los municipios y
@@ -1680,6 +1692,7 @@ ministren recursos federales.
 En las cuentas bancarias productivas específicas se
 manejarán exclusivamente los recursos federales del
 ejercicio fiscal respectivo y sus rendimientos, y no
+
 podrá incorporar recursos locales ni las aportaciones
 que realicen, en su caso, los beneficiarios de las
 obras y acciones.
@@ -1687,7 +1700,6 @@ Los recursos federales sólo podrán ser transferidos
 por las dependencias y entidades de la
 Administración Pública Federal a dichas cuentas
 bancarias productivas específicas, a través de las
-
 tesorerías de las entidades federativas, salvo en el
 caso de ministraciones relacionadas con obligaciones
 de las entidades federativas o municipios, así como
@@ -1714,6 +1726,7 @@ como
 la
 documentación original que justifique y compruebe el
 gasto incurrido. Dicha documentación se presentará a
+
 los órganos competentes de control y fiscalización
 que la soliciten;
 II. Cancelar la documentación comprobatoria del
@@ -1725,7 +1738,6 @@ disposiciones
 locales,
 identificándose con el nombre del fondo de
 aportaciones, programa o convenio respectivo;
-
 III. Realizar en términos de la normativa que emita el
 consejo, el registro contable, presupuestario y
 patrimonial de las operaciones realizadas con los
@@ -1751,6 +1763,7 @@ dichas obligaciones tengan como propósito canje o
 refinanciamiento de otras o de que sea considerado o
 no como deuda pública en los ordenamientos
 aplicables, y
+
 V. Coadyuvar con la fiscalización de los recursos
 públicos federales, conforme a lo establecido en la
 Ley de Fiscalización y Rendición de Cuentas de la
@@ -1758,7 +1771,6 @@ Federación. Para ello, la Auditoría Superior de la
 Federación verificará que los recursos federales que
 reciban las entidades federativas, los municipios y
 alcaldías de la Ciudad de México, se ejerzan
-
 conforme a los calendarios previstos y de acuerdo
 con las disposiciones aplicables.
 Fracción reformada DOF 18-07-2016
@@ -1785,6 +1797,7 @@ Presupuesto
 y
 Responsabilidad
 Hacendaria, la información sobre el ejercicio y destino
+
 de los recursos federales que reciban dichas
 entidades federativas y, por conducto de éstas, los
 municipios y las demarcaciones territoriales del
@@ -1792,7 +1805,6 @@ Distrito Federal, los organismos descentralizados
 estatales, universidades públicas, asociaciones civiles
 y otros terceros beneficiarios. Para la remisión y la
 divulgación de esta información no podrá oponerse la
-
 reserva fiduciaria, bursátil, bancaria o cualquier otra
 análoga.
 Dicha información deberá contener como mínimo los
@@ -1812,6 +1824,7 @@ Federación y a las demás instancias de fiscalización,
 de control y de evaluación federales y de las
 entidades federativas que lo soliciten, con el propósito
 de que puedan verificar, dentro del marco de sus
+
 respectivas atribuciones y conforme a los
 procedimientos establecidos en las disposiciones
 legales, el cumplimiento en la entrega de la
@@ -1819,7 +1832,6 @@ información, su calidad y congruencia con la
 aplicación y los resultados obtenidos con los recursos
 federales.
 Artículo adicionado DOF 12-11-2012
-
 Artículo 73.- Sin perjuicio de lo dispuesto en esta
 Ley y en otros ordenamientos, las entidades
 federativas deberán presentar información relativa al
@@ -1841,12 +1853,12 @@ b) Los pagos realizados durante el periodo
 correspondiente por concepto de pagos retroactivos
 hasta por cuarenta y cinco días naturales, siempre y
 cuando se acredite la asistencia del personal
+
 beneficiario durante dicho periodo en la plaza
 respectiva, debiendo precisar el tipo de plaza y el
 periodo que comprende;
 c) La información señalada en la siguiente fracción,
 y
-
 II. La Secretaría de Educación Pública del Gobierno
 Federal deberá:
 a) Conciliar las cifras de matrícula escolar,
@@ -1868,6 +1880,7 @@ el registro de la totalidad del personal federalizado,
 sin importar su situación de ocupación o vacancia, por
 centro de trabajo, con el nombre de cada trabajador y
 su respectiva Clave Única de Registro de Población y
+
 Registro Federal de Contribuyentes con Homoclave,
 así como la función que desempeña.
 La Secretaría de Educación Pública del Gobierno
@@ -1875,7 +1888,6 @@ Federal dará acceso al sistema establecido para el
 registro del personal federalizado, para efectos de
 consulta a las instancias locales y federales de
 control, evaluación y fiscalización que así lo soliciten;
-
 d) Incluir de conformidad con la normatividad
 aplicable, en su página de Internet la información a
 que se refiere el inciso anterior, particularmente
@@ -1896,6 +1908,7 @@ tales como altas, bajas y cambios en su situación;
 de trabajo, identificando sus claves de pago, el centro
 de trabajo de origen y destino, así como el inicio y la
 conclusión de la comisión, el pago que en su caso
+
 reciban por concepto de servicios personales, y el
 objeto de la comisión otorgada al trabajador para
 desempeñar temporalmente funciones distintas para
@@ -1903,7 +1916,6 @@ las que fue contratado originalmente sin afectar por
 ello sus derechos laborales;
 4. Relación de trabajadores con licencia por centro
 de trabajo, identificando sus claves de pago, tipo de
-
 licencia, el centro de trabajo y fechas de inicio y
 conclusión de la licencia otorgada por la autoridad
 para que el trabajador se ausente legalmente de sus
@@ -1924,6 +1936,7 @@ por centro de trabajo, identificando sus claves de
 pago, así como el inicio y conclusión de su contrato,
 el pago que reciben por concepto de honorarios y la
 actividad para la que fueron contratadas, y
+
 7. Analítico de plazas, tabuladores y catálogos de
 conceptos de percepciones y deducciones por cada
 entidad federativa;
@@ -1932,7 +1945,6 @@ que los pagos de nómina se realicen solamente a
 personal que cuente con Registro Federal de
 Contribuyentes con Homoclave, de acuerdo a las
 disposiciones aplicables.
-
 La Secretaría de Educación Pública del Gobierno
 Federal analizará la información proporcionada por
 las entidades federativas y les comunicará los casos
@@ -1953,6 +1965,7 @@ corrección de las irregularidades detectadas, y
 Inciso reformado DOF 09-12-2013
 g) Vigilar el monto de las remuneraciones,
 informando a la Cámara de Diputados del Congreso
+
 de la Unión los casos en que superen los ingresos
 promedio de un docente en la categoría más alta del
 tabulador salarial correspondiente a cada entidad.
@@ -1961,7 +1974,6 @@ Para el cumplimiento de lo previsto en este artículo,
 el consejo solicitará a la Secretaría de Educación
 Pública del Gobierno Federal los formatos y el modelo
 de estructura de información que sean necesarios.
-
 Artículo adicionado DOF 12-11-2012
 Artículo 74.- Sin perjuicio de lo dispuesto en esta
 Ley y en otros ordenamientos, las entidades
@@ -1981,13 +1993,13 @@ correspondiente por concepto de pagos retroactivos,
 los cuales no podrán ser superiores a 45 días
 naturales, siempre y cuando se acredite la asistencia
 del personal beneficiario durante dicho periodo en la
+
 plaza respectiva, debiendo precisar el tipo de plaza y
 el periodo que comprende, y
 c) Los pagos realizados, diferentes al costo
 asociado a la plaza, incluyendo nombres, códigos,
 unidad o centro de trabajo del personal al que se le
 cubren las remuneraciones con cargo a este fondo.
-
 La Secretaría de Salud del Gobierno Federal
 analizará la información proporcionada por las
 entidades federativas y les comunicarán sobre los
@@ -2007,6 +2019,7 @@ personal que cuente con Registro Federal de
 Contribuyentes con Homoclave y Clave Única de
 Registro de Población, de acuerdo a las disposiciones
 aplicables;
+
 c) Enviar a la Cámara de Diputados del Congreso de
 la Unión durante el primer semestre del año que
 corresponda el listado de nombres, plazas y de
@@ -2019,7 +2032,6 @@ compatible
 geográficamente o temporalmente y reportar durante
 el tercer trimestre del año, sobre la corrección de las
 irregularidades detectadas;
-
 d) Examinar el monto de las remuneraciones
 cubiertas con cargo al fondo, con base en la
 información que brinden los gobiernos locales, a
@@ -2040,6 +2052,7 @@ acceso al sistema establecido para el registro del
 personal federalizado, para efectos de consulta a las
 instancias locales y federales de control, evaluación y
 fiscalización que así lo soliciten, y
+
 f) Incluir en su página de Internet la información que
 sea remitida por las entidades federativas en términos
 del artículo 85 de la Ley Federal de Presupuesto y
@@ -2050,7 +2063,6 @@ respecto a:
 1. Número y tipo de las plazas existentes, el nombre
 y la Clave Única de Registro de Población y el
 Registro Federal de Contribuyentes con Homoclave
-
 de quienes las ocupan, así como número de horas,
 por centros de trabajo, y el pago que reciben por
 concepto de servicios personales;
@@ -2071,6 +2083,7 @@ licencia, el centro de trabajo y fecha de inicio y
 conclusión de la licencia otorgada por la autoridad
 para que el trabajador se ausente legalmente de sus
 labores por un tiempo determinado otorgándose a
+
 solicitud del mismo o por dictamen médico del
 Instituto de Seguridad y Servicios Sociales de los
 Trabajadores del Estado o de la institución de
@@ -2079,7 +2092,6 @@ seguridad social respectiva;
 prejubilatoria tramitada en el periodo, especificando
 cuáles han sido las últimas dos plazas que ocuparon
 previas a la jubilación, sus claves de pago, el último
-
 centro de trabajo al que estuvieron adscritos, así
 como las fechas de inicio y fin de cada una de las
 plazas que ocuparon;
@@ -2099,6 +2111,7 @@ Artículo adicionado DOF 12-11-2012
 Artículo 75.- Los municipios enviarán a las
 entidades federativas información sobre la aplicación
 de los recursos del Fondo de Aportaciones para la
+
 Infraestructura Social Municipal, en las obras y
 acciones establecidas en la Ley de Coordinación
 Fiscal que beneficien directamente a la población en
@@ -2106,7 +2119,6 @@ rezago social y pobreza extrema para que por su
 conducto se incluya en los informes trimestrales a que
 se refieren los artículos 48 de la Ley de Coordinación
 Fiscal y 46 y 47 de esta Ley.
-
 La Secretaría de Desarrollo Social del Gobierno
 Federal remitirá trimestralmente a la Cámara de
 Diputados del Congreso de la Unión, la información
@@ -2132,13 +2144,13 @@ Artículo adicionado DOF 12-11-2012. Reformado DOF 1901-2018
 Artículo 77.- Las entidades federativas incluirán en
 los reportes periódicos a que se refiere el artículo 46
 de esta Ley y difundirán en Internet la información
+
 relativa a los fondos de ayuda federal para la
 seguridad pública, incluyendo lo siguiente:
 I. La información sobre el ejercicio, destino y
 cumplimiento de los indicadores de desempeño de los
 programas beneficiados con los recursos de los
 fondos;
-
 II. Las disponibilidades financieras con que, en su
 caso, cuenten de los recursos de los fondos,
 correspondientes a otros ejercicios fiscales, y
@@ -2159,12 +2171,12 @@ de esta Ley publicarán e incluirán en los informes
 trimestrales a que se refieren los artículos 48 de la
 Ley de Coordinación Fiscal y 46 y 47 de esta Ley, la
 información relativa a las características de las
+
 obligaciones a que se refieren los artículos 37, 47,
 fracción II, y 50 de la Ley de Coordinación Fiscal,
 especificando lo siguiente:
 I. Tipo de obligación;
 II. Fin, destino y objeto;
-
 III. Acreedor, proveedor o contratista;
 IV. Importe total;
 V. Importe y porcentaje del total que se paga o
@@ -2180,6 +2192,7 @@ a) En el caso de amortizaciones:
 total con motivo de cada una de las amortizaciones a
 que se refiere este artículo, con relación al registrado
 al 31 de diciembre del ejercicio fiscal anterior;
+
 2. Un comparativo de la relación deuda pública bruta
 total a producto interno bruto del estado entre el 31 de
 diciembre del ejercicio fiscal anterior y la fecha de la
@@ -2188,7 +2201,6 @@ amortización, y
 total a ingresos propios del estado o municipio, según
 corresponda, entre el 31 de diciembre del ejercicio
 fiscal anterior y la fecha de la amortización, y
-
 b) El tipo de operación de saneamiento financiero
 que, en su caso, hayan realizado, incluyendo la
 relativa a la fracción III del artículo 47 de la Ley de
@@ -2208,6 +2220,7 @@ Artículo 79.- Los entes públicos deberán publicar en
 sus páginas de Internet a más tardar el último día
 hábil de abril su programa anual de evaluaciones, así
 como las metodologías e indicadores de desempeño.
+
 Los entes públicos deberán publicar a más tardar a
 los 30 días posteriores a la conclusión de las
 evaluaciones, los resultados de las mismas e informar
@@ -2215,7 +2228,6 @@ sobre las personas que realizaron dichas
 evaluaciones.
 La Secretaría de Hacienda y el Consejo Nacional de
 Evaluación de la Política de Desarrollo Social, en el
-
 ámbito de su competencia y de conformidad con el
 artículo 110 de la Ley Federal de Presupuesto y
 Responsabilidad Hacendaria, enviarán al Consejo los
@@ -2238,6 +2250,7 @@ disposiciones aplicables, se revisarán y, en su caso,
 se actualizarán los indicadores de los fondos de
 aportaciones federales y de los programas y
 convenios a través de los cuales se transfieran
+
 recursos federales, con base en los cuales se
 evaluarán los resultados que se obtengan con dichos
 recursos. Los indicadores actualizados deberán
@@ -2245,7 +2258,6 @@ incluirse en los informes trimestrales y en las cuentas
 públicas, en los términos de los artículos 48 de la Ley
 de Coordinación Fiscal y 85 de la Ley Federal de
 Presupuesto y Responsabilidad Hacendaria.
-
 La Secretaría de Hacienda, con el apoyo técnico del
 Consejo Nacional de Evaluación de la Política de
 Desarrollo Social, entregará conjuntamente con las
@@ -2269,6 +2281,7 @@ se aplicarán coordinadamente entre estos órdenes de
 gobierno para el logro de los objetivos definidos en las
 disposiciones aplicables.
 Párrafo reformado DOF 19-01-2018
+
 El consejo establecerá las normas, metodologías,
 clasificadores y los formatos con la estructura y
 contenido de la información para armonizar la
@@ -2276,7 +2289,6 @@ elaboración y presentación de la información a que se
 refiere este artículo. Asimismo, tratándose de
 programas sociales, el Consejo desarrollará lo
 anterior a partir de los indicadores que prevé la Ley
-
 General de Desarrollo Social y en coordinación con el
 Consejo Nacional de Evaluación de la Política de
 Desarrollo Social.
@@ -2298,12 +2310,12 @@ municipios y demarcaciones territoriales de la Ciudad
 de México, respecto al ejercicio y destino de los
 recursos públicos federales que por cualquier
 concepto les hayan sido ministrados.
+
 Artículo adicionado DOF 12-11-2012. Reformado DOF 1901-2018
 Artículo 83.- La Auditoría Superior de la Federación
 deberá difundir la información de su programa anual
 de auditorías, relativa a las auditorías que serán
 realizadas respecto del gasto público federal
-
 transferido a las entidades federativas, municipios y
 demarcaciones territoriales de la Ciudad de México.
 Artículo adicionado DOF 12-11-2012. Reformado DOF 1901-2018
@@ -2323,6 +2335,7 @@ Cuarto de la Constitución Política de los Estados
 Unidos Mexicanos y de las constituciones de las
 entidades federativas.
 Párrafo reformado DOF 19-01-2018
+
 Las responsabilidades administrativas se fincarán, a
 quienes directamente hayan ejecutado los actos o
 incurran en las omisiones que las originaron y,
@@ -2330,7 +2343,6 @@ subsidiariamente, a los que, por la naturaleza de sus
 funciones, hayan omitido la revisión o autorizado tales
 actos por causas que impliquen dolo, culpa, mala fe o
 negligencia por parte de los mismos.
-
 Artículo reformado y recorrido (antes artículo 56) DOF
 12-11-2012
 Artículo 85.- Se sancionará administrativamente a
@@ -2349,6 +2361,7 @@ la veracidad de la información financiera, o
 b) Incumplan con la obligación de difundir la
 información financiera en los términos a que se refiere
 la presente Ley;
+
 III. No realizar los registros presupuestarios y
 contables en la forma y términos que establece esta
 Ley y demás disposiciones aplicables, con
@@ -2356,7 +2369,6 @@ información confiable y veraz;
 IV. Cuando por razón de la naturaleza de sus
 funciones tengan conocimiento de la alteración o
 falsedad de la documentación o de la información que
-
 tenga como consecuencia daños a la hacienda
 pública o al patrimonio de cualquier ente público y,
 estando dentro de sus atribuciones, no lo eviten o no
@@ -2378,6 +2390,7 @@ en cualquiera de los supuestos establecidos en las
 fracciones II y IV del presente artículo, así como las
 reincidencias en las conductas señaladas en las
 demás fracciones.
+
 Artículo reformado y recorrido (antes artículo 57) DOF
 12-11-2012
 Artículo 86.- Se impondrá una pena de dos a siete
@@ -2385,7 +2398,6 @@ años de prisión, y multa de mil a quinientos mil días
 de salario mínimo general vigente en el Distrito
 Federal, a quien causando un daño a la hacienda
 pública o al patrimonio del ente público
-
 correspondiente, incurra en las conductas previstas
 en las fracciones II y IV del artículo 85 de esta Ley.
 Artículo adicionado DOF 12-11-2012
@@ -2416,6 +2428,7 @@ consultivo;
 
 II. 30 días naturales, contados a partir del día
 siguiente de la instalación del comité consultivo,
+
 para emitir sus reglas de operación y las del
 comité;
 III. Durante el ejercicio 2009, deberá emitir el plan
@@ -2424,7 +2437,6 @@ armonizados, las normas y metodología para la
 determinación de los momentos contables de los
 ingresos y egresos, y para la emisión de
 información financiera, la estructura de los
-
 estados financieros básicos y las características
 de sus notas, lineamientos sobre los indicadores
 para medir los avances físico-financieros
@@ -2446,6 +2458,7 @@ planeación del desarrollo, para su integración en
 la cuenta pública, mismos que serán publicados
 en el Diario Oficial de la Federación y los medios
 oficiales de difusión de las entidades federativas.
+
 CUARTO.- En lo relativo a la Federación y las
 entidades federativas, la armonización de los
 sistemas contables de las dependencias del poder
@@ -2454,7 +2467,6 @@ entidades y los órganos autónomos, se ajustará al
 desarrollo de los elementos técnicos y normativos
 definidos para cada año del horizonte previsto, de la
 siguiente forma:
-
 I.
 
 Disponer de listas de cuentas alineadas al plan
@@ -2479,6 +2491,7 @@ contabilidad gubernamental armonizados en sus
 respectivos libros de diario, mayor e inventarios y
 balances; disponer de catálogos de cuentas y
 manuales de contabilidad; y emitir información
+
 contable, presupuestaria y programática sobre la
 base técnica prevista en este párrafo y el
 anterior, a más tardar, el 31 de diciembre de
@@ -2487,7 +2500,6 @@ III. Efectuar los registros contables del patrimonio y
 su valuación; generar los indicadores de
 resultados sobre el cumplimiento de sus metas; y
 publicar información contable, presupuestaria y
-
 programática, en sus respectivas páginas de
 internet, para consulta de la población en
 general, a más tardar, el 31 de diciembre de
@@ -2507,6 +2519,7 @@ demarcaciones territoriales del Distrito Federal
 emitirán información periódica e integrarán la cuenta
 pública conforme a lo dispuesto en el artículo 55 de
 esta Ley, a más tardar, el 31 de diciembre de 2012.
+
 SEXTO.- En lo relativo a la Federación, los sistemas
 contables de las dependencias del poder Ejecutivo;
 los poderes Legislativo y Judicial; las entidades y los
@@ -2516,7 +2529,6 @@ En el caso de las entidades paraestatales del
 Gobierno Federal, dicho sistema deberá estar
 operando en las mismas condiciones a más tardar el
 31 de diciembre de 2012.
-
 Los sistemas de contabilidad gubernamental de las
 dependencias del poder Ejecutivo; los poderes
 Legislativo y Judicial; las entidades y los órganos
@@ -2541,18 +2553,20 @@ autónomos de la Federación; y el 31 de diciembre de
 poderes Legislativo y Judicial; las entidades y los
 órganos autónomos de las entidades federativas; los
 ayuntamientos de los municipios y los órganos
+
 político-administrativos
 de
 las
-demarcaciones
 territoriales del Distrito Federal.
+
+demarcaciones
+
 OCTAVO.- Desde la entrada en vigor de la presente
 Ley, hasta el 31 de diciembre de 2012, el consejo
 deberá publicar trimestralmente en internet la
 información sobre el cumplimiento de lo dispuesto en
 los artículos cuarto, quinto, sexto y séptimo
 transitorios de este decreto. Para tales efectos, la
-
 Federación, las entidades federativas, los municipios
 y las demarcaciones territoriales del Distrito Federal
 proporcionarán al consejo la información que éste
@@ -2582,7 +2596,6 @@ III. Establecer un calendario de las acciones
 específicas del programa y, en su caso,
 demostrar el avance en el cumplimiento de sus
 obligaciones en el marco de los artículos
-
 transitorios cuarto, quinto, sexto y séptimo de
 esta Ley;
 IV. Establecer un mecanismo para transparentar el
@@ -2605,6 +2618,7 @@ especiales
 para
 los
 municipios con menos de veinticinco mil habitantes.
+
 DÉCIMO.- Los gobiernos federal y de las entidades
 federativas
 formularán
@@ -2616,7 +2630,6 @@ Dicho programa se ajustará a las metas previstas en
 los artículos cuarto, sexto y séptimo transitorios, y lo
 presentarán al consejo en su primera reunión de
 2009.
-
 DÉCIMO PRIMERO.- En tanto se expidan las
 normas contables correspondientes por parte del
 consejo, se continuará aplicando lo dispuesto en las
@@ -2634,6 +2647,7 @@ de enero de 2009.
 Segundo.- Se derogan todas las disposiciones que
 se opongan a lo dispuesto a la Ley que se expide a
 través del presente Decreto.
+
 México, D.F., a 11 de diciembre de 2008.- Dip.
 Cesar Horacio Duarte Jaquez, Presidente.- Sen.
 Gustavo Enrique Madero Muñoz, Presidente.- Dip.
@@ -2642,7 +2656,6 @@ Cué Monteagudo, Secretario.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del
 Artículo 89 de la Constitución Política de los Estados
 Unidos Mexicanos, y para su debida publicación y
-
 observancia, expido el presente Decreto en la
 Residencia del Poder Ejecutivo Federal, en la Ciudad
 de México, Distrito Federal, a treinta de diciembre de
