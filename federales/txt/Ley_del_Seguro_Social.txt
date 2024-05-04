@@ -7,7 +7,7 @@ LEY DEL SEGURO SOCIAL
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 21 de diciembre de 1995
 TEXTO VIGENTE
-Última reforma publicada DOF 23-04-2024
+Última reforma publicada DOF 30-04-2024
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -3787,40 +3787,36 @@ vejez:
 a) Los patrones cubrirán la cuota que corresponda
 sobre el salario base de cotización, calculada
 conforme a la siguiente tabla:
-
-Salario base de cotización del
-trabajador
-1.00 SM*
-1.01 SM a 1.50 UMA**
-1.51 a 2.00 UMA
-2.01 a 2.50 UMA
-2.51 a 3.00 UMA
-3.01 a 3.50 UMA
-3.51 a 4.00 UMA
-4.01 UMA en adelante
-*Salario Mínimo
-** Unidad de Medida y Actualización
-
+Salario base de
 Cuota
-Patronal
+cotización del trabajador Patronal
+1.00 SM*
 3.150%
-4.202%
+1.01 SM a 1.50 UMA** 4.202%
+1.51 a 2.00 UMA
 6.552%
+2.01 a 2.50 UMA
 7.962%
+2.51 a 3.00 UMA
 8.902%
+3.01 a 3.50 UMA
 9.573%
+3.51 a 4.00 UMA
 10.077%
-11.875%
-
+4.01 UMA en adelante 11.875%
+*Salario Mínimo
+** Unidad de Medida y
+Actualización
 b) Los trabajadores cubrirán una cuota del uno
 punto ciento veinticinco por ciento sobre el
 salario base de cotización.
 Fracción con incisos reformada DOF 16-12-2020
+
 III.
 
 Se deroga.
-
 Fracción derogada DOF 16-12-2020
+
 IV. El Gobierno Federal, por cada día de salario
 cotizado, aportará mensualmente una cantidad por
 concepto de la cuota social, para los trabajadores
@@ -3841,11 +3837,11 @@ otorgamiento de pensiones y demás beneficios
 establecidos en esta Ley, se entenderán destinadas al
 gasto público en materia de seguridad social.
 Párrafo reformado DOF 26-05-2009
-
 Artículo 169. Los recursos depositados en la cuenta
 individual de cada trabajador son propiedad de éste
 con las modalidades que se establecen en esta Ley y
 demás disposiciones aplicables.
+
 Estos recursos son inembargables y no podrán
 otorgarse como garantía. Lo anterior no será aplicable
 para los recursos depositados en la subcuenta de
@@ -3873,8 +3869,8 @@ registrados en el Instituto de Seguridad y Servicios
 Sociales de los Trabajadores del Estado, en los
 términos del convenio de portabilidad que éste tenga
 suscrito con el Instituto.
-Artículo reformado DOF 16-12-2020
 
+Artículo reformado DOF 16-12-2020
 Artículo 171. El asegurado, cuyos recursos
 acumulados en su cuenta individual resulten
 insuficientes para contratar una renta vitalicia o un
@@ -3904,9 +3900,9 @@ falleciera el otro progenitor, la pensión de
 orfandad se aumentará del veinte al treinta por
 ciento de la base señalada, a partir de la fecha
 de la muerte del ascendiente, y
+
 III. Si no existieran beneficiarios con derecho a
 pensión conforme a lo previsto en las fracciones I
-
 y II anteriores, ésta se otorgará a cada uno de
 los
 ascendientes
@@ -3935,10 +3931,10 @@ obligada a proporcionar la información que el propio
 Instituto le requiera para este efecto.
 Agotados los recursos de la cuenta individual, la
 Administradora de Fondos para el Retiro, notificará
+
 este hecho al Instituto con la finalidad de que éste
 continúe otorgando la pensión garantizada.
 Párrafo reformado DOF 16-12-2020
-
 Una vez agotados los recursos, la pensión será
 cubierta con cargo al Gobierno Federal por conducto
 de la Tesorería de la Federación, a partir de la
@@ -3963,9 +3959,9 @@ de los beneficiarios con la aseguradora que éstos
 elijan.
 A efecto de lo anterior, el Instituto deberá informar
 del fallecimiento a la administradora de fondos para el
+
 retiro que, en su caso, estuviere pagando la pensión,
 y observarse lo siguiente:
-
 I.
 
 La administradora de fondos para el retiro deberá
@@ -3993,10 +3989,10 @@ Artículo adicionado DOF 20-12-2001
 Artículo 173. El Instituto suspenderá el pago de la
 pensión garantizada cuando el pensionado reingrese
 a un trabajo sujeto al régimen obligatorio.
+
 El pensionado por cesantía en edad avanzada o
 vejez que disfrute de una pensión garantizada no
 podrá recibir otra de igual naturaleza.
-
 La pensión que corresponda a los beneficiarios del
 pensionado fallecido, se entregará a éstos aun
 cuando estuvieran gozando de otra pensión de
@@ -4025,11 +4021,11 @@ funcionamiento, con autorización de la Comisión
 Nacional del Sistema de Ahorro para el Retiro,
 sujetándose en cuanto a su contabilidad, información,
 sistemas de comercialización y publicidad a los
+
 términos de la Ley para la Coordinación de los
 Sistemas de Ahorro para el Retiro.
 En todo caso, dicha Ley dispondrá los requisitos de
 constitución, entre los que se incluirán las
-
 disposiciones relativas a impedir el conflicto de
 intereses sobre el manejo de los fondos respecto de
 la participación de las asociaciones gremiales del
@@ -4056,12 +4052,12 @@ de
 unificación
 o
 traspaso
+
 correspondientes que establezca la Comisión
 Nacional del Sistema de Ahorro para el Retiro.
 Los trabajadores que estén sujetos al régimen
 previsto en esta Ley y simultáneamente al previsto en
 otras leyes, o que con anterioridad hayan estado
-
 sujetos al régimen previsto en esta Ley, no deberán
 tener más de una cuenta individual por cada régimen,
 y su unificación o traspaso quedará a lo que
@@ -4085,12 +4081,12 @@ Artículo 180. El patrón deberá informar
 bimestralmente a los trabajadores, sobre las
 aportaciones hechas a su favor, sin perjuicio de que
 dicha información sea entregada a los sindicatos o, en
+
 su caso, a cualquier otra organización representativa
 de los trabajadores asegurados.
 Artículo reformado DOF 20-12-2001
 Artículo 181. La Administradora de Fondos para el
 Retiro deberá informar a cada trabajador titular de una
-
 cuenta individual, el estado de la misma, en los
 términos, periodicidad y forma que al efecto
 establezca la Ley para la Coordinación de los
@@ -4113,13 +4109,13 @@ en términos de lo que se prevea en las disposiciones
 administrativas que deriven de la Ley de los Sistemas
 de Ahorro para el Retiro.
 Artículo reformado DOF 20-12-2001
+
 Artículo 184. En caso de terminación de la relación
 laboral, el patrón deberá enterar al Instituto la cuota
 correspondiente al bimestre de que se trate o, en su
 caso, la parte proporcional de dicha cuota en la fecha
 en que deba efectuar el pago de las correspondientes
 a ese período.
-
 Artículo 185. El trabajador podrá notificar el
 incumplimiento de las obligaciones a cargo de los
 patrones, establecidas en este capítulo, al Instituto,
@@ -4143,6 +4139,7 @@ dichas prestaciones se vieran disminuidas en su
 cuantía. En este caso el Instituto fincará los capitales
 constitutivos respectivos, en los términos del artículo
 79 de esta Ley.
+
 Artículo 187. Los trabajadores titulares de las
 cuentas individuales, y, en su caso, sus beneficiarios,
 deberán presentar directamente o a través de sus
@@ -4153,7 +4150,6 @@ otra
 organización
 representativa, sus reclamaciones en contra de las
 Administradoras de Fondos para el Retiro o entidades
-
 financieras autorizadas por la Comisión Nacional del
 Sistema de Ahorro para el Retiro, ante esta misma
 Comisión. El procedimiento correspondiente ante la
@@ -4180,6 +4176,7 @@ para el Retiro.
 La inspección y vigilancia de las Administradoras de
 Fondos para el Retiro y de las Sociedades de
 inversión especializadas de fondos para el retiro será
+
 realizada por la Comisión Nacional del Sistema de
 Ahorro para el Retiro.
 Artículo 189. Con cargo a los recursos acumulados
@@ -4187,7 +4184,6 @@ de la cuenta individual del trabajador, la
 Administradora de Fondos para el Retiro adquirirá a
 nombre de éste y en favor de sus beneficiarios
 legales, en el momento de otorgarse la pensión, un
-
 seguro de sobrevivencia, en los términos que al
 efecto determine la Comisión Nacional de Seguros y
 Fianzas, oyendo a la Comisión Nacional del Sistema
@@ -4210,6 +4206,7 @@ entregándoselos en una sola exhibición, cuando la
 pensión de que disfrute sea mayor en un treinta por
 ciento de la pensión garantizada, que corresponda
 conforme a las semanas de cotización, al salario base
+
 de cotización y a la edad de sesenta años, de la tabla
 establecida en el artículo 170 de esta Ley.
 Artículo reformado DOF 16-12-2020
@@ -4217,7 +4214,6 @@ Artículo 191. Durante el tiempo en que el trabajador
 deje de estar sujeto a una relación laboral, tendrá
 derecho a:
 I. Realizar aportaciones a su cuenta individual, y
-
 II. Retirar parcialmente por situación de desempleo
 los recursos de la Subcuenta de Retiro, Cesantía
 en Edad Avanzada y Vejez, a partir del
@@ -4238,6 +4234,7 @@ de haber sido abierta, podrá retirar la cantidad
 que resulte menor entre noventa días de su
 propio salario base de cotización de las últimas
 doscientas cincuenta semanas o las que tuviere,
+
 o el once punto cinco por ciento del saldo de la
 Subcuenta de Retiro, Cesantía en Edad
 Avanzada y Vejez.
@@ -4251,7 +4248,6 @@ seis
 mensualidades, la primera de las cuales podrá
 ser por un monto de treinta días de su último
 salario base de cotización a solicitud del
-
 trabajador, conforme a las reglas de carácter
 general que al efecto expida la Comisión
 Nacional del Sistema de Ahorro para el Retiro.
@@ -4271,6 +4267,7 @@ haber efectuado retiros durante los cinco años
 inmediatos anteriores a la fecha de la solicitud de
 retiro de recursos.
 Fracción reformada DOF 26-05-2009
+
 Artículo 192. Los trabajadores tendrán en todo
 tiempo el derecho a realizar aportaciones voluntarias
 a su cuenta individual, ya sea por conducto de su
@@ -4279,7 +4276,6 @@ mismos. En estos casos, las aportaciones se
 depositarán a la subcuenta de aportaciones
 voluntarias.
 Aclaración al párrafo DOF 16-01-1996
-
 Asimismo, los patrones podrán hacer aportaciones
 adicionales a la subcuenta de aportaciones
 voluntarias, mismas que se entenderán adicionales a
@@ -4300,6 +4296,7 @@ En caso de fallecimiento del trabajador o
 pensionado, tendrán derecho a recibir los recursos de
 la cuenta individual que en términos de las
 disposiciones legales puedan entregarse en una sola
+
 exhibición por no tener otro fin específico, a los
 beneficiarios designados expresamente en los
 contratos de administración de fondos para el retiro
@@ -4308,7 +4305,6 @@ celebren con los trabajadores, en la proporción
 estipulada para cada uno de ellos.
 Para tales efectos, el trabajador podrá en cualquier
 tiempo sustituir a los beneficiarios que hubiera
-
 designado, así como modificar, en su caso, la
 proporción correspondiente a cada uno de ellos.
 La Administradora de Fondos para el Retiro en la
@@ -4329,6 +4325,7 @@ calidad de persona desaparecida y cuente con
 Declaración Especial de Ausencia, en términos de la
 legislación especial en la materia, los recursos de su
 cuenta individual serán puestos a disposición de sus
+
 beneficiarios, en los términos en que se establezcan
 en resolución que se haya emitido para ese fin.
 Artículo adicionado DOF 22-06-2018
@@ -4337,7 +4334,6 @@ calculará cada año una anualidad que será igual al
 resultado de dividir el saldo de la cuenta individual del
 asegurado entre el capital necesario para financiar
 una unidad de renta vitalicia para el asegurado y sus
-
 beneficiarios y, por lo menos, igual al valor
 correspondiente a la pensión garantizada, que le
 corresponda conforme a la tabla establecida en el
@@ -4361,6 +4357,7 @@ el seguro de retiro, cesantía en edad avanzada y
 vejez, conforme a lo establecido en esta Ley y la Ley
 para la Coordinación de los Sistemas de Ahorro para
 el Retiro.
+
 Artículo 196. El asegurado que goce de una
 pensión de cesantía en edad avanzada o de vejez,
 cuando reingrese al régimen obligatorio, no efectuará
@@ -4369,7 +4366,6 @@ del artículo 25 de esta Ley, ni las de los seguros de
 invalidez y vida.
 El asegurado abrirá una nueva cuenta individual, en
 la Administradora de Fondos para el Retiro que elija
-
 de acuerdo con las normas generales establecidas en
 esta Ley. Una vez al año, en el mismo mes calendario
 en el que adquirió el derecho a la pensión, podrá el
@@ -4395,6 +4391,7 @@ concepto del retiro por situación de desempleo
 previsto en el artículo 191 fracción II de la presente
 Ley, disminuirá en igual proporción a las semanas de
 cotización efectuadas.
+
 La mencionada disminución se calculará dividiendo
 el monto acumulado de los recursos de la cuenta
 individual entre el número de semanas cotizadas
@@ -4402,7 +4399,6 @@ hasta el momento de realizarse la disposición de
 dichos recursos. El monto retirado se dividirá entre el
 cociente resultante de la anterior operación. El
 resultado se le restará a las semanas cotizadas.
-
 Los trabajadores que retiren recursos de la
 Subcuenta de Retiro, Cesantía en Edad Avanzada y
 Vejez en los términos de lo dispuesto por el
@@ -4426,6 +4422,7 @@ como a las disposiciones administrativas que expida
 la Comisión Nacional del Sistema de Ahorro para el
 Retiro para salvaguardar los derechos de los
 asegurados en los términos de esta Ley.
+
 Artículo 200. Para los efectos de esta sección, la
 Ley para la Coordinación de los Sistemas de Ahorro
 para
@@ -4437,7 +4434,6 @@ disposiciones
 administrativas que sean necesarias para lograr el
 eficaz cumplimiento de las disposiciones contenidas
 en esta Ley.
-
 CAPITULO VII
 DEL SEGURO DE GUARDERIAS Y DE LAS
 PRESTACIONES SOCIALES
@@ -4458,6 +4454,7 @@ El servicio de guardería se proporcionará en el turno
 matutino y vespertino pudiendo tener acceso a alguno
 de estos turnos, el hijo del trabajador cuya jornada de
 labores sea nocturna.
+
 Artículo reformado DOF 20-12-2001
 Artículo
 202.
@@ -4469,7 +4466,6 @@ salud del niño y su buen desarrollo futuro, así como a
 la formación de sentimientos de adhesión familiar y
 social, a la adquisición de conocimientos que
 promuevan la comprensión, el empleo de la razón y
-
 de la imaginación y a constituir hábitos higiénicos y de
 sana convivencia y cooperación en el esfuerzo común
 con propósitos y metas comunes, todo ello de manera
@@ -4498,6 +4494,7 @@ personas
 trabajadoras
 aseguradas tendrán derecho a los servicios de
 guardería para sus hijas e hijos, durante las horas de
+
 su jornada de trabajo, en la forma y términos
 establecidos en esta Ley y en el reglamento relativo.
 Párrafo reformado DOF 21-10-2020
@@ -4505,7 +4502,6 @@ El servicio de guarderías se proporcionará en el
 turno matutino y vespertino, pudiendo tener acceso a
 alguno de estos turnos, el hijo del trabajador cuya
 jornada de labores sea nocturna.
-
 Artículo reformado DOF 20-12-2001
 Artículo 206. Los servicios de guarderías se
 proporcionarán a los menores a que se refiere el
@@ -4529,9 +4525,10 @@ Las
 
 prestaciones
 
+I. Prestaciones sociales institucionales, y
+
 sociales
 
-I. Prestaciones sociales institucionales, y
 II. Prestaciones de solidaridad social.
 Artículo
 209.
@@ -4542,7 +4539,6 @@ institucionales tienen como finalidad fomentar la
 salud, prevenir enfermedades y accidentes y
 contribuir a la elevación general de los niveles de vida
 de la población.
-
 El Instituto proporcionará atención a sus
 derechohabientes mediante servicios y programas de
 prestaciones sociales que fortalezcan la medicina
@@ -4566,10 +4562,11 @@ Las
 prestaciones
 institucionales serán proporcionadas
 programas de:
-I.
 
 sociales
 mediante
+
+I.
 
 Promoción de la salud, difundiendo los
 conocimientos necesarios a través de cursos
@@ -4580,7 +4577,6 @@ Fracción reformada DOF 20-12-2001
 
 II. Educación higiénica, materno infantil, sanitaria y
 de primeros auxilios; apoyo a la nutrición de las
-
 trabajadoras derechohabientes embarazadas,
 durante la gestación y a sus hijas e hijos en el
 periodo neonatal mediante el refuerzo y
@@ -4603,6 +4599,7 @@ una mejor ocupación del tiempo libre;
 Fracción reformada DOF 20-12-2001
 V. Promoción de la regularización del estado civil;
 Fracción reformada DOF 20-12-2001
+
 VI. Cursos de adiestramiento técnico y de
 capacitación para el trabajo, a fin de propiciar la
 participación de la población en el mercado
@@ -4615,7 +4612,6 @@ cursos
 podrán
 ser
 susceptibles de validación oficial;
-
 Fracción reformada DOF 20-12-2001
 VII. Centros vacacionales;
 Fracción reformada DOF 20-12-2001
@@ -4642,6 +4638,7 @@ correspondientes, a efecto de generar recursos para
 apoyar el financiamiento de su operación y
 mantenimiento y de colaborar con la sociedad en
 general en la promoción de ese tipo de actividades. El
+
 monto y destino de los recursos que se obtengan
 conforme a lo dispuesto en este párrafo se informará
 al Congreso de la Unión y al Ejecutivo Federal por
@@ -4652,7 +4649,6 @@ derechohabientes
 tendrán
 condiciones
 preferenciales en el pago de las cuotas de
-
 recuperación señaladas, en los términos que el
 Instituto establezca.
 Artículo adicionado DOF 20-12-2001
@@ -4673,13 +4669,13 @@ de reversión de cuotas o subrogación de servicios,
 con los patrones que tengan instaladas guarderías en
 sus empresas o establecimientos, cuando reúnan los
 requisitos señalados en las disposiciones relativas.
+
 SECCION CUARTA
 DE LAS PRESTACIONES DE SOLIDARIDAD
 SOCIAL
 Artículo 214. Las prestaciones o servicios de
 solidaridad social comprenden acciones de salud
 comunitaria, asistencia médica, farmacéutica e
-
 incluso hospitalaria, en la forma y términos
 establecidos en los artículos 215 al 217 de esta Ley.
 Artículo 215. El Instituto organizará, establecerá y
@@ -4701,6 +4697,7 @@ esta Ley le atribuye, sin perjuicio del eficaz
 otorgamiento de las prestaciones a que tienen
 derecho los trabajadores y demás beneficiarios del
 régimen obligatorio.
+
 Artículo 216 A. El Instituto deberá atender a la
 población no derechohabiente en los casos
 siguientes:
@@ -4735,6 +4732,7 @@ disposiciones que al efecto emita el Ejecutivo Federal,
 la Secretaría de Hacienda y Crédito Público proveerá
 los recursos financieros necesarios para resarcir al
 Instituto de los gastos en que incurra.
+
 Tratándose de los programas a que se refiere la
 fracción III, se estará a lo dispuesto por las normas
 aplicables a los subsidios federales.
@@ -4742,7 +4740,6 @@ En todos los casos el Instituto llevará a cabo la
 contabilización específica y por separado de la
 contabilidad general.
 Artículo adicionado DOF 20-12-2001
-
 Artículo 217. Las prestaciones de solidaridad social
 serán financiadas por la Federación y por los propios
 beneficiados.
@@ -4763,6 +4760,7 @@ ser dado de baja, tiene el derecho a continuar
 voluntariamente en el mismo, pudiendo continuar en
 los seguros conjuntos de invalidez y vida así como de
 retiro, cesantía en edad avanzada y vejez, debiendo
+
 quedar inscrito con el último salario o superior al que
 tenía en el momento de la baja. El asegurado cubrirá
 las cuotas que le correspondan por mensualidad
@@ -4771,7 +4769,6 @@ Párrafo reformado DOF 20-12-2001
 a) Respecto del seguro de retiro, cesantía en edad
 avanzada y vejez, el asegurado cubrirá por
 cuanto hace al ramo primero, la totalidad de la
-
 cuota y por los otros dos ramos cubrirá el importe
 de las cuotas obrero patronales, debiendo el
 Estado aportar la parte de cuota social que
@@ -4791,6 +4788,7 @@ anterior se pierde si no se ejercita mediante solicitud
 por escrito dentro de un plazo de cinco años a partir
 de la fecha de baja.
 Artículo reformado DOF 20-12-2001
+
 Artículo 220. La continuación voluntaria del régimen
 obligatorio termina por:
 I.
@@ -4799,7 +4797,6 @@ Declaración expresa firmada por el asegurado;
 
 II. Dejar de pagar las cuotas durante dos meses, y
 Fracción reformada DOF 20-12-2001
-
 III. Ser dado de alta nuevamente en el régimen
 obligatorio, en los términos del artículo 12 de
 esta Ley.
@@ -4819,6 +4816,7 @@ DE LA INCORPORACION VOLUNTARIA AL
 REGIMEN OBLIGATORIO
 Artículo 222. La incorporación voluntaria de los
 sujetos a que se refiere el presente capítulo, se
+
 realizará por convenio y se sujetará a las siguientes
 modalidades:
 I. Podrá efectuarse en forma individual o de grupo a
@@ -4826,7 +4824,6 @@ solicitud, por escrito, del sujeto o sujetos
 interesados. En el caso de incorporación colectiva
 cada uno de los asegurados será responsable de
 sus obligaciones frente al Instituto;
-
 II. El esquema de aseguramiento, para los sujetos
 que señala este capítulo, comprende:
 a) Para los sujetos a que se refiere la fracción I
@@ -4846,6 +4843,7 @@ b) Se deroga.
 Inciso derogado DOF 16-11-2022
 c) Se deroga.
 Inciso derogado DOF 01-12-2023
+
 d) Para los sujetos a que se refiere la fracción V
 del artículo 13 de esta Ley, las prestaciones
 del seguro de riesgos de trabajo, las
@@ -4859,7 +4857,6 @@ correspondientes de los seguros de invalidez y
 vida, así como de retiro, cesantía en edad
 avanzada y vejez, en los términos de los
 capítulos respectivos, y
-
 A solicitud de las entidades públicas, el
 esquema de aseguramiento podrá comprender
 únicamente las prestaciones en especie de los
@@ -4877,6 +4874,7 @@ esta Ley.
 Sólo se perderá la calidad de asegurado si se dejan
 de tener las características que originaron el
 aseguramiento.
+
 Artículo 224. Los sujetos de aseguramiento
 comprendidos en este capítulo cotizarán por
 mensualidad,
@@ -4892,7 +4890,6 @@ cotizar
 simultáneamente
 como
 Trabajador
-
 Independiente o por cuenta propia y como trabajador
 sujeto a una relación personal subordinada regulada
 por la Ley Federal del Trabajo.
@@ -4912,6 +4909,7 @@ períodos de inscripción relativos, el Instituto podrá
 establecer plazos de espera para el disfrute de las
 prestaciones en especie del seguro de enfermedades
 y maternidad.
+
 El Consejo Técnico podrá expedir las reglas de
 carácter general que en su caso resulten aplicables
 para el aseguramiento de los sujetos a que se refiere
@@ -4920,7 +4918,6 @@ Párrafo adicionado DOF 01-12-2023
 Artículo 226. No procederá el aseguramiento
 voluntario, cuando de manera previsible éste pueda
 comprometer el equilibrio financiero del Instituto o la
-
 eficacia de los servicios que proporciona a los
 asegurados en el régimen obligatorio.
 Artículo 227. Las cuotas obrero patronales
@@ -4947,6 +4944,7 @@ II. Conforme al salario real integrado de acuerdo
 con el artículo 27 de este ordenamiento, para las
 personas a que se refiere la fracción V del
 artículo 13 de esta Ley.
+
 Fracción reformada DOF 16-11-2022
 Las bases de las fracciones anteriores serán
 aplicables, para todos los seguros que comprenda el
@@ -4954,7 +4952,6 @@ aseguramiento en cada caso, con la excepción del
 seguro de enfermedades y maternidad, respecto del
 cual se estará a lo dispuesto por el artículo 106 de
 esta Ley.
-
 El Consejo Técnico del Instituto ante las instancias
 competentes, proveerá lo necesario para que estas
 promuevan ante el Congreso de la Unión la revisión
@@ -4975,6 +4972,7 @@ V del artículo 13, de acuerdo con lo establecido
 tratándose de las personas del artículo 12 de esta
 Ley, y
 Fracción reformada DOF 16-11-2022
+
 II. Para los sujetos a que se refiere la fracción I del
 artículo 13 de esta Ley, les corresponderá cubrir
 íntegramente
@@ -4985,7 +4983,6 @@ contribuyendo el Estado conforme le corresponda
 a cada ramo de seguro, de acuerdo con lo
 dispuesto en esta Ley, incluyendo la cuota social.
 Fracción reformada DOF 20-12-2001, 01-12-2023
-
 Artículo 229. En el caso de los sujetos a que se
 refiere la fracción I del artículo 13 de esta Ley, el
 Instituto podrá convenir, previa conformidad de los
@@ -5010,6 +5007,7 @@ su cargo.
 Artículo 231. La incorporación voluntaria al régimen
 obligatorio establecida en el artículo 13, fracciones I y
 V, termina por declaración expresa firmada por el
+
 sujeto o grupo de asegurados, o por no pagar las
 cuotas correspondientes.
 Párrafo reformado DOF 01-12-2023
@@ -5018,7 +5016,6 @@ Fracción reformada DOF 20-12-2001. Derogada DOF
 01-12-2023
 II. Se deroga.
 Fracción derogada DOF 16-11-2022
-
 Artículo 232. Para la incorporación de personas que
 presten servicios a dependencias o entidades de la
 Administración Pública Federal, deberá contarse con
@@ -5038,6 +5035,7 @@ generen con motivo de la incorporación de los
 trabajadores de las dependencias y entidades al
 servicio de las administraciones públicas estatales o
 municipales, podrán pagarse con cargo a los
+
 subsidios, transferencias o a las participaciones en
 ingresos federales que a los estados y municipios les
 correspondan, en los términos de las disposiciones
@@ -5045,7 +5043,6 @@ aplicables.
 Artículo reformado DOF 20-12-2001
 CAPITULO X
 DE LA SEGURIDAD SOCIAL EN EL CAMPO
-
 Artículo 234. La seguridad social se extiende al
 campo mexicano, en los términos y formas que se
 establecen en la presente Ley y los reglamentos
@@ -5072,6 +5069,7 @@ estuvieran incorporados por la vía de Decreto
 Presidencial a la seguridad social, podrán afiliarse al
 Régimen de seguridad social de los previstos en la
 presente Ley, que resulte más conveniente a sus
+
 condiciones productivas y de ingreso. En el caso de
 los cañeros, tabacaleros y otras ramas de producción
 especializadas se incorporarán con las modalidades
@@ -5088,7 +5086,6 @@ y
 temporales
 en
 actividades del campo, se comprenden en el artículo
-
 12, fracción I, de esta Ley y accederán a la seguridad
 social en los términos y formas que establezca la
 misma, conforme a las modalidades que para el
@@ -5119,6 +5116,7 @@ convenirse en la reversión de una parte de la cuota
 obrero patronal en proporción a la naturaleza y
 cuantía de los servicios otorgados, a través de un
 esquema programado de reembolsos, en los términos
+
 que establezcan las reglas de carácter general que
 para tal efecto expida el Consejo Técnico.
 Párrafo reformado DOF 24-01-2024
@@ -5133,7 +5131,6 @@ del
 campo
 y
 organizaciones de personas trabajadoras temporales
-
 del campo para la subrogación de los servicios que
 contempla el Ramo de Guarderías a que se refiere la
 Sección Primera, Capítulo VII, del Título Segundo, de
@@ -5153,6 +5150,7 @@ expida el Consejo Técnico.
 Artículo adicionado DOF 29-04-2005
 Artículo 237-B.- Los patrones del campo tendrán
 las obligaciones inherentes que establezca la
+
 presente Ley y sus reglamentos, adicionalmente,
 deberán cumplir lo siguiente:
 I. Al registrarse ante el Instituto, deberán
@@ -5163,7 +5161,6 @@ requiera el Instituto. Para el caso de los patrones con
 actividades ganaderas, deberán proporcionar la
 información sobre el tipo de ganado y el número de
 cabezas que poseen. La modificación de cualquiera
-
 de los datos proporcionados deberá ser comunicada
 al Instituto en un plazo no mayor de treinta días
 naturales contados a partir de la fecha en que se
@@ -5182,6 +5179,7 @@ Artículo 237-C.- Los patrones del campo podrán
 excluir, independientemente de lo establecido en el
 artículo 27 de esta Ley como integrante del salario
 base de cotización, dada su naturaleza, los pagos
+
 adicionales que realicen por concepto de
 productividad, hasta por el veinte por ciento del
 salario base de cotización, observando lo dispuesto
@@ -5192,7 +5190,6 @@ de cotización, deberá estar debidamente registrado
 en la contabilidad del patrón.
 En su caso, cubrirán la parte de la cuota obrero
 patronal que les corresponde conjuntamente con la
-
 actualización respectiva, en forma diferida o a plazos,
 sin la generación de recargos, conforme a las reglas
 de carácter general que emita el Consejo Técnico,
@@ -5212,6 +5209,7 @@ Desarrollo Rural, Pesca y Alimentación.
 Para tales efectos, sin perjuicio del ejercicio de las
 facultades de comprobación que le corresponden al
 Instituto en su carácter de organismo fiscal autónomo,
+
 la Secretaría de Agricultura y Desarrollo Rural, deberá
 proporcionar semestralmente al Instituto el padrón de
 personas empleadoras del campo que sean sujetas
@@ -5222,7 +5220,6 @@ semejantes, identificando a aquellas sujetas a recibir
 subsidios, apoyos o beneficios derivados del
 Presupuesto de Egresos de la Federación.
 Párrafo reformado DOF 24-01-2024
-
 A solicitud del Instituto, y de acuerdo con el convenio
 que éste firme con la Secretaría de Agricultura y
 Desarrollo Rural para este fin, esta última suspenderá
@@ -5243,6 +5240,7 @@ Secciones Segunda y Tercera del Capítulo IV, del
 Título Segundo de esta Ley, relativas a servicios
 médicos y hospitalarios.
 Artículo adicionado DOF 24-01-2024
+
 Artículo
 238.
 Los
@@ -5256,7 +5254,6 @@ la forma y términos que establecen los artículos 214 a
 217 de esta Ley.
 Artículo 239. El acceso a la seguridad social de los
 sujetos a que se refiere el presente capítulo, podrá
-
 ser apoyado por el tercer aportante establecido en el
 artículo 230 de esta Ley. En cualquier caso éstos
 podrán acceder al seguro de salud para la familia
@@ -5275,6 +5272,7 @@ cualquiera de las siguientes modalidades:
 I. Quien trabaje para una persona empleadora y
 resida en el domicilio donde realice sus
 actividades;
+
 II. Quien trabaje para una sola persona empleadora
 y que no resida en el domicilio donde realice sus
 actividades, y
@@ -5286,7 +5284,6 @@ personas
 empleadoras y que no resida en el domicilio de
 ninguna de ellas.
 Artículo adicionado DOF 16-11-2022
-
 Artículo 239-B. No
 trabajadora del hogar:
 
@@ -5312,6 +5309,7 @@ siguiente:
 I. Deberá registrar e inscribir a la persona
 trabajadora del hogar a la fecha de inicio de la
 relación laboral, para salvaguardar sus derechos,
+
 por los días que labore durante el mes calendario,
 así como presentar los documentos y datos que
 el Instituto solicite para tal efecto;
@@ -5321,7 +5319,6 @@ del hogar, el Instituto calculará la propuesta de
 cédula de determinación de las cuotas obrero
 patronales correspondientes, distinguiendo la
 cuota obrera de la patronal. La persona
-
 empleadora no determinará las cuotas obrero
 patronales. La persona empleadora deberá
 retener la cuota obrera que corresponde a la
@@ -5341,6 +5338,7 @@ Ley;
 V. El aseguramiento y el entero de las cuotas obrero
 patronales correspondientes a los meses
 subsecuentes al mes de inicio de la relación
+
 laboral, se deberá hacer por anticipado, con la
 periodicidad por la que opte la persona
 empleadora, ya sea periodo mensual, bimestral,
@@ -5348,7 +5346,6 @@ semestral o anual;
 VI.Tratándose del pago por anticipado, el
 aseguramiento iniciará en el mes inmediato
 posterior al del pago;
-
 VII. Tratándose del mes de inicio de la relación
 laboral, la cobertura se otorgará a partir del
 primer día de aseguramiento y hasta el último día
@@ -5370,6 +5367,7 @@ Ciudad de México. En caso contrario, la persona
 trabajadora del hogar quedará cubierta por los
 días que la o las personas empleadoras
 reportaron.
+
 Para las periodicidades bimestrales, semestrales y
 anuales, la persona empleadora deberá cubrir al
 menos el monto de las cuotas obrero patronales
@@ -5378,7 +5376,6 @@ mínimo integrado mensual de la Ciudad de México,
 por cada uno de los meses que abarque el periodo de
 pago elegido.
 Artículo adicionado DOF 16-11-2022
-
 Artículo 239-D. El aseguramiento de las personas
 trabajadoras del hogar termina cuando concluya la
 relación laboral que le dio origen, por la falta del
@@ -5400,6 +5397,7 @@ Artículo adicionado DOF 16-11-2022
 Artículo 239-F. Tratándose de las personas que
 realicen actividades de cuidados, aseo, asistencia o
 cualquier otra actividad inherente al hogar, de manera
+
 ocasional o esporádica, podrán optar por asegurarse
 como personas trabajadoras independientes, en
 términos de la fracción I del artículo 13 de esta Ley.
@@ -5408,7 +5406,6 @@ Artículo 239-G. El factor de integración del salario
 base de cotización deberá considerar los días de
 descanso y vacaciones a que tienen derecho las
 personas trabajadoras del hogar, en términos de las
-
 disposiciones establecidas en la Ley Federal del
 Trabajo. Para estos efectos, el Consejo Técnico, con
 base en dichas prestaciones, así como en lo
@@ -5429,6 +5426,7 @@ TITULO TERCERO
 DEL REGIMEN VOLUNTARIO
 CAPITULO I
 DEL SEGURO DE SALUD PARA LA FAMILIA
+
 Artículo 240. Todas las familias en México tienen
 derecho a un seguro de salud para sus miembros y
 para ese efecto, podrán celebrar con el Instituto
@@ -5436,7 +5434,6 @@ Mexicano del Seguro Social convenio para el
 otorgamiento de las prestaciones en especie del
 seguro de enfermedades y maternidad, en los
 términos del reglamento respectivo.
-
 Artículo 241. Los sujetos amparados por el seguro
 de salud para la familia son los señalados en el
 artículo 84 de esta Ley y se sujetarán a los requisitos
@@ -5465,6 +5462,7 @@ detrimento del principio de solidaridad social.
 El Estado contribuirá conforme a lo dispuesto en la
 fracción III del artículo 106 de la presente Ley por
 familia, independientemente del tamaño de la familia.
+
 Artículo reformado DOF 20-12-2001, 16-01-2014
 Artículo 243. El Instituto, también, podrá celebrar
 este tipo de convenios, en forma individual o colectiva
@@ -5472,16 +5470,12 @@ con trabajadores mexicanos que se encuentren
 laborando en el extranjero, a fin de que se proteja a
 sus familiares residentes en el territorio nacional y a
 ellos mismos cuando se ubiquen en éste. Estos
-
 asegurados
 cubrirán
 íntegramente
-establecida en el artículo anterior.
-
 la
-
 prima
-
+establecida en el artículo anterior.
 Artículo 244. Los seguros de salud para la familia
 se organizarán en sección especial, con contabilidad
 y administración de fondos separadas de la
@@ -5500,13 +5494,13 @@ económicas pactadas en los contratos Ley o en los
 contratos colectivos de trabajo que fueran superiores
 a las de la misma naturaleza que establece el
 régimen obligatorio del Seguro Social.
+
 Artículo 247. Las condiciones superiores de las
 prestaciones pactadas sobre las cuales pueden
 versar los convenios, son: aumentos de las cuantías;
 disminución de la edad mínima para su disfrute;
 modificación del salario promedio base del cálculo y
 en general todas aquellas que se traduzcan en
-
 coberturas y prestaciones superiores a las legales o
 en mejores condiciones de disfrute de las mismas.
 Las prestaciones económicas a que se refiere el
@@ -5528,14 +5522,18 @@ las modificaciones, fije el monto de las nuevas primas
 y demás modalidades pertinentes.
 Artículo 250. Los seguros adicionales se
 organizarán en sección especial, con contabilidad y
+
 administración
-de fondos separada de
-la
+de fondos separada
 correspondiente a los seguros obligatorios.
+
+de
+
+la
+
 CAPÍTULO III
 OTROS SEGUROS
 Capítulo adicionado DOF 20-12-2001
-
 Artículo 250 A. El Instituto previo acuerdo de su
 Consejo Técnico, podrá otorgar coberturas de
 seguros de vida y otras, exclusivamente a favor de las
@@ -5558,13 +5556,13 @@ Artículo adicionado DOF 20-12-2001
 Artículo 250 B. Para los efectos del artículo
 anterior, el Gobierno Federal deberá otorgar al
 Instituto los subsidios y transferencias que
+
 correspondan al importe de las primas relativas a
 tales seguros y otras coberturas.
 Artículo adicionado DOF 20-12-2001
 TITULO CUARTO
 DEL INSTITUTO MEXICANO DEL SEGURO
 SOCIAL
-
 CAPÍTULO I
 DE LAS ATRIBUCIONES, PATRIMONIO Y
 ÓRGANOS DE GOBIERNO Y ADMINISTRACIÓN
@@ -5594,12 +5592,12 @@ las
 
 IV. En general, realizar toda clase de actos jurídicos
 necesarios para cumplir con sus fines, así como
+
 aquéllos que fueren necesarios para la
 administración de las finanzas institucionales;
 Fracción reformada DOF 20-12-2001
 V. Adquirir bienes muebles e inmuebles, para los
 fines que le son propios;
-
 VI. Establecer unidades médicas, guarderías
 infantiles, farmacias, velatorios, así como centros
 de
@@ -5626,6 +5624,7 @@ esta Ley;
 Fracción reformada DOF 20-12-2001
 IX. Difundir conocimientos y prácticas de previsión y
 seguridad social;
+
 X. Registrar a los patrones y demás sujetos
 obligados, inscribir a los trabajadores asalariados
 y precisar su base de cotización aun sin previa
@@ -5634,7 +5633,6 @@ independientes a su solicitud, sin que ello libere
 a los obligados de las responsabilidades y
 sanciones por infracciones en que hubiesen
 incurrido;
-
 Fracción reformada DOF 20-12-2001
 XI. Dar de baja del régimen obligatorio a los
 patrones, sujetos obligados y asegurados,
@@ -5657,13 +5655,13 @@ forma, recaudar y cobrar las cuotas y sus
 accesorios legales del seguro de retiro, cesantía
 en edad avanzada y vejez;
 Fracción reformada DOF 20-12-2001
+
 XIII. Establecer los procedimientos para la
 inscripción, cobro de cuotas y otorgamiento de
 prestaciones;
 XIV. Determinar los créditos a favor del Instituto y
 las bases para la liquidación de cuotas y
 recargos, así como sus accesorios y fijarlos en
-
 cantidad líquida, cobrarlos y percibirlos, de
 conformidad con la presente Ley y demás
 disposiciones aplicables.
@@ -5689,6 +5687,7 @@ sobre el ingreso reportado;
 Párrafo adicionado DOF 29-11-2023
 XV. Determinar la existencia, contenido y alcance
 de las obligaciones incumplidas por los patrones
+
 y demás sujetos obligados en los términos de
 esta Ley, aplicando en su caso, los datos con los
 que cuente o con apoyo en los hechos que
@@ -5697,7 +5696,6 @@ facultades de comprobación de que goza como
 autoridad fiscal o bien, a través de los
 expedientes o documentos proporcionados por
 otras autoridades fiscales;
-
 Fracción reformada DOF 20-12-2001
 XVI. Ratificar o rectificar la clase y la prima de
 riesgo de las empresas para efectos de la
@@ -5717,6 +5715,7 @@ Fracción reformada DOF 20-12-2001
 XIX. Ordenar y practicar las investigaciones
 correspondientes en los casos de sustitución
 patronal y de responsabilidad solidaria previstos
+
 en esta Ley y en el Código, y emitir los
 dictámenes respectivos;
 Fracción reformada DOF 20-12-2001
@@ -5724,7 +5723,6 @@ XX. Establecer coordinación con las dependencias
 y entidades de las Administraciones Públicas
 Federal, Estatales y Municipales, para el
 cumplimiento de sus objetivos;
-
 XXI. Revisar los dictámenes formulados por
 contadores públicos sobre el cumplimiento de las
 disposiciones contenidas en esta Ley y sus
@@ -5749,6 +5747,7 @@ privado, para el intercambio de información
 relacionada con el cumplimiento de sus
 objetivos, en los términos previstos en esta Ley;
 Fracción reformada DOF 20-12-2001
+
 XXIV. Promover y propiciar la realización de
 investigación en salud y seguridad social,
 utilizándola como una herramienta para la
@@ -5757,7 +5756,6 @@ mejoría de la calidad de la atención que se
 otorga y para la formación y capacitación del
 personal;
 Fracción adicionada DOF 20-12-2001
-
 XXV. Aplicar el procedimiento administrativo de
 ejecución para el cobro de las liquidaciones que
 no hubiesen sido cubiertas oportunamente, con
@@ -5778,6 +5776,7 @@ naturaleza, o bien en documento impreso;
 Fracción adicionada DOF 20-12-2001
 XXVII. Hacer efectivas las fianzas que se otorguen
 en su favor para garantizar obligaciones fiscales
+
 a cargo de terceros, caso en que se estará
 exclusivamente a lo dispuesto por el Código;
 Fracción adicionada DOF 20-12-2001
@@ -5786,7 +5785,6 @@ u otros que aparezcan en las solicitudes, avisos
 o cédulas de determinación presentados por los
 patrones, para lo cual podrá requerirles la
 presentación de la documentación que proceda.
-
 Asimismo, el Instituto podrá requerir a los
 patrones, responsables solidarios o terceros con
 ellos relacionados, sin que medie visita
@@ -5807,6 +5805,7 @@ Aprobar las normas y bases para cancelar
 adeudos a cargo de terceros y a favor del
 Instituto, cuando fuere notoria la imposibilidad
 práctica de su cobro o la incosteabilidad del
+
 mismo. La cancelación de estos créditos no
 libera al deudor de su obligación de pago;
 Fracción adicionada DOF 20-12-2001
@@ -5817,7 +5816,6 @@ con el cumplimiento de sus objetivos y la
 atención de derechohabientes, bajo el principio
 de reciprocidad, con las restricciones pactadas
 en los convenios que al efecto se suscriban, los
-
 cuales invariablemente tendrán una cláusula de
 confidencialidad y no difusión;
 Fracción adicionada DOF 20-12-2001
@@ -5841,6 +5839,7 @@ con
 las
 disposiciones aplicables, de créditos fiscales a
 favor del Instituto y a cargo de patrones no
+
 localizados o insolventes de acuerdo a los
 montos autorizados por el Consejo Técnico del
 Instituto;
@@ -5855,7 +5854,6 @@ al
 procedimiento
 administrativo de ejecución;
 Fracción adicionada DOF 20-12-2001
-
 XXXV. Declarar la prescripción de la obligación
 patronal de enterar las cuotas obrero patronales
 y los capitales constitutivos, cuando lo soliciten
@@ -5879,6 +5877,7 @@ Fracción adicionada DOF 20-12-2001. Reformada DOF
 23-04-2024
 XXXVII. Promover la incorporación, uso y
 aprovechamiento de las Tecnologías de la
+
 Información y de las Comunicaciones en la
 prestación de los servicios y el otorgamiento de
 seguros y prestaciones a su cargo, en beneficio
@@ -5889,7 +5888,6 @@ reglamentos y cualesquiera otra disposición
 aplicable.
 Fracción adicionada DOF 20-12-2001. Recorrida DOF
 23-04-2024
-
 Artículo 251 A. El Instituto, a fin de lograr una
 mayor eficiencia en la administración del Seguro
 Social y en el despacho de los asuntos de su
@@ -5908,6 +5906,7 @@ El Instituto tendrá acceso a toda clase de material
 estadístico, censal y fiscal y, en general, a obtener de
 las oficinas públicas cualquier dato o informe que se
 considere necesario, de no existir prohibición legal.
+
 Artículo 253. Constituyen el patrimonio del Instituto:
 I.
 
@@ -5947,6 +5946,7 @@ V. Los intereses, dividendos, realización de activos,
 alquileres, rentas, rendimientos, utilidades, frutos
 y productos de cualquier clase, que generen los
 bienes y derechos afectos a su patrimonio, y
+
 VI. Cualesquier otros ingresos que le señalen las
 leyes y reglamentos.
 Todos los bienes inmuebles que formen parte del
@@ -5956,7 +5956,6 @@ se refiere el artículo 4o. de esta Ley y tendrán el
 carácter de bienes del dominio público de la
 Federación.
 Artículo reformado DOF 20-12-2001
-
 Artículo 254. El Instituto Mexicano del Seguro
 Social, sus dependencias y servicios, no serán
 sujetos de contribuciones federales, estatales y
@@ -5977,8 +5976,20 @@ pavimentos, atarjeas y limpia, así como por el agua
 potable de que dispongan, en las mismas condiciones
 en que deben pagar los demás causantes. Igualmente
 estarán sujetos a los derechos de carácter federal
-correspondientes a la prestación de servicios
+
+correspondientes
 públicos.
+
+a
+
+la
+
+prestación
+
+de
+
+servicios
+
 Artículo 255. El Instituto Mexicano del Seguro
 Social se considera de acreditada solvencia y no
 estará obligado, por tanto, a constituir depósitos o
@@ -5986,7 +5997,6 @@ fianzas legales, ni aun tratándose del juicio de
 amparo. Los bienes del Instituto afectos a la
 prestación directa de sus servicios serán
 inembargables.
-
 Artículo 256. Las relaciones entre el Instituto y sus
 trabajadores se regirán por lo dispuesto en el
 Apartado A del artículo 123 constitucional, la Ley
@@ -6003,6 +6013,7 @@ I. La Asamblea General;
 II. El Consejo Técnico;
 III. La Comisión de Vigilancia, y
 IV. La Dirección General.
+
 CAPITULO II
 DE LA ASAMBLEA GENERAL
 Artículo 258. La autoridad suprema del Instituto es
@@ -6010,7 +6021,6 @@ la Asamblea General, integrada por treinta miembros
 que serán designados en la forma siguiente:
 I. Diez por el Ejecutivo Federal;
 II. Diez por las organizaciones patronales, y
-
 III. Diez por las organizaciones de trabajadores.
 Dichos miembros durarán en su encargo seis años,
 pudiendo ser reelectos.
@@ -6027,6 +6037,7 @@ necesario, de acuerdo con lo que disponga el
 reglamento relativo.
 Artículo 261. La Asamblea General discutirá
 anualmente, para su aprobación o modificación, en su
+
 caso, el estado de ingresos y gastos, el balance
 contable, el informe financiero y actuarial, el informe
 de actividades presentado por el Director General, el
@@ -6037,7 +6048,6 @@ Artículo 262. La suficiencia de los recursos para
 todos y cada uno de los seguros de riesgos de
 trabajo, enfermedades y maternidad, invalidez y vida
 y guarderías y prestaciones sociales así como de
-
 salud para la familia y adicionales, debe ser
 examinada anualmente al realizar el informe
 financiero y actuarial.
@@ -6056,6 +6066,7 @@ gobierno, representante legal y el administrador del
 Instituto y estará integrado hasta por doce miembros,
 correspondiendo designar cuatro de ellos a los
 representantes patronales en la Asamblea General,
+
 cuatro a los representantes de los trabajadores y
 cuatro a los representantes del Estado, con sus
 respectivos suplentes y el Ejecutivo Federal cuando lo
@@ -6065,7 +6076,6 @@ El Secretario de Hacienda y Crédito Público, el
 Secretario de Salud, el Secretario del Trabajo y
 Previsión Social y el Director General, serán
 Consejeros del Estado, sin perjuicio de lo establecido
-
 por el párrafo anterior. El Director General presidirá
 siempre el Consejo Técnico.
 Párrafo reformado DOF 20-12-2001
@@ -6085,6 +6095,7 @@ corresponde a la Asamblea General, la que resolverá
 lo conducente en los términos del reglamento,
 mediante procedimientos en que se oiga en defensa
 al Consejero cuya remoción se solicite.
+
 Los Consejeros representantes patronales y de los
 trabajadores,
 recibirán
@@ -6097,7 +6108,6 @@ General, sin que ello les otorgue el carácter de
 trabajadores, asegurados, derechohabientes del
 Instituto ni algún otro derecho adicional.
 Párrafo adicionado DOF 20-12-2001
-
 Los integrantes del Consejo Técnico deberán
 abstenerse de promover o participar directa o
 indirectamente, a título personal, en la atención de
@@ -6118,6 +6128,7 @@ futuro en el Instituto.
 Párrafo adicionado DOF 20-12-2001
 Artículo 264. El Consejo Técnico tendrá las
 atribuciones siguientes;
+
 I.
 
 Decidir sobre las inversiones de las reservas y
@@ -6129,7 +6140,6 @@ edad avanzada y vejez;
 II. Vigilar y promover el equilibrio financiero de
 todos los ramos de aseguramiento comprendidos
 en esta Ley;
-
 III. Resolver sobre las operaciones del Instituto,
 exceptuando aquellas que por su importancia
 ameriten acuerdo expreso de la Asamblea
@@ -6150,6 +6160,7 @@ perjuicio de los derechos de los trabajadores de
 base, conforme a un sistema de valuación de
 puestos;
 Fracción reformada DOF 20-12-2001
+
 V. Convocar a Asamblea General ordinaria o
 extraordinaria;
 VI. Discutir y aprobar el proyecto de presupuesto de
@@ -6157,7 +6168,6 @@ ingresos y egresos del Instituto que someta a su
 consideración el Director General, así como
 autorizar adecuaciones al presupuesto aprobado;
 Fracción reformada DOF 20-12-2001
-
 VII. Autorizar la celebración de convenios relativos
 al pago de cuotas, pudiendo delegar esta
 facultad, a las unidades administrativas que
@@ -6177,6 +6187,7 @@ confianza a que se refiere el artículo 256 de esta
 Ley, que ocupen el nivel jerárquico inmediato
 inferior al Director General del Instituto;
 Fracción reformada DOF 20-12-2001
+
 X. Aprobar las bases para la celebración de
 convenios de incorporación voluntaria al régimen
 obligatorio;
@@ -6184,7 +6195,6 @@ XI. Discutir, y en su caso, aprobar el programa de
 actividades que someta a su consideración el
 Director General;
 Fracción reformada DOF 20-12-2001
-
 XII. Aprobar las bases para el establecimiento,
 organización y funcionamiento de un sistema de
 profesionalización
@@ -6210,6 +6220,7 @@ por esta Ley, cuando no esté plenamente
 cumplido algún requisito legal y el otorgamiento
 del beneficio sea evidentemente justo o
 equitativo;
+
 XIV. Conocer y resolver de oficio o a petición del
 Director General, aquellos asuntos que por su
 importancia, trascendencia o características
@@ -6217,7 +6228,6 @@ especiales así lo ameriten;
 Fracción reformada DOF 20-12-2001
 XV. Establecer las condiciones de aseguramiento y
 cotización de aquellos grupos de trabajadores
-
 que por sus actividades profesionales, la
 naturaleza de su trabajo, sus especiales
 condiciones de tiempo y lugar o por la índole de
@@ -6240,6 +6250,7 @@ fuera del país en planteles educativos
 equiparables a los del sistema educativo
 nacional, y
 Fracción reformada DOF 20-12-2001
+
 XVII. Las demás que señalen esta Ley y sus
 reglamentos.
 Fracción reformada DOF 20-12-2001
@@ -6249,7 +6260,6 @@ XVIII.
 Fracción derogada DOF 20-12-2001
 
 XIX. (Se deroga).
-
 Fracción derogada DOF 20-12-2001
 CAPITULO IV
 DE LA COMISION DE VIGILANCIA
@@ -6271,13 +6281,13 @@ sector que hubiese propuesto al representante de que
 se trate o porque medien causas justificadas para
 ello. En todo caso, el acuerdo definitivo corresponde a
 la Asamblea General, la que resolverá lo conducente
+
 mediante procedimiento en que oiga en defensa al
 miembro cuya remoción se solicite, en términos de lo
 señalado en el Reglamento Interior.
 Artículo reformado DOF 20-12-2001, 09-04-2012
 Artículo 266. La Comisión de Vigilancia tendrá las
 atribuciones siguientes:
-
 I.
 
 Vigilar que las inversiones se hagan de acuerdo
@@ -6302,13 +6312,13 @@ financieros presentados por el Consejo Técnico,
 para cuyo efecto éstos le serán dados a conocer
 con la debida oportunidad;
 Fracción reformada DOF 20-12-2001
+
 V. En casos graves y bajo su responsabilidad, citar
 a Asamblea General Extraordinaria, y
 Fracción reformada DOF 20-12-2001
 VI. Las demás que señalen las disposiciones de
 esta Ley y sus reglamentos.
 Fracción adicionada DOF 20-12-2001
-
 CAPITULO V
 DE LA DIRECCION GENERAL
 Artículo 267.- El Director General será nombrado
@@ -6330,6 +6340,7 @@ facultades que corresponden a los mandatarios
 generales para pleitos y cobranzas, actos de
 administración y de dominio, y las especiales que
 requieran cláusula especial conforme al Código
+
 Civil Federal o cualesquiera otra ley, así como
 ante todas las autoridades.
 Fracción reformada DOF 20-12-2001
@@ -6337,7 +6348,6 @@ IV. Presentar anualmente al Consejo el informe de
 actividades, así como el programa de labores y
 el presupuesto de ingresos y egresos para el
 siguiente período;
-
 V. Presentar anualmente al Consejo Técnico el
 balance contable y el estado de ingresos y
 gastos;
@@ -6357,13 +6367,13 @@ geográfica.
 En cualquier caso los trabajadores de confianza
 a que se refiere esta fracción y la anterior
 deberán contar con la capacidad, experiencia y
+
 demás requisitos que se determinen en el
 Estatuto a que se refiere el artículo 286 I de esta
 Ley;
 Fracción reformada DOF 20-12-2001
 IX. Realizar toda clase de actos jurídicos necesarios
 para cumplir con los fines del Instituto, y
-
 X. Ejercer las funciones en materia de presupuesto,
 conforme a lo dispuesto en esta Ley;
 Fracción reformada DOF 20-12-2001
@@ -6383,6 +6393,7 @@ Técnico, expida el Ejecutivo Federal considerando lo
 que al efecto se estipule en el contrato colectivo de
 trabajo suscrito con los trabajadores del Instituto.
 Artículo adicionado DOF 20-12-2001
+
 Artículo 269. El Director General tendrá derecho de
 veto sobre las resoluciones del Consejo Técnico, en
 los casos que fije el reglamento. El efecto del veto
@@ -6390,7 +6401,6 @@ será suspender la aplicación de la resolución del
 Consejo, hasta que resuelva en definitiva la Asamblea
 General.
 CAPÍTULO VI
-
 DEL INSTITUTO MEXICANO DEL SEGURO
 SOCIAL COMO ORGANISMO FISCAL AUTÓNOMO
 Denominación del Capítulo reformada DOF 20-12-2001
@@ -6413,6 +6423,7 @@ establecidos en esta Ley, aplicando al efecto lo
 dispuesto en la misma y en lo no previsto
 expresamente en ella, el Código, contando respecto
 de ambas disposiciones con todas las facultades que
+
 ese Código confiere a las autoridades fiscales en él
 previstas, las que serán ejercidas de manera ejecutiva
 por el Instituto, sin la participación de ninguna otra
@@ -6420,7 +6431,6 @@ autoridad fiscal.
 Artículo reformado DOF 20-12-2001
 Artículo 272. El Instituto, en materia de
 presupuesto, gasto y su contabilidad, se regirá por lo
-
 dispuesto en esta Ley y, en lo no previsto
 expresamente en ella, aplicará la Ley Federal de
 Presupuesto y Responsabilidad Hacendaria y
@@ -6447,6 +6457,7 @@ Federal
 y
 demás
 ordenamientos legales aplicables, sin perjuicio de las
+
 facultades que corresponden a la Auditoría Superior
 de la Federación.
 Párrafo reformado DOF 16-01-2009
@@ -6454,7 +6465,6 @@ El Instituto deberá formular su proyecto de
 presupuesto y ejercer el gasto correspondiente, con
 estricto respeto a los criterios de disciplina,
 productividad, ahorro, austeridad, eficacia, eficiencia,
-
 desregulación presupuestaria y transparencia,
 debiendo aplicarlos en forma tal que no afecte la
 atención a sus derechohabientes. El Instituto planeará
@@ -6477,6 +6487,7 @@ Artículo reformado DOF 20-12-2001
 Artículo 273. El Instituto deberá presentar al
 Ejecutivo Federal, por conducto de la Secretaría de
 Hacienda y Crédito Público, y al Congreso de la
+
 Unión, a más tardar el 30 de junio de cada año, un
 informe dictaminado por auditor externo, que incluya,
 al menos, los siguientes elementos:
@@ -6486,10 +6497,10 @@ La situación financiera de cada uno de los
 seguros ofrecidos por el Instituto, y actuarial de
 sus reservas, aportando elementos de juicio para
 evaluar si las primas correspondientes son
-
 suficientes para cubrir los gastos actuales y
 futuros de los beneficios derivados de cada
 seguro;
+
 II. Los posibles riesgos, contingencias y pasivos
 que se están tomando en cada seguro y la
 capacidad financiera del Instituto para responder
@@ -6506,6 +6517,7 @@ requeridas, y
 IV. La situación de sus pasivos laborales totales y de
 cualquier otra índole que comprometan su gasto
 por más de un ejercicio fiscal.
+
 Para los propósitos anteriores el Instituto informará
 sobre las tendencias demográficas de su población
 beneficiaria, incluyendo modificaciones en la
@@ -6515,7 +6527,6 @@ género de la fuerza laboral, entre otros factores. La
 estimación de riesgos, a su vez, considerará factores
 derivados del ciclo económico, de la evolución del
 costo de los tratamientos y medicamentos, los costos
-
 laborales, de la situación macroeconómica, así como
 cualquier otro factor que afecte la capacidad del
 Instituto para cumplir con sus compromisos. En todos
@@ -6537,6 +6548,7 @@ Mexicanos, el Ejecutivo Federal remita al Congreso
 de la Unión la iniciativa de Ley de Ingresos y el
 Proyecto de Presupuesto de Egresos de la
 Federación, el Director General propondrá al Consejo
+
 Técnico el anteproyecto de presupuesto de ingresos y
 egresos del Instituto, que incluya los gastos de
 operación y el flujo de efectivo, tomando en cuenta los
@@ -6545,7 +6557,6 @@ Gobierno Federal, así como la evolución de los
 ingresos de éste y lineamientos del control del gasto.
 El Consejo Técnico discutirá y aprobará dicho
 anteproyecto de presupuesto que será remitido a la
-
 Secretaría de Hacienda y Crédito Público para los
 efectos del artículo 276 de esta Ley.
 El Consejo Técnico aprobará, en cualquier etapa del
@@ -6566,6 +6577,7 @@ Artículo 275. El anteproyecto de presupuesto al que
 se refiere el artículo anterior deberá contener un
 reporte de la Dirección General que incluya, al menos,
 la siguiente información:
+
 I.
 
 El análisis del impacto que el presupuesto que se
@@ -6576,7 +6588,6 @@ II. El presupuesto asignado por programas,
 señalando prioridades, objetivos, metas y
 unidades responsables de su ejercicio, así como
 su valuación estimada por programa, y los
-
 mecanismos e indicadores de evaluación para
 cada programa;
 III. El señalamiento expreso de los programas que
@@ -6606,13 +6617,13 @@ cualesquiera otros.
 V. Gastos totales y por capítulo de gasto,
 expresados como devengados y en flujo de
 efectivo;
+
 VI. Excedentes de operación;
 VII. Excedentes de flujo de efectivo, antes y después
 de la creación, incremento o decremento del
 Fondo para el Cumplimiento de Obligaciones
 Laborales de Carácter Legal y Contractual
 señalado en el artículo 286 K;
-
 VIII. Montos en que se proponga incrementar,
 decrementar o, en su caso, reconstituir las
 Reservas Financieras y Actuariales y la Reserva
@@ -6635,6 +6646,7 @@ totales,
 detallando
 obligaciones legales y contractuales, y el efecto
 que sobre dichos pasivos tendría la creación de
+
 nuevas plazas de personal en el ejercicio y en un
 plazo de veintiocho años;
 XII. Programa de Inversiones Físicas, indicando las
@@ -6642,7 +6654,6 @@ principales obras y equipamiento. El Programa
 deberá especificarse por seguro y deberá incluir
 el análisis de los pasivos y gastos operativos de
 todo tipo generados por la inversión;
-
 XIII. Presupuesto de las áreas de administración
 central del Instituto, y
 XIV. Las demás que considere convenientes el
@@ -6664,6 +6675,7 @@ dicha Secretaría deberá tomar en cuenta el informe a
 que hace referencia el artículo 273 de la Ley.
 Aprobados estos montos, el Instituto realizará las
 modificaciones relativas a efecto de que sea
+
 oportunamente remitido a la Secretaría para que ésta
 lo incluya en la Iniciativa de Ley de Ingresos y en el
 Proyecto de Presupuesto de Egresos de la
@@ -6671,7 +6683,6 @@ Federación que se sometan a la aprobación del
 Congreso de la Unión.
 La Cámara de Diputados al aprobar el Presupuesto
 de Egresos de la Federación, deberá considerar el
-
 informe y el reporte a que hacen referencia los
 artículos 273 y 275 de esta Ley.
 El Consejo Técnico y el Director General, serán
@@ -6693,6 +6704,7 @@ del ejercicio anual, y se hubiese cumplido con la meta
 trimestral de incremento o reconstitución de las
 reservas y fondos en los términos del artículo 276 de
 esta Ley, el Instituto podrá disponer de ellos para
+
 aplicarlos en el trimestre siguiente al fortalecimiento
 de su Reserva de Operación para Contingencias y
 Financiamiento, y con el acuerdo expreso del Consejo
@@ -6700,7 +6712,6 @@ Técnico, a sus programas prioritarios.
 Artículo reformado DOF 20-12-2001
 Artículo 277 A. En el evento de que, en el resto del
 ejercicio se prevea que se va a requerir de los
-
 recursos considerados excedentes en algún trimestre
 anterior, para financiar la operación del Instituto
 conforme al presupuesto aprobado o que se prevea
@@ -6723,6 +6734,7 @@ Si habiéndose hecho uso de la Reserva indicada en
 el párrafo anterior, el ajuste al presupuesto de
 egresos necesario para cumplir con las metas de
 reservas y fondos establecidos afecta sensiblemente
+
 los programas de operación del Instituto, éste podrá,
 previa autorización del Ejecutivo Federal, por
 conducto de la Secretaría de Hacienda y Crédito
@@ -6730,7 +6742,6 @@ Público, disminuir los montos de reservas o fondos a
 incrementar.
 La Secretaría de la Función Pública vigilará el
 estricto y oportuno cumplimiento de esta disposición.
-
 Párrafo reformado DOF 16-01-2009
 Artículo adicionado DOF 20-12-2001
 Artículo 277 B. El Instituto no está autorizado a
@@ -6751,6 +6762,7 @@ de las operaciones a que se refiere el párrafo anterior.
 Al efecto, el Instituto enviará, al Congreso de la Unión
 y al Ejecutivo Federal, por conducto de la citada
 Dependencia, en el mes de enero de cada año, un
+
 informe de las características, términos y condiciones
 en que realizará dichas operaciones financieras.
 Artículo adicionado DOF 20-12-2001
@@ -6758,7 +6770,6 @@ Artículo 277 C. El Instituto no estará obligado a
 concentrar en la Tesorería de la Federación sus
 ingresos, con excepción de los remanentes de
 subsidios y transferencias de programas de
-
 solidaridad social y otros financiados directamente por
 el Gobierno Federal.
 Si al finalizar el ejercicio fiscal, existiera saldo
@@ -6781,6 +6792,7 @@ competentes, sujetándose, en el caso de estos
 últimos, a los controles e informes respectivos de
 conformidad con la legislación aplicable.
 Artículo adicionado DOF 20-12-2001
+
 Artículo 277 D. El Consejo Técnico, sujeto a las
 previsiones presupuestarias, aprobará los sueldos y
 prestaciones de los trabajadores de confianza a que
@@ -6788,7 +6800,6 @@ se refiere el artículo 256 de esta Ley, y la contratación
 de servicios profesionales por honorarios, que
 resulten estrictamente necesarios, conforme a las
 bases de observancia obligatoria que el mismo emita.
-
 Los sueldos a que se refiere el párrafo anterior se
 determinarán considerando los tabuladores que para
 las dependencias y entidades del sector público
@@ -6810,6 +6821,7 @@ productividad, eficiencia y calidad de servicio, así
 como al aumento de la recaudación, siempre y
 cuando cuente con los recursos aprobados en su
 respectivo presupuesto para dicha creación,
+
 sustitución o contratación de plazas, y aquellos
 indispensables para cubrir el costo anual de sus
 repercusiones. Independientemente de lo anterior,
@@ -6817,7 +6829,6 @@ para crear, sustituir o contratar plazas, se deberán
 depositar en el Fondo a que se refiere el artículo 286
 K de esta Ley, los recursos necesarios para cubrir los
 costos futuros derivados del Régimen de Jubilaciones
-
 y Pensiones, a fin de que en todo momento, se
 encuentre plenamente financiado.
 Párrafo reformado DOF 11-08-2004
@@ -6841,12 +6852,12 @@ registrarán contablemente por separado. Los gastos
 indirectos comunes se sujetarán a las reglas de
 carácter general para la distribución de costos, al
 catálogo de cuentas y al manual de contabilización y
+
 del ejercicio del gasto que al efecto emita el Consejo
 Técnico a propuesta del Director General, quien
 deberá contar con la opinión previa de la Secretaría
 de Hacienda y Crédito Público.
 Párrafo reformado DOF 16-01-2009
-
 El catálogo de cuentas y el manual de
 contabilización y del ejercicio del gasto deberán tomar
 como base los equivalentes que al efecto se
@@ -6868,12 +6879,12 @@ I. Justifiquen que su celebración representa ventajas
 económicas o que sus términos o condiciones son
 más favorables, considerando en su caso, la
 vigencia de las patentes de los bienes a adquirir;
+
 II. Justifiquen el plazo de la contratación y que el
 mismo no afectará negativamente la competencia
 económica en el sector de que se trate;
 III. Identifiquen el gasto corriente o de inversión
 correspondiente, y
-
 IV. Desglosen el gasto a precios del año tanto
 para el ejercicio fiscal correspondiente, como para
 los subsecuentes.
@@ -6895,13 +6906,13 @@ de vigencia, éstos deberán ser suscritos, de forma
 indelegable, por el Director General del Instituto.
 El Instituto deberá informar a la Secretaría de la
 Función Pública sobre la celebración de los contratos
+
 a que se refiere este artículo, dentro de los 30 días
 posteriores a su formalización.
 Artículo adicionado DOF 20-12-2001. Reformado DOF
 16-01-2009
 Artículo 277 G. El Instituto aplicará las Leyes de
 Obras Públicas y Servicios Relacionados con las
-
 Mismas y de Adquisiciones, Arrendamientos y
 Servicios del Sector Público, en los mismos términos
 y condiciones que las demás entidades de la
@@ -6925,12 +6936,12 @@ constitución o incremento de reservas que de
 conformidad con la presente Ley, fije anualmente al
 Instituto la Cámara de Diputados.
 Artículo adicionado DOF 20-12-2001
+
 CAPÍTULO VII
 DE LA CONSTITUCIÓN DE RESERVAS
 Denominación del Capítulo reformada DOF 20-12-2001
 SECCIÓN PRIMERA
 GENERALIDADES
-
 Sección adicionada DOF 20-12-2001
 Artículo 278. El Instituto para garantizar el debido y
 oportuno cumplimiento de las obligaciones que
@@ -6953,6 +6964,7 @@ su incremento o reconstitución deberán hacerse
 trimestral o anualmente, según corresponda, y
 establecerse en definitiva al cierre de cada ejercicio.
 Artículo reformado DOF 20-12-2001
+
 Artículo 280. El Instituto constituirá las siguientes
 reservas conforme a lo que se establece en este
 Capítulo:
@@ -6978,12 +6990,12 @@ II. Gastos Médicos para Pensionados;
 III. Invalidez y Vida;
 IV. Riesgos de Trabajo;
 V. Guarderías y Prestaciones Sociales;
+
 VI. Seguro de Salud para la Familia, y
 VII. Para otros seguros o coberturas, que en su
 caso, se establezcan con base en esta Ley.
 Las Reservas Operativas recibirán la totalidad de los
 ingresos por cuotas obrero patronales y aportaciones
-
 federales, así como por las cuotas y contribuciones de
 los seguros voluntarios y otros que se establezcan,
 salvo lo dispuesto en la fracción VI del artículo 15 de
@@ -7007,12 +7019,12 @@ sesenta días de ingreso promedio global del año
 anterior del Instituto, con el objetivo de proveer
 estabilidad y certidumbre a la operación cotidiana del
 propio Instituto y facilitar la planeación de mediano
+
 plazo de las operaciones de los distintos seguros que
 se establecen en esta Ley.
 A dicha Reserva podrán afectarse además de los
 ingresos ordinarios, los recursos que de manera
 extraordinaria obtenga el Instituto, caso en que podrá
-
 exceder el límite señalado en el párrafo anterior hasta
 por el total de estas afectaciones extraordinarias.
 El Instituto podrá disponer, previa autorización del
@@ -7037,13 +7049,13 @@ que consideren las estimaciones de sustentabilidad
 financiera de largo plazo contenidas en el informe
 financiero y actuarial a que se refiere el artículo 261
 de la Ley. Cada una de esas reservas podrá ser
+
 dividida y manejada conforme a la naturaleza de los
 riesgos que afecten a cada seguro y coberturas. Esta
 separación buscará el mejor equilibrio entre las
 fuentes y características del riesgo y los recursos
 necesarios para su financiamiento.
 Artículo reformado DOF 20-12-2001
-
 Artículo 285. La Reserva General Financiera y
 Actuarial deberá constituirse, incrementarse o
 reconstituirse a través de una aportación anual a
@@ -7072,12 +7084,12 @@ bienes del dominio público de la Federación.
 Artículo reformado DOF 20-12-2001
 Artículo 286. El Instituto deberá constituir la
 Reserva de Operación para Contingencias y
+
 Financiamiento a que se refiere este Capítulo en la
 forma, términos y plazos que, a propuesta del Director
 General, emita el Consejo Técnico y que deberán
 considerarse en el programa anual a que se refiere la
 Sección Tercera de este Capítulo.
-
 Las Reservas Financieras y Actuariales y la Reserva
 General Financiera y Actuarial, se constituirán en la
 forma, términos y plazos que se establezcan en el
@@ -7103,13 +7115,13 @@ los términos del Reglamento a que hace mención el
 artículo anterior, y sólo para enfrentar caídas en los
 ingresos o incrementos en los egresos derivados de
 problemas económicos de duración mayor a un año,
+
 así como para enfrentar fluctuaciones en la
 siniestralidad mayores a las estimadas en el estudio
 actuarial a que se refiere el artículo 261 de la Ley o
 para el pago de beneficios futuros para los que se
 hubiera efectuado la provisión correspondiente.
 Artículo adicionado DOF 20-12-2001
-
 SECCIÓN TERCERA
 DEL PROGRAMA ANUAL DE ADMINISTRACIÓN Y
 CONSTITUCIÓN DE RESERVAS
@@ -7140,7 +7152,6 @@ III. Los montos trimestrales y anuales que se
 dedicarán a incrementar o reconstituir cada una
 de las reservas en el siguiente ejercicio fiscal;
 proyección de las tasas de interés que generarán
-
 dichas reservas y montos esperados de las
 mismas al final del ejercicio, y
 IV. Los recursos anuales que en forma trimestral
@@ -7162,6 +7173,7 @@ señalado en el segundo párrafo del artículo 278 de
 esta Ley.
 Artículo adicionado DOF 20-12-2001
 SECCIÓN CUARTA
+
 DE LA INVERSIÓN DE LAS RESERVAS Y DE SU
 USO PARA LA OPERACIÓN
 Sección adicionada DOF 20-12-2001
@@ -7169,7 +7181,6 @@ Artículo 286 C. El Instituto deberá contar con una
 unidad administrativa que de manera especializada se
 encargará de la inversión de los recursos del Instituto
 y los mecanismos que deberá utilizar para ello, bajo
-
 criterios de prudencia, seguridad, rendimiento,
 liquidez, diversificación de riesgo, transparencia y
 respeto a las sanas prácticas y usos del medio
@@ -7191,6 +7202,7 @@ Artículo adicionado DOF 20-12-2001
 Artículo 286 D. Las Reservas Operativas y la
 Reserva de Operación para Contingencias y
 Financiamiento, deberán invertirse en valores
+
 emitidos o garantizados por el Gobierno Federal, en
 valores de alta calidad crediticia conforme a
 calificadores de prestigio internacional o en depósitos
@@ -7199,7 +7211,6 @@ efectivo, en instituciones de crédito y fondos de
 inversión, a efecto de disponer oportunamente de las
 cantidades necesarias para hacer frente a sus
 obligaciones del ejercicio.
-
 Artículo adicionado DOF 20-12-2001
 Artículo 286 E. Las inversiones de las Reservas
 Financieras y Actuariales y la Reserva General
@@ -7221,6 +7232,7 @@ reserva deberán aplicarse exclusivamente a la
 reserva que les dé origen.
 Artículo adicionado DOF 20-12-2001
 CAPÍTULO VIII
+
 DEL SISTEMA DE PROFESIONALIZACIÓN Y
 DESARROLLO
 Capítulo adicionado DOF 20-12-2001
@@ -7228,7 +7240,6 @@ Artículo 286 F. Lo dispuesto en este Capítulo sólo
 será aplicable a los trabajadores de confianza a que
 se refiere el artículo 256 de esta Ley.
 Artículo adicionado DOF 20-12-2001
-
 Artículo 286 G. Con el fin de contar con un cuerpo
 permanente
 de
@@ -7254,6 +7265,7 @@ Consejo Técnico, los cuales se sujetarán a los límites
 establecidos anualmente en el Presupuesto de
 Egresos de la Federación.
 Artículo adicionado DOF 20-12-2001
+
 Artículo 286 H. Los nombramientos del personal a
 que se refiere este Capítulo, correspondiente a los
 dos niveles jerárquicos inferiores al Director General y
@@ -7261,7 +7273,6 @@ los que representen al Instituto en la circunscripción
 territorial que se establezca en el reglamento
 respectivo, deberán recaer en personas que reúnan
 los siguientes requisitos:
-
 I.
 
 Ser de reconocida honorabilidad y calidad moral;
@@ -7285,13 +7296,13 @@ prestaciones y estímulos en favor de los trabajadores
 de confianza a que se refiere el artículo 256 de esta
 Ley, con el fin de mantener su competitividad en el
 mercado laboral.
+
 El régimen específico, los procesos y demás
 características del Sistema de profesionalización y
 desarrollo del personal a que se refiere este Capítulo,
 quedarán establecidos en el Estatuto que al efecto
 apruebe el Consejo Técnico.
 Artículo adicionado DOF 20-12-2001
-
 Artículo 286 J. El sistema de profesionalización y
 desarrollo comprendido en el Estatuto a que se refiere
 el artículo anterior se regirá por los siguientes
@@ -7318,12 +7329,12 @@ servidores públicos de mando y trabajadores;
 IV. Capacitación y desarrollo integral relacionados
 con las actividades sustantivas del Instituto y
 vinculados a la mejora de los servicios que se
+
 presten, a fin de garantizar la eficiencia en la
 prestación de los servicios, y
 V. Integridad, responsabilidad y conducta adecuada
 de este personal.
 Artículo adicionado DOF 20-12-2001
-
 Artículo 286 K. El Instituto administrará y manejará,
 conforme a los lineamientos que al efecto emita el
 Consejo Técnico, un fondo que se denominará Fondo
@@ -7347,6 +7358,7 @@ y cuenta especial sólo podrán disponerse para los
 fines establecidos en este artículo.
 El Instituto, en su carácter de patrón, no podrá
 destinar a este Fondo, para el financiamiento de la
+
 cuenta especial del Régimen de Jubilaciones y
 Pensiones, recursos provenientes de las cuotas a
 cargo de los patrones y trabajadores establecidos en
@@ -7354,7 +7366,6 @@ la Ley del Seguro Social. Tampoco podrá destinar
 recursos para dicho fin, de las contribuciones, cuotas
 y aportaciones, que conforme a la Ley del Seguro
 Social, son a cargo del Gobierno Federal; ni de las
-
 Reservas a que se refiere el artículo 280 de esta Ley
 o de los productos financieros que de ellas se
 obtengan.
@@ -7381,12 +7392,12 @@ correspondientes.
 El uso de dichos medios de comunicación, será
 optativo para cualquier interesado, pero al momento
 de hacer uso de los mismos en una promoción deberá
+
 continuar en esta forma la presentación de cualquier
 tipo de documento relacionado con dicha promoción.
 Los documentos presentados por los medios a que
 se refiere este Capítulo producirán los mismos efectos
 legales que los documentos firmados autógrafamente
-
 y, en consecuencia, tendrán el mismo valor probatorio
 que las disposiciones aplicables les otorguen a éstos.
 Asimismo, la clave de identificación personal
@@ -7411,11 +7422,11 @@ solicitar informes o documentación, así como emitir
 resoluciones a través de medios de comunicación
 electrónica, siempre que los particulares manifiesten
 previamente y de manera expresa su conformidad de
+
 recibir las actuaciones mencionadas en esta
 disposición, respecto de cada promoción o solicitud
 que realicen.
 Artículo adicionado DOF 20-12-2001
-
 Artículo 286 N. Cuando los documentos se
 presenten a través de los medios de comunicación a
 que se refiere este Capítulo, se utilicen para efectos
@@ -7439,10 +7450,10 @@ derechohabientes, tienen el carácter de crédito fiscal.
 Artículo reformado DOF 20-12-2001
 Artículo 288. En los casos de concurso u otros
 procedimientos, en los que se discuta la prelación de
+
 créditos, los del Instituto serán preferentes a cualquier
 otro.
 Artículo reformado DOF 20-12-2001
-
 Artículo 289. En el supuesto a que se refiere el
 artículo anterior, los créditos del Instituto se cobrarán
 sólo después de los créditos de alimentos, de salarios
@@ -7470,10 +7481,10 @@ En caso de sustitución de patrón, el sustituido será
 solidariamente responsable con el nuevo de las
 obligaciones derivadas de esta Ley, nacidas antes de
 la fecha en que se avise al Instituto por escrito la
+
 sustitución, hasta por el término de seis meses,
 concluido el cual todas las responsabilidades serán
 atribuibles al nuevo patrón.
-
 El Instituto deberá, al recibir el aviso de sustitución,
 comunicar al patrón sustituto las obligaciones que
 adquiere conforme al párrafo anterior. Igualmente
@@ -7498,10 +7509,10 @@ Artículo 291. El procedimiento administrativo de
 ejecución para el cobro de los créditos a que se
 refiere el artículo 287 de esta Ley, que no hubiesen
 sido cubiertos oportunamente al Instituto, se aplicará
+
 por éste, con sujeción a las normas del Código y
 demás disposiciones aplicables, a través de sus
 unidades administrativas facultadas al efecto.
-
 La enajenación de los bienes que el Instituto se
 adjudique con motivo de la aplicación del
 procedimiento administrativo de ejecución, se
@@ -7528,11 +7539,11 @@ Artículo reformado DOF 20-12-2001
 Artículo 292. En los acuerdos relativos a la
 concesión, al rechazo, o a la modificación de una
 pensión, se expondrán los motivos y preceptos
+
 legales en que se funden y, asimismo, se expresará la
 cuantía de tal prestación, el método de cálculo
 empleado para determinarla, y, en su caso, la fecha a
 partir de la cual tendrá vigencia.
-
 En el oficio en que se comunique el acuerdo relativo,
 se hará saber al interesado el término en que puede
 impugnarlo, mediante el recurso de inconformidad.
@@ -7554,10 +7565,10 @@ II. Si la modificación es en perjuicio del asegurado o
 beneficiario:
 a) Desde la fecha en que se dicte el acuerdo de
 modificación, si el error se debió al Instituto, o a la
+
 Administradora de Fondos para el Retiro, que
 administre la cuenta individual del trabajador o a la
 Aseguradora respectiva.
-
 b) Desde la fecha de la vigencia de la prestación, si
 se comprueba que el interesado proporcionó al
 Instituto informaciones o datos falsos. En este caso se
@@ -7587,11 +7598,11 @@ Artículo 295. Las controversias entre los
 asegurados o sus beneficiarios y el Instituto sobre las
 prestaciones que esta Ley otorga, deberán tramitarse
 ante los Tribunales Federales en materia laboral, en
+
 tanto que las que se presenten entre el Instituto y los
 patrones y demás sujetos obligados, se tramitarán
 ante el Tribunal Federal de Justicia Administrativa.
 Artículo reformado DOF 20-12-2001, 01-05-2019
-
 Artículo 296. Los derechohabientes podrán
 interponer ante el Instituto queja administrativa, la
 cual tendrá la finalidad de conocer las insatisfacciones
@@ -7615,11 +7626,11 @@ cantidad líquida los créditos a su favor se extingue en
 el término de cinco años no sujeto a interrupción,
 contado a partir de la fecha de la presentación por el
 patrón o por cualquier otro sujeto obligado en
+
 términos de esta Ley, del aviso o liquidación o de
 aquella en que el propio Instituto tenga conocimiento
 del hecho generador de la obligación.
 Párrafo reformado DOF 20-12-2001
-
 El plazo de caducidad señalado en este artículo sólo
 se suspenderá cuando se interponga el recurso de
 inconformidad o juicio.
@@ -7643,10 +7654,10 @@ seguro de retiro, cesantía en edad avanzada y vejez;
 por lo que se refiere a estas últimas, se estará a lo
 previsto en las disposiciones legales y reglamentarias
 respectivas. Tratándose de las otras ramas de
+
 aseguramiento, el Instituto podrá descontar el costo
 de las prestaciones que hubiera otorgado.
 Artículo reformado DOF 14-12-2005
-
 Artículo 300. El derecho de los asegurados o sus
 beneficiarios para reclamar el pago de las
 prestaciones en dinero, respecto a los seguros de
@@ -7669,11 +7680,11 @@ otorgamiento de una pensión, ayuda asistencial o
 asignación familiar, siempre y cuando el asegurado
 satisfaga todos y cada uno de los requisitos
 establecidos en la presente Ley para gozar de las
+
 prestaciones correspondientes. En el supuesto de que
 antes de cumplir con los requisitos relativos a número
 de cotizaciones o edad se termine la relación laboral,
 el asegurado no habrá adquirido el derecho a recibir
-
 la pensión; sin perjuicio de lo anterior, para la
 conservación y reconocimiento de sus derechos se
 aplicará lo dispuesto en los artículos 150 o 151 de
@@ -7683,26 +7694,94 @@ pensionado y, en su caso, de sus beneficiarios a
 recibir los recursos de la Subcuenta de Retiro,
 Cesantía en Edad Avanzada y Vejez es
 imprescriptible.
-Sin perjuicio de lo anterior, el Instituto podrá
-disponer de dichos recursos a los diez años de que
-sean exigibles sin necesidad de resolución judicial,
-siempre que constituya una reserva suficiente para
-atender las solicitudes de devolución de los
-trabajadores, pensionados o beneficiarios. Cualquier
-mensualidad de una pensión, asignación familiar o
-ayuda asistencial recibirá el mismo tratamiento, en el
-año calendario en el que sea exigible.
+Sin perjuicio de lo anterior, las administradoras de
+fondos para el retiro, las instituciones que realicen
+funciones similares de naturaleza pública, así como
+las administradoras prestadoras de servicio deberán
+transferir los recursos de las subcuentas señaladas
+en el párrafo anterior al momento en que los
+trabajadores cumplan setenta años, sin necesidad de
+resolución judicial, al Fondo de Pensiones para el
+Bienestar, debiendo notificar de cada traspaso al
+Instituto el mismo día en que se realice. El Instituto
+notificará al fiduciario del Fondo la subcuenta a la que
+deberán aplicarse dichos recursos, en términos de las
+reglas de operación del mismo y demás disposiciones
+aplicables. Lo anterior no será aplicable a los recursos
+de las cuentas individuales de aquellos trabajadores
+que cuenten con una relación laboral activa ante el
+Instituto.
+
+Párrafo reformado DOF 30-04-2024
+El Fondo de Pensiones para el Bienestar contará
+con un Comité Técnico que deberá emitir las reglas
+de operación sobre la recepción, administración,
+inversión, entregas y rendimientos de recursos al
+Instituto.
+Párrafo adicionado DOF 30-04-2024
+El Instituto se coordinará con el Instituto del Fondo
+Nacional de la Vivienda para los Trabajadores y la
+Comisión Nacional del Sistema de Ahorro para el
+Retiro a efecto de emitir, dentro del año previo a que
+el trabajador cumpla setenta años, el aviso a que se
+refiere el artículo 37 de la Ley del Instituto del Fondo
+Nacional de la Vivienda para los Trabajadores.
+Párrafo adicionado DOF 30-04-2024
+Para garantizar la imprescriptibilidad establecida en
+el párrafo primero del presente artículo, el Fondo
+contará con una reserva constituida con cargo a los
+recursos a que se refiere este artículo y en los
+términos que establezca su contrato constitutivo, a fin
+de garantizar la suficiencia financiera para que el
+Instituto pueda llevar a cabo, en su caso, la
+devolución de los recursos de los trabajadores,
+pensionados o beneficiarios.
+Párrafo adicionado DOF 30-04-2024
+La suficiencia financiera de la reserva será
+determinada cada dos años por el Instituto, debiendo
+
+comunicarlo al Comité Técnico conforme a sus reglas
+de operación.
+Párrafo adicionado DOF 30-04-2024
+Los trabajadores y, en su caso, sus beneficiarios
+podrán acudir ante el Instituto para acceder al
+mecanismo de devolución de forma permanente para
+recibir la pensión a que tengan derecho conforme a
+esta Ley o, en su caso, la devolución de los recursos,
+así como los intereses que les correspondan en los
+términos de las disposiciones que resulten aplicables.
+Párrafo adicionado DOF 30-04-2024
+El ahorro de los trabajadores que sea transferido al
+Fondo generará intereses conforme al rendimiento
+neto derivado de las inversiones efectivamente
+realizadas por dicho Fondo en apego al régimen de
+inversión que determine el Comité Técnico. El
+Instituto realizará la individualización correspondiente
+con base en el rendimiento que el propio Fondo le
+reporte.
+Párrafo adicionado DOF 30-04-2024
+Sin perjuicio de lo previsto en el primer párrafo de
+este artículo, el Instituto podrá disponer, sin
+necesidad de resolución judicial, de los recursos
+relacionados con cualquier mensualidad de una
+pensión, asignación familiar o ayuda asistencial, al
+año calendario en el que sea exigible, siempre que
+constituya una reserva suficiente para atender las
+solicitudes de devolución que ante el mismo
+presenten los trabajadores o sus beneficiarios.
+
+Párrafo adicionado DOF 30-04-2024
 La Secretaría de Hacienda y Crédito Público
 aprobará la metodología para determinar el monto de
 la reserva que el Instituto constituirá para atender las
 solicitudes de devolución señaladas en el párrafo
 anterior y el procedimiento que deberá seguir para
 ello.
+Párrafo recorrido y publicado sin cambios DOF 30-042024
 Artículo reformado DOF 16-12-2020
 TÍTULO SEXTO
 DE LAS RESPONSABILIDADES, INFRACCIONES,
 SANCIONES Y DELITOS
-
 Denominación del Título reformada DOF 20-12-2001
 CAPÍTULO I
 DE LAS RESPONSABILIDADES
@@ -7719,6 +7798,7 @@ en la prestación de los servicios y en la atención a los
 derechohabientes y estarán sujetos a las
 responsabilidades civiles o penales en que pudieran
 incurrir como encargados de un servicio público.
+
 Por lo que el Instituto, implementará de forma
 periódica y programada las estrategias de
 capacitación y actualización entre otras: en materia de
@@ -7734,7 +7814,6 @@ previstos en la Ley Federal de Responsabilidades de
 los Servidores Públicos, salvo los que se encuentren
 comprendidos en el artículo 5o. de dicho
 ordenamiento.
-
 Artículo adicionado DOF 20-12-2001
 CAPÍTULO II
 DE LAS INFRACCIONES Y SANCIONES
@@ -7746,6 +7825,7 @@ que establece el artículo 287, serán sancionados con
 multa del cuarenta al cien por ciento del concepto
 omitido.
 Artículo reformado DOF 20-12-2001
+
 Artículo 304 A. Son infracciones a esta Ley y a sus
 reglamentos, los actos u omisiones del patrón o sujeto
 obligado que se enumeran a continuación:
@@ -7767,7 +7847,6 @@ base de cotización de sus trabajadores;
 IV. No determinar o determinar en forma
 extemporánea las cuotas obrero patronales
 legalmente a su cargo;
-
 V. No informar al trabajador o al sindicato de las
 aportaciones realizadas a la cuenta individual del
 seguro de retiro, cesantía en edad avanzada y
@@ -7780,6 +7859,7 @@ aquéllos que por su naturaleza no sean de su
 responsabilidad;
 VII. No llevar los registros de nóminas o listas de
 raya, en los términos que señala la Ley y el
+
 Reglamento para el Pago de Cuotas del Seguro
 Social;
 VIII. No entregar a sus trabajadores la constancia
@@ -7794,7 +7874,6 @@ X. Obstaculizar o impedir, por sí o por interpósita
 persona, las inspecciones o visitas domiciliarias,
 así como el procedimiento administrativo de
 ejecución, que ordene el Instituto;
-
 XI. No cooperar con el Instituto en los términos del
 artículo 83 de la Ley, en la realización de
 estudios e investigaciones para determinar
@@ -7808,8 +7887,18 @@ XII. No dar aviso al Instituto de los riesgos de
 trabajo, ocultar su ocurrencia en las instalaciones
 o fuera de ellas en el desarrollo de sus
 actividades, o no llevar los registros de los
-riesgos de trabajo o no mantenerlos
+
+riesgos de
 actualizados;
+
+trabajo
+
+o
+
+no
+
+mantenerlos
+
 XIII. No conservar los documentos que estén
 siendo revisados durante una visita domiciliaria o
 los bienes muebles en los que se dejen
@@ -7824,18 +7913,12 @@ que la integren, así como en los equipos,
 muebles u oficinas en que se encuentre
 depositada dicha contabilidad y que se le hayan
 dejado en depósito como consecuencia del
-
 aseguramiento
-domiciliaria;
-
 derivado
-
 de
-
 una
-
 visita
-
+domiciliaria;
 XV. No presentar la revisión anual obligatoria de su
 siniestralidad y determinación de la prima del
 seguro de riesgos de trabajo o hacerlo
@@ -7846,6 +7929,7 @@ se impondrá multa a los patrones por la no
 presentación de los formularios de determinación
 de la prima del seguro antes mencionado cuando
 ésta resulte igual a la del ejercicio anterior;
+
 XVI. No dar aviso al Instituto o hacerlo
 extemporáneamente del cambio de domicilio de
 una empresa o establecimiento, cuando se
@@ -7860,7 +7944,6 @@ estallamiento de huelga o terminación de la
 misma; la suspensión; cambio o término de
 actividades; la clausura; el cambio de nombre o
 razón social; la fusión o escisión;
-
 XIX. Omitir o presentar extemporáneamente el
 dictamen por contador público autorizado cuando
 se haya ejercido dicha opción en términos del
@@ -7874,6 +7957,7 @@ datos falsos o incompletos o bien, omitir notificar
 al Instituto en los términos del reglamento
 respectivo, el domicilio de cada una de las obras
 o fase de obra que realicen los patrones que
+
 esporádica o permanentemente se dediquen a la
 industria de la construcción, y
 Fracción reformada DOF 09-07-2009
@@ -7887,7 +7971,6 @@ Artículo 304 B. Las infracciones señaladas en el
 artículo anterior, se sancionarán considerando la
 gravedad, condiciones particulares del infractor y en
 su caso la reincidencia, en la forma siguiente:
-
 I.
 
 Las previstas en las fracciones IV, V, VII, VIII, XI,
@@ -7903,6 +7986,7 @@ III. Las previstas en las fracciones VI, IX y XV con
 multa equivalente al importe de veinte a
 doscientas diez veces el salario mínimo diario
 general vigente en el Distrito Federal, y
+
 IV. Las previstas en las fracciones I, II, XII, XIV,
 XVII, XX y XXI, con multa equivalente al importe
 de veinte a trescientas cincuenta veces el valor
@@ -7917,7 +8001,6 @@ Artículo 304 C. No se impondrán multas cuando se
 cumplan en forma espontánea las obligaciones
 patronales fuera de los plazos señalados por la Ley o
 cuando se haya incurrido en infracción por caso
-
 fortuito o fuerza mayor. Se considerará que el
 cumplimiento no es espontáneo en el caso de que:
 I.
@@ -7934,6 +8017,7 @@ seguridad social, y
 III. La omisión haya sido corregida por el patrón con
 posterioridad a los 15 días siguientes a la
 presentación del dictamen por contador público
+
 autorizado ante el Instituto, respecto de actos u
 omisiones en que hubiere incurrido y que se
 observen en el dictamen.
@@ -7947,7 +8031,6 @@ infracción.
 La solicitud de dejar sin efectos las multas en los
 términos de este artículo, no constituye instancia y las
 resoluciones que dicte el Instituto al respecto no
-
 podrán ser impugnadas por los medios de defensa
 que establece esta Ley.
 La solicitud dará lugar a la suspensión del
@@ -7960,6 +8043,7 @@ Artículo adicionado DOF 20-12-2001
 CAPÍTULO III
 DE LOS DELITOS
 Capítulo adicionado DOF 20-12-2001
+
 Artículo 305. Para proceder penalmente por los
 delitos previstos en este Capítulo, será necesario que
 previamente
@@ -7978,7 +8062,6 @@ cuantificación correspondiente en la propia querella.
 En los delitos a que se refiere este Capítulo, la
 autoridad judicial no impondrá sanción pecuniaria.
 Artículo adicionado DOF 20-12-2001
-
 Artículo 307. Cometen el delito de defraudación a
 los regímenes del seguro social, los patrones o sus
 representantes y demás sujetos obligados que, con
@@ -7993,6 +8076,7 @@ cuotas obrero patronales o definitivos por las cuotas
 obrero patronales o los capitales constitutivos en los
 términos de las disposiciones aplicables.
 Artículo adicionado DOF 20-12-2001
+
 Artículo 308. El delito de defraudación a los
 regímenes del seguro social, se sancionará con las
 siguientes penas:
@@ -8008,7 +8092,6 @@ de lo defraudado exceda de trece mil salarios
 mínimos diarios vigentes en el Distrito Federal,
 pero no de diecinueve mil salarios mínimos
 diarios vigentes en el Distrito Federal, o
-
 III. Con prisión de cinco a nueve años, cuando el
 monto de lo defraudado fuere mayor de
 diecinueve mil salarios mínimos diarios vigentes
@@ -8023,6 +8106,7 @@ los patrones o sus representantes y demás sujetos
 obligados, a sabiendas omitan el entero de las cuotas
 obreras retenidas a los trabajadores en los términos y
 condiciones establecidos en esta Ley.
+
 Cuando el delito sea calificado, la pena que
 corresponda se aumentará en una mitad.
 Artículo adicionado DOF 20-12-2001
@@ -8037,7 +8121,6 @@ por el Instituto;
 II. Manifieste datos falsos para obtener del Instituto
 la devolución de cuotas obrero patronales que no
 le correspondan;
-
 III. Se beneficie sin derecho de un subsidio o
 estímulo fiscal, o
 IV. Simule uno o más actos o contratos obteniendo
@@ -8052,9 +8135,9 @@ No formulen los avisos de inscripción o
 proporcionen al Instituto datos falsos evadiendo
 el pago o reduciendo el importe de las cuotas
 obrero patronales, en perjuicio del Instituto o de
+
 los trabajadores, en un porcentaje de veinticinco
 por ciento o más de la obligación fiscal, o
-
 II. Obtengan un beneficio indebido y no
 comuniquen al Instituto la suspensión o término
 de actividades; clausura; cambio de razón social;
@@ -8068,7 +8151,6 @@ Artículo adicionado DOF 20-12-2001
 Artículo 312. Se impondrá sanción de uno a seis
 años de prisión, al depositario o interventor designado
 por el Instituto que disponga para sí o para otro, del
-
 bien depositado, de sus productos o de las garantías
 que de cualquier crédito fiscal se hubieren constituido,
 si el valor de lo dispuesto no excede de novecientos
@@ -8082,6 +8164,7 @@ Artículo adicionado DOF 20-12-2001
 Artículo 313. Se impondrá sanción de tres meses a
 tres años de prisión, a los patrones o sus
 representantes y demás sujetos obligados que:
+
 I.
 
 Registren sus operaciones contables y fiscales
@@ -8099,7 +8182,6 @@ Artículo 314. Se reputará como fraude y se
 sancionará como tal, en los términos del Código
 Penal Federal, el obtener, así como el propiciar su
 obtención, de los seguros, prestaciones y servicios
-
 que esta Ley establece, sin tener el carácter de
 derechohabiente, mediante cualquier engaño o
 aprovechamiento de error, ya sea en virtud de
@@ -8113,6 +8195,7 @@ mandamiento escrito de autoridad fiscal competente.
 Artículo adicionado DOF 20-12-2001
 Artículo 316. Se sancionará con prisión de uno a
 cinco años al servidor público que amenazare de
+
 cualquier modo a un patrón o cualquier otro sujeto
 obligado, con formular por sí o por medio de la
 dependencia de su adscripción una querella al
@@ -8128,7 +8211,6 @@ aumentará de tres meses a tres años de prisión.
 Artículo adicionado DOF 20-12-2001
 Artículo 318. No se formulará querella, si quien
 hubiere omitido el pago total o parcial de alguna cuota
-
 obrero patronal u obtenido un beneficio indebido, lo
 entera espontáneamente con sus recargos y
 actualización antes de que la autoridad del Instituto
@@ -8143,6 +8225,7 @@ previstos en este Capítulo prescribirá en tres años
 contados a partir del día en que el Instituto tenga
 conocimiento del delito y del probable responsable; y
 si no tiene conocimiento, en cinco años, que se
+
 computará a partir de la fecha de la comisión del
 delito.
 Artículo adicionado DOF 20-12-2001
@@ -8157,7 +8240,6 @@ Diario Oficial de la Federación el día doce de marzo
 de 1973, la Ley que incorpora al Régimen del Seguro
 Social obligatorio a los Productores de Caña de
 Azúcar y a sus trabajadores, publicada el siete de
-
 diciembre de 1963 en dicho órgano oficial, así como
 todas las disposiciones legales que se opongan a la
 presente Ley.
@@ -8177,6 +8259,7 @@ anterioridad a la fecha de entrada en vigor de esta
 Ley, así como sus beneficiarios, al momento de
 cumplirse, en términos de la Ley que se deroga, los
 supuestos legales o el siniestro respectivo para el
+
 disfrute de cualquiera de las pensiones, podrán optar
 por acogerse al beneficio de dicha Ley o al esquema
 de
@@ -8202,7 +8285,6 @@ uno de los regímenes, a efecto de que éste pueda
 decidir lo que a sus intereses convenga.
 QUINTO. Los derechos adquiridos por quienes se
 encuentran en período de conservación de los
-
 mismos, no serán afectados por la entrada en vigor
 de esta Ley y sus titulares accederán a las pensiones
 que les correspondan conforme a la Ley que se
@@ -8217,6 +8299,7 @@ inferior al mínimo, continuará cotizando en los mismos
 términos en que lo viene haciendo, mientras dure la
 relación laboral que origine ese pago. De terminarse
 esa relación e iniciarse otra similar, aun en el
+
 supuesto que el salario percibido fuere inferior al
 mínimo, cotizará en los términos de esta Ley.
 SEPTIMO. Los asegurados a que se refieren los
@@ -8232,7 +8315,6 @@ en un plazo no mayor de un año computado a partir
 de la fecha en que entre en vigor esta Ley, deberán
 ratificar su voluntad de permanecer en el régimen
 obligatorio o continuar incorporados voluntariamente a
-
 dicho régimen a través del convenio que para tal fin
 se formalice con el Instituto, de acuerdo a las bases y
 términos que establece esta Ley.
@@ -8245,6 +8327,7 @@ antes de la entrada en vigor de esta Ley continuarán
 sujetos hasta el primer bimestre de 1998 a las
 mismas cuotas que venían cubriendo en el seguro de
 riegos de trabajo.
+
 A partir del segundo bimestre de 1998, estos
 patrones deberán determinar su prima conforme a su
 siniestralidad registrada del periodo comprendido del
@@ -8260,7 +8343,6 @@ deberá ser revisada por el Instituto al cumplirse un
 año de vigencia de la Ley, para el efecto de
 determinar el factor de prima que permita, en su caso,
 mantener el equilibrio financiero del Seguro de
-
 Riesgos de Trabajo. De requerirse alguna adecuación
 a esta fórmula se llevarán a cabo, por parte del
 Instituto, los trámites administrativos necesarios ante
@@ -8274,6 +8356,7 @@ el siniestro respectivo que, para el disfrute de las
 pensiones de vejez, cesantía en edad avanzada o
 riesgos de trabajo, se encontraban previstos por la
 Ley del Seguro Social que se deroga, podrán optar
+
 por acogerse a los beneficios por ella contemplados o
 a los que establece la presente Ley.
 DUODECIMO. Estarán a cargo del Gobierno Federal
@@ -8289,7 +8372,6 @@ retiro se estará a lo siguiente:
 a) Los sujetos que se encuentren en conservación
 de derechos y que se pensionen bajo el régimen de la
 Ley anterior, recibirán además de la pensión que
-
 corresponda, sus fondos acumulados en la subcuenta
 del seguro de retiro en una sola exhibición.
 b) Los sujetos que lleguen a la edad de pensionarse
@@ -8303,6 +8385,7 @@ acumulados en los ramos de cesantía en edad
 avanzada y vejez serán entregados por las
 Administradoras de Fondos para el Retiro al Gobierno
 Federal.
+
 DECIMO CUARTO. Quienes estuvieran asegurados
 con anterioridad a la entrada en vigor de esta Ley
 tendrán derecho a solicitar a la Institución de crédito o
@@ -8323,7 +8406,6 @@ crédito deberán transferir las cuentas individuales de
 los trabajadores que no elijan Administradora de
 Fondos para el Retiro a aquéllas que les indique la
 Comisión Nacional del Sistema de Ahorro para el
-
 Retiro, mediante disposiciones de carácter general
 que a tal efecto expida.
 DECIMO QUINTO. Las instituciones de crédito que
@@ -8337,6 +8419,7 @@ normatividad anterior a la vigencia de la presente Ley
 en todas y cada una de las obligaciones a su cargo
 relacionadas con las cuentas del sistema de ahorro
 para el retiro. Asimismo quedarán sujetas a la
+
 inspección y vigilancia de la Comisión Nacional del
 Sistema de Ahorro para el Retiro, en tanto manejen
 cuentas del mencionado sistema.
@@ -8352,7 +8435,6 @@ Administradoras de Fondos para el Retiro, las que los
 mantendrán invertidos en estas subcuentas
 separadas de las subcuentas a que se refiere el
 artículo 159 fracción I.
-
 Los trabajadores tendrán el derecho de elegir la
 Administradora de Fondos para el Retiro que
 administre su cuenta individual.
@@ -8365,6 +8447,7 @@ DECIMO OCTAVO. A los asegurados que al
 momento de entrar en vigor esta Ley opten por
 acogerse al nuevo sistema de pensiones, les serán
 reconocidas las semanas cotizadas bajo el régimen
+
 anterior, con la finalidad de que al cumplirse los
 requisitos legales, se les conceda la pensión que
 corresponda.
@@ -8384,7 +8467,6 @@ Las tasas a que se refiere la fracción II del artículo
 cuarenta y nueve centésimas de punto porcentual la
 que corresponde a los patrones y en dieciséis
 centésimas de punto porcentual la que corresponde
-
 pagar a los trabajadores. Estas modificaciones
 comenzarán en el año de 1998 y terminarán en el año
 2007.
@@ -8398,6 +8480,7 @@ VIGESIMO PRIMERO. La Asamblea General del
 Instituto podrá determinar qué parte de la reserva
 correspondiente al seguro de invalidez y vida, que se
 empezó a constituir a partir del 2 de enero de 1991 y
+
 hasta el 31 de diciembre de 1996, pueda invertirse en
 activos distintos a los señalados en el artículo 284,
 conforme a las bases siguientes:
@@ -8411,7 +8494,6 @@ III. En todo caso a más tardar dentro de los cuatro
 años contados a partir del 2 de febrero de 1997, la
 reserva deberá estar totalmente invertida en términos
 del artículo 284.
-
 VIGESIMO SEGUNDO. En un plazo que no exceda
 de cuatro años a partir del día 2 de enero de 1997, el
 Instituto deberá adecuar la inversión de su reserva
@@ -8428,6 +8510,7 @@ TERCERO.
 Las
 sociedades
 cooperativas de producción que se encuentren
+
 inscritas en los términos de la Ley del Seguro Social
 que se deroga, continuarán cubriendo el cincuenta
 por ciento de las primas totales y el Gobierno Federal
@@ -8442,7 +8525,6 @@ relativo al seguro de invalidez y vida, así como en los
 ramos de cesantía en edad avanzada y vejez. Los
 demás ramos de aseguramiento tendrán como límite
 superior desde el inicio de la vigencia de esta ley el
-
 equivalente a veinticinco veces el salario mínimo
 general que rija en el Distrito Federal.
 Aclaración al párrafo DOF 16-01-1996
@@ -8457,6 +8539,7 @@ a veinticinco en el año 2007.
 Aclaración al párrafo DOF 16-01-1996
 VIGESIMO SEXTO. El Reglamento de Afiliación que
 normará el procedimiento a través del cual se
+
 inscribirán los trabajadores asalariados a que se
 refiere el capítulo X del Título II de esta Ley, se
 expedirá dentro de los ciento ochenta días posteriores
@@ -8471,7 +8554,6 @@ VIGESIMO OCTAVO. A fin de que el marco
 normativo que regula a las Administradoras de
 Fondos para el Retiro y a las sociedades de inversión
 especializadas de fondos para el retiro guarde
-
 congruencia con esta Ley, previamente a la entrada
 en vigor a la misma, se deberá reformar la Ley para la
 Coordinación de los Sistemas de Ahorro para el
@@ -8486,6 +8568,7 @@ resguardo e incremento de los mismos.
 La Ley para la Coordinación de los Sistemas de
 Ahorro para el Retiro preverá la forma y términos en
 que la Comisión Nacional del Sistema de Ahorro para
+
 el Retiro, enviará un informe por escrito al Congreso
 de la Unión en forma Semestral, independientemente
 de los reportes sobre comisiones, número de
@@ -8501,7 +8584,6 @@ socios en las sociedades de inversión especializadas
 de fondos para el retiro. Para lo anterior, conforme a
 la multicitada Ley, se establecerán los mecanismos
 que garanticen la optimización de estos recursos. La
-
 Comisión Nacional del Sistema de Ahorro para el
 Retiro, tomará en cuenta las recomendaciones que le
 haga la Comisión Nacional Bancaria y de Valores a
@@ -8516,6 +8598,7 @@ uniforme.
 VIGESIMO NOVENO. Los pensionados que para el
 disfrute de cualquiera de las pensiones previstas en la
 Ley que se deroga, opten por acogerse al beneficio
+
 de dicha Ley en términos del Artículo Tercero
 Transitorio, sin perjuicio de lo dispuesto en la misma
 con respecto al otorgamiento de préstamos a cuenta
@@ -8531,7 +8614,6 @@ pago del préstamo y los entregue a la Entidad
 Financiera que lo otorgó.
 El Instituto únicamente podrá celebrar los convenios
 a que se refiere el párrafo anterior, cuando en los
-
 mismos se estipule que el descuento mensual
 derivado de una o más transacciones, considerando
 otros descuentos que en términos de las
@@ -8548,6 +8630,7 @@ aplicación de los referidos descuentos se aplicará la
 prelación que corresponda en términos de las
 disposiciones jurídicas aplicables.
 Párrafo reformado DOF 16-12-2020
+
 Las Entidades Financieras deberán comunicar al
 Instituto las condiciones generales del préstamo,
 incluyendo el Costo Anual Total aplicable a los
@@ -8561,7 +8644,6 @@ relativos a los préstamos otorgados por las Entidades
 Financieras, serán cubiertos por éstas al Instituto en
 los términos que se estipule en los convenios
 respectivos.
-
 El Consejo Técnico del Instituto podrá emitir las
 disposiciones de carácter administrativo necesarias
 para la debida observancia de lo dispuesto en este
@@ -8579,6 +8661,7 @@ En cumplimiento de lo dispuesto por la fracción I del
 Artículo 89 de la Constitución Política de los Estados
 Unidos Mexicanos, y para su debida publicación y
 observancia, expido el presente Decreto en la
+
 residencia del Poder Ejecutivo Federal, en la Ciudad
 de México, Distrito Federal, a los diecinueve días del
 mes de diciembre de mil novecientos noventa y
