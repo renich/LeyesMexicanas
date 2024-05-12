@@ -8,12 +8,7 @@ RADIODIFUSIÓN
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 14 de julio de 2014
 TEXTO VIGENTE
-Última reforma publicada DOF 20-05-2021
-
-Declaratoria de invalidez de artículos por Sentencia de la SCJN
-DOF 16-12-2022 y notificados los puntos resolutivos
-previamente al Congreso de la Unión para efectos legales el
-30-08-2022
+Última reforma publicada DOF 01-04-2024
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -23,7 +18,6 @@ Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha
 servido dirigirme el siguiente
 DECRETO
-
 "EL CONGRESO GENERAL DE LOS ESTADOS
 UNIDOS MEXICANOS, D E C R E T A:
 SE
@@ -33,6 +27,7 @@ LEY
 FEDERAL
 DE
 TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA
+
 LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN
 DEL ESTADO MEXICANO; Y SE REFORMAN,
 ADICIONAN
@@ -66,11 +61,11 @@ interés
 general
 de
 telecomunicaciones y radiodifusión, y la convergencia
-
 entre éstos, los derechos de los usuarios y las
 audiencias, y el proceso de competencia y libre
 concurrencia en estos sectores, para que contribuyan
 a los fines y al ejercicio de los derechos establecidos
+
 en los artículos 6o., 7o., 27 y 28 de la Constitución
 Política de los Estados Unidos Mexicanos.
 Artículo 2. Las telecomunicaciones
@@ -98,10 +93,10 @@ de dichos servicios.
 En todo momento el Estado mantendrá el dominio
 originario, inalienable e imprescriptible sobre el
 espectro radioeléctrico.
-
 Se podrá permitir el uso, aprovechamiento y
 explotación del espectro radioeléctrico y de los
 recursos orbitales, conforme a las modalidades y
+
 requisitos establecidos en la presente Ley y demás
 disposiciones aplicables.
 Artículo 3. Para los efectos de esta Ley se
@@ -135,10 +130,10 @@ lógico y funcional, de tal manera que exista
 interoperabilidad entre ellas;
 IV. Atribución de una banda de frecuencias: Acto
 por el cual una banda de frecuencias
-
 determinada se destina al uso de uno o varios
 servicios de radiocomunicación, conforme al
 Cuadro Nacional de Atribución de Frecuencias;
+
 V. Banda ancha: Acceso de alta capacidad que
 permite ofrecer diversos servicios convergentes
 a través de infraestructura de red fiable, con
@@ -166,9 +161,9 @@ y que es susceptible de distribuirse a través de
 un canal de radiodifusión;
 IX. Canal de transmisión de radiodifusión: Ancho
 de banda indivisible destinado a la emisión de
-
 canales de programación de conformidad con el
 estándar de transmisión aplicable a la radio o a
+
 la televisión, en términos de las disposiciones
 generales aplicables que emita el Instituto;
 X. Cobertura universal: Acceso de la población en
@@ -205,13 +200,8 @@ administrativo
 mediante el cual el Instituto confiere el derecho
 para usar, aprovechar o explotar bandas de
 frecuencia del espectro radioeléctrico o recursos
-
-orbitales, en los términos
+orbitales, en los términos y modalidades
 establecidas en esta Ley;
-
-y
-
-modalidades
 
 XIV. Concesionario: Persona física o moral, titular
 de una concesión de las previstas en esta Ley;
@@ -255,9 +245,9 @@ de telecomunicaciones local del agente
 económico preponderante en el sector de las
 telecomunicaciones o del agente que a nivel
 nacional tenga poder sustancial en el mercado
-
 relevante de servicios de acceso al usuario final,
 de manera que otros concesionarios puedan
+
 acceder efectivamente a dicha red pública de
 telecomunicaciones local;
 XIX. Ejecutivo
@@ -295,9 +285,9 @@ del
 espectro
 radioeléctrico, cuya unidad de medida es el
 Hertz;
-
 XXIV. Homologación: Acto por el cual el Instituto
 reconoce oficialmente que las especificaciones
+
 de un producto, equipo, dispositivo o aparato
 destinado a telecomunicaciones o radiodifusión,
 satisface las normas o disposiciones técnicas
@@ -336,6 +326,7 @@ de
 XXIX. Insumos esenciales: Elementos de red o
 servicios que se proporcionan por un solo
 concesionario o un reducido número de
+
 concesionarios, cuya reproducción no es viable
 desde un punto de vista técnico, legal o
 económico y son insumos indispensables para la
@@ -377,10 +368,10 @@ otra red pública de telecomunicaciones;
 XXXI. Interferencia perjudicial: Efecto de una
 energía no deseada debida a una o varias
 emisiones, radiaciones, inducciones o sus
-
 combinaciones sobre la recepción en un sistema
 de telecomunicaciones o radiodifusión, que
 puede manifestarse como degradación de la
+
 calidad, falseamiento o pérdida de información,
 que compromete, interrumpe repetidamente o
 impide el funcionamiento de cualquier servicio
@@ -406,10 +397,10 @@ manera consistente y predecible, en términos de
 la entrega funcional de servicios entre redes;
 XXXIV. Ley: Ley Federal de Telecomunicaciones y
 Radiodifusión;
-
 XXXV. Localización geográfica en tiempo real:
 Es la ubicación aproximada en el momento en
 que se procesa una búsqueda de un equipo
+
 terminal móvil asociado a una línea telefónica
 determinada;
 XXXVI. Mensaje Comercial: Mención dirigida al
@@ -434,10 +425,10 @@ mercado como consecuencia de la propiedad
 pública;
 XXXIX. Orbita satelital: Trayectoria que recorre
 una estación espacial alrededor de la Tierra;
-
 XL. Patrocinio: El pago en efectivo o en especie
 que realiza cualquier persona física o moral a fin
 de que se haga la mención o presentación visual
+
 de la denominación, razón social, marca o
 logotipo de la persona que realizó el pago;
 XLI. Películas
@@ -466,10 +457,10 @@ acceso a las tecnologías de la información y la
 comunicación, incluyendo el Internet de banda
 ancha para toda la población, haciendo especial
 énfasis en sus sectores más vulnerables, con el
-
 propósito de cerrar la brecha digital existente
 entre individuos, hogares, empresas y áreas
 geográficas de distinto nivel socioeconómico,
+
 respecto a sus oportunidades de acceso a las
 tecnologías referidas y el uso que hacen de
 éstas;
@@ -499,9 +490,9 @@ XLVIII. Productor nacional independiente de
 contenidos audiovisuales: Persona física o
 moral de nacionalidad mexicana que produce
 obras audiovisuales a nivel nacional, regional o
-
 local, que no cuenta con una concesión de
 telecomunicaciones o radiodifusión, ni es
+
 controlado por un concesionario en virtud de su
 poder de mando;
 XLIX. PROFECO: La Procuraduría Federal del
@@ -529,9 +520,9 @@ mexicana;
 LII. Punto de interconexión: Punto físico o virtual
 donde se establece la interconexión entre redes
 públicas de telecomunicaciones para el
-
 intercambio de tráfico de interconexión o de
 tráfico de servicios mayoristas;
+
 LIII. Radiocomunicación: Toda telecomunicación
 o radiodifusión que es transmitida por ondas del
 espectro radioeléctrico;
@@ -563,10 +554,10 @@ telecomunicaciones:
 Sistema
 integrado por medios de transmisión, tales como
 canales o circuitos que utilicen bandas de
-
 frecuencias del espectro radioeléctrico, enlaces
 satelitales, cableados, redes de transmisión
 eléctrica o cualquier otro medio de transmisión,
+
 así como, en su caso, centrales, dispositivos de
 conmutación o cualquier equipo necesario;
 LVIII. Red pública de telecomunicaciones: Red de
@@ -599,9 +590,9 @@ pueden originar o recibir comunicaciones de voz
 o datos a través de la infraestructura de acceso
 de otro concesionario de red pública de
 telecomunicaciones del servicio local móvil, sin
-
 necesidad de realizar algún procedimiento
 adicional, al tratarse de usuarios de otra región
+
 local móvil o al estar fuera de la zona de
 cobertura de su proveedor de servicios móviles;
 LXII. Servicio mayorista de telecomunicaciones:
@@ -669,7 +660,6 @@ b) Clínicas, hospitales, centros de salud y, en
 general, inmuebles para la atención de la
 salud;
 c) Oficinas de los distintos órdenes de gobierno;
-
 d)
 
 Centros comunitarios;
@@ -742,8 +732,8 @@ infraestructura destinada al servicio de las redes
 públicas de telecomunicaciones, las estaciones de
 radiodifusión y equipos complementarios, las cuales
 estarán sujetas exclusivamente a los poderes
-
 federales, en sus respectivos ámbitos de atribuciones,
+
 debiendo respetarse las disposiciones estatales,
 municipales y del Distrito Federal que resulten
 aplicables en materia de desarrollo urbano.
@@ -802,8 +792,8 @@ funcionamiento, con
 personalidad
 jurídica
 y
-
 patrimonio propios, que tiene por objeto regular y
+
 promover la competencia y el desarrollo eficiente de
 las telecomunicaciones y la radiodifusión en el ámbito
 de las atribuciones que le confieren la Constitución y
@@ -3113,24 +3103,32 @@ civil que no persigan ni operen con fines de lucro
 y que estén constituidas bajo los principios de
 participación ciudadana directa, convivencia
 social, equidad, igualdad de género y pluralidad.
-Las concesiones para uso social indígena, se
-podrán otorgar a los pueblos y comunidades
-indígenas del país de conformidad con los
+Las concesiones para uso social de las personas
+pertenecientes a pueblos y comunidades
+indígenas y afromexicanas, se podrán otorgar a
+los pueblos y comunidades indígenas y
+afromexicanas del país de conformidad con los
 lineamientos que emita el Instituto y tendrán
 como fin la promoción, desarrollo y preservación
-de sus lenguas, su cultura, sus conocimientos
-promoviendo sus tradiciones, normas internas y
-bajo principios que respeten la igualdad de
-género, permitan la integración de mujeres
-indígenas en la participación de los objetivos
-para los que se solicita la concesión y demás
-elementos que constituyen las culturas e
-identidades indígenas.
+de sus lenguas, conocimientos o elementos de
+su cultura e identidad, promoviendo sus
+tradiciones, normas internas y bajo principios
+que respeten la igualdad de género, permitan la
+integración
+de
+mujeres
+indígenas
+y
+afromexicanas en la participación de los
+objetivos para los que se solicita la concesión y
+demás elementos que constituyen las culturas e
+identidades indígenas y afromexicanas.
+Párrafo reformado DOF 01-04-2024
+
 Artículo 68. Al otorgar la concesión única a que se
 refiere esta Ley, el Instituto deberá establecer con
 toda precisión el tipo de concesión de que se trate: de
 uso comercial, público, social o privado.
-
 Artículo 69. Se requerirá concesión única para uso
 privado, solamente cuando se necesite utilizar o
 aprovechar bandas de frecuencias del espectro
@@ -3154,11 +3152,11 @@ Al otorgar las concesiones el Instituto deberá
 establecer que en la prestación de los servicios se
 encuentra prohibido establecer privilegios o
 distinciones que configuren algún tipo de
+
 discriminación y tratándose de personas físicas estará
 prohibida toda discriminación motivada por origen
 étnico o nacional, el género, la edad, las
 discapacidades, la condición social, las condiciones
-
 de salud, la religión, las opiniones, las preferencias
 sexuales, el estado civil o cualquier otra que atente
 contra la dignidad humana y tenga por objeto anular o
@@ -3183,11 +3181,11 @@ que se trate, y
 III. La documentación e información que acredite su
 capacidad técnica, económica, jurídica y
 administrativa.
+
 El Instituto analizará y evaluará la documentación
 que se presente con la solicitud a que se refiere el
 presente artículo dentro de un plazo de sesenta días
 naturales, dentro del cual podrá requerir a los
-
 interesados información adicional, cuando ésta sea
 necesaria para acreditar los requisitos a que se refiere
 este artículo.
@@ -3213,11 +3211,11 @@ El nombre y domicilio del concesionario;
 II. El uso de la concesión;
 III. La autorización para prestar todos los servicios
 técnicamente factibles. De requerir bandas del
+
 espectro radioeléctrico o recursos orbitales, el
 concesionario deberá obtenerlos conforme a los
 términos y modalidades establecidas en esta
 Ley;
-
 IV. El período de vigencia;
 V. Las características generales del proyecto;
 VI. Los programas y compromisos de inversión,
@@ -3239,10 +3237,10 @@ Artículo 75. Las concesiones para usar, aprovechar
 y explotar bandas de frecuencias del espectro
 radioeléctrico de uso determinado y para la ocupación
 y explotación de recursos orbitales, se otorgarán por
+
 el Instituto por un plazo de hasta veinte años y podrán
 ser prorrogadas hasta por plazos iguales conforme a
 lo dispuesto en el Capítulo VI de este Título.
-
 Cuando la explotación de los servicios objeto de la
 concesión sobre el espectro radioeléctrico requiera de
 una concesión única, ésta última se otorgará en el
@@ -3273,10 +3271,10 @@ para el cumplimiento de sus fines y atribuciones.
 Bajo este tipo de concesiones se incluyen a los
 concesionarios o permisionarios de servicios
 públicos, distintos a los de telecomunicaciones o
+
 de radiodifusión, cuando éstas sean necesarias
 para la operación y seguridad del servicio de que
 se trate.
-
 En este tipo de concesiones no se podrán usar,
 aprovechar o explotar con fines de lucro, bandas
 de frecuencias del espectro radioeléctrico de uso
@@ -3300,6 +3298,7 @@ derecho de usar, aprovechar y explotar
 comercialmente bandas de frecuencias del
 espectro radioeléctrico de uso determinado ni de
 ocupar y explotar recursos orbitales, y
+
 IV. Para uso social: Confiere el derecho de usar y
 aprovechar bandas de frecuencias del espectro
 radioeléctrico de uso determinado o recursos
@@ -3308,7 +3307,6 @@ para
 prestar
 servicios
 de
-
 telecomunicaciones
 o
 radiodifusión
@@ -3335,17 +3333,11 @@ límites de inversión extranjera previstos por el Decreto
 y la Ley de Inversión Extranjera. Dicha opinión deberá
 presentarse por el interesado al Instituto.
 Sección II
+
 De las Concesiones sobre el Espectro
 Radioeléctrico para uso Comercial o Privado
-Artículo 78. Las
-aprovechamiento o
-
-concesiones
-explotación
-
-para el uso,
-del espectro
-
+Artículo 78. Las concesiones para el uso,
+aprovechamiento o explotación del espectro
 radioeléctrico para uso comercial o privado, en este
 último caso para los propósitos previstos en el artículo
 76, fracción III, inciso a), se otorgarán únicamente a
@@ -3379,6 +3371,7 @@ contraríen el interés
 
 e) La posible entrada de nuevos competidores al
 mercado, y
+
 f) La consistencia con
 concesionamiento.
 
@@ -3414,10 +3407,10 @@ calidad, de cobertura geográfica, poblacional o
 social, de conectividad en sitios públicos y de
 contribución a la cobertura universal que, en
 su caso, determine el Instituto, para lo cual
+
 considerará las propuestas que formule
 anualmente la Secretaría conforme a los
 planes y programas respectivos;
-
 b) Las especificaciones
 proyectos, y
 
@@ -3446,21 +3439,12 @@ y prevengan fenómenos de concentración que
 contraríen el interés público;
 VI. La obligación de los concesionarios de presentar
 garantía de seriedad;
+
 VII. La vigencia de la concesión, y
 VIII. En ningún caso el factor determinante será
 meramente económico, sin menoscabo de lo
-
-establecido en esta
+establecido en esta Ley en materia de
 contraprestaciones.
-
-Ley
-
-en
-
-materia
-
-de
-
 Artículo 80. Se declarará desierta y podrá expedirse
 una nueva convocatoria, cuando las propuestas
 presentadas en la licitación pública no aseguren las
@@ -3482,12 +3466,12 @@ modalidades de uso y zona geográfica en que
 deben ser utilizadas;
 III. El período de vigencia;
 IV. Las especificaciones técnicas del proyecto;
+
 V. Los programas y compromisos de inversión,
 calidad, de cobertura geográfica, poblacional o
 social, de conectividad en sitios públicos y de
 contribución a la cobertura universal que, en su
 caso, determine el Instituto, para lo cual
-
 considerará las propuestas que formule
 anualmente la Secretaría conforme a los planes
 y programas respectivos;
@@ -3511,11 +3495,11 @@ Los lineamientos para el otorgamiento de la
 concesión a los que se refiere este artículo serán
 establecidos por el Instituto, mediante reglas de
 carácter general sobre la base de resolver la solicitud
+
 en el orden en que se hubiere presentado e incluirán
 el pago previo de una contraprestación a favor del
 Gobierno Federal en términos de la presente Ley.
 Sección III
-
 De las Concesiones sobre el Espectro
 Radioeléctrico para uso Público o Social
 Artículo 83. Las concesiones sobre el espectro
@@ -3545,11 +3529,11 @@ los
 de
 telecomunicaciones y de radiodifusión, podrán
 obtener la asignación directa de las bandas de
+
 frecuencia para la operación o seguridad de dichos
 servicios públicos, debiendo acreditar ante el Instituto
 la necesidad de contar con el uso de dichas bandas
 de frecuencias.
-
 Los concesionarios o permisionarios a que se refiere
 el párrafo anterior deberán pagar previamente la
 contraprestación
@@ -3575,12 +3559,12 @@ concesión;
 IV. Las especificaciones técnicas del proyecto;
 V. Los programas y compromisos de cobertura y
 calidad;
+
 VI. El proyecto a desarrollar, acorde a las
 características de la concesión que se pretende
 obtener, y
 VII. La documentación que acredite su capacidad
 técnica, económica, jurídica y administrativa,
-
 atendiendo la naturaleza del solicitante, así
 como la fuente de sus recursos financieros para
 el desarrollo y operación del proyecto.
@@ -3596,11 +3580,13 @@ estará obligado a prestar asistencia técnica para
 facilitarles el cumplimiento de dichos requisitos, los
 cuales serán acordes a las formas de organización
 social y los derechos de los pueblos y comunidades
-indígenas.
+indígenas y afromexicanas.
+Párrafo reformado DOF 01-04-2024
 Una vez cumplidos los requisitos señalados, el
 Instituto resolverá lo conducente dentro de los ciento
 veinte días hábiles siguientes a la presentación de la
 solicitud.
+
 El Instituto podrá donar a los concesionarios de uso
 social que presten servicios de radiodifusión, equipos
 transmisores que hayan pasado a propiedad de la
@@ -3608,7 +3594,6 @@ Nación como consecuencia de los procedimientos y
 supuestos previstos de pérdida de bienes por uso del
 espectro radioeléctrico sin contar con concesión.
 Sección IV
-
 De las Concesiones sobre el Espectro
 Radioeléctrico para uso Público y uso Social para
 prestar el Servicio de Radiodifusión
@@ -3629,6 +3614,7 @@ a tecnologías y reglas para la expresión de
 diversidades ideológicas, étnicas y culturales.
 El Instituto verificará que los mecanismos expuestos
 en la solicitud sean suficientes para garantizar dichos
+
 objetivos y, de lo contrario, prevendrá al solicitante
 para que realice las modificaciones pertinentes.
 Artículo 87. Los interesados en obtener una
@@ -3636,42 +3622,52 @@ concesión sobre el espectro radioeléctrico para uso
 social para prestar el servicio de radiodifusión,
 deberán presentar los requisitos establecidos en el
 artículo 85 de esta Ley, dentro del plazo establecido
-
 en el programa anual de uso y aprovechamiento de
 bandas de frecuencias.
 Las concesiones de uso social incluyen las
-comunitarias y las indígenas, las que se sujetarán, de
-acuerdo con sus fines, a los principios establecidos en
-los artículos 2o., 3o., 6o. y 7o. de la Constitución.
+comunitarias y las indígenas y afromexicanas, las que
+se sujetarán, de acuerdo con sus fines, a los
+principios establecidos en los artículos 2o., 3o., 6o. y
+7o. de la Constitución.
+Párrafo reformado DOF 01-04-2024
 El Instituto establecerá mecanismos de colaboración
-con la Comisión Nacional para el Desarrollo de los
-Pueblos Indígenas u otras organizaciones para:
-I.
-
-Promover el
-indígenas;
-
-otorgamiento
+con el Instituto Nacional de los Pueblos Indígenas u
+otras organizaciones para:
+I. Promover el otorgamiento
+indígenas y afromexicanas;
 
 de
 
 concesiones
 
 II. Facilitar el otorgamiento de concesiones a
-pueblos indígenas en donde tengan presencia y
-para que trasmitan en sus lenguas originarias,
-en especial, en aquellos lugares donde no
-existan concesiones, y
-III. Promover que las concesiones de uso social
-indígenas, coadyuven a preservar y enriquecer
-sus lenguas, conocimientos y todos los
-elementos que constituyan su cultura e
-identidad.
+pueblos
+y
+comunidades
+indígenas
+y
+afromexicanas en donde tengan presencia y para
+que trasmitan en sus lenguas originarias, en
+especial, en aquellos lugares donde no existan
+concesiones, y
+
+III.
+
+Promover que las concesiones de uso social
+indígenas y afromexicanas, coadyuven a
+preservar
+y
+enriquecer
+sus
+lenguas,
+conocimientos y todos los elementos que
+constituyan su cultura e identidad.
+Párrafo con fracciones reformado DOF 01-04-2024
+
 Artículo 88. Para el cumplimiento de sus fines, la
 operación de las concesiones de radiodifusión de uso
 público se financiará con presupuesto público que
 garantice su operación.
-
 Los concesionarios de uso público podrán tener
 cualquiera de las siguientes fuentes de ingresos
 adicionales:
@@ -3691,8 +3687,11 @@ expedirse comprobantes fiscales que cumplan
 con las disposiciones establecidas por la
 Secretaría de Hacienda y Crédito Público,
 mientras que las donaciones en especie se
-harán constar en un contrato celebrado
+
+harán constar en un contrato
 conforme a las leyes aplicables;
+
+celebrado
 
 II. Venta de productos, contenidos propios
 previamente transmitidos de conformidad con su
@@ -3701,7 +3700,6 @@ capacidad tanto legal como operativa sin que se
 encuentre comprendida la emisión de mensajes
 comerciales y venta de publicidad;
 III. Patrocinios;
-
 IV. Proyectos de financiamiento y convenios de
 coinversión para la producción o difusión de
 contenidos afines a los objetivos del servicio, y
@@ -3739,7 +3737,6 @@ encuentre comprendida la emisión de mensajes
 comerciales y venta de publicidad, con
 excepción de lo dispuesto en la fracción VII del
 presente artículo;
-
 IV. Recursos provenientes de entidades públicas
 para la generación de contenidos programáticos
 distintos a la comercialización;
@@ -3759,6 +3756,7 @@ concesiones
 existentes.
 Las
 Entidades
+
 Federativas y Municipios podrán autorizar hasta
 el uno por ciento para dicho fin de conformidad
 con sus respectivos presupuestos.
@@ -3769,7 +3767,6 @@ La ausencia de fines de lucro implica que dichos
 concesionarios no perseguirán dentro de sus
 actividades la obtención de ganancias con propósitos
 de acumulación, de tal suerte que los remanentes de
-
 su operación sólo podrán invertirse al objeto de la
 concesión. Para recibir donaciones en dinero o en
 especie, los concesionarios de uso social deberán ser
@@ -3808,7 +3805,6 @@ comunicación;
 III. Que sea compatible con el objeto del solicitante,
 en los términos de los artículos 86 y 87 de esta
 Ley, y
-
 IV. Su capacidad técnica y operativa, así como sus
 fuentes de ingreso.
 Cumplidos los requisitos, en un plazo máximo de
@@ -3824,20 +3820,22 @@ solicitante la concesión de espectro radioeléctrico de
 uso social destinado para comunidades y pueblos
 indígenas, conforme a la disponibilidad del programa
 anual correspondiente.
-El Instituto deberá reservar para estaciones de radio
-FM comunitarias e indígenas el diez por ciento de la
-banda de radiodifusión sonora de FM, que va de los
-88 a los 108 MHz. Dicho porcentaje se concesionará
-en la parte alta de la referida banda.
-El Instituto podrá otorgar concesiones para
-estaciones de radio AM, comunitarias e indígenas, en
-el segmento de la banda del espectro radioeléctrico
-ampliada que va de los 1605 a los 1705 KHz. Lo
-anterior, sin perjuicio de que el Instituto pueda otorgar
-concesiones de uso público, comercial o social, que
 
-no sean comunitarias o indígenas, en el resto del
-segmento de AM.
+El Instituto deberá reservar para estaciones de radio
+FM comunitarias, indígenas y afromexicanas el diez
+por ciento de la banda de radiodifusión sonora de FM,
+que va de los 88 a los 108 MHz. Dicho porcentaje se
+concesionará en la parte alta de la referida banda.
+Párrafo reformado DOF 01-04-2024
+El Instituto podrá otorgar concesiones para
+estaciones de radio AM, comunitarias, indígenas y
+afromexicanas, en el segmento de la banda del
+espectro radioeléctrico ampliada que va de los 1605 a
+los 1705 KHz. Lo anterior, sin perjuicio de que el
+Instituto pueda otorgar concesiones de uso público,
+comercial o social, que no sean comunitarias o
+indígenas, en el resto del segmento de AM.
+Párrafo reformado DOF 01-04-2024
 El Instituto deberá emitir, y en su caso, actualizar los
 parámetros técnicos bajo los cuales deberán operar
 los concesionarios a que se refiere este artículo y
@@ -3850,6 +3848,7 @@ entes públicos. En todo caso, se mantendrán vigentes
 los compromisos y condiciones establecidos en su
 título de concesión.
 Sección V
+
 De las Concesiones para la Ocupación y
 Explotación de Recursos Orbitales
 Artículo 92. Las concesiones para ocupar y explotar
@@ -3863,7 +3862,6 @@ observar los criterios previstos en los artículos 28 y
 134 de la Constitución.
 Artículo 93. Para llevar a cabo el procedimiento de
 licitación pública al que se refiere el artículo anterior,
-
 el Instituto publicará en su página de Internet y en el
 Diario Oficial de la Federación la convocatoria
 respectiva.
@@ -3895,7 +3893,6 @@ de uso comercial de atender las solicitudes de
 servicio que les presenten las comercializadoras
 autorizadas;
 V. El modelo de título de concesión;
-
 VI. La obligación de los concesionarios de presentar
 garantía de seriedad;
 VII. El período de vigencia de la concesión;
@@ -3909,6 +3906,7 @@ En ningún caso el factor determinante será
 meramente económico, sin menoscabo de lo
 establecido en esta Ley en materia de
 contraprestaciones.
+
 Artículo 94. El título de concesión para ocupar y
 explotar recursos orbitales para uso comercial o
 privado, contendrá como mínimo lo siguiente:
@@ -3920,7 +3918,6 @@ II. Los recursos orbitales objeto de la concesión;
 III. El período de vigencia;
 IV. Los servicios que podrá prestar el concesionario;
 V. Las especificaciones técnicas del proyecto;
-
 VI. La capacidad satelital que se reservará a favor
 del Estado;
 VII. En su caso, las condiciones bajo las cuales se
@@ -3935,6 +3932,7 @@ una nueva convocatoria, cuando las propuestas
 presentadas en la licitación pública no aseguren las
 mejores condiciones conforme al interés público, o no
 cumplan con los requisitos establecidos en las bases
+
 de la licitación, o cuando las propuestas ofrecidas no
 sean satisfactorias, a juicio del Instituto, o sean
 inferiores al valor mínimo de referencia.
@@ -3946,7 +3944,6 @@ Artículo 96. Cualquier persona podrá manifestar al
 Instituto su interés para que el Gobierno Federal
 obtenga recursos orbitales a favor del Estado
 Mexicano, para lo cual deberá:
-
 I.
 
 Presentar solicitud en la que manifieste su
@@ -3965,6 +3962,7 @@ detallada de la órbita u órbitas satelitales, así
 como la del sistema satelital correspondiente;
 d) Las especificaciones técnicas del proyecto,
 incluyendo la descripción del o los satélites
+
 que pretenden hacer uso de los recursos
 orbitales, y
 e) Toda la información técnica adicional que el
@@ -3975,7 +3973,6 @@ coordinar;
 IV. La documentación que acredite la capacidad
 técnica, financiera, jurídica y administrativa del
 solicitante, y
-
 V. Carta compromiso de participar y coadyuvar con
 el Gobierno Federal en todas las gestiones,
 requisitos y coordinación necesarios para la
@@ -3992,6 +3989,7 @@ Desahogada la prevención, el Instituto admitirá a
 trámite la solicitud dentro de los quince días
 siguientes. Transcurrido el plazo sin que se
 desahogue la prevención o sin que se cumplan los
+
 requisitos señalados en el artículo anterior, se tendrá
 por no presentada la solicitud.
 El expediente se entenderá integrado una vez
@@ -4002,7 +4000,6 @@ se remitirá a la Secretaría en compañía de la
 estimación de los gastos en los que el Instituto llegue
 a incurrir. Lo anterior, para que la Secretaría
 determine la procedencia de la solicitud.
-
 En caso de que la solicitud fuere procedente, la
 Secretaría lo notificará al Instituto, fijando el monto de
 la fianza o carta de crédito a favor del Gobierno
@@ -4025,6 +4022,7 @@ llevará a cabo el procedimiento de coordinación ante
 los organismos internacionales competentes, con las
 entidades de otros países y con los concesionarios u
 operadores nacionales o extranjeros.
+
 El interesado será responsable de proporcionar toda
 la información y documentación que se requiera para
 concluir el correspondiente proceso de coordinación
@@ -4035,7 +4033,6 @@ gastos que se generen ante la Unión Internacional de
 Telecomunicaciones.
 Si como consecuencia de la gestión se hubiere
 obtenido a favor del país la prioridad ante la Unión
-
 Internacional de Telecomunicaciones para ocupar los
 recursos orbitales objeto de la solicitud, el Instituto
 deberá otorgar la concesión respectiva al interesado
@@ -4055,6 +4052,7 @@ Artículo 98. Tratándose de dependencias y
 entidades de la Administración Pública Federal, el
 Instituto otorgará mediante asignación directa las
 concesiones de recursos orbitales.
+
 El Instituto deberá garantizar en todo momento la
 disponibilidad de recursos orbitales para servicios de
 seguridad nacional, seguridad pública, conectividad
@@ -4069,7 +4067,6 @@ los principios y objetivos que establece esta Ley para
 la administración del espectro radioeléctrico, el
 programa nacional de espectro radioeléctrico y el
 programa de bandas de frecuencias.
-
 Sección VII
 De las Contraprestaciones
 Artículo 99. Todas las contraprestaciones a que se
@@ -4084,6 +4081,7 @@ contraprestaciones por el otorgamiento, la prórroga de
 la vigencia o los cambios en los servicios de las
 concesiones, así como por la autorización de los
 servicios vinculados a éstas tratándose de
+
 concesiones sobre el espectro radioeléctrico, el
 Instituto deberá considerar los siguientes elementos:
 I.
@@ -4101,7 +4099,6 @@ tanto
 nacionales
 como
 internacionales, y
-
 VI. El cumplimiento de los objetivos señalados en
 los artículos 6o. y 28 de la Constitución; así
 como de los establecidos en el Plan Nacional de
@@ -4115,6 +4112,7 @@ dicha información.
 Artículo 101. Todas las contraprestaciones a que se
 refiere esta Ley serán a favor del Gobierno Federal y
 deberán enterarse a la Tesorería de la Federación.
+
 Lo anterior, sin perjuicio del pago de las
 contribuciones que establezcan las leyes por el uso o
 el aprovechamiento de los bienes del dominio público
@@ -4128,7 +4126,6 @@ radioeléctrico.
 Los títulos de concesión se entregarán, una vez que
 se haya cumplido con el pago de la contraprestación
 que al efecto se hubiere fijado.
-
 Artículo 103. Las disposiciones establecidas en la
 presente sección serán aplicables, en lo conducente,
 a las contraprestaciones por el otorgamiento de
@@ -4141,6 +4138,7 @@ concesionadas para uso comercial o privado, estos
 últimos con propósitos de comunicación privada,
 previa autorización del Instituto. Para tal efecto,
 deberá observarse lo siguiente:
+
 I.
 
 Que el arrendatario cuente con concesión única
@@ -4161,7 +4159,6 @@ fenómenos
 de
 concentración, acaparamiento o propiedad
 cruzada.
-
 El Instituto tendrá cuarenta y cinco días hábiles para
 resolver sobre la solicitud de autorización de
 arrendamiento. Los requisitos para obtener la
@@ -4176,6 +4173,7 @@ El arrendamiento de las bandas de frecuencias se
 extingue de pleno derecho cuando termine la
 concesión en cualquiera de los supuestos previstos
 en esta Ley.
+
 Sección IX
 Del Cambio o Rescate del Espectro Radioeléctrico
 o de Recursos Orbitales
@@ -4189,7 +4187,6 @@ Cuando lo exija el interés público;
 II. Por razones de seguridad nacional, a solicitud
 del Ejecutivo Federal;
 III. Para la introducción de nuevas tecnologías;
-
 IV. Para solucionar problemas de interferencia
 perjudicial;
 V. Para dar cumplimiento
@@ -4213,6 +4210,7 @@ Tratándose de cambio de frecuencias, el Instituto
 podrá otorgar directamente al concesionario nuevas
 bandas de frecuencias mediante las cuales se puedan
 ofrecer los servicios originalmente prestados.
+
 Si como resultado del cambio de frecuencias el
 concesionario pretende prestar servicios adicionales,
 deberá solicitarlo. El Instituto evaluará dicha solicitud
@@ -4230,7 +4228,6 @@ solicitud,
 tomando
 en
 consideración la planeación y administración eficiente
-
 del espectro, los recursos orbitales, los avances
 tecnológicos y el interés público.
 Sin perjuicio de sus facultades de rescate, el
@@ -4252,6 +4249,7 @@ completa o varias bandas de frecuencias o recursos
 orbitales que tengan concesionados, previa solicitud y
 autorización del Instituto. El Instituto resolverá lo
 conducente dentro de los cuarenta y cinco días
+
 hábiles contados a partir de la fecha en que se
 presente la solicitud, debiendo verificar que el
 intercambio solicitado no cause alteración a la
@@ -4264,7 +4262,6 @@ recursos orbitales.
 Artículo 107. En el caso del cambio de frecuencias
 por cualquiera de los supuestos previstos en el
 artículo 105, el concesionario deberá aceptar,
-
 previamente, las nuevas condiciones que al efecto
 establezca el Instituto.
 Una vez que el concesionario acepte las nuevas
@@ -4281,6 +4278,7 @@ rescate de las bandas de frecuencias.
 Bajo ningún supuesto de cambio de una banda de
 frecuencia o de recursos orbitales se indemnizará al
 concesionario.
+
 Artículo 108. Para el rescate de una banda de
 frecuencia concesionada o de recursos orbitales, el
 Instituto deberá notificar al concesionario las razones
@@ -4292,7 +4290,6 @@ derecho convenga y aporte las pruebas que estime
 pertinentes.
 El Instituto procederá al análisis de las
 manifestaciones realizadas y al desahogo de las
-
 pruebas dentro de los veinte días hábiles siguientes al
 cierre del plazo referido en el párrafo que antecede.
 Concluido el desahogo de las pruebas, se otorgará un
@@ -4309,6 +4306,7 @@ indemnización correspondiente, para lo cual, el
 concesionario podrá aportar los argumentos y los
 elementos que estime pertinentes a través del
 Instituto, dentro de los diez días hábiles siguientes.
+
 Para determinar la indemnización correspondiente,
 el Instituto tomará en cuenta la inversión efectuada y
 debidamente comprobada, los bienes, equipos e
@@ -4323,7 +4321,6 @@ que motiven el rescate se encuentre el incumplimiento
 de las obligaciones o condiciones establecidas en la
 concesión o autorización, incluyendo el que derive de
 contribuciones o contraprestaciones.
-
 Si el concesionario estuviese conforme con el monto
 de la indemnización, la cantidad que se señale por
 este concepto tendrá carácter de definitiva. Si no
@@ -4340,6 +4337,7 @@ económica, radiodifusión y telecomunicaciones, el
 monto de la indemnización tendrá carácter definitivo.
 En lo no previsto respecto al rescate, se estará a lo
 establecido en la Ley General de Bienes Nacionales.
+
 Artículo 109. Cuando por causa del rescate el
 concesionario no pueda continuar prestando servicios
 y, por ende, se dé por terminada la concesión, el
@@ -4353,7 +4351,6 @@ telecomunicaciones, así como, en su caso, las
 frecuencias de espectro asociadas a la misma, para
 garantizar la continuidad en la prestación de los
 servicios. A tal efecto, el Instituto y el Ejecutivo
-
 Federal deberán realizar los actos necesarios para
 salvaguardar la prestación de los servicios.
 Capítulo IV
@@ -4369,6 +4366,7 @@ presentación de la solicitud, la cesión parcial o total
 de los derechos y obligaciones establecidos en las
 concesiones, siempre que el cesionario se
 comprometa a cumplir con las obligaciones que se
+
 encuentren pendientes y asuma las condiciones que
 al efecto establezca el Instituto.
 La autorización previa de la cesión a que se refiere
@@ -4380,7 +4378,6 @@ en los casos de cesión de la concesión por fusión de
 empresas, escisiones o reestructuras corporativas,
 siempre que dichos actos sean dentro del mismo
 grupo de control o agente económico.
-
 A tal efecto, se deberá notificar la operación al
 Instituto dentro de los treinta días naturales siguientes
 a su realización.
@@ -4396,8 +4393,14 @@ Si la cesión actualizara la obligación de notificar una
 concentración conforme a lo previsto en la Ley
 Federal de Competencia Económica, el Instituto
 resolverá dentro del plazo previsto para dicho
-procedimiento, adicionando las consideraciones
+
+procedimiento, adicionando
 señaladas en este capítulo.
+
+las
+
+consideraciones
+
 Las autoridades jurisdiccionales, previamente a
 adjudicar a cualquier persona la transmisión de los
 derechos concesionados, deberán solicitar opinión al
@@ -4408,7 +4411,6 @@ titulares sean los Poderes de la Unión, de los
 Estados, los órganos de Gobierno del Distrito Federal,
 los Municipios y los órganos constitucionales
 autónomos se podrán ceder a entes de carácter
-
 público incluso bajo esquemas de asociación públicoprivado, previa autorización del Instituto.
 Artículo 111. En ningún caso se podrá ceder,
 gravar, dar en prenda o fideicomiso, hipotecar o
@@ -4423,6 +4425,7 @@ Artículo 112. El concesionario, cuando sea una
 persona moral, presentará al Instituto, a más tardar el
 treinta de junio de cada año, su estructura accionaria
 o de partes sociales de que se trate, con sus
+
 respectivos
 porcentajes
 de
@@ -4439,7 +4442,6 @@ determine el Instituto.
 En cualquier supuesto de suscripción o enajenación
 de acciones o partes sociales en un acto o sucesión
 de actos, que represente el diez por ciento o más del
-
 monto de su capital social, y siempre que no se
 actualice la obligación de notificar la operación
 conforme a lo previsto en la Ley Federal de
@@ -4458,6 +4460,7 @@ adquirir las acciones o partes sociales;
 II. El Instituto tendrá un plazo de diez días hábiles
 contados a partir de la presentación del aviso,
 para solicitar la opinión de la Secretaría;
+
 III. La Secretaría tendrá un plazo de treinta días
 naturales para emitir opinión, y
 IV. El Instituto tendrá un plazo de quince días
@@ -4469,7 +4472,6 @@ objetar con causa justificada la operación de que
 se trate. Transcurrido dicho plazo sin que la
 operación hubiere sido objetada por el Instituto,
 se tendrá por autorizada.
-
 Las operaciones que no hubieren sido objetadas por
 el Instituto deberán inscribirse en el libro de registro
 de accionistas o socios de la persona moral, sin
@@ -4487,6 +4489,7 @@ proporción de la participación de cada uno de ellos en
 el capital social.
 Tampoco se requerirá presentar el aviso a que se
 refiere la fracción I de este artículo en el caso de
+
 fusión de empresas, escisiones o reestructuras
 corporativas, siempre que los cambios en la tenencia
 accionaria sean dentro del mismo grupo de control o
@@ -4498,7 +4501,6 @@ acciones o partes sociales sea una persona moral, en
 el aviso al que se refiere la fracción I de este artículo,
 deberá presentar la información necesaria para que el
 Instituto conozca la identidad de las personas físicas
-
 que tengan intereses patrimoniales mayores al diez
 por ciento del capital de dicha persona moral.
 En caso de que se actualice la obligación de notificar
@@ -4521,6 +4523,7 @@ hábiles contados a partir de la fecha de la concesión,
 para presentar ante el Instituto las modificaciones
 correspondientes a sus estatutos sociales.
 Capítulo VI
+
 De la Prórroga de las Concesiones
 Artículo 113. La concesión única podrá prorrogarse
 por el Instituto, siempre y cuando el concesionario lo
@@ -4532,7 +4535,6 @@ Ley y demás disposiciones aplicables, así como en su
 título de concesión y acepte, previamente, las nuevas
 condiciones que, en su caso, se establezcan. El
 Instituto resolverá lo conducente dentro de los ciento
-
 ochenta días hábiles siguientes a la presentación de
 la solicitud.
 En caso de que el Instituto no resuelva en el plazo
@@ -4552,6 +4554,7 @@ título de concesión.
 El Instituto resolverá dentro del año siguiente a la
 presentación de la solicitud, si existe interés público
 en recuperar el espectro radioeléctrico o los recursos
+
 orbitales, en cuyo caso notificará al concesionario su
 determinación y procederá la terminación de la
 concesión al término de su vigencia.
@@ -4563,7 +4566,6 @@ anterior, siempre y cuando el concesionario acepte,
 previamente, las nuevas condiciones que fije el
 Instituto, entre las que se incluirá el pago de una
 contraprestación.
-
 Para el otorgamiento de las prórrogas de las
 concesiones a las que se refiere esta Ley, el Instituto
 notificará a la Secretaría, previo a su determinación,
@@ -4581,6 +4583,7 @@ Vencimiento del plazo de la concesión, salvo
 prórroga de la misma;
 
 II. Renuncia del concesionario;
+
 III. Revocación;
 IV. Rescate, o
 V. Disolución o quiebra del concesionario.
@@ -4589,7 +4592,6 @@ obligaciones contraídas por el concesionario durante
 su vigencia.
 Artículo 116. Al término de la concesión revertirán a
 la Nación las bandas de frecuencias o los recursos
-
 orbitales que hubieren sido afectos a los servicios
 previstos en la concesión.
 El Gobierno Federal tendrá derecho preferente para
@@ -4608,6 +4610,7 @@ la prestación de los servicios públicos a que se refiere
 esta Ley, el Ejecutivo Federal, a través de la
 Secretaría, podrá hacer la requisa de las vías
 generales de comunicación, así como de los bienes
+
 muebles e inmuebles y derechos necesarios para
 operar dichas vías y disponer de todo ello como lo
 juzgue conveniente.
@@ -4618,7 +4621,6 @@ personal que estuviere al servicio de la vía requisada
 cuando lo considere necesario. La requisa se
 mantendrá mientras subsistan las condiciones que la
 motivaron.
-
 Para la utilización de las vías, bienes y derechos
 objeto de la requisa, se designará un administrador,
 quien contará con amplias facultades para cumplir
@@ -4635,6 +4637,7 @@ los gastos que se originen por el peritaje. Los
 derechos de los trabajadores se respetarán conforme
 a la ley de la materia.
 TÍTULO QUINTO
+
 De las Redes y los Servicios de
 Telecomunicaciones
 Capítulo I
@@ -4647,10 +4650,10 @@ I.
 Interconectar de manera directa o indirecta sus
 redes con las de los concesionarios que lo
 soliciten, por medio de servicios de tránsito que
-
 provee una tercera red y abstenerse de realizar
 actos que la retarde, obstaculicen o que implique
 que no se realicen de manera eficiente;
+
 II. Abstenerse de interrumpir el tráfico entre
 concesionarios que tengan redes públicas de
 telecomunicaciones interconectados, sin la
@@ -4664,6 +4667,7 @@ aprobación previa del Instituto;
 IV. Ofrecer y permitir la portabilidad efectiva de
 números en los términos establecidos en esta
 Ley y por el Instituto;
+
 V. Abstenerse de realizar cargos de larga distancia
 nacional a sus usuarios por las llamadas que
 realicen a cualquier destino nacional. Podrá
@@ -4673,7 +4677,6 @@ revertido y otros servicios especiales;
 VI. Proporcionar de manera no discriminatoria
 servicios al público, de acuerdo a lo que
 establezcan los títulos de concesión;
-
 VII. Prestar sobre bases tarifarias y de calidad los
 servicios de telecomunicaciones contratados por
 los usuarios y demás condiciones establecidas
@@ -4692,6 +4695,7 @@ IX. Abstenerse de establecer barreras contractuales
 o de cualquier otra naturaleza que impidan que
 otros concesionarios instalen o accedan a
 infraestructura de telecomunicaciones en
+
 edificios, centros comerciales, fraccionamientos,
 hoteles o cualquier otro inmueble para uso
 compartido.
@@ -4703,7 +4707,6 @@ los términos y condiciones bajo los cuales se
 efectuará la conexión entre sus plataformas para
 originar o recibir comunicaciones de voz y datos. La
 celebración de dichos acuerdos será obligatoria para
-
 el agente económico preponderante en el sector de
 las telecomunicaciones o a los agentes económicos
 con poder sustancial, a quienes se les podrá imponer
@@ -4736,6 +4739,7 @@ de
 las
 telecomunicaciones. Por lo que respecta al plazo, el
 Instituto establecerá el tiempo durante el cual estarán
+
 sujetos a la obligación de prestar el servicio de
 usuario visitante, a fin de que dentro de dicho plazo
 los concesionarios que no tengan infraestructura
@@ -4747,7 +4751,6 @@ preponderante en el sector de las telecomunicaciones
 o los agentes económicos con poder sustancial, a los
 demás concesionarios de redes públicas de
 telecomunicaciones. A tal efecto, el Instituto
-
 determinará las tarifas con base en un modelo de
 costos que propicie competencia efectiva y considere
 las mejores prácticas internacionales y la participación
@@ -4770,6 +4773,7 @@ comercialización en términos de lo dispuesto en el
 artículo 270 de esta Ley con un concesionario móvil
 distinto al que se refiere el párrafo anterior, podrán
 solicitar directamente en los términos previstos en el
+
 citado párrafo, el servicio de usuario visitante con el
 objeto de complementar los servicios a comercializar.
 El Instituto establecerá los mecanismos para la
@@ -4780,7 +4784,6 @@ en el artículo que antecede, en un plazo de treinta
 días hábiles y será aplicable, en lo conducente, el
 procedimiento de resolución de desacuerdos sobre
 interconexión a que se refiere esta Ley.
-
 Artículo 122. La información que se transmita a
 través de las redes y servicios de telecomunicaciones
 será confidencial, salvo aquella que por su propia
@@ -4807,6 +4810,7 @@ los
 planes
 nacionales
 correspondientes.
+
 Los procedimientos para el otorgamiento de estos
 derechos serán definidos por el Instituto y serán
 abiertos,
@@ -4820,7 +4824,6 @@ Artículo 124. Los concesionarios que operen redes
 públicas de telecomunicaciones deberán adoptar
 diseños de arquitectura abierta de red para garantizar
 la interconexión e interoperabilidad de sus redes.
-
 A tal efecto, el Instituto elaborará, actualizará y
 administrará los planes técnicos fundamentales de
 numeración, conmutación, señalización, transmisión,
@@ -4854,7 +4857,6 @@ de
 telecomunicaciones;
 IV. Promover un uso más eficiente de los recursos;
 V. Fomentar condiciones de competencia efectiva;
-
 VI. Definir las condiciones técnicas mínimas
 necesarias para que la interoperabilidad e
 interconexión de las redes públicas de
@@ -4871,6 +4873,7 @@ IX. Establecer condiciones para el cumplimiento de
 las obligaciones que emanan de esta Ley, y
 X. Permitir que cada concesionario identifique los
 puntos de interconexión y puntos de conexión
+
 terminal
 de
 las
@@ -4885,7 +4888,6 @@ preponderante o con poder sustancial, deberá
 comunicarlo al Instituto a fin de autorizar la tecnología
 o el cambio propuesto, previa consulta a los otros
 concesionarios.
-
 Artículo 125. Los concesionarios que operen redes
 públicas de telecomunicaciones estarán obligados a
 interconectar sus redes con las de otros
@@ -4908,6 +4910,7 @@ otorgarse a cualquier otro que lo solicite, a partir de la
 fecha de la solicitud.
 Artículo 126. Con excepción de las tarifas a que se
 refiere el artículo 131 de esta Ley, los concesionarios
+
 de redes públicas de telecomunicaciones acordarán
 las condiciones bajo las cuales se llevará a cabo la
 interconexión de las mismas, de conformidad con las
@@ -4921,7 +4924,6 @@ caso, emita el Instituto.
 Artículo 127. Para efectos de la presente Ley se
 considerarán servicios de interconexión, entre otros,
 los siguientes:
-
 I.
 
 Conducción de tráfico, que incluye su originación
@@ -4936,6 +4938,7 @@ VI. Coubicación;
 VII. Compartición de infraestructura;
 VIII. Auxiliares conexos, y
 IX. Facturación y Cobranza.
+
 Artículo 128. Los convenios de interconexión
 deberán registrarse ante el Instituto en el Registro
 Público de Telecomunicaciones dentro de los treinta
@@ -4946,7 +4949,6 @@ sus redes, y a tal efecto, suscribirán un convenio en
 un plazo no mayor de sesenta días naturales
 contados a partir de que alguno de ellos lo solicite.
 Para tal efecto, el Instituto establecerá un sistema
-
 electrónico a través del cual los concesionarios
 interesados en interconectar sus redes, tramitarán
 entre sí las solicitudes de suscripción de los
@@ -4972,6 +4974,7 @@ deberá
 pronunciarse
 sobre
 la
+
 procedencia y admisión de la solicitud, en caso
 de considerarlo necesario podrá requerir al
 solicitante;
@@ -4982,7 +4985,6 @@ estime pertinentes, dentro de un plazo de cinco
 días hábiles contados a partir del día hábil
 siguiente al en que hubiere sido notificado del
 desacuerdo;
-
 IV. Concluido el plazo a que se refiere la fracción
 anterior, el Instituto con o sin manifestaciones,
 acordará sobre la admisión de las pruebas que
@@ -5000,6 +5002,7 @@ VII. Concluido el plazo para formular alegatos, el
 Instituto con o sin alegatos, deberá emitir
 resolución en un plazo no mayor a treinta días
 hábiles;
+
 VIII. Emitida la resolución, el Instituto deberá
 notificarla a las partes dentro de los diez días
 hábiles siguientes, y
@@ -5009,7 +5012,6 @@ dentro de los diez días hábiles siguientes a su
 notificación y la interconexión efectiva entre
 redes y el intercambio de tráfico deberá iniciar a
 más tardar dentro de los treinta días naturales,
-
 contados a partir del día siguiente a la
 notificación de la resolución o, en su caso, de la
 celebración del convenio respectivo.
@@ -5029,6 +5031,7 @@ resolución sobre el desacuerdo de interconexión, a
 más tardar el 15 de julio de cada año, a fin de que
 resuelva, conforme al procedimiento administrativo
 previsto en el presente artículo, las condiciones de
+
 interconexión no convenidas entre concesionarios,
 incluyendo las tarifas, antes del 15 de diciembre para
 que las nuevas condiciones de interconexión inicien
@@ -5045,7 +5048,6 @@ correspondientes
 deberán
 desahogarse en forma transparente, pronta, expedita
 y deberán evitarse actuaciones procesales que
-
 tengan como consecuencia retrasar la interconexión
 efectiva entre redes públicas de telecomunicaciones o
 las condiciones no convenidas que permitan la
@@ -5076,6 +5078,7 @@ transcurrido un plazo de treinta días hábiles contado a
 partir de la solicitud correspondiente o cuando
 manifieste su negativa sin causa justificada a juicio
 del Instituto.
+
 Artículo 131. Cuando el Instituto considere que
 existen condiciones de competencia efectiva en el
 sector de las telecomunicaciones, determinará los
@@ -5085,7 +5088,6 @@ celebrarán de manera obligatoria acuerdos de
 compensación recíproca de tráfico, sin cargo alguno
 por terminación, incluyendo llamadas y mensajes
 cortos.
-
 Durante el tiempo en que exista un agente
 económico preponderante en el sector de las
 telecomunicaciones o un agente económico que
@@ -5108,6 +5110,7 @@ los
 demás
 concesionarios por el tráfico que termine en su
 red, y
+
 b) Para el tráfico que termine en la red de los
 demás concesionarios, la tarifa de interconexión
 será negociada libremente.
@@ -5120,7 +5123,6 @@ en cuenta las asimetrías naturales de las redes a
 ser interconectadas, la participación de mercado
 o cualquier otro factor, fijando las tarifas,
 términos y/o condiciones en consecuencia.
-
 Las tarifas que determine el Instituto con base
 en
 dicha
@@ -5141,6 +5143,7 @@ El Instituto, previo a determinar que un agente
 económico preponderante ya no cuenta con dicho
 carácter o dejó de tener la participación a la que se
 refiere el párrafo segundo de este artículo, deberá
+
 determinar si dicho agente cuenta con poder
 sustancial en el mercado relevante de terminación de
 llamadas y mensajes cortos. En caso que el agente
@@ -5153,7 +5156,6 @@ párrafos segundo, tercero y cuarto del inciso b) de
 este artículo.
 Artículo 132. En los convenios de interconexión las
 partes deberán establecer, cuando menos:
-
 I.
 
 Los puntos de interconexión de su red;
@@ -5171,6 +5173,7 @@ reciprocidad entre concesionarios que se
 provean servicios, capacidades y funciones
 similares entre sí, sin perjuicio de lo que dispone
 esta Ley o determine el Instituto, y abstenerse
+
 de exigir condiciones que no son indispensables
 para la interconexión;
 V. El compromiso de llevar a cabo la interconexión
@@ -5183,7 +5186,6 @@ interconexión puedan ser proporcionados por
 cualquiera de los concesionarios y ubicarse o
 coubicarse en las instalaciones de cualquiera de
 ellos;
-
 VII. Los mecanismos que garanticen que exista
 adecuada capacidad y calidad para cursar el
 tráfico demandado entre ambas redes, sin
@@ -5200,6 +5202,7 @@ primera entrada, primera salida;
 X. Los mecanismos y condiciones para llevar a
 cabo, si así se solicita, las tareas de medir y
 tasar los servicios prestados a sus propios
+
 usuarios por parte de otros concesionarios, así
 como proporcionar la información necesaria y
 precisa para la facturación y cobro respectivos;
@@ -5209,7 +5212,6 @@ servicios de interconexión;
 XII. Los plazos máximos para entregar enlaces de
 interconexión por parte de cada uno de los
 concesionarios;
-
 XIII. Los procedimientos que se seguirán para la
 atención de fallas en la interconexión, así como
 los programas de mantenimiento respectivos;
@@ -5225,6 +5227,7 @@ fundamentales.
 Artículo 133. La prestación de todos los servicios de
 interconexión señalados en el artículo 127 será
 obligatoria para el agente económico preponderante o
+
 con poder sustancial, y los señalados en las
 fracciones I a IV de dicho artículo serán obligatorios
 para el resto de los concesionarios.
@@ -5239,7 +5242,6 @@ artículo 132 y demás disposiciones y resoluciones
 aplicables a dichos agentes.
 Artículo 134. El Instituto y la Secretaría promoverán
 acuerdos con las autoridades extranjeras, con el
-
 propósito de que exista reciprocidad en las
 condiciones de acceso de los concesionarios
 nacionales interesados en ofrecer servicios en el
@@ -5257,6 +5259,7 @@ interesadas.
 Los concesionarios deberán presentar al Instituto,
 previamente a su formalización, los convenios de
 intercambio de tráfico que se pretenden celebrar. El
+
 Instituto podrá establecer las modalidades a que
 deberán sujetarse los convenios, a fin de incorporar
 condiciones de proporcionalidad y reciprocidad
@@ -5267,7 +5270,6 @@ nacionales intercambien tráfico con redes extranjeras,
 los concesionarios solicitarán a la Secretaría su
 intervención para celebrar los convenios respectivos
 en coordinación con el Instituto.
-
 Artículo 136. El Instituto establecerá y garantizará,
 a través de la publicación de normas, las medidas
 conducentes y económicamente competitivas, para
@@ -5286,6 +5288,7 @@ Artículo 138. El agente económico preponderante
 en el sector de las telecomunicaciones o con poder
 sustancial estará sujeto a las siguientes obligaciones
 específicas:
+
 I.
 
 Registrar ante el Instituto una lista de los
@@ -5299,7 +5302,6 @@ lo menos una vez al año;
 
 II. Publicar anualmente en el Diario Oficial de la
 Federación una oferta pública de interconexión
-
 que contenga, cuando menos, las características
 y condiciones a que se refiere el artículo 267 de
 esta Ley, detalladas y desglosadas en sus
@@ -5321,6 +5323,7 @@ Instituto hubiere determinado;
 IV. No llevar a cabo prácticas que impidan o limiten
 el uso eficiente de la infraestructura dedicada a
 la interconexión;
+
 V. Celebrar acuerdos para compartición de sitios de
 coubicación y uso compartido de infraestructura;
 VI. Permitir la compartición de los derechos de vía;
@@ -5329,7 +5332,6 @@ interconexión en el mismo tiempo y forma en
 que atienden sus propias necesidades y las de
 sus subsidiarias, filiales, afiliadas o empresas del
 mismo grupo de interés económico;
-
 VIII. Contar con presencia física en los puntos de
 intercambio de tráfico de Internet en el territorio
 nacional, así como celebrar los convenios que
@@ -5347,6 +5349,7 @@ La coubicación y el uso compartido se establecerán
 mediante convenios entre los concesionarios
 interesados. A falta de acuerdo entre los
 concesionarios, cuando sea esencial para la
+
 prestación del servicio y no existan sustitutos, el
 Instituto podrá establecer las condiciones de uso, la
 compartición del espacio físico, así como la tarifa
@@ -5357,7 +5360,6 @@ siguiendo el procedimiento establecido en esta Ley
 para la resolución de desacuerdos de interconexión,
 salvo lo previsto para el plazo de resolución, el cual
 será de hasta treinta días hábiles.
-
 Los convenios en materia de coubicación y uso
 compartido que celebren los concesionarios, se
 registrarán
@@ -5380,6 +5382,7 @@ en el sector de que se trate y podrá establecer
 medidas para que la compartición se realice y se
 otorgue el acceso a cualquier concesionario bajo
 condiciones no discriminatorias, así como aquellas
+
 que se requieran para prevenir o remediar efectos
 contrarios al proceso de competencia.
 Capítulo V
@@ -5390,7 +5393,6 @@ concesiones de uso comercial a entes públicos, aun y
 cuando se encuentren bajo un esquema de
 asociación público-privada, éstas tendrán carácter de
 red compartida mayorista de servicios de
-
 telecomunicaciones, en los términos dispuestos por
 esta Ley.
 En ningún caso podrán estas redes ofrecer servicios
@@ -5408,6 +5410,7 @@ localidades respectivas, hasta en tanto exista otra
 oferta para los usuarios.
 Artículo 141. Los concesionarios con participación
 pública deberán sujetarse a principios de neutralidad
+
 a la competencia cuando sus fines sean comerciales.
 En todo caso, deberán llevar cuentas separadas de
 sus actividades de prestación de servicios de
@@ -5418,7 +5421,6 @@ Económica.
 Artículo 142. El Instituto asignará directamente 90
 MHz de la banda 700 MHz para la operación y
 explotación de una red compartida mayorista,
-
 mediante concesión de uso comercial, en los términos
 establecidos en esta Ley.
 Artículo 143. El título de concesión de una red
@@ -5441,6 +5443,7 @@ Los concesionarios que deseen hacer disponible a
 otros concesionarios la capacidad adquirida de la red
 compartida, sólo podrán hacerlo si ofrecen las
 mismas condiciones en que adquirieron dicha
+
 capacidad de la red compartida, sin que se entienda
 que la contraprestación económica está incluida en
 dichas condiciones.
@@ -5451,7 +5454,6 @@ preponderante del sector de las telecomunicaciones o
 declarado con poder sustancial, previa autorización
 del Instituto, el cual fijará los términos y condiciones
 correspondientes.
-
 Capítulo VI
 De la Neutralidad de las Redes
 Artículo 145. Los concesionarios y autorizados que
@@ -5471,9 +5473,9 @@ No podrán limitar el derecho de los usuarios del
 servicio de acceso a Internet a incorporar o
 utilizar cualquier clase de instrumentos,
 dispositivos o aparatos que se conecten a su
+
 red, siempre y cuando éstos se encuentren
 homologados;
-
 II. No discriminación. Los concesionarios y los
 autorizados a comercializar que presten el
 servicio de acceso a Internet se abstendrán de
@@ -5481,7 +5483,6 @@ obstruir, interferir, inspeccionar, filtrar o
 discriminar contenidos, aplicaciones o servicio;
 III. Privacidad. Deberán preservar la privacidad de
 los usuarios y la seguridad de la red;
-
 IV. Transparencia
 e
 información.
@@ -5501,6 +5502,7 @@ calidad o la velocidad de servicio contratada por
 el usuario, siempre que ello no constituya una
 práctica contraria a la sana competencia y libre
 concurrencia;
+
 VI. Calidad. Deberán preservar los niveles mínimos
 de calidad que al efecto se establezcan en los
 lineamientos respectivos, y
@@ -5512,7 +5514,6 @@ Artículo 146. Los concesionarios y los autorizados
 deberán prestar el servicio de acceso a Internet
 respetando la capacidad, velocidad y calidad
 contratada por el usuario, con independencia del
-
 contenido, origen, destino, terminal o aplicación, así
 como de los servicios que se provean a través de
 Internet, en cumplimiento de lo señalado en el artículo
@@ -5533,6 +5534,7 @@ a
 estaciones de radiodifusión, las torres de transmisión
 eléctrica y de radiocomunicación; las posterías en que
 estén instalados cableados de distribución eléctrica;
+
 así como los postes y ductos, entre otros, estén
 disponibles para el uso y aprovechamiento de todos
 los concesionarios sobre bases no discriminatorias y
@@ -5545,7 +5547,6 @@ seguridad y operación lo permitan, se destinen a
 promover el desarrollo y la competencia en materia de
 telecomunicaciones y radiodifusión, de acuerdo a los
 objetivos de la presente Ley.
-
 El Ejecutivo Federal, a través de la Secretaría,
 emitirá recomendaciones a los gobiernos estatales, al
 Gobierno del Distrito Federal y gobiernos municipales,
@@ -5563,6 +5564,7 @@ dependencias o entidades administradoras de
 inmuebles, el INDAABIN, la Secretaría de Hacienda y
 Crédito Público, la Secretaría de Energía, la
 Secretaría de Medio Ambiente y Recursos Naturales,
+
 la Secretaría de Desarrollo Agrario, Territorial y
 Urbano, a fin de establecer las bases y lineamientos
 para instrumentar la política inmobiliaria que permita
@@ -5578,7 +5580,6 @@ aprovechamiento de dichos bienes con derechos de
 exclusividad.
 Artículo 148. Para resolver sobre la procedencia de
 otorgar el uso o aprovechamiento de los inmuebles de
-
 la Administración Pública Federal mencionados en el
 artículo anterior, las dependencias o entidades,
 además de atender las disposiciones contenidas en la
@@ -5596,6 +5597,7 @@ redes públicas de telecomunicaciones y de
 radiodifusión.
 Capítulo VIII
 De la Comunicación por Satélite
+
 Artículo 150. La Secretaría en coordinación con las
 dependencias y entidades, definirá la capacidad
 satelital que, en su caso, se requiera de los
@@ -5606,7 +5608,6 @@ prestar servicios en el territorio nacional, como
 reserva del Estado para redes de seguridad nacional,
 servicios de carácter social y demás necesidades del
 gobierno.
-
 El Instituto se asegurará que los concesionarios y
 autorizados proporcionen la reserva de capacidad
 satelital suficiente y adecuada para las redes de
@@ -5624,6 +5625,7 @@ orbitales deberán realizar en tiempo y forma todos los
 actos previos necesarios para asegurar la puesta en
 operación de los servicios en los términos
 establecidos en la concesión.
+
 Artículo 152. Los concesionarios de recursos
 orbitales que tengan cobertura sobre el país, deberán
 establecer al menos un centro de control y operación
@@ -5635,7 +5637,6 @@ control y operación ubicado en el extranjero, mientras
 subsista la causa.
 Artículo 153. Los autorizados para explotar los
 derechos de emisión y recepción de señales de
-
 satélites extranjeros que presten servicios en el
 territorio nacional, deberán ajustarse a las
 disposiciones que establezca el Instituto para tal
@@ -5652,6 +5653,7 @@ pueda afectar la prestación o la continuidad del
 servicio.
 El Instituto fijará los plazos máximos dentro de los
 cuales los concesionarios de recursos orbitales
+
 deberán ocupar la posición orbital y reanudar la
 prestación de los servicios. Para fijar el plazo, el
 Instituto deberá sujetarse a los plazos y a la
@@ -5663,7 +5665,6 @@ se deberá solicitar autorización previa del Instituto.
 El Instituto resolverá lo conducente en un plazo de
 treinta días hábiles, contados a partir de la
 presentación de la solicitud respectiva.
-
 Capítulo IX
 Disposiciones Específicas para el Servicio de
 Radiodifusión, Televisión y Audio Restringidos
@@ -5678,6 +5679,7 @@ mexicanas, normas técnicas, las normas de ingeniería
 generalmente aceptadas y las demás disposiciones
 aplicables. Las modificaciones a las características
 técnicas se someterán a la aprobación del Instituto.
+
 Para la instalación, incremento de la altura o cambio
 de ubicación de torres o instalaciones del sistema
 radiador o cualquier cambio que afecte a las
@@ -5690,12 +5692,8 @@ mayor de ciento ochenta días, para el inicio de la
 prestación de los servicios de una emisora así como
 para los cambios de ubicación de la planta
 transmisora de la misma, tomando en cuenta los
-
-cálculos que presente el concesionario,
+cálculos que presente el concesionario, de
 conformidad con los planos aprobados.
-
-de
-
 En el caso de modificaciones de otros parámetros
 técnicos de operación de la estación, el Instituto fijará
 plazos no mayores a noventa días naturales, salvo
@@ -5710,6 +5708,7 @@ Artículo 157. El concesionario que preste servicios
 de radiodifusión tiene la obligación de garantizar la
 continuidad del servicio público de radiodifusión, por
 lo que no podrá suspender sus transmisiones, salvo
+
 por hecho fortuito o causa de fuerza mayor. El
 concesionario deberá justificar ante el Instituto la
 causa.
@@ -5721,7 +5720,6 @@ La causa que lo originó;
 
 II. El uso, en su caso, de un equipo de emergencia,
 y
-
 III. La fecha prevista para la normalización del
 servicio.
 El concesionario deberá presentar al Instituto la
@@ -5740,6 +5738,7 @@ así como el tiempo en que permanecerá la
 suspensión. En caso de no haber objeción por parte
 del Instituto dentro de los cinco días hábiles
 siguientes al plazo mencionado, el concesionario
+
 podrá llevar a cabo el mantenimiento o la sustitución
 según se trate.
 La persistencia de la suspensión del servicio más
@@ -5748,7 +5747,6 @@ sanciones correspondientes y, en su caso, a la
 revocación de la concesión.
 Sección II
 Multiprogramación
-
 Artículo 158. El Instituto otorgará autorizaciones
 para el acceso a la multiprogramación a los
 concesionarios que lo soliciten, conforme a los
@@ -5771,6 +5769,7 @@ preponderante o con poder sustancial, el
 Instituto no les autorizará la transmisión de un
 número de canales superior al cincuenta por
 ciento del total de los canales de televisión
+
 abierta, incluidos los de multiprogramación,
 autorizados a otros concesionarios que se
 radiodifunden en la región de cobertura;
@@ -5780,7 +5779,6 @@ pago de la contraprestación que en su caso
 corresponda;
 IV. Cuando el Instituto lleve a cabo el otorgamiento
 de nuevas concesiones, en todo caso
-
 contemplará en el objeto de las mismas la
 autorización para transmitir multiprogramación
 en términos del presente artículo, y
@@ -5799,6 +5797,7 @@ sólo deberán retransmitir obligatoriamente las señales
 radiodifundidas multiprogramadas de cobertura de
 cincuenta por ciento o más del territorio nacional de
 mayor audiencia.
+
 Lo anterior, sin perjuicio de que el concesionario de
 televisión restringida pueda retransmitir las demás
 señales
@@ -5811,7 +5810,6 @@ El concesionario y los productores independientes
 nacionales o extranjeros, podrán celebrar contratos
 libremente para el acceso a los canales
 multiprogramados en condiciones de mercado.
-
 El acceso a la capacidad de los canales
 multiprogramados se hará en condiciones equitativas
 y no discriminatorias, de conformidad con los
@@ -5829,6 +5827,7 @@ transmita con una tecnología innovadora, de
 conformidad con las disposiciones que emita el
 Instituto;
 IV. La fecha en que pretende iniciar transmisiones;
+
 V. En el caso de televisión, la calidad de video y el
 estándar de compresión de video utilizado para
 las transmisiones, y
@@ -5837,7 +5836,6 @@ contenido sea el mismo de algún canal
 radiodifundido en la misma zona de cobertura
 pero ofrecido con un retraso en las
 transmisiones.
-
 Artículo 161. En el caso de canales de televisión
 deberán cumplir con lo siguiente, en los términos que
 fije el Instituto:
@@ -5859,6 +5857,7 @@ siguiente a aquél en que se presente la solicitud. En
 caso de que el Instituto no emita la respuesta
 correspondiente dentro del plazo señalado, la solicitud
 se entenderá resuelta en sentido negativo.
+
 Artículo 163. El concesionario será responsable de
 la operación técnica de la estación, pero no del
 contenido que le sea entregado por programadores o
@@ -5866,7 +5865,6 @@ productores independientes que serán responsables
 del mismo.
 Sección III
 De la Retransmisión
-
 Artículo 164. Los concesionarios que presten
 servicios de televisión radiodifundida están obligados
 a permitir a los concesionarios de televisión
@@ -5888,6 +5886,7 @@ Artículo 165. Los concesionarios de televisión
 restringida vía satélite, sólo deberán retransmitir
 obligatoriamente las señales radiodifundidas de
 cobertura del cincuenta por ciento o más del territorio
+
 nacional. Todos los concesionarios de televisión
 restringida
 deberán
@@ -5908,7 +5907,6 @@ o
 como
 agentes
 económicos
-
 preponderantes en los términos del Decreto, no
 tendrán derecho a la regla de gratuidad de los
 contenidos de radiodifusión o de la retransmisión
@@ -5929,6 +5927,7 @@ gratuidad, a través de otros concesionarios, sin
 perjuicio del pago de las contraprestaciones que
 correspondan. También se revocará la concesión a
 estos últimos.
+
 Artículo 169. Las obligaciones de ofrecer y
 retransmitir
 gratuitamente
@@ -5944,7 +5943,6 @@ telecomunicaciones. Esta declaración será realizada
 por el Instituto en los términos de esta Ley y la Ley
 Federal de Competencia Económica. En este caso,
 los concesionarios estarán en libertad de acordar los
-
 precios y condiciones de la retransmisión de
 contenidos radiodifundidos. En caso de diferendo el
 Instituto determinará la tarifa que deberá estar
@@ -5973,6 +5971,7 @@ II. Instalar, operar o explotar estaciones terrenas
 para transmitir señales satelitales;
 III. Instalar equipos de telecomunicaciones y medios
 de transmisión que crucen las fronteras del país;
+
 IV. Explotar los derechos de emisión y recepción de
 señales y bandas de frecuencias asociados a
 sistemas satelitales extranjeros que cubran y
@@ -5980,7 +5979,6 @@ puedan prestar servicios en el territorio nacional,
 y
 V. Utilizar temporalmente bandas del espectro para
 visitas diplomáticas.
-
 El Instituto podrá exentar de dicha autorización a
 aquellas estaciones terrenas transmisoras que, por
 cumplir con las normas establecidas, no ocasionen
@@ -6000,6 +5998,7 @@ refiere el artículo anterior.
 Artículo 172. No se requerirá autorización del
 Instituto para la instalación y operación de estaciones
 terrenas receptoras.
+
 Artículo 173. Las comercializadoras de servicios de
 telecomunicaciones podrán:
 I.
@@ -6009,7 +6008,6 @@ los concesionarios;
 
 II. Comercializar servicios propios o revender los
 servicios y capacidad que previamente hayan
-
 contratado con algún concesionario que opere
 redes públicas de telecomunicaciones, y
 III. Contar con numeración propia o adquirirla a
@@ -6031,6 +6029,7 @@ preponderante en el sector de telecomunicaciones o
 los concesionarios que formen parte del grupo
 económico al que pertenece el agente económico
 declarado como preponderante, no podrán participar
+
 de manera directa o indirecta en alguna empresa
 comercializadora de servicios.
 Artículo 175. Las solicitudes de autorización serán
@@ -6038,7 +6037,6 @@ resueltas por el Instituto en un plazo no mayor a
 treinta días hábiles siguientes a su presentación,
 transcurrido dicho plazo sin haberse resuelto, se
 entenderán otorgadas, debiendo el Instituto expedir la
-
 autorización correspondiente dentro de los treinta días
 hábiles siguientes.
 TÍTULO SÉPTIMO
@@ -6058,6 +6056,7 @@ porción normativa “, el Padrón Nacional de Usuarios de
 Telefonía Móvil”)
 Capítulo I
 Del Registro Público de Concesiones
+
 Artículo 177. El Instituto será el encargado de crear,
 llevar y mantener actualizado el Registro Público de
 Concesiones en el cual se inscribirán:
@@ -6091,6 +6090,7 @@ concesionarios declarados como agentes
 económicos preponderantes en los sectores de
 telecomunicaciones y radiodifusión o con poder
 sustancial;
+
 IX. Las tarifas al público de los servicios de
 telecomunicaciones
 ofrecidos
@@ -6100,7 +6100,6 @@ concesionarios y los autorizados, incluidos
 descuentos y bonificaciones, así como aquellas
 que por disposición de esta Ley o determinación
 del Instituto, requieran de inscripción;
-
 X. Los
 contratos
 concesionarios;
@@ -6135,6 +6134,7 @@ recomendada por la Unión Internacional de
 Telecomunicaciones.
 Para estos efectos el Instituto participará en el
 Consejo Consultivo Nacional del Sistema
+
 Nacional de Información Estadística y Geografía;
 asesorará y solicitará a dicho Consejo la
 generación de indicadores en materia de
@@ -6145,7 +6145,6 @@ y
 proporcionará la información que obre en sus
 registros administrativos para la creación y
 actualización de los indicadores respectivos;
-
 XV. Los lineamientos, modelos y resoluciones en
 materia de interconexión, así como los planes
 técnicos fundamentales que expida el Instituto;
@@ -6166,12 +6165,12 @@ Instituto;
 XIX. Los procedimientos sancionatorios iniciados y
 las sanciones impuestas por el Instituto que
 hubieren quedado firmes;
+
 XX. Las sanciones impuestas por la Secretaría, la
 Comisión Federal de Telecomunicaciones y la
 Comisión Federal de Competencia, previas a la
 entrada en vigor del Decreto, que hubieren
 quedado firmes;
-
 XXI. Las sanciones impuestas por la PROFECO
 que hubieren quedado firmes, y
 XXII. Cualquier otro documento que
@@ -6199,12 +6198,12 @@ Pública Gubernamental y demás disposiciones
 aplicables.
 El Registro es un instrumento con el que el Instituto
 promoverá la transparencia y el acceso a la
+
 información; por tal razón el Instituto promoverá,
 permanentemente, la inclusión de nuevos actos
 materia de registro, así como la mayor publicidad y
 acceso a la información en él registrada, bajo
 principios de gobierno digital y datos abiertos.
-
 La inscripción en el Registro tendrá efectos
 declarativos y los actos en él inscritos no constituirán
 ni otorgarán por ese solo hecho derechos a favor de
@@ -6227,13 +6226,13 @@ Capítulo adicionado DOF 16-04-2021
 Capítulo declarado inválido por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
 legales 27-04-2022 y publicada DOF 12-12-2022
+
 Artículo 180 Bis. [El Instituto expedirá las
 disposiciones administrativas de carácter general para
 la debida operación del Padrón Nacional de Usuarios
 de Telefonía Móvil, el cual es una base de datos con
 información de las personas físicas o morales titulares
 de cada línea telefónica móvil que cuenten con
-
 número del Plan Técnico Fundamental de
 Numeración y cuyo único fin es el de colaborar con
 las autoridades competentes en materia de seguridad
@@ -6257,11 +6256,11 @@ Artículo adicionado DOF 16-04-2021
 Artículo declarado inválido por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
 legales 27-04-2022 y publicada DOF 12-12-2022
+
 Artículo 180 Ter. [El Padrón Nacional de Usuarios
 de Telefonía Móvil contendrá, sobre cada línea
 telefónica móvil, la información siguiente:
 I. Número de línea telefónica móvil;
-
 II. Fecha y hora de la activación de la línea
 telefónica móvil adquirida en la tarjeta SIM;
 III. Nombre completo o, en su caso, denominación o
@@ -6283,12 +6282,12 @@ telecomunicaciones o, en su caso, de los
 autorizados;
 IX.Esquema de contratación de la línea telefónica
 móvil, ya sea pospago o prepago, y
+
 X. Los avisos que actualicen la información a que se
 refiere este artículo.
 Para efectos de este artículo, se entenderá como
 tarjeta SIM al dispositivo inteligente desmontable
 utilizado en los equipos móviles, con objeto de
-
 almacenar de forma segura la clave de servicio del
 suscriptor usada para identificarse ante determinada
 red.]
@@ -6313,12 +6312,12 @@ Artículo 180 Quintes. [Los concesionarios de
 telecomunicaciones y, en su caso, los autorizados,
 deberán recabar e ingresar la información sobre la
 identidad, datos biométricos y domicilio del usuario,
+
 así como proporcionar la información con la cual se
 integrará el Padrón Nacional de Usuarios de Telefonía
 Móvil.
 Para efectos de lo anterior se utilizarán medios
 digitales y se permitirán medios remotos, siempre que
-
 se garantice la veracidad e integridad de la
 información,
 conforme
@@ -6349,13 +6348,13 @@ concesionario
 de
 telecomunicaciones o, en su caso, al autorizado que
 haya presentado el aviso para que realice las
+
 aclaraciones respectivas, de conformidad con las
 disposiciones administrativas aplicables.
 El usuario titular del servicio que no reconozca como
 propio un número de línea telefónica móvil vinculado
 a su nombre o denominación social, podrá solicitar al
 Instituto, al concesionario de telefonía o, en su caso,
-
 al autorizado, la actualización de la información
 correspondiente o su baja del Padrón Nacional de
 Usuarios de Telefonía Móvil de conformidad con lo
@@ -6377,6 +6376,7 @@ y procedimientos informáticos que resulten aplicables
 y, en su caso, podrá solicitar a los concesionarios las
 aclaraciones pertinentes sobre los datos registrados.]
 Artículo adicionado DOF 16-04-2021
+
 Artículo declarado inválido por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
 legales 27-04-2022 y publicada DOF 12-12-2022
@@ -6385,7 +6385,6 @@ mecanismos de consulta para que cualquier persona
 física o moral que acredite fehacientemente su
 personalidad pueda consultar únicamente los
 números telefónicos que le están asociados.
-
 La información contenida en el Padrón Nacional de
 Usuarios de Telefonía Móvil a que se refiere el
 artículo 180 Bis será confidencial y reservada en
@@ -6412,13 +6411,13 @@ Artículo adicionado DOF 16-04-2021
 Artículo declarado inválido por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
 legales 27-04-2022 y publicada DOF 12-12-2022
+
 Capítulo II
 Del Sistema Nacional de Información de
 Infraestructura
 Artículo 181. El Instituto creará y mantendrá
 actualizada una base de datos nacional georeferenciada que contenga la información de los
 registros de infraestructura activa y medios de
-
 transmisión, de infraestructura pasiva y derechos de
 vía y de sitios públicos.
 La base de datos será reservada en términos de la
@@ -6441,12 +6440,12 @@ para las personas que soliciten el acceso,
 mediante los lineamientos que emita el Instituto
 para garantizar que no se haga uso indebido de
 la información.
+
 A dicha base tendrán acceso las autoridades de
 seguridad y de procuración de justicia para el ejercicio
 de sus atribuciones.
 Sección I
 De la Infraestructura Activa
-
 Artículo
 182.
 La
@@ -6479,6 +6478,7 @@ medios de transmisión de otros concesionarios,
 deberán entregar al Instituto la información relativa a
 dicha infraestructura, de conformidad con los términos
 y plazos que determine el Instituto.
+
 Sección II
 De la Infraestructura Pasiva y Derechos de Vía
 Artículo
@@ -6489,7 +6489,6 @@ relativa
 a
 infraestructura pasiva y derechos de vía contendrá
 todos los datos que permitan determinar y geolocalizar el tipo, ubicación, capacidad y, si es el caso,
-
 rutas y demás características de toda la
 infraestructura pasiva utilizada o aquella susceptible
 de utilización, para el despliegue e instalación de
@@ -6515,6 +6514,7 @@ Para el caso que utilicen infraestructura pasiva o
 derechos de vía de terceros, en los contratos
 correspondientes deberán establecer mecanismos
 que aseguren la entrega al Instituto de la información
+
 relativa a dicha infraestructura, en los términos y
 plazos que determine el Instituto.
 Cuando la Secretaría ofrezca conectividad a sitios y
@@ -6526,7 +6526,6 @@ siempre
 que
 tales
 entidades
-
 proporcionen previamente a la Secretaría y al
 Instituto, la información de su infraestructura pasiva y
 derechos de vía.
@@ -6548,6 +6547,7 @@ Artículo 187. Las dependencias y entidades de la
 Administración Pública Federal, del Distrito Federal,
 estatal y municipal, organismos constitucionales
 autónomos, universidades y centros de investigación
+
 públicos, proporcionarán a la Secretaría y al Instituto
 la información de sitios públicos en términos de la
 Sección II del presente Título y de la infraestructura
@@ -6556,7 +6556,6 @@ Sistema Nacional de Información de Infraestructura
 de Telecomunicaciones, en los términos y plazos que
 determine el Instituto. Para el caso que utilicen sitios
 de terceros, en los contratos correspondientes
-
 deberán establecer mecanismos que aseguren la
 entrega a la Secretaría y al Instituto de la información
 relativa a dichos sitios de conformidad con lo
@@ -6576,6 +6575,7 @@ De la Colaboración con la Justicia
 Capítulo Único
 De las Obligaciones en materia de Seguridad y
 Justicia
+
 Artículo
 189.
 Los
@@ -6587,7 +6587,6 @@ contenidos están obligados a atender todo
 mandamiento por escrito, fundado y motivado de la
 autoridad competente en los términos que
 establezcan las leyes.
-
 Los titulares de las instancias de seguridad y
 procuración de justicia designarán a los servidores
 públicos encargados de gestionar los requerimientos
@@ -6614,6 +6613,7 @@ en los términos de lo previsto por la legislación
 penal aplicable.
 El Instituto, escuchando a las autoridades a que
 se refiere el artículo 189 de esta Ley,
+
 establecerá
 los
 lineamientos
@@ -6623,7 +6623,6 @@ concesionarios de telecomunicaciones y, en su
 caso, los autorizados deberán adoptar para que
 la colaboración a que se refiere esta Ley con
 dichas autoridades, sea efectiva y oportuna;
-
 II. Conservar
 un
 registro
@@ -6631,7 +6630,6 @@ y
 control
 de
 comunicaciones que se realicen desde cualquier
-
 tipo de línea que utilice numeración propia o
 arrendada, bajo cualquier modalidad, que
 permitan identificar con precisión los siguientes
@@ -6650,6 +6648,7 @@ origen y destino de las comunicaciones de
 telefonía móvil: número de destino, modalidad
 de líneas con contrato o plan tarifario, como en
 la modalidad de líneas de prepago;
+
 d) Datos necesarios para determinar la fecha,
 hora y duración de la comunicación, así como
 el servicio de mensajería o multimedia;
@@ -6658,7 +6657,6 @@ conservar la fecha y hora de la primera
 activación del servicio y la etiqueta de
 localización (identificador de celda) desde la
 que se haya activado el servicio;
-
 f) En su caso, identificación y características
 técnicas de los dispositivos, incluyendo, entre
 otros, los códigos internacionales de identidad
@@ -6678,6 +6676,7 @@ plazo referido, el concesionario deberá
 conservar dichos datos por doce meses
 adicionales en sistemas de almacenamiento
 electrónico, en cuyo caso, la entrega de la
+
 información a las autoridades competentes se
 realizará dentro de las cuarenta y ocho horas
 siguientes, contadas a partir de la notificación de
@@ -6687,7 +6686,6 @@ referidos en este inciso, se realizará mediante
 los mecanismos que determinen las autoridades
 a que se refiere el artículo 189 de esta Ley, los
 cuales deberán informarse al Instituto para los
-
 efectos de lo dispuesto en el párrafo tercero,
 fracción I del presente artículo.
 Los concesionarios de telecomunicaciones y, en
@@ -6714,6 +6712,7 @@ Protección de Datos Personales en Posesión de
 los Particulares;
 III. Entregar los datos conservados a las
 autoridades a que se refiere el artículo 189 de
+
 esta Ley, que así lo requieran, conforme a sus
 atribuciones, de conformidad con las leyes
 aplicables.
@@ -6722,7 +6721,6 @@ conservados para fines distintos a los previstos
 en este capítulo, cualquier uso distinto será
 sancionado por las autoridades competentes en
 términos administrativos y penales que resulten.
-
 Los concesionarios de telecomunicaciones y, en
 su caso, los autorizados, están obligados a
 entregar la información dentro de un plazo
@@ -6743,6 +6741,7 @@ nombre del responsable de dichas áreas y sus
 datos de localización; además deberá tener
 facultades amplias y suficientes para atender los
 requerimientos que se formulen al concesionario
+
 o al autorizado y adoptar las medidas
 necesarias. Cualquier cambio del responsable
 deberá notificarse previamente con una
@@ -6752,7 +6751,6 @@ los reportes de los usuarios del robo o extravío
 de los equipos o dispositivos terminales móviles
 y para que el usuario acredite la titularidad de los
 servicios contratados. Dicho reporte deberá
-
 incluir, en su caso, el código de identidad de
 fabricación del equipo;
 VI. Realizar la suspensión del servicio de los
@@ -6772,6 +6770,7 @@ de colaboración que les permitan intercambiar
 listas de equipos de comunicación móvil
 reportados por sus respectivos clientes o
 usuarios como robados o extraviados, ya sea
+
 que los reportes se hagan ante la autoridad
 competente o ante los propios concesionarios;
 VII. Realizar el bloqueo inmediato de líneas de
@@ -6782,7 +6781,6 @@ medio, como robadas o extraviadas[, y proceder
 a realizar el aviso correspondiente en el Padrón
 Nacional de Usuarios de Telefonía Móvil;] así
 como, realizar la suspensión inmediata del
-
 servicio de telefonía móvil cuando así lo instruya
 [el Instituto para efectos del Padrón Nacional de
 Usuarios de Telefonía Móvil o] la autoridad
@@ -6810,6 +6808,7 @@ telefonía
 celular,
 de
 radiocomunicación o de transmisión de datos o
+
 imagen dentro del perímetro de centros de
 readaptación
 social,
@@ -6826,7 +6825,6 @@ El bloqueo de señales a que se refiere el párrafo
 anterior se hará sobre todas las bandas de
 frecuencia que se utilicen para la recepción en
 los equipos terminales de comunicación y en
-
 ningún caso excederá de veinte metros fuera de
 las
 instalaciones
@@ -6851,6 +6849,7 @@ de datos o imagen;
 IX. Implementar un número único armonizado a
 nivel nacional y, en su caso, mundial para
 servicios de emergencia, en los términos y
+
 condiciones que determine el Instituto en
 coordinación con el Sistema Nacional de
 Seguridad
@@ -6866,7 +6865,6 @@ mensajes de texto de emergencia;
 X. Informar oportuna y gratuitamente a los usuarios
 el o los números telefónicos asociados a los
 servicios de seguridad y emergencia que
-
 determine el Instituto en coordinación con el
 Sistema Nacional de Seguridad Pública, así
 como proporcionar la comunicación a dichos
@@ -6889,6 +6887,7 @@ constituir
 una
 organización que tenga como fin la realización
 de los citados estudios e investigaciones. Los
+
 resultados que se obtengan se registrarán en un
 informe anual que se remitirá al Instituto, al
 Congreso de la Unión y al Ejecutivo Federal.
@@ -6898,7 +6897,6 @@ de la autoridad federal que faculte la ley o del titular
 del Ministerio Público de la entidad federativa
 correspondiente, podrá autorizar la intervención de
 cualquier comunicación privada.
-
 Artículo 190 Bis. Queda prohibida la fabricación,
 comercialización, adquisición, así como la instalación,
 portación, uso y operación de equipos que bloqueen,
@@ -6918,6 +6916,7 @@ de seguridad pública federales y de seguridad
 nacional en cumplimiento de sus atribuciones.
 Artículo adicionado DOF 24-01-2020
 TÍTULO NOVENO
+
 De los usuarios
 Capítulo I
 De los Derechos de los Usuarios y sus
@@ -6926,7 +6925,6 @@ Artículo 191. Los usuarios gozarán de los derechos
 previstos en esta Ley y en la Ley Federal de
 Protección al Consumidor, así como en las demás
 disposiciones aplicables.
-
 Son derechos de los usuarios:
 I.
 
@@ -6954,6 +6952,7 @@ la
 página
 electrónica
 del
+
 concesionario o autorizado, sin perjuicio de
 recibirlas por otros medios.
 La PROFECO verificará que en los contratos de
@@ -6969,7 +6968,6 @@ razonables
 y
 proporcionales
 al
-
 incumplimiento de la obligación respectiva. En
 ambos casos cuidará las particularidades de los
 diferentes paquetes y planes comerciales, de
@@ -6987,6 +6985,7 @@ VII. A que le provean los servicios de
 telecomunicaciones conforme a los parámetros
 de calidad contratados o establecidos por el
 Instituto;
+
 VIII. A ser notificado por cualquier medio, incluido el
 electrónico, de cualquier cambio en las
 condiciones originalmente contratadas;
@@ -6994,7 +6993,6 @@ IX. A exigir el cumplimiento forzoso del contrato
 cuando el proveedor del servicio modifique las
 condiciones originalmente contratadas y en caso
 de que no las cumpla a rescindir el mismo;
-
 X. A rescindir el servicio contratado o cambiar de
 paquete o plan, en forma anticipada pagando, en
 su caso, el costo remanente del equipo;
@@ -7013,6 +7011,7 @@ establecido en los contratos o cuando así lo
 determine la autoridad competente;
 XIV. En la prestación de los servicios de
 telecomunicaciones estará prohibida toda
+
 discriminación motivada por origen étnico o
 nacional, el género, la edad, las discapacidades,
 la condición social, las condiciones de salud, la
@@ -7021,7 +7020,6 @@ el estado civil o cualquier otra que atente contra
 la dignidad humana y tenga por objeto anular o
 menoscabar los derechos y libertades de las
 personas;
-
 XV. A la manifestación de las ideas, al acceso a la
 información y a buscar, recibir y difundir
 información e ideas en los términos que
@@ -7042,6 +7040,7 @@ plazo pactado concluya, excepto cuando se
 renueve el contrato por continuar usando y
 pagando los servicios de telecomunicaciones
 contratados originalmente;
+
 XIX. A no recibir llamadas del concesionario o
 autorizado sobre la promoción de servicios o
 paquetes a menos que expresamente manifieste
@@ -7054,7 +7053,6 @@ la
 mensualidad
 se
 integre
-
 exclusivamente por el cobro de los servicios sin
 pago del equipo, y
 XXI. A que en los contratos de servicios móviles se
@@ -7074,6 +7072,7 @@ Los derechos mínimos a que se refiere el párrafo
 anterior, deberán difundirse de manera permanente
 por el Instituto, la PROFECO, los concesionarios y los
 autorizados, en sus respectivos portales de Internet y
+
 se entregará a los usuarios al contratarse el servicio
 que corresponda.
 Corresponde a la PROFECO promover, proteger,
@@ -7082,7 +7081,6 @@ usuarios y consumidores, frente a los concesionarios
 o autorizados de servicios de telecomunicaciones o
 ante comités consultivos de normalización así como
 registrar y publicar los modelos de contratos de
-
 adhesión de conformidad con esta Ley y la Ley
 Federal de Protección al Consumidor.
 Corresponde al Instituto regular, monitorear y vigilar
@@ -7113,6 +7111,7 @@ los
 concesionarios
 o
 autorizados incurran en violaciones sistemáticas o
+
 recurrentes a los derechos de los usuarios o
 consumidores previstos en esta Ley y en la Ley
 Federal de Protección al Consumidor, a fin de que en
@@ -7120,7 +7119,6 @@ el ámbito de sus atribuciones realicen las acciones
 necesarias para su protección y restitución o, en su
 caso, para que el Instituto imponga las sanciones por
 incumplimiento de obligaciones a los concesionarios.
-
 Artículo 192. En los contratos que celebren los
 concesionarios o autorizados con los usuarios y
 suscriptores para la prestación de los servicios se
@@ -7145,12 +7143,12 @@ el electrónico;
 II. Liberen a los concesionarios o autorizados de su
 responsabilidad civil, excepto cuando el usuario
 o suscriptor incumpla el contrato;
+
 III. Trasladen al usuario, suscriptor o a un tercero
 que no sea parte del contrato, la responsabilidad
 del concesionario o autorizado;
 IV. Prevean términos de prescripción inferiores a los
 legales;
-
 V. Establezcan el cumplimiento de ciertas
 formalidades para la procedencia de las
 acciones que se promuevan en contra de los
@@ -7172,6 +7170,7 @@ normas oficiales mexicanas en coordinación con el
 Instituto que establezcan las obligaciones específicas
 que deberán observar los concesionarios o
 autorizados, con el objeto de garantizar la protección
+
 efectiva de los derechos de los usuarios previstos en
 la Ley Federal de Protección al Consumidor y en esta
 Ley.
@@ -7179,7 +7178,6 @@ Artículo 195. Los concesionarios y los autorizados
 están obligados a informar y respetar los precios,
 tarifas, garantías, penalidades, compensaciones,
 cantidades, calidad, medidas, intereses, cargos,
-
 términos, plazos, fechas, modalidades, reservaciones
 y demás condiciones de la prestación del servicio
 conforme a las cuales se hubiera ofrecido, obligado o
@@ -7202,6 +7200,7 @@ servicio de acuerdo con los términos y condiciones
 ofrecidas o implícitas en la publicidad o información
 desplegados, salvo convenio en contrario o
 consentimiento escrito del usuario.
+
 Artículo 197. Los concesionarios y los autorizados
 deberán bloquear contenidos, aplicaciones o servicios
 a petición expresa, escrita o grabada del usuario o
@@ -7209,7 +7208,6 @@ suscriptor o por cualquier otro medio electrónico, sin
 que el bloqueo pueda extenderse arbitrariamente a
 otros contenidos, aplicaciones o servicios distintos de
 los solicitados por el usuario o suscriptor. En ningún
-
 caso, este bloqueo podrá afectar de manera arbitraria
 a los proveedores de servicios y a las aplicaciones
 que se encuentran en Internet.
@@ -7236,13 +7234,13 @@ temporal del espectro radioeléctrico sólo en la
 cantidad y por el tiempo estrictamente necesarios,
 para que el entonces concesionario migre a los
 usuarios o suscriptores hacia otros servicios o
+
 concesionarios o cumpla con el plazo y los términos
 bajo los cuales se hubiere obligado con los mismos.
 El Instituto fijará, de conformidad con el plan de
 acción propuesto por el concesionario, la cantidad de
 espectro radioeléctrico y el tiempo suficiente para
 cumplir lo anterior, acorde al número de usuarios o
-
 suscriptores, tipo y duración de los servicios que
 hubieren contratado.
 Lo mismo aplicará en tratándose de la transición o
@@ -7269,13 +7267,13 @@ Discapacidad
 Artículo 199. El Ejecutivo Federal y el Instituto, en
 sus respectivos ámbitos de competencia, promoverán
 que los usuarios con discapacidad, tengan acceso a
+
 los servicios de telecomunicaciones, en igualdad de
 condiciones con los demás usuarios.
 Artículo 200. Además de los derechos previstos en
 esta Ley y con el objeto de que exista una igualdad
 real de oportunidades, los usuarios con discapacidad
 gozarán de los siguientes derechos:
-
 I.
 
 A solicitar y recibir asesoría de los
@@ -7304,6 +7302,7 @@ motriz, visual y auditiva a los servicios de
 telecomunicaciones;
 IV. Al acceso a un número telefónico para servicios
 de emergencia, armonizado a nivel nacional y,
+
 en su caso mundial, que contemple mecanismos
 que
 permitan
@@ -7314,7 +7313,6 @@ geográficamente la llamada y, en su caso,
 mensajes de texto; en los términos y condiciones
 que determine el Instituto en coordinación con el
 Sistema Nacional de Seguridad Pública;
-
 V. A no ser discriminado en la contratación y en la
 provisión
 de
@@ -7343,6 +7341,7 @@ cuando no implique una carga desproporcionada
 al concesionario o autorizado, y
 VIII. A recibir de los concesionarios o autorizados
 atención a través de personal capacitado.
+
 Artículo 201. Los portales de Internet de las
 dependencias de la Administración Pública Federal,
 así como de organismos públicos descentralizados,
@@ -7351,7 +7350,6 @@ Unión, del Poder Judicial de la Federación, de los
 órganos constitucionales autónomos; así como de las
 dependencias de la Administración Pública, de los
 poderes legislativo y judicial de las entidades
-
 federativas y del Distrito Federal deberán contar con
 funciones de accesibilidad para personas con
 discapacidad. En el caso de la Administración Pública
@@ -7375,13 +7373,13 @@ a cargo del Instituto en materia de accesibilidad para
 personas con discapacidad deberá atender a la
 normatividad y celebrar convenios con Instituciones
 públicas y privadas especializadas en la materia.
+
 Capítulo III
 De las Tarifas a los Usuarios
 Artículo 204. Los concesionarios del servicio de
 telecomunicaciones para uso comercial o para uso
 social fijarán libremente las tarifas a los usuarios de
 los servicios que presten.
-
 Artículo 205. Los concesionarios del servicio de
 telecomunicaciones para uso comercial o para uso
 social deberán presentar solicitud electrónica de
@@ -7405,6 +7403,7 @@ preferencial a los servicios que ofrecen, consistentes
 con los principios de competencia, por sí o a través de
 sus empresas subsidiarias, filiales, afiliadas o que
 pertenezcan al mismo grupo de interés económico.
+
 Artículo 207. En el caso de servicios de
 telecomunicaciones que se ofrecen al público
 consumidor con cargos por concepto de la duración
@@ -7414,7 +7413,6 @@ comercial, planes y tarifas, el cobro por segundo, sin
 perjuicio de otros planes que se basen en el cobro por
 minuto, por evento, por capacidad o cualquier otra
 modalidad.
-
 Artículo 208. La libertad tarifaria a que se refiere el
 artículo 204, así como lo previsto en los artículos 205
 y 207, no aplicará a los concesionarios de
@@ -7437,14 +7435,13 @@ No podrá establecer a sus usuarios cargas o
 condiciones comerciales distintas en calidad y
 precio, para los servicios que se originan y
 terminan en su red, que aquellas que aplique a
+
 los servicios que se originan o terminan en la red
 de otro concesionario;
-
 II. No podrá cobrar de manera diferenciada a sus
 usuarios del servicio móvil por las llamadas que
 reciban provenientes de su red o de la de otros
 concesionarios;
-
 III. Abstenerse de cobrar al resto de los
 concesionarios
 de
@@ -7482,6 +7479,7 @@ preponderante, que impidan u obstaculicen a
 otros concesionarios a acceder a dichos puntos
 de venta.
 Capítulo IV
+
 Conservación de los Números Telefónicos por los
 Abonados
 Artículo 209. Los concesionarios garantizarán, de
@@ -7489,7 +7487,6 @@ conformidad con los lineamientos que a tal efecto
 apruebe el Instituto, que los abonados con números
 del plan nacional de numeración telefónica puedan
 conservar, previa solicitud, los números que les hayan
-
 sido asignados, con independencia del concesionario
 que preste el servicio.
 Los costos derivados de la actualización de los
@@ -7510,13 +7507,13 @@ portabilidad de su número.
 TÍTULO DÉCIMO
 Capítulo Único
 De la Cobertura Universal
+
 Artículo 210. Para la consecución de la cobertura
 universal, la Secretaría elaborará cada año un
 programa de cobertura social y un programa de
 conectividad en sitios públicos.
 Artículo 211. El objetivo del programa de cobertura
 social es incrementar la cobertura de las redes y la
-
 penetración de los servicios de telecomunicaciones
 en zonas de atención prioritaria definidas por la
 Secretaría.
@@ -7543,13 +7540,13 @@ Geografía, definirá y publicará los indicadores que
 permitan medir la evolución de los servicios de
 telecomunicaciones y radiodifusión en todo el territorio
 nacional, siguiendo en la medida de lo posible y sin
+
 que se entienda limitativo, las metodologías
 reconocidas internacionalmente que permiten la
 medición del progreso y la comparación internacional.
 Estos indicadores tendrán por objetivo cuantificar el
 avance de los programas de cobertura social y de
 conectividad en sitios públicos.
-
 Los concesionarios involucrados en los programas
 de cobertura social, estarán obligados a reportar a la
 Secretaría los datos que permitan cuantificar el
@@ -7577,6 +7574,7 @@ las
 redes
 internacionales
 especializadas en el ámbito académico.
+
 Artículo 214. Las dependencias y entidades de la
 Administración Pública Federal deberán apoyar el
 desarrollo de los programas de cobertura social y de
@@ -7584,7 +7582,6 @@ conectividad en sitios públicos, así como la estrategia
 digital que emita el Ejecutivo Federal.
 Artículo 215. Los programas de cobertura social y
 de conectividad en sitios públicos contarán con los
-
 mecanismos que determine la Secretaría, con el
 apoyo de la Secretaría de Hacienda y Crédito Público.
 TÍTULO DÉCIMO PRIMERO
@@ -7610,6 +7607,7 @@ Fracción reformada DOF 31-10-2017
 Fracción declarada inválida por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
 legales 30-08-2022 y publicada DOF 16-12-2022
+
 III. Supervisar que la programación dirigida a la
 población infantil respete los valores y principios
 a que se refiere el artículo 3o. de la Constitución,
@@ -7622,7 +7620,6 @@ pautada
 en
 la
 programación destinada al público infantil, con
-
 base en las disposiciones reglamentarias
 emitidas por las autoridades competentes;
 IV. [Ordenar la suspensión precautoria de las
@@ -7643,6 +7640,7 @@ presente artículo, podrá celebrar convenios de
 colaboración con Dependencias u órganos federales.
 Artículo 217. Corresponde a la Secretaría de
 Gobernación:
+
 I.
 
 Ordenar y administrar la transmisión de los
@@ -7652,7 +7650,6 @@ previstos en otras disposiciones aplicables;
 
 II. Ordenar y coordinar los encadenamientos de las
 emisoras de radio y televisión;
-
 III. Ordenar la transmisión de los boletines de
 cualquier autoridad relacionados con la
 seguridad y defensa nacional, conservación del
@@ -7677,6 +7674,7 @@ tiempos de Estado, así como, en su caso,
 aquellos previstos en otras disposiciones
 aplicables, los boletines y las cadenas
 nacionales, en los términos previstos por esta
+
 Ley y sancionar el incumplimiento de los
 concesionarios;
 VII. Requerir a los concesionarios que presten el
@@ -7684,7 +7682,6 @@ servicio de televisión y audio restringidos, la
 reserva gratuita de canales para la distribución
 de señales de televisión de conformidad con las
 disposiciones legales;
-
 VIII. Verificar que las transmisiones de radio y
 televisión cumplan con los criterios de
 clasificación, que se emitan en términos de la
@@ -7704,6 +7701,7 @@ valores y principios a que se refiere el artículo
 3o. de la Constitución, y
 XI. Las demás que le confieran esta Ley y otras
 disposiciones legales.
+
 En el ejercicio de estas atribuciones, la Secretaría
 de Gobernación deberá respetar los derechos a la
 manifestación de las ideas, libertad de información y
@@ -7711,7 +7709,6 @@ de expresión y no podrá realizar ninguna censura
 previa.
 Artículo 218. Corresponde a la Secretaría de
 Educación Pública:
-
 I.
 
 En
@@ -7737,13 +7734,13 @@ interés cultural y cívico;
 
 II. Intervenir en materia de radiodifusión para
 proteger los derechos de autor, en los términos
+
 establecidos en la Ley Federal del Derecho de
 Autor, y
 III. Las demás que le confieran esta Ley y otras
 disposiciones legales.
 Artículo adicionado DOF 17-12-2015
 Artículo 219. Corresponde a la Secretaría de Salud:
-
 I.
 
 Autorizar la transmisión de publicidad relativa al
@@ -7772,6 +7769,7 @@ determinen en la legislación aplicable. La
 Secretaría de Salud podrá emitir las
 disposiciones generales aplicables a la
 publicidad de los productos señalados en este
+
 artículo, sin perjuicio de las atribuciones que en
 materia de contenidos correspondan a la
 Secretaría de Gobernación;
@@ -7779,7 +7777,6 @@ IV. Establecer las normas en materia de salud para
 la programación destinada al público infantil;
 V. Con base en los resultados de la supervisión
 realizada por el Instituto, imponer las sanciones
-
 por el incumplimiento de las normas que regulen
 la programación y la publicidad pautada dirigida
 a la población infantil en materia de salud, y
@@ -7798,6 +7795,7 @@ Capítulo II
 De los Contenidos
 Sección I
 Disposiciones Comunes
+
 Artículo 222. El derecho de información, de
 expresión y de recepción de contenidos a través del
 servicio público de radiodifusión y de televisión y
@@ -7805,7 +7803,6 @@ audio restringidos, es libre y consecuentemente no
 será objeto de ninguna persecución o investigación
 judicial o administrativa ni de limitación alguna ni
 censura previa, y se ejercerá en los términos de la
-
 Constitución, los tratados internacionales y las leyes
 aplicables.
 Las autoridades en el ámbito de su competencia
@@ -7826,12 +7823,12 @@ III. El mejoramiento de los sistemas educativos;
 IV. La difusión de los valores artísticos, históricos y
 culturales;
 V. El desarrollo sustentable;
+
 VI. La difusión de las ideas que afirmen nuestra
 unidad nacional;
 VII. La igualdad entre mujeres y hombres;
 VIII. La divulgación del conocimiento científico y
 técnico, y
-
 IX. El uso correcto del lenguaje.
 Los programadores nacionales independientes y
 aquellos programadores que agregan contenidos
@@ -7856,6 +7853,7 @@ defensor de la audiencia, tiempos de Estado,
 boletines, encadenamientos y sanciones.
 Artículo 225. Los concesionarios que presten el
 servicio de televisión y audio restringidos deberán
+
 establecer las medidas técnicas necesarias que
 permitan al usuario realizar el bloqueo de canales y
 programas que no desee recibir.
@@ -7863,7 +7861,6 @@ Artículo 226. A efecto de promover el libre
 desarrollo armónico e integral de niñas, niños y
 adolescentes, así como contribuir al cumplimiento de
 los objetivos educativos planteados en el artículo 3o.
-
 constitucional y otros ordenamientos legales, la
 programación radiodifundida dirigida a este sector de
 la población deberá:
@@ -7894,6 +7891,7 @@ infancia;
 V. Promover su interés por la comprensión de los
 valores nacionales y el conocimiento de la
 comunidad internacional;
+
 VI. Estimular su creatividad, así como su interés por
 la cultura física, la integración familiar y la
 solidaridad humana;
@@ -7908,7 +7906,6 @@ científicos,
 
 VIII. Fomentar el respeto a los derechos de las
 personas con discapacidad;
-
 IX. Promover una cultura ambiental que fomente la
 conciencia, la conservación, el respeto y la
 preservación del medio ambiente;
@@ -7923,6 +7920,7 @@ XIII. Promover el derecho de las mujeres a una vida
 libre de violencia;
 XIV. Proteger la identidad de las víctimas de delitos
 sexuales, y
+
 XV. Cumplir con la clasificación y los horarios
 relativos a la utilización y difusión de contenidos
 pornográficos.
@@ -7932,7 +7930,6 @@ extranjero, los tiempos de Estado, así como, en su
 caso, aquellos previstos en otras disposiciones
 aplicables, deberán sujetarse a lo dispuesto en las
 fracciones anteriores.
-
 Los concesionarios que presten servicios de
 radiodifusión o de televisión y audio restringidos y los
 programadores, en relación con sus respectivos
@@ -7951,6 +7948,7 @@ Será obligación de los programadores, en relación
 con sus respectivos contenidos, cumplir con las
 características de clasificación en términos de la
 presente Ley y demás disposiciones aplicables.
+
 Las películas cinematográficas radiodifundidas o de
 televisión restringida deberán utilizar los mismos
 criterios de clasificación que el resto de la
@@ -7961,16 +7959,8 @@ Los concesionarios de televisión restringida deberán
 informar la clasificación y horarios en su guía de
 programación electrónica, de conformidad con los
 lineamientos que establezca el Instituto, siempre y
-
-cuando el programador
+cuando el programador envíe la clasificación
 correspondiente.
-
-envíe
-
-la
-
-clasificación
-
 Será obligación de los programadores, en relación
 con sus respectivos contenidos, cumplir con las
 características de clasificación en términos de la
@@ -7995,6 +7985,7 @@ en
 las
 disposiciones
 reglamentarias.
+
 Lo anterior será aplicable a los materiales grabados
 en cualquier formato en el país o en el extranjero, en
 cuyo caso se podrá reconocer la clasificación del país
@@ -8006,7 +7997,6 @@ Artículo 229. La transmisión o promoción de los
 concursos en que se ofrezcan premios en sus
 distintas modalidades será previamente autorizada y
 supervisada en todas sus etapas por la Secretaría de
-
 Gobernación, a fin de proteger la buena fe y la
 integridad de los participantes y del público.
 Tratándose de concursos que se transmitan a través
@@ -8024,6 +8014,7 @@ la materia.
 Artículo 230. En sus transmisiones, las estaciones
 radiodifusoras de los concesionarios podrán hacer
 uso de cualquiera de las lenguas nacionales de
+
 conformidad con las disposiciones legales aplicables.
 Las concesiones de uso social indígena podrán hacer
 uso de la lengua del pueblo originario que
@@ -8035,7 +8026,6 @@ extranjero, deberá utilizarse el subtitulaje o la
 traducción respectiva al español, en casos
 excepcionales, la Secretaría de Gobernación podrá
 autorizar el uso de idiomas extranjeros sin subtitulaje
-
 o traducción de conformidad con las disposiciones
 reglamentarias.
 Artículo 231. Los concesionarios que presten
@@ -8054,8 +8044,16 @@ las multiprogramadas, la Secretaría de Gobernación,
 tratándose de señales del Ejecutivo Federal o la
 institución pública titular de la señal, indicarán al
 concesionario cuál de los canales de programación
-deberán retransmitir. En caso de que exista
+
+deberán retransmitir. En caso
 desacuerdo, resolverá el Instituto.
+
+de
+
+que
+
+exista
+
 Artículo 233. Los concesionarios que presten el
 servicio de televisión o audio restringido deberán
 reservar gratuitamente canales para la distribución de
@@ -8063,7 +8061,6 @@ las señales de televisión de instituciones públicas
 federales, que indique el Ejecutivo Federal, por
 conducto de la Secretaría de Gobernación, conforme
 a lo siguiente:
-
 I.
 
 Un canal, cuando el servicio consista de 31 a 37
@@ -8083,6 +8080,7 @@ Secretaría de Gobernación.
 Artículo 235. La Secretaría de Gobernación
 requerirá directamente a los concesionarios los
 canales a que se refieren los dos artículos anteriores
+
 y podrá indicar al concesionario el número de canal
 que deberá asignarles.
 Artículo 236. El concesionario podrá utilizar los
@@ -8092,7 +8090,6 @@ Gobernación.
 El concesionario cubrirá por su cuenta el costo de
 los equipos e instalaciones necesarios para la
 recepción y distribución de las señales que le sean
-
 indicadas. La calidad de transmisión de estas señales
 será, por lo menos, igual a las del resto del servicio.
 Sección II
@@ -8112,6 +8109,7 @@ a) En estaciones de televisión, el tiempo
 destinado a publicidad comercial no excederá
 del dieciocho por ciento del tiempo total de
 transmisión por cada canal de programación, y
+
 b) En estaciones de radio, el tiempo destinado
 a publicidad comercial no excederá del
 cuarenta por ciento del tiempo total de
@@ -8120,7 +8118,6 @@ La duración de la publicidad comercial no incluye
 los promocionales propios de la estación, ni las
 transmisiones correspondientes a los tiempos
 del Estado y otros a disposición del Poder
-
 Ejecutivo, ni programas de oferta de productos o
 servicios;
 II. Para concesionarios de televisión y audio
@@ -8137,8 +8134,10 @@ b) Los canales dedicados exclusivamente a
 programación de oferta de productos, estarán
 exceptuados del límite señalado en el inciso
 anterior, y
-III. Para los concesionarios de uso social indígenas
-y comunitarias de radiodifusión:
+
+III. Para los concesionarios de uso social indígenas,
+afromexicanas y comunitarias de radiodifusión:
+Párrafo reformado DOF 01-04-2024
 a) En estaciones de televisión, el tiempo
 destinado a venta de publicidad para los entes
 públicos federales y, en su caso, los de las
@@ -8149,7 +8148,6 @@ transmisión
 por
 cada canal de
 programación, y
-
 b) En estaciones de radio, destinado a venta
 de publicidad para los entes públicos federales
 y, en su caso, los de las Entidades
@@ -8171,6 +8169,7 @@ transmisión de publicidad engañosa, sin afectar la
 libertad de expresión y de difusión, se prohíbe la
 transmisión de publicidad o propaganda presentada
 como información periodística o noticiosa.
+
 Artículo 239. La publicidad en televisión restringida
 de productos o servicios no disponibles en el mercado
 nacional, deberá incluir recursos visuales o sonoros
@@ -8181,7 +8180,6 @@ Artículo 240. Los concesionarios que presten el
 servicio de radiodifusión o de televisión y audio
 restringidos, tendrán el derecho de comercializar
 espacios dentro de su programación de conformidad
-
 con lo establecido en esta Ley y demás normatividad
 que resulte aplicable.
 Artículo 241. Los concesionarios que presten el
@@ -8201,6 +8199,7 @@ fijarán libremente las tarifas de los servicios y
 espacios de publicidad, y no podrán imponerse
 mayores obligaciones al respecto que presentar ante
 el Instituto para su inscripción en el Registro Público
+
 de
 Telecomunicaciones
 las
@@ -8215,7 +8214,6 @@ Artículo 243. Sólo podrá hacerse publicidad o
 anuncio de loterías, rifas y sorteos cuando éstos
 hayan sido previamente autorizados por la Secretaría
 de Gobernación.
-
 Artículo 244. Los contenidos de los mensajes
 publicitarios atenderán al sistema de clasificación al
 que se refiere el artículo 227 de la presente Ley y
@@ -8244,7 +8242,6 @@ servicio. No se permitirá exagerar las
 propiedades o cualidades de un producto o
 servicio ni generar falsas expectativas de los
 beneficios de los mismos;
-
 V. Incitar directamente a que compren o pidan la
 compra o contratación de un producto o servicio;
 VI. Mostrar
@@ -8265,11 +8262,12 @@ mensajes
 
 subliminales
 
-o
-
 Sección III
 De la Producción Nacional y la Producción
 Nacional Independiente
+
+o
+
 Artículo 247. Los concesionarios que presten el
 servicio de radiodifusión para uso comercial que
 cubran con producción nacional cuando menos un
@@ -8281,7 +8279,6 @@ Este incentivo se aplicará de manera directamente
 proporcional al porcentaje de producción nacional con
 el que se dé cumplimiento a lo establecido en el
 párrafo anterior.
-
 Artículo 248. Los concesionarios que presten el
 servicio de radiodifusión para uso comercial que
 cubran con producción nacional independiente
@@ -8298,6 +8295,7 @@ deberán aprovechar y estimular los valores artísticos
 locales y nacionales y las expresiones de la cultura
 mexicana, de acuerdo con las características de su
 programación. La programación diaria que utilice la
+
 actuación personal, deberá incluir un mayor tiempo
 cubierto por mexicanos.
 Artículo 250. A fin de promover la producción
@@ -8312,7 +8310,6 @@ Capítulo III
 De los Tiempos Gratuitos para el Estado
 Sección I
 Tiempo del Estado
-
 Artículo 251. Los concesionarios de uso comercial,
 público y social que presten el servicio de
 radiodifusión deberán efectuar transmisiones gratuitas
@@ -8329,6 +8326,7 @@ El Ejecutivo Federal señalará las dependencias que
 deberán proporcionar el material para el uso de dicho
 tiempo y las emisiones serán coordinadas por la
 Secretaría de Gobernación.
+
 Los concesionarios de uso social estarán exentos
 del impuesto establecido en la Ley del impuesto sobre
 servicios expresamente declarados de interés público
@@ -8357,6 +8355,7 @@ tiempo de Estado, los concesionarios de uso
 comercial, público y social de radio y televisión están
 obligados a transmitir gratuitamente y de manera
 preferente:
+
 I.
 
 Los boletines o mensajes de cualquier autoridad
@@ -8371,7 +8370,6 @@ general y protección civil, y
 III. Los mensajes o cualquier aviso relacionado con
 embarcaciones o aeronaves en peligro, que
 soliciten auxilio.
-
 Artículo 255. Todos los concesionarios de uso
 comercial, público y social que presten servicios de
 radiodifusión estarán obligados a encadenar las
@@ -8387,6 +8385,7 @@ Artículo 256. El servicio público de radiodifusión de
 interés general deberá prestarse en condiciones de
 competencia y calidad, a efecto de satisfacer los
 derechos de las audiencias, para lo cual, a través de
+
 sus transmisiones brindará los beneficios de la
 cultura, preservando la pluralidad y veracidad de la
 información, además de fomentar los valores de la
@@ -8401,7 +8400,6 @@ de la Nación;
 
 II. [Recibir programación oportuna que incluya
 diferentes géneros que respondan a la expresión
-
 de la diversidad y pluralidad de ideas y opiniones
 que fortalezcan la vida democrática de la
 sociedad;]
@@ -8419,6 +8417,7 @@ IV. [Que los concesionarios se abstengan de
 transmitir publicidad o propaganda presentada
 como información periodística o noticiosa. Se
 entenderá que se transmite publicidad o
+
 propaganda como información periodística o
 noticiosa, cuando un concesionario inserta
 dentro de su programación informativa un
@@ -8431,7 +8430,6 @@ elementos y prácticas que observarán para
 prevenir y evitar incurrir en la prohibición a que
 se refiere esta fracción;]
 Fracción reformada DOF 31-10-2017
-
 Fracción declarada inválida por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
 legales 30-08-2022 y publicada DOF 16-12-2022
@@ -8451,6 +8449,7 @@ toda
 discriminación motivada por origen étnico o
 nacional, el género, la edad, las discapacidades,
 la condición social, las condiciones de salud, la
+
 religión, las opiniones, las preferencias sexuales,
 el estado civil o cualquier otra que atente contra
 la dignidad humana y tenga por objeto anular o
@@ -8461,7 +8460,6 @@ superior de la niñez, la igualdad de género y la
 no discriminación, y
 X. [Los demás que se establezcan en otras leyes,
 exclusivamente.]
-
 Fracción reformada DOF 31-10-2017
 Fracción declarada inválida por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
@@ -8480,6 +8478,7 @@ Registro Público de Concesiones 15 días después de
 su emisión por parte del concesionario; regirán
 integralmente la actuación del defensor de la
 audiencia, e incluirán los principios rectores que se
+
 compromete a respetar el concesionario ante la
 audiencia.]
 Párrafo reformado DOF 31-10-2017
@@ -8492,7 +8491,6 @@ la revisión previa o posterior del Instituto o de otra
 autoridad, ni a criterios, directrices, lineamientos o
 cualquier regulación o acto similar del mismo Instituto
 u otra autoridad.]
-
 Párrafo adicionado DOF 31-10-2017
 Párrafo declarado inválido por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
@@ -8511,6 +8509,7 @@ Párrafo adicionado DOF 31-10-2017
 Párrafo declarado inválido por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
 legales 30-08-2022 y publicada DOF 16-12-2022
+
 Sección II
 De los Derechos de las Audiencias con
 Discapacidad
@@ -8522,7 +8521,6 @@ con
 discapacidad, tengan acceso a los servicios de
 radiodifusión, en igualdad de condiciones con las
 demás audiencias.
-
 Artículo 258. Además de los derechos previstos en
 esta Ley y con el objeto de que exista una igualdad
 real de oportunidades, las audiencias con
@@ -8543,19 +8541,23 @@ III. A contar con mecanismos que les den
 accesibilidad para expresar sus reclamaciones,
 sugerencias y quejas a los defensores de las
 audiencias, siempre y cuando no represente una
+
 carga
 desproporcionada
-o
-indebida
-al
 concesionario, y
+
+o
+
+indebida
+
+al
+
 IV. Acceso a la guía de programación a través de un
 número telefónico o de portales de Internet de
 los concesionarios en formatos accesibles para
 personas con discapacidad.
 Sección III
 De la Defensoría de Audiencia
-
 Artículo 259. Los concesionarios que presten
 servicio de radiodifusión deberán contar con una
 defensoría de audiencia, que podrá ser del mismo
@@ -8575,6 +8577,7 @@ Párrafo reformado DOF 31-10-2017
 Párrafo declarado inválido por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
 legales 30-08-2022 y publicada DOF 16-12-2022
+
 [Cada concesionario que preste servicio de
 radiodifusión fijará el periodo de encargo del defensor
 de la audiencia, el que podrá ser prorrogable por dos
@@ -8586,7 +8589,6 @@ Párrafo reformado DOF 31-10-2017
 Párrafo declarado inválido por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
 legales 30-08-2022 y publicada DOF 16-12-2022
-
 La actuación de los defensores de las audiencias se
 ajustará a los criterios de imparcialidad e
 independencia, cuya prioridad será la de hacer valer
@@ -8605,6 +8607,7 @@ legales 30-08-2022 y publicada DOF 16-12-2022
 Los defensores de audiencia determinarán los
 mecanismos para la difusión de su actuación, entre
 los cuales podrán optar por correo electrónico,
+
 páginas electrónicas o un número telefónico, las
 cuales deberán contar con funcionalidades de
 accesibilidad para audiencias con discapacidad,
@@ -8614,7 +8617,6 @@ Artículo 260. [Para ser defensor de audiencia se
 deberán cumplir, únicamente, los siguientes
 requisitos:]
 Párrafo reformado DOF 31-10-2017
-
 Párrafo declarado inválido por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
 legales 30-08-2022 y publicada DOF 16-12-2022
@@ -8637,6 +8639,7 @@ durante un periodo previo de dos años.
 Artículo 261. El defensor de la audiencia atenderá
 las reclamaciones, sugerencias y quejas de las
 audiencias sobre contenidos y programación,
+
 implementando mecanismos para que las audiencias
 con discapacidad tengan accesibilidad.
 Los radioescuchas o televidentes deberán formular
@@ -8647,7 +8650,6 @@ individualizada. Asimismo, deberán presentar sus
 reclamaciones o sugerencias en un plazo no superior
 a siete días hábiles posteriores a la emisión del
 programa objeto de la misma.
-
 [Recibidas las reclamaciones, quejas o sugerencias,
 el defensor las tramitará en las áreas o
 departamentos responsables del concesionario,
@@ -8666,6 +8668,7 @@ la explicación que a su juicio merezca.
 acción correctiva que proponga el defensor de la
 audiencia al concesionario, deberá ser clara y precisa.
 Se difundirá dentro de un plazo de veinticuatro horas,
+
 en la página electrónica que el concesionario de
 radiodifusión publique para dichos efectos, sin
 perjuicio de que también pueda difundirse en medios
@@ -8676,7 +8679,6 @@ Párrafo declarado inválido por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
 legales 30-08-2022 y publicada DOF 16-12-2022
 TÍTULO DÉCIMO SEGUNDO
-
 De la Regulación Asimétrica
 Capítulo I
 De la Preponderancia
@@ -8699,6 +8701,7 @@ infraestructuras de red, incluyendo la desagregación
 de sus elementos esenciales y, en su caso, la
 separación contable, funcional o estructural de dichos
 agentes.
+
 Para efectos de lo dispuesto en esta Ley, se
 considerará como agente económico preponderante,
 en razón de su participación nacional en la prestación
@@ -8715,7 +8718,6 @@ ya sea por el número de usuarios, suscriptores,
 audiencia, por el tráfico en sus redes o por la
 capacidad utilizada de las mismas, de acuerdo con
 los datos con que disponga el Instituto.
-
 Las obligaciones impuestas al agente económico
 preponderante se extinguirán en sus efectos por
 declaratoria del Instituto una vez que, conforme a la
@@ -8737,6 +8739,7 @@ del
 agente
 económico
 preponderante.
+
 Artículo 264. El Instituto está facultado para
 declarar agentes económicos con poder sustancial en
 cualquiera de los mercados relevantes de dichos
@@ -8747,7 +8750,6 @@ en materia de competencia económica, advierta la
 existencia de elementos que hagan suponer que no
 existen condiciones de competencia efectiva en un
 mercado o que afecten la libre concurrencia y la
-
 conducta se realice o involucre a agentes económicos
 que no se encuentran sujetos a la competencia del
 Instituto en materia de telecomunicaciones y
@@ -8768,10 +8770,10 @@ proyecto de declaratoria como presunto agente
 económico preponderante. A la notificación
 correspondiente se anexará una copia del
 proyecto de declaratoria y se indicará el lugar
+
 donde se encuentra el expediente que le sirve
 de respaldo, así como el domicilio de la
 autoridad ante la cual deberá comparecer;
-
 II. El presunto agente económico preponderante
 tendrá un plazo de quince días hábiles, contados
 a partir del día siguiente a aquél en que surta
@@ -8779,14 +8781,8 @@ efectos la notificación mencionada en la fracción
 anterior, para que manifieste lo que a su derecho
 convenga y ofrezca los elementos de prueba
 que considere necesarios, los cuales deberán
-
-estar relacionados con el
+estar relacionados con el proyecto de
 declaratoria de preponderancia.
-
-proyecto
-
-de
-
 En caso de no comparecer dentro del plazo
 antes señalado, se presumirá que no existe
 inconformidad u oposición alguna del presunto
@@ -8803,6 +8799,7 @@ periodo para su preparación y desahogo por un
 plazo de hasta quince días hábiles.
 Se recibirán toda clase de pruebas, excepto la
 confesional y la testimonial a cargo de
+
 autoridades,
 ni
 aquellas
@@ -8816,7 +8813,6 @@ necesarios para que sus pruebas sean
 debidamente desahogadas dentro del plazo
 antes mencionado, de lo contrario se tendrán por
 desiertas las mismas.
-
 De ser necesario, se celebrará una audiencia en
 la cual se desahogarán las pruebas que por su
 naturaleza así lo ameriten, misma que deberá
@@ -8834,6 +8830,7 @@ presunto agente económico podrá formular
 alegatos en un plazo no mayor a cinco días
 hábiles. Transcurrido este último plazo, con o sin
 alegatos, se turnará el expediente a resolución;
+
 IV. En caso de que durante la instrucción el Instituto
 considere que es necesario establecer las
 medidas específicas o asimétricas que se le
@@ -8845,7 +8842,6 @@ preponderante manifestará lo que a su derecho
 convenga respecto de las medidas que, en su
 caso, se hayan determinado, dentro de un plazo
 que no excederá de cinco días hábiles contado a
-
 partir del día siguiente a aquel en que surta
 efectos la notificación de la apertura del
 incidente, pudiendo sólo ofrecer las pruebas que
@@ -8864,6 +8860,7 @@ dentro de un plazo no mayor a veinte días
 hábiles contado a partir del día siguiente aquel
 en que sea emitida por la autoridad
 correspondiente y, posteriormente, se publicará
+
 en el Diario Oficial de la Federación y en la
 página de Internet del propio Instituto.
 A
@@ -8878,7 +8875,6 @@ disposiciones de esta Ley.
 Artículo 266. En lo que respecta al sector de
 radiodifusión el Instituto podrá imponer las siguientes
 medidas al agente económico preponderante:
-
 I.
 
 Deberá permitir a los concesionarios de
@@ -8899,6 +8895,7 @@ misma calidad de la señal que se radiodifunde.
 No podrá participar por sí o a través de grupos
 relacionados con vínculos de tipo comercial,
 organizativo, económico o jurídico, en las
+
 licitaciones a que se refiere la fracción II del
 artículo Octavo Transitorio del Decreto.
 El Instituto expedirá las reglas que prevean los
@@ -8909,7 +8906,6 @@ económico o jurídico antes referidos.
 En casos distintos al señalado en el párrafo
 anterior, someter a la autorización del Instituto
 su participación en la licitación de bandas de
-
 frecuencias
 de
 espectro
@@ -8933,6 +8929,7 @@ IV y V anteriores deberá entregarse en los
 términos que determine el Instituto, para conocer
 la operación y explotación de sus servicios de
 radiodifusión;
+
 VII. Permitir a los concesionarios de radiodifusión el
 acceso y uso de su infraestructura pasiva bajo
 cualquier título legal, sobre bases no
@@ -8944,7 +8941,6 @@ podrán acceder a la compartición de
 infraestructura referida en esta fracción;
 VIII. Realizar una oferta pública de referencia a los
 concesionarios referidos en la fracción anterior,
-
 que contenga las condiciones, términos y tarifas
 aplicables a la compartición de infraestructura
 pasiva necesaria para la prestación del servicio
@@ -8959,6 +8955,7 @@ XI. No restringir el acceso a la publicidad cuando
 ello implique el desplazamiento de sus
 competidores o la afectación a la libre
 concurrencia;
+
 XII. En los contratos que documenten lo dispuesto
 en la fracción anterior, se deberán prever
 términos de mercado;
@@ -8970,7 +8967,6 @@ XIV. Abstenerse de aplicar un trato discriminatorio
 respecto de los espacios publicitarios ofrecidos
 en el servicio de televisión radiodifundida
 concesionada;
-
 XV. En caso de que pretenda adquirir el control,
 administrar, establecer alianzas comerciales o
 tener participación accionaria directa o indirecta
@@ -8995,6 +8991,7 @@ la producción, impresión, comercialización o
 distribución de medios impresos de circulación
 diaria, ya sea local, regional o nacional, según lo
 determine el Instituto;
+
 XVIII.
 Proveer servicios observando los niveles
 mínimos de calidad que establezca el Instituto.
@@ -9007,7 +9004,6 @@ XX. Abstenerse de contratar en exclusiva derechos
 para radiodifundir eventos deportivos con altos
 niveles esperados de audiencia a nivel nacional,
 para lo cual deberá el Instituto emitir un listado
-
 cada dos años en el que señale las razones por
 las que considera que dicha abstención
 generará competencia efectiva en el sector de la
@@ -9028,6 +9024,7 @@ preponderante en el sector de la radiodifusión
 que se entreguen por otros medios, las señales
 a que se refiere la fracción I de este artículo,
 siempre y cuando tenga por objeto optimizar la
+
 retransmisión y paguen a dicho agente la
 contraprestación correspondiente a dicha
 entrega a precios de mercado;
@@ -9040,7 +9037,6 @@ compra no tenga efectos anticompetitivos, y
 XXIV. Aquellas medidas específicas adicionales
 que el Instituto considere necesarias para
 prevenir posibles afectaciones a la competencia.
-
 El Pleno del Instituto deberá emitir un dictamen en el
 que se establezca como mínimo:
 a) La posible afectación a la competencia
@@ -9061,6 +9057,7 @@ Someter anualmente a la aprobación del Instituto
 las ofertas públicas de referencia para los
 servicios de: a) interconexión, la que incluirá el
 proyecto de convenio marco de interconexión y
+
 lo dispuesto en el artículo 132, b) usuario
 visitante, c) compartición de infraestructura
 pasiva, d) desagregación efectiva de la red
@@ -9068,14 +9065,12 @@ pública de telecomunicaciones local, e) accesos,
 incluyendo enlaces, y f) servicios de reventa
 mayorista sobre cualquier servicio que preste de
 forma minorista;
-
 II. Presentar para la autorización del Instituto las
 tarifas que aplica: i) a los servicios que presta al
 público ii) a los servicios intermedios que presta
 a otros concesionarios, y iii) a su operación de
 manera desagregada e individual a efecto de
 impedir subsidios cruzados entre servicios o
-
 esquemas que desplacen a la competencia. A tal
 efecto:
 a) Deberá someter junto con la solicitud de
@@ -9093,6 +9088,7 @@ al público puedan ser replicables por el resto
 de los concesionarios. Para tal efecto, el
 Instituto deberá elaborar y hacer público el
 dictamen de autorización de las tarifas.
+
 Dicho dictamen deberá analizar los costos que
 imputa el agente económico preponderante al
 resto de los concesionarios y los que se aplica
@@ -9107,7 +9103,6 @@ en que esta Ley disponga algo distinto. No
 podrá imputarse tarifas distintas a las que
 tenga autorizadas ante el Instituto. El Instituto
 emitirá un dictamen a fin de evitar subsidios
-
 cruzados, depredación de precios o prácticas
 anticompetitivas;
 III. Presentar anualmente información sobre su: i)
@@ -9128,6 +9123,7 @@ redes
 públicas
 de
 telecomunicaciones en cualquier punto factible,
+
 independientemente de donde se ubiquen, y
 provisionar las capacidades de interconexión en
 los términos en que le sean solicitados.
@@ -9141,7 +9137,6 @@ comerciales, de calidad y precio, diferentes a
 aquellos que se originen en la red de un tercero
 y terminen en su red, o se originen en su red y
 terminen en la red de otro concesionario;
-
 VI. No podrán discriminar entre el tráfico de su
 propia red y el tráfico de los demás
 concesionarios
@@ -9161,6 +9156,7 @@ convencionales o restricciones de cualquier tipo
 en los convenios que celebre, que tengan como
 efecto inhibir a los consumidores a elegir a otro
 proveedor de servicios;
+
 IX. Proporcionar al Instituto información contable
 separada por servicio, de forma detallada, que
 contendrá el desglose del catálogo de cuentas
@@ -9179,7 +9175,6 @@ públicas
 de
 telecomunicaciones en los mismos términos,
 condiciones y calidad que se ofrece a sí mismo.
-
 A tal efecto deberá atender las solicitudes y
 provisionar los servicios de telecomunicaciones
 a sus competidores en el mismo tiempo y forma
@@ -9194,6 +9189,7 @@ equipo terminal que cumpla con los estándares
 establecidos por el Instituto, el cual emitirá
 reglas para garantizar la no exclusividad,
 portabilidad e interoperabilidad de los mismos; y
+
 abstenerse de bloquear los equipos terminales a
 fin de que puedan usarse en otras redes;
 XII. Todos los servicios o bienes empaquetados
@@ -9210,7 +9206,6 @@ a solicitud del usuario, en caso de haberse
 comercializado otros bienes y servicios, estos
 deberán individualizarse y facturarse de forma
 independiente;
-
 XIV. Los servicios de facturación y cobranza que
 preste a terceros deberán otorgarse de forma no
 discriminatoria, con respecto de terceros y de
@@ -9229,6 +9224,7 @@ de
 telecomunicaciones o el suministro de servicios
 de telecomunicaciones de otros concesionarios
 con redes públicas de telecomunicaciones;
+
 XVII. Prestar servicios de medición, tasación,
 facturación y cobranza de servicios prestados a
 sus usuarios, por parte de otros concesionarios
@@ -9247,7 +9243,6 @@ subsidiarias o terceros, sin perjuicio de lo
 establecido en la Ley Federal de Protección de
 Datos Personales en Posesión de los
 Particulares;
-
 XIX. En materia de adquisiciones gubernamentales
 por parte de dependencias y entidades de la
 Administración Pública Federal, estatal o
@@ -9266,6 +9261,7 @@ b) En los casos en que los demás
 concesionarios no cuenten con infraestructura
 en determinadas localidades y requieran la
 contratación de la provisión de determinados
+
 servicios intermedios, entre ellos enlaces, por
 parte del agente económico, se deberá
 establecer un sistema de seguimiento en la
@@ -9280,7 +9276,6 @@ deberá dar seguimiento preciso el Instituto, y
 XX. Aquellas medidas adicionales que a juicio del
 Instituto sean necesarias para prevenir prácticas
 monopólicas o promover la competencia.
-
 Todos los servicios de interconexión serán
 obligatorios para el agente económico preponderante
 en telecomunicaciones.
@@ -9300,6 +9295,7 @@ el
 Registro
 Público
 de
+
 Telecomunicaciones y publicarse en la página de
 Internet del Instituto en la fecha de su expedición.
 Artículo 268. Para efectos de la fracción I del
@@ -9313,7 +9309,6 @@ agente económico preponderante para que manifieste
 lo que a su derecho convenga.
 La oferta deberá publicarse a través de la página de
 Internet del Instituto dentro de los primeros quince
-
 días del mes de diciembre de cada año y entrará en
 vigor a efecto de que su vigencia inicie el primero de
 enero del siguiente año.
@@ -9334,6 +9329,7 @@ infraestructuras de carácter activo y pasivo,
 servicios, capacidades y funciones de sus redes
 sobre tarifas individuales no discriminatorias que
 no excedan de aquellas fijadas por el Instituto.
+
 El acceso deberá otorgarse al menos, en los
 mismos términos y condiciones que se ofrece a
 sí mismo, sus filiales o subsidiarias u otras
@@ -9352,7 +9348,6 @@ sistemas maestros, sistemas de prueba, el
 acceso a funcionalidades de la red y los demás
 elementos de red que sean necesarios para que
 la prestación de los servicios se proporcione, al
-
 menos, en la misma forma y términos en que lo
 hace el agente económico preponderante;
 II. Ofrecer cualquier tipo de servicio de acceso a la
@@ -9374,6 +9369,7 @@ pública
 de
 telecomunicaciones local desde la cual se presta
 el servicio al usuario; ya sea que se solicite
+
 servicio completamente desagregado, servicio
 compartido, compartido sin servicio telefónico
 básico, transferencia de datos, o cualquiera que
@@ -9387,7 +9383,6 @@ infraestructura pasiva y desagregación de la red
 pública de telecomunicaciones local.
 El Instituto someterá la oferta o las ofertas
 respectivas a consulta pública durante un plazo
-
 de treinta días naturales. Terminada la consulta
 el Instituto contará con cuarenta y cinco días
 hábiles para aprobar, y en su caso, modificar la
@@ -9402,6 +9397,7 @@ La oferta respectiva permanecerá vigente por el
 año siguiente y deberá ser actualizada en caso
 de que el agente económico preponderante
 ofrezca, aplique o facture a concesionarios de
+
 redes públicas de telecomunicaciones nuevas
 condiciones, coberturas o tecnologías;
 IV. Realizar a su costa la creación, desarrollo y la
@@ -9420,7 +9416,6 @@ los relativos a reporte de fallas, coubicación
 dentro y fuera de la central de la red del agente
 económico preponderante, establecimiento de
 niveles de calidad del servicio, procesos de
-
 facturación, pruebas y homologación de equipos,
 estándares
 operativos
@@ -9444,6 +9439,7 @@ tareas relativas a la definición de los procesos
 para el monitoreo de las medidas impuestas por
 el Instituto, tecnología a ser utilizada, topología,
 niveles de calidad de servicios y creación de
+
 reportes de desempeño sobre factores
 operativos,
 económicos,
@@ -9463,7 +9459,6 @@ telecomunicaciones
 puedan
 acceder, entre otros, a los medios físicos,
 incluyendo la fibra óptica, técnicos y lógicos de
-
 la red pública de telecomunicaciones local
 perteneciente
 al
@@ -9482,6 +9477,7 @@ requieran del agente preponderante y el punto
 de acceso a la misma. Las citadas medidas
 podrán incluir la regulación de precios y tarifas,
 condiciones técnicas y de calidad, así como su
+
 calendario de implantación con el objeto de
 procurar la cobertura universal y el aumento en
 la
@@ -9505,7 +9501,6 @@ agente
 económico
 preponderante no podrá imponer a los otros
 concesionarios de dichas redes públicas
-
 términos y condiciones menos favorables que
 los que se ofrece a sí mismo, a sus filiales y
 subsidiarias y a las empresas que formen parte
@@ -9519,6 +9514,7 @@ beneficio máximo para los usuarios finales, y
 VIII. Aquellas medidas adicionales que a juicio del
 Instituto sean necesarias para garantizar la
 desagregación efectiva.
+
 Artículo 270. El agente económico preponderante
 en el sector de las telecomunicaciones deberá
 permitir a los concesionarios y a los autorizados a
@@ -9535,7 +9531,6 @@ I.
 Tiempo aire;
 
 II. Mensajes cortos;
-
 III. Datos;
 IV. Servicios de valor agregado, y
 V. Servicio de usuario visitante.
@@ -9547,6 +9542,7 @@ seleccionar la infraestructura y plataforma para
 soportar su modelo de negocio, así como facilitar la
 integración de dicha plataforma con las plataformas
 de sistemas del agente económico preponderante.
+
 Artículo 272. Los concesionarios y los autorizados a
 comercializar servicios de telecomunicaciones
 tendrán derecho a adquirir los servicios mayoristas
@@ -9564,7 +9560,6 @@ autorizado vender los mismos servicios que ofrece el
 agente económico preponderante o en su caso el
 agente económico con poder sustancial de mercado
 de forma competitiva y obtener un margen de utilidad
-
 razonable y equitativo, que cuando menos sea similar
 al del agente económico preponderante, a efecto de
 evitar ser desplazado por éste. Para determinar dicho
@@ -9579,6 +9574,7 @@ las telecomunicaciones y, en su caso, el agente
 económico con poder sustancial de mercado, no
 podrá discriminar el tráfico mayorista y la calidad del
 servicio deberá ser igual al que reciban sus clientes.
+
 Artículo 273. Las tarifas, las condiciones y los
 términos de los servicios que el agente económico
 preponderante en el sector de las telecomunicaciones
@@ -9598,7 +9594,6 @@ preponderante en el sector de las telecomunicaciones
 celebren no deberá estar sujeto a niveles de consumo
 mínimos ni máximos. En el convenio se deberá
 permitir al concesionario y, en su caso, al autorizado:
-
 I.
 
 Tener y administrar numeración propia o
@@ -9618,6 +9613,7 @@ telecomunicaciones.
 Artículo 275. El Instituto verificará de manera
 trimestral y sancionará el incumplimiento de las
 medidas y la regulación asimétrica que le hubiese
+
 impuesto al agente económico preponderante y, en su
 caso, determinará la extinción en sus efectos de la
 totalidad o de algunas de las obligaciones impuestas.
@@ -9631,7 +9627,6 @@ concesionarios interesados que no tengan el carácter
 de agentes económicos preponderantes en el sector
 que corresponda y en el plazo que para tal efecto
 establezca.
-
 El Instituto o, en su caso, el auditor externo,
 formularán
 trimestralmente
@@ -9650,6 +9645,7 @@ se proporciona a sí mismo, a terceros y a
 consumidores finales.
 Los gastos y honorarios relacionados con el
 desempeño de las funciones del auditor externo,
+
 serán cubiertos por el Instituto con los recursos que
 anualmente se prevean en su presupuesto.
 Artículo 276. En caso de que como resultado de su
@@ -9664,7 +9660,6 @@ radiodifusión y telecomunicaciones, respectivamente,
 el Instituto podrá imponer medidas adicionales, las
 cuales deberán estar directamente relacionadas con
 la afectación de que se trate.
-
 El agente económico preponderante dejará de tener
 tal carácter, cuando el Instituto determine que su
 participación nacional, considerando las variables
@@ -9678,6 +9673,7 @@ anterior sin perjuicio de las atribuciones del Instituto
 para declarar como preponderante al mismo agente,
 por cualquiera de las variables establecidas en la
 Constitución.
+
 Los agentes económicos preponderantes podrán
 presentar en cualquier momento al Instituto un plan
 que incluya en lo aplicable, la separación estructural,
@@ -9696,11 +9692,11 @@ I.
 
 El Instituto analizará, evaluará y en su caso,
 aprobará el plan propuesto dentro de los ciento
-
 veinte días naturales siguientes a su
 presentación. En caso de que lo considere
 necesario, podrá prorrogar dicho plazo hasta por
 noventa días, en una sola ocasión;
+
 II. Para su aprobación, el Instituto deberá
 determinar que el plan propuesto reduce
 efectivamente la participación nacional del
@@ -9716,6 +9712,7 @@ que el agente preponderante disminuye, sea
 transferida a otro u otros agentes económicos
 distintos e independientes del agente económico
 preponderante y que no tiene como objeto o
+
 efecto afectar o reducir la cobertura social
 existente;
 III. Al aprobar el plan, el Instituto deberá fijar los
@@ -9731,7 +9728,6 @@ mercados que integran el sector de que se trate
 de conformidad con la Ley Federal de
 Competencia Económica y que ninguno de los
 agentes resultantes o participantes en el mismo
-
 actualiza los criterios para ser considerado como
 agente económico preponderante en los
 términos de esta Ley, el Instituto extinguirá las
@@ -9747,6 +9743,7 @@ sustancial de mercado, hasta en tanto el Instituto
 le imponga las medidas que correspondan en
 términos de la Ley Federal de Competencia
 Económica;
+
 V. Lo anterior, no impide que el Instituto realice un
 nuevo procedimiento para determinar si existe
 poder sustancial en algún mercado por parte de
@@ -9762,7 +9759,6 @@ verifique que no se generan efectos adversos a
 la competencia deberán haber transcurrido
 dieciocho meses a partir de la ejecución del plan
 aprobado, plazo durante el cual los agentes
-
 deberán acreditar también estar en cumplimiento
 de las leyes aplicables y de sus títulos de
 concesión.
@@ -9785,6 +9781,7 @@ límites de acumulación de espectro radioeléctrico que
 al efecto determine.
 Capítulo II
 De las medidas de fomento a la competencia
+
 Artículo 278. Las medidas de fomento a la
 competencia en televisión, radio, telefonía y servicios
 de datos deberán aplicarse en todos los segmentos
@@ -9799,7 +9796,6 @@ sustancial en cualquier mercado relevante de los
 sectores de radiodifusión y telecomunicaciones, en
 términos de esta Ley y la Ley Federal de
 Competencia Económica.
-
 Artículo 280. El Instituto declarará si un agente
 económico tiene poder sustancial en algún mercado
 relevante de los sectores de radiodifusión o
@@ -9811,6 +9807,7 @@ Artículo 281. El Instituto establecerá las
 obligaciones específicas al agente económico con
 poder sustancial a que se refiere el artículo anterior,
 de conformidad con el siguiente procedimiento:
+
 I.
 
 El Instituto notificará al agente el proyecto de
@@ -9830,7 +9827,6 @@ la notificación mencionada en la fracción
 anterior, para que manifieste lo que a su derecho
 convenga y ofrezca los elementos de prueba
 que considere necesarios, los cuales sólo
-
 deberán estar relacionados con el proyecto de
 regulación.
 En caso de no comparecer dentro del plazo
@@ -9844,6 +9840,7 @@ el Instituto, a través de la autoridad que se
 determine en su estatuto, se pronunciará sobre
 la admisión de las pruebas ofrecidas y, en su
 caso, ordenará abrir un periodo para su
+
 preparación y desahogo por un plazo de hasta
 diez días hábiles.
 Se recibirán toda clase de pruebas, excepto la
@@ -9865,7 +9862,6 @@ plazo
 antes
 mencionado, de lo contrario se tendrán por
 desiertas las mismas.
-
 De ser necesario, se celebrará una audiencia en
 la cual se desahogarán las pruebas que por su
 naturaleza así lo ameriten, misma que deberá
@@ -9880,6 +9876,7 @@ para que sea tomada en consideración en la
 resolución definitiva.
 Concluida la tramitación del procedimiento, el
 agente económico podrá formular alegatos en un
+
 plazo no mayor a tres días hábiles. Transcurrido
 este último plazo, con o sin alegatos, se turnará
 el expediente a resolución, y
@@ -9894,7 +9891,6 @@ cinco días hábiles contados a partir del día siguiente a
 aquel en que sea emitida por la autoridad
 correspondiente y, posteriormente, se publicará en el
 Diario Oficial de la Federación.
-
 A
 este
 procedimiento
@@ -9918,6 +9914,7 @@ I.
 Información;
 
 II. Calidad;
+
 III. Tarifas;
 IV. Ofertas comerciales, y
 V. Facturación.
@@ -9931,7 +9928,6 @@ de agentes con poder sustancial. Asimismo, el
 Instituto podrá imponer al agente con poder sustancial
 las medidas previstas en los artículos 266 a 277 de la
 presente Ley.
-
 Artículo
 284.
 Los
@@ -9949,6 +9945,7 @@ radiodifusión y telecomunicaciones que sirvan a un
 mismo mercado o zona de cobertura geográfica, que
 impida o limite el acceso a información plural en tales
 mercados y zonas, se estará a lo siguiente:
+
 I.
 
 El Instituto indicará al concesionario que preste
@@ -9966,7 +9963,6 @@ nacionales independientes cuyo financiamiento
 sea mayoritariamente de origen mexicano, de
 conformidad con las reglas que al efecto emita el
 Instituto.
-
 Artículo 286. Cuando el concesionario incumpla lo
 previsto en el artículo anterior, el Instituto impondrá
 los límites siguientes:
@@ -9989,6 +9985,7 @@ del
 espectro
 radioeléctrico destinadas a la prestación de
 servicios de radiodifusión, o
+
 III. A la propiedad cruzada de empresas que
 controlen varios medios de comunicación que
 sean concesionarios de radiodifusión y
@@ -10004,9 +10001,9 @@ Las restricciones o limitaciones al acceso a la
 información plural, la existencia de barreras a la
 entrada de nuevos agentes y los elementos que
 previsiblemente puedan alterar tanto dichas
-
 barreras como la oferta de otros competidores
 en ese mercado o zona de cobertura;
+
 II. La existencia de otros medios de información y
 su relevancia;
 III. Las posibilidades de acceso del o de los agentes
@@ -10016,6 +10013,7 @@ similares o equivalentes;
 IV. El comportamiento durante los dos años previos
 del o los agentes económicos que participan en
 dicho mercado, y
+
 V. Las ganancias en eficiencia que pudieren derivar
 de la actividad del agente económico que
 incidan favorablemente en el proceso de
@@ -10030,7 +10028,6 @@ los que sea titular, en la parte que sea necesaria para
 asegurar el cumplimiento de dichas medidas, a fin de
 garantizar lo dispuesto por los artículos 6o. y 7o. de la
 Constitución.
-
 Los agentes económicos tendrán derecho a
 presentar un programa de desincorporación ante el
 Instituto, quien lo aprobará o modificará motivando
@@ -10043,6 +10040,7 @@ De la Homologación
 Artículo 289. Los productos, equipos, dispositivos o
 aparatos destinados a telecomunicaciones o
 radiodifusión que puedan ser conectados a una red
+
 de telecomunicaciones o hacer uso del espectro
 radioeléctrico deberán homologarse conforme a las
 normas o disposiciones técnicas aplicables de
@@ -10055,7 +10053,6 @@ telecomunicaciones o radiodifusión que hayan
 evaluado su conformidad en otro Estado con el que el
 gobierno mexicano haya suscrito un acuerdo o tratado
 internacional para estos efectos.
-
 El solicitante de la homologación para los productos
 referidos en el párrafo anterior, deberá contar con
 domicilio en los Estados Unidos Mexicanos.
@@ -10070,6 +10067,7 @@ El Instituto deberá atender cualquier inconformidad
 relacionada con el procedimiento de homologación
 que presenten los solicitantes, a fin de que se tomen
 las medidas pertinentes.
+
 Los lineamientos mencionados, deberán incluir una
 clasificación genérica de productos sujetos a
 homologación e indicar las normas o disposiciones
@@ -10084,7 +10082,6 @@ Normas oficiales mexicanas;
 
 II. Disposiciones técnicas expedidas por el Instituto;
 III. Normas Mexicanas;
-
 IV. Normas y disposiciones técnicas referenciadas
 en tratados internacionales suscritos y
 ratificados por nuestro país;
@@ -10097,6 +10094,7 @@ El Instituto estará facultado para acreditar peritos en
 materia de telecomunicaciones y de radiodifusión,
 como apoyo a los procedimientos de homologación.
 TÍTULO DÉCIMO CUARTO
+
 Régimen de Verificación
 Capítulo Único
 De la Verificación y Vigilancia
@@ -10109,7 +10107,6 @@ aplicables.
 Para tal efecto, los concesionarios, autorizados y
 cualquier persona relacionada, estarán obligados a
 permitir a los verificadores del Instituto, el acceso al
-
 domicilio de la empresa e instalaciones, así como a
 otorgarles todas las facilidades, información y
 documentación para que realicen la verificación en los
@@ -10126,6 +10123,7 @@ concesiones o autorizaciones otorgadas, sin perjuicio
 de la información que se les requiera en cualquier
 momento para el cumplimiento de las funciones del
 Instituto.
+
 Los concesionarios que tengan redes públicas de
 telecomunicaciones estarán obligados a proporcionar
 al Instituto, toda la información relativa a la topología
@@ -10138,7 +10136,6 @@ estarán obligados a proporcionar al Instituto cualquier
 información para integrar el acervo estadístico del
 sector, sin perjuicio de las facultades del Instituto
 Nacional de Estadística y Geografía.
-
 La información a que se refiere el presente artículo,
 se deberá presentar de acuerdo a la metodología,
 formato y periodicidad que para tal efecto establezca
@@ -10155,6 +10152,7 @@ información si ésta no cumple. Lo anterior, sin
 perjuicio de las facultades conferidas a la PROFECO.
 Artículo 294. Cuando iniciada una visita de
 verificación el Instituto considere que el concesionario
+
 esté incurriendo en una práctica monopólica por la
 conducta objeto de la verificación dará vista a la
 autoridad investigadora, sin perjuicio de continuar con
@@ -10167,7 +10165,6 @@ perturbaciones a los sistemas y servicios de
 telecomunicaciones y de radiodifusión, con el objeto
 de asegurar el mejor funcionamiento de los servicios y
 la utilización eficiente del espectro.
-
 Artículo
 296.
 Para
@@ -10190,6 +10187,7 @@ naturales, y
 III. El auxilio de la fuerza pública.
 La cuantía total de la multa no podrá exceder al
 monto de la fianza de garantía del concesionario que
+
 haya otorgado al Instituto o a la autoridad competente
 antes de la entrada en vigor de la presente Ley.
 Si fuera insuficiente el apremio, se podrá solicitar a
@@ -10202,7 +10200,6 @@ Para efectos de la fracción III de este artículo, las
 autoridades federales y los cuerpos de seguridad o
 policiales deberán prestar en forma expedita el apoyo
 que solicite el Instituto. En los casos de cuerpos de
-
 seguridad pública de las entidades federativas o de
 los municipios, el apoyo se solicitará en los términos
 de los ordenamientos que regulan la seguridad
@@ -10218,6 +10215,7 @@ TÍTULO DÉCIMO QUINTO
 Régimen de Sanciones
 Capítulo I
 Disposiciones Generales
+
 Artículo 297. Las infracciones a esta Ley, a las
 disposiciones administrativas y a los títulos de
 concesión o autorizaciones, se sancionarán por el
@@ -10230,7 +10228,6 @@ sectores de telecomunicaciones y radiodifusión, se
 sancionarán por el Instituto en términos de lo
 dispuesto y atendiendo a los procedimientos
 establecidos en dicha ley.
-
 Las infracciones a los derechos de los usuarios
 establecidos en esta Ley, cometidas por los
 concesionarios o autorizados, serán sancionadas por
@@ -10245,6 +10242,7 @@ aplicables; cadenas nacionales, boletines, el Himno
 Nacional, concursos, así como la reserva de canales
 de televisión y audio restringidos conforme a lo
 dispuesto en el Capítulo III de este Título.
+
 [El Instituto sancionará el incumplimiento de los
 tiempos máximos establecidos para la transmisión de
 mensajes comerciales y lo relativo a la materia de
@@ -10257,7 +10255,6 @@ legales 30-08-2022 y publicada DOF 16-12-2022
 Capítulo II
 Sanciones en materia de Telecomunicaciones y
 Radiodifusión
-
 Artículo 298. Las infracciones a lo dispuesto en esta
 Ley y a las disposiciones que deriven de ella, se
 sancionarán por el Instituto de conformidad con lo
@@ -10279,6 +10276,7 @@ sobre
 
 III. Incumplir con las obligaciones de registro
 establecidas en esta Ley.
+
 IV. Otras violaciones a esta Ley, a los Reglamentos,
 a las disposiciones administrativas, planes
 técnicos fundamentales y demás disposiciones
@@ -10292,7 +10290,6 @@ espontáneo del concesionario y no hubiere mediado
 requerimiento o visita de inspección o verificación del
 Instituto, no se aplicará la sanción referida en el
 presente inciso.
-
 En caso de que se trate de la primera infracción, el
 Instituto amonestará al infractor por única ocasión.
 B) Con multa por el equivalente de 1% hasta 3% de
@@ -10314,6 +10311,7 @@ radiodifusión,
 en
 contravención a las disposiciones aplicables u
 órdenes emitidas por la autoridad;
+
 III. No cumplir con las obligaciones o condiciones
 establecidas en la concesión o autorización cuyo
 incumplimiento no esté sancionado con
@@ -10325,7 +10323,6 @@ notificada el 14-02-2019 y publicada DOF 02-04-2019.
 Derogada DOF 11-01-2021
 C) Con multa por el equivalente de 1.1% hasta 4%
 de los ingresos del concesionario o autorizado por:
-
 I.
 
 Celebrar acuerdos que impidan ofrecer servicios
@@ -10345,6 +10342,7 @@ IV. Establecer barreras de cualquier naturaleza que
 impidan la conexión del equipo terminal del
 usuario con otros concesionarios que operen
 redes de telecomunicaciones;
+
 V. No cumplir con las obligaciones establecidas en
 esta Ley relacionadas con la colaboración con la
 justicia, o
@@ -10372,6 +10370,7 @@ garantizar la confidencialidad y privacidad de las
 comunicaciones de los usuarios;
 VI. Contravenir las disposiciones o resoluciones en
 materia de tarifas que establezca el Instituto, o
+
 VII. Incumplir con los niveles de eficiencia en el uso
 del espectro radioeléctrico establecidos por el
 Instituto.
@@ -10391,7 +10390,6 @@ o
 
 II. Interrumpa, sin causa justificada o sin
 autorización del Instituto, la prestación total de
-
 servicios en poblaciones en que el concesionario
 sea el único prestador de ellos.
 Artículo 299. Los ingresos a los que se refiere el
@@ -10408,6 +10406,7 @@ correspondiente al ejercicio fiscal anterior.
 El Instituto podrá solicitar a los concesionarios,
 autorizados o persona infractora, la información fiscal
 necesaria a que se refiere este artículo para
+
 determinar el monto de las multas señaladas en el
 artículo anterior, pudiendo utilizar para tal efecto los
 medios de apremio que esta Ley establece.
@@ -10418,7 +10417,6 @@ Sobre la Renta o que habiéndoseles solicitado no
 hubieren proporcionado la información fiscal a que se
 refiere el artículo que antecede, se les aplicarán las
 multas siguientes:
-
 I.
 
 En los supuestos del artículo 298, inciso A),
@@ -10437,6 +10435,7 @@ dos millones de veces el salario mínimo.
 Para calcular el importe de las multas referidas a
 razón de días de salario mínimo, se tendrá como base
 el salario mínimo general diario vigente en el Distrito
+
 Federal del día en que se realice la conducta o se
 actualice el supuesto.
 Artículo 300. En caso de reincidencia, el Instituto
@@ -10447,7 +10446,6 @@ en una infracción que haya sido sancionada y haya
 causado estado, realice otra conducta prohibida por
 esta Ley, independientemente de su mismo tipo o
 naturaleza.
-
 Para la imposición de las sanciones no se
 considerará la reincidencia en las infracciones
 cometidas a lo dispuesto en las fracciones I y II del
@@ -10464,6 +10462,7 @@ La gravedad de la infracción;
 
 II. La capacidad económica del infractor;
 III. La reincidencia, y
+
 IV. En su caso, el cumplimiento espontáneo de las
 obligaciones que dieron origen al procedimiento
 sancionatorio, el cual podrá considerarse como
@@ -10475,7 +10474,6 @@ disposiciones aplicables por dicho órgano.
 Artículo 303. Las concesiones y las autorizaciones
 se podrán revocar por cualquiera de las causas
 siguientes:
-
 I.
 
 No iniciar la prestación de los servicios dentro de
@@ -10493,6 +10491,7 @@ IV. Negarse a interconectar a otros concesionarios,
 interrumpir total o parcialmente el tráfico de
 interconexión u obstaculizarla sin causa
 justificada;
+
 V. No cumplir con lo dispuesto en el primer párrafo
 del artículo 164 de esta Ley;
 VI. Negarse a la retransmisión de los contenidos
@@ -10507,7 +10506,6 @@ de algún gobierno extranjero;
 VIII. Ceder, arrendar, gravar o transferir las
 concesiones o autorizaciones, los derechos en
 ellas conferidos o los bienes afectos a las
-
 mismas en contravención a lo dispuesto en esta
 Ley;
 IX. No enterar a la Tesorería de la Federación las
@@ -10521,6 +10519,7 @@ XI. No otorgar las garantías que el Instituto hubiere
 establecido;
 XII. Cambiar la ubicación de la estación de
 radiodifusión sin previa autorización del Instituto;
+
 XIII. Cambiar las bandas de frecuencias asignadas,
 sin la autorización del Instituto;
 XIV. Suspender, total o parcialmente, en más del
@@ -10536,7 +10535,6 @@ vinculadas
 con
 prácticas
 monopólicas;
-
 XVI. En el caso de los agentes económicos
 preponderantes o con poder sustancial que se
 beneficien directa o indirectamente de la regla
@@ -10561,6 +10559,7 @@ determinaciones del Instituto relativas a
 desagregación de la red local, desincorporación
 de activos, derechos o partes necesarias o de
 regulación asimétrica;
+
 XIX. Utilizar para fines distintos a los solicitados, las
 concesiones otorgadas por el Instituto en los
 términos previstos en esta Ley u obtener lucro
@@ -10572,7 +10571,6 @@ El Instituto procederá de inmediato a la revocación
 de las concesiones y autorizaciones en los supuestos
 de las fracciones I, III, IV, VII, VIII, X, XII, XIII, XVI y
 XX anteriores. En los demás casos, el Instituto sólo
-
 podrá revocar la concesión o la autorización cuando
 previamente hubiese sancionado al respectivo
 concesionario por lo menos en dos ocasiones por
@@ -10589,6 +10587,7 @@ autorización que hubiere sido revocada, estará
 inhabilitado para obtener, por sí o a través de otra
 persona, nuevas concesiones o autorizaciones de las
 previstas en esta Ley, por un plazo de cinco años
+
 contados a partir de que hubiere quedado firme la
 resolución respectiva.
 Artículo 305. Las personas que presten servicios de
@@ -10602,7 +10601,6 @@ Artículo 306. Quien dañe, perjudique o destruya
 cualquiera de las vías generales de comunicación en
 materia de telecomunicaciones y radiodifusión,
 cualquier bien inmueble o mueble usado en la
-
 instalación u operación de una concesión,
 interrumpiendo total o parcialmente sus servicios,
 será castigado con un año a ocho años de prisión y
@@ -10618,6 +10616,7 @@ proceda, la revocación de la concesión respectiva.
 Sanciones en materia del Padrón Nacional de
 Usuarios de Telefonía Móvil]
 Capítulo adicionado DOF 16-04-2021
+
 Capítulo declarado inválido por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
 legales 27-04-2022 y publicada DOF 12-12-2022
@@ -10634,7 +10633,6 @@ en
 las
 disposiciones
 administrativas de carácter general;
-
 II. No registrar un número de línea telefónica móvil;
 III. No registrar las modificaciones o presentar los
 avisos que actualicen la información de un
@@ -10649,6 +10647,7 @@ en forma ilícita, registrar datos falsos,
 proporcionar información falsa o facilitar
 información a usuarios o terceros que no tengan
 derecho, acceder sin autorización a la
+
 información del Padrón Nacional de Usuarios de
 Telefonía Móvil o no denunciar alguna
 irregularidad teniendo la obligación de hacerlo, y
@@ -10660,7 +10659,6 @@ Artículo adicionado DOF 16-04-2021
 Artículo declarado inválido por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
 legales 27-04-2022 y publicada DOF 12-12-2022
-
 Artículo 307 Ter. [A quien cometa las infracciones a
 que se refiere el artículo anterior, se le impondrán las
 multas siguientes:
@@ -10675,6 +10673,7 @@ IV.De 10,000 a 15,000 Unidades de Medida y
 Actualización, a la señalada en la fracción V, y
 V. De dos a tres veces el lucro indebido obtenido
 para la comprendida en la fracción VI.]
+
 Artículo adicionado DOF 16-04-2021
 Artículo declarado inválido por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
@@ -10687,7 +10686,6 @@ infractor. Dichas sanciones no lo liberan del
 cumplimiento de las obligaciones que establece esta
 Ley, y se aplicarán sin perjuicio de la responsabilidad
 administrativa, civil o penal que le resulte.]
-
 Artículo adicionado DOF 16-04-2021
 Artículo declarado inválido por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
@@ -10703,6 +10701,7 @@ legales 27-04-2022 y publicada DOF 12-12-2022
 Capítulo III
 Sanciones en materia de Contenidos
 Audiovisuales
+
 Artículo 308. Las infracciones a lo dispuesto en esta
 Ley y a las disposiciones que deriven de ella en
 materia de contenidos audiovisuales, se sancionarán
@@ -10723,7 +10722,6 @@ del
 concesionario
 autorizado
 o
-
 programador y no hubiere mediado requerimiento o
 visita de inspección o verificación de la Secretaría de
 Gobernación, no se aplicará la sanción referida en el
@@ -10751,7 +10749,6 @@ Ley y sus disposiciones reglamentarias.
 C) Con multa por el equivalente de 2.51% hasta el
 5% de los ingresos del concesionario, autorizado o
 programador, por:
-
 I.
 
 Incluir
@@ -10780,6 +10777,7 @@ Artículo 309. En el caso de las infracciones
 previstas en el artículo anterior, para la imposición de
 las sanciones se considerará la intencionalidad del
 infractor.
+
 Artículo 310. Para la determinación y cuantificación
 de las multas a que se refiere este capítulo se
 aplicará lo dispuesto en el presente Título.
@@ -10792,7 +10790,6 @@ Denominación del Capítulo declarada inválida por
 sentencia de la SCJN a Acción de Inconstitucionalidad
 notificada para efectos legales
 30-08-2022 y publicada DOF 16-12-2022
-
 Artículo 311. Corresponde al Instituto sancionar
 conforme a lo siguiente:
 a) Con multa por el equivalente al doble de los
@@ -10807,6 +10804,7 @@ I. No poner a disposición de las audiencias
 mecanismos de defensa;
 II. No nombrar defensor de las audiencias o no
 emitir códigos de ética, o
+
 c) Con multa de 100 a 500 salarios mínimos diarios
 vigentes en el Distrito Federal al defensor de las
 audiencias por:
@@ -10820,7 +10818,6 @@ Derogación de la fracción declarada inválida por sentencia
 de la SCJN a Acción de Inconstitucionalidad notificada
 para efectos legales
 30-08-2022 y publicada DOF 16-12-2022
-
 En el supuesto de que haya cumplimiento
 espontáneo del concesionario o del defensor de las
 audiencias, respectivamente, y no hubiere mediado
@@ -10834,6 +10831,7 @@ Capítulo Único
 Medios de Impugnación
 Artículo 312. Las normas generales, actos u
 omisiones del Instituto podrán ser impugnados
+
 únicamente mediante el juicio de amparo indirecto y
 no serán objeto de suspensión.
 Artículo 313. Cuando se trate de resoluciones del
@@ -10846,7 +10844,6 @@ podrán reclamarse en el amparo promovido contra la
 resolución referida.
 En ningún caso se admitirán recursos ordinarios o
 constitucionales contra actos intraprocesales.
-
 Artículo 314. Los juicios de amparo indirecto serán
 sustanciados
 por
@@ -10864,6 +10861,7 @@ radiodifusión, conocer de las controversias que se
 susciten con motivo de la aplicación de esta Ley.
 ARTÍCULOS SEGUNDO A DÉCIMO TERCERO.……….
 TRANSITORIOS
+
 PRIMERO. El presente Decreto entrará en vigor a
 los treinta días naturales siguientes a su publicación
 en el Diario Oficial de la Federación, sin perjuicio de lo
@@ -10881,7 +10879,6 @@ Telecomunicaciones
 y
 Radiodifusión que se expide por virtud del presente
 Decreto.
-
 TERCERO. Las disposiciones reglamentarias y
 administrativas y las normas oficiales mexicanas en
 vigor, continuarán aplicándose hasta en tanto se
@@ -10902,6 +10899,7 @@ QUINTO. El Ejecutivo Federal deberá emitir, dentro
 de los ciento ochenta días naturales siguientes a la
 expedición del presente Decreto, las disposiciones
 reglamentarias y lineamientos en materia de
+
 contenidos establecidos en la Ley Federal de
 Telecomunicaciones y Radiodifusión que se expide
 por virtud del presente Decreto.
@@ -10913,7 +10911,6 @@ párrafo anterior.
 SEXTO. La atención, trámite y resolución de los
 asuntos y procedimientos que hayan iniciado previo a
 la entrada en vigor del presente Decreto, se realizará
-
 en los términos establecidos en el artículo Séptimo
 Transitorio del Decreto por el que se reforman y
 adicionan diversas disposiciones de los artículos 6o.,
@@ -10931,6 +10928,7 @@ de Telecomunicaciones, las concesiones y permisos
 otorgados con anterioridad a la entrada en vigor del
 presente Decreto, se mantendrán en los términos y
 condiciones consignados en los respectivos títulos o
+
 permisos hasta su terminación, a menos que se
 obtenga la autorización para prestar servicios
 adicionales a los que son objeto de su concesión o
@@ -10948,7 +10946,6 @@ radioeléctrico, no podrán modificarse en cuanto al
 plazo de la concesión, la cobertura autorizada y la
 cantidad de Megahertz concesionados, ni modificar
 las condiciones de hacer o no hacer previstas en el
-
 título de concesión de origen y que hubieren sido
 determinantes para el otorgamiento de la concesión.
 Las solicitudes de prórroga de concesiones de
@@ -10972,6 +10969,7 @@ Telecomunicaciones
 para
 prestar
 servicios
+
 adicionales a los que son objeto de su concesión o
 para transitar a la concesión única, siempre que se
 encuentren en cumplimiento de las obligaciones
@@ -10994,7 +10992,6 @@ Los concesionarios que cuenten con varios títulos de
 concesión, además de poder transitar a la concesión
 única podrán consolidar sus títulos en una sola
 concesión.
-
 NOVENO. En tanto exista un agente económico
 preponderante en los sectores de telecomunicaciones
 y radiodifusión, con el fin de promover la competencia
@@ -11009,6 +11006,7 @@ a. Generen una reducción sectorial del Índice de
 Dominancia “ID”, siempre que el índice
 Hirschman-Herfindahl “IHH” no se incremente en
 más de doscientos puntos;
+
 b. Tengan como resultado que el agente
 económico cuente con un porcentaje de
 participación sectorial menor al veinte por ciento;
@@ -11021,7 +11019,6 @@ el sector que corresponda.
 Por Índice Hirschman-Herfindahl “IHH” se entiende
 la suma de los cuadrados de las participaciones de
 cada agente económico (IHH=i qi2), en el sector que
-
 corresponda, medida para el caso del sector de las
 telecomunicaciones con base en el indicador de
 número de suscriptores y usuarios de servicios de
@@ -11037,6 +11034,7 @@ Hirschman-Herfindahl, pero utilizando ahora las
 contribuciones hi en vez de las participaciones qi (es
 decir, ID=i hi2). Este índice también varía entre cero
 y diez mil.
+
 Los agentes económicos deberán presentar al
 Instituto Federal de Telecomunicaciones, dentro de
 los 10 días siguientes a la concentración, un aviso por
@@ -11051,7 +11049,6 @@ plazo no mayor a noventa días naturales y en caso de
 encontrar que existe poder sustancial en el mercado
 de redes de telecomunicaciones que presten servicios
 de voz, datos o video o en el de radio y televisión
-
 según el sector que corresponda, podrá imponer las
 medidas necesarias para proteger y fomentar en
 dicho mercado la libre competencia y concurrencia,
@@ -11067,6 +11064,7 @@ y los concesionarios cuyos títulos de concesión
 contengan alguna prohibición o restricción expresa
 para prestar servicios determinados, previo al inicio
 del trámite para obtener la autorización para prestar
+
 servicios adicionales, acreditarán ante el Instituto
 Federal de Telecomunicaciones y éste supervisará el
 cumplimiento efectivo de las obligaciones previstas en
@@ -11080,7 +11078,6 @@ Telecomunicaciones y Radiodifusión, así como de la
 Ley Federal de Competencia Económica, sus títulos
 de concesión y disposiciones administrativas
 aplicables, conforme a lo siguiente:
-
 I.
 
 Los agentes económicos preponderantes
@@ -11105,6 +11102,7 @@ estar en cumplimiento efectivo de las medidas a
 las que se refiere la fracción I anterior cuando
 menos durante dieciocho meses en forma
 continua;
+
 III. Transcurrido el plazo a que se refiere la fracción
 anterior y siempre que continúe en cumplimiento
 de lo dispuesto en la fracción I que antecede, el
@@ -11119,7 +11117,6 @@ IV. Una vez que el concesionario haya obtenido la
 certificación de cumplimiento, podrá solicitar
 ante el Instituto Federal de Telecomunicaciones
 la autorización del servicio adicional.
-
 Lo dispuesto en este artículo también será aplicable
 en caso de que los agentes y concesionarios
 respectivos opten por transitar a la concesión única.
@@ -11137,6 +11134,7 @@ diversas disposiciones de los artículos 6o., 7o., 27,
 28, 73, 78, 94 y 105 de la Constitución Política de los
 Estados Unidos Mexicanos, en materia de
 telecomunicaciones, publicado en el Diario Oficial de
+
 la Federación el 11 de junio de 2013, y de aquellas
 que le haya impuesto el Instituto Federal de
 Telecomunicaciones en los términos de la Ley
@@ -11155,7 +11153,6 @@ del
 Instituto
 Federal
 de
-
 Telecomunicaciones en términos del artículo
 Cuarto Transitorio del Decreto por el que se
 reforman y adicionan diversas disposiciones de
@@ -11167,6 +11164,7 @@ materia
 de
 telecomunicaciones, publicado en el Diario
 Oficial de la Federación el 11 de junio de 2013;
+
 II. Al presentar la solicitud, dichos agentes y
 concesionarios deberán acompañar el dictamen
 de cumplimiento a que se refiere la fracción III
@@ -11180,6 +11178,7 @@ Telecomunicaciones respecto de los servicios
 que pretende prestar;
 III. El Instituto Federal de Telecomunicaciones
 resolverá sobre la procedencia de la solicitud
+
 dentro de los sesenta días naturales siguientes a
 su presentación, con base en los lineamientos
 de carácter general que al efecto emita y
@@ -11195,7 +11194,6 @@ en sentido negativo, y
 IV. En el trámite de la solicitud, el Instituto Federal
 de Telecomunicaciones deberá asegurarse que
 el otorgamiento de la autorización no genera
-
 efectos adversos a la competencia y libre
 concurrencia.
 Se entenderá que se generan efectos adversos a la
@@ -11225,6 +11223,7 @@ Instituto
 Federal
 de
 Telecomunicaciones en la resolución mediante la cual
+
 se le declaró agente económico preponderante en el
 sector que corresponda.
 b. La autorización de servicios adicionales tenga
@@ -11238,7 +11237,6 @@ corresponda.
 Lo dispuesto en este artículo será aplicable en caso
 de que los agentes y concesionarios respectivos
 opten por transitar a la concesión única, y será
-
 independiente de las sanciones económicas que
 procedan conforme a la Ley Federal de
 Telecomunicaciones y Radiodifusión.
@@ -11254,6 +11252,7 @@ Federal de Telecomunicaciones un plan basado en
 una situación real, concreta y respecto de personas
 determinadas, que incluya en lo aplicable, la
 separación estructural, la desincorporación total o
+
 parcial de activos, derechos, partes sociales o
 acciones o cualquier combinación de las opciones
 anteriores a efecto de reducir su participación
@@ -11273,7 +11272,6 @@ la Federación el 11 de junio de 2013, de conformidad
 con las variables y parámetros de medición utilizados
 por el Instituto Federal de Telecomunicaciones en la
 declaratoria de preponderancia correspondiente, y
-
 siempre que con la ejecución de dicho plan se
 generen condiciones de competencia efectiva en los
 mercados que integran dicho sector de conformidad
@@ -11288,6 +11286,7 @@ asimismo deberá acompañar la información y
 documentación necesaria que permita al Instituto
 Federal de Telecomunicaciones conocer y analizar el
 plan que se propone;
+
 II. En caso que el Instituto Federal de
 Telecomunicaciones considere que la información
 presentada es insuficiente, dentro del plazo de 20
@@ -11303,7 +11302,6 @@ propone, se le podrá hacer una segunda prevención
 en los términos señalados con antelación y en caso
 de que no cumpla esta última prevención se tendrá
 por no presentado el plan, sin perjuicio de que el
-
 agente económico pueda presentar una nueva
 propuesta de plan en términos del presente artículo;
 III. Atendida la prevención en los términos
@@ -11323,6 +11321,7 @@ Telecomunicaciones deberá determinar que el mismo
 reduce efectivamente la participación nacional del
 agente económico preponderante por debajo del
 cincuenta por ciento en el sector de las
+
 telecomunicaciones a que se refiere la fracción III del
 artículo Octavo Transitorio del Decreto antes referido,
 que genere condiciones de competencia efectiva en
@@ -11337,7 +11336,6 @@ otros agentes económicos distintos e independientes
 del agente económico preponderante. Al aprobar el
 plan, el Instituto Federal de Telecomunicaciones
 deberá asegurar la separación efectiva e
-
 independencia de esos agentes y deberá establecer
 los términos y condiciones necesarios para que esa
 situación quede debidamente salvaguardada;
@@ -11353,6 +11351,7 @@ Telecomunicaciones y de Radiodifusión, y las
 fracciones VI a VIII de este artículo.
 Aceptado el plan por el agente económico
 preponderante, no podrá ser modificado y deberá
+
 ejecutarse en sus términos, sin que dicho agente
 pueda volver a ejercer el beneficio que otorga este
 artículo y sin perjuicio de que pueda optar por lo
@@ -11367,7 +11366,6 @@ Telecomunicaciones sobre el proceso de ejecución
 del plan. En caso de que el agente económico
 preponderante acredite que la falta de cumplimiento
 del plan dentro del plazo referido se debe a causas
-
 que no le son imputables, podrá solicitar al Instituto
 Federal de Telecomunicaciones una prórroga, la cual
 se podrá otorgar por un plazo de hasta 120 días
@@ -11388,6 +11386,7 @@ los acuerdos de compensación recíproca de tráfico
 referidos en el primer párrafo del artículo 131 de la
 Ley Federal de Telecomunicaciones y de
 Radiodifusión, y se suspenderán entre ellos las tarifas
+
 que deriven de la aplicación de los incisos a) y b) del
 párrafo segundo de dicho artículo;
 VII. El Instituto Federal de Telecomunicaciones
@@ -11402,7 +11401,6 @@ condiciones de competencia efectiva en los mercados
 que integran el sector de telecomunicaciones, de
 conformidad con la Ley Federal de Competencia
 Económica.
-
 Otorgada la certificación referida en el párrafo
 anterior, se aplicarán de manera general para todos
 los concesionarios los acuerdos de compensación de
@@ -11418,6 +11416,7 @@ aprobados, se dejarán sin efectos los acuerdos de
 compensación recíproca de tráfico y la suspensión de
 las tarifas a que se refieren los incisos a) y b) del
 artículo 131 de la Ley Federal de Telecomunicaciones
+
 y Radiodifusión, entre el agente económico
 preponderante en el sector de las telecomunicaciones
 y los demás concesionarios, y su aplicación se
@@ -11432,7 +11431,6 @@ IX. El Instituto Federal de Telecomunicaciones
 autorizará al agente económico que propuso el plan y
 a los agentes económicos resultantes o que formen
 parte de dicho plan, la prestación de servicios
-
 adicionales a los que son objeto de su concesión o su
 tránsito al modelo de concesión única, a partir de que
 certifique que el plan se ha ejecutado efectivamente y
@@ -11457,6 +11455,7 @@ agente
 económico
 como
 preponderante en el sector de las telecomunicaciones
+
 así como las medidas asimétricas que le haya
 impuesto en los términos de lo dispuesto en la
 fracción III y IV del artículo Octavo del Decreto antes
@@ -11470,7 +11469,6 @@ de la Secretaría de Comunicaciones y Transportes,
 realizará las acciones tendientes a instalar la red
 pública compartida de telecomunicaciones a que se
 refiere el artículo Décimo Sexto transitorio del Decreto
-
 por el que se reforman y adicionan diversas
 disposiciones de los artículos 6o., 7o., 27, 28, 73, 78,
 94 y 105 de la Constitución Política de los Estados
@@ -11491,6 +11489,7 @@ directamente, siempre y cuando dicha red se
 mantenga bajo el control de una entidad o
 dependencia pública o bajo un esquema de
 asociación público-privada.
+
 DÉCIMO CUARTO. El Instituto Federal de
 Telecomunicaciones deberá implementar un sistema
 de servicio profesional dentro de los ciento ochenta
@@ -11508,7 +11507,6 @@ como trabajadores del servicio profesional.
 DÉCIMO QUINTO. El Instituto Federal de
 Telecomunicaciones deberá instalar su Consejo
 Consultivo dentro de los ciento ochentas días
-
 naturales siguientes a la entrada en vigor del presente
 Decreto.
 DÉCIMO SEXTO. La Secretaría de Comunicaciones
@@ -11525,6 +11523,7 @@ transitar al régimen de concesión correspondiente
 dentro del año siguiente a la entrada en vigor de la
 Ley Federal de Telecomunicaciones y Radiodifusión,
 en los términos que establezca el Instituto. Los
+
 permisos que hayan sido otorgados a los poderes de
 la Unión, de los estados, los órganos de Gobierno del
 Distrito Federal, los municipios, los órganos
@@ -11548,7 +11547,6 @@ presentar solicitud al
 Instituto
 Federal
 de
-
 Telecomunicaciones, quien resolverá lo conducente,
 en un plazo de noventa días hábiles.
 En tanto se realiza la transición, dichos permisos se
@@ -11565,6 +11563,7 @@ de la Ley Federal de Telecomunicaciones y
 Radiodifusión, el programa de trabajo para
 reorganizar el espectro radioeléctrico a estaciones de
 radio y televisión a que se refiere el inciso b) de la
+
 fracción V del artículo Décimo Séptimo transitorio del
 Decreto por el que se reforman y adicionan diversas
 disposiciones de los artículos 6o., 7o., 27, 28, 73, 78,
@@ -11582,7 +11581,6 @@ radio, la migración del mayor número posible de
 estaciones de concesionarios de la banda AM a FM,
 el fortalecimiento de las condiciones de competencia
 y la continuidad en la prestación de los servicios.
-
 DÉCIMO NOVENO. La transición digital terrestre
 culminará el 31 de diciembre de 2015.
 El Ejecutivo Federal, a través de la Secretaría de
@@ -11598,6 +11596,7 @@ Constitución Política de los Estados Unidos
 Mexicanos, en materia de telecomunicaciones,
 publicado en el Diario Oficial de la Federación el 11
 de junio de 2013.
+
 El Instituto Federal de Telecomunicaciones deberá
 concluir la transmisión de señales analógicas de
 televisión radiodifundida en todo el país, a más tardar
@@ -11614,7 +11613,6 @@ de
 televisión
 radiodifundida
 anticipadamente al 31 de diciembre de 2015, por área
-
 de cobertura de dichas señales, una vez que se
 alcance, en el área que corresponda, el nivel de
 penetración referido en el párrafo que antecede.
@@ -11630,6 +11628,7 @@ la televisión digital terrestre a más tardar el 31 de
 diciembre de 2015. El Instituto Federal de
 Telecomunicaciones vigilará el debido cumplimiento
 de la obligación citada.
+
 Aquellos permisionarios o concesionarios de uso
 público o social, incluyendo las comunitarias e
 indígenas, que presten el servicio de radiodifusión
@@ -11644,7 +11643,6 @@ transmisiones o, en su caso, reduzcan su potencia
 radiada aparente para que les sea aplicable el
 programa de continuidad al que se refiere el párrafo
 siguiente de este artículo. Los plazos que autorice el
-
 Instituto en ningún caso excederán del 31 de
 diciembre de 2016.
 Párrafo adicionado DOF 18-12-2015
@@ -11662,6 +11660,7 @@ artículo, ya sea en alguna región, localidad o en todo
 el país; el Instituto Federal de Telecomunicaciones
 deberá establecer un programa para que la población
 continúe recibiendo este servicio público de interés
+
 general en las áreas respectivas, en tanto se inicien
 transmisiones digitales y/o se alcancen los niveles de
 penetración señalados en este artículo. Los titulares
@@ -11678,7 +11677,6 @@ disposiciones
 legales,
 administrativas o reglamentarias en lo que se
 opongan al presente transitorio.
-
 VIGÉSIMO.
 El
 Instituto
@@ -11700,6 +11698,7 @@ del Decreto por el que se reforman y adicionan
 diversas disposiciones de los artículos 6o., 7o., 27,
 28, 73, 78, 94 y 105 de la Constitución Política de los
 Estados Unidos Mexicanos, en materia de
+
 telecomunicaciones, publicado en el Diario Oficial de
 la Federación el 11 de junio de 2013.
 Para efectos de lo dispuesto en el inciso b) del
@@ -11713,7 +11712,6 @@ aplican, salvo tratándose del agente económico al que
 se refiere le párrafo segundo del artículo 131 de la
 Ley en cita, al que le será aplicable el inciso a) del
 mismo artículo.
-
 VIGÉSIMO PRIMERO. Para la atención, promoción
 y supervisión de los derechos de los usuarios
 previstos en la Ley Federal de Telecomunicaciones y
@@ -11736,6 +11734,7 @@ de
 Telecomunicaciones y Radiodifusión, en un plazo
 máximo de noventa días naturales contados a partir
 de la entrada en vigor del presente Decreto.
+
 VIGÉSIMO TERCERO. El impacto presupuestario
 que se genere con motivo de la entrada en vigor del
 presente Decreto en materia de servicios personales,
@@ -11749,7 +11748,6 @@ dispuesto en los artículos Décimo Quinto, Décimo
 Sexto y Décimo Séptimo transitorios del Decreto por
 el que se reforman y adicionan diversas disposiciones
 de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la
-
 Constitución Política de los Estados Unidos
 Mexicanos, en materia de telecomunicaciones,
 publicado en el Diario Oficial de la Federación el 11
@@ -11765,6 +11763,7 @@ telecomunicaciones que presten servicios fijos,
 móviles o ambos, no podrán realizar cargos de larga
 distancia nacional a sus usuarios por las llamadas
 que realicen a cualquier destino nacional.
+
 Sin perjuicio de lo anterior, los concesionarios
 deberán realizar la consolidación de todas las áreas
 de servicio local existentes en el país de conformidad
@@ -11782,7 +11781,6 @@ días siguientes a la entrada en vigor del presente
 Decreto, deberá definir los puntos de interconexión a
 la red pública de telecomunicaciones del agente
 económico preponderante o con poder sustancial.
-
 Las resoluciones administrativas que se hubieren
 emitido quedarán sin efectos en lo que se opongan a
 lo previsto en el presente transitorio.
@@ -11798,6 +11796,7 @@ del Presidente del Sistema Público de Radiodifusión
 del Estado Mexicano, dentro de los treinta días
 naturales siguientes a la entrada en vigor del presente
 Decreto.
+
 El Senado o, en su caso, la Comisión Permanente,
 deberá designar al Presidente del Sistema dentro de
 los treinta días naturales siguientes a aquél en que
@@ -11810,7 +11809,6 @@ naturales siguientes a la entrada en vigor del presente
 Decreto.
 VIGÉSIMO OCTAVO. La designación de los
 miembros del Consejo Ciudadano del Sistema Público
-
 de Radiodifusión del Estado Mexicano deberá
 realizarse dentro de los sesenta días naturales
 siguientes a la entrada en vigor del presente Decreto.
@@ -11826,6 +11824,7 @@ transforma en el Sistema Público de Radiodifusión del
 Estado Mexicano, el cual contará con los recursos
 humanos, presupuestales, financieros y materiales del
 organismo citado.
+
 En tanto se emite el Estatuto Orgánico del Sistema
 Público de Radiodifusión del Estado Mexicano,
 continuará aplicándose, en lo que no se oponga a la
@@ -11838,7 +11837,6 @@ conforme a la ley.
 TRIGÉSIMO PRIMERO. Los recursos humanos,
 presupuestales, financieros y materiales del
 Organismo Promotor de Medios Audiovisuales,
-
 pasarán a formar parte del Sistema Público de
 Radiodifusión del Estado Mexicano una vez que se
 nombre a su Presidente, sin menoscabo de los
@@ -11852,6 +11850,7 @@ La Cámara de Diputados deberá destinar los
 recursos necesarios para garantizar el adecuado
 ejercicio de las atribuciones referidas en el presente
 transitorio.
+
 TRIGÉSIMO TERCERO. El Instituto Federal de
 Telecomunicaciones expedirá los lineamientos a que
 se refiere la fracción III del artículo 158 de la Ley
@@ -11886,6 +11885,7 @@ resoluciones
 administrativas que el Instituto Federal de
 Telecomunicaciones hubiere emitido previo a la
 entrada en vigor del presente Decreto en materia de
+
 preponderancia continuarán surtiendo todos sus
 efectos.
 TRIGÉSIMO SEXTO. El Instituto Federal de
@@ -11904,7 +11904,6 @@ cultura, el deporte, la conservación del medio
 ambiente, el respeto a los derechos humanos, el
 interés superior de la niñez, la igualdad de género y la
 no discriminación.
-
 TRIGÉSIMO SÉPTIMO. Para efectos de las
 autoridades de procuración de justicia referidas en la
 fracción I del artículo 190 de la Ley Federal de
@@ -11919,6 +11918,7 @@ sesenta días hábiles siguientes a la entrada en vigor
 de la Ley Federal de Telecomunicaciones y
 Radiodifusión, las reglas administrativas necesarias
 que eliminen requisitos que puedan retrasar o impedir
+
 la portabilidad numérica y, en su caso, promover que
 se haga a través de medios electrónicos.
 Las reglas a que se refiere el párrafo anterior,
@@ -11932,7 +11932,6 @@ del usuario. En el caso de personas morales el trámite
 deberá realizarse por el representante o apoderado
 legal que acredite su personalidad en términos de la
 normatividad aplicable.
-
 TRIGÉSIMO NOVENO. Para efectos de lo dispuesto
 en el artículo 264 de la Ley Federal de
 Telecomunicaciones y Radiodifusión, el Instituto
@@ -11949,6 +11948,7 @@ radiodifusión, entre los que deberá incluirse el
 mercado nacional de audio y video asociado a través
 de redes públicas de telecomunicaciones y, en su
 caso, imponer las medidas correspondientes.
+
 CUADRAGÉSIMO.
 El
 agente
@@ -11970,7 +11970,6 @@ educación superior de carácter público, que a la fecha
 de entrada en vigor del presente Decreto, cuenten
 con medios de radiodifusión a que se refieren los
 artículos 67 fracción II y 76 fracción II de la Ley
-
 Federal de Telecomunicaciones y Radiodifusión, no
 recibirán presupuesto adicional para ese objeto.
 CUADRAGÉSIMO SEGUNDO. A la concesión para
@@ -11992,6 +11991,7 @@ Telecomunicaciones
 y
 Radiodifusión, exclusivamente respecto a aquellos
 contratos vigentes a la fecha de publicación del
+
 presente Decreto que hayan sido celebrados entre la
 Comisión Federal de Electricidad y aquellas personas
 físicas o morales que, conforme a la misma Ley, han
@@ -12004,7 +12004,6 @@ cederá los referidos contratos a favor de otros
 concesionarios autorizados a prestar servicios a
 usuarios finales, dentro de los seis meses siguientes
 a la fecha en que le hubieren sido cedidos.
-
 En caso de que exista impedimento técnico, legal o
 económico para que Telecomunicaciones de México
 pueda ceder los referidos contratos, estos se
@@ -12022,6 +12021,7 @@ oculto en idioma nacional, en la programación que
 transmitan de las 06:00 a las 24:00 horas, excluyendo
 la publicidad y otros casos que establezca el Instituto
 Federal de Telecomunicaciones, atendiendo a las
+
 mejores prácticas internacionales. Los entes públicos
 federales que sean concesionarios de uso público de
 televisión radiodifundida estarán sujetos a la misma
@@ -12035,7 +12035,6 @@ contarán con un plazo de hasta noventa días
 naturales a partir de la entrada en vigor del presente
 Decreto para iniciar las adecuaciones y mecanismos
 que correspondan.
-
 CUADRAGÉSIMO QUINTO. La restricción para
 acceder a la compartición de infraestructura del
 agente económico preponderante en radiodifusión,
@@ -12052,6 +12051,7 @@ Mexicanos, en materia de telecomunicaciones.
 México, D.F., a 08 de julio de 2014.- Sen. Raúl
 Cervantes Andrade, Presidente.- Dip. José
 González Morfín, Presidente.- Sen. María Elena
+
 Barrera Tapia, Secretaria.- Dip. Angelina Carreño
 Mijares, Secretaria.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del

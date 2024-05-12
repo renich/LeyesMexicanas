@@ -1,7 +1,7 @@
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -9,10 +9,7 @@ Secretaría de Servicios Parlamentarios
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 Nueva Ley publicada en el Diario Oficial de la Federación el 14 de julio de 2014
 TEXTO VIGENTE
-Última reforma publicada DOF 20-05-2021
-
-Declaratoria de invalidez de artículos por Sentencia de la SCJN DOF 16-12-2022 y notificados los puntos resolutivos previamente al
-Congreso de la Unión para efectos legales el 30-08-2022
+Última reforma publicada DOF 01-04-2024
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la
 República.
@@ -43,19 +40,19 @@ En la prestación de dichos servicios estará prohibida toda discriminación mot
 nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión,
 las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad
 humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+El Estado, al ejercer la rectoría en la materia, protegerá la seguridad y la soberanía de la Nación y
+garantizará la eficiente prestación de los servicios públicos de interés general de telecomunicaciones y
 
-1 de 173
+1 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-El Estado, al ejercer la rectoría en la materia, protegerá la seguridad y la soberanía de la Nación y
-garantizará la eficiente prestación de los servicios públicos de interés general de telecomunicaciones y
 radiodifusión, y para tales efectos establecerá condiciones de competencia efectiva en la prestación de
 dichos servicios.
 En todo momento el Estado mantendrá el dominio originario, inalienable e imprescriptible sobre el
@@ -120,21 +117,21 @@ de canales de programación de conformidad con el estándar de transmisión apli
 radio o a la televisión, en términos de las disposiciones generales aplicables que emita el
 Instituto;
 
-2 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 X.
 
 Cobertura universal: Acceso de la población en general a los servicios de
 telecomunicaciones determinados por la Secretaría, bajo condiciones de disponibilidad,
 asequibilidad y accesibilidad;
+
+2 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 XI.
 
@@ -210,20 +207,20 @@ XXII.
 Estación terrena: La antena y el equipo asociado a ésta que se utiliza para transmitir o
 recibir señales de comunicación vía satélite;
 
-3 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 XXIII.
 
 Frecuencia: Número de ciclos por segundo que efectúa una onda del espectro
 radioeléctrico, cuya unidad de medida es el Hertz;
+
+3 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 XXIV.
 
@@ -288,19 +285,20 @@ procesamiento de los paquetes de datos de cada uno de los servicios. Estos proto
 direccionamiento garantizan que las redes físicas que en conjunto componen Internet
 funcionen como una red lógica única;
 
-4 de 173
+XXXIII. Interoperabilidad: Características técnicas de las redes públicas, sistemas y equipos de
+telecomunicaciones integrados a éstas que permiten la interconexión efectiva, por medio de
+las cuales se asegura la provisión de un servicio de telecomunicaciones específico de una
+
+4 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-XXXIII. Interoperabilidad: Características técnicas de las redes públicas, sistemas y equipos de
-telecomunicaciones integrados a éstas que permiten la interconexión efectiva, por medio de
-las cuales se asegura la provisión de un servicio de telecomunicaciones específico de una
 manera consistente y predecible, en términos de la entrega funcional de servicios entre
 redes;
 XXXIV. Ley: Ley Federal de Telecomunicaciones y Radiodifusión;
@@ -358,12 +356,12 @@ XLIV.
 Portabilidad: Derecho de los usuarios de conservar el mismo número telefónico al
 cambiarse de concesionario o prestador de servicio;
 
-5 de 173
+5 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -444,12 +442,12 @@ canales o circuitos que utilicen bandas de frecuencias del espectro radioeléctr
 satelitales, cableados, redes de transmisión eléctrica o cualquier otro medio de transmisión,
 así como, en su caso, centrales, dispositivos de conmutación o cualquier equipo necesario;
 
-6 de 173
+6 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -530,12 +528,12 @@ b)
 Clínicas, hospitales, centros de salud y, en general, inmuebles para la atención de la
 salud;
 
-7 de 173
+7 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -601,19 +599,19 @@ concesionario haya pactado cubrir con el propietario de un inmueble para instala
 El Ejecutivo Federal, los Estados, los Municipios y el Gobierno del Distrito Federal en el ámbito de sus
 atribuciones, colaborarán y otorgarán facilidades para la instalación y despliegue de infraestructura y
 provisión de los servicios públicos de interés general de telecomunicaciones y radiodifusión. En ningún
+caso se podrá restringir la instalación de infraestructura de telecomunicaciones y radiodifusión para la
+prestación de los servicios públicos que regula esta Ley.
 
-8 de 173
+8 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-caso se podrá restringir la instalación de infraestructura de telecomunicaciones y radiodifusión para la
-prestación de los servicios públicos que regula esta Ley.
 Las controversias entre los concesionarios y la Federación, las Entidades Federativas y los
 Municipios, relacionadas con lo previsto en el presente artículo, serán resueltas por los tribunales
 especializados en materia de competencia económica, radiodifusión y telecomunicaciones.
@@ -673,12 +671,12 @@ Asimismo, el Instituto es la autoridad en materia de competencia económica de l
 radiodifusión y telecomunicaciones, por lo que en éstos ejercerá en forma exclusiva las facultades que
 establecen el artículo 28 de la Constitución, esta Ley y la Ley Federal de Competencia Económica.
 
-9 de 173
+9 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -748,12 +746,12 @@ VI.
 Realizar las acciones tendientes a garantizar el acceso a Internet de banda ancha en
 edificios e instalaciones de las dependencias y entidades de la Administración Pública
 
-10 de 173
+10 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -838,12 +836,12 @@ Incluir en el Plan Nacional de Desarrollo y en los programas sectoriales, instit
 especiales conducentes, el programa a que se refiere la fracción V del artículo Décimo
 Séptimo Transitorio del Decreto;
 
-11 de 173
+11 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -916,12 +914,12 @@ información que reciba y genere con motivo de sus funciones, acordar la informa
 deba ser clasificada como reservada o confidencial y la forma en que deberá garantizar, en
 todo caso, la protección de los datos personales de los aspirantes;
 
-12 de 173
+12 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -982,12 +980,12 @@ fiscalización o investigación.
 Respecto a cada uno de los aspirantes, sólo se les podrá comunicar la calificación que hubieren
 obtenido, sin perjuicio de que, una vez concluido el proceso de selección, el Comité de Evaluación deba
 
-13 de 173
+13 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1054,12 +1052,12 @@ Fijar tanto el monto de las contraprestaciones por el otorgamiento de las conces
 como por la autorización de servicios adicionales vinculados a éstas, previa opinión no
 vinculante de la Secretaría de Hacienda y Crédito Público;
 
-14 de 173
+14 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1146,12 +1144,12 @@ Establecer las medidas e imponer las obligaciones específicas que permitan la
 desagregación efectiva de la red local del agente económico preponderante en el sector de
 las telecomunicaciones o del agente que a nivel nacional tenga poder sustancial en el
 
-15 de 173
+15 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1224,12 +1222,12 @@ XXXII.
 Colaborar con la Secretaría en las gestiones que realice ante los organismos internacionales
 competentes, para la obtención de recursos orbitales a favor del Estado Mexicano;
 
-16 de 173
+16 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1291,12 +1289,12 @@ social, de conectividad en sitios públicos y de contribución a la cobertura un
 términos previstos en esta Ley. Para estos efectos, el Instituto considerará las propuestas de
 la Secretaría conforme a los planes y programas respectivos;
 
-17 de 173
+17 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1389,12 +1387,12 @@ Fracción reformada DOF 31-10-2017
 Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-08-2022 y publicada
 DOF 16-12-2022
 
-18 de 173
+18 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1469,12 +1467,12 @@ Comisionado Presidente, para que éste lo remita, una vez aprobado, al titular d
 Secretaría de Hacienda y Crédito Público, a fin de incluirse en el proyecto de Presupuesto de
 Egresos de la Federación;
 
-19 de 173
+19 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1548,12 +1546,12 @@ cobranzas y para ser representado ante cualquier autoridad administrativa o judi
 tribunales laborales o ante particulares. Tratándose de actos de dominio sobre inmuebles
 destinados al Instituto o para otorgar poderes para dichos efectos, se requerirá la
 
-20 de 173
+20 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1634,12 +1632,12 @@ XIV.
 
 Someter a consideración del Pleno cualquier asunto competencia del Instituto, y
 
-21 de 173
+21 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1711,12 +1709,12 @@ Tenga parentesco en línea recta sin limitación de grado, en la colateral por c
 hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con alguno de los
 interesados o sus representantes;
 
-22 de 173
+22 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1774,12 +1772,12 @@ Competencia Económica. En el ejercicio de sus atribuciones, la unidad estará d
 técnica y de gestión para decidir sobre su funcionamiento y resoluciones. El estatuto orgánico del Instituto
 establecerá la estructura con la que contará.
 
-23 de 173
+23 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1859,12 +1857,12 @@ De las Obligaciones de los Comisionados y de la Autoridad Investigadora
 Artículo 29. Los comisionados y el titular de la autoridad investigadora, en el ejercicio de sus
 respectivas funciones, deberán:
 
-24 de 173
+24 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -1925,12 +1923,12 @@ un comisionado. La grabación de cada entrevista deberá estar a disposición de
 Las entrevistas deberán realizarse en las instalaciones del Instituto.
 Párrafo reformado DOF 27-01-2017
 
-25 de 173
+25 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2004,12 +2002,12 @@ Párrafo reformado DOF 27-01-2017
 En estos casos, la Cámara de Senadores resolverá sobre la remoción, conforme al siguiente
 procedimiento:
 
-26 de 173
+26 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2070,12 +2068,12 @@ su encargo un año y podrá ser reelecto.
 El estatuto orgánico determinará los requisitos y procedimientos para nombrar al servidor público del
 Instituto que fungirá como secretario del Consejo Consultivo.
 
-27 de 173
+27 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2141,12 +2139,12 @@ Evaluar los informes de avance de la gestión financiera respecto de los program
 y los relativos a procesos concluidos, empleando la metodología que determine el Órgano
 Interno de Control;
 
-28 de 173
+28 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2217,12 +2215,12 @@ III.
 Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de
 prisión;
 
-29 de 173
+29 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2290,12 +2288,12 @@ sancionados por el titular del Órgano Interno de Control o el servidor público
 en términos de la Ley General de Responsabilidades Administrativas.
 Artículo reformado DOF 27-01-2017
 
-30 de 173
+30 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2343,12 +2341,12 @@ Los comisionados no podrán abstenerse en las votaciones ni excusarse de votar l
 sometidos a consideración del Pleno, salvo impedimento legal. El Pleno calificará la existencia de los
 impedimentos.
 
-31 de 173
+31 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2395,12 +2393,12 @@ consultas públicas bajo los principios de transparencia y participación ciudad
 determine el Pleno, salvo que la publicidad pudiera comprometer los efectos que se pretenden resolver o
 prevenir en una situación de emergencia.
 
-32 de 173
+32 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2452,12 +2450,12 @@ II.
 
 La promoción de la cohesión social, regional o territorial;
 
-33 de 173
+33 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2542,12 +2540,12 @@ capacidad de redes para el Ejecutivo Federal para seguridad nacional, seguridad 
 sitios públicos y cobertura social y demás necesidades, funciones, fines y objetivos a su cargo. Para tal
 efecto, otorgará de manera directa, sin contraprestación, con preferencia sobre terceros, las concesiones
 
-34 de 173
+34 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2608,12 +2606,12 @@ informático de administración del espectro, así como a establecer los mecanis
 público el acceso a la información contenida en las bases de datos correspondientes, en términos de la
 Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
-35 de 173
+35 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2661,12 +2659,12 @@ Para uso comercial: Confiere el derecho a personas físicas o morales para prest
 públicos de telecomunicaciones y de radiodifusión, con fines de lucro a través de una red
 pública de telecomunicaciones;
 
-36 de 173
+36 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2702,13 +2700,15 @@ Las concesiones para uso social comunitaria, se podrán otorgar a organizaciones
 sociedad civil que no persigan ni operen con fines de lucro y que estén constituidas bajo los
 principios de participación ciudadana directa, convivencia social, equidad, igualdad de género
 y pluralidad.
-Las concesiones para uso social indígena, se podrán otorgar a los pueblos y comunidades
-indígenas del país de conformidad con los lineamientos que emita el Instituto y tendrán como
-fin la promoción, desarrollo y preservación de sus lenguas, su cultura, sus conocimientos
-promoviendo sus tradiciones, normas internas y bajo principios que respeten la igualdad de
-género, permitan la integración de mujeres indígenas en la participación de los objetivos para
-los que se solicita la concesión y demás elementos que constituyen las culturas e identidades
-indígenas.
+Las concesiones para uso social de las personas pertenecientes a pueblos y comunidades
+indígenas y afromexicanas, se podrán otorgar a los pueblos y comunidades indígenas y
+afromexicanas del país de conformidad con los lineamientos que emita el Instituto y tendrán
+como fin la promoción, desarrollo y preservación de sus lenguas, conocimientos o elementos
+de su cultura e identidad, promoviendo sus tradiciones, normas internas y bajo principios que
+respeten la igualdad de género, permitan la integración de mujeres indígenas y
+afromexicanas en la participación de los objetivos para los que se solicita la concesión y
+demás elementos que constituyen las culturas e identidades indígenas y afromexicanas.
+Párrafo reformado DOF 01-04-2024
 
 Artículo 68. Al otorgar la concesión única a que se refiere esta Ley, el Instituto deberá establecer con
 toda precisión el tipo de concesión de que se trate: de uso comercial, público, social o privado.
@@ -2720,19 +2720,19 @@ aprovechar bandas de frecuencia del espectro radioeléctrico que no sean de uso 
 orbitales, para lo cual se estará a lo dispuesto en el Capítulo III del presente Título.
 Artículo 71. La concesión única a que se refiere esta Ley sólo se otorgará a personas físicas o
 morales de nacionalidad mexicana.
-La participación de la inversión extranjera en sociedades concesionarias se permitirá en los términos
-de la Constitución y la Ley de Inversión Extranjera.
 
-37 de 173
+37 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+La participación de la inversión extranjera en sociedades concesionarias se permitirá en los términos
+de la Constitución y la Ley de Inversión Extranjera.
 Al otorgar las concesiones el Instituto deberá establecer que en la prestación de los servicios se
 encuentra prohibido establecer privilegios o distinciones que configuren algún tipo de discriminación y
 tratándose de personas físicas estará prohibida toda discriminación motivada por origen étnico o
@@ -2789,19 +2789,19 @@ IV.
 
 El período de vigencia;
 
-V.
-
-Las características generales del proyecto;
-
-38 de 173
+38 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+V.
+
+Las características generales del proyecto;
 
 VI.
 
@@ -2853,20 +2853,20 @@ Para uso privado: Confiere el derecho para usar y aprovechar bandas de frecuenci
 espectro radioeléctrico de uso determinado o para la ocupación y explotación de recursos
 orbitales, con propósitos de:
 a) Comunicación privada, o
-b) Experimentación, comprobación de viabilidad técnica y económica de tecnologías en
-desarrollo, pruebas temporales de equipo o radioaficionados, así como para satisfacer
-necesidades de comunicación para embajadas o misiones diplomáticas que visiten el país.
 
-39 de 173
+39 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+b) Experimentación, comprobación de viabilidad técnica y económica de tecnologías en
+desarrollo, pruebas temporales de equipo o radioaficionados, así como para satisfacer
+necesidades de comunicación para embajadas o misiones diplomáticas que visiten el país.
 En este tipo de concesiones no se confiere el derecho de usar, aprovechar y explotar
 comercialmente bandas de frecuencias del espectro radioeléctrico de uso determinado ni de
 ocupar y explotar recursos orbitales, y
@@ -2898,8 +2898,6 @@ y 134 de la Constitución y lo establecido en la Sección VII del Capítulo III 
 los siguientes:
 I.
 
-II.
-
 Para el otorgamiento de concesiones en materia de telecomunicaciones, el Instituto podrá
 tomar en cuenta, entre otros, los siguientes factores:
 a)
@@ -2926,22 +2924,24 @@ f)
 
 La consistencia con el programa de concesionamiento.
 
-Para el otorgamiento de concesiones en materia de radiodifusión, el Instituto tomará en
-cuenta los incisos a), b), d), e) y f). Adicionalmente, se deberá considerar que el proyecto de
-programación sea consistente con los fines para los que se solicita la concesión, que
-
-40 de 173
+40 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+II.
+
+Para el otorgamiento de concesiones en materia de radiodifusión, el Instituto tomará en
+cuenta los incisos a), b), d), e) y f). Adicionalmente, se deberá considerar que el proyecto de
+programación sea consistente con los fines para los que se solicita la concesión, que
 promueva e incluya la difusión de contenidos nacionales, regionales y locales y cumpla con
 las disposiciones aplicables.
+
 Artículo 79. Para llevar a cabo el procedimiento de licitación pública al que se refiere el artículo
 anterior, el Instituto publicará en su página de Internet y en el Diario Oficial de la Federación la
 convocatoria respectiva.
@@ -3009,20 +3009,20 @@ I.
 
 El nombre y domicilio del concesionario;
 
-II.
-
-La banda de frecuencia objeto de concesión, sus modalidades de uso y zona geográfica en
-que deben ser utilizadas;
-
-41 de 173
+41 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+II.
+
+La banda de frecuencia objeto de concesión, sus modalidades de uso y zona geográfica en
+que deben ser utilizadas;
 
 III.
 
@@ -3076,19 +3076,19 @@ para la operación o seguridad de dichos servicios públicos, debiendo acreditar
 necesidad de contar con el uso de dichas bandas de frecuencias.
 Los concesionarios o permisionarios a que se refiere el párrafo anterior deberán pagar previamente la
 contraprestación correspondiente conforme lo establecido en la Sección VII, del Capítulo III del presente
-Título misma que se fijará considerando exclusivamente los servicios prestados para los servicios
-públicos.
 
-42 de 173
+42 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Título misma que se fijará considerando exclusivamente los servicios prestados para los servicios
+públicos.
 Artículo 85. Para la asignación de las concesiones para usar, aprovechar o explotar espectro
 radioeléctrico para uso público o social, el interesado deberá presentar ante el Instituto solicitud que
 contenga al menos la siguiente información:
@@ -3129,7 +3129,9 @@ El Instituto determinará mediante lineamientos de carácter general los términ
 acreditarse los requisitos previstos en este artículo y, en el caso de concesiones comunitarias e
 indígenas, estará obligado a prestar asistencia técnica para facilitarles el cumplimiento de dichos
 requisitos, los cuales serán acordes a las formas de organización social y los derechos de los pueblos y
-comunidades indígenas.
+comunidades indígenas y afromexicanas.
+Párrafo reformado DOF 01-04-2024
+
 Una vez cumplidos los requisitos señalados, el Instituto resolverá lo conducente dentro de los ciento
 veinte días hábiles siguientes a la presentación de la solicitud.
 El Instituto podrá donar a los concesionarios de uso social que presten servicios de radiodifusión,
@@ -3146,19 +3148,19 @@ requisitos establecidos en el artículo 85 de esta Ley, dentro del plazo estable
 de uso y aprovechamiento de bandas de frecuencias.
 En dicha solicitud deberán precisarse los mecanismos para asegurar la independencia editorial;
 autonomía de gestión financiera; garantías de participación ciudadana; reglas claras para la
-transparencia y rendición de cuentas; defensa de sus contenidos; opciones de financiamiento; pleno
-acceso a tecnologías y reglas para la expresión de diversidades ideológicas, étnicas y culturales.
 
-43 de 173
+43 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+transparencia y rendición de cuentas; defensa de sus contenidos; opciones de financiamiento; pleno
+acceso a tecnologías y reglas para la expresión de diversidades ideológicas, étnicas y culturales.
 El Instituto verificará que los mecanismos expuestos en la solicitud sean suficientes para garantizar
 dichos objetivos y, de lo contrario, prevendrá al solicitante para que realice las modificaciones
 pertinentes.
@@ -3166,24 +3168,29 @@ Artículo 87. Los interesados en obtener una concesión sobre el espectro radioe
 social para prestar el servicio de radiodifusión, deberán presentar los requisitos establecidos en el artículo
 85 de esta Ley, dentro del plazo establecido en el programa anual de uso y aprovechamiento de bandas
 de frecuencias.
-Las concesiones de uso social incluyen las comunitarias y las indígenas, las que se sujetarán, de
-acuerdo con sus fines, a los principios establecidos en los artículos 2o., 3o., 6o. y 7o. de la Constitución.
-El Instituto establecerá mecanismos de colaboración con la Comisión Nacional para el Desarrollo de
-los Pueblos Indígenas u otras organizaciones para:
+Las concesiones de uso social incluyen las comunitarias y las indígenas y afromexicanas, las que se
+sujetarán, de acuerdo con sus fines, a los principios establecidos en los artículos 2o., 3o., 6o. y 7o. de la
+Constitución.
+Párrafo reformado DOF 01-04-2024
+
+El Instituto establecerá mecanismos de colaboración con el Instituto Nacional de los Pueblos
+Indígenas u otras organizaciones para:
 I.
 
-Promover el otorgamiento de concesiones indígenas;
+Promover el otorgamiento de concesiones indígenas y afromexicanas;
 
 II.
 
-Facilitar el otorgamiento de concesiones a pueblos indígenas en donde tengan presencia y
-para que trasmitan en sus lenguas originarias, en especial, en aquellos lugares donde no
-existan concesiones, y
+Facilitar el otorgamiento de concesiones a pueblos y comunidades indígenas y afromexicanas
+en donde tengan presencia y para que trasmitan en sus lenguas originarias, en especial, en
+aquellos lugares donde no existan concesiones, y
 
 III.
 
-Promover que las concesiones de uso social indígenas, coadyuven a preservar y enriquecer
-sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad.
+Promover que las concesiones de uso social indígenas y afromexicanas, coadyuven a preservar
+y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e
+identidad.
+Párrafo con fracciones reformado DOF 01-04-2024
 
 Artículo 88. Para el cumplimiento de sus fines, la operación de las concesiones de radiodifusión de
 uso público se financiará con presupuesto público que garantice su operación.
@@ -3211,6 +3218,16 @@ III.
 
 Patrocinios;
 
+44 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 IV.
 
 Proyectos de financiamiento y convenios de coinversión para la producción o difusión de
@@ -3220,16 +3237,6 @@ V.
 
 Convenios de coinversión con otras dependencias públicas para el mejor cumplimiento de
 sus fines de servicio público.
-
-44 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 La ausencia de fines de lucro implica que dichos concesionarios no perseguirán dentro de sus
 actividades la obtención de ganancias con propósitos de acumulación, de tal suerte que los remanentes
@@ -3286,6 +3293,17 @@ anualmente al Instituto, la información necesaria con el objeto de verificar qu
 ingresos se apeguen a los fines para los cuales fue otorgada la concesión.
 Artículo 90. Para el otorgamiento de las concesiones de radiodifusión para uso público y social, el
 Instituto deberá tomar en consideración:
+
+45 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 I.
 
 Que el proyecto técnico aproveche la capacidad de la banda de frecuencias para prestar el
@@ -3296,16 +3314,6 @@ II.
 Que su otorgamiento contribuya a la función social de los servicios públicos de radiodifusión
 y al ejercicio de los derechos humanos de libertad de expresión, a la información y al libre
 acceso a las tecnologías de la información y comunicación;
-
-45 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 III.
 
@@ -3323,13 +3331,17 @@ nacional y regional de frecuencias.
 Cumplidos los requisitos establecidos en la Ley y aquellos establecidos por el Instituto, se otorgará al
 solicitante la concesión de espectro radioeléctrico de uso social destinado para comunidades y pueblos
 indígenas, conforme a la disponibilidad del programa anual correspondiente.
-El Instituto deberá reservar para estaciones de radio FM comunitarias e indígenas el diez por ciento
-de la banda de radiodifusión sonora de FM, que va de los 88 a los 108 MHz. Dicho porcentaje se
-concesionará en la parte alta de la referida banda.
-El Instituto podrá otorgar concesiones para estaciones de radio AM, comunitarias e indígenas, en el
-segmento de la banda del espectro radioeléctrico ampliada que va de los 1605 a los 1705 KHz. Lo
-anterior, sin perjuicio de que el Instituto pueda otorgar concesiones de uso público, comercial o social,
-que no sean comunitarias o indígenas, en el resto del segmento de AM.
+El Instituto deberá reservar para estaciones de radio FM comunitarias, indígenas y afromexicanas el
+diez por ciento de la banda de radiodifusión sonora de FM, que va de los 88 a los 108 MHz. Dicho
+porcentaje se concesionará en la parte alta de la referida banda.
+Párrafo reformado DOF 01-04-2024
+
+El Instituto podrá otorgar concesiones para estaciones de radio AM, comunitarias, indígenas y
+afromexicanas, en el segmento de la banda del espectro radioeléctrico ampliada que va de los 1605 a los
+1705 KHz. Lo anterior, sin perjuicio de que el Instituto pueda otorgar concesiones de uso público,
+comercial o social, que no sean comunitarias o indígenas, en el resto del segmento de AM.
+Párrafo reformado DOF 01-04-2024
+
 El Instituto deberá emitir, y en su caso, actualizar los parámetros técnicos bajo los cuales deberán
 operar los concesionarios a que se refiere este artículo y llevar a cabo las acciones necesarias para el
 cumplimiento de lo previsto.
@@ -3344,6 +3356,17 @@ privado, en este último caso para los propósitos previstos en el artículo 76,
 otorgarán, previo pago de una contraprestación, mediante licitación pública, salvo lo dispuesto en la
 Sección VI de este Título, para lo cual, se deberán observar los criterios previstos en los artículos 28 y
 134 de la Constitución.
+
+46 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 93. Para llevar a cabo el procedimiento de licitación pública al que se refiere el artículo
 anterior, el Instituto publicará en su página de Internet y en el Diario Oficial de la Federación la
 convocatoria respectiva.
@@ -3352,17 +3375,6 @@ I.
 
 Los requisitos que deberán cumplir los interesados para participar en la licitación, entre los
 que se incluirán:
-
-46 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 a)
 
 Los programas y compromisos de cobertura y calidad de los servicios que se pretenden
@@ -3439,6 +3451,16 @@ VI.
 
 La capacidad satelital que se reservará a favor del Estado;
 
+47 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 VII.
 
 En su caso, las condiciones bajo las cuales se deberán atender las solicitudes de servicio
@@ -3454,17 +3476,6 @@ Los demás derechos y obligaciones de los concesionarios.
 
 Artículo 95. Se declarará desierta y podrá expedirse una nueva convocatoria, cuando las propuestas
 presentadas en la licitación pública no aseguren las mejores condiciones conforme al interés público, o
-
-47 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 no cumplan con los requisitos establecidos en las bases de la licitación, o cuando las propuestas
 ofrecidas no sean satisfactorias, a juicio del Instituto, o sean inferiores al valor mínimo de referencia.
 
@@ -3523,6 +3534,17 @@ Artículo 97. El Instituto analizará y evaluará la documentación correspondie
 treinta días hábiles admitirá a trámite la solicitud o prevendrá por única vez al solicitante, cuando en su
 escrito se omitan alguno de los requisitos señalados en el artículo anterior, concediéndole un plazo igual
 para desahogar la prevención.
+
+48 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Desahogada la prevención, el Instituto admitirá a trámite la solicitud dentro de los quince días
 siguientes. Transcurrido el plazo sin que se desahogue la prevención o sin que se cumplan los requisitos
 señalados en el artículo anterior, se tendrá por no presentada la solicitud.
@@ -3531,17 +3553,6 @@ entregarla.
 Integrado el expediente a satisfacción del Instituto, se remitirá a la Secretaría en compañía de la
 estimación de los gastos en los que el Instituto llegue a incurrir. Lo anterior, para que la Secretaría
 determine la procedencia de la solicitud.
-
-48 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 En caso de que la solicitud fuere procedente, la Secretaría lo notificará al Instituto, fijando el monto de
 la fianza o carta de crédito a favor del Gobierno Federal y del Instituto, para garantizar la seriedad del
 solicitante y los gastos en que lleguen a incurrir el Gobierno Federal y el Instituto. De lo contrario, la
@@ -3575,6 +3586,17 @@ programa nacional de espectro radioeléctrico y el programa de bandas de frecuen
 
 Sección VII
 De las Contraprestaciones
+
+49 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 99. Todas las contraprestaciones a que se refiere esta Ley requerirán previa opinión no
 vinculante de la Secretaría de Hacienda y Crédito Público, misma que deberá emitirse en un plazo no
 mayor de treinta días naturales. Transcurrido este plazo sin que se emita dicha opinión, el Instituto
@@ -3583,17 +3605,6 @@ Artículo 100. Para fijar el monto de las contraprestaciones por el otorgamiento
 vigencia o los cambios en los servicios de las concesiones, así como por la autorización de los servicios
 vinculados a éstas tratándose de concesiones sobre el espectro radioeléctrico, el Instituto deberá
 considerar los siguientes elementos:
-
-49 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 I.
 
 Banda de frecuencia del espectro radioeléctrico de que se trate;
@@ -3641,6 +3652,17 @@ Del Arrendamiento del Espectro Radioeléctrico
 Artículo 104. Los concesionarios podrán dar en arrendamiento, únicamente bandas de frecuencias
 concesionadas para uso comercial o privado, estos últimos con propósitos de comunicación privada,
 previa autorización del Instituto. Para tal efecto, deberá observarse lo siguiente:
+
+50 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 I.
 
 Que el arrendatario cuente con concesión única del mismo uso o que la haya solicitado al
@@ -3658,16 +3680,6 @@ Que no se afecte la continuidad en la prestación del servicio, y
 IV.
 
 Que no se generen fenómenos de concentración, acaparamiento o propiedad cruzada.
-
-50 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 El Instituto tendrá cuarenta y cinco días hábiles para resolver sobre la solicitud de autorización de
 arrendamiento. Los requisitos para obtener la autorización del arrendamiento referido en el párrafo que
@@ -3717,6 +3729,17 @@ Artículo 106. El cambio de bandas de frecuencias o de recursos orbitales, podr�
 a solicitud de parte interesada.
 Cuando el concesionario solicite el cambio a que se refiere este artículo, el Instituto deberá resolver
 dentro de los noventa días hábiles siguientes a la fecha de presentación de la solicitud, tomando en
+
+51 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 consideración la planeación y administración eficiente del espectro, los recursos orbitales, los avances
 tecnológicos y el interés público.
 Sin perjuicio de sus facultades de rescate, el Instituto podrá proponer de oficio el cambio, para lo cual
@@ -3726,17 +3749,6 @@ responda, se entenderá rechazada la propuesta de cambio.
 Los concesionarios podrán intercambiar entre ellos una frecuencia, un conjunto de ellas, una banda
 completa o varias bandas de frecuencias o recursos orbitales que tengan concesionados, previa solicitud
 y autorización del Instituto. El Instituto resolverá lo conducente dentro de los cuarenta y cinco días hábiles
-
-51 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 contados a partir de la fecha en que se presente la solicitud, debiendo verificar que el intercambio
 solicitado no cause alteración a la planeación, no afecte la competencia y libre concurrencia o a terceros,
 no se generen fenómenos de concentración, acaparamiento o cualquier fenómeno contrario al proceso
@@ -3771,6 +3783,17 @@ Para determinar la indemnización correspondiente, el Instituto tomará en cuent
 y debidamente comprobada, los bienes, equipos e instalaciones de red destinados directamente a los
 fines de la concesión y su depreciación. También podrá considerarse el valor presente que, en su caso,
 haya sido cubierto por adquirir los derechos para usar y explotar los bienes concesionados, deduciendo
+
+52 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 el tiempo de vigencia transcurrido de la concesión. En ningún caso se indemnizará cuando entre las
 causas que motiven el rescate se encuentre el incumplimiento de las obligaciones o condiciones
 establecidas en la concesión o autorización, incluyendo el que derive de contribuciones o
@@ -3781,17 +3804,6 @@ se determinará por los tribunales especializados en materia de competencia econ
 telecomunicaciones, a petición del concesionario, quien deberá formularla dentro del plazo de quince días
 hábiles contados a partir de la fecha en que se le notifique la resolución que determine el monto de la
 indemnización. Si el concesionario no acude a los tribunales especializados en materia de competencia
-
-52 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 económica, radiodifusión y telecomunicaciones, el monto de la indemnización tendrá carácter definitivo.
 En lo no previsto respecto al rescate, se estará a lo establecido en la Ley General de Bienes Nacionales.
 Artículo 109. Cuando por causa del rescate el concesionario no pueda continuar prestando servicios
@@ -3823,6 +3835,17 @@ En los casos en que la cesión tenga por objeto transferir los derechos y obliga
 las concesiones a otro concesionario que preste servicios similares en la misma zona geográfica, el
 Instituto podrá autorizar la cesión, previo análisis que realice sobre los efectos que dicho acto tenga o
 pueda tener para la libre competencia y concurrencia en el mercado correspondiente.
+
+53 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Si la cesión actualizara la obligación de notificar una concentración conforme a lo previsto en la Ley
 Federal de Competencia Económica, el Instituto resolverá dentro del plazo previsto para dicho
 procedimiento, adicionando las consideraciones señaladas en este capítulo.
@@ -3832,17 +3855,6 @@ que establece la presente Ley.
 Las concesiones de uso público o comercial cuyos titulares sean los Poderes de la Unión, de los
 Estados, los órganos de Gobierno del Distrito Federal, los Municipios y los órganos constitucionales
 autónomos se podrán ceder a entes de carácter público incluso bajo esquemas de asociación públicoprivado, previa autorización del Instituto.
-
-53 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 111. En ningún caso se podrá ceder, gravar, dar en prenda o fideicomiso, hipotecar o
 enajenar total o parcialmente la concesión, los derechos en ella conferidos, instalaciones, servicios
 auxiliares, dependencias o accesorios y los bienes afectos a la misma, a ningún gobierno o estado
@@ -3885,6 +3897,16 @@ referido en la fracción que antecede, para objetar con causa justificada la ope
 se trate. Transcurrido dicho plazo sin que la operación hubiere sido objetada por el Instituto,
 se tendrá por autorizada.
 
+54 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Las operaciones que no hubieren sido objetadas por el Instituto deberán inscribirse en el libro de
 registro de accionistas o socios de la persona moral, sin perjuicio de las autorizaciones que se requieran
 de otras autoridades conforme a las disposiciones legales, reglamentarias y administrativas aplicables.
@@ -3897,17 +3919,6 @@ Tampoco se requerirá presentar el aviso a que se refiere la fracción I de este
 fusión de empresas, escisiones o reestructuras corporativas, siempre que los cambios en la tenencia
 accionaria sean dentro del mismo grupo de control o dentro del mismo agente económico. A tal efecto, se
 deberá notificar la operación al Instituto dentro de los treinta días naturales siguientes a su realización.
-
-54 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 En caso de que el interesado en suscribir o adquirir acciones o partes sociales sea una persona
 moral, en el aviso al que se refiere la fracción I de este artículo, deberá presentar la información
 necesaria para que el Instituto conozca la identidad de las personas físicas que tengan intereses
@@ -3938,6 +3949,17 @@ su título de concesión.
 El Instituto resolverá dentro del año siguiente a la presentación de la solicitud, si existe interés público
 en recuperar el espectro radioeléctrico o los recursos orbitales, en cuyo caso notificará al concesionario
 su determinación y procederá la terminación de la concesión al término de su vigencia.
+
+55 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 En caso que el Instituto determine que no existe interés público en recuperar el espectro radioeléctrico
 o los recursos orbitales, otorgará la prórroga solicitada dentro del mismo plazo señalado en el artículo
 anterior, siempre y cuando el concesionario acepte, previamente, las nuevas condiciones que fije el
@@ -3950,17 +3972,6 @@ continuará el trámite correspondiente.
 Capítulo VII
 De la Terminación de las Concesiones y la Requisa
 Artículo 115. Las concesiones terminan por:
-
-55 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 I.
 
 Vencimiento del plazo de la concesión, salvo prórroga de la misma;
@@ -4000,6 +4011,17 @@ cuando lo considere necesario. La requisa se mantendrá mientras subsistan las c
 motivaron.
 Para la utilización de las vías, bienes y derechos objeto de la requisa, se designará un administrador,
 quien contará con amplias facultades para cumplir con los fines de la requisa.
+
+56 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 El Ejecutivo Federal, salvo en el caso de guerra, indemnizará a los interesados pagando los daños y
 perjuicios causados por la requisa. Si no hubiere acuerdo sobre el monto de la indemnización, los daños
 se fijarán por peritos nombrados por ambas partes y en el caso de los perjuicios, se tomará como base el
@@ -4012,17 +4034,6 @@ De las Redes y los Servicios de Telecomunicaciones
 Capítulo I
 De la Instalación y Operación de las Redes Públicas de Telecomunicaciones
 Artículo 118. Los concesionarios que operen redes públicas de telecomunicaciones deberán:
-
-56 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 I.
 
 Interconectar de manera directa o indirecta sus redes con las de los concesionarios que lo
@@ -4078,6 +4089,16 @@ que otros concesionarios instalen o accedan a infraestructura de telecomunicacio
 edificios, centros comerciales, fraccionamientos, hoteles o cualquier otro inmueble para uso
 compartido.
 
+57 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 119. Los concesionarios que tengan redes públicas de telecomunicaciones que presten
 servicios móviles, celebrarán libremente acuerdos relativos al servicio de usuario visitante en los que
 establezcan los términos y condiciones bajo los cuales se efectuará la conexión entre sus plataformas
@@ -4092,17 +4113,6 @@ interesado no cuente con infraestructura o no preste el servicio móvil.
 En caso de desacuerdo, el Instituto resolverá los términos no convenidos que se susciten respecto del
 servicio de usuario visitante, buscando, en todo momento, el desarrollo eficiente de las
 telecomunicaciones. Por lo que respecta al plazo, el Instituto establecerá el tiempo durante el cual
-
-57 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 estarán sujetos a la obligación de prestar el servicio de usuario visitante, a fin de que dentro de dicho
 plazo los concesionarios que no tengan infraestructura desplieguen la misma.
 Artículo 120. El Instituto regulará los términos, condiciones y tarifas de los servicios de usuario
@@ -4134,6 +4144,17 @@ Artículo 123. Para los servicios de telecomunicaciones disponibles al público,
 derechos de uso de los recursos públicos de numeración, direccionamiento y denominación que se
 necesiten para permitir su efectiva prestación, tomándose esta circunstancia en consideración en los
 planes nacionales correspondientes.
+
+58 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Los procedimientos para el otorgamiento de estos derechos serán definidos por el Instituto y serán
 abiertos, pro-competitivos, objetivos, no discriminatorios y transparentes.
 
@@ -4147,17 +4168,6 @@ otros, a los que deberán sujetarse los concesionarios que operen redes pública
 Dichos planes deberán considerar los intereses de los usuarios y de los concesionarios, prevaleciendo
 los de los primeros y podrán tomar en cuenta las recomendaciones y mejores prácticas internacionales,
 teniendo los siguientes objetivos:
-
-58 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 I.
 
 Promover un amplio desarrollo de nuevos concesionarios, tecnologías, infraestructuras y
@@ -4212,6 +4222,17 @@ preponderante o con poder sustancial, deberá comunicarlo al Instituto a fin de 
 cambio propuesto, previa consulta a los otros concesionarios.
 Artículo 125. Los concesionarios que operen redes públicas de telecomunicaciones estarán obligados
 a interconectar sus redes con las de otros concesionarios en condiciones no discriminatorias,
+
+59 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 transparentes y basadas en criterios objetivos y en estricto cumplimiento a los planes que se refiere el
 artículo anterior, excepto por lo dispuesto en esta Ley en materia de tarifas.
 La interconexión de las redes públicas de telecomunicaciones, sus tarifas, términos y condiciones, son
@@ -4224,17 +4245,6 @@ concesionarios de redes públicas de telecomunicaciones acordarán las condicion
 llevará a cabo la interconexión de las mismas, de conformidad con las disposiciones legales,
 reglamentarias, las establecidas en los planes técnicos fundamentales y demás normas y metodologías
 aplicables que, en su caso, emita el Instituto.
-
-59 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 127. Para efectos de la presente Ley se considerarán servicios de interconexión, entre otros,
 los siguientes:
 I.
@@ -4284,6 +4294,17 @@ tramitarán entre sí las solicitudes de suscripción de los convenios respectiv
 Transcurrido dicho plazo sin que se hubiere celebrado el convenio, la parte interesada deberá solicitar
 al Instituto que resuelva sobre las condiciones, términos y tarifas que no haya podido convenir con la otra
 parte, conforme al siguiente procedimiento:
+
+60 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 I.
 
 Cualquiera de las partes deberá solicitar al Instituto la resolución del desacuerdo de
@@ -4308,16 +4329,6 @@ IV.
 Concluido el plazo a que se refiere la fracción anterior, el Instituto con o sin manifestaciones,
 acordará sobre la admisión de las pruebas que se hubieren ofrecido y ordenará su desahogo
 dentro de los quince días hábiles;
-
-60 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 V.
 
@@ -4362,6 +4373,17 @@ siguiente año.
 El Instituto favorecerá la pronta y efectiva interconexión entre redes públicas de telecomunicaciones
 por lo que los procedimientos administrativos correspondientes deberán desahogarse en forma
 transparente, pronta, expedita y deberán evitarse actuaciones procesales que tengan como consecuencia
+
+61 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 retrasar la interconexión efectiva entre redes públicas de telecomunicaciones o las condiciones no
 convenidas que permitan la prestación de los servicios públicos de telecomunicaciones.
 Artículo 130. En el caso de que exista negativa de algún concesionario de red pública de
@@ -4377,17 +4399,6 @@ sector de las telecomunicaciones, determinará los criterios conforme a los cual
 redes públicas de telecomunicaciones, fijas y móviles, celebrarán de manera obligatoria acuerdos de
 compensación recíproca de tráfico, sin cargo alguno por terminación, incluyendo llamadas y mensajes
 cortos.
-
-61 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Durante el tiempo en que exista un agente económico preponderante en el sector de las
 telecomunicaciones o un agente económico que cuente directamente o indirectamente con una
 participación nacional mayor al cincuenta por ciento en el sector de las telecomunicaciones, medido este
@@ -4423,6 +4434,17 @@ llamadas y mensajes cortos. En caso que el agente cuente con poder sustancial en
 el Instituto resolverá si éste continúa en el régimen asimétrico establecido en el inciso a) del párrafo
 segundo de este artículo o bien, si le fija una tarifa asimétrica conforme a la metodología prevista en los
 párrafos segundo, tercero y cuarto del inciso b) de este artículo.
+
+62 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 132. En los convenios de interconexión las partes deberán establecer, cuando menos:
 I.
 
@@ -4445,16 +4467,6 @@ La obligación de actuar sobre bases de reciprocidad entre concesionarios que se
 servicios, capacidades y funciones similares entre sí, sin perjuicio de lo que dispone esta Ley
 o determine el Instituto, y abstenerse de exigir condiciones que no son indispensables para la
 interconexión;
-
-62 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 V.
 
@@ -4516,6 +4528,16 @@ XVI.
 
 Las penas convencionales, y
 
+63 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 XVII.
 
 Las demás que se encuentren obligados a convenir de acuerdo a los planes técnicos
@@ -4530,17 +4552,6 @@ aplicables a dichos agentes.
 Artículo 134. El Instituto y la Secretaría promoverán acuerdos con las autoridades extranjeras, con el
 propósito de que exista reciprocidad en las condiciones de acceso de los concesionarios nacionales
 interesados en ofrecer servicios en el exterior y mayor competencia.
-
-63 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 135. Sólo podrán instalar equipos de telecomunicaciones y medios de transmisión que
 crucen las fronteras del país, los concesionarios que operen redes públicas de telecomunicaciones o las
 personas que expresamente autorice el Instituto, sin perjuicio de las demás disposiciones aplicables.
@@ -4575,9 +4586,19 @@ Publicar anualmente en el Diario Oficial de la Federación una oferta pública d
 que contenga, cuando menos, las características y condiciones a que se refiere el artículo
 267 de esta Ley, detalladas y desglosadas en sus aspectos técnicos, económicos y jurídicos,
 que deberán ofrecer a los concesionarios interesados en interconectarse a su red, los cuales
+
+64 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 deberán ser sometidos a la aprobación del Instituto en el primer trimestre de cada año
 calendario;
-
 III.
 
 Presentar al Instituto, cuando menos una vez al año, la contabilidad separada y de costeo de
@@ -4597,16 +4618,6 @@ infraestructura;
 VI.
 
 Permitir la compartición de los derechos de vía;
-
-64 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 VII.
 
@@ -4645,6 +4656,17 @@ acuerdos entre concesionarios para la ubicación y el uso compartido de infraest
 El Instituto podrá verificar en cualquier momento las condiciones de los convenios de compartición, a
 fin de valorar su impacto sobre la competencia efectiva en el sector de que se trate y podrá establecer
 medidas para que la compartición se realice y se otorgue el acceso a cualquier concesionario bajo
+
+65 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 condiciones no discriminatorias, así como aquellas que se requieran para prevenir o remediar efectos
 contrarios al proceso de competencia.
 
@@ -4657,17 +4679,6 @@ En ningún caso podrán estas redes ofrecer servicios a los usuarios finales.
 Cuando no hubiere concesionario o autorizado que preste servicios a los usuarios finales en
 determinada zona geográfica y exista cobertura e infraestructura de las redes mayoristas referidas en los
 artículos Décimo Quinto y Décimo Sexto del Decreto, el Ejecutivo Federal garantizará, a través del
-
-65 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 organismo descentralizado denominado Telecomunicaciones de México, de comercializadoras o
 concesionarios, la prestación de servicios a los usuarios ubicados en las localidades respectivas, hasta
 en tanto exista otra oferta para los usuarios.
@@ -4697,6 +4708,17 @@ términos y condiciones correspondientes.
 
 Capítulo VI
 De la Neutralidad de las Redes
+
+66 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 145. Los concesionarios y autorizados que presten el servicio de acceso a Internet deberán
 sujetarse a los lineamientos de carácter general que al efecto expida el Instituto conforme a lo siguiente:
 I.
@@ -4714,16 +4736,6 @@ II.
 No discriminación. Los concesionarios y los autorizados a comercializar que presten el
 servicio de acceso a Internet se abstendrán de obstruir, interferir, inspeccionar, filtrar o
 discriminar contenidos, aplicaciones o servicio;
-
-66 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 III.
 
@@ -4769,6 +4781,17 @@ estaciones de radiodifusión, las torres de transmisión eléctrica y de radioco
 que estén instalados cableados de distribución eléctrica; así como los postes y ductos, entre otros, estén
 disponibles para el uso y aprovechamiento de todos los concesionarios sobre bases no discriminatorias y
 bajo contraprestaciones que establezcan las autoridades competentes en cada caso.
+
+67 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Las dependencias administradoras y las entidades procurarán que los bienes a que se refiere este
 artículo, cuando las condiciones técnicas, de seguridad y operación lo permitan, se destinen a promover
 el desarrollo y la competencia en materia de telecomunicaciones y radiodifusión, de acuerdo a los
@@ -4782,17 +4805,6 @@ redes de telecomunicaciones.
 Para efectos de lo dispuesto en el párrafo que antecede, la Secretaría se coordinará con las
 dependencias o entidades administradoras de inmuebles, el INDAABIN, la Secretaría de Hacienda y
 Crédito Público, la Secretaría de Energía, la Secretaría de Medio Ambiente y Recursos Naturales, la
-
-67 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Secretaría de Desarrollo Agrario, Territorial y Urbano, a fin de establecer las bases y lineamientos para
 instrumentar la política inmobiliaria que permita el despliegue de infraestructura de telecomunicaciones.
 Ningún concesionario de redes públicas de telecomunicaciones podrá contratar el uso o
@@ -4823,6 +4835,17 @@ para la adquisición de la capacidad satelital correspondiente.
 Artículo 151. Los concesionarios de recursos orbitales deberán realizar en tiempo y forma todos los
 actos previos necesarios para asegurar la puesta en operación de los servicios en los términos
 establecidos en la concesión.
+
+68 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 152. Los concesionarios de recursos orbitales que tengan cobertura sobre el país, deberán
 establecer al menos un centro de control y operación de los satélites respectivos en territorio nacional.
 Tratándose de centros de control establecidos en el país, en caso fortuito o de fuerza mayor, el
@@ -4834,17 +4857,6 @@ que establezca el Instituto para tal efecto.
 Artículo 154. Los concesionarios de recursos orbitales que operen en posiciones orbitales
 geoestacionarias, requerirán autorización del Instituto para operar en órbita inclinada o bajo condiciones
 específicas, cuando por razones del servicio así lo requieran.
-
-68 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Los concesionarios de recursos orbitales deberán informar al Instituto de cualquier evento que afecte
 o pueda afectar la prestación o la continuidad del servicio.
 El Instituto fijará los plazos máximos dentro de los cuales los concesionarios de recursos orbitales
@@ -4874,6 +4886,17 @@ Artículo 156. El Instituto señalará un plazo no mayor de ciento ochenta días
 prestación de los servicios de una emisora así como para los cambios de ubicación de la planta
 transmisora de la misma, tomando en cuenta los cálculos que presente el concesionario, de conformidad
 con los planos aprobados.
+
+69 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 En el caso de modificaciones de otros parámetros técnicos de operación de la estación, el Instituto
 fijará plazos no mayores a noventa días naturales, salvo que el concesionario presente información con la
 que sustente que requiere de un plazo mayor para la realización de dichos trabajos.
@@ -4887,16 +4910,6 @@ En caso de suspensión del servicio, el concesionario deberá informar al Instit
 I.
 
 La causa que lo originó;
-
-69 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 II.
 
@@ -4938,6 +4951,16 @@ número de canales superior al cincuenta por ciento del total de los canales de 
 abierta, incluidos los de multiprogramación, autorizados a otros concesionarios que se
 radiodifunden en la región de cobertura;
 
+70 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 III.
 
 El Instituto expedirá lineamientos para la aplicación del presente artículo, así como para el
@@ -4958,17 +4981,6 @@ Artículo 159. Los concesionarios que presten el servicio de televisión o audio
 retransmitir de manera gratuita la señal radiodifundida multiprogramada que tenga mayor audiencia. En
 caso de diferendo, el Instituto determinará la señal radiodifundida que deberá ser retransmitida. Los
 concesionarios de televisión restringida vía satélite, sólo deberán retransmitir obligatoriamente las
-
-70 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 señales radiodifundidas multiprogramadas de cobertura de cincuenta por ciento o más del territorio
 nacional de mayor audiencia.
 Lo anterior, sin perjuicio de que el concesionario de televisión restringida pueda retransmitir las demás
@@ -5014,6 +5026,16 @@ I.
 
 Contar con guía electrónica de programación, conforme a las disposiciones aplicables, y
 
+71 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 II.
 
 Contar con servicios de subtitulaje o doblaje al español y lengua de señas mexicana para
@@ -5030,17 +5052,6 @@ responsables del mismo.
 
 Sección III
 De la Retransmisión
-
-71 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 164. Los concesionarios que presten servicios de televisión radiodifundida están obligados a
 permitir a los concesionarios de televisión restringida la retransmisión de su señal, de manera gratuita y
 no discriminatoria, dentro de la misma zona de cobertura geográfica, en forma íntegra, simultánea y sin
@@ -5071,6 +5082,17 @@ Artículo 169. Las obligaciones de ofrecer y retransmitir gratuitamente los cont
 perderán su vigencia simultáneamente cuando existan condiciones de competencia en los mercados de
 radiodifusión y telecomunicaciones. Esta declaración será realizada por el Instituto en los términos de
 esta Ley y la Ley Federal de Competencia Económica. En este caso, los concesionarios estarán en
+
+72 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 libertad de acordar los precios y condiciones de la retransmisión de contenidos radiodifundidos. En caso
 de diferendo el Instituto determinará la tarifa que deberá estar orientada a costos.
 
@@ -5086,16 +5108,6 @@ tener el carácter de concesionario;
 II.
 
 Instalar, operar o explotar estaciones terrenas para transmitir señales satelitales;
-
-72 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 III.
 
@@ -5143,6 +5155,16 @@ I.
 
 Permitir la portabilidad numérica, y
 
+73 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 II.
 
 Ser responsable ante el usuario final por la prestación de los servicios que oferten y cumplir
@@ -5159,17 +5181,6 @@ entenderán otorgadas, debiendo el Instituto expedir la autorización correspond
 días hábiles siguientes.
 
 TÍTULO SÉPTIMO
-
-73 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Del Registro Público de Telecomunicaciones
 Artículo 176. El Instituto llevará el Registro Público de Telecomunicaciones, el cual estará integrado
 por el Registro Público de Concesiones[, el Padrón Nacional de Usuarios de Telefonía Móvil] y el Sistema
@@ -5220,6 +5231,16 @@ Las ofertas públicas que realicen los concesionarios declarados como agentes ec
 preponderantes en los sectores de telecomunicaciones y radiodifusión o con poder
 sustancial;
 
+74 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 IX.
 
 Las tarifas al público de los servicios de telecomunicaciones ofrecidos por los concesionarios
@@ -5244,16 +5265,6 @@ XIII.
 
 Los programas anuales de trabajo, los informes trimestrales de actividades del Instituto, así
 como los estudios y consultas que genere;
-
-74 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 XIV.
 
@@ -5310,6 +5321,17 @@ Cualquier otro documento que el Pleno determine que deba registrarse.
 Artículo 178. El Instituto inscribirá la información a que se refiere la presente Ley sin costo alguno
 para los concesionarios ni para los autorizados; y dará acceso a la información inscrita en el Registro
 Público de Concesiones, mediante su publicación en la página de Internet, sin necesidad de clave de
+
+75 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 acceso o contraseña y contará con un sistema de búsqueda que facilite la navegación y la consulta de la
 información.
 La información contenida en el Registro Público de Concesiones es de consulta pública, salvo aquella
@@ -5322,17 +5344,6 @@ de registro, así como la mayor publicidad y acceso a la información en él reg
 gobierno digital y datos abiertos.
 La inscripción en el Registro tendrá efectos declarativos y los actos en él inscritos no constituirán ni
 otorgarán por ese solo hecho derechos a favor de persona alguna.
-
-75 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 179. Cualquier modificación a la información citada en el artículo 177 deberá ser notificada al
 Instituto en un plazo no mayor de treinta días hábiles al que se realice el supuesto.
 Artículo 180. Los concesionarios y los autorizados están obligados a poner a disposición del Instituto
@@ -5373,6 +5384,16 @@ II.
 
 Fecha y hora de la activación de la línea telefónica móvil adquirida en la tarjeta SIM;
 
+76 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 III.
 
 Nombre completo o, en su caso, denominación o razón social del usuario;
@@ -5398,16 +5419,6 @@ Domicilio del usuario;
 VIII.
 
 Datos del concesionario de telecomunicaciones o, en su caso, de los autorizados;
-
-76 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 IX.
 
@@ -5448,6 +5459,17 @@ en los plazos que se establezcan en las disposiciones administrativas de caráct
 Instituto, considerando las tecnologías y métodos más modernos y de fácil utilización.
 En caso de que el aviso contenga datos equívocos o incongruentes con los asientos que obren en el
 Padrón Nacional de Usuarios de Telefonía Móvil, el Instituto prevendrá al concesionario de
+
+77 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 telecomunicaciones o, en su caso, al autorizado que haya presentado el aviso para que realice las
 aclaraciones respectivas, de conformidad con las disposiciones administrativas aplicables.
 El usuario titular del servicio que no reconozca como propio un número de línea telefónica móvil
@@ -5461,16 +5483,6 @@ mantendrá por un plazo de seis meses.]
 Artículo adicionado DOF 16-04-2021
 Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 27-04-2022 y publicada
 DOF 12-12-2022
-
-77 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 Artículo 180 Sextus. [El Instituto validará y corroborará la información del Padrón Nacional de
 Usuarios de Telefonía Móvil conforme a los sistemas y procedimientos informáticos que resulten
@@ -5503,6 +5515,17 @@ transmisión, de infraestructura pasiva y derechos de vía y de sitios públicos
 La base de datos será reservada en términos de la Ley Federal de Transparencia y Acceso a la
 Información Pública Gubernamental, sin perjuicio de que el Instituto dé acceso a los concesionarios o a
 aquellas personas que pretendan ser concesionarios o autorizados, siempre y cuando:
+
+78 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 I.
 
 Se registren ante el Instituto y comprueben su carácter de concesionario, autorizado o su
@@ -5524,17 +5547,6 @@ ejercicio de sus atribuciones.
 
 Sección I
 De la Infraestructura Activa
-
-78 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 182. La información relativa a infraestructura activa y medios de transmisión contendrá todos
 los datos que permitan determinar y geo-localizar el tipo, ubicación, capacidad, áreas de cobertura y, si
 es el caso, rutas y demás características de todas las redes de telecomunicaciones y de radiodifusión, así
@@ -5564,6 +5576,17 @@ determine el Instituto.
 Para el caso que utilicen infraestructura pasiva o derechos de vía de terceros, en los contratos
 correspondientes deberán establecer mecanismos que aseguren la entrega al Instituto de la información
 relativa a dicha infraestructura, en los términos y plazos que determine el Instituto.
+
+79 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Cuando la Secretaría ofrezca conectividad a sitios y espacios públicos de los estados, Gobierno del
 Distrito Federal y sus delegaciones, municipios, organismos e instituciones públicas, ésta se
 proporcionará siempre que tales entidades proporcionen previamente a la Secretaría y al Instituto, la
@@ -5577,17 +5600,6 @@ de las dependencias y entidades de la administración pública de los distintos 
 órganos autónomos y, en general, todos los organismos e instituciones públicas. Asimismo, el registro
 deberá, para cada sitio, señalar si cuenta con conectividad a Internet y, en caso afirmativo, si ésta es
 accesible al público en general y el ancho de banda con el que se encuentra conectado.
-
-79 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 187. Las dependencias y entidades de la Administración Pública Federal, del Distrito Federal,
 estatal y municipal, organismos constitucionales autónomos, universidades y centros de investigación
 públicos, proporcionarán a la Secretaría y al Instituto la información de sitios públicos en términos de la
@@ -5619,13 +5631,23 @@ I.
 Colaborar con las instancias de seguridad, procuración y administración de justicia, en la
 localización geográfica, en tiempo real, de los equipos de comunicación móvil, en los
 términos que establezcan las leyes.
+
+80 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Cualquier omisión o desacato a estas disposiciones será sancionada por la autoridad, en los
 términos de lo previsto por la legislación penal aplicable.
 El Instituto, escuchando a las autoridades a que se refiere el artículo 189 de esta Ley,
 establecerá los lineamientos que los concesionarios de telecomunicaciones y, en su caso, los
 autorizados deberán adoptar para que la colaboración a que se refiere esta Ley con dichas
 autoridades, sea efectiva y oportuna;
-
 II.
 
 Conservar un registro y control de comunicaciones que se realicen desde cualquier tipo de
@@ -5634,16 +5656,6 @@ identificar con precisión los siguientes datos:
 a)
 
 Nombre, denominación o razón social y domicilio del suscriptor;
-
-80 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 b)
 
@@ -5696,6 +5708,17 @@ esta Ley, los cuales deberán informarse al Instituto para los efectos de lo dis
 párrafo tercero, fracción I del presente artículo.
 Los concesionarios de telecomunicaciones y, en su caso, los autorizados, tomarán las
 medidas técnicas necesarias respecto de los datos objeto de conservación, que garanticen
+
+81 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 su conservación, cuidado, protección, no manipulación o acceso ilícito, destrucción,
 alteración o cancelación, así como el personal autorizado para su manejo y control.
 Sin perjuicio de lo establecido en esta Ley, respecto a la protección, tratamiento y control de
@@ -5709,21 +5732,11 @@ que así lo requieran, conforme a sus atribuciones, de conformidad con las leyes
 Queda prohibida la utilización de los datos conservados para fines distintos a los previstos en
 este capítulo, cualquier uso distinto será sancionado por las autoridades competentes en
 términos administrativos y penales que resulten.
-
-81 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Los concesionarios de telecomunicaciones y, en su caso, los autorizados, están obligados a
 entregar la información dentro de un plazo máximo de veinticuatro horas siguientes, contado
 a partir de la notificación, siempre y cuando no exista otra disposición expresa de autoridad
 competente;
+
 IV.
 
 Contar con un área responsable disponible las veinticuatro horas del día y los trescientos
@@ -5764,6 +5777,17 @@ Realizar el bloqueo inmediato de líneas de comunicación móvil que funcionen b
 esquema de contratación reportadas por los titulares o propietarios, utilizando cualquier
 medio, como robadas o extraviadas[, y proceder a realizar el aviso correspondiente en el
 Padrón Nacional de Usuarios de Telefonía Móvil;] así como, realizar la suspensión inmediata
+
+82 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 del servicio de telefonía móvil cuando así lo instruya [el Instituto para efectos del Padrón
 Nacional de Usuarios de Telefonía Móvil o] la autoridad competente para hacer cesar la
 comisión de delitos, de conformidad con lo establecido en las disposiciones administrativas y
@@ -5780,17 +5804,6 @@ cancelen o anulen de manera permanente las señales de telefonía celular, de
 radiocomunicación o de transmisión de datos o imagen dentro del perímetro de centros de
 readaptación social, establecimientos penitenciarios o centros de internamiento para
 menores, federales o de las entidades federativas, cualquiera que sea su denominación.
-
-82 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 El bloqueo de señales a que se refiere el párrafo anterior se hará sobre todas las bandas de
 frecuencia que se utilicen para la recepción en los equipos terminales de comunicación y en
 ningún caso excederá de veinte metros fuera de las instalaciones de los centros o
@@ -5801,6 +5814,7 @@ Los concesionarios de telecomunicaciones y, en su caso, los autorizados, están 
 colaborar con el Sistema Nacional de Seguridad Pública en el monitoreo de la funcionalidad u
 operatividad de los equipos utilizados para el bloqueo permanente de las señales de telefonía
 celular, de radiocomunicación o de transmisión de datos o imagen;
+
 IX.
 
 Implementar un número único armonizado a nivel nacional y, en su caso, mundial para
@@ -5835,6 +5849,17 @@ Ejecutivo Federal.
 Las comunicaciones privadas son inviolables. Exclusivamente la autoridad judicial federal, a petición
 de la autoridad federal que faculte la ley o del titular del Ministerio Público de la entidad federativa
 correspondiente, podrá autorizar la intervención de cualquier comunicación privada.
+
+83 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 190 Bis. Queda prohibida la fabricación, comercialización, adquisición, así como la
 instalación, portación, uso y operación de equipos que bloqueen, cancelen o anulen las señales de
 telefonía celular, de radiocomunicación o de transmisión de datos o imagen.
@@ -5848,17 +5873,6 @@ Artículo adicionado DOF 24-01-2020
 
 TÍTULO NOVENO
 De los usuarios
-
-83 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Capítulo I
 De los Derechos de los Usuarios y sus Mecanismos de Protección.
 Artículo 191. Los usuarios gozarán de los derechos previstos en esta Ley y en la Ley Federal de
@@ -5902,6 +5916,16 @@ VI.
 
 A la libre elección y no discriminación en el acceso a los servicios de internet;
 
+84 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 VII.
 
 A que le provean los servicios de telecomunicaciones conforme a los parámetros de calidad
@@ -5926,16 +5950,6 @@ XI.
 
 A solicitar y obtener el desbloqueo del equipo terminal cuando concluya la vigencia del
 contrato o se haya liquidado su costo;
-
-84 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 XII.
 
@@ -5991,6 +6005,16 @@ XX.
 A que cuando se renueve el contrato de servicios móviles y no adquiera un nuevo equipo, la
 mensualidad se integre exclusivamente por el cobro de los servicios sin pago del equipo, y
 
+85 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 XXI.
 
 A que en los contratos de servicios móviles se transparente, en el pago mensual, la parte que
@@ -6007,17 +6031,6 @@ por el Instituto, la PROFECO, los concesionarios y los autorizados, en sus respe
 Internet y se entregará a los usuarios al contratarse el servicio que corresponda.
 Corresponde a la PROFECO promover, proteger, asesorar, defender, conciliar, y representar a los
 usuarios y consumidores, frente a los concesionarios o autorizados de servicios de telecomunicaciones o
-
-85 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 ante comités consultivos de normalización así como registrar y publicar los modelos de contratos de
 adhesión de conformidad con esta Ley y la Ley Federal de Protección al Consumidor.
 Corresponde al Instituto regular, monitorear y vigilar la calidad de los servicios públicos de
@@ -6055,6 +6068,16 @@ III.
 Trasladen al usuario, suscriptor o a un tercero que no sea parte del contrato, la
 responsabilidad del concesionario o autorizado;
 
+86 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 IV.
 
 Prevean términos de prescripción inferiores a los legales;
@@ -6076,17 +6099,6 @@ deberán cumplir con lo dispuesto en esta Ley, en la Ley Federal de Protección 
 disposiciones aplicables.
 Artículo 194. La Secretaría de Economía emitirá las normas oficiales mexicanas en coordinación con
 el Instituto que establezcan las obligaciones específicas que deberán observar los concesionarios o
-
-86 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 autorizados, con el objeto de garantizar la protección efectiva de los derechos de los usuarios previstos
 en la Ley Federal de Protección al Consumidor y en esta Ley.
 Artículo 195. Los concesionarios y los autorizados están obligados a informar y respetar los precios,
@@ -6117,6 +6129,17 @@ concesionado revertirá de pleno derecho al Estado, por lo que el Instituto podr
 conformidad con lo establecido en esta Ley. Sin perjuicio de lo anterior, con el fin de proteger y
 salvaguardar los derechos de los usuarios o suscriptores, el Instituto podrá autorizar el uso temporal del
 espectro radioeléctrico sólo en la cantidad y por el tiempo estrictamente necesarios, para que el entonces
+
+87 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 concesionario migre a los usuarios o suscriptores hacia otros servicios o concesionarios o cumpla con el
 plazo y los términos bajo los cuales se hubiere obligado con los mismos.
 El Instituto fijará, de conformidad con el plan de acción propuesto por el concesionario, la cantidad de
@@ -6131,17 +6154,6 @@ amparo de la autorización referida en este artículo, deberán pagarse las cont
 derechos que correspondan.
 
 Capítulo II
-
-87 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 De los Derechos de los Usuarios con Discapacidad
 Artículo 199. El Ejecutivo Federal y el Instituto, en sus respectivos ámbitos de competencia,
 promoverán que los usuarios con discapacidad, tengan acceso a los servicios de telecomunicaciones, en
@@ -6187,6 +6199,16 @@ discapacidad puedan recibir atención, siempre y cuando dichas adaptaciones no i
 una carga desproporcionada o indebida al concesionario o autorizado, de conformidad con
 los lineamientos que emita el Instituto;
 
+88 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 VII.
 
 A que las páginas o portales de internet, o números telefónicos de atención al público de los
@@ -6206,17 +6228,6 @@ discapacidad. En el caso de la Administración Pública Federal, los portales de
 disposiciones establecidas en el marco de la Estrategia Digital Nacional conforme a las mejores prácticas
 internacionales, así como a las actualizaciones tecnológicas. El Ejecutivo promoverá la implementación
 de dichas funciones de accesibilidad en los sectores privado y social.
-
-88 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 202. El Ejecutivo Federal de conformidad con la Estrategia Digital Nacional y el Instituto, en
 el ámbito de sus respectivas competencias, promoverán el acceso de las personas con discapacidad a
 los nuevos sistemas y tecnologías de la información y las comunicaciones, incluido Internet y de
@@ -6245,6 +6256,17 @@ deberán incluir dentro de su oferta comercial, planes y tarifas, el cobro por s
 planes que se basen en el cobro por minuto, por evento, por capacidad o cualquier otra modalidad.
 Artículo 208. La libertad tarifaria a que se refiere el artículo 204, así como lo previsto en los artículos
 205 y 207, no aplicará a los concesionarios de telecomunicaciones que sean declarados como agentes
+
+89 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 económicos preponderantes en el sector de las telecomunicaciones o con poder sustancial, en cuyo
 caso, deberán cumplir con la regulación específica que en materia de tarifas le imponga el Instituto. Estas
 tarifas deberán ser aprobadas por el Instituto, el cual deberá llevar un registro de las mismas, a efecto de
@@ -6262,16 +6284,6 @@ II.
 
 No podrá cobrar de manera diferenciada a sus usuarios del servicio móvil por las llamadas
 que reciban provenientes de su red o de la de otros concesionarios;
-
-89 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 III.
 
@@ -6309,6 +6321,17 @@ de su número.
 TÍTULO DÉCIMO
 Capítulo Único
 De la Cobertura Universal
+
+90 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 210. Para la consecución de la cobertura universal, la Secretaría elaborará cada año un
 programa de cobertura social y un programa de conectividad en sitios públicos.
 Artículo 211. El objetivo del programa de cobertura social es incrementar la cobertura de las redes y
@@ -6321,17 +6344,6 @@ tal efecto.
 La Secretaría definirá los servicios de telecomunicaciones y radiodifusión que se incluirán en el
 programa de cobertura social, con prioridad a los servicios de acceso a Internet y servicios de voz, y
 diseñará y promoverá los incentivos para la participación de los concesionarios en el mismo.
-
-90 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 212. La Secretaría en coordinación con el Instituto y el Instituto Nacional de Estadística y
 Geografía, definirá y publicará los indicadores que permitan medir la evolución de los servicios de
 telecomunicaciones y radiodifusión en todo el territorio nacional, siguiendo en la medida de lo posible y
@@ -6361,6 +6373,17 @@ De los Contenidos Audiovisuales
 Capítulo I
 De la Competencia de las Autoridades
 Artículo 216. Corresponde al Instituto:
+
+91 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 I.
 
 Vigilar y sancionar el cumplimiento de los tiempos máximos establecidos para la transmisión
@@ -6383,16 +6406,6 @@ a que se refiere el artículo 3o. de la Constitución, las normas en materia de 
 lineamientos establecidos en esta Ley que regulan la publicidad pautada en la programación
 destinada al público infantil, con base en las disposiciones reglamentarias emitidas por las
 autoridades competentes;
-
-91 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 IV.
 
@@ -6449,6 +6462,16 @@ Requerir a los concesionarios que presten el servicio de televisión y audio res
 reserva gratuita de canales para la distribución de señales de televisión de conformidad con
 las disposiciones legales;
 
+92 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 VIII.
 
 Verificar que las transmisiones de radio y televisión cumplan con los criterios de clasificación,
@@ -6471,16 +6494,6 @@ artículo 3o. de la Constitución, y
 XI.
 
 Las demás que le confieran esta Ley y otras disposiciones legales.
-
-92 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 En el ejercicio de estas atribuciones, la Secretaría de Gobernación deberá respetar los derechos a la
 manifestación de las ideas, libertad de información y de expresión y no podrá realizar ninguna censura
@@ -6534,11 +6547,21 @@ Autorizar la publicidad de suplementos alimenticios, productos biotecnológicos,
 alcohólicas, medicamentos, remedios herbolarios, equipos médicos, prótesis, órtesis, ayudas
 funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos,
 plaguicidas, nutrientes vegetales y sustancias tóxicas o peligrosas y demás que se
+
+93 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 determinen en la legislación aplicable. La Secretaría de Salud podrá emitir las disposiciones
 generales aplicables a la publicidad de los productos señalados en este artículo, sin perjuicio
 de las atribuciones que en materia de contenidos correspondan a la Secretaría de
 Gobernación;
-
 IV.
 
 Establecer las normas en materia de salud para la programación destinada al público infantil;
@@ -6552,16 +6575,6 @@ dirigida a la población infantil en materia de salud, y
 VI.
 
 Las demás que le confieran esta Ley y otras disposiciones legales.
-
-93 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 Artículo 220. El Ejecutivo Federal, por conducto de la dependencia facultada para ello, dará vista al
 Instituto de aquellos asuntos, actos y circunstancias que ameriten su intervención para los efectos legales
@@ -6610,6 +6623,16 @@ VII.
 
 La igualdad entre mujeres y hombres;
 
+94 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 VIII.
 
 La divulgación del conocimiento científico y técnico, y
@@ -6625,17 +6648,6 @@ programadores y las redes o plataformas sobre las que se transmitirán, conforme
 internacionales.
 Artículo 224. En cada canal de multiprogramación autorizado a los concesionarios de uso comercial,
 público y social que presten servicios de radiodifusión, se deberá cumplir con las mismas reglas y
-
-94 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 disposiciones aplicables en términos de contenido, publicidad, producción nacional independiente,
 defensor de la audiencia, tiempos de Estado, boletines, encadenamientos y sanciones.
 Artículo 225. Los concesionarios que presten el servicio de televisión y audio restringidos deberán
@@ -6699,6 +6711,16 @@ XII.
 
 Promover la tolerancia y el respeto a la diversidad de opiniones;
 
+95 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 XIII.
 
 Promover el derecho de las mujeres a una vida libre de violencia;
@@ -6715,17 +6737,6 @@ pornográficos.
 Los programas infantiles que se transmitan en vivo, los grabados en cualquier formato en el país o en
 el extranjero, los tiempos de Estado, así como, en su caso, aquellos previstos en otras disposiciones
 aplicables, deberán sujetarse a lo dispuesto en las fracciones anteriores.
-
-95 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Los concesionarios que presten servicios de radiodifusión o de televisión y audio restringidos y los
 programadores, en relación con sus respectivos contenidos, adoptarán las medidas oportunas para
 advertir a la audiencia de contenidos que puedan perjudicar el libre desarrollo de la personalidad de
@@ -6758,6 +6769,17 @@ distintas modalidades será previamente autorizada y supervisada en todas sus et
 de Gobernación, a fin de proteger la buena fe y la integridad de los participantes y del público.
 Tratándose de concursos que se transmitan a través de señales provenientes del extranjero, los
 concesionarios celebrarán acuerdos con los programadores y operadores de las señales extranjeras, que
+
+96 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 garanticen la seriedad de los concursos y el cumplimiento en la entrega de los premios cuando se trate
 de participantes ganadores en territorio nacional.
 Las transmisiones de carácter religioso se deben sujetar a lo establecido por la Ley de Asociaciones
@@ -6766,16 +6788,6 @@ Artículo 230. En sus transmisiones, las estaciones radiodifusoras de los conces
 uso de cualquiera de las lenguas nacionales de conformidad con las disposiciones legales aplicables. Las
 concesiones de uso social indígena podrán hacer uso de la lengua del pueblo originario que corresponda.
 Párrafo reformado DOF 01-06-2016. Fe de erratas DOF 09-06-2016
-
-96 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 En caso de que las transmisiones sean en idioma extranjero, deberá utilizarse el subtitulaje o la
 traducción respectiva al español, en casos excepcionales, la Secretaría de Gobernación podrá autorizar
@@ -6819,6 +6831,16 @@ El concesionario cubrirá por su cuenta el costo de los equipos e instalaciones 
 recepción y distribución de las señales que le sean indicadas. La calidad de transmisión de estas señales
 será, por lo menos, igual a las del resto del servicio.
 
+97 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Sección II
 Publicidad
 Artículo 237. Los concesionarios que presten el servicio de radiodifusión o de televisión y audio
@@ -6828,17 +6850,6 @@ reglas:
 I.
 
 Para los concesionarios de uso comercial de radiodifusión:
-
-97 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 a)
 
 En estaciones de televisión, el tiempo destinado a publicidad comercial no excederá del
@@ -6870,7 +6881,10 @@ III.
 Los canales dedicados exclusivamente a programación de oferta de productos, estarán
 exceptuados del límite señalado en el inciso anterior, y
 
-Para los concesionarios de uso social indígenas y comunitarias de radiodifusión:
+Para los concesionarios de uso social indígenas, afromexicanas y comunitarias de
+radiodifusión:
+Párrafo reformado DOF 01-04-2024
+
 a)
 
 En estaciones de televisión, el tiempo destinado a venta de publicidad para los entes
@@ -6890,6 +6904,17 @@ encadenamientos y otros a disposición del Poder Ejecutivo.
 Artículo 238. Con la finalidad de evitar la transmisión de publicidad engañosa, sin afectar la libertad
 de expresión y de difusión, se prohíbe la transmisión de publicidad o propaganda presentada como
 información periodística o noticiosa.
+
+98 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 239. La publicidad en televisión restringida de productos o servicios no disponibles en el
 mercado nacional, deberá incluir recursos visuales o sonoros que indiquen tal circunstancia. El
 concesionario deberá incluir esta disposición en los contratos respectivos con los programadores.
@@ -6899,17 +6924,6 @@ con lo establecido en esta Ley y demás normatividad que resulte aplicable.
 Artículo 241. Los concesionarios que presten el servicio de radiodifusión, deberán ofrecer en
 términos de mercado y de manera no discriminatoria, los servicios y espacios de publicidad a cualquier
 persona física o moral que los solicite. Para ello, se deberán observar los términos, paquetes,
-
-98 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 condiciones y tarifas que se encuentren vigentes al momento de la contratación. Asimismo, no podrán
 restringir, negar o discriminar el acceso o contratación de espacios publicitarios a ningún anunciante, aun
 cuando este último hubiera optado, en algún momento, por otro medio o espacio de publicidad.
@@ -6956,6 +6970,16 @@ VI.
 Mostrar conductas que promuevan la desigualdad entre hombres y mujeres o cualquier otra
 forma de discriminación;
 
+99 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 VII.
 
 Presentar, promover o incitar conductas de acoso e intimidación escolar que puedan generar
@@ -6971,17 +6995,6 @@ Artículo 247. Los concesionarios que presten el servicio de radiodifusión para
 cubran con producción nacional cuando menos un veinte por ciento de su programación, podrán
 incrementar el porcentaje de tiempo de publicidad a que se refiere esta Ley, hasta en dos puntos
 porcentuales.
-
-99 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Este incentivo se aplicará de manera directamente proporcional al porcentaje de producción nacional
 con el que se dé cumplimiento a lo establecido en el párrafo anterior.
 Artículo 248. Los concesionarios que presten el servicio de radiodifusión para uso comercial que
@@ -7012,6 +7025,17 @@ dicho tiempo y las emisiones serán coordinadas por la Secretaría de Gobernaci�
 Los concesionarios de uso social estarán exentos del impuesto establecido en la Ley del impuesto
 sobre servicios expresamente declarados de interés público por ley, en los que intervengan empresas
 concesionarias de bienes del dominio directo de la nación.
+
+100 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 252. La forma en que podrán dividirse esos treinta minutos será la siguiente:
 I.
 
@@ -7027,17 +7051,6 @@ de la televisión, además, simultáneamente la imagen de la bandera nacional.
 
 Sección II
 Boletines y Cadenas Nacionales
-
-100 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 254. Además de lo establecido para el tiempo de Estado, los concesionarios de uso
 comercial, público y social de radio y televisión están obligados a transmitir gratuitamente y de manera
 preferente:
@@ -7082,8 +7095,18 @@ II.
 [Recibir programación oportuna que incluya diferentes géneros que respondan a la expresión
 de la diversidad y pluralidad de ideas y opiniones que fortalezcan la vida democrática de la
 sociedad;]
-
 Fracción reformada DOF 31-10-2017
+
+101 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-08-2022 y publicada
 DOF 16-12-2022
 
@@ -7101,20 +7124,10 @@ como información periodística o noticiosa. Se entenderá que se transmite publ
 propaganda como información periodística o noticiosa, cuando un concesionario inserta
 dentro de su programación informativa un análisis o comentario editorial cuyo tiempo de
 transmisión ha sido contratado por un anunciante, sin que tal circunstancia se haga del
-
-101 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 conocimiento de la audiencia. En su Código de Ética, los concesionarios señalarán los
 elementos y prácticas que observarán para prevenir y evitar incurrir en la prohibición a que se
 refiere esta fracción;]
+
 Fracción reformada DOF 31-10-2017
 Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-08-2022 y publicada
 DOF 16-12-2022
@@ -7166,6 +7179,16 @@ Párrafo reformado DOF 31-10-2017
 Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-08-2022 y publicada
 DOF 16-12-2022
 
+102 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 [El Código de Ética será emitido libremente por cada concesionario y no estará sujeto a convalidación
 o a la revisión previa o posterior del Instituto o de otra autoridad, ni a criterios, directrices, lineamientos o
 cualquier regulación o acto similar del mismo Instituto u otra autoridad.]
@@ -7181,16 +7204,6 @@ contenidos generados en México respecto de los generados en el extranjero.]
 Párrafo adicionado DOF 31-10-2017
 Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-08-2022 y publicada
 DOF 16-12-2022
-
-102 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 Sección II
 De los Derechos de las Audiencias con Discapacidad
@@ -7232,6 +7245,17 @@ señalamientos de las personas que componen la audiencia.
 concesionario, y únicamente rendirá cuentas a la audiencia y a las instancias que, en su caso, prevea el
 propio Código de Ética.]
 Párrafo reformado DOF 31-10-2017
+
+103 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-08-2022 y publicada
 DOF 16-12-2022
 
@@ -7246,17 +7270,6 @@ DOF 16-12-2022
 La actuación de los defensores de las audiencias se ajustará a los criterios de imparcialidad e
 independencia, cuya prioridad será la de hacer valer los derechos de las audiencias, según los códigos
 de ética que haya firmado o a los que se haya adherido cada concesionario.
-
-103 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 [El nombramiento de los defensores de las audiencias deberá inscribirse en el Registro Público de
 Concesiones, dentro de los 15 días siguientes a la fecha en que ello se haya llevado a cabo por parte del
 concesionario.]
@@ -7302,6 +7315,17 @@ siete días hábiles posteriores a la emisión del programa objeto de la misma.
 [Recibidas las reclamaciones, quejas o sugerencias, el defensor las tramitará en las áreas o
 departamentos responsables del concesionario, requiriendo las explicaciones que considere pertinentes,
 cuyas respuestas deberán entregarse dentro de los plazos previstos en el Código de Ética.]
+
+104 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Párrafo reformado DOF 31-10-2017
 Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-08-2022 y publicada
 DOF 16-12-2022
@@ -7316,16 +7340,6 @@ concesionario.]
 Párrafo reformado DOF 31-10-2017
 Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-08-2022 y publicada
 DOF 16-12-2022
-
-104 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 TÍTULO DÉCIMO SEGUNDO
 De la Regulación Asimétrica
@@ -7357,6 +7371,17 @@ local de telecomunicaciones del agente económico preponderante.
 Artículo 264. El Instituto está facultado para declarar agentes económicos con poder sustancial en
 cualquiera de los mercados relevantes de dichos sectores, de conformidad con esta Ley y la Ley Federal
 de Competencia Económica.
+
+105 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Cuando el Instituto en el ejercicio de sus facultades en materia de competencia económica, advierta la
 existencia de elementos que hagan suponer que no existen condiciones de competencia efectiva en un
 mercado o que afecten la libre concurrencia y la conducta se realice o involucre a agentes económicos
@@ -7367,17 +7392,6 @@ Artículo 265. Para la declaración de agente económico como preponderante y la
 medidas necesarias para evitar que se afecten la competencia y la libre concurrencia y con ello a los
 usuarios finales, tanto en el sector de radiodifusión como de telecomunicaciones, el Instituto aplicará el
 siguiente procedimiento:
-
-105 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 I.
 
 El Instituto notificará al agente de que se trate el proyecto de declaratoria como presunto
@@ -7416,10 +7430,20 @@ La oposición a los actos de trámite durante el procedimiento deberá alegarse 
 agente económico dentro del plazo de los tres días siguientes a aquél en que haya tenido
 verificativo la actuación que considere le afecta, para que sea tomada en consideración en la
 resolución definitiva.
+
+106 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Concluida la tramitación del procedimiento, el presunto agente económico podrá formular
 alegatos en un plazo no mayor a cinco días hábiles. Transcurrido este último plazo, con o sin
 alegatos, se turnará el expediente a resolución;
-
 IV.
 
 En caso de que durante la instrucción el Instituto considere que es necesario establecer las
@@ -7430,20 +7454,10 @@ convenga respecto de las medidas que, en su caso, se hayan determinado, dentro d
 plazo que no excederá de cinco días hábiles contado a partir del día siguiente a aquel en que
 surta efectos la notificación de la apertura del incidente, pudiendo sólo ofrecer las pruebas
 que estén directamente relacionadas con las medidas que propone el Instituto.
-
-106 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 En caso de no hacer manifestaciones dentro del plazo antes aludido, se presumirá que no
 existe inconformidad u oposición alguna respecto de las medidas propuestas y el expediente
 incidental se tendrá por integrado para efectos del dictado de la resolución definitiva, y
+
 V.
 
 El Instituto contará con un plazo de cuarenta días hábiles para dictar la resolución definitiva
@@ -7485,6 +7499,16 @@ En casos distintos al señalado en el párrafo anterior, someter a la autorizaci
 participación en la licitación de bandas de frecuencias de espectro radioeléctrico destinadas a
 la prestación de servicios de radiodifusión;
 
+107 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 III.
 
 Entregar la contabilidad separada de los concesionarios de radiodifusión;
@@ -7509,19 +7533,9 @@ VII.
 Permitir a los concesionarios de radiodifusión el acceso y uso de su infraestructura pasiva
 bajo cualquier título legal, sobre bases no discriminatorias y sin sujetarlo a la adquisición de
 otros bienes y servicios. Los concesionarios que cuenten con 12 MHz o más de espectro
-
-107 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 radioeléctrico en la localidad de que se trate, no podrán acceder a la compartición de
 infraestructura referida en esta fracción;
+
 VIII.
 
 Realizar una oferta pública de referencia a los concesionarios referidos en la fracción
@@ -7581,6 +7595,16 @@ XVIII.
 Proveer servicios observando los niveles mínimos de calidad que establezca el Instituto.
 Estos niveles se revisarán cada dos años;
 
+108 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 XIX.
 
 Abstenerse de establecer barreras técnicas, contractuales o de cualquier naturaleza, que
@@ -7598,16 +7622,6 @@ XXI.
 Abstenerse de participar, sin autorización del Instituto, en acuerdos con otros agentes
 económicos para la adquisición de derechos de transmisión de contenidos audiovisuales
 para ser radiodifundidos con la finalidad de mejorar los términos de dicha adquisición;
-
-108 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 XXII.
 
@@ -7660,6 +7674,17 @@ Deberá someter junto con la solicitud de autorización de las tarifas al públi
 paquetes comerciales, promociones y descuentos, y desagregar el precio de cada
 servicio. No se podrá comercializar o publicitar los servicios en medios de comunicación,
 sin la previa autorización del Instituto.
+
+109 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 El Instituto deberá asegurarse que las tarifas al público puedan ser replicables por el
 resto de los concesionarios. Para tal efecto, el Instituto deberá elaborar y hacer público
 el dictamen de autorización de las tarifas.
@@ -7667,7 +7692,6 @@ Dicho dictamen deberá analizar los costos que imputa el agente económico
 preponderante al resto de los concesionarios y los que se aplica a sí mismo, a fin de
 evitar que la propuesta comercial tenga como objeto o efecto desplazar a sus
 competidores;
-
 b)
 
 Las tarifas de los servicios intermedios que provea a otros concesionarios deberán ser
@@ -7675,16 +7699,6 @@ iguales o menores a aquellas que aplica o imputa a su operación, excepto en las
 en que esta Ley disponga algo distinto. No podrá imputarse tarifas distintas a las que
 tenga autorizadas ante el Instituto. El Instituto emitirá un dictamen a fin de evitar
 subsidios cruzados, depredación de precios o prácticas anticompetitivas;
-
-109 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 III.
 
@@ -7736,12 +7750,22 @@ X.
 
 Ofrecer y proveer los servicios a los concesionarios de redes públicas de telecomunicaciones
 en los mismos términos, condiciones y calidad que se ofrece a sí mismo.
+
+110 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 A tal efecto deberá atender las solicitudes y provisionar los servicios de telecomunicaciones a
 sus competidores en el mismo tiempo y forma en que lo hace respecto de su operación, bajo
 el principio el primero en solicitar es el primero en ser atendido. El Instituto estará facultado
 para determinar los mecanismos que aseguren el cumplimiento de esta obligación,
 incluyendo los tiempos de entrega e instalación;
-
 XI.
 
 Permitir que los usuarios utilicen cualquier equipo terminal que cumpla con los estándares
@@ -7753,16 +7777,6 @@ XII.
 
 Todos los servicios o bienes empaquetados podrán ser adquiridos por los usuarios o
 competidores de forma individual y desagregada;
-
-110 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 XIII.
 
@@ -7804,9 +7818,6 @@ XIX.
 En materia de adquisiciones gubernamentales por parte de dependencias y entidades de la
 Administración Pública Federal, estatal o municipal, del Distrito Federal, de los otros poderes
 federales o de organismos autónomos, deberá:
-
-XX.
-
 a)
 
 Ofrecer tarifas correspondientes a todos los servicios de manera desagregada e
@@ -7823,6 +7834,18 @@ económico preponderante y el Instituto. En este caso, las bases de licitación 
 contener obligaciones mínimas a cargo del agente económico preponderante, a las que
 deberá dar seguimiento preciso el Instituto, y
 
+111 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+XX.
+
 Aquellas medidas adicionales que a juicio del Instituto sean necesarias para prevenir
 prácticas monopólicas o promover la competencia.
 
@@ -7834,17 +7857,6 @@ preste a subsidiarias, filiales, afiliadas o cualquier otra persona que forme pa
 Las medidas a que se refiere este artículo, incluyendo, en su caso, sus modificaciones, la información
 presentada y las metodologías, deberán inscribirse en el Registro Público de Telecomunicaciones y
 publicarse en la página de Internet del Instituto en la fecha de su expedición.
-
-111 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Artículo 268. Para efectos de la fracción I del artículo 267, las ofertas públicas deberán presentarse al
 Instituto en el mes de julio de cada año, quien las someterá a consulta pública por un periodo de treinta
 días naturales. Terminada la consulta, el Instituto contará con treinta días naturales para aprobar o
@@ -7884,6 +7896,16 @@ servicio completamente desagregado, servicio compartido, compartido sin servicio
 básico, transferencia de datos, o cualquiera que la tecnología permita y que acuerde con el
 concesionario interesado, o lo determine el Instituto;
 
+112 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 III.
 
 Someter a la aprobación del Instituto, a más tardar el 30 de junio de cada año, las ofertas
@@ -7895,20 +7917,10 @@ hábiles para aprobar, y en su caso, modificar la oferta respectiva, plazo dentr
 vista a dicho agente para que manifieste lo que a su derecho convenga.
 La oferta de que se trate deberá entrar en vigor y publicarse a través de la página del Instituto
 dentro de los primeros quince días del mes de diciembre de cada año.
-
-112 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 La oferta respectiva permanecerá vigente por el año siguiente y deberá ser actualizada en
 caso de que el agente económico preponderante ofrezca, aplique o facture a concesionarios
 de redes públicas de telecomunicaciones nuevas condiciones, coberturas o tecnologías;
+
 IV.
 
 Realizar a su costa la creación, desarrollo y la implantación de procesos, sistemas,
@@ -7946,6 +7958,16 @@ citadas medidas podrán incluir la regulación de precios y tarifas, condiciones
 calidad, así como su calendario de implantación con el objeto de procurar la cobertura
 universal y el aumento en la penetración de los servicios de telecomunicaciones;
 
+113 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 VI.
 
 Permitir el acceso de otros concesionarios de redes públicas de telecomunicaciones a los
@@ -7963,16 +7985,6 @@ El Instituto podrá intervenir de oficio para garantizar que en el acceso desagr
 refiere este artículo existan condiciones de no discriminación, competencia efectiva en el
 sector de telecomunicaciones, eficacia económica y un beneficio máximo para los usuarios
 finales, y
-
-113 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 VIII.
 
@@ -8023,6 +8035,17 @@ dicho precio mayorista, el Instituto deberá considerar el precio más bajo que 
 preponderante en el sector de las telecomunicaciones y, en su caso, el agente económico con poder
 sustancial de mercado, cobre u ofrezca a cualquiera de sus clientes o registre, respecto de cada servicio.
 El agente económico preponderante en el sector de las telecomunicaciones y, en su caso, el agente
+
+114 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 económico con poder sustancial de mercado, no podrá discriminar el tráfico mayorista y la calidad del
 servicio deberá ser igual al que reciban sus clientes.
 Artículo 273. Las tarifas, las condiciones y los términos de los servicios que el agente económico
@@ -8033,17 +8056,6 @@ Artículo 274. El convenio que los concesionarios o los autorizados para comerci
 telecomunicaciones y el agente económico preponderante en el sector de las telecomunicaciones
 celebren no deberá estar sujeto a niveles de consumo mínimos ni máximos. En el convenio se deberá
 permitir al concesionario y, en su caso, al autorizado:
-
-114 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 I.
 
 Tener y administrar numeración propia o adquirirla a través de su contratación con
@@ -8083,6 +8095,17 @@ adicionales, las cuales deberán estar directamente relacionadas con la afectaci
 El agente económico preponderante dejará de tener tal carácter, cuando el Instituto determine que su
 participación nacional, considerando las variables utilizadas para declararlo como preponderante, se
 redujeron por debajo del cincuenta por ciento.
+
+115 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 El Instituto podrá declarar a dicho agente económico como preponderante por las mismas variables
 utilizadas, si su participación nacional se ubica de nueva cuenta por encima del cincuenta por ciento. Lo
 anterior sin perjuicio de las atribuciones del Instituto para declarar como preponderante al mismo agente,
@@ -8095,17 +8118,6 @@ preponderantes y siempre que con la ejecución de dicho plan se generen condicio
 efectiva en los mercados que integran los sectores de telecomunicaciones y radiodifusión, de
 conformidad con la Ley Federal de Competencia Económica. En este caso se procederá de la siguiente
 forma:
-
-115 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 I.
 
 El Instituto analizará, evaluará y en su caso, aprobará el plan propuesto dentro de los ciento
@@ -8156,6 +8168,16 @@ que no se generan efectos adversos a la competencia deberán haber transcurrido 
 meses a partir de la ejecución del plan aprobado, plazo durante el cual los agentes deberán
 acreditar también estar en cumplimiento de las leyes aplicables y de sus títulos de concesión.
 
+116 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 277. Los agentes económicos preponderantes en el sector de las telecomunicaciones y en el
 sector de la radiodifusión, podrán participar en licitaciones de bandas de frecuencias del espectro
 radioeléctrico, siempre y cuando lo autorice el Instituto y se apeguen a los límites de acumulación de
@@ -8168,17 +8190,6 @@ datos deberán aplicarse en todos los segmentos de forma que se garantice en su 
 competencia efectiva en la radiodifusión y telecomunicaciones.
 
 Capítulo III
-
-116 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Del Poder Sustancial de Mercado
 Artículo 279. El Instituto está facultado para determinar la existencia de agentes con poder sustancial
 en cualquier mercado relevante de los sectores de radiodifusión y telecomunicaciones, en términos de
@@ -8217,6 +8228,17 @@ días hábiles.
 Se recibirán toda clase de pruebas, excepto la confesional y la testimonial a cargo de
 autoridades, ni aquellas que sean improcedentes, innecesarias o contrarias a la moral y al
 derecho.
+
+117 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Queda a cargo del agente económico llevar a cabo todas las diligencias y actos necesarios
 para que sus pruebas sean debidamente desahogadas dentro del plazo antes mencionado,
 de lo contrario se tendrán por desiertas las mismas.
@@ -8227,17 +8249,6 @@ La oposición a los actos de trámite durante el procedimiento deberá alegarse 
 económico dentro del plazo de los tres días siguientes a aquél en que haya tenido verificativo
 la actuación que considere le afecta, para que sea tomada en consideración en la resolución
 definitiva.
-
-117 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Concluida la tramitación del procedimiento, el agente económico podrá formular alegatos en
 un plazo no mayor a tres días hábiles. Transcurrido este último plazo, con o sin alegatos, se
 turnará el expediente a resolución, y
@@ -8285,6 +8296,17 @@ telecomunicaciones serán susceptibles de ser declarados con poder sustancial, y
 imponerles las obligaciones específicas que determine conforme a lo dispuesto en esta Ley.
 
 Capítulo IV
+
+118 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 De la Propiedad Cruzada
 Artículo 285. En los casos de concesionarios de radiodifusión y telecomunicaciones que sirvan a un
 mismo mercado o zona de cobertura geográfica, que impida o limite el acceso a información plural en
@@ -8295,16 +8317,6 @@ El Instituto indicará al concesionario que preste el servicio de televisión re
 trate aquellos canales de información noticiosa o de interés público que deberá integrar en
 sus servicios, en la medida en que sea necesario para garantizar el acceso a información
 plural y oportuna, y
-
-118 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 II.
 
@@ -8363,6 +8375,17 @@ zona de cobertura.
 Artículo 288. En el caso de que las medidas impuestas por el Instituto en términos de los dos
 artículos anteriores no hayan resultado eficaces, el Instituto podrá ordenar al agente económico que
 desincorpore activos, derechos o partes sociales de los que sea titular, en la parte que sea necesaria
+
+119 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 para asegurar el cumplimiento de dichas medidas, a fin de garantizar lo dispuesto por los artículos 6o. y
 7o. de la Constitución.
 Los agentes económicos tendrán derecho a presentar un programa de desincorporación ante el
@@ -8371,17 +8394,6 @@ En la resolución de desincorporación de activos, el Instituto deberá otorgar 
 ello.
 
 TÍTULO DÉCIMO TERCERO
-
-119 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Capítulo Único
 De la Homologación
 Artículo 289. Los productos, equipos, dispositivos o aparatos destinados a telecomunicaciones o
@@ -8426,6 +8438,16 @@ V.
 
 Normas y disposiciones técnicas emitidas por organismos internacionales de normalización, y
 
+120 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 VI.
 
 Normas y disposiciones técnicas emitidas por entidades reguladoras o de normalización de
@@ -8436,17 +8458,6 @@ radiodifusión, como apoyo a los procedimientos de homologación.
 
 TÍTULO DÉCIMO CUARTO
 Régimen de Verificación
-
-120 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Capítulo Único
 De la Verificación y Vigilancia
 Artículo 291. El Instituto verificará y supervisará, en el ámbito de su competencia, el cumplimiento de
@@ -8480,6 +8491,17 @@ esté incurriendo en una práctica monopólica por la conducta objeto de la veri
 autoridad investigadora, sin perjuicio de continuar con la verificación de que se trate.
 Artículo 295. El Instituto establecerá los mecanismos necesarios para llevar a cabo la comprobación
 de las emisiones radioeléctricas, la identificación de interferencias perjudiciales y demás perturbaciones a
+
+121 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 los sistemas y servicios de telecomunicaciones y de radiodifusión, con el objeto de asegurar el mejor
 funcionamiento de los servicios y la utilización eficiente del espectro.
 Artículo 296. Para hacer cumplir sus determinaciones el Instituto podrá emplear, previo
@@ -8492,19 +8514,9 @@ II.
 
 Multa adicional por cada día que no se permita a los verificadores del Instituto el acceso a
 sus instalaciones y no se otorguen todas las facilidades para realizar la verificación y/o no se
-
-121 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 entregue la información o documentación requerida, hasta un plazo máximo de diez días
 naturales, y
+
 III.
 
 El auxilio de la fuerza pública.
@@ -8538,6 +8550,17 @@ concesionarios o autorizados, serán sancionadas por la PROFECO en términos de 
 artículos 128 y, en su caso, del artículo 128 Bis de la Ley Federal de Protección al Consumidor.
 La Secretaría de Gobernación sancionará el incumplimiento de lo establecido en esta Ley en materia
 de contenidos, tiempos de Estado, así como, en su caso, aquellos previstos en otras disposiciones
+
+122 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 aplicables; cadenas nacionales, boletines, el Himno Nacional, concursos, así como la reserva de canales
 de televisión y audio restringidos conforme a lo dispuesto en el Capítulo III de este Título.
 [El Instituto sancionará el incumplimiento de los tiempos máximos establecidos para la transmisión de
@@ -8548,17 +8571,6 @@ Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucio
 DOF 16-12-2022
 
 Capítulo II
-
-122 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Sanciones en materia de Telecomunicaciones y Radiodifusión
 Artículo 298. Las infracciones a lo dispuesto en esta Ley y a las disposiciones que deriven de ella, se
 sancionarán por el Instituto de conformidad con lo siguiente:
@@ -8613,6 +8625,17 @@ Fracción declarada inconstitucional por sentencia de la SCJN a Declaratoria Gen
 publicada DOF 02-04-2019. Derogada DOF 11-01-2021
 
 C) Con multa por el equivalente de 1.1% hasta 4% de los ingresos del concesionario o autorizado por:
+
+123 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 I.
 
 Celebrar acuerdos que impidan ofrecer servicios y espacios de publicidad a terceros;
@@ -8630,16 +8653,6 @@ IV.
 
 Establecer barreras de cualquier naturaleza que impidan la conexión del equipo terminal del
 usuario con otros concesionarios que operen redes de telecomunicaciones;
-
-123 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 V.
 
@@ -8703,6 +8716,17 @@ Artículo 299. Los ingresos a los que se refiere el artículo anterior, serán l
 concesionario, autorizado o persona infractora directamente involucrado, excluyendo los obtenidos de
 una fuente de riqueza ubicada en el extranjero, así como los gravables si estos se encuentran sujetos a
 un régimen fiscal preferente para los efectos del Impuesto Sobre la Renta del último ejercicio fiscal en
+
+124 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 que se haya incurrido en la infracción respectiva. De no estar disponible, se utilizará la base de cálculo
 correspondiente al ejercicio fiscal anterior.
 El Instituto podrá solicitar a los concesionarios, autorizados o persona infractora, la información fiscal
@@ -8710,17 +8734,6 @@ necesaria a que se refiere este artículo para determinar el monto de las multas
 anterior, pudiendo utilizar para tal efecto los medios de apremio que esta Ley establece.
 En el caso de aquellos infractores que, por cualquier causa, no declaren o no se les hayan
 determinado ingresos acumulables para efectos del Impuesto Sobre la Renta o que habiéndoseles
-
-124 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 solicitado no hubieren proporcionado la información fiscal a que se refiere el artículo que antecede, se les
 aplicarán las multas siguientes:
 I.
@@ -8774,6 +8787,16 @@ En su caso, el cumplimiento espontáneo de las obligaciones que dieron origen al
 procedimiento sancionatorio, el cual podrá considerarse como atenuante de la sanción a
 imponerse.
 
+125 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 302. Las multas que imponga el Instituto serán ejecutadas por el Servicio de Administración
 Tributaria, a través de los procedimientos y disposiciones aplicables por dicho órgano.
 Artículo 303. Las concesiones y las autorizaciones se podrán revocar por cualquiera de las causas
@@ -8782,16 +8805,6 @@ I.
 
 No iniciar la prestación de los servicios dentro de los plazos establecidos, salvo autorización
 del Instituto;
-
-125 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 II.
 
@@ -8866,6 +8879,16 @@ beneficien directa o indirectamente de la regla de gratuidad relativa a la retra
 señales de televisión a través de otros concesionarios, revocándose la concesión también a
 estos últimos;
 
+126 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 XVII.
 
 Incumplir con las resoluciones o determinaciones del Instituto relativas a la separación
@@ -8882,16 +8905,6 @@ XIX.
 Utilizar para fines distintos a los solicitados, las concesiones otorgadas por el Instituto en los
 términos previstos en esta Ley u obtener lucro cuando acorde al tipo de concesión lo prohíba
 esta Ley, o
-
-126 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 XX.
 
@@ -8931,6 +8944,17 @@ DOF 12-12-2022
 Artículo 307 Bis. [Los concesionarios de telecomunicaciones o, en su caso, los autorizados,
 incurrirán en relación con el Padrón Nacional de Usuarios de Telefonía Móvil, en las infracciones
 siguientes:
+
+127 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 I.
 
 Efectuar extemporáneamente el registro de un número de línea telefónica móvil, excediendo los
@@ -8949,16 +8973,6 @@ IV.
 
 Hacer uso indebido de las constancias, documentos y demás medios de identificación,
 relacionados con el registro de un número de línea telefónica móvil;
-
-127 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 V.
 
@@ -9018,6 +9032,17 @@ DOF 12-12-2022
 
 Capítulo III
 Sanciones en materia de Contenidos Audiovisuales
+
+128 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Artículo 308. Las infracciones a lo dispuesto en esta Ley y a las disposiciones que deriven de ella en
 materia de contenidos audiovisuales, se sancionarán por la Secretaría de Gobernación, de conformidad
 con lo siguiente:
@@ -9027,17 +9052,6 @@ reportes, documentos o información.
 En el supuesto de que haya cumplimiento espontáneo del concesionario autorizado o programador y
 no hubiere mediado requerimiento o visita de inspección o verificación de la Secretaría de Gobernación,
 no se aplicará la sanción referida en el presente inciso.
-
-128 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 En caso de que se trate de la primera infracción, la Secretaría de Gobernación amonestará al infractor
 por única ocasión;
 B) Con apercibimiento por una sola vez o multa por el equivalente de 0.76% hasta el 2.5% de los
@@ -9084,6 +9098,17 @@ Denominación del Capítulo declarada inválida por sentencia de la SCJN a Acci�
 30-08-2022 y publicada DOF 16-12-2022
 
 Artículo 311. Corresponde al Instituto sancionar conforme a lo siguiente:
+
+129 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 a)
 
 Con multa por el equivalente al doble de los ingresos obtenidos por el concesionario
@@ -9094,6 +9119,9 @@ b)
 
 Con multa por el equivalente de 0.51% hasta el 1% de los ingresos del concesionario,
 autorizado o programador, por:
+
+c)
+
 I.
 
 No poner a disposición de las audiencias mecanismos de defensa;
@@ -9101,18 +9129,6 @@ No poner a disposición de las audiencias mecanismos de defensa;
 II.
 
 No nombrar defensor de las audiencias o no emitir códigos de ética, o
-
-129 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
-c)
 
 Con multa de 100 a 500 salarios mínimos diarios vigentes en el Distrito Federal al defensor
 de las audiencias por:
@@ -9151,6 +9167,16 @@ materia de competencia, telecomunicaciones y radiodifusión, conocer de las cont
 susciten con motivo de la aplicación de esta Ley.
 ARTÍCULOS SEGUNDO A DÉCIMO TERCERO.- ……….
 
+130 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 TRANSITORIOS
 PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación
 en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los transitorios siguientes.
@@ -9158,17 +9184,6 @@ SEGUNDO. Se abrogan la Ley Federal de Telecomunicaciones y la Ley Federal de Rad
 Televisión. Se dejan sin efectos aquellas disposiciones de la Ley de Vías Generales de Comunicación en
 lo que se opongan a lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión que se
 expide por virtud del presente Decreto.
-
-130 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 TERCERO. Las disposiciones reglamentarias y administrativas y las normas oficiales mexicanas en
 vigor, continuarán aplicándose hasta en tanto se expidan los nuevos ordenamientos que los sustituyan,
 salvo en lo que se opongan a la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por
@@ -9204,6 +9219,17 @@ Las solicitudes de prórroga de concesiones de radiodifusión sonora presentadas
 fecha de terminación de la vigencia original establecida en los títulos correspondientes se resolverán en
 términos de lo dispuesto en el artículo 114 de la Ley Federal de Telecomunicaciones y Radiodifusión, sin
 que resulte aplicable el plazo previsto para la solicitud de prórroga de que se trate.
+
+131 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Párrafo adicionado DOF 15-06-2018
 
 OCTAVO. Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente
@@ -9213,17 +9239,6 @@ transitar a la concesión única, siempre que se encuentren en cumplimiento de l
 en las leyes y en sus títulos de concesión. Los concesionarios que cuentan con concesiones de espectro
 radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de la Ley Federal de
 Telecomunicaciones y Radiodifusión.
-
-131 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Los concesionarios que cuenten con varios títulos de concesión, además de poder transitar a la
 concesión única podrán consolidar sus títulos en una sola concesión.
 NOVENO. En tanto exista un agente económico preponderante en los sectores de
@@ -9270,6 +9285,17 @@ caso de encontrar que existe poder sustancial en el mercado de redes de telecomu
 presten servicios de voz, datos o video o en el de radio y televisión según el sector que corresponda,
 podrá imponer las medidas necesarias para proteger y fomentar en dicho mercado la libre competencia y
 concurrencia, de conformidad con lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión
+
+132 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 y la Ley Federal de Competencia Económica sin perjuicio de las concentraciones a que refiere el
 presente artículo.
 Las medidas que imponga el Instituto se extinguirán una vez que se autorice a los agentes
@@ -9278,17 +9304,6 @@ DÉCIMO. Los agentes económicos preponderantes y los concesionarios cuyos títu
 contengan alguna prohibición o restricción expresa para prestar servicios determinados, previo al inicio
 del trámite para obtener la autorización para prestar servicios adicionales, acreditarán ante el Instituto
 Federal de Telecomunicaciones y éste supervisará el cumplimiento efectivo de las obligaciones previstas
-
-132 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 en el Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28,
 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de
 telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de la Ley de
@@ -9338,28 +9353,28 @@ I.
 
 Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión
 contengan alguna prohibición o restricción expresa para prestar servicios determinados,
+
+133 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 deberán cumplir con lo previsto en los lineamientos del Instituto Federal de
 Telecomunicaciones en términos del artículo Cuarto Transitorio del Decreto por el que se
 reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105
 de la Constitución en materia de telecomunicaciones, publicado en el Diario Oficial de la
 Federación el 11 de junio de 2013;
-
 II.
 
 Al presentar la solicitud, dichos agentes y concesionarios deberán acompañar el dictamen de
 cumplimiento a que se refiere la fracción III del artículo anterior, presentar la información que
 determine el Instituto Federal de Telecomunicaciones respecto de los servicios que pretende
 prestar;
-
-133 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
 
 III.
 
@@ -9401,6 +9416,17 @@ parcial de activos, derechos, partes sociales o acciones o cualquier combinació
 anteriores a efecto de reducir su participación nacional por debajo del cincuenta por ciento del sector de
 telecomunicaciones a que se refiere la fracción III del artículo Octavo Transitorio del Decreto por el que
 se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la
+
+134 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en
 el Diario Oficial de la Federación el 11 de junio de 2013, de conformidad con las variables y parámetros
 de medición utilizados por el Instituto Federal de Telecomunicaciones en la declaratoria de
@@ -9410,17 +9436,6 @@ Competencia Económica. En caso de que el agente económico preponderante ejerza
 estará a lo siguiente:
 I. Al presentar el plan a que se refiere el párrafo que antecede, el agente económico preponderante
 deberá manifestar por escrito que se adhiere a lo previsto en este artículo y que acepta sus términos y
-
-134 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 condiciones; asimismo deberá acompañar la información y documentación necesaria que permita al
 Instituto Federal de Telecomunicaciones conocer y analizar el plan que se propone;
 II. En caso que el Instituto Federal de Telecomunicaciones considere que la información presentada
@@ -9456,6 +9471,17 @@ Aceptado el plan por el agente económico preponderante, no podrá ser modificad
 ejecutarse en sus términos, sin que dicho agente pueda volver a ejercer el beneficio que otorga este
 artículo y sin perjuicio de que pueda optar por lo dispuesto en el artículo 276 de la Ley Federal de
 Telecomunicaciones y Radiodifusión;
+
+135 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 V. El plan deberá ejecutarse durante los 365 días naturales posteriores a que haya sido aceptado en
 términos de la fracción IV. Los agentes económicos involucrados en el plan deberán informar con la
 periodicidad que establezca el Instituto Federal de Telecomunicaciones sobre el proceso de ejecución del
@@ -9466,17 +9492,6 @@ Telecomunicaciones una prórroga, la cual se podrá otorgar por un plazo de hast
 VI. A partir de la fecha en que el agente económico preponderante en el sector de las
 telecomunicaciones haya aceptado el plan y durante el plazo referido en la fracción anterior, se aplicarán
 provisionalmente entre el agente económico preponderante en el sector de las telecomunicaciones y los
-
-135 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 demás concesionarios, los acuerdos de compensación recíproca de tráfico referidos en el primer párrafo
 del artículo 131 de la Ley Federal de Telecomunicaciones y de Radiodifusión, y se suspenderán entre
 ellos las tarifas que deriven de la aplicación de los incisos a) y b) del párrafo segundo de dicho artículo;
@@ -9512,6 +9527,17 @@ en el sector de las telecomunicaciones así como las medidas asimétricas que le
 términos de lo dispuesto en la fracción III y IV del artículo Octavo del Decreto antes referido, y
 b. Las resoluciones mediante las cuales haya determinado al agente económico con poder sustancial
 en algún mercado, así como las medidas específicas que le haya impuesto.
+
+136 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 DÉCIMO TERCERO. El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes,
 realizará las acciones tendientes a instalar la red pública compartida de telecomunicaciones a que se
 refiere el artículo Décimo Sexto transitorio del Decreto por el que se reforman y adicionan diversas
@@ -9521,17 +9547,6 @@ Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Ofici
 En caso de que el Ejecutivo Federal requiera de bandas de frecuencias del espectro liberado por la
 transición a la Televisión Digital Terrestre (banda 700 MHz) para crecer y fortalecer la red compartida
 señalada en el párrafo que antecede, el Instituto Federal de Telecomunicaciones las otorgará
-
-136 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 directamente, siempre y cuando dicha red se mantenga bajo el control de una entidad o dependencia
 pública o bajo un esquema de asociación público-privada.
 DÉCIMO CUARTO. El Instituto Federal de Telecomunicaciones deberá implementar un sistema de
@@ -9566,6 +9581,17 @@ se refiere el inciso b) de la fracción V del artículo Décimo Séptimo transit
 reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la
 Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en
 el Diario Oficial de la Federación el 11 de junio de 2013. En la determinación del programa de trabajo, el
+
+137 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Instituto procurará el desarrollo del mercado relevante de la radio, la migración del mayor número posible
 de estaciones de concesionarios de la banda AM a FM, el fortalecimiento de las condiciones de
 competencia y la continuidad en la prestación de los servicios.
@@ -9574,17 +9600,6 @@ El Ejecutivo Federal, a través de la Secretaría de Comunicaciones y Transporte
 programas y acciones vinculados con la política de transición a la televisión digital terrestre, para la
 entrega o distribución de equipos receptores o decodificadores a que se refiere el tercer párrafo del
 artículo Quinto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los
-
-137 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos,
 en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 El Instituto Federal de Telecomunicaciones deberá concluir la transmisión de señales analógicas de
@@ -9622,6 +9637,17 @@ sea en alguna región, localidad o en todo el país; el Instituto Federal de Tel
 establecer un programa para que la población continúe recibiendo este servicio público de interés general
 en las áreas respectivas, en tanto se inicien transmisiones digitales y/o se alcancen los niveles de
 penetración señalados en este artículo. Los titulares de las estaciones deberán realizar las inversiones e
+
+138 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 instalaciones necesarias conforme a los plazos previstos en el programa. En ningún caso las acciones
 derivadas de este programa excederán al 31 de diciembre de 2016.
 Párrafo reformado DOF 18-12-2015
@@ -9632,17 +9658,6 @@ VIGÉSIMO. El Instituto Federal de Telecomunicaciones aplicará el artículo 131
 Telecomunicaciones y Radiodifusión y demás que resulten aplicables en materia de interconexión en
 términos de la misma, y garantizará el debido cumplimiento de las obligaciones establecidas en dichos
 preceptos, mismos que serán exigibles sin perjuicio e independiente de que a la entrada en vigor de la
-
-138 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Ley, ya hubiera determinado la existencia de un agente económico preponderante e impuesto medidas
 necesarias para evitar que se afecte la competencia y la libre concurrencia de acuerdo a la fracción III del
 artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los
@@ -9678,6 +9693,17 @@ Telecomunicaciones y Radiodifusión, entrará en vigor el 1 de enero de 2015, po
 fecha los concesionarios de redes públicas de telecomunicaciones que presten servicios fijos, móviles o
 ambos, no podrán realizar cargos de larga distancia nacional a sus usuarios por las llamadas que
 realicen a cualquier destino nacional.
+
+139 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Sin perjuicio de lo anterior, los concesionarios deberán realizar la consolidación de todas las áreas de
 servicio local existentes en el país de conformidad con los lineamientos que para tal efecto emita el
 Instituto Federal de Telecomunicaciones. Cada concesionario deberá asumir los costos que se originen
@@ -9687,17 +9713,6 @@ la entrada en vigor del presente Decreto, deberá definir los puntos de intercon
 telecomunicaciones del agente económico preponderante o con poder sustancial.
 Las resoluciones administrativas que se hubieren emitido quedarán sin efectos en lo que se opongan
 a lo previsto en el presente transitorio.
-
-139 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Los concesionarios mantendrán la numeración que les haya sido asignada a fin de utilizarla para
 servicios de red inteligente en sus modalidades de cobro revertido y otros servicios especiales, tales
 como números 900.
@@ -9729,6 +9744,17 @@ TRIGÉSIMO PRIMERO. Los recursos humanos, presupuestales, financieros y material
 Organismo Promotor de Medios Audiovisuales, pasarán a formar parte del Sistema Público de
 Radiodifusión del Estado Mexicano una vez que se nombre a su Presidente, sin menoscabo de los
 derechos laborales de sus trabajadores.
+
+140 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 TRIGÉSIMO SEGUNDO. La Secretaría de Gobernación deberá coordinarse con las autoridades que
 correspondan para el ejercicio de las atribuciones que en materia de monitoreo establece la Ley Federal
 de Telecomunicaciones y Radiodifusión.
@@ -9738,17 +9764,6 @@ TRIGÉSIMO TERCERO. El Instituto Federal de Telecomunicaciones expedirá los lin
 se refiere la fracción III del artículo 158 de la Ley Federal de Telecomunicaciones y Radiodifusión, en un
 plazo no mayor a 180 días naturales contados a partir del día siguiente a la entrada en vigor del presente
 Decreto.
-
-140 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 TRIGÉSIMO CUARTO. La Cámara de Diputados deberá destinar al Sistema Público de Radiodifusión
 del Estado Mexicano recursos económicos acordes con sus objetivos y funciones, para lo que deberá
 considerar:
@@ -9790,6 +9805,17 @@ del número respectivo.
 Para realizar dicha portación solo será necesaria la identificación del titular y la manifestación de
 voluntad del usuario. En el caso de personas morales el trámite deberá realizarse por el representante o
 apoderado legal que acredite su personalidad en términos de la normatividad aplicable.
+
+141 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 TRIGÉSIMO NOVENO. Para efectos de lo dispuesto en el artículo 264 de la Ley Federal de
 Telecomunicaciones y Radiodifusión, el Instituto Federal de Telecomunicaciones iniciará, sin perjuicio de
 lo dispuesto en el artículo Noveno Transitorio del presente Decreto, dentro de los treinta días naturales
@@ -9798,17 +9824,6 @@ la Ley Federal de Competencia Económica, a fin de determinar la existencia de a
 poder sustancial en cualquiera de los mercados relevantes de los sectores de telecomunicaciones y
 radiodifusión, entre los que deberá incluirse el mercado nacional de audio y video asociado a través de
 redes públicas de telecomunicaciones y, en su caso, imponer las medidas correspondientes.
-
-141 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 CUADRAGÉSIMO. El agente económico preponderante en el sector de las telecomunicaciones o el
 agente con poder sustancial en el mercado relevante que corresponda, estarán obligados a cumplir con
 lo dispuesto en los artículos 138, fracción VIII, 208 y en las fracciones V y VI del artículo 267 de la Ley
@@ -9845,6 +9860,17 @@ la misma obligación.
 CUADRAGÉSIMO CUARTO. En relación a las obligaciones establecidas en materia de accesibilidad
 para personas con discapacidad referidas en la Ley Federal de Telecomunicaciones y Radiodifusión para
 los defensores de las audiencias, los concesionarios contarán con un plazo de hasta noventa días
+
+142 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 naturales a partir de la entrada en vigor del presente Decreto para iniciar las adecuaciones y mecanismos
 que correspondan.
 CUADRAGÉSIMO QUINTO. La restricción para acceder a la compartición de infraestructura del
@@ -9854,17 +9880,6 @@ la licitación de las nuevas cadenas digitales de televisión abierta a que se r
 Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos
 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia
 de telecomunicaciones.
-
-142 de 173
-
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 20-05-2021
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 México, D.F., a 08 de julio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González
 Morfín, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Angelina Carreño Mijares,
 Secretaria.- Rúbricas."
@@ -9874,12 +9889,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio
 Chong.- Rúbrica.
 
-143 de 173
+143 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -9924,12 +9939,12 @@ SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del prese
 competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta
 dependencia, conforme a las disposiciones jurídicas aplicables.
 
-144 de 173
+144 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -9964,12 +9979,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel
 Ángel Osorio Chong.- Rúbrica.
 
-145 de 173
+145 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10012,12 +10027,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel
 Ángel Osorio Chong.- Rúbrica.
 
-146 de 173
+146 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10041,12 +10056,12 @@ Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el
 Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintisiete de mayo de dos mil
 dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 
-147 de 173
+147 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10062,12 +10077,12 @@ Debe decir:
 Artículo 230. En sus transmisiones, las estaciones radiodifusoras de los concesionarios podrán hacer
 uso de cualquiera de las lenguas nacionales de conformidad…
 
-148 de 173
+148 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10114,12 +10129,12 @@ Quinto. Las referencias relativas a la Ley General de Responsabilidades Administ
 entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que
 este ordenamiento legal se abrogue el 17 de julio de 2017.
 
-149 de 173
+149 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10136,12 +10151,12 @@ Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el
 Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de enero de dos mil
 diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 
-150 de 173
+150 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10192,12 +10207,12 @@ diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Mig
 Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-08-2022 y publicada
 DOF 16-12-2022
 
-151 de 173
+151 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10232,12 +10247,12 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
 Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 
-152 de 173
+152 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10285,12 +10300,12 @@ Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación.- (
 (Al margen un sello de recibido con la leyenda: H. Cámara de Diputados.- RECIBIDO.- Subdirección de
 Amparos.- 14 de febrero de 2019.- 5:30 pm).
 
-153 de 173
+153 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10333,12 +10348,12 @@ como asunto concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 En relación con el punto resolutivo primero:
 
-154 de 173
+154 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10390,12 +10405,12 @@ sesión de doce de febrero de dos mil diecinueve, la primera por gozar de vacaci
 integrado las Comisiones de Receso correspondientes al primer período de sesiones de dos mil diecisiete
 y al segundo período de sesiones de dos mil dieciocho, y el segundo previo aviso a la Presidencia.
 
-155 de 173
+155 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10415,12 +10430,12 @@ de dos mil diecinueve, dictada por el Tribunal Pleno en la declaratoria general 
 6/2017. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de
 México, a seis de marzo de dos mil diecinueve.- Rúbrica.
 
-156 de 173
+156 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10457,12 +10472,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de enero d
 Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen
 Sánchez Cordero Dávila.- Rúbrica.
 
-157 de 173
+157 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10487,12 +10502,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de enero de
 López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez
 Cordero Dávila.- Rúbrica.
 
-158 de 173
+158 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10546,12 +10561,12 @@ obligación de registrar y actualizar sus datos. Para tal efecto los usuarios de
 concesionario o autorizado de que se trate la tarjeta SIM, así como la documentación fehaciente a que
 hace referencia el artículo 180 Ter de la Ley Federal de Telecomunicaciones y Radiodifusión o a través
 
-159 de 173
+159 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10593,12 +10608,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de abril d
 López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez
 Cordero Dávila.- Rúbrica.
 
-160 de 173
+160 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10644,12 +10659,12 @@ Pública Federal el organismo descentralizado denominado Instituto Nacional de C
 pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y
 de gestión, dentro del ámbito de la Fiscalía General de la República.
 
-161 de 173
+161 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10698,12 +10713,12 @@ transición.
 Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
 Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
 
-162 de 173
+162 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10750,12 +10765,12 @@ corresponderá al Órgano Interno de Control de la Fiscalía General de la Repú
 del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
 Federación.
 
-163 de 173
+163 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10779,12 +10794,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de
 Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen
 Sánchez Cordero Dávila.- Rúbrica.
 
-164 de 173
+164 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10832,12 +10847,12 @@ Semanario Judicial de la Federación y su Gaceta.”
 Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez decretada en este fallo
 surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo
 
-165 de 173
+165 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10854,12 +10869,12 @@ LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el miércoles 27
 de abril de 2022 a las 11:00 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
 
-166 de 173
+166 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10906,12 +10921,12 @@ Acuerdos únicamente copia certificada del documento en el que conste la notific
 Congreso de la Unión.
 Atentamente
 
-167 de 173
+167 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10921,12 +10936,12 @@ LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el martes 30 de
 agosto de 2022 a las 11:00 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
 
-168 de 173
+168 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -10975,12 +10990,12 @@ resolutivos de la presente sentencia al Congreso de la Unión.
 429. Sin embargo, dado que los artículos 176 y 190, fracciones VI y VII, de la referida legislación fueron
 los únicos que se reformaron –ya que el resto de los preceptos fueron adiciones–, deben
 
-169 de 173
+169 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -11027,12 +11042,12 @@ del artículo 15, y los artículos 180 Bis, 180 Ter, 180 Quáter, 180 Quintes, 1
 Septimus, 307 Bis, 307 Ter, 307 Quáter, y 307 Quintus, así como los transitorios primero, segundo,
 tercero, cuarto, quinto y sexto, adicionados a la Ley Federal de Telecomunicaciones y
 
-170 de 173
+170 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -11069,12 +11084,12 @@ Integrantes de la LXIV Legislatura, dictada por el Pleno de la Suprema Corte de 
 su sesión del veintiséis de abril de dos mil veintidós. Se certifica con la finalidad de que se publique en el
 Diario Oficial de la Federación.- Ciudad de México, a siete de noviembre de dos mil veintidós.- Rúbrica.
 
-171 de 173
+171 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -11125,12 +11140,12 @@ en el Diario Oficial de la Federación.
 La presente resolución surtirá sus efectos a partir de la notificación de sus puntos resolutivos al
 Congreso de la Unión.
 
-172 de 173
+172 de 174
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 20-05-2021
+Última Reforma DOF 01-04-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -11169,5 +11184,35 @@ Democrática, dictada por el Pleno de la Suprema Corte de Justicia de la Nación
 veintinueve de agosto de dos mil veintidós. Se certifica con la finalidad de que se publique en el Diario
 Oficial de la Federación.- Ciudad de México, a quince de noviembre de dos mil veintidós.- Rúbrica.
 
-173 de 173
+173 de 174
+
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 01-04-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y
+comunidades indígenas y afromexicanas.
+Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
+
+Artículo Cuadragésimo Sexto.- Se reforman los artículos 67, párrafo tercero de la fracción IV; 85,
+tercer párrafo; 87, párrafos segundo y tercero y fracciones I, II y III; 90, párrafos quinto y sexto, y 237,
+fracción III, de la Ley Federal de Telecomunicaciones y Radiodifusión, para quedar como sigue:
+........
+
+Transitorio
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.
+Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana
+Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí
+Camino Farjat, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés
+Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+174 de 174
 
