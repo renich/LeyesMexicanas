@@ -1,7 +1,7 @@
 LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -9,7 +9,7 @@ Secretaría de Servicios Parlamentarios
 LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 Nueva Ley publicada en el Diario Oficial de la Federación el 1º de diciembre de 2005
 TEXTO VIGENTE
-Última reforma publicada DOF 24-12-2013
+Última reforma publicada DOF 21-05-2024
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la
 República.
@@ -44,12 +44,12 @@ salvo prueba en contrario, que el documento digital fue recibido en la fecha y h
 dicha constancia. El Tribunal establecerá los medios para que las partes y los autorizados para recibir
 notificaciones puedan verificar la autenticidad de los acuses de recibo electrónico.
 
-1 de 56
+1 de 69
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -57,10 +57,14 @@ Secretaría de Servicios Parlamentarios
 II. Archivo Electrónico: Información contenida en texto, imagen, audio o video generada, enviada,
 recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del
 Expediente Electrónico.
-III. Boletín Electrónico: Medio de comunicación oficial electrónico, a través del cual el Tribunal da a
+III. Boletín Jurisdiccional: Medio de comunicación oficial electrónico, a través del cual el Tribunal da a
 conocer las actuaciones o resoluciones en los juicios contenciosos administrativos federales que se
 tramitan ante el mismo.
-Fracción reformada DOF 10-12-2010
+Fracción reformada DOF 10-12-2010, 13-06-2016
+
+III Bis. Aviso electrónico: Mensaje enviado a la dirección de correo electrónico de las partes de que se
+realizará una notificación por Boletín Jurisdiccional.
+Fracción adicionada DOF 13-06-2016
 
 IV. Clave de acceso: Conjunto único de caracteres alfanuméricos asignados por el Sistema de Justicia
 en Línea del Tribunal a las partes, como medio de identificación de las personas facultadas en el juicio en
@@ -81,9 +85,9 @@ parte del Expediente Electrónico.
 IX. Expediente Electrónico: Conjunto de información contenida en archivos electrónicos o documentos
 digitales que conforman un juicio contencioso administrativo federal, independientemente de que sea
 texto, imagen, audio o video, identificado por un número específico.
-X. Firma Digital: Medio gráfico de identificación en el Sistema de Justicia en Línea, consistente en la
-digitalización de una firma autógrafa mediante un dispositivo electrónico, que es utilizada para reconocer
-a su autor y expresar su consentimiento.
+X. (Se deroga)
+Fracción derogada DOF 13-06-2016
+
 XI. Firma Electrónica Avanzada: Conjunto de datos consignados en un mensaje electrónico
 adjuntados o lógicamente asociados al mismo que permita identificar a su autor mediante el Sistema de
 Justicia en línea, y que produce los mismos efectos jurídicos que la firma autógrafa. La firma electrónica
@@ -91,23 +95,22 @@ permite actuar en Juicio en Línea.
 XII. Juicio en la vía tradicional: El juicio contencioso administrativo federal que se substancia
 recibiendo las promociones y demás documentales en manuscrito o impresos en papel, y formando un
 expediente también en papel, donde se agregan las actuaciones procesales, incluso en los casos en que
-sea procedente la vía sumaria.
-Fracción reformada DOF 10-12-2010
+sea procedente la vía sumaria o el juicio de resolución exclusiva de fondo.
+Fracción reformada DOF 10-12-2010, 27-01-2017
 
-XIII. Juicio en línea: Substanciación y resolución del juicio contencioso administrativo federal en todas
-sus etapas, así como de los procedimientos previstos en el artículo 58 de esta Ley, a través del Sistema
-de Justicia en Línea, incluso en los casos en que sea procedente la vía sumaria.
+2 de 69
 
-2 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+XIII. Juicio en línea: Substanciación y resolución del juicio contencioso administrativo federal en todas
+sus etapas, así como de los procedimientos previstos en el artículo 58 de esta Ley, a través del Sistema
+de Justicia en Línea, incluso en los casos en que sea procedente la vía sumaria.
 Fracción reformada DOF 10-12-2010
 
 XIV. Juicio en la vía Sumaria: El juicio contencioso administrativo federal en aquellos casos a los que
@@ -121,6 +124,10 @@ Fracción recorrida DOF 10-12-2010
 
 XVI. Tribunal: Tribunal Federal de Justicia Fiscal y Administrativa.
 Fracción recorrida DOF 10-12-2010
+
+XVII. Juicio de resolución exclusiva de fondo: El juicio contencioso administrativo federal en aquellos
+casos a los que se refiere el Capítulo XII del Título II de esta Ley.
+Fracción adicionada DOF 27-01-2017
 Artículo adicionado DOF 12-06-2009
 
 ARTÍCULO 2o.- El juicio contencioso administrativo federal, procede contra las resoluciones
@@ -145,21 +152,27 @@ Dentro del mismo plazo que corresponda a la autoridad demandada, la Secretaría 
 Crédito Público podrá apersonarse como parte en los juicios en que se controvierta el interés fiscal de la
 Federación.
 III. El tercero que tenga un derecho incompatible con la pretensión del demandante.
+
+3 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 ARTÍCULO 4o.- Toda promoción deberá contener la firma autógrafa o la firma electrónica avanzada
 de quien la formule y sin este requisito se tendrá por no presentada. Cuando el promovente en un Juicio
 en la vía tradicional, no sepa o no pueda estampar su firma autógrafa, estampará en el documento su
 huella digital y en el mismo documento otra persona firmará a su ruego.
 Párrafo reformado DOF 12-06-2009
 
-3 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
+Las personas morales para presentar una demanda o cualquier promoción podrán optar por utilizar su
+firma electrónica avanzada o bien hacerlo con la firma electrónica avanzada de su representante legal; en
+el primer caso, el titular del certificado de firma será la persona moral.
+Párrafo adicionado DOF 13-06-2016
 
 Cuando la resolución afecte a dos o más personas, la demanda deberá ir firmada por cada una de
 ellas, y designar a un representante común que elegirán de entre ellas mismas, si no lo hicieren, el
@@ -172,6 +185,12 @@ testigos y ratificadas las firmas del otorgante y testigos ante notario o ante l
 perjuicio de lo que disponga la legislación de profesiones. La representación de los menores de edad
 será ejercida por quien tenga la patria potestad. Tratándose de otros incapaces, de la sucesión y del
 ausente, la representación se acreditará con la resolución judicial respectiva.
+Se presumirá, salvo prueba en contrario, que la presentación en el Sistema de Justicia en Línea de
+demandas o promociones enviadas con la firma electrónica avanzada de una persona moral, la hizo el
+Administrador Único o el Presidente del Consejo de Administración de dicha persona, atendiendo a quien
+ocupe dicho cargo al momento de la presentación.
+Párrafo adicionado DOF 13-06-2016
+
 La representación de las autoridades corresponderá a las unidades administrativas encargadas de su
 defensa jurídica, según lo disponga el Ejecutivo Federal en su Reglamento o decreto respectivo y en su
 caso, conforme lo disponga la Ley Federal de Entidades Paraestatales. Tratándose de autoridades de las
@@ -189,6 +208,17 @@ costas. Cada parte será responsable de sus propios gastos y los que originen la
 promuevan.
 Únicamente habrá lugar a condena en costas a favor de la autoridad demandada, cuando se
 controviertan resoluciones con propósitos notoriamente dilatorios.
+
+4 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Para los efectos de este artículo, se entenderá que el actor tiene propósitos notoriamente dilatorios
 cuando al dictarse una sentencia que reconozca la validez de la resolución impugnada, se beneficia
 económicamente por la dilación en el cobro, ejecución o cumplimiento, siempre que los conceptos de
@@ -203,17 +233,6 @@ I. Se anule por ausencia de fundamentación o de motivación, en cuanto al fondo
 II. Sea contraria a una jurisprudencia de la Suprema Corte de Justicia de la Nación en materia de
 legalidad. Si la jurisprudencia se publica con posterioridad a la contestación no hay falta grave.
 III. Se anule con fundamento en el artículo 51, fracción V de esta Ley.
-
-4 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 La condenación en costas o la indemnización establecidas en los párrafos segundo y tercero de este
 artículo se reclamará a través del incidente respectivo, el que se tramitará conforme lo previsto por el
 cuarto párrafo del artículo 39 de esta Ley.
@@ -224,66 +243,141 @@ II. Informan a las partes y en general a personas ajenas al Tribunal sobre el co
 las resoluciones jurisdiccionales, antes de que éstas se emitan y en los demás casos, antes de su
 notificación formal.
 III. Informan el estado procesal que guarda el juicio a personas que no estén autorizadas por las
-partes en los términos de esta Ley.
+partes en los términos de esta Ley, salvo que se trate de notificaciones por Boletín Jurisdiccional o en los
+supuestos en que la legislación en materia de transparencia y acceso a la información pública, disponga
+que tal cuestión deba hacerse de su conocimiento.
+Fracción reformada DOF 13-06-2016
+
 IV. Dan a conocer información confidencial o comercial reservada.
+ARTÍCULO 7o Bis. Las partes, representantes legales, autorizados, delegados, testigos, peritos y
+cualquier otra persona, tienen el deber de conducirse con probidad y respeto hacia sus contrapartes y
+funcionarios del Tribunal en todos los escritos, promociones, oficios, comparecencias o diligencias en que
+intervengan; en caso contrario, el Magistrado Instructor, los Magistrados Presidentes de las Secciones o
+el Magistrado Presidente del Tribunal, previo apercibimiento, podrán imponer a la persona que haya
+firmado la promoción o incurrido en la falta en la diligencia o comparecencia, una multa entre cien y mil
+quinientas veces el salario mínimo general vigente en el Distrito Federal al momento en que se incurrió
+en la falta. De igual manera, podrá imponerse una multa, con esos parámetros, a quien interponga
+demandas, recursos o promociones notoriamente frívolas e improcedentes.
+Artículo adicionado DOF 13-06-2016
 
 CAPÍTULO II
 De la Improcedencia y del Sobreseimiento
-ARTÍCULO 8o.- Es improcedente el juicio ante el Tribunal en los casos, por las causales y contra los
-actos siguientes:
-I. Que no afecten los intereses jurídicos del demandante, salvo en los casos de legitimación
-expresamente reconocida por las leyes que rigen al acto impugnado.
-Fracción reformada DOF 28-01-2011
 
-II. Que no le competa conocer a dicho Tribunal.
-III. Que hayan sido materia de sentencia pronunciada por el Tribunal, siempre que hubiera identidad
-de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas.
-IV. Cuando hubiere consentimiento, entendiéndose que hay consentimiento si no se promovió algún
-medio de defensa en los términos de las leyes respectivas o juicio ante el Tribunal, en los plazos que
-señala esta Ley.
-Se entiende que no hubo consentimiento cuando una resolución administrativa o parte de ella no
-impugnada, cuando derive o sea consecuencia de aquella otra que haya sido expresamente impugnada.
-V. Que sean materia de un recurso o juicio que se encuentre pendiente de resolución ante una
-autoridad administrativa o ante el propio Tribunal.
-VI. Que puedan impugnarse por medio de algún recurso o medio de defensa, con excepción de
-aquéllos cuya interposición sea optativa.
-VII. Conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa
-diferente, cuando la ley disponga que debe agotarse la misma vía.
-Para los efectos de esta fracción, se entiende que hay conexidad siempre que concurran las causas
-de acumulación previstas en el artículo 31 de esta Ley.
-VIII. Que hayan sido impugnados en un procedimiento judicial.
+5 de 69
 
-5 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-IX. Contra reglamentos.
-X. Cuando no se hagan valer conceptos de impugnación.
-XI. Cuando de las constancias de autos apareciere claramente que no existe la resolución o acto
+ARTÍCULO 8o.- Es improcedente el juicio ante el Tribunal en los casos, por las causales y contra los
+actos siguientes:
+I.
+
+Que no afecten los intereses jurídicos del demandante, salvo en los casos de legitimación
+expresamente reconocida por las leyes que rigen al acto impugnado.
+Fracción reformada DOF 28-01-2011
+
+II.
+
+Que no le competa conocer a dicho Tribunal.
+
+III.
+
+Que hayan sido materia de sentencia pronunciada por el Tribunal, siempre que hubiera
+identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean
+diversas.
+
+IV.
+
+Cuando hubiere consentimiento, entendiéndose que hay consentimiento si no se promovió
+algún medio de defensa en los términos de las leyes respectivas o juicio ante el Tribunal, en los
+plazos que señala esta Ley.
+Se entiende que no hubo consentimiento cuando una resolución administrativa o parte de ella
+no impugnada, cuando derive o sea consecuencia de aquella otra que haya sido expresamente
+impugnada.
+
+V.
+
+Que sean materia de un recurso o juicio que se encuentre pendiente de resolución ante una
+autoridad administrativa o ante el propio Tribunal.
+
+VI.
+
+Que puedan impugnarse por medio de algún recurso o medio de defensa, con excepción de
+aquéllos cuya interposición sea optativa.
+
+VII.
+
+Conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa
+diferente, cuando la ley disponga que debe agotarse la misma vía.
+Para los efectos de esta fracción, se entiende que hay conexidad siempre que concurran las
+causas de acumulación previstas en el artículo 31 de esta Ley.
+
+VIII.
+
+Que hayan sido impugnados en un procedimiento judicial.
+
+IX.
+
+Contra reglamentos.
+
+X.
+
+Cuando no se hagan valer conceptos de impugnación.
+
+XI.
+
+Cuando de las constancias de autos apareciere claramente que no existe la resolución o acto
 impugnados.
-XII. Que puedan impugnarse en los términos del artículo 97 de la Ley de Comercio Exterior, cuando
-no haya transcurrido el plazo para el ejercicio de la opción o cuando la opción ya haya sido ejercida.
-XIII. Dictados por la autoridad administrativa para dar cumplimiento a la decisión que emane de los
-mecanismos alternativos de solución de controversias a que se refiere el artículo 97 de la Ley de
-Comercio Exterior.
+
+XII.
+
+Que puedan impugnarse en los términos del artículo 97 de la Ley de Comercio Exterior, cuando
+no haya transcurrido el plazo para el ejercicio de la opción o cuando la opción ya haya sido
+ejercida.
+
+XIII.
+
+Dictados por la autoridad administrativa para dar cumplimiento a la decisión que emane de los
+mecanismos alternativos de solución de controversias a que se refiere el artículo 97 de la Ley
+de Comercio Exterior.
+
 XIV. Que hayan sido dictados por la autoridad administrativa en un procedimiento de resolución de
-controversias previsto en un tratado para evitar la doble tributación, si dicho procedimiento se inició con
-posterioridad a la resolución que recaiga a un recurso de revocación o después de la conclusión de un
-juicio ante el Tribunal.
-XV. Que sean resoluciones dictadas por autoridades extranjeras que determinen impuestos y sus
-accesorios cuyo cobro y recaudación hayan sido solicitados a las autoridades fiscales mexicanas, de
-conformidad con lo dispuesto en los tratados internacionales sobre asistencia mutua en el cobro de los
-que México sea parte.
-No es improcedente el juicio cuando se impugnen por vicios propios, los mencionados actos de cobro
-y recaudación.
-XVI. En los demás casos en que la improcedencia resulte de alguna disposición de esta Ley o de una
-ley fiscal o administrativa.
+controversias previsto en un tratado para evitar la doble tributación, si dicho procedimiento se
+
+6 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+inició con posterioridad a la resolución que recaiga a un recurso de revocación o después de la
+conclusión de un juicio ante el Tribunal.
+XV.
+
+Que sean resoluciones dictadas por autoridades extranjeras que determinen impuestos y sus
+accesorios cuyo cobro y recaudación hayan sido solicitados a las autoridades fiscales
+mexicanas, de conformidad con lo dispuesto en los tratados internacionales sobre asistencia
+mutua en el cobro de los que México sea parte.
+No es improcedente el juicio cuando se impugnen por vicios propios, los mencionados actos de
+cobro y recaudación.
+
+XVI. Cuando la demanda se hubiere interpuesto por la misma parte y en contra del mismo acto
+impugnado, por dos o más ocasiones.
+Fracción adicionada DOF 13-06-2016
+
+XVII. En los demás casos en que la improcedencia resulte de alguna disposición de esta Ley o de
+una ley fiscal o administrativa.
+Fracción recorrida DOF 13-06-2016
+
 La procedencia del juicio será examinada aun de oficio.
 ARTÍCULO 9o.- Procede el sobreseimiento:
 I. Por desistimiento del demandante.
@@ -298,16 +392,6 @@ VI. En los demás casos en que por disposición legal haya impedimento para emit
 cuanto al fondo.
 El sobreseimiento del juicio podrá ser total o parcial.
 
-6 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 CAPÍTULO III
 De los Impedimentos y Excusas
 ARTÍCULO 10.- Los magistrados del Tribunal estarán impedidos para conocer, cuando:
@@ -316,6 +400,17 @@ II. Sean cónyuges, parientes consanguíneos, afines o civiles de alguna de las 
 patronos o representantes, en línea recta sin limitación de grado y en línea transversal dentro del cuarto
 grado por consanguinidad y segundo por afinidad.
 III. Hayan sido patronos o apoderados en el mismo negocio.
+
+7 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 IV. Tengan amistad estrecha o enemistad con alguna de las partes o con sus patronos o
 representantes.
 V. Hayan dictado la resolución o acto impugnados o han intervenido con cualquier carácter en la
@@ -347,22 +442,14 @@ Para el caso de que el demandante no manifieste su opción al momento de present
 entenderá que eligió tramitar el Juicio en la vía tradicional.
 Párrafo adicionado DOF 12-06-2009
 
-7 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 La demanda deberá presentarse dentro de los plazos que a continuación se indican:
 Párrafo adicionado DOF 12-06-2009
 
 I.
 
-De cuarenta y cinco días siguientes a aquél en el que se dé alguno de los supuestos siguientes:
+De treinta días siguientes a aquél en el que se dé alguno de los supuestos siguientes:
+Párrafo reformado DOF 13-06-2016
+
 a)
 
 Que haya surtido efectos la notificación de la resolución impugnada, lo que se determinará
@@ -375,12 +462,23 @@ b)
 Hayan iniciado su vigencia el decreto, acuerdo, acto o resolución administrativa de carácter
 general impugnada cuando sea auto aplicativa.
 
+8 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 II.
 
-De cuarenta y cinco días siguientes a aquél en el que surta efectos la notificación de la resolución
-de la Sala o Sección que habiendo conocido una queja, decida que la misma es improcedente y
-deba tramitarse como juicio. Para ello deberá prevenir al promovente para que presente
-demanda en contra de la resolución administrativa que tenga carácter definitivo.
+De treinta días siguientes a aquél en el que surta efectos la notificación de la resolución de la
+Sala o Sección que habiendo conocido una queja, decida que la misma es improcedente y deba
+tramitarse como juicio. Para ello, deberá prevenirse al promovente para que, dentro de dicho
+plazo, presente demanda en contra de la resolución administrativa que tenga carácter definitivo.
+Fracción reformada DOF 13-06-2016
 
 III.
 
@@ -414,30 +512,11 @@ no se provee sobre su representación.
 ARTÍCULO 14.- La demanda deberá indicar:
 I.
 
-El nombre del demandante, domicilio fiscal y su domicilio para oír y recibir notificaciones dentro
-de la jurisdicción de la Sala Regional competente, así como su dirección de correo electrónico,
-cuando opte porque el juicio se substancie en línea a través del Sistema de Justicia en Línea.
-
-8 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
-La indicación de que se tramitará en la Vía Sumaria. En caso de omisión, el Magistrado Instructor
-lo tramitará en esta vía en los supuestos que proceda de conformidad con el Título II, Capítulo XI
-de esta Ley, sin embargo no será causa de desechamiento de la demanda, el hecho de que está
-no se presente dentro del término establecido para la promoción del Juicio en la Vía Sumaria,
-cuando la procedencia del mismo derive de la existencia de alguna de las jurisprudencias a las
-que se refiere el antepenúltimo párrafo del Artículo 58-2; en todo caso si el Magistrado Instructor,
-antes de admitir la demanda, advierte que los conceptos de impugnación planteados por la actora
-tienen relación con alguna de las citadas jurisprudencias, proveerá lo conducente para la
-sustanciación y resolución del Juicio en la Vía Ordinaria.
-Fracción reformada DOF 12-06-2009, 10-12-2010
+El nombre del demandante, domicilio fiscal, así como domicilio para oír y recibir notificaciones
+dentro de la jurisdicción de la Sala Regional competente, y su dirección de correo electrónico.
+Cuando se presente alguno de los supuestos a que se refiere el Capítulo XI, del Título II, de esta
+Ley, el juicio será tramitado por el Magistrado Instructor en la vía sumaria.
+Fracción reformada DOF 12-06-2009, 10-12-2010, 13-06-2016
 
 II.
 
@@ -450,6 +529,17 @@ La autoridad o autoridades demandadas o el nombre y domicilio del particular dem
 cuando el juicio sea promovido por la autoridad administrativa.
 
 IV. Los hechos que den motivo a la demanda.
+
+9 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 V.
 
 Las pruebas que ofrezca.
@@ -480,17 +570,6 @@ Párrafo adicionado DOF 12-06-2009
 
 En la demanda en que promuevan dos o más personas en contravención de lo dispuesto en el párrafo
 anterior, el Magistrado Instructor requerirá a los promoventes para que en el plazo de cinco días
-
-9 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 presenten cada uno de ellos su demanda correspondiente, apercibidos que de no hacerlo se desechará
 la demanda inicial.
 Párrafo reformado DOF 12-06-2009
@@ -505,12 +584,22 @@ deberá proporcionar al Tribunal la información suficiente para proceder a su p
 al efecto las reglas previstas en el Código Federal de Procedimientos Civiles.
 Párrafo reformado DOF 12-06-2009, 10-12-2010
 
-En el supuesto de que no se señale domicilio del demandante para recibir notificaciones conforme a lo
-dispuesto por la fracción I, de este artículo, las que corresponda hacérsele en el mismo, se efectuarán
-por Boletín Electrónico.
-Párrafo adicionado DOF 10-12-2010
+Cuando no se señale dirección de correo electrónico, no se enviará el aviso electrónico que
+corresponda.
+Párrafo adicionado DOF 10-12-2010. Reformado DOF 13-06-2016
 
 ARTÍCULO 15.- El demandante deberá adjuntar a su demanda:
+
+10 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 I. Una copia de la misma y de los documentos anexos para cada una de las partes.
 II. El documento que acredite su personalidad o en el que conste que le fue reconocida por la
 autoridad demandada, o bien señalar los datos de registro del documento con la que esté acreditada ante
@@ -533,17 +622,6 @@ IX. Las pruebas documentales que ofrezca.
 Los particulares demandantes deberán señalar, sin acompañar, los documentos que fueron
 considerados en el procedimiento administrativo como información confidencial o comercial reservada. La
 Sala solicitará los documentos antes de cerrar la instrucción.
-
-10 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido
 obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, éste
 deberá señalar el archivo o lugar en que se encuentra para que a su costa se mande expedir copia de
@@ -562,6 +640,17 @@ este artículo, se haga referencia a información confidencial proporcionada por
 obtenida en el ejercicio de las facultades que en materia de operaciones entre partes relacionadas
 establece la Ley del Impuesto sobre la Renta, el demandante se abstendrá de revelar dicha información.
 La información confidencial a que se refiere la ley citada, no podrá ponerse a disposición de los
+
+11 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 autorizados en la demanda para oír y recibir notificaciones, salvo que se trate de los representantes a
 que se refieren los artículos 46, fracción IV, quinto párrafo y 48, fracción VII, segundo párrafo del Código
 Fiscal de la Federación.
@@ -584,69 +673,82 @@ de la impugnación que se hubiese formulado contra la resolución.
 Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello la demanda fue
 presentada extemporáneamente, sobreseerá el juicio en relación con la resolución administrativa
 combatida.
-ARTÍCULO 17.- Se podrá ampliar la demanda, dentro de los veinte días siguientes a aquél en que
-surta efectos la notificación del acuerdo que admita su contestación, en los casos siguientes:
+ARTÍCULO 17. Se podrá ampliar la demanda, dentro de los diez días siguientes a aquél en que surta
+efectos la notificación del acuerdo que admita su contestación, en los casos siguientes:
+Párrafo reformado DOF 13-06-2016
 
-11 de 56
+I.
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+Cuando se impugne una negativa ficta.
 
-Última Reforma DOF 24-12-2013
+II.
 
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
-I. Cuando se impugne una negativa ficta.
-II. Contra el acto principal del que derive la resolución impugnada en la demanda, así como su
+Contra el acto principal del que derive la resolución impugnada en la demanda, así como su
 notificación, cuando se den a conocer en la contestación.
-III. En los casos previstos en el artículo anterior.
+
+III.
+
+En los casos previstos en el artículo anterior.
+
 IV. Cuando con motivo de la contestación, se introduzcan cuestiones que, sin violar el primer párrafo
 del artículo 22, no sean conocidas por el actor al presentar la demanda.
-V. Cuando la autoridad demandada plantee el sobreseimiento del juicio por extemporaneidad en la
+V.
+
+Cuando la autoridad demandada plantee el sobreseimiento del juicio por extemporaneidad en la
 presentación de la demanda.
+
 En el escrito de ampliación de demanda se deberá señalar el nombre del actor y el juicio en que se
 actúa, debiendo adjuntar, con las copias necesarias para el traslado, las pruebas y documentos que en
 su caso se presenten.
 Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido
 obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, será
 aplicable en lo conducente, lo dispuesto en el tercer párrafo del artículo 15 de esta Ley.
+
+12 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Si no se adjuntan las copias a que se refiere este artículo, el Magistrado Instructor requerirá al
 promovente para que las presente dentro del plazo de cinco días. Si el promovente no las presenta
 dentro de dicho plazo, se tendrá por no presentada la ampliación a la demanda. Si se trata de las
 pruebas documentales o de los cuestionarios dirigidos a peritos y testigos, a que se refieren las
 fracciones VII, VIII y IX del artículo 15 de esta Ley, las mismas se tendrán por no ofrecidas.
-ARTÍCULO 18.- El tercero, dentro de los cuarenta y cinco días siguientes a aquél en que se corra
-traslado de la demanda, podrá apersonarse en juicio mediante escrito que contendrá los requisitos de la
-demanda o de la contestación, según sea el caso, así como la justificación de su derecho para intervenir
-en el asunto.
+ARTÍCULO 18. El tercero, dentro de los treinta días siguientes a aquél en que se corra traslado de la
+demanda, podrá apersonarse en juicio mediante escrito que contendrá los requisitos de la demanda o de
+la contestación, según sea el caso, así como la justificación de su derecho para intervenir en el asunto.
+Párrafo reformado DOF 13-06-2016
+
 Deberá adjuntar a su escrito, el documento en que se acredite su personalidad cuando no gestione en
 nombre propio, las pruebas documentales que ofrezca y el cuestionario para los peritos. Son aplicables
 en lo conducente los cuatro últimos párrafos del artículo 15.
 
 CAPÍTULO II
 De la Contestación
-ARTÍCULO 19.- Admitida la demanda se correrá traslado de ella al demandado, emplazándolo para
-que la conteste dentro de los cuarenta y cinco días siguientes a aquél en que surta efectos el
-emplazamiento. El plazo para contestar la ampliación de la demanda será de veinte días siguientes a
-aquél en que surta efectos la notificación del acuerdo que admita la ampliación. Si no se produce la
-contestación a tiempo o ésta no se refiere a todos los hechos, se tendrán como ciertos los que el actor
-impute de manera precisa al demandado, salvo que por las pruebas rendidas o por hechos notorios
-resulten desvirtuados.
+ARTÍCULO 19. Admitida la demanda se correrá traslado de ella al demandado, emplazándolo para
+que la conteste dentro de los treinta días siguientes a aquél en que surta efectos el emplazamiento. El
+plazo para contestar la ampliación de la demanda será de diez días siguientes a aquél en que surta
+efectos la notificación del acuerdo que admita la ampliación. Si no se produce la contestación en tiempo y
+forma, o ésta no se refiere a todos los hechos, se tendrán como ciertos los que el actor impute de manera
+precisa al demandado, salvo que por las pruebas rendidas o por hechos notorios resulten desvirtuados.
+Párrafo reformado DOF 13-06-2016
+
 Cuando alguna autoridad que deba ser parte en el juicio no fuese señalada por el actor como
 demandada, de oficio se le correrá traslado de la demanda para que la conteste en el plazo a que se
 refiere el párrafo anterior.
 Cuando los demandados fueren varios el término para contestar les correrá individualmente.
-
-12 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
+Las dependencias, organismos o autoridades cuyos actos o resoluciones sean susceptibles de
+impugnarse ante el Tribunal, así como aquéllas encargadas de su defensa en el juicio y quienes puedan
+promover juicio de lesividad, deben registrar su dirección de correo electrónico institucional, así como el
+domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios
+contencioso administrativos, para el efecto del envío del aviso electrónico, salvo en los casos en que ya
+se encuentren registrados en el Sistema de Justicia en Línea.
+Párrafo adicionado DOF 13-06-2016
 
 ARTÍCULO 20.- El demandado en su contestación y en la contestación de la ampliación de la
 demanda, expresará:
@@ -656,6 +758,17 @@ que no ha nacido o se ha extinguido el derecho en que el actor apoya su demanda.
 III. Se referirá concretamente a cada uno de los hechos que el demandante le impute de manera
 expresa, afirmándolos, negándolos, expresando que los ignora por no ser propios o exponiendo cómo
 ocurrieron, según sea el caso.
+
+13 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 IV. Los argumentos por medio de los cuales se demuestra la ineficacia de los conceptos de
 impugnación.
 V. Los argumentos por medio de los cuales desvirtúe el derecho a indemnización que solicite la
@@ -682,17 +795,6 @@ Comercio Exterior como gubernamental confidencial o la información confidencial
 terceros independientes, obtenida en el ejercicio de las facultades que en materia de operaciones entre
 partes relacionadas establece la Ley del Impuesto sobre la Renta. La Sala solicitará los documentos
 antes de cerrar la instrucción.
-
-13 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 ARTÍCULO 22.- En la contestación de la demanda no podrán cambiarse los fundamentos de derecho
 de la resolución impugnada.
 En caso de resolución negativa ficta, la autoridad demandada o la facultada para contestar la
@@ -704,16 +806,34 @@ la contestación de la autoridad federativa coordinada que dictó la resolución
 por el titular de la dependencia u organismo desconcentrado o descentralizado, únicamente se tomará en
 cuenta, respecto a esas contradicciones, lo expuesto por éstos últimos.
 
+14 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 CAPÍTULO III
 De las Medidas Cautelares
-ARTÍCULO 24. Una vez iniciado el juicio contencioso administrativo, podrán decretarse todas las
-medidas cautelares necesarias para mantener la situación de hecho existente, que impidan que la
-resolución impugnada pueda dejar el litigio sin materia o causar un daño irreparable al actor, salvo en los
-casos en que se cause perjuicio al interés social o se contravengan disposiciones de orden público.
-La suspensión de la ejecución del acto impugnado se tramitará y resolverá de conformidad con el
-artículo 28 de esta Ley.
-Las demás medidas cautelares se tramitarán y resolverán de acuerdo con la presente disposición
-jurídica y los artículos 25, 26 y 27 de esta Ley.
+ARTÍCULO 24. Una vez iniciado el juicio contencioso administrativo, salvo en los casos en que se
+ocasione perjuicio al interés social o se contravengan disposiciones de orden público, y con el fin de
+asegurar la eficacia de la sentencia, el Magistrado Instructor podrá decretar la suspensión de la ejecución
+del acto impugnado, a fin de mantener la situación de hecho existente en el estado en que se encuentra,
+así como todas las medidas cautelares positivas necesarias para evitar que el litigio quede sin materia o
+se cause un daño irreparable al actor.
+Párrafo reformado DOF 13-06-2016
+
+La suspensión de la ejecución del acto impugnado se tramitará y resolverá exclusivamente de
+conformidad con el procedimiento previsto en el artículo 28 de esta Ley.
+Párrafo reformado DOF 13-06-2016
+
+Las demás medidas cautelares se tramitarán y resolverán de conformidad con el procedimiento
+previsto en la presente disposición jurídica y los artículos 24 Bis, 25, 26 y 27 de esta Ley.
+Párrafo reformado DOF 13-06-2016
+
 Durante los periodos de vacaciones del Tribunal, en cada región un Magistrado de Sala Regional
 cubrirá la guardia y quedará habilitado para resolver las peticiones urgentes sobre medidas cautelares o
 suspensión del acto impugnado, relacionadas con cuestiones planteadas en la demanda.
@@ -751,16 +871,6 @@ a)
 
 Acreditar la necesidad para gestionar la medida cautelar, y
 
-14 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 b)
 
 Adjuntar copia de la solicitud, para cada una de las partes, a fin de correrles traslado.
@@ -770,16 +880,31 @@ tendrá por no interpuesto el incidente.
 En los demás casos, el particular justificará en su petición las razones por las cuales las medidas
 cautelares son indispensables y el Magistrado Instructor podrá otorgarlas, motivando las razones de su
 procedencia.
+
+15 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 La solicitud de las medidas cautelares, se podrá presentar en cualquier tiempo, hasta antes de que se
 dicte sentencia definitiva.
 Artículo adicionado DOF 10-12-2010
 
-ARTÍCULO 25. En el acuerdo que admita el incidente de petición de medidas cautelares, el
-Magistrado Instructor ordenará correr traslado a quien se impute el acto administrativo o los hechos
-objeto de la controversia, pidiéndole un informe que deberá rendir en un plazo de tres días. Si no se rinde
-el informe o si éste no se refiere específicamente a los hechos que le impute el promovente, dichos
-hechos se tendrán por ciertos. En el acuerdo a que se refiere este párrafo, el Magistrado Instructor
-resolverá sobre las medidas cautelares previas que se le hayan solicitado.
+ARTÍCULO 25. El acuerdo que admita el incidente de petición de medidas cautelares, deberá emitirse
+dentro de las veinticuatro horas siguientes a su interposición, en dicho acuerdo se ordenará correr
+traslado a quien se impute el acto administrativo o los hechos objeto de la controversia, pidiéndole un
+informe que deberá rendir en un plazo de setenta y dos horas siguientes a aquél en que surta efectos la
+notificación del acuerdo respectivo. Si no se rinde el informe o si éste no se refiere específicamente a los
+hechos que le impute el promovente, dichos hechos se tendrán por ciertos. En el acuerdo a que se refiere
+este párrafo, el Magistrado Instructor resolverá sobre las medidas cautelares previas que se le hayan
+solicitado.
+Párrafo reformado DOF 13-06-2016
+
 Dentro del plazo de cinco días contados a partir de que haya recibido el informe o que haya vencido el
 término para presentarlo, el Magistrado Instructor dictará la resolución en la que, de manera definitiva,
 decrete o niegue las medidas cautelares solicitadas, decida en su caso, sobre la admisión de la garantía
@@ -790,48 +915,47 @@ podrá modificar o revocar la resolución que haya decretado o negado las medida
 ocurra un hecho superveniente que lo justifique.
 Artículo reformado DOF 10-12-2010
 
-ARTÍCULO 26.- La Sala Regional podrá decretar medidas cautelares positivas, entre otros casos,
-cuando, tratándose de situaciones jurídicas duraderas, se produzcan daños substanciales al actor o una
-lesión importante del derecho que pretende, por el simple transcurso del tiempo.
+ARTÍCULO 26. El Magistrado Instructor podrá decretar medidas cautelares positivas, entre otros
+casos, cuando, tratándose de situaciones jurídicas duraderas, se produzcan daños substanciales al actor
+o una lesión importante del derecho que pretende por el simple transcurso del tiempo.
+Artículo reformado DOF 13-06-2016
+
 ARTÍCULO 27. En los casos en los que las medidas cautelares puedan causar daños a terceros, el
-Magistrado Instructor o en su caso, la Sala las ordenará siempre que el actor otorgue garantía bastante
-para reparar, mediante indemnización, el daño y los perjuicios que con ellas pudieran causarse si no
-obtiene sentencia favorable en el juicio; garantía que deberá expedirse a favor de los terceros que
-pudieran tener derecho a la reparación del daño o a la indemnización citada y quedará a disposición de la
-Sala. Si no es cuantificable la indemnización respectiva, se fijará discrecionalmente el importe de la
-garantía, expresando los razonamientos lógicos y jurídicos respectivos. Si se carece por completo de
-datos que permitan el ejercicio de esta facultad, se requerirá a la parte afectada para que proporcione
-todos aquéllos que permitan conocer el valor probable del negocio y hagan posible la fijación del monto
-de la garantía.
-Las medidas cautelares podrán quedar sin efecto si la contraparte da, a su vez, caución bastante para
-indemnizar los daños y perjuicios que pudieran causarse por no subsistir las medidas cautelares
-previstas, incluidos los costos de la garantía que hubiese otorgado la parte afectada.
+Magistrado Instructor las ordenará siempre que el actor otorgue garantía bastante para reparar, mediante
+indemnización, los daños y perjuicios que con ellas pudieran causarse si no obtiene sentencia favorable
+en el juicio; garantía que deberá expedirse a favor de los terceros que pudieran tener derecho a la
+reparación del daño o a la indemnización citada y quedará a disposición de la Sala Regional que
+corresponda. Si no es cuantificable la indemnización respectiva, se fijará discrecionalmente el importe de
+la garantía, expresando los razonamientos lógicos y jurídicos respectivos. Si se carece por completo de
+datos que permitan el ejercicio de esta facultad, se requerirá a las partes afectadas para que
+proporcionen todos aquéllos que permitan conocer el valor probable del negocio y hagan posible la
+fijación del monto de la garantía.
 Por su parte, la autoridad podrá obligarse a resarcir los daños y perjuicios que se pudieran causar al
 particular; en cuyo caso, el Tribunal, considerando las circunstancias del caso, podrá no dictar las
-
-15 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 medidas cautelares. En este caso, si la sentencia definitiva es contraria a la autoridad, el Magistrado
 Instructor, la Sala Regional, la Sección o el Pleno, deberá condenarla a pagar la indemnización
 administrativa que corresponda.
-Artículo reformado DOF 10-12-2010
+Artículo reformado DOF 10-12-2010, 13-06-2016
 
 ARTÍCULO 28. La solicitud de suspensión de la ejecución del acto administrativo impugnado,
 presentado por el actor o su representante legal, se tramitará y resolverá, de conformidad con las reglas
 siguientes:
 I.
 
+Se concederá siempre que:
+
+16 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 II.
 
-Se concederá siempre que:
 a)
 
 No se afecte el interés social, ni se contravengan disposiciones de orden público, y
@@ -867,13 +991,9 @@ concederá si el solicitante otorga garantía bastante para reparar el daño o i
 perjuicio que con ella se cause, si éste no obtiene sentencia favorable.
 En caso de afectaciones no estimables en dinero, de proceder la suspensión, se fijará
 discrecionalmente el importe de la garantía.
-La suspensión a la que se refiere este inciso quedará sin efecto, si previa resolución del
-Magistrado Instructor, el tercero otorga a su vez contragarantía para restituir las cosas al
-estado que guardaban antes de la notificación del acto impugnado al solicitante y a pagar los
-daños y perjuicios que se le hayan ocasionado, si finalmente la sentencia definitiva que se
-dicte fuere favorable a sus pretensiones, así como el costo de la garantía que este último
-hubiere otorgado. No procede admitir la contragarantía si, de ejecutarse el acto, quedare sin
-materia el juicio.
+Inciso reformado DOF 13-06-2016
+
+III.
 
 c)
 
@@ -886,24 +1006,13 @@ d)
 El monto de la garantía y contragarantía será fijado por el Magistrado Instructor o quien lo
 supla.
 
-16 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
-III.
-
 El procedimiento será:
 a)
 
 La solicitud podrá ser formulada en la demanda o en escrito diverso presentado ante la Sala
 en que se encuentre radicado el juicio, en cualquier tiempo mientras no se dicte sentencia
-firme.
+definitiva.
+Inciso reformado DOF 13-06-2016
 
 b)
 
@@ -911,19 +1020,35 @@ Se tramitará por cuerda separada, bajo la responsabilidad del Magistrado Instru
 
 c)
 
-El Magistrado Instructor deberá conceder o negar la suspensión provisional de la ejecución,
-a más tardar dentro del día hábil siguiente a la presentación de la solicitud.
+El Magistrado Instructor deberá proveer sobre la suspensión provisional de la ejecución,
+dentro de las veinticuatro horas siguientes a la presentación de la solicitud.
+Inciso reformado DOF 13-06-2016
 
 d)
 
 El Magistrado Instructor requerirá a la autoridad demandada un informe relativo a la
-suspensión definitiva, el que se deberá rendir en el término de tres días. Vencido el término,
-con el informe o sin él, el Magistrado resolverá lo que corresponda, dentro de los tres días
-siguientes.
+suspensión definitiva, el que se deberá rendir en el término de cuarenta y ocho horas
+siguientes a aquél en que surta efectos la notificación del acuerdo respectivo. Vencido el
 
-IV. Mientras no se dicte sentencia firme en el juicio, el Magistrado Instructor podrá modificar o
+17 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+término, con el informe o sin él, el Magistrado resolverá lo que corresponda, dentro de los
+cinco días siguientes.
+Inciso reformado DOF 13-06-2016
+
+IV. Mientras no se dicte sentencia definitiva en el juicio, el Magistrado Instructor podrá modificar o
 revocar la resolución que haya concedido o negado la suspensión definitiva, cuando ocurra un
 hecho superveniente que lo justifique.
+Fracción reformada DOF 13-06-2016
+
 V.
 
 Cuando el solicitante de la suspensión obtenga sentencia favorable firme, el Magistrado Instructor
@@ -932,6 +1057,32 @@ sea desfavorable, a petición de la contraparte o en su caso, del tercero, y pre
 de que se causaron perjuicios o se sufrieron daños, la Sala ordenará hacer efectiva la garantía
 otorgada ante la autoridad.
 Artículo reformado DOF 10-12-2010
+
+ARTÍCULO 28 Bis. Las medidas cautelares positivas y la suspensión de la ejecución del acto
+impugnado podrán quedar sin efecto si la contraparte exhibe contragarantía para indemnizar los daños y
+perjuicios que pudieran causarse a la parte actora. Además la contragarantía deberá cubrir los costos de
+la garantía que hubiese otorgado la parte actora, la cual comprenderá, entre otros aspectos, los
+siguientes:
+I.
+
+Los gastos o primas pagados, conforme a la ley, a la empresa legalmente autorizada que haya
+otorgado la garantía;
+
+II.
+
+Los gastos legales de la escritura respectiva y su registro, así como los de cancelación y su
+registro, cuando la parte actora hubiere otorgado garantía hipotecaria;
+
+III.
+
+Los gastos legales acreditados para constituir el depósito; y/o
+
+IV. Los gastos efectivamente erogados para constituir la garantía, siempre que estén debidamente
+comprobados con la documentación correspondiente.
+No se admitirá la contragarantía si de ejecutarse el acto impugnado o de no concederse la medida
+cautelar positiva queda sin materia el juicio o cuando resulte en extremo difícil restituir las cosas al estado
+que guardaban antes del inicio del juicio, lo cual deberá ser motivado por el Magistrado Instructor.
+Artículo adicionado DOF 13-06-2016
 
 CAPÍTULO IV
 De los Incidentes
@@ -951,6 +1102,17 @@ III.
 El de nulidad de notificaciones.
 
 IV. La recusación por causa de impedimento.
+
+18 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 V.
 
 La reposición de autos.
@@ -962,17 +1124,6 @@ correspondiente al Distrito Federal.
 ARTÍCULO 30. Las Salas Regionales serán competentes para conocer de los juicios por razón de
 territorio, de conformidad con lo previsto en el artículo 34 de la Ley Orgánica del Tribunal Federal de
 Justicia Fiscal y Administrativa.
-
-17 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 En caso de duda, será competente por razón de territorio la Sala Regional ante quien se haya
 presentado el asunto.
 Cuando una sala esté conociendo de algún juicio que sea competencia de otra, el demandado o el
@@ -1015,6 +1166,17 @@ juicio en el cual la demanda se presentó primero, para lo cual en un término q
 solicitará el envío de los autos del juicio. El magistrado que conozca de la acumulación, en el plazo de
 cinco días, deberá formular proyecto de resolución que someterá a la Sala, la que dictará la
 determinación que proceda. La acumulación podrá tramitarse de oficio.
+
+19 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 ARTÍCULO 33.- Las notificaciones que no fueren hechas conforme a lo dispuesto en esta Ley serán
 nulas. En este caso el perjudicado podrá pedir que se declare la nulidad dentro de los cinco días
 siguientes a aquél en que conoció el hecho, ofreciendo las pruebas pertinentes en el mismo escrito en
@@ -1022,17 +1184,6 @@ que se promueva la nulidad.
 Las promociones de nulidad notoriamente infundadas se desecharán de plano.
 Si se admite la promoción, se dará vista a las demás partes por el término de cinco días para que
 expongan lo que a su derecho convenga; transcurrido dicho plazo, se dictará resolución.
-
-18 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Si se declara la nulidad, la Sala ordenará reponer la notificación anulada y las actuaciones
 posteriores. Asimismo, se impondrá una multa al actuario, equivalente a diez veces el salario mínimo
 general diario del área geográfica correspondiente al Distrito Federal, sin que exceda del 30% de su
@@ -1067,6 +1218,17 @@ documento que considere como indubitado o señalar el lugar donde se encuentre, 
 pericial correspondiente; si no lo hace, el Magistrado Instructor desechará el incidente.
 La Sala resolverá sobre la autenticidad del documento exclusivamente para los efectos del juicio en el
 que se presente el incidente.
+
+20 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 ARTÍCULO 37.- Las partes o el Magistrado Instructor de oficio, solicitarán se substancie el incidente
 de reposición de autos, para lo cual se hará constar en el acta que para tal efecto se levante por la Sala,
 la existencia anterior y la falta posterior del expediente o de las actuaciones faltantes. A partir de la fecha
@@ -1075,17 +1237,6 @@ Con el acta se dará vista a las partes para que en el término de diez días pr
 instructor, en copia simple o certificada, las constancias y documentos relativos al expediente que obren
 en su poder, a fin de reponerlo. Una vez integrado, la Sala, en el plazo de cinco días, declarará repuestos
 los autos, se levantará la suspensión y se continuará con el procedimiento.
-
-19 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Cuando la pérdida ocurra encontrándose los autos a disposición de la Sala Superior, se ordenará a la
 Sala Regional correspondiente proceda a la reposición de autos y una vez integrado el expediente, se
 remitirá el mismo a la Sala Superior para la resolución del juicio.
@@ -1117,6 +1268,17 @@ violación del mismo, cuando ésta consista en hechos positivos y el demandado d
 En los juicios que se tramiten ante el Tribunal, serán admisibles toda clase de pruebas, excepto la de
 confesión de las autoridades mediante absolución de posiciones y la petición de informes, salvo que los
 informes se limiten a hechos que consten en documentos que obren en poder de las autoridades.
+
+21 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Las pruebas supervenientes podrán presentarse siempre que no se haya dictado sentencia. En este
 caso, se ordenará dar vista a la contraparte para que en el plazo de cinco días exprese lo que a su
 derecho convenga.
@@ -1125,46 +1287,81 @@ conocimiento de los hechos controvertidos, podrá acordar la exhibición de cual
 tenga relación con los mismos, ordenar la práctica de cualquier diligencia o proveer la preparación y
 desahogo de la prueba pericial cuando se planteen cuestiones de carácter técnico y no hubiere sido
 ofrecida por las partes.
-
-20 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 El magistrado ponente podrá proponer al Pleno o a la Sección, se reabra la instrucción para los
 efectos señalados anteriormente.
 ARTÍCULO 42.- Las resoluciones y actos administrativos se presumirán legales. Sin embargo, las
 autoridades deberán probar los hechos que los motiven cuando el afectado los niegue lisa y llanamente,
 a menos que la negativa implique la afirmación de otro hecho.
 ARTÍCULO 43.- La prueba pericial se sujetará a lo siguiente:
-I. En el acuerdo que recaiga a la contestación de la demanda o de su ampliación, se requerirá a las
-partes para que dentro del plazo de diez días presenten a sus peritos, a fin de que acrediten que reúnen
-los requisitos correspondientes, acepten el cargo y protesten su legal desempeño, apercibiéndolas de
-que si no lo hacen sin justa causa, o la persona propuesta no acepta el cargo o no reúne los requisitos de
-ley, sólo se considerará el peritaje de quien haya cumplimentado el requerimiento.
-II. El Magistrado Instructor, cuando a su juicio deba presidir la diligencia y lo permita la naturaleza de
-ésta, señalará lugar, día y hora para el desahogo de la prueba pericial, pudiendo pedir a los peritos todas
-las aclaraciones que estime conducentes, y exigirles la práctica de nuevas diligencias.
-III. En los acuerdos por los que se discierna del cargo a cada perito, el Magistrado Instructor
-concederá un plazo mínimo de quince días para que rinda y ratifique su dictamen, con el apercibimiento a
-la parte que lo propuso de que únicamente se considerarán los dictámenes rendidos dentro del plazo
-concedido.
-IV. Por una sola vez y por causa que lo justifique, comunicada al instructor antes de vencer los plazos
-mencionados en este artículo, las partes podrán solicitar la ampliación del plazo para rendir el dictamen o
-la sustitución de su perito, señalando en este caso, el nombre y domicilio de la nueva persona propuesta.
-La parte que haya sustituido a su perito conforme a la fracción I, ya no podrá hacerlo en el caso previsto
-en la fracción III de este precepto.
-V. El perito tercero será designado por la Sala Regional de entre los que tenga adscritos. En el caso
-de que no hubiere perito adscrito en la ciencia o arte sobre el cual verse el peritaje, la Sala designará
-bajo su responsabilidad a la persona que deba rendir dicho dictamen. Cuando haya lugar a designar
-perito tercero valuador, el nombramiento deberá recaer en una institución de crédito, debiendo cubrirse
-sus honorarios por las partes. En los demás casos los cubrirá el Tribunal. En el auto en que se designe
-perito tercero, se le concederá un plazo mínimo de quince días para que rinda su dictamen.
+I.
+
+En el acuerdo que recaiga a la contestación de la demanda o de su ampliación, se requerirá a las
+partes para que dentro del plazo de diez días presenten a sus peritos, a fin de que acrediten que
+reúnen los requisitos correspondientes, acepten el cargo y protesten su legal desempeño,
+apercibiéndolas de que si no lo hacen sin justa causa, o la persona propuesta no acepta el cargo
+o no reúne los requisitos de ley, sólo se considerará el peritaje de quien haya cumplimentado el
+requerimiento.
+Los peritos deberán rendir su propio dictamen autónomo e independiente y exponer sus razones
+o sustentos en los que se apoyan, por lo que no deberán sustentar su dictamen en las respuestas
+expuestas por otro perito, ni remitirse a ellas para justificar su opinión técnica.
+Párrafo adicionado DOF 13-06-2016
+
+II.
+
+El Magistrado Instructor, cuando a su juicio deba presidir la diligencia y lo permita la naturaleza
+de ésta, señalará lugar, día y hora para el desahogo de la prueba pericial, pudiendo pedir a los
+peritos todas las aclaraciones que estime conducentes, y exigirles la práctica de nuevas
+diligencias.
+
+III.
+
+En los acuerdos por los que se discierna del cargo a cada perito, el Magistrado Instructor
+concederá un plazo mínimo de quince días para que rinda y ratifique su dictamen, con el
+apercibimiento a la parte que lo propuso de que únicamente se considerarán los dictámenes
+rendidos dentro del plazo concedido.
+
+IV. Por una sola vez y por causa que lo justifique, comunicada al instructor antes de vencer los
+plazos mencionados en este artículo, las partes podrán solicitar la ampliación del plazo para
+rendir el dictamen o la sustitución de su perito, señalando en este caso, el nombre y domicilio de
+la nueva persona propuesta. La parte que haya sustituido a su perito conforme a la fracción I, ya
+no podrá hacerlo en el caso previsto en la fracción III de este precepto.
+V.
+
+El perito tercero será designado por la Sala Regional de entre los que tenga adscritos. En el caso
+de que no hubiere perito adscrito en la ciencia o arte sobre el cual verse el peritaje, la Sala
+designará bajo su responsabilidad a la persona que deba rendir dicho dictamen. Cuando haya
+lugar a designar perito tercero valuador, el nombramiento deberá recaer en una institución de
+crédito, debiendo cubrirse sus honorarios por las partes. En los demás casos los cubrirá el
+
+22 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+Tribunal. En el auto en que se designe perito tercero, se le concederá un plazo mínimo de quince
+días para que rinda su dictamen.
+El Magistrado Instructor, dentro del plazo de tres días posteriores a la notificación del acuerdo que
+tenga por rendido el dictamen del perito tercero, podrá ordenar que se lleve a cabo el desahogo de una
+junta de peritos, en la cual se planteen aclaraciones en relación a los dictámenes. El acuerdo por el que
+se fije el lugar, día y hora para la celebración de la junta de peritos deberá notificarse a todas las partes,
+así como a los peritos.
+Párrafo adicionado DOF 13-06-2016
+
+En la audiencia, el Magistrado Instructor podrá requerir que los peritos hagan las aclaraciones
+correspondientes, debiendo levantar el acta circunstanciada correspondiente.
+Párrafo adicionado DOF 13-06-2016
+
+En el caso de la Sala Superior del Tribunal, el Magistrado ponente podrá ordenar directamente la
+reapertura de la instrucción del juicio, a efecto de que la junta de peritos se realice en la Secretaría
+General o Adjunta de Acuerdos o en la Sala Regional, la cual podrá llevarse a cabo a través de medios
+electrónicos.
+Párrafo adicionado DOF 13-06-2016
+
 ARTÍCULO 44.- Para desahogar la prueba testimonial se requerirá a la oferente para que presente a
 los testigos y cuando ésta manifieste no poder presentarlos, el Magistrado Instructor los citará para que
 comparezcan el día y hora que al efecto señale. De los testimonios se levantará acta pormenorizada y
@@ -1179,17 +1376,6 @@ ARTÍCULO 45.- A fin de que las partes puedan rendir sus pruebas, los funcionari
 tienen obligación de expedir con toda oportunidad, previo pago de los derechos correspondientes, las
 copias certificadas de los documentos que les soliciten; si no se cumpliera con esa obligación la parte
 interesada solicitará al Magistrado Instructor que requiera a los omisos.
-
-21 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Cuando sin causa justificada la autoridad demandada no expida las copias de los documentos
 ofrecidos por el demandante para probar los hechos imputados a aquélla y siempre que los documentos
 solicitados hubieran sido identificados con toda precisión tanto en sus características como en su
@@ -1204,6 +1390,17 @@ Cuando se soliciten copias de documentos que no puedan proporcionarse en la prá
 administrativa normal, las autoridades podrán solicitar un plazo adicional para realizar las diligencias
 extraordinarias que el caso amerite y si al cabo de éstas no se localizan, el Magistrado Instructor podrá
 considerar que se está en presencia de omisión por causa justificada.
+
+23 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 ARTÍCULO 46.- La valoración de las pruebas se hará de acuerdo con las siguientes disposiciones:
 I. Harán prueba plena la confesión expresa de las partes, las presunciones legales que no admitan
 prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos,
@@ -1224,22 +1421,16 @@ dispuesto en las fracciones anteriores, debiendo fundar razonadamente esta parte
 
 CAPÍTULO VI
 Del Cierre de la Instrucción
-ARTÍCULO 47.- El Magistrado Instructor, diez días después de que haya concluido la sustanciación
-del juicio y no existiere ninguna cuestión pendiente que impida su resolución, notificará por lista a las
-partes que tienen un término de cinco días para formular alegatos por escrito. Los alegatos presentados
-en tiempo deberán ser considerados al dictar sentencia.
-Al vencer el plazo de cinco días a que se refiere el párrafo anterior, con alegatos o sin ellos, se emitirá
-el acuerdo correspondiente en el que se declare cerrada la instrucción.
-
-22 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
+Artículo 47. El Magistrado Instructor, cinco días después de que haya concluido la sustanciación del
+juicio y/o no existiere ninguna cuestión pendiente que impida su resolución, notificará a las partes que
+tienen un término de cinco días para formular alegatos de lo bien probado por escrito. Los alegatos
+presentados en tiempo deberán ser considerados al dictar sentencia; dichos alegatos no pueden ampliar
+la litis fijada en los acuerdos de admisión a la demanda o de admisión a la ampliación a la demanda, en
+su caso.
+Al vencer el plazo de cinco días a que se refiere el párrafo anterior, con alegatos o sin ellos, quedará
+cerrada la instrucción del juicio, sin necesidad de una declaratoria expresa, y a partir del día siguiente
+empezarán a computarse los plazos previstos en el artículo 49 de esta Ley.
+Artículo reformado DOF 13-06-2016
 
 CAPÍTULO VII
 Facultad de Atracción
@@ -1247,61 +1438,98 @@ ARTÍCULO 48. El Pleno o las Secciones del Tribunal podrán resolver los juicios
 especiales.
 Párrafo reformado DOF 10-12-2010
 
-I. Revisten características especiales los juicios en los que:
-a) Por su materia, conceptos de impugnación o cuantía se consideren de interés y trascendencia.
-Tratándose de la cuantía, el valor del negocio deberá exceder de cinco mil veces el salario mínimo
-general del área geográfica correspondiente al Distrito Federal, elevado al año, vigente en el momento de
-la emisión de la resolución combatida.
-Párrafo reformado DOF 10-12-2010
+I.
 
-b) Para su resolución sea necesario establecer, por primera vez, la interpretación directa de una ley,
-reglamento o disposición administrativa de carácter general; fijar el alcance de los elementos constitutivos
-de una contribución, hasta fijar jurisprudencia. En este caso el Presidente del Tribunal también podrá
-solicitar la atracción.
-II. Para el ejercicio de la facultad de atracción, se estará a las siguientes reglas:
-a) La petición que, en su caso, formulen las Salas Regionales, el Magistrado Instructor o las
+Revisten características especiales los juicios en los que:
+a)
+
+Por su materia, conceptos de impugnación o cuantía se consideren de interés y
+trascendencia.
+Tratándose de la cuantía, el valor del negocio será determinado por el pleno jurisdiccional de
+la Sala Superior, mediante la emisión del acuerdo general correspondiente.
+
+24 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+Párrafo reformado DOF 10-12-2010, 13-06-2016
+
+b)
+
+II.
+
+Para su resolución sea necesario establecer, por primera vez, la interpretación directa de
+una ley, reglamento o disposición administrativa de carácter general; fijar el alcance de los
+elementos constitutivos de una contribución, hasta fijar jurisprudencia. En este caso el
+Presidente del Tribunal también podrá solicitar la atracción.
+
+Para el ejercicio de la facultad de atracción, se estará a las siguientes reglas:
+a)
+
+La petición que, en su caso, formulen las Salas Regionales, el Magistrado Instructor o las
 autoridades deberá presentarse hasta antes del cierre de la instrucción.
+En el caso del juicio de resolución exclusiva de fondo, la petición señalada en el párrafo
+anterior sólo se podrá formular por las partes en el juicio o los Magistrados de la Sección de
+la Sala Superior competente.
+Párrafo adicionado DOF 27-01-2017
 Inciso reformado DOF 10-12-2010
 
-b) La Presidencia del Tribunal comunicará el ejercicio de la facultad de atracción a la Sala Regional o
-al Magistrado Instructor antes del cierre de la instrucción.
+b)
+
+La Presidencia del Tribunal comunicará el ejercicio de la facultad de atracción a la Sala
+Regional o al Magistrado Instructor antes del cierre de la instrucción.
 Inciso reformado DOF 10-12-2010
 
-c) Los acuerdos de la Presidencia que admitan la petición o que de oficio decidan atraer el juicio,
-serán notificados personalmente a las partes en los términos de los artículos 67 y 68 de esta Ley. Al
-efectuar la notificación se les requerirá que señalen domicilio para recibir notificaciones en el Distrito
-Federal, así como que designen persona autorizada para recibirlas o, en el caso de las autoridades, que
-señalen a su representante en el mismo. En caso de no hacerlo, la resolución y las actuaciones diversas
-que dicte la Sala Superior les serán notificadas en el domicilio que obre en autos.
-d) Una vez cerrada la instrucción del juicio, la Sala Regional o el Magistrado Instructor remitirá el
-expediente original a la Secretaría General de Acuerdos de la Sala Superior, la que lo turnará al
-Magistrado ponente que corresponda conforme a las reglas que determine el Pleno del propio Tribunal.
+c)
+
+Los acuerdos de la Presidencia que admitan la petición o que de oficio decidan atraer el
+juicio, serán notificados personalmente a las partes en los términos de los artículos 67 y 68
+de esta Ley. Al efectuar la notificación se les requerirá que señalen domicilio para recibir
+notificaciones en el Distrito Federal, así como que designen persona autorizada para
+recibirlas o, en el caso de las autoridades, que señalen a su representante en el mismo. En
+caso de no hacerlo, la resolución y las actuaciones diversas que dicte la Sala Superior les
+serán notificadas en el domicilio que obre en autos.
+
+d)
+
+Una vez cerrada la instrucción del juicio, la Sala Regional o el Magistrado Instructor remitirá
+el expediente original a la Secretaría General de Acuerdos de la Sala Superior, la que lo
+turnará al Magistrado ponente que corresponda conforme a las reglas que determine el
+Pleno del propio Tribunal.
 Inciso reformado DOF 10-12-2010
 
 CAPÍTULO VIII
 De la Sentencia
-ARTÍCULO 49.- La sentencia se pronunciará por unanimidad o mayoría de votos de los magistrados
-integrantes de la Sala, dentro de los sesenta días siguientes a aquél en que se dicte el acuerdo de cierre
-de instrucción en el juicio. Para este efecto el Magistrado Instructor formulará el proyecto respectivo
-dentro de los cuarenta y cinco días siguientes a aquél en que se dictó dicho acuerdo. Para dictar
-resolución en los casos de sobreseimiento por alguna de las causas previstas en el artículo 9o. de esta
-Ley, no será necesario que se hubiese cerrado la instrucción.
-
-23 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
+ARTÍCULO 49. La sentencia se pronunciará por unanimidad o mayoría de votos de los Magistrados
+integrantes de la sala, dentro de los cuarenta y cinco días siguientes a aquél en que haya quedado
+cerrada la instrucción en el juicio. Para este efecto, el Magistrado Instructor formulará el proyecto
+respectivo dentro de los treinta días siguientes al cierre de instrucción. Para dictar resolución en los casos
+de sobreseimiento, por alguna de las causas previstas en el artículo 9o. de esta Ley, no será necesario
+que se hubiese cerrado la instrucción.
+Párrafo reformado DOF 13-06-2016
 
 El plazo para que el magistrado ponente del Pleno o de la Sección formule su proyecto, empezará a
 correr a partir de que tenga en su poder el expediente integrado.
 Cuando la mayoría de los magistrados estén de acuerdo con el proyecto, el magistrado disidente
 podrá limitarse a expresar que vota total o parcialmente en contra del proyecto o formular voto particular
 razonado, el que deberá presentar en un plazo que no exceda de diez días.
+
+25 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Si el proyecto no fue aceptado por los otros magistrados del Pleno, Sección o Sala, el magistrado
 ponente o instructor engrosará el fallo con los argumentos de la mayoría y el proyecto podrá quedar
 como voto particular.
@@ -1339,23 +1567,22 @@ motivo de las demandas que prevé la Ley Federal de Responsabilidad Patrimonial 
 contener como elementos mínimos los siguientes:
 I. El relativo a la existencia de la relación de causalidad entre la actividad administrativa y la lesión
 producida y la valoración del daño o perjuicio causado;
-
-24 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 II. Determinar el monto de la indemnización, explicitando los criterios utilizados para su cuantificación,
 y
 III. En los casos de concurrencia previstos en el Capítulo IV de la Ley Federal de Responsabilidad
 Patrimonial del Estado, se deberán razonar los criterios de impugnación y la graduación correspondiente
 para su aplicación a cada caso en particular.
 Artículo adicionado DOF 12-06-2009
+
+26 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 ARTÍCULO 51.- Se declarará que una resolución administrativa es ilegal cuando se demuestre alguna
 de las siguientes causales:
@@ -1415,16 +1642,6 @@ e)
 Cuando no se dé a conocer al contribuyente visitado el resultado de una compulsa a terceros, si
 la resolución impugnada no se sustenta en dichos resultados.
 
-25 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 f)
 
 Cuando no se valore alguna prueba para acreditar los hechos asentados en el oficio de
@@ -1436,6 +1653,17 @@ dictar la resolución impugnada o para ordenar o tramitar el procedimiento del q
 total de fundamentación o motivación en dicha resolución.
 Cuando resulte fundada la incompetencia de la autoridad y además existan agravios encaminados a
 controvertir el fondo del asunto, el Tribunal deberá analizarlos y si alguno de ellos resulta fundado, con
+
+27 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 base en el principio de mayor beneficio, procederá a resolver el fondo de la cuestión efectivamente
 planteada por el actor.
 Párrafo adicionado DOF 10-12-2010
@@ -1454,9 +1682,8 @@ Declarar la nulidad de la resolución impugnada.
 
 III.
 
-Declarar la nulidad de la resolución impugnada para determinados efectos, debiendo precisar con
-claridad la forma y términos en que la autoridad debe cumplirla, debiendo reponer el
-procedimiento, en su caso, desde el momento en que se cometió la violación.
+(Se deroga)
+Fracción derogada DOF 13-06-2016
 
 IV. Siempre que se esté en alguno de los supuestos previstos en las fracciones II y III, del artículo 51
 de esta Ley, el Tribunal declarará la nulidad para el efecto de que se reponga el procedimiento o
@@ -1487,17 +1714,6 @@ Declarar la nulidad del acto o resolución administrativa de carácter general, 
 cesarán los efectos de los actos de ejecución que afectan al demandante, inclusive el primer
 acto de aplicación que hubiese impugnado. La declaración de nulidad no tendrá otros
 efectos para el demandante, salvo lo previsto por las leyes de la materia de que se trate.
-
-26 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Inciso reformado DOF 10-12-2010
 
 d)
@@ -1507,8 +1723,20 @@ de una indemnización por los daños y perjuicios causados por sus servidores p�
 Inciso adicionado DOF 12-06-2009
 
 Si la sentencia obliga a la autoridad a realizar un determinado acto o iniciar un procedimiento,
-conforme a lo dispuesto en las fracciones III y IV, deberá cumplirse en un plazo de cuatro meses
-contados a partir de que la sentencia quede firme.
+conforme a lo dispuesto en la fracción IV, deberá cumplirse en un plazo de cuatro meses tratándose del
+Juicio Ordinario o un mes tratándose del Juicio Sumario de conformidad con lo previsto en el artículo 5814 de la presente Ley, contados a partir de que la sentencia quede firme.
+Párrafo reformado DOF 13-06-2016
+
+28 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Dentro del mismo término deberá emitir la resolución definitiva, aún cuando, tratándose de asuntos
 fiscales, hayan transcurrido los plazos señalados en los artículos 46-A y 67 del Código Fiscal de la
 Federación.
@@ -1522,33 +1750,33 @@ Cuando para el cumplimiento de la sentencia, sea necesario solicitar informació
 de la autoridad administrativa en el extranjero, se suspenderá el plazo a que se refiere el párrafo anterior,
 entre el momento en que se pida la información o en que se solicite realizar el acto correspondiente y la
 fecha en que se proporcione dicha información o se realice el acto.
-Transcurrido el plazo establecido en este precepto, sin que se haya dictado la resolución definitiva,
-precluirá el derecho de la autoridad para emitirla salvo en los casos en que el particular, con motivo de la
-sentencia, tenga derecho a una resolución definitiva que le confiera una prestación, le reconozca un
-derecho o le abra la posibilidad de obtenerlo.
+Transcurridos los plazos establecidos en este precepto, sin que se haya dictado la resolución
+definitiva, precluirá el derecho de la autoridad para emitirla salvo en los casos en que el particular, con
+motivo de la sentencia, tenga derecho a una resolución definitiva que le confiera una prestación, le
+reconozca un derecho o le abra la posibilidad de obtenerlo.
+Párrafo reformado DOF 13-06-2016
+
 En el caso de que se interponga recurso, se suspenderá el efecto de la sentencia hasta que se dicte
 la resolución que ponga fin a la controversia.
 La sentencia se pronunciará sobre la indemnización o pago de costas, solicitados por las partes,
 cuando se adecue a los supuestos del artículo 6o. de esta Ley.
 ARTÍCULO 53.- La sentencia definitiva queda firme cuando:
-I. No admita en su contra recurso o juicio.
-II. Admitiendo recurso o juicio, no fuere impugnada, o cuando, habiéndolo sido, el recurso o juicio de
+I.
+
+No admita en su contra recurso o juicio.
+
+II.
+
+Admitiendo recurso o juicio, no fuere impugnada, o cuando, habiéndolo sido, el recurso o juicio de
 que se trate haya sido desechado o sobreseído o hubiere resultado infundado, y
-III. Sea consentida expresamente por las partes o sus representantes legítimos.
-Cuando haya quedado firme una sentencia que deba cumplirse en el plazo establecido por el artículo
-52 de esta Ley, el secretario de acuerdos que corresponda, hará la certificación de tal circunstancia y
-fecha de causación y el Magistrado Instructor o el Presidente de Sección o del Tribunal, en su caso,
-ordenará se notifique a las partes la mencionada certificación.
 
-27 de 56
+III.
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+Sea consentida expresamente por las partes o sus representantes legítimos.
 
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
+A partir de que quede firme una sentencia y cause ejecutoria, correrán los plazos para el cumplimiento
+de las sentencias, previstos en los artículos 52 y 58-14 de esta Ley.
+Párrafo reformado DOF 13-06-2016
 
 ARTÍCULO 54.- La parte que estime contradictoria, ambigua u obscura una sentencia definitiva del
 Tribunal, podrá promover por una sola vez su aclaración dentro de los diez días siguientes a aquél en
@@ -1560,6 +1788,17 @@ recurso alguno y se reputará parte de la sentencia recurrida y su interposició
 su impugnación.
 ARTÍCULO 55.- Las partes podrán formular excitativa de justicia ante el Presidente del Tribunal, si el
 magistrado responsable no formula el proyecto respectivo dentro del plazo señalado en esta Ley.
+
+29 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 ARTÍCULO 56.- Recibida la excitativa de justicia, el Presidente del Tribunal, solicitará informe al
 magistrado responsable que corresponda, quien deberá rendirlo en el plazo de cinco días. El Presidente
 dará cuenta al Pleno y si éste encuentra fundada la excitativa, otorgará un plazo que no excederá de
@@ -1580,213 +1819,274 @@ Del Cumplimiento de la Sentencia y de la Suspensión
 ARTÍCULO 57.- Las autoridades demandadas y cualesquiera otra autoridad relacionada, están
 obligadas a cumplir las sentencias del Tribunal Federal de Justicia Fiscal y Administrativa, conforme a lo
 siguiente:
-I. En los casos en los que la sentencia declare la nulidad y ésta se funde en alguna de las siguientes
-causales:
-a) Tratándose de la incompetencia, la autoridad competente podrá iniciar el procedimiento o dictar una
-nueva resolución, sin violar lo resuelto por la sentencia, siempre que no hayan caducado sus facultades.
-Este efecto se producirá aun en el caso de que la sentencia declare la nulidad en forma lisa y llana.
-b) Si tiene su causa en un vicio de forma de la resolución impugnada, ésta se puede reponer
-subsanando el vicio que produjo la nulidad; en el caso de nulidad por vicios del procedimiento, éste se
-puede reanudar reponiendo el acto viciado y a partir del mismo.
-En ambos casos, la autoridad demandada cuenta con un plazo de cuatro meses para reponer el
-procedimiento y dictar una nueva resolución definitiva, aún cuando hayan transcurrido los plazos
-señalados en los artículos 46-A y 67 del Código Fiscal de la Federación.
+I.
 
-28 de 56
+En los casos en los que la sentencia declare la nulidad y ésta se funde en alguna de las
+siguientes causales:
+a)
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+Tratándose de la incompetencia, la autoridad competente podrá iniciar el procedimiento o
+dictar una nueva resolución, sin violar lo resuelto por la sentencia, siempre que no hayan
+caducado sus facultades. Este efecto se producirá aun en el caso de que la sentencia
+declare la nulidad en forma lisa y llana.
+
+b)
+
+Si tiene su causa en un vicio de forma de la resolución impugnada, ésta se puede reponer
+subsanando el vicio que produjo la nulidad; en el caso de nulidad por vicios del
+procedimiento, éste se puede reanudar reponiendo el acto viciado y a partir del mismo.
+En ambos casos, la autoridad demandada cuenta con un plazo de cuatro meses para
+reponer el procedimiento y dictar una nueva resolución definitiva, aún cuando hayan
+transcurrido los plazos señalados en los artículos 46-A y 67 del Código Fiscal de la
+Federación.
+En el caso previsto en el párrafo anterior, cuando sea necesario realizar un acto de
+autoridad en el extranjero o solicitar información a terceros para corroborar datos
+relacionados con las operaciones efectuadas con los contribuyentes, en el plazo de cuatro
+meses no se contará el tiempo transcurrido entre la petición de la información o de la
+realización del acto correspondiente y aquél en el que se proporcione dicha información o se
+realice el acto. Igualmente, cuando en la reposición del procedimiento se presente alguno de
+los supuestos a que se refiere el tercer párrafo del artículo 46-A del Código Fiscal de la
+Federación, tampoco se contará dentro del plazo de cuatro meses el periodo por el que se
+suspende el plazo para concluir las visitas domiciliarias o las revisiones de gabinete, previsto
+en dicho párrafo, según corresponda.
+
+30 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-En el caso previsto en el párrafo anterior, cuando sea necesario realizar un acto de autoridad en el
-extranjero o solicitar información a terceros para corroborar datos relacionados con las operaciones
-efectuadas con los contribuyentes, en el plazo de cuatro meses no se contará el tiempo transcurrido entre
-la petición de la información o de la realización del acto correspondiente y aquél en el que se proporcione
-dicha información o se realice el acto. Igualmente, cuando en la reposición del procedimiento se presente
-alguno de los supuestos a que se refiere el tercer párrafo del artículo 46-A del Código Fiscal de la
-Federación, tampoco se contará dentro del plazo de cuatro meses el periodo por el que se suspende el
-plazo para concluir las visitas domiciliarias o las revisiones de gabinete, previsto en dicho párrafo, según
-corresponda.
-Si la autoridad tiene facultades discrecionales para iniciar el procedimiento o para dictar una nueva
-resolución en relación con dicho procedimiento, podrá abstenerse de reponerlo, siempre que no afecte al
-particular que obtuvo la nulidad de la resolución impugnada.
-Los efectos que establece este inciso se producirán sin que sea necesario que la sentencia lo
-establezca, aun cuando la misma declare una nulidad lisa y llana.
-c) Cuando la resolución impugnada esté viciada en cuanto al fondo, la autoridad no podrá dictar una
-nueva resolución sobre los mismos hechos, salvo que la sentencia le señale efectos que le permitan
-volver a dictar el acto. En ningún caso el nuevo acto administrativo puede perjudicar más al actor que la
-resolución anulada.
-Para los efectos de este inciso, no se entenderá que el perjuicio se incrementa cuando se trate de
-juicios en contra de resoluciones que determinen obligaciones de pago que se aumenten con
-actualización por el simple transcurso del tiempo y con motivo de los cambios de precios en el país o con
-alguna tasa de interés o recargos.
-d) Cuando prospere el desvío de poder, la autoridad queda impedida para dictar una nueva resolución
-sobre los mismos hechos que dieron lugar a la resolución impugnada, salvo que la sentencia ordene la
-reposición del acto administrativo anulado, en cuyo caso, éste deberá reponerse en el plazo que señala
-la sentencia.
-II. En los casos de condena, la sentencia deberá precisar la forma y los plazos en los que la autoridad
-cumplirá con la obligación respectiva. En ningún caso el plazo será inferior a un mes.
+Si la autoridad tiene facultades discrecionales para iniciar el procedimiento o para dictar una
+nueva resolución en relación con dicho procedimiento, podrá abstenerse de reponerlo,
+siempre que no afecte al particular que obtuvo la nulidad de la resolución impugnada.
+Los efectos que establece este inciso se producirán sin que sea necesario que la sentencia
+lo establezca, aun cuando la misma declare una nulidad lisa y llana.
+c)
+
+Cuando la resolución impugnada esté viciada en cuanto al fondo, la autoridad no podrá
+dictar una nueva resolución sobre los mismos hechos, salvo que la sentencia le señale
+efectos que le permitan volver a dictar el acto. En ningún caso el nuevo acto administrativo
+puede perjudicar más al actor que la resolución anulada.
+Para los efectos de este inciso, no se entenderá que el perjuicio se incrementa cuando se
+trate de juicios en contra de resoluciones que determinen obligaciones de pago que se
+aumenten con actualización por el simple transcurso del tiempo y con motivo de los cambios
+de precios en el país o con alguna tasa de interés o recargos.
+
+d)
+
+II.
+
+Cuando prospere el desvío de poder, la autoridad queda impedida para dictar una nueva
+resolución sobre los mismos hechos que dieron lugar a la resolución impugnada, salvo que
+la sentencia ordene la reposición del acto administrativo anulado, en cuyo caso, éste deberá
+reponerse en el plazo que señala la sentencia.
+
+En los casos de condena, la sentencia deberá precisar la forma y los plazos en los que la
+autoridad cumplirá con la obligación respectiva, conforme a las reglas establecidas en el artículo
+52 de esta Ley.
 Cuando se interponga el juicio de amparo o el recurso de revisión, se suspenderá el efecto de la
 sentencia hasta que se dicte la resolución que ponga fin a la controversia.
-Los plazos para el cumplimiento de sentencia que establece este artículo, empezarán a correr a partir
-del día hábil siguiente a aquél en que el Tribunal Federal de Justicia Fiscal y Administrativa informe a la
-autoridad que no se interpuso el juicio de amparo en contra de la sentencia, o el particular informe a la
-autoridad, bajo protesta de decir verdad, que no interpuso en contra de la sentencia, dicho juicio. La
-autoridad, dentro del plazo de 20 días posteriores a la fecha en que venció el término de 15 días para
-interponer el juicio de amparo, deberá solicitar al Tribunal el informe mencionado.
-En el caso de que la autoridad no solicite el informe mencionado dentro del plazo establecido, el plazo
-para el cumplimiento de la resolución empezará a correr a partir de que hayan transcurrido los 15 días
-para interponer el juicio de amparo.
+Fracción reformada DOF 13-06-2016
+Reforma DOF 13-06-2016: Derogó del artículo los entonces párrafos segundo y tercero
+
 ARTÍCULO 58.- A fin de asegurar el pleno cumplimiento de las resoluciones del Tribunal a que este
 precepto se refiere, una vez vencido el plazo previsto por el artículo 52 de esta Ley, éste podrá actuar de
 oficio o a petición de parte, conforme a lo siguiente:
+I.
 
-29 de 56
+La Sala Regional, la Sección o el Pleno que hubiere pronunciado la sentencia, podrá de oficio,
+por conducto de su Presidente, en su caso, requerir a la autoridad demandada que informe
+dentro de los tres días siguientes, respecto al cumplimiento de la sentencia. Se exceptúan de lo
+dispuesto en este párrafo las sentencias que hubieran señalado efectos, cuando la resolución
+impugnada derive de un procedimiento oficioso.
+Concluido el término anterior con informe o sin él, la Sala Regional, la Sección o el Pleno de que
+se trate, decidirá si hubo incumplimiento injustificado de la sentencia, en cuyo caso procederá
+como sigue:
+a)
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+Impondrá a la autoridad demandada responsable una multa de apremio que se fijará entre
+trescientas y mil veces el salario mínimo general diario que estuviere vigente en el Distrito
+Federal, tomando en cuenta la gravedad del incumplimiento y las consecuencias que ello
+hubiere ocasionado, requiriéndola a cumplir con la sentencia en el término de tres días y
+previniéndole, además, de que en caso de renuencia, se le impondrán nuevas multas de
+apremio en los términos de este inciso, lo que se informará al superior jerárquico de la
+autoridad demandada.
+
+31 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-I. La Sala Regional, la Sección o el Pleno que hubiere pronunciado la sentencia, podrá de oficio, por
-conducto de su Presidente, en su caso, requerir a la autoridad demandada que informe dentro de los tres
-días siguientes, respecto al cumplimiento de la sentencia. Se exceptúan de lo dispuesto en este párrafo
-las sentencias que hubieran señalado efectos, cuando la resolución impugnada derive de un
-procedimiento oficioso.
-Concluido el término anterior con informe o sin él, la Sala Regional, la Sección o el Pleno de que se
-trate, decidirá si hubo incumplimiento injustificado de la sentencia, en cuyo caso procederá como sigue:
-a) Impondrá a la autoridad demandada responsable una multa de apremio que se fijará entre
-trescientas y mil veces el salario mínimo general diario que estuviere vigente en el Distrito Federal,
-tomando en cuenta la gravedad del incumplimiento y las consecuencias que ello hubiere ocasionado,
-requiriéndola a cumplir con la sentencia en el término de tres días y previniéndole, además, de que en
-caso de renuencia, se le impondrán nuevas multas de apremio en los términos de este inciso, lo que se
-informará al superior jerárquico de la autoridad demandada.
-b) Si al concluir el plazo mencionado en el inciso anterior, persistiere la renuencia de la autoridad
-demandada a cumplir con lo sentenciado, la Sala Regional, la Sección o el Pleno podrá requerir al
-superior jerárquico de aquélla para que en el plazo de tres días la obligue a cumplir sin demora.
+b)
+
+Si al concluir el plazo mencionado en el inciso anterior, persistiere la renuencia de la
+autoridad demandada a cumplir con lo sentenciado, la Sala Regional, la Sección o el Pleno
+podrá requerir al superior jerárquico de aquélla para que en el plazo de tres días la obligue a
+cumplir sin demora.
 De persistir el incumplimiento, se impondrá al superior jerárquico una multa de apremio de
 conformidad con lo establecido por el inciso a).
-c) Cuando la naturaleza del acto lo permita, la Sala Regional, la Sección o el Pleno podrá comisionar
-al funcionario jurisdiccional que, por la índole de sus funciones estime más adecuado, para que dé
-cumplimiento a la sentencia.
-Lo dispuesto en esta fracción también será aplicable cuando no se cumplimente en los términos
-ordenados la suspensión que se decrete, respecto del acto impugnado en el juicio o en relación con la
-garantía que deba ser admitida.
-d) Transcurridos los plazos señalados en los incisos anteriores, la Sala Regional, la Sección o el
-Pleno que hubiere emitido el fallo, pondrá en conocimiento de la Contraloría Interna correspondiente los
-hechos, a fin de ésta determine la responsabilidad del funcionario responsable del incumplimiento.
-II. A petición de parte, el afectado podrá ocurrir en queja ante la Sala Regional, la Sección o el Pleno
-que la dictó, de acuerdo con las reglas siguientes:
-a) Procederá en contra de los siguientes actos:
-1.- La resolución que repita indebidamente la resolución anulada o la que incurra en exceso o en
-defecto, cuando se dicte pretendiendo acatar una sentencia.
-2.- La resolución definitiva emitida y notificada después de concluido el plazo establecido por los
-artículos 52 y 57, fracción I, inciso b) de esta Ley, cuando se trate de una sentencia dictada con base en
-las fracciones II y III del artículo 51 de la propia ley, que obligó a la autoridad demandada a iniciar un
-procedimiento o a emitir una nueva resolución, siempre y cuando se trate de un procedimiento oficioso.
+
+c)
+
+Cuando la naturaleza del acto lo permita, la Sala Regional, la Sección o el Pleno podrá
+comisionar al funcionario jurisdiccional que, por la índole de sus funciones estime más
+adecuado, para que dé cumplimiento a la sentencia.
+Lo dispuesto en esta fracción también será aplicable cuando no se cumplimente en los
+términos ordenados la suspensión que se decrete, respecto del acto impugnado en el juicio
+o en relación con la garantía que deba ser admitida.
+
+d)
+
+II.
+
+Transcurridos los plazos señalados en los incisos anteriores, la Sala Regional, la Sección o
+el Pleno que hubiere emitido el fallo, pondrá en conocimiento de la Contraloría Interna
+correspondiente los hechos, a fin de ésta determine la responsabilidad del funcionario
+responsable del incumplimiento.
+
+A petición de parte, el afectado podrá ocurrir en queja ante la Sala Regional, la Sección o el
+Pleno que la dictó, de acuerdo con las reglas siguientes:
+a)
+
+Procederá en contra de los siguientes actos:
+1.- La resolución que repita indebidamente la resolución anulada o la que incurra en
+exceso o en defecto, cuando se dicte pretendiendo acatar una sentencia.
+2.- La resolución definitiva emitida y notificada después de concluido el plazo establecido
+por los artículos 52 y 57, fracción I, inciso b) de esta Ley, cuando se trate de una
+sentencia dictada con base en las fracciones II y III del artículo 51 de la propia ley, que
+obligó a la autoridad demandada a iniciar un procedimiento o a emitir una nueva
+resolución, siempre y cuando se trate de un procedimiento oficioso.
 3.- Cuando la autoridad omita dar cumplimiento a la sentencia.
-4.- Si la autoridad no da cumplimiento a la orden de suspensión definitiva de la ejecución del acto
-impugnado en el juicio contencioso administrativo federal.
+4.- Si la autoridad no da cumplimiento a la orden de suspensión definitiva de la ejecución
+del acto impugnado en el juicio contencioso administrativo federal.
+Reforma DOF 21-05-2024: Derogó del inciso el entonces párrafo segundo
 
-30 de 56
+b)
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+Se interpondrá por escrito acompañado, si la hay, de la resolución motivo de la queja, así
+como de una copia para la autoridad responsable, se presentará ante la Sala Regional, la
+Sección o el Pleno que dictó la sentencia, dentro de los quince días siguientes a aquél en
+que surtió efectos la notificación del acto, resolución o manifestación que la provoca. En el
+supuesto previsto en el inciso anterior, subinciso 3, el quejoso podrá interponer su queja en
+cualquier tiempo, salvo que haya prescrito su derecho.
+En dicho escrito se expresarán las razones por las que se considera que hubo exceso o
+defecto; repetición del acto impugnado o del efecto de éste; que precluyó la oportunidad de
+la autoridad demandada para emitir la resolución definitiva con la que concluya el
+procedimiento ordenado; o bien, que procede el cumplimiento sustituto.
+
+32 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-La queja sólo podrá hacerse valer por una sola vez, con excepción de los supuestos contemplados en
-el subinciso 3, caso en el que se podrá interponer en contra de las resoluciones dictadas en cumplimiento
-a esta instancia.
-b) Se interpondrá por escrito acompañado, si la hay, de la resolución motivo de la queja, así como de
-una copia para la autoridad responsable, se presentará ante la Sala Regional, la Sección o el Pleno que
-dictó la sentencia, dentro de los quince días siguientes a aquél en que surtió efectos la notificación del
-acto, resolución o manifestación que la provoca. En el supuesto previsto en el inciso anterior, subinciso 3,
-el quejoso podrá interponer su queja en cualquier tiempo, salvo que haya prescrito su derecho.
-En dicho escrito se expresarán las razones por las que se considera que hubo exceso o defecto;
-repetición del acto impugnado o del efecto de éste; que precluyó la oportunidad de la autoridad
-demandada para emitir la resolución definitiva con la que concluya el procedimiento ordenado; o bien,
-que procede el cumplimiento sustituto.
-El Magistrado Instructor o el Presidente de la Sección o el Presidente del Tribunal, en su caso,
-ordenarán a la autoridad a quien se impute el incumplimiento, que rinda informe dentro del plazo de cinco
-días en el que justificará el acto que provocó la queja. Vencido el plazo mencionado, con informe o sin él,
-se dará cuenta a la Sala Regional, la Sección o el Pleno que corresponda, la que resolverá dentro de los
-cinco días siguientes.
-c) En caso de repetición de la resolución anulada, la Sala Regional, la Sección o el Pleno hará la
-declaratoria correspondiente, anulando la resolución repetida y la notificará a la autoridad responsable de
-la repetición, previniéndole se abstenga de incurrir en nuevas repeticiones.
-Además, al resolver la queja, la Sala Regional, la Sección o el Pleno impondrá la multa y ordenará se
-envíe el informe al superior jerárquico, establecidos por la fracción I, inciso a) de este artículo.
-d) Si la Sala Regional, la Sección o el Pleno resuelve que hubo exceso o defecto en el cumplimiento,
-dejará sin efectos la resolución que provocó la queja y concederá a la autoridad demandada veinte días
-para que dé el cumplimiento debido al fallo, precisando la forma y términos conforme a los cuales deberá
-cumplir.
-e) Si la Sala Regional, la Sección o el Pleno comprueba que la resolución a que se refiere el inciso a),
-subinciso 2 de esta fracción, se emitió después de concluido el plazo legal, anulará ésta, declarando la
-preclusión de la oportunidad de la autoridad demandada para dictarla y ordenará se comunique esta
-circunstancia al superior jerárquico de ésta.
-f) En el supuesto comprobado y justificado de imposibilidad de cumplir con la sentencia, la Sala
-Regional, la Sección o el Pleno declarará procedente el cumplimiento sustituto y ordenará instruir el
-incidente respectivo, aplicando para ello, en forma supletoria, el Código Federal de Procedimientos
-Civiles.
-g) Durante el trámite de la queja se suspenderá el procedimiento administrativo de ejecución que en
-su caso existiere.
-III. Tratándose del incumplimiento de la resolución que conceda la suspensión de la ejecución del acto
-impugnado o alguna otra de las medidas cautelares previstas en esta Ley, procederá la queja mediante
-escrito interpuesto en cualquier momento hasta antes de que se dicte sentencia definitiva ante el
-Magistrado Instructor.
+El Magistrado Instructor o el Presidente de la Sección o el Presidente del Tribunal, en su
+caso, ordenarán a la autoridad a quien se impute el incumplimiento, que rinda informe dentro
+del plazo de cinco días en el que justificará el acto que provocó la queja. Vencido el plazo
+mencionado, con informe o sin él, se dará cuenta a la Sala Regional, la Sección o el Pleno
+que corresponda, la que resolverá dentro de los cinco días siguientes.
+c)
 
-31 de 56
+En caso de repetición de la resolución anulada, la Sala Regional, la Sección o el Pleno hará
+la declaratoria correspondiente, anulando la resolución repetida y la notificará a la autoridad
+responsable de la repetición, previniéndole se abstenga de incurrir en nuevas repeticiones.
+Además, al resolver la queja, la Sala Regional, la Sección o el Pleno impondrá la multa y
+ordenará se envíe el informe al superior jerárquico, establecidos por la fracción I, inciso a) de
+este artículo.
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+III.
+
+d)
+
+Si la Sala Regional, la Sección o el Pleno resuelve que hubo exceso o defecto en el
+cumplimiento, dejará sin efectos la resolución que provocó la queja y concederá a la
+autoridad demandada veinte días para que dé el cumplimiento debido al fallo, precisando la
+forma y términos conforme a los cuales deberá cumplir.
+
+e)
+
+Si la Sala Regional, la Sección o el Pleno comprueba que la resolución a que se refiere el
+inciso a), subinciso 2 de esta fracción, se emitió después de concluido el plazo legal, anulará
+ésta, declarando la preclusión de la oportunidad de la autoridad demandada para dictarla y
+ordenará se comunique esta circunstancia al superior jerárquico de ésta.
+
+f)
+
+En el supuesto comprobado y justificado de imposibilidad de cumplir con la sentencia, la
+Sala Regional, la Sección o el Pleno declarará procedente el cumplimiento sustituto y
+ordenará instruir el incidente respectivo, aplicando para ello, en forma supletoria, el Código
+Federal de Procedimientos Civiles.
+
+g)
+
+Durante el trámite de la queja se suspenderá el procedimiento administrativo de ejecución
+que en su caso existiere.
+
+Tratándose del incumplimiento de la resolución que conceda la suspensión de la ejecución del
+acto impugnado o alguna otra de las medidas cautelares previstas en esta Ley, procederá la
+queja mediante escrito interpuesto en cualquier momento hasta antes de que se dicte sentencia
+definitiva ante el Magistrado Instructor.
+En el escrito en que se interponga la queja se expresarán los hechos por los que se considera
+que se ha dado el incumplimiento y en su caso, se acompañarán los documentos en que consten
+las actuaciones de la autoridad que pretenda vulnerar la suspensión o la medida cautelar
+otorgada.
+El Magistrado pedirá un informe a quien se impute el incumplimiento, que deberá rendir dentro
+del plazo de cinco días, en el que, en su caso, se justificará el acto o la omisión que provocó la
+queja. Vencido dicho plazo, con informe o sin él, el Magistrado dará cuenta a la Sala, la que
+resolverá en un plazo máximo de cinco días.
+Si la Sala resuelve que hubo incumplimiento, declarará la nulidad de las actuaciones realizadas
+en violación a la suspensión o de otra medida cautelar otorgada.
+La resolución a que se refiere esta fracción se notificará también al superior jerárquico del
+servidor público responsable, entendiéndose por este último al que incumpla con lo resuelto, para
+
+33 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-En el escrito en que se interponga la queja se expresarán los hechos por los que se considera que se
-ha dado el incumplimiento y en su caso, se acompañarán los documentos en que consten las
-actuaciones de la autoridad que pretenda vulnerar la suspensión o la medida cautelar otorgada.
-El Magistrado pedirá un informe a quien se impute el incumplimiento, que deberá rendir dentro del
-plazo de cinco días, en el que, en su caso, se justificará el acto o la omisión que provocó la queja.
-Vencido dicho plazo, con informe o sin él, el Magistrado dará cuenta a la Sala, la que resolverá en un
-plazo máximo de cinco días.
-Si la Sala resuelve que hubo incumplimiento, declarará la nulidad de las actuaciones realizadas en
-violación a la suspensión o de otra medida cautelar otorgada.
-La resolución a que se refiere esta fracción se notificará también al superior jerárquico del servidor
-público responsable, entendiéndose por este último al que incumpla con lo resuelto, para que proceda
-jerárquicamente y la Sala impondrá al responsable o autoridad renuente, una multa equivalente a un
-mínimo de treinta días de su salario, sin exceder del equivalente a sesenta días del mismo, tomando en
-cuenta la gravedad del incumplimiento, el sueldo del servidor público de que se trate y su nivel jerárquico.
-También se tomará en cuenta para imponer la sanción, las consecuencias que el no acatamiento de la
-resolución hubiera ocasionado, cuando el afectado lo señale, caso en que el solicitante tendrá derecho a
-una indemnización por daños y perjuicios, la que, en su caso, correrá a cargo de la unidad administrativa
-en la que preste sus servicios el servidor público de que se trate, en los términos en que se resuelva la
-queja.
+que proceda jerárquicamente y la Sala impondrá al responsable o autoridad renuente, una multa
+equivalente a un mínimo de treinta días de su salario, sin exceder del equivalente a sesenta días
+del mismo, tomando en cuenta la gravedad del incumplimiento, el sueldo del servidor público de
+que se trate y su nivel jerárquico.
+También se tomará en cuenta para imponer la sanción, las consecuencias que el no acatamiento
+de la resolución hubiera ocasionado, cuando el afectado lo señale, caso en que el solicitante
+tendrá derecho a una indemnización por daños y perjuicios, la que, en su caso, correrá a cargo
+de la unidad administrativa en la que preste sus servicios el servidor público de que se trate, en
+los términos en que se resuelva la queja.
 Fracción reformada DOF 10-12-2010
 
 IV. A quien promueva una queja notoriamente improcedente, entendiendo por ésta la que se
-interponga contra actos que no constituyan resolución administrativa definitiva, se le impondrá una multa
-en monto equivalente a entre doscientas cincuenta y seiscientas veces el salario mínimo general diario
-vigente en el Distrito Federal y, en caso de haberse suspendido la ejecución, se considerará este hecho
-como agravante para graduar la sanción que en definitiva se imponga.
-Existiendo resolución administrativa definitiva, si la Sala Regional, la Sección o el Pleno consideran
-que la queja es improcedente, prevendrán al promovente para que dentro de los cuarenta y cinco días
-siguientes a aquél en que surta efectos la notificación del auto respectivo, la presente como demanda,
-cumpliendo los requisitos previstos por los artículos 14 y 15 de esta Ley, ante la misma Sala Regional
-que conoció del primer juicio, la que será turnada al mismo Magistrado Instructor de la queja.
+interponga contra actos que no constituyan resolución administrativa definitiva, se le impondrá
+una multa en monto equivalente a entre doscientas cincuenta y seiscientas veces el salario
+mínimo general diario vigente en el Distrito Federal y, en caso de haberse suspendido la
+ejecución, se considerará este hecho como agravante para graduar la sanción que en definitiva
+se imponga.
+Existiendo resolución administrativa definitiva, si el Magistrado Instructor, la Sala Regional, la Sección
+o el Pleno consideran que la queja es improcedente, porque se plantean cuestiones novedosas que no
+fueron materia de la sentencia, prevendrán al promovente para que presente su demanda dentro de los
+treinta días siguientes a aquél en que surta efectos la notificación del auto respectivo, reuniendo los
+requisitos legales, en la vía correspondiente, ante la misma Sala Regional que conoció del primer juicio,
+la que será turnada al mismo Magistrado Instructor de la queja. No deberá ordenarse el trámite de un
+juicio nuevo si la queja es improcedente por la falta de un requisito procesal para su interposición.
+Párrafo reformado DOF 13-06-2016
 
 CAPÍTULO X
 Del Juicio en Línea
@@ -1802,17 +2102,6 @@ Artículo adicionado DOF 12-06-2009
 ARTÍCULO 58-B.- Cuando el demandante ejerza su derecho a presentar su demanda en línea a
 través del Sistema de Justicia en Línea del Tribunal, las autoridades demandadas deberán comparecer y
 tramitar el juicio en la misma vía.
-
-32 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Si el demandante no señala expresamente su Dirección de Correo Electrónico, se tramitará el Juicio
 en la vía tradicional y el acuerdo correspondiente se notificará por lista y en el Boletín Procesal del
 Tribunal.
@@ -1821,6 +2110,17 @@ Artículo adicionado DOF 12-06-2009
 ARTÍCULO 58-C.- Cuando la demandante sea una autoridad, el particular demandado, al contestar la
 demanda, tendrá derecho a ejercer su opción para que el juicio se tramite y resuelva en línea conforme a
 las disposiciones de este Capítulo, señalando para ello su domicilio y Dirección de Correo Electrónico.
+
+34 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 A fin de emplazar al particular demandado, el Secretario de Acuerdos que corresponda, imprimirá y
 certificará la demanda y sus anexos que se notificarán de manera personal.
 Si el particular rechaza tramitar el juicio en línea contestará la demanda mediante el Juicio en la vía
@@ -1862,26 +2162,26 @@ instrumentos, les serán atribuibles y no admitirán prueba en contrario, salvo 
 Sistema de Justicia en Línea.
 Artículo adicionado DOF 12-06-2009
 
-33 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 ARTÍCULO 58-I.- Una vez recibida por vía electrónica cualquier promoción de las partes, el Sistema
 de Justicia en Línea del Tribunal emitirá el Acuse de Recibo Electrónico correspondiente, señalando la
 fecha y la hora de recibido.
 Artículo adicionado DOF 12-06-2009
 
-ARTÍCULO 58-J.- Cualquier actuación en el Juicio en Línea se efectuará a través del Sistema de
-Justicia en Línea del Tribunal en términos del presente Capítulo. Dichas actuaciones serán validadas con
-las firmas electrónicas y firmas digitales de los Magistrados y Secretarios de Acuerdos que den fe según
+ARTÍCULO 58-J. Cualquier actuación en el Juicio en Línea se efectuará a través del Sistema de
+Justicia en Línea del Tribunal en términos del presente capítulo. Dichas actuaciones serán validadas con
+las firmas electrónicas avanzadas de los Magistrados y Secretarios de Acuerdos que den fe según
 corresponda.
-Artículo adicionado DOF 12-06-2009
+Artículo adicionado DOF 12-06-2009. Reformado DOF 13-06-2016
+
+35 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 ARTÍCULO 58-K.- Los documentos que las partes ofrezcan como prueba, incluido el expediente
 administrativo a que se refiere el artículo 14, fracción V, de esta Ley, deberán exhibirlos de forma legible
@@ -1921,16 +2221,6 @@ documentación electrónica, a fin de que se integre el expediente del tercero e
 tradicional.
 Artículo adicionado DOF 12-06-2009
 
-34 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 ARTÍCULO 58-N.- Las notificaciones que se practiquen dentro del juicio en línea, se efectuarán
 conforme a lo siguiente:
 I.- Todas las actuaciones y resoluciones que conforme a las disposiciones de esta Ley deban
@@ -1938,6 +2228,17 @@ notificarse en forma personal, mediante correo certificado con acuse de recibo, 
 realizar a través del Sistema de Justicia en Línea del Tribunal.
 II.- El actuario deberá elaborar la minuta electrónica en la que precise la actuación o resolución a
 notificar, así como los documentos que se adjunten a la misma. Dicha minuta, que contendrá la Firma
+
+36 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Electrónica Avanzada del actuario, será ingresada al Sistema de Justicia en Línea del Tribunal junto con
 la actuación o resolución respectiva y los documentos adjuntos.
 III.- El actuario enviará a la Dirección de Correo Electrónico de la o las partes a notificar, un aviso
@@ -1976,16 +2277,6 @@ notificaciones que deben hacerse, incluyendo el emplazamiento, se harán a trav�
 hasta que se cumpla con dicha formalidad.
 Artículo adicionado DOF 12-06-2009
 
-35 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 ARTÍCULO 58-Q.- Para la presentación y trámite de los recursos de revisión y juicios de amparo que
 se promuevan contra las actuaciones y resoluciones derivadas del Juicio en Línea, no será aplicable lo
 dispuesto en el presente Capítulo.
@@ -1994,6 +2285,17 @@ de Acuerdos de Sala Superior y de Salas Regionales según corresponda, deberán 
 Expediente Electrónico y certificar las constancias del juicio que deban ser remitidos a los Juzgados de
 Distrito y Tribunales Colegiados de Circuito, cuando se impugnen resoluciones de los juicios
 correspondientes a su mesa.
+
+37 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Sin perjuicio de lo anterior, en aquellos casos en que así lo solicite el Juzgado de Distrito o el Tribunal
 Colegiado se podrá remitir la información a través de medios electrónicos.
 Artículo adicionado DOF 12-06-2009
@@ -2031,21 +2333,12 @@ sumaria, de conformidad con las disposiciones específicas que para su simplific
 establecen en este Capítulo y, en lo no previsto, se aplicarán las demás disposiciones de esta Ley.
 Artículo adicionado DOF 10-12-2010
 
-ARTÍCULO 58-2. Cuando se impugnen resoluciones definitivas cuyo importe no exceda de cinco
+ARTÍCULO 58-2. Cuando se impugnen resoluciones definitivas cuyo importe no exceda de quince
 veces el salario mínimo general vigente en el Distrito Federal elevado al año al momento de su emisión,
-
-36 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 procederá el Juicio en la vía Sumaria siempre que se trate de alguna de las resoluciones definitivas
 siguientes:
+Párrafo reformado DOF 13-06-2016
+
 I.
 
 Las dictadas por autoridades fiscales federales y organismos fiscales autónomos, por las que se
@@ -2055,6 +2348,16 @@ II.
 
 Las que únicamente impongan multas o sanciones, pecuniaria o restitutoria, por infracción a las
 normas administrativas federales;
+
+38 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 III.
 
@@ -2069,17 +2372,23 @@ V.
 Las recaídas a un recurso administrativo, cuando la recurrida sea alguna de las consideradas en
 los incisos anteriores y el importe de esta última, no exceda el antes señalado.
 
-También procederá el Juicio en la vía Sumaria cuando se impugnen resoluciones definitivas que se
-dicten en violación a una tesis de jurisprudencia de la Suprema Corte de Justicia de la Nación en materia
-de inconstitucionalidad de Leyes, o a una jurisprudencia del Pleno de la Sala Superior del Tribunal
-Federal de Justicia Fiscal y Administrativa.
-Para determinar la cuantía en los casos de los incisos I), III) y V), sólo se considerará el crédito
+Para determinar la cuantía en los casos en los incisos I), III), y V), sólo se considerará el crédito
 principal sin accesorios ni actualizaciones. Cuando en un mismo acto se contenga más de una resolución
 de las mencionadas anteriormente no se acumulará el monto de cada una de ellas para efectos de
 determinar la procedencia de esta vía.
-La demanda deberá presentarse dentro de los quince días siguientes a aquél en que surta efectos la
+Párrafo reformado DOF 13-06-2016
+
+La demanda deberá presentarse dentro de los treinta días siguientes a aquél en que surta efectos la
 notificación de la resolución impugnada, de conformidad con las disposiciones de esta Ley ante la Sala
 Regional competente.
+Párrafo reformado DOF 13-06-2016
+
+La interposición del juicio en la vía incorrecta no genera el desechamiento, improcedencia o
+sobreseimiento. En todos los casos, y en cualquier fase del procedimiento, mientras no haya quedado
+cerrada la instrucción, el Magistrado Instructor debe reconducir el juicio en la vía correcta, debiendo
+realizar las regularizaciones que correspondan, siempre y cuando no impliquen repetir alguna promoción
+de las partes.
+Párrafo reformado DOF 13-06-2016
 Artículo adicionado DOF 10-12-2010
 
 ARTÍCULO 58-3. La tramitación del Juicio en la vía Sumaria será improcedente cuando:
@@ -2106,21 +2415,21 @@ alguna otra carga u obligación, o
 
 VI. El oferente de una prueba testimonial, no pueda presentar a las personas señaladas como
 testigos.
-
-37 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 En estos casos el Magistrado Instructor, antes de resolver sobre la admisión de la demanda,
 determinará la improcedencia de la vía sumaria y ordenará que el juicio se siga conforme a las demás
 disposiciones de esta Ley y emplazará a las otras partes, en el plazo previsto por los artículos 18 y 19 de
 la misma, según se trate.
+
+39 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Contra la determinación de improcedencia de la vía sumaria, podrá interponerse el recurso de
 reclamación ante la Sala Regional en que se encuentre radicado el juicio, en el plazo previsto por el
 artículo 58-8 de esta Ley.
@@ -2161,23 +2470,22 @@ tuvo por presentada la contestación de la demanda o, en su caso, la contestaci�
 El incidente de incompetencia sólo procederá en esta vía cuando sea hecho valer por la parte
 demandada o por el tercero, por lo que la Sala Regional en que se radique el juicio no podrá declararse
 incompetente ni enviarlo a otra diversa.
-
-38 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 El incidente de acumulación sólo podrá plantearse respecto de expedientes que se encuentren
 tramitando en esta misma vía.
 Los incidentes de nulidad de notificaciones y de recusación de perito, se deberán interponer dentro del
 plazo de tres días siguientes a aquél en que se conoció del hecho o se tuvo por designado al perito,
 respectivamente, y la contraparte deberá contestar la vista en igual término.
 Artículo adicionado DOF 10-12-2010
+
+40 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
 
 ARTÍCULO 58-8. Los recursos de reclamación a que se refieren los artículos 59 y 62 de esta Ley,
 deberán interponerse dentro del plazo de cinco días siguientes a aquél en que surta efectos la
@@ -2209,11 +2517,18 @@ ARTÍCULO 58-12. En la fecha fijada para el cierre de instrucción el Magistrado
 verificar si el expediente se encuentra debidamente integrado, supuesto en el que deberá declarar
 cerrada la instrucción; en caso contrario, fijará nueva fecha para el cierre de instrucción, dentro de un
 plazo máximo de diez días.
+En el momento en que el Magistrado Instructor advierta que el expediente se encuentra debidamente
+integrado, otorgará a las partes un término de tres días para que formulen alegatos, quedando cerrada la
+instrucción una vez fenecido dicho plazo, con o sin la presentación de dichos alegatos.
+Párrafo adicionado DOF 13-06-2016
 Artículo adicionado DOF 10-12-2010
 
 ARTÍCULO 58-13. Una vez cerrada la instrucción, el Magistrado pronunciará sentencia dentro de los
-diez días siguientes.
-Artículo adicionado DOF 10-12-2010
+diez días siguientes, salvo en los casos en que se haya ejercido facultad de atracción, o se actualice la
+competencia especial de la Sala Superior, supuestos en los cuales, deberá estarse a lo dispuesto por el
+artículo 48, fracción II, inciso d), de esta Ley, a efecto de que sea resuelto por el Pleno o la Sección
+respectiva, con los plazos y las reglas correspondientes a ello, de conformidad con esta Ley.
+Artículo adicionado DOF 10-12-2010. Reformado DOF 13-06-2016
 
 ARTÍCULO 58-14. Si la sentencia ordena la reposición del procedimiento administrativo o realizar un
 determinado acto, la autoridad deberá cumplirla en un plazo que no exceda de un mes contado a partir
@@ -2222,28 +2537,371 @@ Artículo adicionado DOF 10-12-2010
 
 ARTÍCULO 58-15. A falta de disposición expresa que establezca el plazo respectivo en la vía sumaria,
 se aplicará el de tres días.
-Artículo adicionado DOF 10-12-2010
 
-39 de 56
+41 de 69
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+Artículo adicionado DOF 10-12-2010
+
+CAPÍTULO XII
+Del Juicio de Resolución Exclusiva de Fondo
+Capítulo adicionado DOF 27-01-2017
+
+ARTÍCULO 58-16. El juicio de resolución exclusiva de fondo se tramitará a petición del actor, de
+conformidad con las disposiciones que se establecen en este Capítulo y, en lo no previsto, se aplicarán
+las demás disposiciones que regulan el juicio contencioso administrativo federal.
+En el juicio de resolución exclusiva de fondo se observarán especialmente los principios de oralidad y
+celeridad.
+Artículo adicionado DOF 27-01-2017
+
+ARTÍCULO 58-17. El Tribunal determinará las Salas Regionales Especializadas en materia del juicio
+de resolución exclusiva de fondo, el cual versará únicamente sobre la impugnación de resoluciones
+definitivas que deriven del ejercicio de las facultades de comprobación a que se refiere el artículo 42,
+fracciones II, III o IX del Código Fiscal de la Federación y la cuantía del asunto sea mayor a doscientas
+veces la Unidad de Medida y Actualización, elevada al año, vigente al momento de emisión de la
+resolución combatida.
+El juicio de resolución exclusiva de fondo no será procedente cuando se haya interpuesto recurso
+administrativo en contra de las resoluciones señaladas en el párrafo anterior, y dicho recurso haya sido
+desechado, sobreseído o se tenga por no presentado.
+El demandante sólo podrá hacer valer conceptos de impugnación que tengan por objeto resolver
+exclusivamente sobre el fondo de la controversia que se plantea, sin que obste para ello que la resolución
+que se controvierta se encuentre motivada en el incumplimiento total o parcial de requisitos
+exclusivamente formales o de procedimiento establecidos en las disposiciones jurídicas aplicables;
+siempre que el demandante acredite que no se produjo omisión en el pago de contribuciones.
+Para efectos del juicio de resolución exclusiva de fondo se entenderá por concepto de impugnación
+cuyo objeto sea resolver exclusivamente sobre el fondo de la controversia, entre otros, aquéllos que
+referidos al sujeto, objeto, base, tasa o tarifa de las obligaciones revisadas, pretendan controvertir alguno
+de los siguientes supuestos:
+I.
+
+Los hechos u omisiones calificados en la resolución impugnada como constitutivos de
+incumplimiento de las obligaciones revisadas.
+
+II.
+
+La aplicación o interpretación de las normas involucradas.
+
+III.
+
+Los efectos que haya atribuido la autoridad emisora al incumplimiento total o parcial de requisitos
+formales o de procedimiento que impacten o trasciendan al fondo de la controversia.
+
+IV. La valoración o falta de apreciación de las pruebas relacionadas con los supuestos mencionados
+en las fracciones anteriores.
+En ningún caso el juicio de resolución exclusiva de fondo podrá tramitarse a través del juicio en la vía
+tradicional, sumaria o en línea, regulados en la presente Ley. Una vez que el demandante haya optado
+por el juicio regulado en el presente Capítulo, no podrá variar su elección.
+Artículo adicionado DOF 27-01-2017
+
+42 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+ARTÍCULO 58-18. La demanda deberá contener, adicional a lo señalado en el artículo 14 de esta Ley,
+lo siguiente:
+I.
+
+La manifestación expresa de que se opta por el juicio de resolución exclusiva de fondo.
+
+II.
+
+La expresión breve y concreta de la controversia de fondo que se plantea, así como el
+señalamiento expreso de cuál es la propuesta de litis.
+
+III.
+
+El señalamiento respecto del origen de la controversia, especificando si ésta deriva de:
+a)
+
+La forma en que se apreciaron los hechos u omisiones revisados;
+
+b)
+
+La interpretación o aplicación de las normas involucradas;
+
+c)
+
+Los efectos que se atribuyeron al incumplimiento total, parcial o extemporáneo, de los
+requisitos formales o de procedimiento que impactan o trasciendan al fondo de la
+controversia, o
+
+d)
+
+Si cualquiera de los supuestos anteriores son coincidentes.
+
+IV). Los conceptos de impugnación que se hagan valer en cuanto al fondo del asunto.
+Se deberá adjuntar al escrito de demanda el documento que contenga el acto impugnado y su
+constancia de notificación, así como las pruebas que se ofrezcan, relacionándolas expresamente en su
+escrito de demanda con lo que se pretenda acreditar, incluyendo el dictamen pericial que, en su caso, se
+ofrezca.
+Cuando se omita alguno de los requisitos señalados en el presente artículo, se requerirá al
+demandante para que lo subsane dentro del término de cinco días, apercibiéndolo que, de no hacerlo en
+tiempo, se desechará la demanda.
+Artículo adicionado DOF 27-01-2017
+
+ARTÍCULO 58-19. El Magistrado Instructor determinará la procedencia del juicio de resolución
+exclusiva de fondo considerando lo siguiente:
+I.
+
+Analizará, en primer término, si se cumplen los requisitos señalados en el presente Capítulo.
+
+II.
+
+En su caso, una vez cumplido el requerimiento a que se refiere el último párrafo del artículo 58-18
+de la presente Ley, si advierte que los conceptos de impugnación planteados en la demanda
+incluyen argumentos de forma o de procedimiento, éstos se tendrán por no formulados y sólo se
+atenderán a los argumentos que versen sobre el fondo de la controversia.
+
+III.
+
+Cuando advierta que en la demanda sólo se plantean conceptos de impugnación relativos a
+cuestiones de forma o procedimiento, y no a cuestiones relativas al fondo de la controversia, se
+remitirá a la Oficialía de Partes Común para que lo ingrese como juicio en la vía tradicional,
+tomando en cuenta la fecha de presentación de la demanda.
+
+El juicio de resolución exclusiva de fondo no procederá cuando la demanda se promueva en los
+términos del artículo 16 de esta Ley.
+Si el Magistrado Instructor admite la demanda, ordenará suspender de plano la ejecución del acto
+impugnado, sin necesidad de que el demandante garantice el interés fiscal. La suspensión así concedida
+operará hasta que se dicte la resolución que ponga fin al juicio exclusivo de fondo, sin perjuicio de los
+
+43 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+requisitos que para la suspensión establezcan las leyes que rijan los medios de impugnación que
+procedan contra la sentencia dictada en el mismo.
+Artículo adicionado DOF 27-01-2017
+
+ARTÍCULO 58-20. Si el Magistrado Instructor determina que la demanda no cumple con lo señalado
+en el artículo 58-18 de la presente Ley y, en consecuencia, resuelve desecharla, procederá el recurso de
+reclamación en términos del artículo 59 de esta Ley, mismo que deberá presentarse ante el Magistrado
+Instructor en un plazo de diez días contados a partir de que surta efectos la notificación del acuerdo de
+desechamiento; una vez presentado, se ordenará correr traslado a la contraparte para que en el término
+de cinco días exprese lo que a su derecho convenga y sin más trámite la Sala lo resolverá de plano en un
+plazo de cinco días.
+Artículo adicionado DOF 27-01-2017
+
+ARTÍCULO 58-21. El demandante podrá ampliar la demanda, únicamente cuando se actualice el
+supuesto previsto en la fracción IV del artículo 17 de esta Ley, en el plazo de diez días siguientes a aquél
+en que surta efectos la notificación del auto que tenga por presentada la contestación, y en su escrito
+deberán señalar con precisión cuál es la propuesta de litis de la controversia en la ampliación.
+La autoridad, al contestar la demanda y, en su caso, la ampliación de demanda, deberá señalar si
+coincide o no con la propuesta de litis del juicio, expresando en este último caso, cuál es su propuesta.
+Artículo adicionado DOF 27-01-2017
+
+ARTÍCULO 58-22. Recibida la contestación de la demanda y, en su caso, la contestación a la
+ampliación de la misma, el Magistrado Instructor citará a las partes para audiencia de fijación de litis, la
+que se desahogará sin excepción de manera oral dentro de los veinte días siguientes a la recepción de la
+contestación respectiva. El Magistrado Instructor expondrá de forma breve en qué consiste la
+controversia planteada por las partes, quienes manifestarán lo que a su derecho convenga, ajustándose
+a lo manifestado en la demanda, su ampliación o su contestación.
+La audiencia de fijación de litis deberá ser desahogada, sin excepción, ante la presencia del
+Magistrado Instructor quien podrá auxiliarse del Secretario de Acuerdos para que levante acta
+circunstanciada de la diligencia. Las partes podrán acudir personalmente o por conducto de sus
+autorizados legales. Los demás Magistrados integrantes de la Sala podrán acudir a la audiencia de
+fijación de litis. Cuando estando debidamente notificadas las partes, en términos de los artículos 67 y 68
+de esta Ley, alguna no acuda a la audiencia de fijación de litis, ésta se llevará a cabo con la parte que
+esté presente.
+Quedará al prudente arbitrio del Magistrado Instructor, la regulación del tiempo que tengan las partes
+para exponer los motivos por los que estiman les asiste la razón, considerando estrictamente el principio
+de celeridad que rige esta vía.
+Cuando alguna de las partes no acuda a la audiencia de fijación de litis se entenderá que consiente
+los términos en que la misma quedó fijada por el Magistrado Instructor, precluyendo además su derecho
+para formular cualquier alegato posterior en el juicio, ya sea en forma verbal o escrita.
+En el caso de que se haya acordado procedente la atracción del juicio por la Sala Superior, el
+Magistrado Instructor reservará la celebración de las actuaciones previstas en el artículo 58-26, primer
+párrafo de esta Ley, para que éstas se lleven a cabo ante el Magistrado ponente que corresponda.
+Una vez celebrada la audiencia de fijación de litis, el Magistrado Instructor notificará a las partes el
+acuerdo a que se refiere el artículo 47 de esta Ley, salvo en los casos establecidos en el párrafo anterior.
+Artículo adicionado DOF 27-01-2017
+
+44 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+ARTÍCULO 58-23. En caso de que durante la tramitación del juicio de resolución exclusiva de fondo,
+alguna de las partes solicite una audiencia privada con el Magistrado Instructor o con alguno de los
+Magistrados de la Sala Especializada, ésta deberá celebrarse invariablemente con la presencia de su
+contraparte; cuando estando debidamente notificadas las partes, en términos de los artículos 67 y 68 de
+esta Ley, alguna no acuda a la audiencia privada, ésta se llevará a cabo con la parte que esté presente.
+Artículo adicionado DOF 27-01-2017
+
+ARTÍCULO 58-24. En el juicio de resolución exclusiva de fondo, serán admisibles únicamente las
+pruebas que hubieren sido ofrecidas y exhibidas, en:
+I.
+
+El procedimiento de comprobación del que derive el acto impugnado;
+
+II.
+
+El procedimiento de Acuerdos Conclusivos regulado en el Código Fiscal de la Federación, o
+
+III.
+
+El recurso administrativo correspondiente.
+Artículo adicionado DOF 27-01-2017
+
+ARTÍCULO 58-25. El desahogo de la prueba pericial en los términos del presente Capítulo, se llevará
+a cabo mediante la exhibición del documento que contenga el dictamen correspondiente, el cual deberá
+adjuntarse a la demanda, a la ampliación o a su contestación. El Magistrado Instructor tendrá la más
+amplia facultad para valorar no sólo la idoneidad y el alcance de los dictámenes exhibidos, sino también
+la idoneidad del perito que lo emite.
+El Magistrado Instructor, bajo su consideración decidirá si es necesario citar a los peritos que rindieron
+los dictámenes a fin de que en una audiencia especial, misma que se desahogará en forma oral,
+respondan las dudas o cuestionamientos que aquél les formule; para tal efecto las partes deberán ser
+notificadas en un plazo mínimo de cinco días anteriores a la fecha fijada para dicha audiencia. El
+Secretario de Acuerdos auxiliará en la diligencia y levantará el acta respectiva.
+Las partes podrán acudir a la audiencia a que se refiere el párrafo anterior para efectos de ampliar el
+cuestionario respecto del cual se rindió el dictamen pericial, así como para formular repreguntas al perito.
+Desahogada la audiencia, el Magistrado Instructor podrá designar a un perito tercero, cuando a su
+juicio ninguno de los dictámenes periciales rendidos en el juicio le proporcione elementos de convicción
+suficientes, o bien, si éstos son contradictorios. El dictamen del perito tercero deberá versar
+exclusivamente sobre los puntos de discrepancia de los dictámenes de los peritos de las partes.
+Los dictámenes periciales serán valorados por el Magistrado Instructor atendiendo a la litis fijada en la
+audiencia correspondiente.
+La valoración del dictamen pericial atenderá únicamente a razones técnicas referentes al área de
+especialidad de los peritos. El valor de la prueba pericial quedará a la prudente apreciación del
+Magistrado Instructor, atendiendo siempre al principio de proporcionalidad.
+Artículo adicionado DOF 27-01-2017
+
+ARTÍCULO 58-26. Celebrada la audiencia de fijación de litis, desahogadas las pruebas que procedan
+y formulados los alegatos, quedará cerrada la instrucción del juicio de resolución exclusiva de fondo, sin
+necesidad de una declaratoria expresa, y a partir del día siguiente empezarán a computarse los plazos
+previstos en el artículo 49 de esta Ley para dictar sentencia; lo anterior no aplicará para efectos de lo
+previsto en el artículo 58-22, sexto párrafo de la presente Ley.
+Artículo adicionado DOF 27-01-2017
+
+45 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+ARTÍCULO 58-27. En las sentencias que se dicten en el juicio de resolución exclusiva de fondo se
+declarará la nulidad de la resolución impugnada cuando:
+I.
+
+Los hechos u omisiones que dieron origen a la controversia no se produjeron;
+
+II.
+
+Los hechos u omisiones que dieron origen a la controversia fueron apreciados por la autoridad en
+forma indebida;
+
+III.
+
+Las normas involucradas fueron incorrectamente interpretadas o mal aplicadas en el acto
+impugnado, o
+
+IV. Los efectos atribuidos por la autoridad emisora al incumplimiento total, parcial o extemporáneo,
+de requisitos formales o de procedimiento a cargo del contribuyente resulten excesivos o
+desproporcionados por no haberse producido las hipótesis de causación de las contribuciones
+determinadas.
+Artículo adicionado DOF 27-01-2017
+
+ARTÍCULO 58-28.- La sentencia definitiva podrá:
+I.
+
+Reconocer la validez de la resolución impugnada.
+
+II.
+
+Declarar la nulidad de la resolución impugnada.
+
+III.
+
+En los casos en que la sentencia implique una modificación a la cuantía de la resolución
+administrativa impugnada, la Sala Regional Especializada competente deberá precisar, el monto,
+el alcance y los términos de la misma para su cumplimiento.
+Tratándose de sanciones, cuando dicho Tribunal aprecie que la sanción es excesiva porque no
+se motivó adecuadamente o no se dieron los hechos agravantes de la sanción, deberá reducir el
+importe de la sanción apreciando libremente las circunstancias que dieron lugar a la misma.
+
+IV. Declarar la nulidad de la resolución impugnada y además:
+a)
+
+Reconocer al actor la existencia de un derecho subjetivo y condenar al cumplimiento de la
+obligación correlativa.
+
+b)
+
+Otorgar o restituir al actor en el goce de los derechos afectados.
+
+c)
+
+Declarar la nulidad del acto o resolución administrativa de carácter general, caso en que
+cesarán los efectos de los actos de ejecución que afectan al demandante, inclusive el primer
+acto de aplicación que hubiese impugnado. La declaración de nulidad no tendrá otros
+efectos para el demandante, salvo lo previsto por las leyes de la materia de que se trate.
+
+d)
+
+Reconocer la existencia de un derecho subjetivo y condenar al ente público federal al pago
+de una indemnización por los daños y perjuicios causados por sus servidores públicos.
+
+Las Salas Regionales Especializadas en materia del juicio de resolución exclusiva de fondo podrán
+apartarse de los precedentes establecidos por el Pleno o las Secciones, siempre que en la sentencia
+expresen las razones por las que se apartan de los mismos, debiendo enviar al Presidente del Tribunal
+copia de la sentencia.
+Artículo adicionado DOF 27-01-2017
+
+46 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+ARTÍCULO 58-29. En contra de las sentencias dictadas en el juicio de resolución exclusiva de fondo,
+si éstas no favorecen a la autoridad demandada, podrá interponer el recurso de revisión previsto en el
+artículo 63 de esta Ley.
+Artículo adicionado DOF 27-01-2017
 
 TÍTULO III
 De los Recursos
 CAPÍTULO I
 De la Reclamación
-ARTÍCULO 59.- El recurso de reclamación procederá en contra de las resoluciones del Magistrado
+ARTÍCULO 59. El recurso de reclamación procederá en contra de las resoluciones del Magistrado
 Instructor que admitan, desechen o tengan por no presentada la demanda, la contestación, la ampliación
 de ambas o alguna prueba; las que decreten o nieguen el sobreseimiento del juicio antes del cierre de
 instrucción; aquéllas que admitan o rechacen la intervención del tercero. La reclamación se interpondrá
-ante la Sala o Sección respectiva, dentro de los quince días siguientes a aquél en que surta efectos la
+ante la Sala o Sección respectiva, dentro de los diez días siguientes a aquél en que surta efectos la
 notificación de que se trate.
+Artículo reformado DOF 13-06-2016
+
 ARTÍCULO 60.- Interpuesto el recurso a que se refiere el artículo anterior, se ordenará correr traslado
 a la contraparte por el término de cinco días para que exprese lo que a su derecho convenga y sin más
 trámite dará cuenta a la Sala para que resuelva en el término de cinco días. El magistrado que haya
@@ -2271,80 +2929,122 @@ Artículo reformado DOF 10-12-2010
 
 CAPÍTULO II
 De la Revisión
+
+47 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 ARTÍCULO 63. Las resoluciones emitidas por el Pleno, las Secciones de la Sala Superior o por las
 Salas Regionales que decreten o nieguen el sobreseimiento, las que dicten en términos de los artículos
 34 de la Ley del Servicio de Administración Tributaria y 6° de esta Ley, así como las que se dicten
 conforme a la Ley Federal de Responsabilidad Patrimonial del Estado y las sentencias definitivas que
 emitan, podrán ser impugnadas por la autoridad a través de la unidad administrativa encargada de su
-
-40 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
-defensa jurídica o por la entidad federativa coordinada en ingresos
-interponiendo el recurso de revisión ante el Tribunal Colegiado de Circuito
-Pleno, Sección o Sala Regional a que corresponda, mediante escrito
-responsable, dentro de los quince días siguientes a aquél en que surta
+defensa jurídica o por la entidad federativa coordinada en ingresos federales correspondiente,
+interponiendo el recurso de revisión ante el Tribunal Colegiado de Circuito competente en la sede del
+Pleno, Sección o Sala Regional a que corresponda, mediante escrito que se presente ante la
+responsable, dentro de los quince días siguientes a aquél en que surta sus efectos la notificación
 respectiva, siempre que se refiera a cualquiera de los siguientes supuestos:
+I.
 
-federales correspondiente,
-competente en la sede del
-que se presente ante la
-sus efectos la notificación
-
-I. Sea de cuantía que exceda de tres mil quinientas veces el salario mínimo general diario del área
-geográfica correspondiente al Distrito Federal, vigente al momento de la emisión de la resolución o
-sentencia.
+Sea de cuantía que exceda de tres mil quinientas veces el salario mínimo general diario del
+área geográfica correspondiente al Distrito Federal, vigente al momento de la emisión de la
+resolución o sentencia.
 En el caso de contribuciones que deban determinarse o cubrirse por periodos inferiores a doce
-meses, para determinar la cuantía del asunto se considerará el monto que resulte de dividir el importe de
-la contribución entre el número de meses comprendidos en el periodo que corresponda y multiplicar el
-cociente por doce.
-II. Sea de importancia y trascendencia cuando la cuantía sea inferior a la señalada en la fracción
-primera, o de cuantía indeterminada, debiendo el recurrente razonar esa circunstancia para efectos de la
-admisión del recurso.
-III. Sea una resolución dictada por la Secretaría de Hacienda y Crédito Público, el Servicio de
-Administración Tributaria o por autoridades fiscales de las Entidades Federativas coordinadas en
-ingresos federales y siempre que el asunto se refiera a:
-a) Interpretación de leyes o reglamentos en forma tácita o expresa.
-b) La determinación del alcance de los elementos esenciales de las contribuciones.
-c) Competencia de la autoridad que haya dictado u ordenado la resolución impugnada o tramitado el
-procedimiento del que deriva o al ejercicio de las facultades de comprobación.
-d) Violaciones procesales durante el juicio que afecten las defensas del recurrente y trasciendan al
-sentido del fallo.
-e) Violaciones cometidas en las propias resoluciones o sentencias.
-f) Las que afecten el interés fiscal de la Federación.
-IV. Sea una resolución dictada en materia de la Ley Federal de Responsabilidades Administrativas de
-los Servidores Públicos.
-V. Sea una resolución dictada en materia de comercio exterior.
-VI. Sea una resolución en materia de aportaciones de seguridad social, cuando el asunto verse sobre
-la determinación de sujetos obligados, de conceptos que integren la base de cotización o sobre el grado
-de riesgo de las empresas para los efectos del seguro de riesgos del trabajo o sobre cualquier aspecto
-relacionado con pensiones que otorga el Instituto de Seguridad y Servicios Sociales de los Trabajadores
-del Estado.
-VII. Sea una resolución en la cual, se declare el derecho a la indemnización, o se condene al Servicio
-de Administración Tributaria, en términos del artículo 34 de la Ley del Servicio de Administración
-Tributaria.
+meses, para determinar la cuantía del asunto se considerará el monto que resulte de dividir el
+importe de la contribución entre el número de meses comprendidos en el periodo que
+corresponda y multiplicar el cociente por doce.
 
-41 de 56
+II.
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+Sea de importancia y trascendencia cuando la cuantía sea inferior a la señalada en la fracción
+primera, o de cuantía indeterminada, debiendo el recurrente razonar esa circunstancia para
+efectos de la admisión del recurso.
+
+III.
+
+Sea una resolución dictada por la Secretaría de Hacienda y Crédito Público, el Servicio de
+Administración Tributaria o por autoridades fiscales de las Entidades Federativas coordinadas
+en ingresos federales y siempre que el asunto se refiera a:
+a)
+
+Interpretación de leyes o reglamentos en forma tácita o expresa.
+
+b)
+
+La determinación del alcance de los elementos esenciales de las contribuciones.
+
+c)
+
+Competencia de la autoridad que haya dictado u ordenado la resolución impugnada o
+tramitado el procedimiento del que deriva o al ejercicio de las facultades de
+comprobación.
+
+d)
+
+Violaciones procesales durante el juicio que afecten las defensas del recurrente y
+trasciendan al sentido del fallo.
+
+e)
+
+Violaciones cometidas en las propias resoluciones o sentencias.
+
+f)
+
+Las que afecten el interés fiscal de la Federación.
+
+IV.
+
+Sea una resolución dictada en materia de la Ley Federal de Responsabilidades Administrativas
+de los Servidores Públicos.
+
+V.
+
+Sea una resolución dictada en materia de comercio exterior.
+
+VI.
+
+Sea una resolución en materia de aportaciones de seguridad social, cuando el asunto verse
+sobre la determinación de sujetos obligados, de conceptos que integren la base de cotización o
+sobre el grado de riesgo de las empresas para los efectos del seguro de riesgos del trabajo o
+sobre cualquier aspecto relacionado con pensiones que otorga el Instituto de Seguridad y
+Servicios Sociales de los Trabajadores del Estado.
+
+48 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-VIII. Se resuelva sobre la condenación en costas o indemnización previstas en el artículo 6º de la Ley
-Federal de Procedimiento Contencioso Administrativo.
-IX. Sea una resolución dictada con motivo de las reclamaciones previstas en la Ley Federal de
+VII.
+
+Sea una resolución en la cual, se declare el derecho a la indemnización, o se condene al
+Servicio de Administración Tributaria, en términos del artículo 34 de la Ley del Servicio de
+Administración Tributaria.
+
+VIII. Se resuelva sobre la condenación en costas o indemnización previstas en el artículo 6º de la
+Ley Federal de Procedimiento Contencioso Administrativo.
+IX.
+
+Sea una resolución dictada con motivo de las reclamaciones previstas en la Ley Federal de
 Responsabilidad Patrimonial del Estado.
+
+X.
+
+Que en la sentencia se haya declarado la nulidad, con motivo de la inaplicación de una norma
+general, en ejercicio del control difuso de la constitucionalidad y de la convencionalidad
+realizado por la sala, sección o pleno de la Sala Superior.
+Fracción adicionada DOF 13-06-2016
+
 En los juicios que versen sobre resoluciones de las autoridades fiscales de las entidades federativas
 coordinadas en ingresos federales, el recurso podrá ser interpuesto por el Servicio de Administración
 Tributaria, y por las citadas entidades federativas en los juicios que intervengan como parte.
@@ -2368,37 +3068,59 @@ TÍTULO IV
 Disposiciones Finales
 CAPÍTULO I
 De las Notificaciones
-ARTÍCULO 65. Toda resolución debe notificarse a más tardar el tercer día siguiente a aquél en que el
-expediente haya sido turnado al actuario para ese efecto y se asentará la razón respectiva a continuación
-de la misma resolución.
-Párrafo reformado DOF 12-06-2009, 10-12-2010
+ARTÍCULO 65. Las notificaciones a los particulares y a las autoridades en el juicio deberán realizarse
+por medio del Boletín Jurisdiccional, enviándose previamente un aviso electrónico a su dirección de
+correo electrónico o dirección de correo electrónico institucional según sea el caso, de que se realizará la
+notificación, a más tardar el tercer día siguiente a aquél en que el expediente haya sido turnado al
+actuario para ese efecto. El aviso de notificación deberá ser enviado cuando menos con tres días de
+anticipación a la publicación del acuerdo, resolución o sentencia de que se trate en el Boletín
+Jurisdiccional.
 
-Las notificaciones que se realicen a las autoridades o a personas morales por conducto de su Oficialía
-de Partes u Oficina de recepción, se entenderán legalmente efectuadas cuando en el documento
-correspondiente obre el sello de recibido por tales oficinas.
-Al actuario que sin causa justificada no cumpla con esta obligación, se le impondrá una multa de una
-a tres veces el salario mínimo general de la zona económica correspondiente al Distrito Federal, elevado
-al mes, sin que exceda del 30% de su salario. Será destituido, sin responsabilidad para el Estado, en
-caso de reincidencia.
-ARTÍCULO 66. En las notificaciones, el actuario deberá asentar razón del envío por correo o entrega
-de los oficios de notificación, así como de las notificaciones personales o por Boletín Electrónico. Los
-acuses postales de recibo y las piezas certificadas devueltas se agregarán como constancia al
-expediente.
-Artículo reformado DOF 12-06-2009, 10-12-2010
+49 de 69
 
-42 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-ARTÍCULO 67. Una vez que los particulares se apersonen en el juicio, deberán señalar domicilio para
-recibir notificaciones, en el que se les harán saber, personalmente o por correo certificado con acuse de
-recibo, las siguientes resoluciones:
+Las notificaciones electrónicas a las partes se entenderán realizadas con la sola publicación en el
+Boletín Jurisdiccional, y con independencia del envío, cuando así proceda, de los avisos electrónicos.
+Los particulares y las autoridades, mientras no se haya realizado la notificación por Boletín
+Jurisdiccional, podrán apersonarse en el Tribunal para ser notificados personalmente. Una vez realizada
+la notificación por Boletín Jurisdiccional, las partes, cuando esto proceda, deberán acudir al Tribunal a
+recoger sus traslados de ley, en el entendido de que con o sin la entrega de los traslados, los plazos
+comenzarán a computarse a partir del día siguiente al en que surta efectos la notificación
+correspondiente. El Actuario o el Secretario de Acuerdos, en todos los casos, previo levantamiento de
+razón, entregará los traslados de ley.
+La notificación surtirá sus efectos al tercer día hábil siguiente a aquél en que se haya realizado la
+publicación en el Boletín Jurisdiccional o al día hábil siguiente a aquél en que las partes sean notificadas
+personalmente en las instalaciones designadas por el Tribunal, cuando así proceda, en términos de lo
+establecido por el artículo 67 de esta Ley.
+Dicho aviso deberá incluir el archivo electrónico que contenga el acuerdo y en el caso del
+emplazamiento, el escrito de demanda correspondiente.
+Artículo reformado DOF 12-06-2009, 10-12-2010, 13-06-2016
+
+ARTÍCULO 66. La lista de autos y resoluciones dictados por un Magistrado o Sala, se publicará en el
+Boletín Jurisdiccional.
+En el Boletín Jurisdiccional deberá indicarse la denominación de la Sala y ponencia del Magistrado
+que corresponda, el número de expediente, la identificación de las autoridades a notificar y, en términos
+de la normatividad aplicable en materia de protección de datos personales, en su caso, el nombre del
+particular; así como una síntesis del auto, resolución o sentencia. El Boletín Jurisdiccional podrá
+consultarse en la página electrónica del Tribunal o en los módulos ubicados en la Sala en que estén
+radicados los juicios.
+La Junta de Gobierno y Administración, mediante lineamientos, establecerá el contenido de la síntesis
+del auto, resolución o sentencia, así como las áreas, dentro del Tribunal, en las cuales serán entregados
+los traslados de ley; y en su caso, los mecanismos que permitan a las partes conocer el auto, resolución
+o sentencia correspondiente.
+Artículo reformado DOF 12-06-2009, 10-12-2010, 13-06-2016
+
+ARTÍCULO 67. Las notificaciones únicamente deberán realizarse personalmente, o por correo
+certificado con acuse de recibo, cuando se trate de las resoluciones siguientes:
+Párrafo reformado DOF 13-06-2016
+
 I.
 
 La que corra traslado de la demanda, en el caso del tercero, así como el emplazamiento al
@@ -2406,54 +3128,55 @@ particular en el juicio de lesividad a que se refiere el artículo 13, fracción
 
 II.
 
-La que mande citar al testigo que no pueda ser presentado por la parte oferente y la que designe
-al perito tercero, en el caso de dichas personas;
+La que mande citar al testigo que no pueda ser presentado por la parte oferente.
+Fracción reformada DOF 13-06-2016
 
 III.
 
-El requerimiento o prevención a que se refieren los artículos 14, 15, 17 y 21 de esta Ley a la
-persona que deba cumplirlo, y
+Se deroga.
+Fracción derogada DOF 13-06-2016
 
-IV. La resolución de sobreseimiento en el juicio y la sentencia definitiva, al actor y al tercero.
-En los demás casos, las notificaciones se ordenarán hacer a los particulares por medio del Boletín
-Electrónico.
-Artículo reformado DOF 12-06-2009, 10-12-2010
+IV. Se deroga.
+Fracción derogada DOF 13-06-2016
 
-ARTÍCULO 68. El emplazamiento a las autoridades demandadas y las notificaciones, del
-sobreseimiento en el juicio cuando proceda, y de la sentencia definitiva, se harán por oficio.
-En los demás casos, las notificaciones a las autoridades se realizarán por medio del Boletín
-Electrónico.
-Las notificaciones por oficio se harán únicamente a la unidad administrativa a la que corresponda la
-representación en juicio de la autoridad demandada, de conformidad con lo dispuesto por el artículo 5,
-tercer párrafo, de esta Ley.
-El requerimiento o notificación a otras autoridades administrativas se hará por oficio.
-Si el domicilio de la sede principal de la autoridad se encuentra en el lugar de la sede de la Sala, el
-actuario hará la entrega, recabando la constancia de recibo correspondiente.
-Artículo reformado DOF 12-06-2009, 10-12-2010
+En los demás casos, las notificaciones deberán realizarse por medio del Boletín Jurisdiccional.
+Párrafo reformado DOF 13-06-2016
 
-ARTÍCULO 69. La lista de autos y resoluciones dictados por un Magistrado o Sala, se publicará en el
-Boletín Electrónico al día hábil siguiente de su emisión para conocimiento de las partes.
-La publicación señalará la denominación de la Sala y ponencia del Magistrado que corresponda, el
-nombre del particular y la identificación de las autoridades a notificar, la clave del expediente, así como el
-contenido del auto o resolución.
-Se tendrá como fecha de notificación, la del día en que se publique en el Boletín Electrónico y el
-actuario lo hará constar en el auto o resolución de que se trate.
-El Tribunal llevará en archivo especial, las publicaciones atrasadas del Boletín Electrónico y hará la
-certificación que corresponda, a través de los servidores públicos competentes.
-La lista también podrá darse a conocer mediante documento impreso que se colocará en un lugar
-accesible de la Sala en que estén radicados los juicios, en la misma fecha en que se publique en el
-Boletín Electrónico.
-Artículo reformado DOF 10-12-2010
+50 de 69
 
-43 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+Para los efectos señalados en las fracciones anteriores, una vez que las partes y el testigo se
+apersonen en el juicio, y el perito haya comparecido para aceptar y protestar el cargo, deberán señalar
+dirección de correo electrónico, bajo el apercibimiento que, de no hacerlo, se procederá en los términos
+del artículo 14, último párrafo, de la presente Ley.
+Párrafo adicionado DOF 13-06-2016
+
+El Magistrado Instructor podrá, excepcionalmente, ordenar la notificación personal, por oficio o por
+correo certificado con acuse de recibo a las partes, atendiendo a su situación concreta, para lo cual
+deberá fundar y motivar esa determinación en el acuerdo respectivo.
+Párrafo adicionado DOF 13-06-2016
+Artículo reformado DOF 12-06-2009, 10-12-2010
+
+ARTÍCULO 68. El actuario deberá asentar razón de las notificaciones por Boletín Jurisdiccional, de las
+notificaciones personales o del envío por correo certificado, atendiendo al caso de que se trate. Los
+acuses de recibo del correo certificado se agregarán como constancia al expediente.
+Al actuario que sin causa justificada no cumpla con esta obligación, se le impondrá una multa de una
+a tres veces el salario mínimo general de la zona económica correspondiente al Distrito Federal, elevado
+al mes, sin que exceda del 30 por ciento de su salario. Será destituido, sin responsabilidad para el
+Estado, en caso de reincidencia.
+El Tribunal llevará en archivo especial las publicaciones atrasadas del Boletín Jurisdiccional y hará la
+certificación que corresponda, a través de los servidores públicos competentes.
+Artículo reformado DOF 12-06-2009, 10-12-2010, 13-06-2016
+
+ARTÍCULO 69. (Se deroga)
+Artículo reformado DOF 10-12-2010. Derogado DOF 13-06-2016
 
 ARTÍCULO 70. Las notificaciones surtirán sus efectos, el día hábil siguiente a aquél en que fueren
 hechas.
@@ -2475,6 +3198,17 @@ Los exhortos se despacharán al día siguiente hábil a aquél en que la actuar�
 los ordene. Los que se reciban se proveerán dentro de los tres días siguientes a su recepción y se
 diligenciarán dentro de los cinco días siguientes, a no ser que lo que haya de practicarse exija
 necesariamente mayor tiempo, caso en el cual, la Sala requerida fijará el plazo que crea conveniente.
+
+51 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 Una vez diligenciado el exhorto, la Sala requerida, sin más trámite, deberá remitirlo con las
 constancias que acrediten el debido cumplimiento de la diligencia practicada en auxilio de la Sala
 requirente.
@@ -2495,17 +3229,6 @@ labores. La existencia de personal de guardia no habilita los días en que se su
 III. Si están señalados en periodos o tienen una fecha determinada para su extinción, se
 comprenderán los días inhábiles; no obstante, si el último día del plazo o la fecha determinada es inhábil,
 el término se prorrogará hasta el siguiente día hábil.
-
-44 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 IV. Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario se entenderá
 en el primer caso que el plazo vence el mismo día del mes de calendario posterior a aquél en que se
 inició y en el segundo caso, el término vencerá el mismo día del siguiente año de calendario a aquél en
@@ -2515,9 +3238,11 @@ el primer día hábil del siguiente mes de calendario.
 TÍTULO V
 De la Jurisprudencia
 CAPÍTULO ÚNICO
-ARTÍCULO 75.- Las tesis sustentadas en las sentencias pronunciadas por la Sala Superior,
-aprobadas por lo menos por siete magistrados, constituirán precedente una vez publicados en la Revista
-del Tribunal.
+ARTÍCULO 75. Las tesis sustentadas en las sentencias pronunciadas por el Pleno de la Sala
+Superior, aprobadas por lo menos por siete Magistrados, constituirán precedente, una vez publicadas en
+la Revista del Tribunal.
+Párrafo reformado DOF 13-06-2016
+
 También constituirán precedente las tesis sustentadas en las sentencias de las Secciones de la Sala
 Superior, siempre que sean aprobadas cuando menos por cuatro de los magistrados integrantes de la
 Sección de que se trate y sean publicados en la Revista del Tribunal.
@@ -2527,16 +3252,26 @@ razones por las que se apartan de los mismos, debiendo enviar al Presidente del 
 sentencia.
 Párrafo reformado DOF 10-12-2010
 
+52 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 ARTÍCULO 76.- Para fijar jurisprudencia, el Pleno de la Sala Superior deberá aprobar tres
 precedentes en el mismo sentido, no interrumpidos por otro en contrario.
 También se fijará jurisprudencia por alguna Sección de la Sala Superior, siempre que se aprueben
 cinco precedentes no interrumpidos por otro en contrario.
 ARTÍCULO 77. En el caso de contradicción de sentencias, interlocutorias o definitivas, cualquiera de
 los Magistrados del Tribunal o las partes en los juicios en las que tales tesis se sustentaron, podrán
-denunciarla ante el Presidente del Tribunal para que éste la haga del conocimiento del Pleno, el cual con
-un quórum mínimo de diez Magistrados, decidirá por mayoría la que debe prevalecer, constituyendo
-jurisprudencia.
-Párrafo reformado DOF 10-12-2010
+denunciar tal situación ante el Presidente del Tribunal, para que éste la haga del conocimiento del Pleno
+el cual, con un quorum mínimo de siete Magistrados, decidirá por mayoría la que debe prevalecer,
+constituyendo jurisprudencia.
+Párrafo reformado DOF 10-12-2010, 13-06-2016
 
 La resolución que pronuncie el Pleno del Tribunal, en los casos a que este artículo se refiere, sólo
 tendrá efectos para fijar jurisprudencia y no afectará las resoluciones dictadas en los juicios
@@ -2549,17 +3284,6 @@ apruebe por lo menos por cuatro Magistrados integrantes de la Sección, expresan
 por las que se apartan y enviando al Presidente del Tribunal copia de la misma, para que la haga del
 conocimiento del Pleno y éste determine si procede que se suspenda su aplicación, debiendo en este
 caso publicarse en la revista del Tribunal.
-
-45 de 56
-
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-Última Reforma DOF 24-12-2013
-
-Secretaría General
-Secretaría de Servicios Parlamentarios
-
 Los magistrados de la Sala Superior podrán proponer al Pleno que suspenda su jurisprudencia,
 cuando haya razones fundadas que lo justifiquen. Las Salas Regionales también podrán proponer la
 suspensión expresando al Presidente del Tribunal los razonamientos que sustenten la propuesta, a fin de
@@ -2580,6 +3304,17 @@ TRANSITORIOS
 Primero.- La presente Ley entrará en vigor en toda la República el día 1o. de enero del 2006.
 Segundo.- A partir de la entrada en vigor de esta Ley se derogan el Título VI del Código Fiscal de la
 Federación y los artículos que comprenden del 197 al 263 del citado ordenamiento legal, por lo que las
+
+53 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
 leyes que remitan a esos preceptos se entenderán referidos a los correspondientes de esta Ley Federal
 de Procedimiento Contencioso Administrativo.
 Tercero.- Quedan sin efectos las disposiciones legales, que contravengan o se opongan a lo
@@ -2596,12 +3331,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 del mes de noviembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación,
 Carlos María Abascal Carranza.- Rúbrica.
 
-46 de 56
+54 de 69
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2634,12 +3369,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 mes de diciembre de dos mil seis.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de
 Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 
-47 de 56
+55 de 69
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2679,12 +3414,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
-48 de 56
+56 de 69
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2732,12 +3467,12 @@ SEXTO. En caso de que el Tribunal Federal de Justicia Fiscal y Administrativa re
 por medio del Sistema de Justicia en Línea del Tribunal, y constate que la autoridad demandada,
 incumplió con lo señalado en el artículo CUARTO transitorio del presente Decreto, se le prevendrá para
 
-49 de 56
+57 de 69
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2772,12 +3507,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando
 Francisco Gómez Mont Urueta.- Rúbrica.
 
-50 de 56
+58 de 69
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2806,12 +3541,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando
 Francisco Gómez Mont Urueta.- Rúbrica.
 
-51 de 56
+59 de 69
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2836,12 +3571,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
-52 de 56
+60 de 69
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2890,12 +3625,12 @@ del Tribunal Federal de Justicia Fiscal y Administrativa, se entenderá realizad
 partir de la entrada en vigor del artículo 1-A, fracción III de la Ley Federal de Procedimiento Contencioso
 Administrativo que se reforma conforme al presente Decreto.
 
-53 de 56
+61 de 69
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2911,12 +3646,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 diciembre de 2010.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José
 Francisco Blake Mora.- Rúbrica.
 
-54 de 56
+62 de 69
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2942,12 +3677,12 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José
 Francisco Blake Mora.- Rúbrica.
 
-55 de 56
+63 de 69
 
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-Última Reforma DOF 24-12-2013
+Última Reforma DOF 21-05-2024
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
@@ -2972,6 +3707,180 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel
 Osorio Chong.- Rúbrica.
 
-56 de 56
+64 de 69
 
-
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley
+Federal de Procedimiento Contencioso Administrativo.
+Publicado en el Diario Oficial de la Federación el 13 de junio de 2016
+
+Artículo Único. Se reforman la fracción III del artículo 1-A; la fracción III del artículo 7o.; las
+fracciones I y II del artículo 13; los párrafos primero y segundo de la fracción I y último párrafo del artículo
+14; el párrafo primero del artículo 17; el párrafo primero del artículo 18; el párrafo primero del artículo 19;
+los párrafos primero, segundo y tercero del artículo 24; el párrafo primero del artículo 25; el artículo 26; el
+primer párrafo y se elimina el segundo párrafo del artículo 27; las fracciones III y IV y se elimina el tercer
+párrafo del inciso b) de la fracción II del artículo 28; el artículo 47; el párrafo segundo, inciso a), fracción I
+del artículo 48; el primer párrafo del artículo 49; los párrafos segundo y sexto del artículo 52; el último
+párrafo del artículo 53; la fracción II y se eliminan los párrafos penúltimo y último del artículo 57; el último
+párrafo del artículo 58; el artículo 58-J; el artículo 58-2; el artículo 58-13; el artículo 59; el artículo 65; el
+artículo 66; el párrafo primero, la fracción II y el párrafo segundo del artículo 67; el artículo 68; el primer
+párrafo del artículo 75; el primer párrafo del artículo 77. Se adicionan la fracción III Bis del artículo 1-A; el
+segundo párrafo del artículo 4o, recorriéndose el subsecuente; un párrafo tercero al artículo 5o,
+recorriéndose los subsecuentes; el artículo 7o Bis; la fracción XVI al artículo 8o, recorriéndose la
+subsecuente; un cuarto párrafo al artículo 19; el artículo 28 Bis; un párrafo segundo a la fracción I y los
+párrafos segundo, tercero y cuarto del artículo 43; un párrafo segundo al artículo 58-12; la fracción X al
+artículo 63; un tercer y cuarto párrafo al artículo 67. Se derogan: la fracción X del artículo 1-A; el párrafo
+segundo del artículo 27; la fracción III del artículo 52; las fracciones III y IV del artículo 67; y el artículo 69,
+de la Ley Federal de Procedimiento Contencioso Administrativo, para quedar como sigue:
+………
+
+Transitorios
+Primero. El presente decreto entrará en vigor a partir del día siguiente a la fecha de su publicación en
+el Diario Oficial de la Federación.
+Segundo. Los juicios que se encuentren en trámite ante el Tribunal Federal de Justicia Fiscal y
+Administrativa, al momento de entrar en vigor la presente Ley, se tramitarán hasta su total resolución
+conforme a las disposiciones legales vigentes en el momento de presentación de la demanda.
+Tercero. Para los efectos de lo dispuesto en el artículo 19, penúltimo párrafo, de esta Ley, las
+dependencias, organismos o autoridades contarán con un plazo de tres meses para registrar su dirección
+de correo electrónico institucional, así como el domicilio oficial de las unidades administrativas a las que
+corresponda su representación en los juicios contencioso administrativos, contados a partir de la entrada
+en vigor del presente Decreto.
+Cuarto. A partir de la entrada en vigor del presente Decreto, todas las referencias hechas al Boletín
+Electrónico, se entenderán realizadas al Boletín Jurisdiccional.
+Quinto. Respecto de los montos señalados en la presente Ley, para determinar la cuantía de los
+juicios que se tramitan en la vía sumaria, así como para fijar las multas que se impondrán en caso de no
+cumplimentar lo estipulado en el articulado de la presente Ley, dejará de considerarse al salario mínimo
+como unidad de medida una vez que entre en vigor la Ley Reglamentaria al “Decreto por el que se
+declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados
+Unidos Mexicanos, en materia de desindexación del salario mínimo”, publicado en el Diario Oficial de la
+Federación, el 7 de enero de 2016.
+
+65 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+Ciudad de México, a 28 de abril de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús
+Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Ramón Bañales
+Arambula, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a diez de junio de dos mil dieciséis.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+66 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal
+de Procedimiento Contencioso Administrativo y al Código Fiscal de la Federación.
+Publicado en el Diario Oficial de la Federación el 27 de enero de 2017
+
+Artículo Primero.- Se reforma el artículo 1-A, fracción XII y se adicionan los artículos 1-A, con una
+fracción XVII; 48, fracción II, inciso a), con un segundo párrafo y el Título II con el Capítulo XII
+denominado "Del Juicio de Resolución Exclusiva de Fondo", que comprende los artículos 58-16; 58-17;
+58-18; 58-19; 58-20; 58-21; 58-22; 58-23; 58-24; 58-25; 58-26; 58-27, 58-28 y 58-29 a la Ley Federal de
+Procedimiento Contencioso Administrativo, para quedar como sigue:
+………
+
+DISPOSICIONES TRANSITORIAS DE LA LEY FEDERAL DE PROCEDIMIENTO
+CONTENCIOSO ADMINISTRATIVO
+Artículo Segundo.- En relación con las modificaciones a que se refiere el artículo Primero de este
+Decreto, se estará a lo siguiente:
+Primero.- La Junta de Gobierno y Administración del Tribunal Federal de Justicia Administrativa, a
+más tardar al 30 de junio de 2017, adscribirá tres Salas Regionales Especializadas en materia del juicio
+de resolución exclusiva de fondo en las circunscripciones territoriales que esta misma determine.
+Las Salas Regionales Especializadas en materia del juicio de resolución exclusiva de fondo serán
+integradas por Magistrados que adscriba para tal efecto la Junta de Gobierno y Administración, entre
+aquéllos que cuenten con mayor experiencia en materia fiscal.
+Segundo.- La Junta de Gobierno y Administración del Tribunal Federal de Justicia Administrativa
+llevará a cabo las reformas necesarias de la normatividad aplicable, de conformidad con lo previsto en el
+presente Decreto.
+Tercero.- Los juicios de resolución exclusiva de fondo, podrán ser promovidos a partir del día hábil
+siguiente a aquél en que inicien sus funciones las Salas Regionales Especializadas en materia de
+resolución exclusiva de fondo, conforme al artículo Primero Transitorio del presente Decreto.
+Los juicios que se encuentren en trámite ante el Tribunal Federal de Justicia Administrativa al
+momento de entrar en vigor el presente Decreto, se tramitarán hasta su total resolución conforme a las
+disposiciones legales vigentes en el momento de presentación de la demanda, sin perjuicio de lo previsto
+en el siguiente párrafo.
+En el caso de que se cumplan los requisitos de procedencia señalados en el artículo 58-17 de la Ley
+Federal de Procedimiento Contencioso Administrativo, la parte actora en algún juicio de los señalados en
+el párrafo anterior, tendrá la opción de solicitar ante el Magistrado Instructor que el juicio que promovió se
+remita a las Salas Regionales Especializadas en materia de resolución exclusiva de fondo y se tramite en
+los términos del Capítulo XII "Del Juicio de resolución exclusiva de fondo" de dicha Ley, siempre y cuando
+en el juicio iniciado anteriormente no se haya cerrado la instrucción y se haya realizado la solicitud en el
+plazo de diez días hábiles contados a partir del inicio de las funciones de dichas Salas, supuesto en el
+cual, sólo se estudiarán los argumentos de fondo que se hayan planteado en la demanda y ampliación de
+la misma.
+………
+
+67 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+Transitorios
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.
+Segundo.- Las erogaciones que, en su caso, se requieran para cumplir con el presente Decreto,
+serán cubiertas con cargo al presupuesto aprobado para dicho fin en el ejercicio fiscal correspondiente.
+Ciudad de México, a 15 de diciembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María
+Elena Barrera Tapia, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de enero de dos mil
+diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
+
+68 de 69
+
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Última Reforma DOF 21-05-2024
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+DECRETO por el que se deroga un párrafo del artículo 58 de la Ley Federal de
+Procedimiento Contencioso Administrativo.
+Publicado en el Diario Oficial de la Federación el 21 de mayo de 2024
+
+Artículo Único.- Se deroga el último párrafo del inciso a) de la fracción II del artículo 58 de la Ley
+Federal de Procedimiento Contencioso Administrativo, para quedar como sigue:
+……….
+
+Transitorio
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.
+Ciudad de México, a 4 de abril de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela
+Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Karina Isabel
+Garivo Sánchez, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de mayo de 2024.- Andrés
+Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+
+69 de 69
+
