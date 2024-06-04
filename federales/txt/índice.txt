@@ -22,13 +22,13 @@ CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES
 ==> CNPP.txt <==
 CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES
 
+==> CPEUM.txt <==
+CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
+
+==> CPF.txt <==
+CÓDIGO PENAL FEDERAL
+
 ==> Codigo_Civil_Federal.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Codigo_de_Comercio.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Codigo_de_Justicia_Militar.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Codigo_Federal_de_Procedimientos_Civiles.txt <==
@@ -49,14 +49,14 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Codigo_Penal_Federal.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Constitucion_Politica.txt <==
+==> Codigo_de_Comercio.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> CPEUM.txt <==
-CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
+==> Codigo_de_Justicia_Militar.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> CPF.txt <==
-CÓDIGO PENAL FEDERAL
+==> Constitucion_Politica.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Estatuto_de_Gobierno_del_Distrito_Federal.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -64,23 +64,35 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Impuesto_Sobre_Servicios-Declarados_de_Interes_Publico-Empresas_Concesionarias.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> índice.txt <==
-==> CCF.txt <==
-
 ==> LAAT.txt <==
 LEY DE AYUDA ALIMENTARIA PARA LOS TRABAJADORES
-
-==> LACP.txt <==
-LEY DE AHORRO Y CRÉDITO POPULAR
 
 ==> LAC.txt <==
 LEY DE AVIACIÓN CIVIL
 
-==> LAdua.txt <==
-LEY ADUANERA
+==> LACP.txt <==
+LEY DE AHORRO Y CRÉDITO POPULAR
 
 ==> LAEM.txt <==
 LEY QUE CREA LA AGENCIA ESPACIAL MEXICANA
+
+==> LAN.txt <==
+LEY DE AGUAS NACIONALES
+
+==> LANSI.txt <==
+LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL
+
+==> LAPP_150618.txt <==
+LEY DE ASOCIACIONES PÚBLICO PRIVADAS
+
+==> LAREFAM.txt <==
+LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
+
+==> LASoc.txt <==
+LEY DE ASISTENCIA SOCIAL
+
+==> LAdua.txt <==
+LEY ADUANERA
 
 ==> LAero.txt <==
 LEY DE AEROPUERTOS
@@ -94,21 +106,6 @@ LEY DE AMNISTÍA
 ==> LAmp.txt <==
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS
 
-==> LANSI.txt <==
-LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL
-
-==> LAN.txt <==
-LEY DE AGUAS NACIONALES
-
-==> LAPP_150618.txt <==
-LEY DE ASOCIACIONES PÚBLICO PRIVADAS
-
-==> LAREFAM.txt <==
-LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
-
-==> LASoc.txt <==
-LEY DE ASISTENCIA SOCIAL
-
 ==> LBOGM.txt <==
 LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS
 
@@ -118,11 +115,11 @@ LEY PARA LA COMPROBACIÓN, AJUSTE Y CÓMPUTO DE SERVICIOS EN EL EJÉRCITO Y FUER
 ==> LCEC_120419.txt <==
 LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES
 
-==> LCFE.txt <==
-LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
-
 ==> LCF.txt <==
 LEY DE COORDINACIÓN FISCAL
+
+==> LCFE.txt <==
+LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
 ==> LCID_061120.txt <==
 LEY DE COOPERACIÓN INTERNACIONAL PARA EL DESARROLLO
@@ -130,11 +127,11 @@ LEY DE COOPERACIÓN INTERNACIONAL PARA EL DESARROLLO
 ==> LCJPJF.txt <==
 LEY DE CARRERA JUDICIAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-==> LCMM.txt <==
-LEY DE LA CASA DE MONEDA DE MÉXICO
-
 ==> LCM.txt <==
 LEY DE CONCURSOS MERCANTILES
+
+==> LCMM.txt <==
+LEY DE LA CASA DE MONEDA DE MÉXICO
 
 ==> LCNBV.txt <==
 LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES
@@ -181,10 +178,1012 @@ LEY DE EDUCACIÓN NAVAL
 ==> LESS.txt <==
 LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA
 
+==> LFAAR.txt <==
+LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL
+
+==> LFAEBSP.txt <==
+LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO
+
+==> LFAFE.txt <==
+LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
+
+==> LFAR.txt <==
+LEY FEDERAL DE AUSTERIDAD REPUBLICANA
+
+==> LFCC_200120.txt <==
+LEY DE FOMENTO A LA CONFIANZA CIUDADANA
+
+==> LFCDO.txt <==
+LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA
+
+==> LFCE_200521.txt <==
+LEY FEDERAL DE COMPETENCIA ECONÓMICA
+
+==> LFCPQ.txt <==
+LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUÍMICOS, PRODUCTOS QUÍMICOS ESENCIALES Y
+
+==> LFCPo_190521.txt <==
+LEY FEDERAL DE CONSULTA POPULAR
+
+==> LFCSQ.txt <==
+LEY FEDERAL PARA EL CONTROL DE SUSTANCIAS QUÍMICAS SUSCEPTIBLES DE DESVÍO PARA LA FABRICACIÓN
+
+==> LFD.txt <==
+LEY FEDERAL DE DERECHOS
+
+==> LFDA.txt <==
+LEY FEDERAL DEL DERECHO DE AUTOR
+
+==> LFDC.txt <==
+LEY FEDERAL DE LOS DERECHOS DEL CONTRIBUYENTE
+
+==> LFDEAPD.txt <==
+LEY FEDERAL DE DECLARACIÓN ESPECIAL DE AUSENCIA PARA PERSONAS DESAPARECIDAS
+
+==> LFDefP.txt <==
+LEY FEDERAL DE DEFENSORÍA PÚBLICA
+
+==> LFEA_200521.txt <==
+LEY DE FIRMA ELECTRÓNICA AVANZADA
+
+==> LFEP.txt <==
+LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
+
+==> LFFAOSC.txt <==
+LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL
+
+==> LFFMAA.txt <==
+LEY FEDERAL PARA EL FOMENTO DE LA MICROINDUSTRIA Y LA ACTIVIDAD ARTESANAL
+
+==> LFFPMN_130420.txt <==
+LEY FEDERAL PARA EL FOMENTO Y PROTECCIÓN DEL MAÍZ NATIVO
+
+==> LFGR.txt <==
+LEY DE LA FISCALÍA GENERAL DE LA REPÚBLICA
+
+==> LFI.txt <==
+LEY DE FONDOS DE INVERSIÓN
+
+==> LFISAN.txt <==
+LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
+
+==> LFIV_230518.txt <==
+LEY DE FOMENTO A LA INDUSTRIA VITIVINÍCOLA
+
+==> LFLL.txt <==
+LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO
+
+==> LFMPED.txt <==
+LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO
+
+==> LFPC.txt <==
+LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
+
+==> LFPCA.txt <==
+LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+
+==> LFPCCS_110518.txt <==
+LEY FEDERAL DE PRODUCCIÓN, CERTIFICACIÓN Y COMERCIO DE SEMILLAS
+
+==> LFPDPPP.txt <==
+LEY FEDERAL DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS PARTICULARES
+
+==> LFPED.txt <==
+LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
+
+==> LFPIORPI_200521.txt <==
+LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+
+==> LFPPCPCIA.txt <==
+LEY FEDERAL DE PROTECCIÓN DEL PATRIMONIO CULTURAL DE LOS PUEBLOS Y COMUNIDADES
+
+==> LFPPI.txt <==
+LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL
+
+==> LFPPIPP_200521.txt <==
+LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL
+
+==> LFPRH.txt <==
+LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
+
+==> LFPSDMH.txt <==
+LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS
+
+==> LFRA_200521.txt <==
+LEY FEDERAL DE RESPONSABILIDAD AMBIENTAL
+
+==> LFRCF_200521.txt <==
+LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DE LA FEDERACIÓN
+
+==> LFRM.txt <==
+LEY FEDERAL DE REVOCACIÓN DE MANDATO
+
+==> LFRPE.txt <==
+LEY FEDERAL DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO
+
+==> LFRSP.txt <==
+LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
+
+==> LFRemSP_190521.txt <==
+LEY FEDERAL DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS
+
+==> LFSA.txt <==
+LEY FEDERAL DE SANIDAD ANIMAL
+
+==> LFSP.txt <==
+LEY FEDERAL DE SEGURIDAD PRIVADA
+
+==> LFSV.txt <==
+LEY FEDERAL DE SANIDAD VEGETAL
+
+==> LFT.txt <==
+LEY FEDERAL DEL TRABAJO
+
+==> LFTAIP.txt <==
+LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
+
+==> LFTR.txt <==
+LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+
+==> LFTSE.txt <==
+LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
+
+==> LFVV.txt <==
+LEY FEDERAL DE VARIEDADES VEGETALES
+
+==> LFZEE.txt <==
+LEY FEDERAL DE ZONAS ECONÓMICAS ESPECIALES
+
+==> LGA.txt <==
+LEY GENERAL DE ARCHIVOS
+
+==> LGAAS.txt <==
+LEY GENERAL DE LA ALIMENTACIÓN ADECUADA Y SOSTENIBLE
+
+==> LGAHOTDU.txt <==
+LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO
+
+==> LGAMVLV.txt <==
+LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
+
+==> LGAPPCEA_270516.txt <==
+LEY GENERAL PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA
+
+==> LGB.txt <==
+LEY GENERAL DE BIBLIOTECAS
+
+==> LGBN.txt <==
+LEY GENERAL DE BIENES NACIONALES
+
+==> LGCC.txt <==
+LEY GENERAL DE CAMBIO CLIMÁTICO
+
+==> LGCDC.txt <==
+LEY GENERAL DE CULTURA Y DERECHOS CULTURALES
+
+==> LGCFD.txt <==
+LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
+
+==> LGCG.txt <==
+LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL
+
+==> LGCS.txt <==
+LEY GENERAL DE COMUNICACIÓN SOCIAL
+
+==> LGCT.txt <==
+LEY GENERAL PARA EL CONTROL DEL TABACO
+
+==> LGDFS.txt <==
+LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+
+==> LGDLPI.txt <==
+LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS
+
+==> LGDNNA.txt <==
+LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
+
+==> LGDOCIA_070121.txt <==
+LEY GENERAL PARA LA DETECCIÓN OPORTUNA DEL CÁNCER EN LA INFANCIA Y LA ADOLESCENCIA
+
+==> LGDS.txt <==
+LEY GENERAL DE DESARROLLO SOCIAL
+
+==> LGE.txt <==
+LEY GENERAL DE EDUCACIÓN
+
+==> LGEEPA.txt <==
+LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
+
+==> LGES_200421.txt <==
+LEY GENERAL DE EDUCACIÓN SUPERIOR
+
+==> LGIMH.txt <==
+LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
+
+==> LGIPD.txt <==
+LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
+
+==> LGIPE.txt <==
+LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
+
+==> LGMASC.txt <==
+LEY GENERAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS
+
+==> LGMDE_200521.txt <==
+LEY GENERAL EN MATERIA DE DELITOS ELECTORALES
+
+==> LGMDFP.txt <==
+LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR
+
+==> LGMHCTI.txt <==
+LEY GENERAL EN MATERIA DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN
+
+==> LGMIME.txt <==
+LEY GENERAL DE LOS MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
+
+==> LGMR_200521.txt <==
+LEY GENERAL DE MEJORA REGULATORIA
+
+==> LGMSV.txt <==
+LEY GENERAL DE MOVILIDAD Y SEGURIDAD VIAL
+
+==> LGN.txt <==
+LEY DE LA GUARDIA NACIONAL
+
+==> LGOAAC.txt <==
+LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO
+
+==> LGPAS.txt <==
+LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
+
+==> LGPC.txt <==
+LEY GENERAL DE PROTECCIÓN CIVIL
+
+==> LGPDPPSO.txt <==
+LEY GENERAL DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS
+
+==> LGPGIR.txt <==
+LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
+
+==> LGPIST.txt <==
+LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES,
+
+==> LGPP.txt <==
+LEY GENERAL DE PARTIDOS POLÍTICOS
+
+==> LGPSACDII.txt <==
+LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL
+
+==> LGPSDMS_200521.txt <==
+LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI
+
+==> LGPSEDMTP.txt <==
+LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y
+
+==> LGPSVD_040521.txt <==
+LEY GENERAL PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
+
+==> LGRA.txt <==
+LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS
+
+==> LGS.txt <==
+LEY GENERAL DE SALUD
+
+==> LGSCMM_300919.txt <==
+LEY GENERAL DEL SISTEMA PARA LA CARRERA DE LAS MAESTRAS Y LOS MAESTROS
+
+==> LGSM.txt <==
+LEY GENERAL DE SOCIEDADES MERCANTILES
+
+==> LGSMIME.txt <==
+LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
+
+==> LGSNA_200521.txt <==
+LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN
+
+==> LGSNSP.txt <==
+LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA
+
+==> LGT.txt <==
+LEY GENERAL DE TURISMO
+
+==> LGTAIP.txt <==
+LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
+
+==> LGTOC.txt <==
+LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO
+
+==> LGV.txt <==
+LEY GENERAL DE VÍCTIMAS
+
+==> LHHEUM.txt <==
+LEY DE LOS HUSOS HORARIOS EN LOS ESTADOS UNIDOS MEXICANOS
+
+==> LHidro.txt <==
+LEY DE HIDROCARBUROS
+
+==> LIC.txt <==
+LEY DE INSTITUCIONES DE CRÉDITO
+
+==> LICal_010720.txt <==
+LEY DE INFRAESTRUCTURA DE LA CALIDAD
+
+==> LIE.txt <==
+LEY DE INVERSIÓN EXTRANJERA
+
+==> LIEPS.txt <==
+LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
+
+==> LIElec.txt <==
+LEY DE LA INDUSTRIA ELÉCTRICA
+
+==> LIFNCT.txt <==
+LEY DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES
+
+==> LIFNVT.txt <==
+LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+
+==> LIF_2024.txt <==
+LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2024
+
+==> LIGIE_2022.txt <==
+LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
+
+==> LIH.txt <==
+LEY DE INGRESOS SOBRE HIDROCARBUROS
+
+==> LIISPCEN.txt <==
+LEY PARA IMPULSAR EL INCREMENTO SOSTENIDO DE LA PRODUCTIVIDAD Y LA COMPETITIVIDAD DE LA
+
+==> LIMJ.txt <==
+LEY DEL INSTITUTO MEXICANO DE LA JUVENTUD
+
+==> LINPI.txt <==
+LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS
+
+==> LINS.txt <==
+LEY DE LOS INSTITUTOS NACIONALES DE SALUD
+
+==> LISF.txt <==
+LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS
+
+==> LISR.txt <==
+LEY DEL IMPUESTO SOBRE LA RENTA
+
+==> LISSSTE.txt <==
+LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
+
+==> LIVA.txt <==
+LEY DEL IMPUESTO AL VALOR AGREGADO
+
+==> LMV.txt <==
+LEY DEL MERCADO DE VALORES
+
+==> LMigra.txt <==
+LEY DE MIGRACIÓN
+
+==> LMin.txt <==
+LEY DE MINERÍA
+
+==> LNCM_071220.txt <==
+LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS
+
+==> LNED.txt <==
+LEY NACIONAL DE EXTINCIÓN DE DOMINIO
+
+==> LNEP.txt <==
+LEY NACIONAL DE EJECUCIÓN PENAL
+
+==> LNMASCMP.txt <==
+LEY NACIONAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA PENAL
+
+==> LNRD_270519.txt <==
+LEY NACIONAL DEL REGISTRO DE DETENCIONES
+
+==> LNSIJPA.txt <==
+LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES
+
+==> LNUF.txt <==
+LEY NACIONAL SOBRE EL USO DE LA FUERZA
+
+==> LOAM.txt <==
+LEY ORGÁNICA DE LA ARMADA DE MÉXICO
+
+==> LOAPF.txt <==
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
+
+==> LOBNCE.txt <==
+LEY ORGÁNICA DEL BANCO NACIONAL DE COMERCIO EXTERIOR
+
+==> LOBNOSP.txt <==
+LEY ORGÁNICA DEL BANCO NACIONAL DE OBRAS Y SERVICIOS PÚBLICOS
+
+==> LOCFCRL_060120.txt <==
+LEY ORGÁNICA DEL CENTRO FEDERAL DE CONCILIACIÓN Y REGISTRO LABORAL
+
+==> LOCGEUM.txt <==
+LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
+
+==> LOEFAM.txt <==
+LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
+
+==> LOPDC.txt <==
+LEY ORGÁNICA DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE
+
+==> LOPGJDF.txt <==
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+
+==> LOPJF.txt <==
+LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
+
+==> LORCME_200521.txt <==
+LEY DE LOS ÓRGANOS REGULADORES COORDINADOS EN MATERIA ENERGÉTICA
+
+==> LOSCM.txt <==
+LEY ORGÁNICA DEL SEMINARIO DE CULTURA MEXICANA
+
+==> LOSHF.txt <==
+LEY ORGÁNICA DE SOCIEDAD HIPOTECARIA FEDERAL
+
+==> LOTFJA.txt <==
+LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
+
+==> LOUAAAN.txt <==
+LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA AGRARIA ANTONIO NARRO
+
+==> LPAB.txt <==
+LEY DE PROTECCIÓN AL AHORRO BANCARIO
+
+==> LPDB.txt <==
+LEY DE PROMOCIÓN Y DESARROLLO DE LOS BIOENERGÉTICOS
+
+==> LPDUSF.txt <==
+LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS
+
+==> LPEAM.txt <==
+LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO
+
+==> LPERC.txt <==
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
+
+==> LPF.txt <==
+LEY DE LA POLICÍA FEDERAL
+
+==> LPM_110814.txt <==
+LEY DE PETRÓLEOS MEXICANOS
+
+==> LPO.txt <==
+LEY DE PRODUCTOS ORGÁNICOS
+
+==> LPPDDHP.txt <==
+LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS
+
+==> LPlan.txt <==
+LEY DE PLANEACIÓN
+
+==> LRAF.txt <==
+LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS
+
+==> LRAM.txt <==
+LEY DE RECOMPENSAS DE LA ARMADA DE MÉXICO
+
+==> LRASCAP.txt <==
+LEY PARA REGULAR LAS ACTIVIDADES DE LAS SOCIEDADES COOPERATIVAS DE AHORRO Y PRÉSTAMO
+
+==> LRArt3_MMCE_300919.txt <==
+LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS
+
+==> LRArt6_MDR.txt <==
+LEY REGLAMENTARIA DEL ARTÍCULO 6o., PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS
+
+==> LRArt76_fracVI.txt <==
+LEY REGLAMENTARIA DE LA FRACCIÓN VI DEL ARTÍCULO 76 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS
+
+==> LRFIyII_Art105.txt <==
+LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DE LOS
+
+==> LRFXIIIB_Art123.txt <==
+LEY REGLAMENTARIA DE LA FRACCIÓN XIII BIS DEL APARTADO B, DEL ARTÍCULO 123 DE LA CONSTITUCIÓN
+
+==> LRITF.txt <==
+LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA
+
+==> LRPCAP.txt <==
+LEY SOBRE REFUGIADOS, PROTECCIÓN COMPLEMENTARIA Y ASILO POLÍTICO
+
+==> LRSF.txt <==
+LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO
+
+==> LRSIC.txt <==
+LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA
+
+==> LSAR.txt <==
+LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
+
+==> LSInt_300519.txt <==
+LEY DE SEGURIDAD INTERIOR
+
+==> LSM.txt <==
+LEY DEL SERVICIO MILITAR
+
+==> LSN.txt <==
+LEY DE SEGURIDAD NACIONAL
+
+==> LSNIEG.txt <==
+LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA
+
+==> LSPM.txt <==
+LEY DEL SERVICIO POSTAL MEXICANO
+
+==> LSPREM.txt <==
+LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO
+
+==> LSS.txt <==
+LEY DEL SEGURO SOCIAL
+
+==> LTE.txt <==
+LEY DE TRANSICIÓN ENERGÉTICA
+
+==> LTF.txt <==
+LEY DE TESORERÍA DE LA FEDERACIÓN
+
+==> LTOSF.txt <==
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+
+==> LTPCPIMCP.txt <==
+LEY PARA LA TRANSPARENCIA, PREVENCIÓN Y COMBATE DE PRÁCTICAS INDEBIDAS EN MATERIA DE
+
+==> LUC.txt <==
+LEY DE UNIONES DE CRÉDITO
+
+==> LUPDECR.txt <==
+LEY PARA EL USO Y PROTECCIÓN DE LA DENOMINACIÓN Y DEL EMBLEMA DE LA CRUZ ROJA
+
+==> LVGC.txt <==
+LEY DE VÍAS GENERALES DE COMUNICACIÓN
+
+==> LVZMM_130420.txt <==
+LEY DE VERTIMIENTOS EN LAS ZONAS MARINAS MEXICANAS
+
+==> LViv.txt <==
+LEY DE VIVIENDA
+
 ==> Ley_Aduanera.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_Agraria.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_contra_la_Delincuencia_Organizada.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Armas_de_Fuego_y_Explosivos.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Austeridad_Republicana.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Cinematografia.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Competencia_Economica.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Consulta_Popular.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Correduria_Publica.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Defensoria_Publica.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Derechos.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Deuda_Publica.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Fomento_a_las_Actividades-por_Organizaciones_de_la_Sociedad_Civil.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Juegos_y_Sorteos.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Presupuesto_y_Responsabilidad_Hacendaria.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Procedimiento_Administrativo.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Procedimiento_Contencioso_Administrativo.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Produccion_Certificacion_y_Comercio_de_Semillas.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Proteccion-Patrimonio_Cultural-Pueblos-Comunidades_Indigenas_y_Afromexicanas.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Proteccion_a_la_Propiedad_Industrial.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Proteccion_al_Consumidor.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Proteccion_de_Datos_Personales-Posesion-Particulares.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Remuneraciones_de_los_Servidores_Publicos.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Responsabilidad_Ambiental.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Responsabilidad_Patrimonial_del_Estado.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Responsabilidades_de_los_Servidores.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Revocacion_de_Mandato.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Sanidad_Animal.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Sanidad_Vegetal.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Seguridad_Privada.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Telecomunicaciones_y_Radiodifusion.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Transparencia_y_Acceso_a_la_Informacion_Publica.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Variedades_Vegetales.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_Zonas_Economicas_Especiales.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_las_Entidades_Paraestatales.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_los_Derechos_del_Contribuyente.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_de_los_Trabajadores_al_Servicio_del_Estado_Reglamentaria-Apartado_B-Articulo_123.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_del_Derecho_de_Autor.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_del_Impuesto_sobre_Automoviles_Nuevos.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_del_Mar.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_del_Trabajo.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_para_Prevenir_y_Eliminar_la_Discriminacion.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_para_Prevenir_y_Sancionar_los_Delitos-Materia_de_Hidrocarburos.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_para_el_Control-Precursores_Quimicos_Productos-Maquinas-Capsulas_Tabletas-Comprimidos.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_para_el_Control_de_Sustancias_Quimicas-Armas_Quimicas.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_para_el_Fomento_de_la_Microindustria_y_la_Actividad_Artesanal.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_para_el_Fomento_y_Proteccion_del_Maiz_Nativo.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_para_la_Administracion_y_Enajenacion_de_Bienes_del_Sector.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_para_la_Prevencion_e_Identificacion_de_Operaciones-Recursos-Procedencia_Ilicita.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_para_la_Proteccion_a_Personas-Intervienen-Procedimiento_Penal.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Federal_sobre_Monumentos_y_Zonas_Arqueologicos_Artisticos_e_Historicos.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Acceso_de_las_Mujeres_a_una_Vida_Libre_de_Violencia.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Archivos.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Asentamientos_Humanos_Ordenamiento_Territorial-Desarrollo_Urbano.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Bibliotecas.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Bienes_Nacionales.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Cambio_Climatico.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Comunicacion_Social.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Contabilidad_Gubernamental.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Cultura_Fisica_y_Deporte.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Cultura_y_Derechos_Culturales.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Derechos_Linguisticos_de_los_Pueblos_Indigenas.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Desarrollo_Forestal_Sustentable.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Desarrollo_Social.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Educacion.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Educacion_Superior.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Instituciones_y_Procedimientos_Electorales.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Mecanismos_Alternativos_de_Solucion_de_Controversias.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Mejora_Regulatoria.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Movilidad_y_Seguridad_Vial.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Organizaciones_y_Actividades_Auxiliares_del_Credito.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Partidos_Politicos.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Pesca_y_Acuacultura.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Poblacion.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Prestacion_de_Servicios_para_la_Atencion_Cuidado-Desarrollo_Integral_Infantil.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Proteccion_Civil.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Proteccion_de_Datos_Personales-Posesion-Sujetos_Obligados.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Responsabilidades_Administrativas.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Salud.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Sociedades_Cooperativas.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Sociedades_Mercantiles.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Titulos_y_Operaciones_de_Credito.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Transparencia_y_Acceso_a_la_Informacion_Publica.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Turismo.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Victimas.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_Vida_Silvestre.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_la_Alimentacion_Adecuada_y_Sostenible.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_los_Derechos_de_Ninas_Ninos_y_Adolescentes.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_de_los_Medios_de_Impugnacion_en_Materia_Electoral.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_del_Equilibrio_Ecologico_y_la_Proteccion_al_Ambiente.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_del_Sistema_Nacional_Anticorrupcion.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_del_Sistema_Nacional_de_Seguridad_Publica.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_del_Sistema_de_Medios_de_Impugnacion-Materia_Electoral.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_del_Sistema_para_la_Carrera_de_las_Maestras_y_los_Maestros.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_en_Materia_de_Delitos_Electorales.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_en_Materia_de_Desaparicion_Forzada_de_Personas-Particulares-Sistema_Nacional_de_Busqueda.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_en_materia_de_Humanidades_Ciencias_Tecnologias-Innovacion.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_para_Prevenir-Sancionar-Delitos-Materia-Secuestro_Reglamentaria-Fraccion_XXI-Articulo_73.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_para_Prevenir_Investigar-Sancionar_la_Tortura-Tratos-Penas_Crueles_Inhumanos-Degradantes.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_para_Prevenir_Sancionar-Erradicar-Delitos-Materia_de_Trata_de_Personas-Victimas.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_para_el_Control_del_Tabaco.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_para_la_Atencion_y_Proteccion_a_Personas-Condicion-Espectro_Autista.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_para_la_Deteccion_Oportuna_del_Cancer-Infancia_y-Adolescencia.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_para_la_Igualdad_entre_Mujeres_y_Hombres.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_para_la_Inclusion_de_las_Personas_con_Discapacidad.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_para_la_Prevencion_Social_de_la_Violencia_y_la_Delincuencia.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_General_para_la_Prevencion_y_Gestion_Integral_de_los_Residuos.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Monetaria.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Nacional_de_Ejecucion_Penal.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Nacional_de_Extincion_de_Dominio.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Nacional_de_Mecanismos_Alternativos_de_Solucion_de_Controversias-Materia_Penal.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Nacional_del_Registro_de_Detenciones.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Nacional_del_Sistema_Integral_de_Justicia_Penal_para_Adolescentes.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Nacional_sobre_el_Uso_de_la_Fuerza.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_de_Nacional_Financiera.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_de_Sociedad_Hipotecaria.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_de_la_Administracion_Publica.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_de_la_Armada.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_de_la_Procuraduria_General_de_Justicia_del_Distrito_Federal.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_de_la_Procuraduria_de_la_Defensa_del_Contribuyente.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_de_la_Universidad_Autonoma_Agraria_Antonio_Narro.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_de_la_Universidad_Autonoma_Metropolitana.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_de_la_Universidad_Nacional_Autonoma_de_Mexico.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_de_los_Tribunales_Agrarios.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_del_Banco_Nacional_de_Comercio_Exterior.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_del_Banco_Nacional_de_Obras_y_Servicios.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_del_Banco_Nacional_del_Ejercito_Fuerza_Aerea_y_Armada.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_del_Banco_del_Bienestar.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_del_Centro_Federal_de_Conciliacion_y_Registro_Laboral.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_del_Congreso.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_del_Ejercito_y_Fuerza_Aerea.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_del_Instituto_Nacional_de_Antropologia_e_Historia.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_del_Instituto_Politecnico_Nacional.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_del_Poder_Judicial.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_del_Seminario_de_Cultura.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Organica_del_Tribunal_Federal_de_Justicia_Administrativa.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Reglamentaria_de_la_Fraccion_V_del_Articulo_76.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Reglamentaria_de_la_Fraccion_XIII_Bis_del_Apartado_B_del_Articulo_123.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Reglamentaria_de_la_Fraccion_XVIII_del_Articulo_73-Valor-Moneda_Extranjera.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Reglamentaria_de_la_fraccion_VI_del_articulo_76.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Reglamentaria_de_las_fracciones_I_y_II_del_Articulo_105.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Reglamentaria_del_Articulo_27-Materia_Nuclear.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Reglamentaria_del_Articulo_3o-materia-Mejora_Continua_de_la_Educacion.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Reglamentaria_del_Articulo_5o-ejercicio-profesiones-Ciudad_de_Mexico.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Reglamentaria_del_Articulo_6o_parrafo_primero-Materia-Derecho_de_Replica.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_Reglamentaria_del_Servicio_Ferroviario.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_de_Adquisiciones_Arrendamientos_y_Servicios.txt <==
@@ -199,10 +1198,10 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Ley_de_Ahorro_y_Credito_Popular.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_de_Amnistia_1994.txt <==
+==> Ley_de_Amnistia.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_de_Amnistia.txt <==
+==> Ley_de_Amnistia_1994.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_de_Amparo_Reglamentaria-Articulos_103_y_107.txt <==
@@ -265,10 +1264,10 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Ley_de_Desarrollo_Sustentable_de_la_Cana_de_Azucar.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_de_Disciplina_del_Ejercito_y_Fuerza_Aerea.txt <==
+==> Ley_de_Disciplina_Financiera_de_las_Entidades_Federativas_y_los_Municipios.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_de_Disciplina_Financiera_de_las_Entidades_Federativas_y_los_Municipios.txt <==
+==> Ley_de_Disciplina_del_Ejercito_y_Fuerza_Aerea.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_de_Disciplina_para_el_Personal_de_la_Armada.txt <==
@@ -332,120 +1331,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_de_Inversion_Extranjera.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_de_la_Agencia_Nacional_de_Seguridad_Industrial-Medio_Ambiente-Sector_Hidrocarburos.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_de_la_Casa_de_Moneda.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_de_la_Comision_Federal_de_Electricidad.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_de_la_Comision_Nacional_Bancaria_y_de_Valores.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_de_la_Comision_Nacional_de_los_Derechos_Humanos.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_de_la_Economia_Social_y_Solidaria.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_de_la_Fiscalia_General_de_la_Republica.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_de_la_Guardia_Nacional.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_de_la_Industria_Electrica.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_de_la_Policia_Federal.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Banco_de_Mexico.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Diario_Oficial_de_la_Federacion_y_Gacetas.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Impuesto_al_Valor_Agregado.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Impuesto_Especial_sobre_Produccion_y_Servicios.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Impuesto_sobre_la_Renta.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Instituto_del_Fondo_Nacional_de_la_Vivienda.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Instituto_del_Fondo_Nacional_para_el_Consumo_de_los_Trabajadores.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Instituto_de_Seguridad_Social_para_las_Fuerzas_Armadas.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Instituto_de_Seguridad_y_Servicios_Sociales_de_los_Trabajadores.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Instituto_Mexicano_de_la_Juventud.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Instituto_Nacional_de_las_Mujeres.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Instituto_Nacional_de_los_Pueblos_Indigenas.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Mercado_de_Valores.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_de_los_Derechos_de_las_Personas_Adultas_Mayores.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_de_los_Husos_Horarios_en_los_Estados_Unidos_Mexicanos.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_de_los_Impuestos_Generales_de_Importacion_y_de_Exportacion-2022.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_de_los_Institutos_Nacionales_de_Salud.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_de_los_Organos_Reguladores_Coordinados_en_Materia_Energetica.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_de_los_Sistemas_de_Ahorro_para_el_Retiro.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Registro_Publico_Vehicular.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Seguro_Social.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Servicio_de_Administracion_Tributaria.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Servicio_Exterior_Mexicano.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Servicio_Militar.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Servicio_Postal_Mexicano.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Servicio_Profesional_de_Carrera_en_la_Administracion.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Sistema_Nacional_de_Informacion_Estadistica_y_Geografica.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_del_Sistema_Publico_de_Radiodifusion_del_Estado.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_de_Migracion.txt <==
@@ -538,406 +1423,118 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Ley_de_Vivienda.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_contra_la_Delincuencia_Organizada.txt <==
+==> Ley_de_la_Agencia_Nacional_de_Seguridad_Industrial-Medio_Ambiente-Sector_Hidrocarburos.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Armas_de_Fuego_y_Explosivos.txt <==
+==> Ley_de_la_Casa_de_Moneda.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Austeridad_Republicana.txt <==
+==> Ley_de_la_Comision_Federal_de_Electricidad.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Cinematografia.txt <==
+==> Ley_de_la_Comision_Nacional_Bancaria_y_de_Valores.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Competencia_Economica.txt <==
+==> Ley_de_la_Comision_Nacional_de_los_Derechos_Humanos.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Consulta_Popular.txt <==
+==> Ley_de_la_Economia_Social_y_Solidaria.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Correduria_Publica.txt <==
+==> Ley_de_la_Fiscalia_General_de_la_Republica.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Defensoria_Publica.txt <==
+==> Ley_de_la_Guardia_Nacional.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Derechos.txt <==
+==> Ley_de_la_Industria_Electrica.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Deuda_Publica.txt <==
+==> Ley_de_la_Policia_Federal.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Fomento_a_las_Actividades-por_Organizaciones_de_la_Sociedad_Civil.txt <==
+==> Ley_de_los_Derechos_de_las_Personas_Adultas_Mayores.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Juegos_y_Sorteos.txt <==
+==> Ley_de_los_Husos_Horarios_en_los_Estados_Unidos_Mexicanos.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_las_Entidades_Paraestatales.txt <==
+==> Ley_de_los_Impuestos_Generales_de_Importacion_y_de_Exportacion-2022.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_del_Derecho_de_Autor.txt <==
+==> Ley_de_los_Institutos_Nacionales_de_Salud.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_del_Impuesto_sobre_Automoviles_Nuevos.txt <==
+==> Ley_de_los_Organos_Reguladores_Coordinados_en_Materia_Energetica.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_del_Mar.txt <==
+==> Ley_de_los_Sistemas_de_Ahorro_para_el_Retiro.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_los_Derechos_del_Contribuyente.txt <==
+==> Ley_del_Banco_de_Mexico.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_los_Trabajadores_al_Servicio_del_Estado_Reglamentaria-Apartado_B-Articulo_123.txt <==
+==> Ley_del_Diario_Oficial_de_la_Federacion_y_Gacetas.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_del_Trabajo.txt <==
+==> Ley_del_Impuesto_Especial_sobre_Produccion_y_Servicios.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Presupuesto_y_Responsabilidad_Hacendaria.txt <==
+==> Ley_del_Impuesto_al_Valor_Agregado.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Procedimiento_Administrativo.txt <==
+==> Ley_del_Impuesto_sobre_la_Renta.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Procedimiento_Contencioso_Administrativo.txt <==
+==> Ley_del_Instituto_Mexicano_de_la_Juventud.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Produccion_Certificacion_y_Comercio_de_Semillas.txt <==
+==> Ley_del_Instituto_Nacional_de_las_Mujeres.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Proteccion_a_la_Propiedad_Industrial.txt <==
+==> Ley_del_Instituto_Nacional_de_los_Pueblos_Indigenas.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Proteccion_al_Consumidor.txt <==
+==> Ley_del_Instituto_de_Seguridad_Social_para_las_Fuerzas_Armadas.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Proteccion_de_Datos_Personales-Posesion-Particulares.txt <==
+==> Ley_del_Instituto_de_Seguridad_y_Servicios_Sociales_de_los_Trabajadores.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Proteccion-Patrimonio_Cultural-Pueblos-Comunidades_Indigenas_y_Afromexicanas.txt <==
+==> Ley_del_Instituto_del_Fondo_Nacional_de_la_Vivienda.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Remuneraciones_de_los_Servidores_Publicos.txt <==
+==> Ley_del_Instituto_del_Fondo_Nacional_para_el_Consumo_de_los_Trabajadores.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Responsabilidad_Ambiental.txt <==
+==> Ley_del_Mercado_de_Valores.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Responsabilidades_de_los_Servidores.txt <==
+==> Ley_del_Registro_Publico_Vehicular.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Responsabilidad_Patrimonial_del_Estado.txt <==
+==> Ley_del_Seguro_Social.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Revocacion_de_Mandato.txt <==
+==> Ley_del_Servicio_Exterior_Mexicano.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Sanidad_Animal.txt <==
+==> Ley_del_Servicio_Militar.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Sanidad_Vegetal.txt <==
+==> Ley_del_Servicio_Postal_Mexicano.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Seguridad_Privada.txt <==
+==> Ley_del_Servicio_Profesional_de_Carrera_en_la_Administracion.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Telecomunicaciones_y_Radiodifusion.txt <==
+==> Ley_del_Servicio_de_Administracion_Tributaria.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Transparencia_y_Acceso_a_la_Informacion_Publica.txt <==
+==> Ley_del_Sistema_Nacional_de_Informacion_Estadistica_y_Geografica.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Federal_de_Variedades_Vegetales.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Federal_de_Zonas_Economicas_Especiales.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Federal_para_el_Control_de_Sustancias_Quimicas-Armas_Quimicas.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Federal_para_el_Control-Precursores_Quimicos_Productos-Maquinas-Capsulas_Tabletas-Comprimidos.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Federal_para_el_Fomento_de_la_Microindustria_y_la_Actividad_Artesanal.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Federal_para_el_Fomento_y_Proteccion_del_Maiz_Nativo.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Federal_para_la_Administracion_y_Enajenacion_de_Bienes_del_Sector.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Federal_para_la_Prevencion_e_Identificacion_de_Operaciones-Recursos-Procedencia_Ilicita.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Federal_para_la_Proteccion_a_Personas-Intervienen-Procedimiento_Penal.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Federal_para_Prevenir_y_Eliminar_la_Discriminacion.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Federal_para_Prevenir_y_Sancionar_los_Delitos-Materia_de_Hidrocarburos.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Federal_sobre_Monumentos_y_Zonas_Arqueologicos_Artisticos_e_Historicos.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Acceso_de_las_Mujeres_a_una_Vida_Libre_de_Violencia.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Archivos.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Asentamientos_Humanos_Ordenamiento_Territorial-Desarrollo_Urbano.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Bibliotecas.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Bienes_Nacionales.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Cambio_Climatico.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Comunicacion_Social.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Contabilidad_Gubernamental.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Cultura_Fisica_y_Deporte.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Cultura_y_Derechos_Culturales.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Derechos_Linguisticos_de_los_Pueblos_Indigenas.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Desarrollo_Forestal_Sustentable.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Desarrollo_Social.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Educacion_Superior.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Educacion.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Instituciones_y_Procedimientos_Electorales.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_la_Alimentacion_Adecuada_y_Sostenible.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_del_Equilibrio_Ecologico_y_la_Proteccion_al_Ambiente.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_los_Derechos_de_Ninas_Ninos_y_Adolescentes.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_los_Medios_de_Impugnacion_en_Materia_Electoral.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_del_Sistema_de_Medios_de_Impugnacion-Materia_Electoral.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_del_Sistema_Nacional_Anticorrupcion.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_del_Sistema_Nacional_de_Seguridad_Publica.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_del_Sistema_para_la_Carrera_de_las_Maestras_y_los_Maestros.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Mecanismos_Alternativos_de_Solucion_de_Controversias.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Mejora_Regulatoria.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Movilidad_y_Seguridad_Vial.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Organizaciones_y_Actividades_Auxiliares_del_Credito.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Partidos_Politicos.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Pesca_y_Acuacultura.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Poblacion.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Prestacion_de_Servicios_para_la_Atencion_Cuidado-Desarrollo_Integral_Infantil.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Proteccion_Civil.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Proteccion_de_Datos_Personales-Posesion-Sujetos_Obligados.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Responsabilidades_Administrativas.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Salud.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Sociedades_Cooperativas.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Sociedades_Mercantiles.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Titulos_y_Operaciones_de_Credito.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Transparencia_y_Acceso_a_la_Informacion_Publica.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Turismo.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Victimas.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_de_Vida_Silvestre.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_en_Materia_de_Delitos_Electorales.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_en_Materia_de_Desaparicion_Forzada_de_Personas-Particulares-Sistema_Nacional_de_Busqueda.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_en_materia_de_Humanidades_Ciencias_Tecnologias-Innovacion.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_para_el_Control_del_Tabaco.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_para_la_Atencion_y_Proteccion_a_Personas-Condicion-Espectro_Autista.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_para_la_Deteccion_Oportuna_del_Cancer-Infancia_y-Adolescencia.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_para_la_Igualdad_entre_Mujeres_y_Hombres.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_para_la_Inclusion_de_las_Personas_con_Discapacidad.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_para_la_Prevencion_Social_de_la_Violencia_y_la_Delincuencia.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_para_la_Prevencion_y_Gestion_Integral_de_los_Residuos.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_para_Prevenir_Investigar-Sancionar_la_Tortura-Tratos-Penas_Crueles_Inhumanos-Degradantes.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_para_Prevenir-Sancionar-Delitos-Materia-Secuestro_Reglamentaria-Fraccion_XXI-Articulo_73.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_General_para_Prevenir_Sancionar-Erradicar-Delitos-Materia_de_Trata_de_Personas-Victimas.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Monetaria.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Nacional_de_Ejecucion_Penal.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Nacional_de_Extincion_de_Dominio.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Nacional_del_Registro_de_Detenciones.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Nacional_del_Sistema_Integral_de_Justicia_Penal_para_Adolescentes.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Nacional_de_Mecanismos_Alternativos_de_Solucion_de_Controversias-Materia_Penal.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Nacional_sobre_el_Uso_de_la_Fuerza.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_de_la_Administracion_Publica.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_de_la_Armada.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_de_la_Procuraduria_de_la_Defensa_del_Contribuyente.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_de_la_Procuraduria_General_de_Justicia_del_Distrito_Federal.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_de_la_Universidad_Autonoma_Agraria_Antonio_Narro.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_de_la_Universidad_Autonoma_Metropolitana.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_de_la_Universidad_Nacional_Autonoma_de_Mexico.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_del_Banco_del_Bienestar.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_del_Banco_Nacional_de_Comercio_Exterior.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_del_Banco_Nacional_del_Ejercito_Fuerza_Aerea_y_Armada.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_del_Banco_Nacional_de_Obras_y_Servicios.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_del_Centro_Federal_de_Conciliacion_y_Registro_Laboral.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_del_Congreso.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_del_Ejercito_y_Fuerza_Aerea.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_del_Instituto_Nacional_de_Antropologia_e_Historia.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_del_Instituto_Politecnico_Nacional.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_de_los_Tribunales_Agrarios.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_del_Poder_Judicial.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_del_Seminario_de_Cultura.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_del_Tribunal_Federal_de_Justicia_Administrativa.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_de_Nacional_Financiera.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Organica_de_Sociedad_Hipotecaria.txt <==
+==> Ley_del_Sistema_Publico_de_Radiodifusion_del_Estado.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_para_Conservar_la_Neutralidad_del_Pais.txt <==
@@ -946,25 +1543,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Ley_para_Determinar_el_Valor_de_la_Unidad_de_Medida_y_Actualizacion.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_para_el_Desarrollo_de_la_Competitividad_de_la_Micro_Pequena_y_Mediana_Empresa.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_para_el_Dialogo_la_Conciliacion_y_la_Paz_Digna_en_Chiapas.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
 ==> Ley_para_Impulsar_el_Incremento_Sostenido_de_la_Productividad_y_la_Competitividad-Economia.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_para_la_Comprobacion_Ajuste_y_Computo_de_Servicios_de_la_Armada.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_para_la_Proteccion_de_Personas_Defensoras_de_Derechos_Humanos_y_Periodistas.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_para_la_Transparencia-Prevencion-Combate-Materia_de_Contratacion_de_Publicidad.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_para_la_Transparencia_y_Ordenamiento_de_los_Servicios_Financieros.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_para_Regular_las_Actividades_de_las_Sociedades_Cooperativas_de_Ahorro_y_Prestamo.txt <==
@@ -979,19 +1558,25 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Ley_para_Regular_las_Sociedades_de_Informacion_Crediticia.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
+==> Ley_para_el_Desarrollo_de_la_Competitividad_de_la_Micro_Pequena_y_Mediana_Empresa.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_para_el_Dialogo_la_Conciliacion_y_la_Paz_Digna_en_Chiapas.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_para_la_Comprobacion_Ajuste_y_Computo_de_Servicios_de_la_Armada.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_para_la_Proteccion_de_Personas_Defensoras_de_Derechos_Humanos_y_Periodistas.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_para_la_Transparencia-Prevencion-Combate-Materia_de_Contratacion_de_Publicidad.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_para_la_Transparencia_y_Ordenamiento_de_los_Servicios_Financieros.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
 ==> Ley_que_Aprueba_la_Adhesion-Convenio_Constitutivo-Banco_de_Desarrollo_del_Caribe.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_que_crea_el_Fondo_de_Garantia_y_Fomento_a_la_Agricultura_Ganaderia_y_Avicultura.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_que_crea_el_Instituto_Nacional_de_Bellas_Artes_y_Literatura.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_que_crea_la_Agencia_Espacial_Mexicana.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_que_crea_la_Universidad_Autonoma_Chapingo.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_que_Crea_la_Universidad_del_Ejercito_y_Fuerza_Aerea.txt <==
@@ -1006,40 +1591,25 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Ley_que_Establece_Bases-Convenio_Constitutivo-Banco_Interamericano_de_Desarrollo.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Reglamentaria_de_la_Fraccion_V_del_Articulo_76.txt <==
+==> Ley_que_crea_el_Fondo_de_Garantia_y_Fomento_a_la_Agricultura_Ganaderia_y_Avicultura.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Reglamentaria_de_la_fraccion_VI_del_articulo_76.txt <==
+==> Ley_que_crea_el_Instituto_Nacional_de_Bellas_Artes_y_Literatura.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Reglamentaria_de_la_Fraccion_XIII_Bis_del_Apartado_B_del_Articulo_123.txt <==
+==> Ley_que_crea_la_Agencia_Espacial_Mexicana.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_Reglamentaria_de_la_Fraccion_XVIII_del_Articulo_73-Valor-Moneda_Extranjera.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Reglamentaria_del_Articulo_27-Materia_Nuclear.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Reglamentaria_del_Articulo_3o-materia-Mejora_Continua_de_la_Educacion.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Reglamentaria_del_Articulo_5o-ejercicio-profesiones-Ciudad_de_Mexico.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Reglamentaria_del_Articulo_6o_parrafo_primero-Materia-Derecho_de_Replica.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Reglamentaria_de_las_fracciones_I_y_II_del_Articulo_105.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> Ley_Reglamentaria_del_Servicio_Ferroviario.txt <==
+==> Ley_que_crea_la_Universidad_Autonoma_Chapingo.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_sobre_Camaras_Agricolas-Asociaciones_Agricolas.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_sobre_Elaboracion_y_Venta_de_Cafe_Tostado.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_sobre_Refugiados_Proteccion_Complementaria_y_Asilo_Politico.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_sobre_el_Contrato_de_Seguro.txt <==
@@ -1054,579 +1624,6 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Ley_sobre_la_Celebracion_de_Tratados.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Ley_sobre_Refugiados_Proteccion_Complementaria_y_Asilo_Politico.txt <==
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
-
-==> LFAAR.txt <==
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL
-
-==> LFAEBSP.txt <==
-LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO
-
-==> LFAFE.txt <==
-LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
-
-==> LFAR.txt <==
-LEY FEDERAL DE AUSTERIDAD REPUBLICANA
-
-==> LFCC_200120.txt <==
-LEY DE FOMENTO A LA CONFIANZA CIUDADANA
-
-==> LFCDO.txt <==
-LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA
-
-==> LFCE_200521.txt <==
-LEY FEDERAL DE COMPETENCIA ECONÓMICA
-
-==> LFCPo_190521.txt <==
-LEY FEDERAL DE CONSULTA POPULAR
-
-==> LFCPQ.txt <==
-LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUÍMICOS, PRODUCTOS QUÍMICOS ESENCIALES Y
-
-==> LFCSQ.txt <==
-LEY FEDERAL PARA EL CONTROL DE SUSTANCIAS QUÍMICAS SUSCEPTIBLES DE DESVÍO PARA LA FABRICACIÓN
-
-==> LFDA.txt <==
-LEY FEDERAL DEL DERECHO DE AUTOR
-
-==> LFDC.txt <==
-LEY FEDERAL DE LOS DERECHOS DEL CONTRIBUYENTE
-
-==> LFDEAPD.txt <==
-LEY FEDERAL DE DECLARACIÓN ESPECIAL DE AUSENCIA PARA PERSONAS DESAPARECIDAS
-
-==> LFDefP.txt <==
-LEY FEDERAL DE DEFENSORÍA PÚBLICA
-
-==> LFD.txt <==
-LEY FEDERAL DE DERECHOS
-
-==> LFEA_200521.txt <==
-LEY DE FIRMA ELECTRÓNICA AVANZADA
-
-==> LFEP.txt <==
-LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
-
-==> LFFAOSC.txt <==
-LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL
-
-==> LFFMAA.txt <==
-LEY FEDERAL PARA EL FOMENTO DE LA MICROINDUSTRIA Y LA ACTIVIDAD ARTESANAL
-
-==> LFFPMN_130420.txt <==
-LEY FEDERAL PARA EL FOMENTO Y PROTECCIÓN DEL MAÍZ NATIVO
-
-==> LFGR.txt <==
-LEY DE LA FISCALÍA GENERAL DE LA REPÚBLICA
-
-==> LFISAN.txt <==
-LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
-
-==> LFI.txt <==
-LEY DE FONDOS DE INVERSIÓN
-
-==> LFIV_230518.txt <==
-LEY DE FOMENTO A LA INDUSTRIA VITIVINÍCOLA
-
-==> LFLL.txt <==
-LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO
-
-==> LFMPED.txt <==
-LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO
-
-==> LFPCA.txt <==
-LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-
-==> LFPCCS_110518.txt <==
-LEY FEDERAL DE PRODUCCIÓN, CERTIFICACIÓN Y COMERCIO DE SEMILLAS
-
-==> LFPC.txt <==
-LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
-
-==> LFPDPPP.txt <==
-LEY FEDERAL DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS PARTICULARES
-
-==> LFPED.txt <==
-LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
-
-==> LFPIORPI_200521.txt <==
-LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
-
-==> LFPPCPCIA.txt <==
-LEY FEDERAL DE PROTECCIÓN DEL PATRIMONIO CULTURAL DE LOS PUEBLOS Y COMUNIDADES
-
-==> LFPPIPP_200521.txt <==
-LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL
-
-==> LFPPI.txt <==
-LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL
-
-==> LFPRH.txt <==
-LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
-
-==> LFPSDMH.txt <==
-LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS
-
-==> LFRA_200521.txt <==
-LEY FEDERAL DE RESPONSABILIDAD AMBIENTAL
-
-==> LFRCF_200521.txt <==
-LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DE LA FEDERACIÓN
-
-==> LFRemSP_190521.txt <==
-LEY FEDERAL DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS
-
-==> LFRM.txt <==
-LEY FEDERAL DE REVOCACIÓN DE MANDATO
-
-==> LFRPE.txt <==
-LEY FEDERAL DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO
-
-==> LFRSP.txt <==
-LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
-
-==> LFSA.txt <==
-LEY FEDERAL DE SANIDAD ANIMAL
-
-==> LFSP.txt <==
-LEY FEDERAL DE SEGURIDAD PRIVADA
-
-==> LFSV.txt <==
-LEY FEDERAL DE SANIDAD VEGETAL
-
-==> LFTAIP.txt <==
-LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
-
-==> LFTR.txt <==
-LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
-
-==> LFTSE.txt <==
-LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
-
-==> LFT.txt <==
-LEY FEDERAL DEL TRABAJO
-
-==> LFVV.txt <==
-LEY FEDERAL DE VARIEDADES VEGETALES
-
-==> LFZEE.txt <==
-LEY FEDERAL DE ZONAS ECONÓMICAS ESPECIALES
-
-==> LGAAS.txt <==
-LEY GENERAL DE LA ALIMENTACIÓN ADECUADA Y SOSTENIBLE
-
-==> LGAHOTDU.txt <==
-LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO
-
-==> LGAMVLV.txt <==
-LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
-
-==> LGAPPCEA_270516.txt <==
-LEY GENERAL PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA
-
-==> LGA.txt <==
-LEY GENERAL DE ARCHIVOS
-
-==> LGBN.txt <==
-LEY GENERAL DE BIENES NACIONALES
-
-==> LGB.txt <==
-LEY GENERAL DE BIBLIOTECAS
-
-==> LGCC.txt <==
-LEY GENERAL DE CAMBIO CLIMÁTICO
-
-==> LGCDC.txt <==
-LEY GENERAL DE CULTURA Y DERECHOS CULTURALES
-
-==> LGCFD.txt <==
-LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
-
-==> LGCG.txt <==
-LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL
-
-==> LGCS.txt <==
-LEY GENERAL DE COMUNICACIÓN SOCIAL
-
-==> LGCT.txt <==
-LEY GENERAL PARA EL CONTROL DEL TABACO
-
-==> LGDFS.txt <==
-LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
-
-==> LGDLPI.txt <==
-LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS
-
-==> LGDNNA.txt <==
-LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
-
-==> LGDOCIA_070121.txt <==
-LEY GENERAL PARA LA DETECCIÓN OPORTUNA DEL CÁNCER EN LA INFANCIA Y LA ADOLESCENCIA
-
-==> LGDS.txt <==
-LEY GENERAL DE DESARROLLO SOCIAL
-
-==> LGEEPA.txt <==
-LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
-
-==> LGES_200421.txt <==
-LEY GENERAL DE EDUCACIÓN SUPERIOR
-
-==> LGE.txt <==
-LEY GENERAL DE EDUCACIÓN
-
-==> LGIMH.txt <==
-LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
-
-==> LGIPD.txt <==
-LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
-
-==> LGIPE.txt <==
-LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
-
-==> LGMASC.txt <==
-LEY GENERAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS
-
-==> LGMDE_200521.txt <==
-LEY GENERAL EN MATERIA DE DELITOS ELECTORALES
-
-==> LGMDFP.txt <==
-LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR
-
-==> LGMHCTI.txt <==
-LEY GENERAL EN MATERIA DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN
-
-==> LGMIME.txt <==
-LEY GENERAL DE LOS MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
-
-==> LGMR_200521.txt <==
-LEY GENERAL DE MEJORA REGULATORIA
-
-==> LGMSV.txt <==
-LEY GENERAL DE MOVILIDAD Y SEGURIDAD VIAL
-
-==> LGN.txt <==
-LEY DE LA GUARDIA NACIONAL
-
-==> LGOAAC.txt <==
-LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO
-
-==> LGPAS.txt <==
-LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
-
-==> LGPC.txt <==
-LEY GENERAL DE PROTECCIÓN CIVIL
-
-==> LGPDPPSO.txt <==
-LEY GENERAL DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS
-
-==> LGPGIR.txt <==
-LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
-
-==> LGPIST.txt <==
-LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES,
-
-==> LGPP.txt <==
-LEY GENERAL DE PARTIDOS POLÍTICOS
-
-==> LGPSACDII.txt <==
-LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL
-
-==> LGPSDMS_200521.txt <==
-LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI
-
-==> LGPSEDMTP.txt <==
-LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y
-
-==> LGPSVD_040521.txt <==
-LEY GENERAL PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
-
-==> LGRA.txt <==
-LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS
-
-==> LGSCMM_300919.txt <==
-LEY GENERAL DEL SISTEMA PARA LA CARRERA DE LAS MAESTRAS Y LOS MAESTROS
-
-==> LGSMIME.txt <==
-LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
-
-==> LGSM.txt <==
-LEY GENERAL DE SOCIEDADES MERCANTILES
-
-==> LGSNA_200521.txt <==
-LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN
-
-==> LGSNSP.txt <==
-LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA
-
-==> LGS.txt <==
-LEY GENERAL DE SALUD
-
-==> LGTAIP.txt <==
-LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
-
-==> LGTOC.txt <==
-LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO
-
-==> LGT.txt <==
-LEY GENERAL DE TURISMO
-
-==> LGV.txt <==
-LEY GENERAL DE VÍCTIMAS
-
-==> LHHEUM.txt <==
-LEY DE LOS HUSOS HORARIOS EN LOS ESTADOS UNIDOS MEXICANOS
-
-==> LHidro.txt <==
-LEY DE HIDROCARBUROS
-
-==> LICal_010720.txt <==
-LEY DE INFRAESTRUCTURA DE LA CALIDAD
-
-==> LIC.txt <==
-LEY DE INSTITUCIONES DE CRÉDITO
-
-==> LIElec.txt <==
-LEY DE LA INDUSTRIA ELÉCTRICA
-
-==> LIEPS.txt <==
-LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
-
-==> LIE.txt <==
-LEY DE INVERSIÓN EXTRANJERA
-
-==> LIF_2024.txt <==
-LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2024
-
-==> LIFNCT.txt <==
-LEY DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES
-
-==> LIFNVT.txt <==
-LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
-
-==> LIGIE_2022.txt <==
-LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
-
-==> LIH.txt <==
-LEY DE INGRESOS SOBRE HIDROCARBUROS
-
-==> LIISPCEN.txt <==
-LEY PARA IMPULSAR EL INCREMENTO SOSTENIDO DE LA PRODUCTIVIDAD Y LA COMPETITIVIDAD DE LA
-
-==> LIMJ.txt <==
-LEY DEL INSTITUTO MEXICANO DE LA JUVENTUD
-
-==> LINPI.txt <==
-LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS
-
-==> LINS.txt <==
-LEY DE LOS INSTITUTOS NACIONALES DE SALUD
-
-==> LISF.txt <==
-LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS
-
-==> LISR.txt <==
-LEY DEL IMPUESTO SOBRE LA RENTA
-
-==> LISSSTE.txt <==
-LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
-
-==> LIVA.txt <==
-LEY DEL IMPUESTO AL VALOR AGREGADO
-
-==> LMigra.txt <==
-LEY DE MIGRACIÓN
-
-==> LMin.txt <==
-LEY DE MINERÍA
-
-==> LMV.txt <==
-LEY DEL MERCADO DE VALORES
-
-==> LNCM_071220.txt <==
-LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS
-
-==> LNED.txt <==
-LEY NACIONAL DE EXTINCIÓN DE DOMINIO
-
-==> LNEP.txt <==
-LEY NACIONAL DE EJECUCIÓN PENAL
-
-==> LNMASCMP.txt <==
-LEY NACIONAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA PENAL
-
-==> LNRD_270519.txt <==
-LEY NACIONAL DEL REGISTRO DE DETENCIONES
-
-==> LNSIJPA.txt <==
-LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES
-
-==> LNUF.txt <==
-LEY NACIONAL SOBRE EL USO DE LA FUERZA
-
-==> LOAM.txt <==
-LEY ORGÁNICA DE LA ARMADA DE MÉXICO
-
-==> LOAPF.txt <==
-LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
-
-==> LOBNCE.txt <==
-LEY ORGÁNICA DEL BANCO NACIONAL DE COMERCIO EXTERIOR
-
-==> LOBNOSP.txt <==
-LEY ORGÁNICA DEL BANCO NACIONAL DE OBRAS Y SERVICIOS PÚBLICOS
-
-==> LOCFCRL_060120.txt <==
-LEY ORGÁNICA DEL CENTRO FEDERAL DE CONCILIACIÓN Y REGISTRO LABORAL
-
-==> LOCGEUM.txt <==
-LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
-
-==> LOEFAM.txt <==
-LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
-
-==> LOPDC.txt <==
-LEY ORGÁNICA DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE
-
-==> LOPGJDF.txt <==
-LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
-
-==> LOPJF.txt <==
-LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
-
-==> LORCME_200521.txt <==
-LEY DE LOS ÓRGANOS REGULADORES COORDINADOS EN MATERIA ENERGÉTICA
-
-==> LOSCM.txt <==
-LEY ORGÁNICA DEL SEMINARIO DE CULTURA MEXICANA
-
-==> LOSHF.txt <==
-LEY ORGÁNICA DE SOCIEDAD HIPOTECARIA FEDERAL
-
-==> LOTFJA.txt <==
-LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
-
-==> LOUAAAN.txt <==
-LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA AGRARIA ANTONIO NARRO
-
-==> LPAB.txt <==
-LEY DE PROTECCIÓN AL AHORRO BANCARIO
-
-==> LPDB.txt <==
-LEY DE PROMOCIÓN Y DESARROLLO DE LOS BIOENERGÉTICOS
-
-==> LPDUSF.txt <==
-LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS
-
-==> LPEAM.txt <==
-LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO
-
-==> LPERC.txt <==
-LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
-
-==> LPF.txt <==
-LEY DE LA POLICÍA FEDERAL
-
-==> LPlan.txt <==
-LEY DE PLANEACIÓN
-
-==> LPM_110814.txt <==
-LEY DE PETRÓLEOS MEXICANOS
-
-==> LPO.txt <==
-LEY DE PRODUCTOS ORGÁNICOS
-
-==> LPPDDHP.txt <==
-LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS
-
-==> LRAF.txt <==
-LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS
-
-==> LRAM.txt <==
-LEY DE RECOMPENSAS DE LA ARMADA DE MÉXICO
-
-==> LRArt3_MMCE_300919.txt <==
-LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS
-
-==> LRArt6_MDR.txt <==
-LEY REGLAMENTARIA DEL ARTÍCULO 6o., PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS
-
-==> LRArt76_fracVI.txt <==
-LEY REGLAMENTARIA DE LA FRACCIÓN VI DEL ARTÍCULO 76 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS
-
-==> LRASCAP.txt <==
-LEY PARA REGULAR LAS ACTIVIDADES DE LAS SOCIEDADES COOPERATIVAS DE AHORRO Y PRÉSTAMO
-
-==> LRFIyII_Art105.txt <==
-LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DE LOS
-
-==> LRFXIIIB_Art123.txt <==
-LEY REGLAMENTARIA DE LA FRACCIÓN XIII BIS DEL APARTADO B, DEL ARTÍCULO 123 DE LA CONSTITUCIÓN
-
-==> LRITF.txt <==
-LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA
-
-==> LRPCAP.txt <==
-LEY SOBRE REFUGIADOS, PROTECCIÓN COMPLEMENTARIA Y ASILO POLÍTICO
-
-==> LRSF.txt <==
-LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO
-
-==> LRSIC.txt <==
-LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA
-
-==> LSAR.txt <==
-LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
-
-==> LSInt_300519.txt <==
-LEY DE SEGURIDAD INTERIOR
-
-==> LSM.txt <==
-LEY DEL SERVICIO MILITAR
-
-==> LSNIEG.txt <==
-LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA
-
-==> LSN.txt <==
-LEY DE SEGURIDAD NACIONAL
-
-==> LSPM.txt <==
-LEY DEL SERVICIO POSTAL MEXICANO
-
-==> LSPREM.txt <==
-LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO
-
-==> LSS.txt <==
-LEY DEL SEGURO SOCIAL
-
-==> LTE.txt <==
-LEY DE TRANSICIÓN ENERGÉTICA
-
-==> LTF.txt <==
-LEY DE TESORERÍA DE LA FEDERACIÓN
-
-==> LTOSF.txt <==
-LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
-
-==> LTPCPIMCP.txt <==
-LEY PARA LA TRANSPARENCIA, PREVENCIÓN Y COMBATE DE PRÁCTICAS INDEBIDAS EN MATERIA DE
-
-==> LUC.txt <==
-LEY DE UNIONES DE CRÉDITO
-
-==> LUPDECR.txt <==
-LEY PARA EL USO Y PROTECCIÓN DE LA DENOMINACIÓN Y DEL EMBLEMA DE LA CRUZ ROJA
-
-==> LVGC.txt <==
-LEY DE VÍAS GENERALES DE COMUNICACIÓN
-
-==> LViv.txt <==
-LEY DE VIVIENDA
-
-==> LVZMM_130420.txt <==
-LEY DE VERTIMIENTOS EN LAS ZONAS MARINAS MEXICANAS
-
 ==> Ordenanza_General_de_la_Armada.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
@@ -1639,6 +1636,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Reg_Diputados.txt <==
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
+==> Reg_Senado.txt <==
+REGLAMENTO DEL SENADO DE LA REPÚBLICA
+
 ==> Reglamento_de_la_Camara_de_Diputados.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
@@ -1648,8 +1648,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Reglamento_para_el_Gobierno_Interior_del_Congreso.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
-==> Reg_Senado.txt <==
-REGLAMENTO DEL SENADO DE LA REPÚBLICA
+==> índice.txt <==
+==> CCF.txt <==
 
 ==> 10_270614.txt <==
 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL
