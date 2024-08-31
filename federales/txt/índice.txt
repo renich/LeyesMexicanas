@@ -778,6 +778,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Ley_Federal_de_Correduria_Publica.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
+==> Ley_Federal_de_Declaracion_Especial_de_Ausencia_para_Personas_Desaparecidas.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
 ==> Ley_Federal_de_Defensoria_Publica.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
@@ -1480,6 +1483,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Ley_del_Diario_Oficial_de_la_Federacion_y_Gacetas.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
+==> Ley_del_Fondo_Mexicano_del_Petroleo_para_la_Estabilizacion_y_el_Desarrollo.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
 ==> Ley_del_Impuesto_Especial_sobre_Produccion_y_Servicios.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
@@ -1568,6 +1574,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_para_la_Comprobacion_Ajuste_y_Computo_de_Servicios_de_la_Armada.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_para_la_Comprobacion_Ajuste_y_Computo_de_Servicios_en_el_Ejercito_y_Fuerza_Aerea.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_para_la_Proteccion_de_Personas_Defensoras_de_Derechos_Humanos_y_Periodistas.txt <==
