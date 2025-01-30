@@ -8,11 +8,7 @@ CIVILES Y FAMILIARES
 Nuevo Código publicado en el Diario Oficial de la
 Federación el 7 de junio de 2023
 TEXTO VIGENTE
-Última reforma publicada DOF 04-06-2024
-
-Declaratoria de invalidez de artículos por Sentencia de la SCJN
-notificada al Congreso de la Unión para efectos legales el
-14-08-2024
+Última reforma publicada DOF 16-12-2024
 Nota sobre la entrada en vigor y aplicación gradual de
 este Código: De conformidad con los artículos transitorios
 Primero y Segundo del Decreto DOF 07-06-2023, se
@@ -26,10 +22,10 @@ previsto en el presente Decreto, entrará en vigor
 gradualmente, como sigue: en el Orden Federal, de
 conformidad con la Declaratoria que indistinta y
 sucesivamente realicen las Cámaras de Diputados y
-
 Senadores que integran el Congreso de la Unión, previa
 solicitud del Poder Judicial de la Federación, sin que la
 misma pueda exceder del 1o. de abril de 2027.
+
 En el caso de las Entidades Federativas, el presente
 Código Nacional, entrará en vigor en cada una de éstas de
 conformidad con la Declaratoria que al efecto emita el
@@ -54,10 +50,10 @@ el día 1o. de abril de 2027.”
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
 República.
-
 ANDRÉS MANUEL LÓPEZ OBRADOR, Presidente
 de los Estados Unidos Mexicanos, a sus habitantes
 sabed:
+
 Que el Honorable Congreso de la Unión, se ha
 servido dirigirme el siguiente
 DECRETO
@@ -79,11 +75,11 @@ Civil y Familiar
 Título Primero
 Disposiciones Generales
 Capítulo I
-
 Del Código Nacional de Procedimientos Civiles y
 Familiares
 Sección Primera
 Formalidades del Procedimiento
+
 Artículo 1. Las disposiciones de este Código
 Nacional son de orden público, interés social y
 observancia general en todo el territorio nacional,
@@ -109,12 +105,12 @@ igualdad de condiciones;
 
 II. Apoyo. Formas de asistir en el Procedimiento a
 las personas para facilitar su comprensión,
-
 ejercicio y manifestación de voluntad, derechos y
 obligaciones;
 III. Archivo o documento electrónico. Con
 independencia del formato en que se encuentre,
 comprenden el escrito que es generado,
+
 consultado, modificado o procesado por medios
 electrónicos, digitales u ópticos, enviado,
 recibido, almacenado o utilizado a través de
@@ -140,13 +136,13 @@ cuyas características buscan posibilitar la
 transferencia de valor en entornos digitales a
 través de métodos de consenso y cifrado. Desde
 un punto de vista técnico, y atendiendo a sus
-
 características, una cadena de bloques es una
 base de datos, descentralizada y distribuida en
 una red de computadoras, formada por un
 conjunto de registros vinculados donde se
 almacenan transacciones o datos, que han sido
 diseñados para evitar su modificación o
+
 manipulación no autorizada, una vez que un
 dato ha sido publicado. Una cadena de bloques
 es pública cuando es abierta, transparente,
@@ -168,13 +164,13 @@ entre dicha firma electrónica avanzada y el
 firmante;
 X. Código Civil. Los Códigos Civiles y Familiares,
 Federal o Locales;
-
 XI. Código Nacional. El Código Nacional de
 Procedimientos Civiles y Familiares;
 XII. Declaración especial de ausencia por
 desaparición. Se entenderá lo previsto en la
 Ley General en materia de Desaparición
 Forzada, Desaparición cometida por Particulares
+
 y del Sistema Nacional de Búsqueda, en la Ley
 Federal de Declaración Especial de Ausencia
 para Personas Desaparecidas, así como en las
@@ -199,7 +195,6 @@ autorizado dentro de un procedimiento judicial
 que se lleva a cabo a distancia o de forma
 remota, mediante el uso de cualquier sistema de
 justicia digital;
-
 XV. Documento digitalizado. Escrito que contiene
 información que ha sido creado originalmente en
 soporte físico o de forma impresa y
@@ -207,6 +202,7 @@ posteriormente ha migrado a un medio
 electrónico, digital o de cualquier tecnología;
 XVI. Documento electrónico. Escrito que es
 generado, consultado, modificado o procesado
+
 por medios electrónicos, que es enviado,
 recibido, almacenado o utilizado a través de
 sistemas de justicia digital;
@@ -243,7 +239,6 @@ así
 como
 las
 promociones de las partes y demás
-
 intervinientes en un determinado procedimiento
 judicial;
 XX. Firma electrónica avanzada. El conjunto de
@@ -252,6 +247,7 @@ del firmante, que ha sido creada por medios
 electrónicos bajo su exclusivo control, de
 manera que está vinculada únicamente al mismo
 y a los datos a los que se refiere, lo que permite
+
 que sea detectable cualquier modificación
 ulterior de éstos, la cual produce los mismos
 efectos jurídicos que la firma autógrafa. La firma
@@ -274,7 +270,6 @@ identificar al firmante en relación con el mensaje
 de datos e indicar que el firmante aprueba la
 información contenida en el mensaje de datos, y
 que produce los mismos efectos jurídicos que la
-
 firma autógrafa, siendo admisible como prueba
 en juicio;
 XXII. Grupos
@@ -286,6 +281,7 @@ vulnerabilidad. Las personas que pertenecen a
 grupos sociales en situación de vulnerabilidad,
 que, por causas diversas, enfrentan situaciones
 de riesgo o discriminación;
+
 XXIII.
 Integridad. Se considerará que el
 contenido de un documento electrónico o
@@ -310,7 +306,6 @@ competencia, hace del conocimiento de las
 partes, la emisión de una resolución judicial;
 XXV. Mensaje de datos. La información generada,
 enviada, recibida, archivada o comunicada a
-
 través de medios de comunicación electrónica,
 que puede contener documentos electrónicos;
 XXVI. Metaverso. Espacio virtual que posibilita la
@@ -319,6 +314,7 @@ de experiencias gráficas inmersivas en tercera
 dimensión, que suele utilizar tecnologías de
 realidad virtual, realidad aumentada, realidad
 mixta o híbrida, tokens y cadena de bloques;
+
 XXVII. Notificación electrónica. Acto mediante el
 cual se hace saber a las personas a quienes va
 dirigida, a través de medios electrónicos, una
@@ -345,7 +341,6 @@ XXX. Persona Representante Autorizada. La
 persona autorizada por cualquiera de las partes
 con funciones de representación en el
 procedimiento judicial, de carácter público o
-
 privado que se encuentre legalmente autorizado
 para ejercer la profesión de abogado o
 licenciado en derecho con cédula profesional
@@ -357,6 +352,7 @@ Todo
 procedimiento, contencioso o no contencioso,
 regulado en el presente Código Nacional, que se
 tramite utilizando sistemas de justicia digital;
+
 XXXII. Promoción
 electrónica.
 Cualquier
@@ -387,7 +383,6 @@ holográfico, o cualquier otro medio tecnológico
 designado como sistema de interacción a
 distancia, que permita la transmisión de audio,
 video o imágenes, así como la comunicación
-
 sincrónica entre las partes que participan en
 cualquier acto procesal y el órgano jurisdiccional;
 XXXV. Sistemas de justicia digital. Todo
@@ -398,6 +393,7 @@ terceros, que sea utilizada para consultar, usar,
 enviar o llevar a cabo procedimientos en línea,
 audiencias virtuales, diligencias virtuales,
 expedientes electrónicos, firmas electrónicas,
+
 mensajes de datos, documentos electrónicos o
 digitalizados, promociones electrónicas, salas
 virtuales y videoconferencias, y
@@ -416,7 +412,6 @@ serán considerados los beneficios de la justicia
 alternativa o procedimientos convencionales que
 pacten las partes y de conformidad con lo dispuesto
 en este Código Nacional, podrá tramitarse mediante
-
 el uso de las tecnologías de la información y la
 comunicación.
 Artículo 4. Las autoridades jurisdiccionales contarán
@@ -426,6 +421,7 @@ derecho corresponda al procedimiento respectivo.
 Para hacer cumplir sus determinaciones podrán hacer
 uso de las medidas de apremio previstas en este
 Código Nacional.
+
 Las autoridades jurisdiccionales deberán cerciorarse
 en todos los casos que las partes se encuentren
 debidamente
@@ -448,7 +444,6 @@ niños y adolescentes, así como los derechos de las
 mujeres, la autoridad jurisdiccional deberá actuar y
 resolver con base en el interés superior de las niñas,
 niños, o adolescentes, así como con perspectiva de
-
 género
 de
 conformidad
@@ -463,6 +458,7 @@ vulnerabilidad mediante formatos alternativos, a fin de
 garantizar equidad y accesibilidad estructural y de
 comunicación, durante el procedimiento, en estricto
 apego al ejercicio de los derechos humanos.
+
 Artículo 6. Tratándose de personas que
 pertenezcan a pueblos y comunidades indígenas y
 afromexicanas, la autoridad jurisdiccional deberá
@@ -481,7 +477,6 @@ desahogo de la audiencia no es posible contar con la
 asistencia requerida, deberá suspenderse y
 ordenarse nueva fecha. En ningún caso las partes o
 los testigos podrán ser intérpretes.
-
 Artículo 7. Son principios rectores del sistema de
 impartición de justicia en materia civil y familiar:
 I.
@@ -495,6 +490,7 @@ peticiones;
 
 II. Concentración. Se procurará desahogar la
 mayor cantidad de actuaciones procesales en
+
 una sola audiencia o el menor número de
 diligencias procesales;
 III. Colaboración. Se propiciará que las partes
@@ -512,7 +508,6 @@ su suspensión en los casos establecidos en el
 presente Código Nacional;
 V. Contradicción. Las partes tienen derecho a
 debatir los hechos, argumentos jurídicos y
-
 pruebas de su contraparte, en los términos
 establecidos en este Código Nacional;
 VI. Dirección Procesal. La rectoría del proceso
@@ -523,6 +518,7 @@ VII. Igualdad Procesal. Desde el escrito inicial de
 demanda y hasta la ejecución de la sentencia,
 las personas recibirán el mismo trato,
 oportunidades, derechos y cargas procesales sin
+
 discriminación alguna. Con las excepciones que
 se establezcan expresamente en este Código
 Nacional, cuando en la controversia se
@@ -544,7 +540,6 @@ otros derechos que pudieran estar en pugna en
 el litigio;
 X. Impulso procesal. Las partes tienen la facultad
 para solicitar las diligencias necesarias que
-
 impidan la paralización del procedimiento, con
 independencia del principio de Dirección
 procesal que le corresponde a la autoridad
@@ -555,6 +550,7 @@ la justicia, al respeto que se deben, a la probidad
 y buena fe;
 XII. Litis abierta. En materia familiar, la litis no se
 reduce a la demanda y a la contestación, o en su
+
 caso, a la reconvención y a la contestación de
 ésta, sino que la autoridad jurisdiccional debe
 hacer mérito de los hechos constitutivos,
@@ -573,7 +569,6 @@ los hombres. Se propone eliminar las causas de
 la opresión de género como la desigualdad, la
 injusticia y la jerarquización de las personas
 basada en el género. Promueve la igualdad
-
 entre los géneros a través de la equidad, el
 adelanto y el bienestar de las mujeres;
 contribuye a construir una sociedad en donde las
@@ -585,6 +580,7 @@ toma de decisiones;
 XV. Preclusión. El no ejercicio de los derechos
 procesales en la etapa correspondiente extingue
 la oportunidad de ejercerlos en la posterior;
+
 XVI. Privacidad. En materia familiar el acceso a las
 audiencias queda reservado a las partes y a
 quienes deban comparecer conforme a la ley, y
@@ -612,6 +608,7 @@ al Ministerio Público, procurador, fiscal o
 representante social y a quienes cuya
 intervención esté autorizada por la Ley en casos
 especiales.
+
 Se exceptúa de lo señalado en la fracción III
 anterior, el derecho o interés difuso, colectivo o
 individual de incidencia colectiva, de conformidad con
@@ -633,7 +630,6 @@ las
 autoridades
 correspondientes, dentro de los límites de sus
 atribuciones.
-
 Artículo 10. La acción procede en juicio aun cuando
 no se exprese su nombre o se manifieste
 equivocadamente, siempre que se determine con
@@ -660,7 +656,6 @@ III. La reclamación de los derechos de usufructo,
 uso y habitación;
 IV. Las hipotecarias;
 V. Las de prenda;
-
 VI. Las de herencia;
 VII. Las de posesión, y
 VIII. Las demás acciones que tiendan a ejercitar un
@@ -670,6 +665,7 @@ Artículo 13. Las acciones personales se deducirán
 para exigir el cumplimiento de una obligación
 personal, ya sea de dar, de hacer o no hacer
 determinado acto. Éstas no pueden ejercitarse sino
+
 contra la persona obligada, contra quien la haya
 garantizado y contra quienes legalmente le sucedan
 en la obligación.
@@ -687,7 +683,6 @@ Código Civil.
 Artículo 16. El tenedor del bien puede declinar la
 responsabilidad del juicio designando a quien posee a
 título de dueño.
-
 Artículo 17. El poseedor que niegue la posesión la
 perderá en beneficio del demandante.
 Artículo 18. Pueden ser demandadas en
@@ -698,6 +693,7 @@ restituir el bien o su estimación si la sentencia fuera
 condenatoria. La parte demandada que paga la
 estimación del bien puede ejercitar a su vez la
 reivindicación.
+
 Artículo 19. No pueden reivindicarse los bienes que
 están fuera del comercio, los géneros no
 determinados al entablarse la demanda, las cosas
@@ -716,7 +712,6 @@ través de los registros respectivos, y éstos pudieron
 ser consultados por el adquiriente.
 Artículo 20. A quien adquiere con justo título y de
 buena fe, le compete la acción plenaria de posesión
-
 para que se le restituya el bien con sus frutos y
 accesiones en los términos del artículo 15 de este
 Código Nacional, incluso cuando no lo haya prescrito.
@@ -727,6 +722,7 @@ No procede esta acción en casos en que ambas
 posesiones fuesen dudosas, o la parte demandada
 tuviere su título registrado y la parte actora no, así
 como contra quien sea legítima propietaria.
+
 Artículo 21. Procederá la acción negatoria para
 obtener la declaración de libertad o la de reducción de
 gravámenes de bien inmueble y la demolición de
@@ -745,7 +741,6 @@ Artículo 22. Compete la acción confesoria al titular
 del derecho real sobre el inmueble y a quien posea el
 fundo dominante interesado en la existencia de la
 servidumbre. Se da esta acción contra el tenedor o
-
 poseedor jurídico que contraría el gravamen, para que
 se obtenga el reconocimiento, la declaración de los
 derechos y obligaciones del gravamen y el pago de
@@ -757,6 +752,7 @@ Artículo 23. Se intentará la acción hipotecaria para
 constituir, ampliar y registrar una hipoteca, o bien,
 para obtener el pago o prelación del crédito que una
 hipoteca garantiza o cuando tenga por objeto la
+
 división, registro y extinción de ésta, así como su
 nulidad, cancelación o para obtener el pago o
 prelación del crédito que la hipoteca garantice.
@@ -775,7 +771,6 @@ hereditarios con sus accesiones, sea indemnizado y
 le rindan cuentas.
 Artículo 25. La petición de herencia se deducirá por
 la persona presunta heredera por testamento o
-
 sucesión legítima, así como la legataria, y se da
 contra quien tenga el cargo de albacea y contra quien
 posea los bienes hereditarios con carácter de
@@ -786,6 +781,7 @@ Para el caso que el juicio sucesorio ya hubiera
 concluido, la acción de petición de herencia deberá
 formularse en contra de quienes tengan la calidad de
 causahabientes; y de no haberse formalizado en
+
 escritura la titularidad de los bienes, esta acción real
 se hará en contra de quien se haya adjudicado.
 Artículo 26. El copropietario puede deducir las
@@ -805,7 +801,6 @@ inmueble, compete el interdicto de retener la posesión
 contra quien le perturbe, mandó tal perturbación o que
 a sabiendas y directamente se aproveche de ella, y
 contra la sucesora de la despojante. El objeto de esta
-
 acción es poner término a la perturbación, indemnizar
 a la poseedora y que la parte condenada garantice no
 volver a perturbar.
@@ -815,6 +810,7 @@ tendientes directamente a la usurpación violenta, o a
 impedir el ejercicio del derecho. Que se reclame
 dentro de un año, y que la persona poseedora no
 haya obtenido la posesión de la contraria.
+
 Artículo 28. Quien sea despojada de la posesión
 jurídica de un bien inmueble, tanto originaria como
 derivada, debe ser restituida, y le compete la acción
@@ -839,7 +835,6 @@ parte
 demandada,
 poseía
 clandestinamente, por la fuerza o a ruego; pero sí
-
 contra la persona propietaria despojante que transfirió
 el uso y el aprovechamiento del bien por medio de
 contrato.
@@ -850,6 +845,7 @@ su demolición o modificación en su caso, y la
 restitución de las cosas al estado anterior a la obra
 nueva. Compete también a vecinos del lugar cuando
 la obra nueva se construye en bienes de uso común.
+
 Se da contra la persona que la mandó construir, sea
 poseedora o detentadora del bien donde se
 construye.
@@ -868,7 +864,6 @@ La suspensión quedará sin efecto, si la persona
 propietaria de la obra nueva da a su vez,
 contragarantía bastante para restituir las cosas al
 estado que guardaban antes o paga los gastos que
-
 erogó la parte actora para garantizar la suspensión de
 la obra, así como los daños y perjuicios que le
 sobrevengan a éste en caso de que se declare
@@ -879,6 +874,7 @@ contravengan disposiciones de orden público.
 Artículo 33. La acción de obra peligrosa se da a
 quien esté en la posesión jurídica o derivada de una
 propiedad contigua o cercana que pueda resentirse o
+
 padecer por la ruina o derrumbe de la otra, caída de
 un árbol u otro objeto análogo. Su finalidad es adoptar
 medidas urgentes para evitar los riesgos que ofrezca
@@ -897,7 +893,6 @@ persona demandada suspenda la obra o realice las
 obras indispensables para evitar daños a la actora.
 Artículo 35. Compete acción a terceras personas
 para coadyuvar en el juicio seguido contra sus
-
 codeudores solidarios. Igual facultad corresponde a
 quienes cuyo derecho dependa de la subsistencia del
 derecho de la parte demandada o de la actora.
@@ -907,6 +902,7 @@ puede hacer concurrir a juicio a sus codeudores,
 siempre y cuando su cumplimiento no sea de tal
 naturaleza que sólo pueda satisfacerse por la parte
 demandada.
+
 Artículo 36. La parte demandada al contestar la
 demanda podrá denunciar el pleito a quien esté
 obligada a la evicción; de así considerarlo, la
@@ -926,7 +922,6 @@ costa el importe de la publicación de los edictos para
 el emplazamiento.
 Artículo 37. Quien sea llamada a juicio para que le
 pare perjuicio la sentencia, podrá comparecer al
-
 mismo en un plazo de quince días, y estará en aptitud
 de ofrecer pruebas, alegar e interponer toda clase de
 defensas y recursos. El llamamiento a juicio se hará
@@ -937,6 +932,7 @@ deberá cubrir el pago por derecho de expedición de
 las copias simples necesarias para su llamamiento.
 Artículo 38. Quien se ostente como tercero e intente
 excluir los derechos de la parte actora y de la
+
 demandada, o los de la primera solamente, tiene la
 facultad de concurrir al procedimiento o de iniciar uno
 nuevo, en el caso de que ya se haya dictado
@@ -955,7 +951,6 @@ En los procedimientos de reconocimiento de
 identidad de género, o de reasignación por
 concordancia sexo genérica, en la sentencia o
 constancia se deberá ordenar el levantamiento de una
-
 nueva acta de nacimiento, y la cancelación del acta
 de nacimiento primigenia.
 Artículo 41. Las acciones del estado civil fundadas
@@ -965,6 +960,7 @@ contra cualquier perturbador.
 Las decisiones judiciales recaídas en el ejercicio de
 acciones de estado civil perjudican aún a quienes no
 litigaron.
+
 Artículo 42. La autoridad competente tendrá a su
 cargo el control del registro de personas deudoras
 alimentarias morosas, en el que harán las
@@ -980,7 +976,6 @@ correspondiente, siempre y cuando se acredite la
 titularidad registral del bien inmueble transmitido por
 quien esté obligado a realizar la formalización que se
 exige.
-
 Artículo 45. En las acciones mancomunadas por
 título de herencia o legado, sean reales o personales,
 se observarán las reglas siguientes:
@@ -995,6 +990,7 @@ II. Si se ha nombrado albacea, interventor o
 albacea judicial o provisional, sólo a ellos
 compete la facultad de deducirlas en juicio, y
 sólo podrán hacerlo quienes tengan reconocido
+
 derecho de herencia o legado cuando,
 requeridos por estos, aquéllos se rehúsen a
 hacerlo.
@@ -1011,7 +1007,6 @@ persona del deudor nunca se ejercitarán por quien
 sea acreedor.
 Quienes acepten la herencia que corresponda a su
 deudor, ejercitarán las acciones pertenecientes a
-
 éste, en los términos previstos por el Código Civil
 correspondiente.
 Artículo 47. Las acciones que pueden ejercitarse
@@ -1023,6 +1018,7 @@ ocultación de bienes o por dolo o fraude en la
 administración de los bienes indivisos.
 Artículo 48. Cuando haya varias acciones contra
 una misma persona, respecto de un mismo bien y
+
 provengan de una misma causa, deberán intentarse
 en una sola demanda y por el ejercicio de una o más
 quedan extinguidas las otras. No pueden acumularse
@@ -1040,7 +1036,6 @@ cuando alguno tenga acción o excepción que
 dependa del ejercicio de la acción de otro, a quien
 pueda exigir que la deduzca, oponga o continúe
 desde luego; y si se rehusare, lo podrá hacer aquel.
-
 Artículo 50. Admitida la demanda, así como
 formulada la contestación, no podrán modificarse ni
 alterarse, salvo en los casos que este Código
@@ -1052,6 +1047,7 @@ Para tal efecto, se dará vista a la contraria por el
 término de tres días para que manifieste su
 conformidad o inconformidad, y en caso de silencio,
 se tendrá por conforme con dicho desistimiento y su
+
 efecto será que las cosas vuelvan al estado que
 tenían antes de la presentación de la demanda, sin
 perjuicio del pago a la contraparte de las costas,
@@ -1067,7 +1063,6 @@ procede en aquellos asuntos en los cuales se ha
 dictado sentencia o auto definitivo que han causado
 ejecutoria, y se actualiza alguna de las siguientes
 hipótesis:
-
 I.
 
 Si se falló con base en pruebas reconocidas o
@@ -1083,6 +1078,7 @@ promovente de la acción de nulidad de juicio
 concluido.
 Artículo 53. La acción de nulidad de juicio concluido
 puede ser ejercitada por quienes hayan sido parte en
+
 el procedimiento, sus sucesores o causahabientes y
 los terceros a quienes perjudique la resolución.
 Artículo 54. Es competente la autoridad
@@ -1116,6 +1112,7 @@ como nulo, se suspenderán los plazos a que se
 refiere el artículo anterior.
 Artículo 57. La interposición de la acción de nulidad
 de juicio concluido no suspenderá la ejecución de la
+
 resolución firme que la motivare. Sin embargo, quien
 promueva la nulidad podrá solicitar a la autoridad
 jurisdiccional que conociere de la misma, la
@@ -1131,7 +1128,6 @@ concluido se declare infundada, la garantía se
 adjudicará a la parte demandada por concepto de
 daños y perjuicios ocasionados por la suspensión, sin
 necesidad de prueba alguna.
-
 No será necesaria la garantía cuando se acredite
 fehacientemente que la ejecución pueda causar un
 daño irreparable a quien promueve la nulidad. En este
@@ -1146,6 +1142,7 @@ licenciada en derecho o abogada que la haya
 intentado.
 Artículo 59. Contra la sentencia dictada en el juicio
 de nulidad de juicio concluido procederá el recurso de
+
 apelación, en los términos previstos en este Código
 Nacional.
 Artículo 60. La parte demandada que haya dado
@@ -1158,7 +1155,6 @@ declare fundada la acción de nulidad, conforme al
 arancel correspondiente.
 En caso de ser improcedente o infundada la acción
 de nulidad de juicio concluido, siempre se condenará
-
 a la actora a una indemnización por concepto de
 daños y perjuicios, y a pagar gastos y costas.
 El pago de los gastos y costas será conforme al
@@ -1171,6 +1167,7 @@ las prestaciones condenadas en la sentencia
 ejecutoriada, siempre y cuando se acredite el dolo.
 Sección Tercera
 De las Excepciones
+
 Artículo 62. Las excepciones procesales son las
 oposiciones de la parte demandada para impugnar o
 contradecir el procedimiento, sin atacar el derecho
@@ -1185,7 +1182,6 @@ que esté sujeta la obligación;
 
 II. La improcedencia de la vía;
 III. La incompetencia de la autoridad jurisdiccional;
-
 IV. La litispendencia;
 V. La conexidad de la causa;
 VI. La falta de personalidad del actor o del
@@ -1196,6 +1192,7 @@ IX. Las demás a las que les den ese carácter las
 leyes.
 Se harán valer al contestar la demanda, la
 reconvención o la solicitud de medidas cautelares y
+
 en ningún caso suspenderán el procedimiento. De
 todas las excepciones se dará vista a la contraria por
 el término de tres días para que manifieste lo que a su
@@ -1211,7 +1208,6 @@ juicio oral no procede recurso alguno.
 En las excepciones de falta de personalidad,
 conexidad o litispendencia, sólo se admitirá la prueba
 documental en copia certificada, las que se deberán
-
 exhibir antes de la audiencia preliminar, en términos
 de lo dispuesto en este Código Nacional.
 Artículo 64. En la excepción de falta de
@@ -1226,6 +1222,7 @@ condenar al pago de gastos y costas que se hubieren
 causado.
 Artículo 65. Cuando se declare la improcedencia de
 la vía, el efecto será el de continuar el procedimiento
+
 para el trámite del juicio en la vía que se considere
 procedente declarando la validez de lo actuado, sin
 perjuicio de la obligación de la autoridad jurisdiccional
@@ -1240,7 +1237,6 @@ en el que hay identidad entre partes, acciones
 deducidas y objetos reclamados, cuando las partes
 litiguen con el mismo carácter. Quien la oponga, debe
 señalar precisamente la autoridad jurisdiccional ante
-
 quien se tramita el primer juicio y declarar bajo
 protesta de decir verdad, que no se ha dictado
 sentencia definitiva en el juicio primeramente
@@ -1254,6 +1250,7 @@ exhibirse hasta el momento de celebración de la
 audiencia respectiva. El mismo tratamiento se dará
 cuando se trate de autoridad jurisdiccional que no
 pertenezca a la misma jurisdicción de apelación.
+
 Artículo 68. Si se declara procedente la
 litispendencia, el efecto será sobreseer el juicio que
 en segundo lugar previno.
@@ -1267,7 +1264,6 @@ afromexicanas y demás grupos sociales en situación
 de vulnerabilidad.
 Artículo 69. Existe conexidad de causas en
 cualquiera de los supuestos siguientes:
-
 I.
 
 Identidad de personas y acciones, aunque los
@@ -1283,6 +1279,7 @@ personas sean distintas.
 Quien oponga la conexidad debe señalar
 precisamente la autoridad jurisdiccional ante la que se
 tramita el juicio conexo, y declarar bajo protesta de
+
 decir verdad el estado procesal que guarda. La
 conexidad sólo podrá acreditarse con la copia
 autorizada o certificada de la demanda y
@@ -1297,7 +1294,6 @@ causa conexa, para que se acumulen ambos juicios y
 se tramiten por cuerda separada, decidiéndose en
 una sola sentencia, evitando que exista contradicción
 alguna.
-
 Artículo 70. No procede la excepción de conexidad:
 I.
 
@@ -1318,6 +1314,7 @@ trámites
 
 IV. Cuando se trate de un procedimiento que se
 tramite en el extranjero.
+
 Artículo 71. La autoridad jurisdiccional estudiará de
 oficio la personalidad al momento de proveer el
 escrito inicial de demanda y su posible contestación, y
@@ -1333,7 +1330,6 @@ tardar al inicio de la audiencia preliminar. Siempre que
 un litigante se presente en representación de alguna
 de las partes, la autoridad jurisdiccional estudiará de
 oficio su personalidad, independientemente del
-
 derecho de la contraparte de excepcionarse o realizar
 la objeción pertinente.
 Artículo 72. La excepción de falta de personalidad
@@ -1348,6 +1344,7 @@ contradicción por tres días, si la excepción se hace
 valer en la fase postulatoria, al momento de celebrar
 la audiencia preliminar en la etapa de depuración del
 procedimiento, en la que se recibirán las pruebas que
+
 se encuentren debidamente admitidas y preparadas,
 dejando constancia de los puntos resolutivos en el
 acta mínima que se levante con motivo de la misma.
@@ -1362,7 +1359,6 @@ pruebas y las mandará recibir en la misma audiencia
 si fuere posible, resolviendo en el acto la resolución
 que en derecho proceda, de forma fundada y
 motivada, dejando constancia de los puntos
-
 resolutivos en el acta mínima que se levante con
 motivo de la misma.
 Cuando se declare fundada una u otra, si fuere
@@ -1378,6 +1374,7 @@ tramitarán de manera incidental conforme a las reglas
 previstas en el presente Código Nacional para los
 juicios del sistema escrito. En tratándose de objeción
 de personalidad dentro del sistema de audiencia en
+
 juicios orales, se deberá hacer valer dentro de la
 audiencia respectiva y resolver cumpliendo con el
 principio de contradicción y de manera oral en la
@@ -1392,7 +1389,6 @@ demanda y contestación de demanda, deberá
 exhibirse copia certificada o autorizada de la
 sentencia de segunda instancia o, la de la autoridad
 jurisdiccional de primera instancia y del auto que la
-
 declaró ejecutoriada o, en su caso, original o copia
 certificada del convenio emanado del procedimiento
 de mediación a que se refiere la ley correspondiente
@@ -1409,6 +1405,7 @@ audiencia preliminar dentro de la etapa de depuración
 del procedimiento en los juicios orales; y en su caso,
 será apelable en ambos efectos si se declara
 procedente, y en el efecto devolutivo de tramitación
+
 conjunta con la sentencia definitiva si se declara
 improcedente. En dicho caso la autoridad
 jurisdiccional asumirá plena jurisdicción, resolviendo
@@ -1422,7 +1419,6 @@ alguna otra excepción como procesal, las demás
 defensas y excepciones que se opongan se
 resolverán en la sentencia definitiva.
 Título Segundo
-
 De la Competencia Objetiva y Subjetiva
 Capítulo I
 Disposiciones Generales
@@ -1436,6 +1432,7 @@ jurisdiccionales cuya competencia se defina con dicho
 criterio.
 Artículo 78. Los Tribunales Colegiados de Circuito,
 Tribunales Colegiados de Apelación y Plenos
+
 Regionales, así como la Suprema Corte de Justicia de
 la Nación, conocerán en segunda instancia, de los
 procedimientos en que resulte aplicable este Código
@@ -1448,7 +1445,6 @@ competente el que elija el actor.
 Las competencias entre los Tribunales Federales y
 los de las Entidades Federativas, se decidirán
 declarando cuál es el fuero en que radica la
-
 jurisdicción, y se remitirán los autos a la autoridad
 jurisdiccional que hubiere obtenido.
 Esta resolución no impide que otras autoridades
@@ -1464,6 +1460,7 @@ motivación y los fundamentos legales en que se
 apoye y la autoridad que considere competente. El
 auto en que una autoridad jurisdiccional se negare a
 conocer es apelable en ambos efectos.
+
 Artículo 80. Ninguna autoridad jurisdiccional puede
 sostener competencia con otra bajo cuya jurisdicción
 se halle, pero sí con otra que, aunque sea superior en
@@ -1475,7 +1472,6 @@ Si el acto del reconocimiento consiste sólo en la
 cumplimentación de un exhorto, la autoridad
 jurisdiccional exhortada no estará impedida para
 sostener su competencia.
-
 Artículo 82. Las partes pueden desistirse de seguir
 sosteniendo la competencia de una autoridad
 jurisdiccional, hasta antes que se resuelva la misma,
@@ -1491,6 +1487,7 @@ que litiguen, sea por razón de parentesco, negocios,
 sociedad o similares, o deriven de la misma causa de
 pedir, sin que para que opere la prórroga de
 competencia en las materias señaladas, sea
+
 necesario convenio entre las partes, ni dará lugar a
 excepción sobre el particular.
 En consecuencia, ninguna autoridad jurisdiccional
@@ -1504,7 +1501,6 @@ Artículo 84. Si la autoridad jurisdiccional deja de
 conocer por excusa o recusación, conocerá la que
 siga en número o turno, que corresponda de
 conformidad con la Ley Orgánica del Poder Judicial
-
 de la Federación, así como de la Entidad Federativa
 correspondiente.
 Artículo 85. Es autoridad jurisdiccional competente
@@ -1518,6 +1514,7 @@ se sujetan a la competencia de la autoridad
 jurisdiccional en turno de la materia y territorio
 correspondiente, o al que precisen que se someten.
 Artículo 87. Se entienden sometidos:
+
 I.
 
 La parte demandante, por el hecho de ocurrir a
@@ -1532,7 +1529,6 @@ IV. La persona tercera opositora y la que por
 cualquier motivo viniere al juicio.
 Artículo 88. Será nulo todo lo actuado por la
 autoridad jurisdiccional declarada incompetente, salvo
-
 que se trate de incompetencia sobrevenida, caso en
 el cual será nulo todo lo actuado a partir del momento
 en que tiene efectos dicha incompetencia.
@@ -1547,6 +1543,7 @@ jurisdiccional competente, aun cuando declare nulo o
 inexistente el acuerdo en el cual se pactó su
 competencia.
 Sección Primera
+
 De la Fijación de la Competencia
 Artículo 89. Es autoridad jurisdiccional competente:
 I.
@@ -1561,7 +1558,6 @@ III. La de la ubicación del bien, si se ejercita una
 acción real sobre éste. Lo mismo se observará
 respecto a las cuestiones derivadas del contrato
 de arrendamiento de inmuebles. Cuando
-
 estuvieren comprendidos en dos o más
 jurisdicciones, será competente aquella en que
 se encuentre la mayor parte de ellos;
@@ -1577,6 +1573,7 @@ V. En los juicios sucesorios, la autoridad
 jurisdiccional en cuya jurisdicción haya tenido su
 último domicilio el autor de la sucesión. A falta
 de ese domicilio, lo será el de la ubicación de los
+
 bienes inmuebles que forman la herencia y si
 estuvieren en varias jurisdicciones, el de aquel
 en que se encuentre el mayor número; y a falta
@@ -1594,7 +1591,6 @@ supuestos de la presente fracción no procede
 sometimiento expreso o tácito alguno;
 VI. Aquella en cuyo territorio radica un juicio
 sucesorio para conocer:
-
 a) De las acciones de petición de herencia.
 b)
 
@@ -1610,6 +1606,7 @@ f) De la declaración especial de ausencia por
 desaparición, así como la declaración de
 ausencia y presunción de muerte, en los
 términos de la legislación aplicable.
+
 VII. La del lugar que la persona deudora haya
 designado para ser requerida judicialmente de
 pago, o el domicilio de ésta en caso de
@@ -1620,7 +1617,6 @@ tratare de bienes inmuebles, lo será la del lugar
 donde estén ubicados. En caso de conflicto de
 competencias se decidirá a favor del que haya
 prevenido en el conocimiento;
-
 IX. La del domicilio de las niñas, niños y
 adolescentes, tratándose de asuntos en materia
 familiar;
@@ -1636,6 +1632,7 @@ XI. En los juicios de divorcio, lo es la del último
 domicilio conyugal;
 XII. En los juicios de nulidad o inexistencia del
 matrimonio o institución equivalente o similar, lo
+
 es la del domicilio donde tuvo lugar el acto cuya
 nulidad se alega;
 XIII. En los juicios de rectificación de actas del
@@ -1646,7 +1643,6 @@ cónyuge, concubina o concubino, o conviviente
 que alega dicho abandono;
 XV. En los juicios de alimentos o violencia familiar, la
 del domicilio de la persona acreedora
-
 alimentaria, la de la receptora de la violencia o la
 de la parte demandada, a elección de la parte
 actora;
@@ -1666,6 +1662,7 @@ jurisdiccional del lugar en que dicha persona
 tenga su domicilio. Si ambas partes lo son, lo
 será la que ejerza jurisdicción en el domicilio del
 demandante.
+
 Artículo 90. En los interdictos conocerá siempre la
 autoridad jurisdiccional de la ubicación del bien.
 Artículo 91. Es competente para conocer de la
@@ -1676,7 +1673,6 @@ Artículo 92. Las cuestiones de tercerías deben
 substanciarse y decidirse por la autoridad
 jurisdiccional que sea competente para conocer del
 asunto principal.
-
 Artículo 93. Para los actos preparatorios del juicio,
 será competente la autoridad jurisdiccional que lo
 fuere para el procedimiento principal.
@@ -1698,6 +1694,7 @@ grupos sociales en situación de vulnerabilidad, será
 competente la autoridad jurisdiccional de segunda
 instancia para dictarlas y en su caso, ejecutarlas con
 plenitud de jurisdicción.
+
 En caso de urgencia, puede dictarla la autoridad
 jurisdiccional del lugar donde se hallen la persona o el
 bien objeto de la providencia, y una vez ejecutada, se
@@ -1707,7 +1704,6 @@ Sección Segunda
 De la Substanciación y Decisión de Competencias
 Artículo 94. Las contiendas sobre competencia,
 podrán promoverse por inhibitoria o por declinatoria.
-
 La inhibitoria se intentará ante la autoridad
 jurisdiccional a quien se considere competente.
 La declinatoria se propondrá ante la autoridad
@@ -1729,6 +1725,7 @@ abstenga
 del
 conocimiento
 del
+
 procedimiento y remita los autos a la autoridad
 jurisdiccional considerada competente. Al admitirla la
 autoridad jurisdiccional de primera instancia, se dará
@@ -1741,7 +1738,6 @@ autoridad jurisdiccional de segunda instancia el
 testimonio de las actuaciones respectivas, haciéndolo
 saber a las partes interesadas para que en su caso
 comparezcan ante aquella.
-
 Recibido el testimonio de las constancias por la
 autoridad jurisdiccional de segunda instancia,
 proveerá con respecto a las pruebas documentales
@@ -1759,6 +1755,7 @@ de segunda instancia lo comunicará a la autoridad
 jurisdiccional ante quien se promovió la declinatoria, y
 en su caso, al que se declare competente. Si la
 declinatoria se declara improcedente o infundada, la
+
 autoridad jurisdiccional de segunda instancia lo
 comunicará a la autoridad jurisdiccional respectiva.
 Artículo 97. La autoridad jurisdiccional ante quien
@@ -1770,7 +1767,6 @@ requerimiento es apelable. Si la inhibitoria se
 promueve ante la autoridad jurisdiccional de segunda
 instancia respectiva, la resolución que niegue al
 requerimiento, no admite recurso ordinario alguno.
-
 La autoridad jurisdiccional requerida, dentro del
 término de cinco días, resolverá si acepta o no la
 inhibitoria. Si las partes estuvieren conformes al ser
@@ -1789,6 +1785,7 @@ Orgánica del Poder Judicial de la Federación, dará
 vista a las partes por tres días para que aleguen por
 escrito lo que a su derecho corresponda y resolverá
 dentro del término improrrogable de cinco días.
+
 Decidida la competencia, se comunicará la
 sentencia a
 las autoridades
@@ -1802,7 +1799,6 @@ competencia alguna dentro de los términos señalados
 por la parte que se estime afectada, se considerará
 sometida a la autoridad jurisdiccional que lo emplazó
 y perderá todo derecho para intentarla.
-
 Las cuestiones de competencia en ningún caso
 suspenderán el procedimiento principal, pero deberán
 resolverse antes de dictarse sentencia definitiva,
@@ -1818,6 +1814,7 @@ También se desechará de plano la competencia
 promovida que no tenga por objeto decidir cuál ha de
 ser la autoridad jurisdiccional que deba conocer de un
 asunto.
+
 Artículo 100. Las autoridades jurisdiccionales
 quedan impedidas para promover oficiosamente las
 cuestiones de competencia, y sólo deberán inhibirse
@@ -1830,7 +1827,6 @@ demanda principal.
 Cuando dos o más autoridades jurisdiccionales
 locales de la misma jurisdicción se nieguen a conocer
 de determinado asunto, quien se vea perjudicada
-
 ocurrirá ante la autoridad jurisdiccional de segunda
 instancia en turno, dentro del término de cinco días
 contados a partir de que la última de dichas
@@ -1848,6 +1844,7 @@ Artículo 101. Una vez recibidos los autos por la
 autoridad jurisdiccional de segunda instancia
 correspondiente, los pondrá a la vista de las partes,
 por el término de tres días para que ofrezcan pruebas
+
 documentales y aleguen lo que a su interés
 convenga.
 En lo demás, será aplicable el procedimiento
@@ -1859,7 +1856,6 @@ ocurrirá a la autoridad jurisdiccional que faculte la Ley
 Orgánica del Poder Judicial de la Federación, sin
 necesidad de agotar los recursos ordinarios, a fin de
 que ordene a los que se nieguen a conocer, que le
-
 envíen los expedientes en que se contengan sus
 respectivas resoluciones.
 Recibidos los autos, se correrá de ellos traslado, por
@@ -1875,6 +1871,7 @@ sea entre autoridades jurisdiccionales de distintos
 circuitos judiciales, será el Pleno Regional del Poder
 Judicial de la Federación de la autoridad jurisdiccional
 que conoció en primer momento del asunto.
+
 Una vez recibidos los expedientes, el procedimiento
 para resolver se ajustará a lo dispuesto en el artículo
 95 de este Código Nacional.
@@ -1887,7 +1884,6 @@ Administración de Justicia del Poder Judicial de que
 se trate.
 Capítulo II
 De la Competencia Subjetiva
-
 Sección Primera
 De los Impedimentos y Excusas
 Artículo 104. Las autoridades jurisdiccionales se
@@ -1908,6 +1904,7 @@ concubinario, conviviente o para sus parientes
 consanguíneos en línea recta sin limitación de
 grados, a los colaterales dentro del cuarto grado,
 y a los afines dentro del segundo;
+
 III. Siempre que, entre su cónyuge, concubina,
 concubinario, conviviente, ascendientes o sus
 descendientes, y alguno de las partes
@@ -1921,7 +1918,6 @@ de la persona representante autorizada,
 abogado o procurador de alguna de las partes,
 en los mismos grados a que se refiere la fracción
 II de este artículo;
-
 V. Cuando la autoridad jurisdiccional, su cónyuge,
 concubina, concubinario, conviviente o alguno
 de sus ascendientes o descendientes sea parte
@@ -1937,6 +1933,7 @@ amenazas o la animadversión de alguna de las
 partes ha influido en su fuero interno de tal
 manera que se ponga en riesgo su
 imparcialidad;
+
 VII. Si asiste o ha asistido a convites que
 especialmente se le ofrecieren o costeare alguna
 de las partes que litigan el asunto o sus
@@ -1952,7 +1949,6 @@ conviviente,
 ascendientes
 o descendientes, parientes
 colaterales en segundo grado y por afinidad en
-
 primer grado, haya recibido dádivas o servicios
 de alguna de las partes;
 IX. Si ha sido abogado o procurador, ha fungido
@@ -1969,6 +1965,7 @@ en otra;
 XI. Cuando la autoridad jurisdiccional, su cónyuge,
 concubina, concubinario, conviviente o alguno
 de sus parientes consanguíneos en línea recta,
+
 sin limitación de grados, de los colaterales
 dentro del segundo, o de los afines en el
 primero, siga contra alguna de las partes, o no
@@ -1981,7 +1978,6 @@ XII. Cuando alguna de las personas representantes
 autorizadas, sigan o hayan seguido un juicio
 civil, o una causa criminal, y no ha pasado un
 año o más, de haber causado ejecutoria, un
-
 procedimiento jurisdiccional, en contra de la
 autoridad jurisdiccional de que se trate, su
 cónyuge, concubina, concubinario, conviviente,
@@ -2001,6 +1997,7 @@ XIV. Si la persona servidora pública, su cónyuge,
 concubina, concubinario, conviviente o alguno
 de sus expresados parientes sigue algún
 procedimiento civil o criminal en que sea
+
 autoridad jurisdiccional, agente del Ministerio
 Público Federal o Local, Procurador o
 Representante Social, árbitro o arbitrador, de
@@ -2012,7 +2009,6 @@ asociación que tenga interés en la causa o no
 hayan pasado tres años de haberlo sido, y
 XVI. Siempre que haya externado su opinión
 públicamente, adelantando el sentido de su fallo.
-
 Las opiniones expresadas por la autoridad
 jurisdiccional al intentar conciliar entre las partes, y
 aquellas que se emitan con carácter doctrinario o
@@ -2030,6 +2026,7 @@ conocimiento de un procedimiento del que no deben
 conocer por impedimento, o dentro de los tres días
 siguientes en que ocurra el hecho que origina el
 impedimento o de que tengan conocimiento de él.
+
 Sección Segunda
 De la Recusación
 Artículo 106. Cuando la autoridad jurisdiccional no
@@ -2038,7 +2035,6 @@ impedimentos expresados, procede la recusación,
 que siempre se fundará en causa legal.
 Artículo 107. Sólo pueden hacer uso de la
 recusación:
-
 I.
 
 Las partes, personas
@@ -2068,6 +2064,7 @@ o
 
 IV. La persona que funja como representante
 común en caso de litisconsorcio y cuando no se
+
 haya designado aún, por cualquiera de las
 partes.
 Artículo 108.
@@ -2090,7 +2087,6 @@ personas ante ella adscritas;
 II. Los Tribunales de Segunda Instancia respecto
 de las autoridades jurisdiccionales de primera
 instancia;
-
 III. La autoridad jurisdiccional de conformidad con lo
 dispuesto por la Ley Orgánica que corresponda,
 respecto de las personas magistradas.
@@ -2107,6 +2103,7 @@ En los actos prejudiciales;
 II. Al cumplimentar exhortos, despachos o cartas
 rogatorias;
 III. En las diligencias de mera ejecución;
+
 IV. En los juicios ejecutivos mientras no se lleve a
 cabo el aseguramiento, y en los hipotecarios
 mientras no se expida el oficio de inscripción de
@@ -2116,7 +2113,6 @@ fecha del auto en que se señala término a las
 personas deudoras para que cumplan con ella, y
 VI. En los demás actos que no radiquen jurisdicción,
 ni importen conocimiento de causa.
-
 Si la ejecución de sentencia fuera mixta o si hubiere
 oposición de tercera persona o se opusieren
 excepciones en contra de la ejecución, será admisible
@@ -2134,6 +2130,7 @@ todo momento hasta antes de la admisión de pruebas.
 La recusación deberá presentarse a más tardar
 dentro de los cinco días a partir de que se conozca la
 causal que la motivó.
+
 Artículo 112. En tanto se califica o decide la
 recusación, se suspenderá la jurisdicción de la
 autoridad jurisdiccional, excepto para la fijación de la
@@ -2144,7 +2141,6 @@ afecten derechos de las niñas, niños o adolescentes,
 y demás personas que pertenezcan a grupos sociales
 en situación de vulnerabilidad, o a las que se refieren
 a providencias cautelares o diligencias de ejecución.
-
 Artículo 113. Declarada procedente o fundada la
 recusación, termina la jurisdicción de la autoridad
 jurisdiccional en el procedimiento de que se trate.
@@ -2162,6 +2158,7 @@ podrá hacerse valer la recusación.
 Artículo 116. La autoridad jurisdiccional o el órgano
 disciplinario que conozca de la recusación la
 desechará de plano:
+
 I.
 
 Por extemporánea;
@@ -2172,7 +2169,6 @@ III. Cuando no se precisen los hechos en que se
 motive, no se ofrezca prueba o no se precisen
 los puntos sobre los que deban versar las
 mismas, y
-
 IV. Cuando se interponga en procedimientos en que
 no puede tener lugar.
 Artículo 117. Toda recusación se interpondrá ante
@@ -2196,6 +2192,7 @@ cierto el impedimento alegado por la parte
 promovente.
 La autoridad jurisdiccional que conozca de una
 recusación, resulta irrecusable para este solo efecto.
+
 Artículo 118. La recusación debe decidirse sin
 audiencia de la parte contraria, y se tramita en forma
 de incidente.
@@ -2203,7 +2200,6 @@ Artículo 119. En el incidente de la recusación son
 admisibles todos los medios de prueba establecidos
 por este Código Nacional, excepto la declaración de
 la autoridad jurisdiccional de la que se trate.
-
 Artículo 120. De la recusación de las autoridades
 jurisdiccionales integrantes de un Tribunal de
 Segunda Instancia conocerá aquella a la que
@@ -2224,6 +2220,7 @@ de la materia civil y familiar estuvieren impedidas de
 conocer, pasará el asunto al conocimiento de las
 Salas de otra materia, por el orden indicado, y si éstas
 también se agotaren, se integrará una Sala que
+
 conozca del asunto con autoridades jurisdiccionales
 de todas las materias según corresponda, designadas
 por el Pleno, conforme a lo dispuesto en la Ley
@@ -2232,7 +2229,6 @@ inmediatamente y sin perjuicio de sus demás labores
 y funciones.
 Artículo 121. Para el caso que una autoridad
 jurisdiccional deje de conocer un caso por
-
 impedimento, recusación o excusa, ésta deberá
 remitir el expediente a la autoridad jurisdiccional
 respectiva, a la dirección o área administrativa que
@@ -2253,6 +2249,7 @@ Si se declara improcedente la recusación, se
 comunicará la resolución a la autoridad jurisdiccional
 de su origen. Si la autoridad jurisdiccional recusada
 fuese una persona Magistrada, continuará conociendo
+
 del procedimiento la misma Sala como antes de la
 recusación.
 Artículo 123. La recusación promovida contra otras
@@ -2262,7 +2259,6 @@ Entidad Federativa de que se trate, no suspenderá el
 procedimiento, y se proveerá de inmediato quien deba
 sustituirlo, en tanto se resuelva la recusación a fin de
 dar continuidad al juicio respectivo.
-
 La recusación de las personas servidoras públicas
 antes mencionadas se substanciará ante la autoridad
 jurisdiccional ante la que se encuentren adscritas
@@ -2278,6 +2274,7 @@ De las Partes en el Procedimiento
 Artículo 125. Sólo puede iniciar o intervenir en un
 procedimiento judicial, quien tenga interés en que la
 autoridad jurisdiccional declare, constituya, preserve o
+
 modifique un derecho o imponga una condena y quien
 tenga el interés contrario.
 Artículo 126. Cuando haya transmisión del interés a
@@ -2287,7 +2284,6 @@ lo haya adquirido. Esas transmisiones no afectarán el
 procedimiento judicial, excepto en los casos en que
 hagan desaparecer, por confusión substancial de
 intereses, la materia del litigio.
-
 Las relaciones recíprocas de las partes dentro del
 procedimiento, con sus respectivas facultades y
 obligaciones, así como los términos, recursos y toda
@@ -2307,6 +2303,7 @@ relaciones de causante a causahabiente, mientras no
 se hagan conocer en igual forma.
 Cuando se verifiquen estos cambios sin cumplir con
 las notificaciones de sustitución o inclusión de
+
 representante procesal, la actividad procesal se
 desarrollará y producirá sus efectos con toda validez,
 como si no se hubiese operado el cambio, en tanto no
@@ -2324,11 +2321,8 @@ el
 
 Las personas físicas por sí mismas o por
 conducto de sus personas representantes
-
-autorizadas, así como las personas
+autorizadas, así como las personas que
 designen para su apoyo, en su caso;
-
-que
 
 II. Las personas jurídicas públicas o privadas por
 medio de quienes las representen, sea por
@@ -2346,6 +2340,7 @@ V. Cualquiera que integre un grupo afectado, que
 busque una adecuada defensa para el interés
 general; y las instituciones, asociaciones o
 agrupaciones privadas, especializadas en la
+
 defensa de los intereses sociales o colectivos
 cuando se trata de la tutela de intereses difusos
 y de grupos indeterminados, siempre que no
@@ -2354,7 +2349,6 @@ VI. En el caso de las personas de los pueblos y
 comunidades indígenas y afromexicanas, sus
 propias autoridades o las personas que
 designen con base en sus usos y costumbres, y
-
 VII. El Ministerio Público Local o Federal.
 Artículo 129. Podrán comparecer como terceras
 personas, quienes tengan interés propio y distinto de
@@ -2373,6 +2367,7 @@ ejerza la patria potestad o la tutela, y
 IV. La Procuraduría de Protección de Niñas, Niños y
 Adolescentes o institución con facultades de
 representación coadyuvante o en suplencia, de
+
 conformidad con la Ley General de los Derechos
 de Niñas, Niños y Adolescentes.
 Sin embargo, las niñas, niños y adolescentes,
@@ -2382,7 +2377,6 @@ legítimo representante cuando éste se halle ausente o
 desaparecido, se ignore quién sea, esté impedido, se
 negare a promover la acción o hubiese un conflicto de
 interés con su representado.
-
 La
 autoridad
 jurisdiccional,
@@ -2406,6 +2400,7 @@ Ministerio Público, Fiscalía o Representación Social.
 En materia civil, si se presentare por quien esté
 ausente o desaparecida una persona que pueda
 comparecer en juicio, será admitida como gestor
+
 judicial;
 quien
 tendrá
@@ -2421,18 +2416,8 @@ perjuicios y gastos que se causen. La fianza será
 calificada por la autoridad jurisdiccional.
 Las resoluciones que admitan o no la figura de
 gestor judicial, así como la que fije la fianza, serán
-
-apelables en
+apelables en efecto devolutivo de tramitación
 inmediata.
-
-efecto
-
-devolutivo
-
-de
-
-tramitación
-
 Artículo 132. Si varios actores ejercen la misma
 acción en una demanda, o varios demandados niegan
 la acción u oponen la misma excepción, se aplicarán
@@ -2456,6 +2441,7 @@ sólo
 IV. El nombramiento del representante común de
 los demandados lo harán en la contestación de
 la demanda.
+
 Cuando la multiplicidad de personas surja en
 cualquier otro momento del juicio, o en actos de
 jurisdicción
@@ -2470,7 +2456,6 @@ Si el nombramiento no fuere hecho por quienes
 tienen interés, previa prevención hecha de forma
 legal, lo hará la autoridad jurisdiccional, de entre las
 mismas personas interesadas.
-
 La persona que como representante común designe
 la autoridad jurisdiccional, tendrá las mismas
 facultades que si litigara exclusivamente por su propio
@@ -2494,6 +2479,7 @@ autorizada
 o
 representante común en su encargo, las
 notificaciones y citaciones de toda clase que se
+
 le hagan, tendrán la misma fuerza que si se
 hicieren a las personas que representan, sin que
 le sea permitido pedir que se entiendan con
@@ -2503,7 +2489,6 @@ la representación común, para litigar por sí
 mismo y deducir su propio derecho.
 Artículo 134. En cualquiera de los procedimientos
 previstos en el presente Código Nacional, sin que
-
 obste el derecho de las partes, sus abogados y
 representantes autorizados de comparecer a exponer
 sus alegatos en la audiencia respectiva, bajo el
@@ -2523,6 +2508,7 @@ escuchar en lo particular o individual a cualquiera de
 las partes.
 Capítulo II
 De las Actuaciones Judiciales
+
 Artículo 135. Las autoridades jurisdiccionales se
 sujetarán al procedimiento convencional que las
 partes hubieren pactado, siempre que el mismo se
@@ -2532,7 +2518,6 @@ demanda en cualquier estado del juicio, y se respeten
 las formalidades esenciales del procedimiento; salvo
 los procedimientos en materia familiar, los cuales son
 de orden público.
-
 Para su validez, el documento en que se encuentre
 el acuerdo a que se refiere este artículo, deberá
 contener como mínimo, por inclusión o referencia, las
@@ -2554,6 +2539,7 @@ humanos;
 III. Los términos que deberán seguirse durante el
 juicio, cuando se modifiquen los señalados en el
 presente Código Nacional;
+
 IV. Los recursos legales a que renuncien, siempre
 que no se afecten las formalidades esenciales
 del procedimiento, ni se vulneren derechos
@@ -2562,7 +2548,6 @@ V. La autoridad jurisdiccional que debe conocer del
 litigio para el cual se convino el procedimiento en
 los casos en que conforme a este Código
 Nacional pueda prorrogarse la competencia, y
-
 VI. El convenio también deberá expresar los
 nombres de los otorgantes, su capacidad para
 obligarse, el carácter con que contraten, sus
@@ -2584,6 +2569,7 @@ II. Las promociones físicas o electrónicas de las
 partes deberán redactarse en español, debiendo
 estar firmados de manera autógrafa o mediante
 firma electrónica avanzada, según corresponda;
+
 III. Quienes no supieren o no pudieren firmar
 autógrafamente, por presentar una condición de
 discapacidad física, imprimirán su huella digital,
@@ -2596,7 +2582,6 @@ tener
 la
 debida
 identificación del litigio, que contendrá los
-
 nombres de la parte actora, de la parte
 demandada y en su caso, de quien haga la
 solicitud, así como el número de expediente,
@@ -2621,12 +2606,17 @@ afromexicanas, que se hicieren en su lengua o
 idioma original, no necesitarán acompañarse de
 la traducción al español, la autoridad
 jurisdiccional de oficio designará persona
+
 autorizada
 a
-realizar
-la
-traducción
 correspondiente;
+
+realizar
+
+la
+
+traducción
+
 VII. En los procedimientos en los que una o ambas
 partes sean indígenas y no supieran leer el
 idioma español, podrán designar a quien
@@ -2634,7 +2624,6 @@ traduzca o conozca su lengua nativa, y la
 autoridad jurisdiccional realizará una versión
 sintetizada de los puntos esenciales de las
 actuaciones y de la sentencia dictada, en dicha
-
 lengua; debiendo agregar constancia de que se
 cumplió con esta obligación en los autos;
 VIII. En los procedimientos en los que una o ambas
@@ -2654,6 +2643,7 @@ frases equivocadas, sobre las que sólo se
 pondrá una línea delgada que permita la lectura,
 salvándose al final del documento con toda
 precisión el error cometido;
+
 X. Las actuaciones judiciales deberán ser
 autorizadas, bajo pena de nulidad, por la
 autoridad jurisdiccional o persona secretaria
@@ -2666,7 +2656,6 @@ y
 deberán
 integrarse
 electrónicamente en todos los casos, y
-
 XII. Todas las resoluciones judiciales deberán
 redactarse en términos claros y sencillos.
 Los Poderes Judiciales, de conformidad con la
@@ -2685,6 +2674,7 @@ asistir a las audiencias sin justa causa calificada, se le
 impondrá una multa a favor del Fondo de Apoyo a la
 Administración de Justicia del Tribunal o Poder
 Judicial de cada Entidad Federativa o la Federación,
+
 hasta el equivalente a cien veces el valor diario de la
 Unidad de Medida y Actualización vigente al momento
 de su aplicación. Contra dicha resolución procede el
@@ -2697,7 +2687,6 @@ personas
 con
 discapacidad o personas de los pueblos y
 comunidades indígenas o afromexicanas, la defensa
-
 pública en su caso, deberá ser preferentemente
 especializada.
 Artículo 139. Si una de las partes comparecientes
@@ -2721,6 +2710,7 @@ vinculadas a las responsabilidades y sanciones a que
 alude este artículo.
 La autoridad jurisdiccional dictará proveído de
 ejecución al finalizar la audiencia.
+
 Artículo 140. En las audiencias se observarán las
 siguientes reglas:
 I.
@@ -2732,7 +2722,6 @@ procesales
 
 II. Se celebrarán presencialmente en la sede
 judicial o de forma virtual;
-
 III. La autoridad jurisdiccional deberá presidir las
 audiencias, mismas que serán públicas salvo
 disposición expresa de la ley;
@@ -2752,6 +2741,7 @@ V. Cuando la infracción llegare a actualizar un
 hecho probablemente constitutivo de un delito
 conforme a las leyes Penales, se dará vista al
 Ministerio Público competente;
+
 VI. La autoridad jurisdiccional determinará el inicio y
 la conclusión de cada una de las etapas de las
 audiencias de forma continua, precluyendo los
@@ -2760,7 +2750,6 @@ partes en cada una de ellas, sin necesidad de
 declaración judicial;
 VII. La parte que asista tardíamente a las
 audiencias, se incorporará en la etapa en que
-
 éstas se encuentren, sin perjuicio de la facultad
 de la autoridad jurisdiccional en materia de
 conciliación y en el entendido de que esto no
@@ -2790,13 +2779,13 @@ alegaciones se desvíen hacia aspectos no
 pertinentes o inadmisibles o no controvertidos, e
 incluso limitar el tiempo y número de veces del
 uso de la palabra a las partes que intervienen,
+
 interrumpiendo a quienes hicieran uso abusivo
 de su derecho;
 X. Una vez que testigos, peritos o partes concluyan
 su intervención, podrán retirarse de la audiencia
 cuando así lo soliciten y la autoridad
 jurisdiccional lo autorice;
-
 XI. Las resoluciones judiciales pronunciadas
 oralmente o por escrito en las audiencias, según
 el tipo de juicio, se tendrán por notificadas en
@@ -2819,12 +2808,12 @@ nombre de los participantes, una relatoría
 sucinta del desarrollo de la audiencia, y la firma
 autógrafa o electrónica avanzada de la autoridad
 jurisdiccional.
+
 Tratándose de audiencias virtuales, se seguirán las
 reglas previstas en el Libro Octavo de este Código
 Nacional.
 Artículo 141. En las audiencias en las que
 participen personas con discapacidad, podrán contar
-
 con la presencia de las personas de apoyo que, en su
 caso, designen.
 Asimismo, podrán hacerse acompañar de los
@@ -2845,6 +2834,7 @@ prohibidos;
 IV. Personas que no observen las disposiciones de
 orden o seguridad física o informática que se
 establezcan;
+
 V. Personas que puedan afectar la integridad de
 alguna de las partes, o de alguna persona citada
 para participar en la audiencia, y
@@ -2852,7 +2842,6 @@ VI. Cualquier otra persona que la autoridad
 jurisdiccional justificadamente considere como
 inapropiada para el orden o seguridad en el
 desarrollo de la audiencia.
-
 En el desarrollo de las audiencias, las actuaciones
 de la autoridad jurisdiccional en el ejercicio de sus
 funciones serán válidas de pleno derecho, sin requerir
@@ -2875,6 +2864,7 @@ industrial, cuya revelación sea indebida;
 III. Se afecte el interés superior de niñas, niños y
 adolescentes;
 IV. Cuando se trate de juicios en materia familiar, y
+
 V. En los casos previstos en este Código Nacional
 o en otra ley.
 Artículo 144. La autoridad jurisdiccional podrá
@@ -2882,7 +2872,6 @@ limitar el ingreso del público a una cantidad
 determinada de personas, de conformidad con las
 disposiciones aplicables en materia de protección
 civil.
-
 Las personas periodistas y demás integrantes de los
 medios de comunicación, deberán informar su
 presencia a la autoridad jurisdiccional con el objeto de
@@ -2906,6 +2895,7 @@ con discapacidad a las que les resulte necesario
 consultar dicha información.
 Al inicio de las audiencias la persona secretaria
 judicial, hará constar oralmente en el registro a que
+
 hace referencia el párrafo anterior, la fecha, hora y el
 lugar de realización, datos del asunto y el nombre de
 quien preside la audiencia.
@@ -2913,7 +2903,6 @@ Si a dicha audiencia comparece una persona con
 discapacidad auditiva, deberá estar presente a lo
 largo de la misma, un intérprete de la Lengua de
 Señas Mexicana y los intervinientes deberán emplear
-
 palabras sencillas para que sean comprendidas por
 una persona con discapacidad intelectual en su caso.
 Artículo 146. Las personas que intervengan en las
@@ -2934,6 +2923,7 @@ copia que siempre será certificada, a su costa,
 asegurando que estén disponibles para consulta para
 las partes desde el momento en que concluya la
 audiencia.
+
 La conservación de registros de audios y video de
 las audiencias deberá realizarse a través de medios
 que permitan garantizar la fiabilidad e integridad de la
@@ -2941,7 +2931,6 @@ información, así como la reproducción de su
 contenido y acceso al mismo.
 Cuando por cualquier causa se dañe el soporte
 material del registro afectando su contenido, la
-
 autoridad jurisdiccional ordenará su reposición
 conforme a lo establecido en las reglas generales del
 procedimiento.
@@ -2966,12 +2955,12 @@ procedimiento, las personas con discapacidad podrán
 solicitar a la autoridad jurisdiccional, la forma o medio
 que requiere para recibir la información del juicio en
 que interviene.
+
 Artículo 149. Para la validez de las actuaciones
 judiciales es necesario que se practiquen en días y
 horas hábiles.
 Son días hábiles todos los del año, excepto sábados
 y domingos y aquellos que las Leyes declaren
-
 festivos, además en los que por cualquier motivo no
 tengan lugar actuaciones judiciales.
 Son horas hábiles las comprendidas de las siete a
@@ -2993,6 +2982,7 @@ causa urgente que lo exija, expresando cuál sea ésta
 y las diligencias que hayan de practicarse.
 Artículo 151. El Poder Judicial contará con una
 Oficialía de Partes Común, a través de la cual se
+
 presenten los escritos de demanda o promociones
 posteriores de manera electrónica y escrita, en los
 siguientes términos:
@@ -3001,9 +2991,9 @@ I.
 La demanda o escrito inicial podrá promoverse
 de forma física o electrónica a través de la
 oficina o portal autorizado por el Consejo de la
-
 Judicatura, conforme a lo dispuesto en la Ley
 Orgánica, que corresponda;
+
 II. Por lo que hace a los procedimientos en línea, la
 demanda y documentos siempre deberán
 presentarse vía electrónica, debiendo verificar
@@ -3024,13 +3014,13 @@ si los documentos digitalizados son originales, copias
 certificadas o copias simples, y si es el caso que
 están disponibles cuando la autoridad jurisdiccional se
 los requiera, en el entendido que de no hacerlo
+
 precluirá su derecho y se tendrán por no presentados
 oportunamente, con las consecuencias legales.
 Artículo 152. Las promociones electrónicas
 subsecuentes, se podrán presentar en cualquier hora
 en el sistema de justicia digital autorizado, para ser
 remitidas a la autoridad jurisdiccional correspondiente
-
 al día y hora hábil siguiente a su presentación y
 deberán contener los datos de identificación, es decir,
 nombre de las partes, juicio y número de expediente,
@@ -3062,13 +3052,13 @@ del
 cumplimiento de dichas formalidades los juicios
 relativos a las comparecencias para la solicitud de
 pensión alimenticia, así como los juicios sumarios, en
+
 los que se podrá acudir de manera directa ante la
 autoridad jurisdiccional que corresponda por razón de
 turno.
 Artículo 154. La Oficialía de Partes o área de
 recepción de los órganos jurisdiccionales, recibirá
 todas las promociones subsecuentes de los
-
 procedimientos que les hayan sido turnados, durante
 las horas de labores correspondientes, y quien esté
 interesado podrá exhibir una copia de sus escritos, a
@@ -3090,6 +3080,7 @@ Artículo 155. Las personas servidoras públicas
 encargadas de la recepción de escritos y documentos
 de la Oficialía de Partes Común, en ningún caso y por
 ningún motivo podrán rechazar promoción alguna.
+
 Artículo 156. En caso de detectarse cualquier
 acción tendiente a eludir el turno establecido en las
 Oficialías de Partes, una vez presentado un escrito
@@ -3098,7 +3089,6 @@ exhibiendo varios de éstos para elegir la autoridad
 jurisdiccional que convenga, o desistiéndose de la
 instancia más de una vez, sin acreditar la necesidad
 de hacerlo, o cualquier acción similar, la parte
-
 promovente y quienes aparezcan autorizadas en los
 escritos como personas representantes autorizadas,
 abogadas patronas, procuradoras o asesoras
@@ -3121,6 +3111,7 @@ y, a falta de ésta, la primera vez con amonestación y,
 las subsecuentes, con apercibimiento en términos de
 lo dispuesto por el artículo 192 de este Código
 Nacional.
+
 Asimismo, cuidará que las resoluciones judiciales,
 actuaciones y las promociones originales o en copias
 sean claramente legibles y de que los expedientes
@@ -3129,7 +3120,6 @@ las hojas. En el caso del expediente físico, se firmarán
 todas éstas en el centro de los escritos y pondrán el
 sello en el fondo del cuaderno, de manera que
 queden selladas las dos caras. Asimismo, deberá
-
 cumplir con los requisitos para la conservación e
 integración de los expedientes electrónicos, de
 acuerdo con el Libro Octavo de este Código Nacional.
@@ -3151,13 +3141,13 @@ repuestos a costa de quien fuere responsable de la
 pérdida, quien además pagará los daños y perjuicios,
 quedando sujeto a las disposiciones del Código Penal
 correspondiente.
+
 La reposición se substanciará incidentalmente con
 intervención del Ministerio Público; la persona
 secretaria judicial certificará la existencia anterior y
 falta posterior del expediente en cuestión.
 La autoridad jurisdiccional está obligada a investigar
 de oficio la existencia de las piezas de autos
-
 desaparecidos, valiéndose para ello de todos los
 medios que no sean contrarios al derecho.
 En la reposición de los expedientes, las partes están
@@ -3186,6 +3176,7 @@ obligada a expedir a costa de la parte que lo solicite,
 copia simple de los documentos o resoluciones que
 obren en autos, bastando que lo peticione
 verbalmente, sin que se requiera decreto judicial, pero
+
 dejando constancia en autos de su recepción. Cuando
 la solicitud se realice por conducto de quien ejerza
 como defensora pública o de institución pública, las
@@ -3193,7 +3184,6 @@ copias de referencia podrán expedirse exentas de
 pago.
 Artículo 161. Para obtener copia certificada de
 cualquier documento o registro electrónico que obre
-
 en juicio, la parte interesada deberá solicitarlo en
 comparecencia, por escrito o por vía electrónica
 requiriéndose decreto judicial, y sólo se expedirá con
@@ -3215,6 +3205,7 @@ acceso a la información, privacidad y protección de
 datos personales que resulten aplicables.
 La violación a este precepto, hará a la persona que
 lo infrinja, acreedora a las sanciones previstas para tal
+
 caso en la legislación administrativa, civil y penal, con
 independencia de las medidas disciplinarias que
 procedan conforme a este Código Nacional.
@@ -3222,7 +3213,6 @@ Artículo 163. Las actuaciones serán nulas cuando
 les falte alguna de las formalidades esenciales, de
 manera que quede sin defensa cualquiera de las
 partes, y cuando la Ley expresamente lo determine,
-
 pero no podrá ser invocada esa nulidad por la parte
 que dio lugar a ella.
 Artículo 164. La nulidad establecida en beneficio de
@@ -3242,6 +3232,7 @@ reclamarse en la actuación subsecuente, pues de lo
 contrario, aquélla queda convalidada de pleno
 derecho, con excepción de la nulidad por defecto en
 el emplazamiento o de la primera notificación en los
+
 procedimientos judiciales; su trámite será en la vía
 incidental.
 Cualquier nulidad que se genere en audiencia,
@@ -3250,7 +3241,6 @@ audiencia en que se actualice y antes del cierre de la
 etapa procesal respectiva tratándose de la audiencia
 preliminar, en las demás audiencias deberá hacerse
 valer antes de que ésta concluya. Hecha valer, la
-
 autoridad jurisdiccional proveerá sobre su admisión y
 estando presente la contraria, bajo el principio de
 contradicción contestará en el acto de la audiencia y
@@ -3271,6 +3261,7 @@ tramitarán y resolverán en los términos de lo
 dispuesto por el artículo 185.
 Capítulo III
 De las Resoluciones Judiciales
+
 Artículo 167. Para los efectos de este Código
 Nacional, las resoluciones judiciales se clasifican en
 la forma siguiente:
@@ -3305,6 +3296,7 @@ resuelven un incidente promovido antes o
 después de dictada la sentencia definitiva, y
 VII. Sentencias definitivas: las que resuelven el
 fondo del asunto en lo principal.
+
 Artículo 168. Todas las resoluciones, de cualquier
 clase, dictadas por escrito en primera o segunda
 instancia, serán autorizadas con las rúbricas, firmas
@@ -3312,7 +3304,6 @@ autógrafas o electrónicas avanzadas de las
 autoridades jurisdiccionales que las dicten y por la de
 la persona secretaria judicial, o a quien corresponda
 dar fe o certificar el acto.
-
 Artículo 169. Todas las resoluciones, sean
 decretos,
 autos
@@ -3337,6 +3328,7 @@ deducidas oportunamente en el procedimiento,
 condenando o absolviendo a la parte demandada, y
 decidiendo todos los puntos litigiosos que hayan sido
 objeto del debate. Cuando éstos hubieren sido varios,
+
 se hará el pronunciamiento correspondiente a cada
 uno de ellos.
 Artículo 170. Las sentencias deben tener el lugar,
@@ -3345,7 +3337,6 @@ pronuncie, nombre de las partes contendientes, el
 carácter con que litiguen, el objeto del pleito, y
 bastará que la autoridad jurisdiccional funde y motive
 su resolución en preceptos legales, su interpretación
-
 o principios jurídicos, de acuerdo con los artículos 14
 y 16 de la Constitución Política de los Estados Unidos
 Mexicanos.
@@ -3366,6 +3357,7 @@ las circunstancias de cada caso.
 Artículo 171. La autoridad jurisdiccional no podrá,
 bajo ningún pretexto, aplazar, dilatar, ni negar la
 resolución de las cuestiones que hayan sido
+
 discutidas en el pleito, salvo los casos previstos por la
 Ley.
 Artículo 172. Tampoco podrán variar ni modificar
@@ -3377,14 +3369,8 @@ edades,
 nombres,
 ambigüedades,
 contradicciones evidentes, oscuridad de las
-
-expresiones o de las palabras,
+expresiones o de las palabras, cuando sean
 imprecisos sin alterar su esencia.
-
-cuando
-
-sean
-
 Estas aclaraciones podrán hacerse de oficio o a
 petición de parte en un plazo no mayor a tres días
 hábiles y en su caso, la autoridad jurisdiccional
@@ -3402,6 +3388,7 @@ actuación de las partes que, sin necesidad de
 demostración, es contrario a la letra de la Ley, al
 estado o naturaleza del procedimiento o a las
 facultades de la autoridad jurisdiccional.
+
 Al desechar las promociones o solicitudes,
 incluyendo los recursos e incidentes que los
 tribunales consideren notoriamente frívolos o
@@ -3410,7 +3397,6 @@ su determinación.
 Los incidentes ajenos al procedimiento principal o
 notoriamente frívolo e improcedente, deberán ser
 repelidos de oficio por los jueces.
-
 Artículo 174. Los decretos y los autos deben
 dictarse y mandarse notificar mediante su publicación
 en el medio de comunicación procesal oficial
@@ -3429,6 +3415,7 @@ notificación del auto que ordena la citación.
 Las sentencias definitivas deben dictarse y
 mandarse notificar mediante su publicación en el
 medio respectivo, dentro de los quince días siguientes
+
 a aquel en que surta sus efectos la notificación del
 auto que ordena la citación.
 En ambos casos cuando hubiere necesidad de que
@@ -3436,7 +3423,6 @@ la autoridad jurisdiccional examine documentos o
 expedientes voluminosos, al resolver, podrá disfrutar
 de un término ampliado de diez días más para los dos
 fines ordenados anteriormente.
-
 En los juicios orales la sentencia definitiva se emitirá
 en la misma audiencia de juicio, y, además, se
 explicará con un lenguaje cotidiano, en forma breve,
@@ -3468,7 +3454,6 @@ reconocimientos de firmas, exhibición de
 documentos; a no ser que, por circunstancias
 probadas, solicite ampliar el término, lo cual
 podrá hacerse hasta por tres días más, y
-
 IV. Tres días para todos los demás casos.
 Artículo 177. El retardo sin justa causa en el
 pronunciamiento y publicación de decretos, autos o
@@ -3487,6 +3472,7 @@ lo amerite o se afecte el ejercicio de la acción que se
 dedujo en el juicio correspondiente.
 Las resoluciones judiciales firmes dictadas en
 procedimientos de alimentos, ejercicio y suspensión
+
 de la patria potestad, jurisdicción voluntaria y las
 demás que prevengan las leyes, pueden alterarse y
 modificarse cuando cambien las circunstancias que
@@ -3495,7 +3481,6 @@ juicio correspondiente.
 Artículo 179. Cuando hubiere condena de frutos,
 intereses, daños o perjuicios, se fijará su importe en
 cantidad líquida o se establecerán, por lo menos, las
-
 bases con arreglo a las cuales deba hacerse la
 liquidación.
 Sólo en el caso de no ser posible lo uno ni lo otro, se
@@ -3514,8 +3499,18 @@ diligencias que promueva. El pago de los gastos será
 a cargo de quien faltare al cumplimiento de la
 obligación. Cuando las leyes utilicen solamente las
 palabras gastos, o solamente costas, se incluyen
-ambos conceptos de gastos y costas, y la
+
+ambos conceptos de gastos
 condenación abarcará los dos.
+
+y
+
+costas,
+
+y
+
+la
+
 La condena en costas sólo comprenderá la
 remuneración de la persona representante autorizada
 para ejercer la profesión de licenciado en derecho o
@@ -3523,7 +3518,6 @@ abogado. Las personas de origen extranjero no
 podrán cobrar gastos, sino cuando estén autorizados
 legalmente en el territorio nacional, para ejercer como
 licenciadas en derecho o el ejercicio de la abogacía.
-
 Artículo 182. La condena en costas se hará cuando
 así lo prevenga la Ley, o cuando, a juicio de la
 autoridad jurisdiccional, se haya procedido con
@@ -3552,6 +3546,7 @@ improcedentes, o haga valer recursos o
 incidentes de ese tipo con el fin de generar
 dilaciones al procedimiento, no solamente se le
 condenará respecto de los señalados, sino que,
+
 si la sentencia definitiva le es adversa, también
 se le condenará por todos los demás trámites, y
 así lo declarará dicha resolución definitiva;
@@ -3560,7 +3555,6 @@ ejecutivos, hipotecarios, en los interdictos de
 retener y recuperar la posesión, y la que intente
 alguno de estos juicios si no obtiene sentencia
 favorable. En estos casos, la condenación se
-
 hará en la primera instancia, observándose en la
 segunda lo dispuesto en la fracción siguiente;
 IV. La persona que fuere condenada por dos
@@ -3579,6 +3573,7 @@ mediante el incidente respectivo en términos de lo
 dispuesto en este Código Nacional.
 La autoridad jurisdiccional deberá analizar la
 cuantificación y liquidación que se presente por las
+
 personas que ejerzan como notaria o notario público,
 personas representantes autorizadas, corredor
 público o peritos, y para aprobarla deberá comprobar
@@ -3588,7 +3583,6 @@ localidad de que se trate, así como a las constancias
 de autos, en caso, de no existir arancel, sólo se
 autorizará la cuantificación y liquidación formulada a
 juicio de peritos, debiendo mediar prudencialmente la
-
 autoridad jurisdiccional la liquidación, siempre y
 cuando no exista un treinta por ciento de diferencia
 entre el más alto y el más bajo, en cuyo caso se
@@ -3607,6 +3601,7 @@ De los Incidentes
 Artículo 185. Los incidentes, cualquiera que sea su
 naturaleza, nunca suspenderán el procedimiento,
 además:
+
 I.
 
 Se tramitarán oralmente en el caso de
@@ -3639,6 +3634,7 @@ se dictará el fallo interlocutorio, conforme a las
 disposiciones anteriores;
 IV. En caso de no estar presente la parte contraria,
 se mandará correr traslado para que conteste
+
 por escrito dentro del término de tres días.
 Enseguida se admitirán las pruebas y se
 señalará dentro del término de ocho días fecha
@@ -3647,7 +3643,6 @@ especial alguno, dictando en el acto de forma
 fundada y motivada el fallo interlocutorio,
 asentando en el acta mínima únicamente los
 puntos resolutivos;
-
 V. Los incidentes fuera del sistema de audiencias,
 se tramitarán, cualquiera que sea su naturaleza,
 con un escrito de cada parte, y tres días para
@@ -3671,12 +3666,12 @@ mediante acuerdo, se admitirán las mismas y se
 desahogarán en el acto, citando de inmediato
 para sentencia interlocutoria que se dictará en el
 plazo de cinco días por escrito.
+
 Artículo 186. En caso de impugnación de falsedad
 de documentos, se estará a lo dispuesto en el
 presente Código Nacional.
 Artículo 187. Los incidentes que se susciten con
 motivo de nulidades de actuaciones o de
-
 notificaciones se tramitarán conforme a lo dispuesto
 en este Código Nacional.
 Si, dicho incidente de nulidad es notoriamente frívolo
@@ -3699,25 +3694,14 @@ cumplimiento a la sentencia definitiva para que una
 persona lleve a cabo un acto determinado de
 ejecución inmediata, sólo implica la nulidad de la
 diligencia de requerimiento y sus consecuencias
+
 materiales, así como las correcciones disciplinarias o
 medios de apremio que se hayan decretado para
 hacer cumplir la orden judicial respectiva.
 Artículo 189. Las demás nulidades de actuaciones
 o notificaciones, por regla general, solo implican la
-
-nulidad de
+nulidad de la propia actuación o notificación
 defectuosa.
-
-la
-
-propia
-
-actuación
-
-o
-
-notificación
-
 En todos los casos de nulidad de actuaciones o
 notificaciones sólo se repetirán las declaradas nulas
 cuando así lo solicitare la parte interesada, salvo que
@@ -3741,6 +3725,7 @@ previo apercibimiento, pueden emplear cualquiera de
 los siguientes medios de apremio, cuantas veces
 crean necesario, sin que para ello sea indispensable
 que se ciñan al orden que a continuación se señala:
+
 I.
 
 Multa hasta por las cantidades a que se refiere
@@ -3750,7 +3735,6 @@ reincidencia;
 
 II. Auxilio de la fuerza pública y la fractura de
 cerraduras si fuere necesario;
-
 III. Cateo por orden escrita, de conformidad con los
 requisitos del Artículo 16 de la Constitución
 Política de los Estados Unidos Mexicanos;
@@ -3769,6 +3753,7 @@ ellos, se dará vista al Ministerio Público, Fiscal o
 Representante Social.
 La resolución que imponga una medida de apremio
 será irrecurrible.
+
 Artículo 192.
 disciplinaria:
 I.
@@ -3805,13 +3790,13 @@ La autoridad jurisdiccional deberá fundar y motivar la
 imposición de la medida que imponga.
 Artículo 193. Dentro de los tres días de haberse
 hecho saber una corrección disciplinaria, a quien se le
+
 haya impuesto, podrá pedir a la autoridad
 jurisdiccional que la oiga en justicia; y se citará para la
 audiencia dentro del quinto día, en la que se
 resolverá, confirmará, atenuará o dejará sin efecto la
 corrección disciplinaria, sin que en contra de dicha
 resolución proceda recurso alguno.
-
 Capítulo VII
 Del Emplazamiento y las Notificaciones
 Artículo 194. El emplazamiento, es el primer acto
@@ -3832,13 +3817,13 @@ Artículo 195. El emplazamiento deberá hacerse en
 el domicilio que señale la parte actora, precisamente
 en donde vive, trabaja o habite la parte a emplazar si
 esta es persona física; si se trata de persona jurídica,
+
 en su domicilio social, en sus oficinas, sucursales o
 principal asiento de sus negocios.
 Artículo 196. El emplazamiento se entenderá con la
 persona a quien se dirija el mandato judicial, para lo
 cual la persona servidora pública judicial deberá
 cerciorarse previamente que el lugar designado es el
-
 domicilio de la persona a la que se dirige. Si no se
 encontrare, se identificará con sus rasgos particulares
 a la persona con la que se atendió el llamado.
@@ -3862,13 +3847,13 @@ la diligencia. En ambos casos, además de la cédula,
 la persona servidora pública judicial entregará y
 verificará, previo cotejo, que se trate de las mismas
 copias simples de la demanda, debidamente cotejada
+
 y sellada, más las copias simples de los demás
 documentos que el actor haya exhibido con su
 demanda, o en su caso, la entrega del dispositivo de
 almacenamiento de datos que garantice la
 inalterabilidad del o los archivos que contengan la
 reproducción de los anexos citados.
-
 Artículo 198. La persona servidora pública judicial
 se identificará ante quien entienda la diligencia;
 requiriendo a ésta para que a su vez se identifique,
@@ -3893,6 +3878,7 @@ domicilio, un citatorio de emplazamiento en donde se
 señalará el motivo de la diligencia, la fecha, la hora y
 el lugar de la misma, así como la fecha y hora del día
 para que le espere, que en ningún caso podrá ser
+
 menor de veinticuatro horas ni exceder de cuarenta y
 ocho horas, contadas a partir del día en que se dio la
 citación, nombre de quien promueve, autoridad
@@ -3905,7 +3891,6 @@ la
 determinación que se manda notificar y el
 apercibimiento de que, si en la fecha señalada para
 llevar a cabo la diligencia de emplazamiento no se
-
 encontrara a la persona buscada o destinataria del
 procedimiento judicial, se aplicarán las siguientes
 reglas:
@@ -3941,6 +3926,7 @@ II. Cuando el acceso a la casa, local, oficina o
 despacho, donde se haya ordenado el
 emplazamiento se encuentre restringido para su
 acceso, por estar en el interior de negociaciones
+
 mercantiles, establecimientos abiertos al público,
 clubes privados, unidades habitacionales,
 fraccionamientos, condominios, colonias o
@@ -3948,7 +3934,6 @@ cualquier otro lugar similar; la persona servidora
 pública judicial solicitará, el ingreso a quien se
 encuentre resguardando la entrada y, en caso
 de negativa, hará uso del auxilio de la fuerza
-
 pública previamente autorizada, a fin de que
 ésta ejecute todos los actos tendientes a permitir
 el ingreso de la persona servidora pública para
@@ -3972,13 +3957,13 @@ del emplazamiento, y
 IV. La parte actora podrá acompañar a la persona
 servidora pública judicial a la práctica del
 emplazamiento.
+
 Deben firmar las notificaciones tanto la persona que
 la hace como aquella a quien se le hace, si ésta no
 supiere firmar, lo hará un tercero a su ruego y si no
 quisiere firmar, lo hará el servidor público, haciendo
 constar esta circunstancia. A toda persona se le dará
 copia simple de la resolución que se le notifique, sin
-
 necesidad de acuerdo judicial. Las copias que no
 recojan las partes se conservarán en la secretaría,
 mientras esté pendiente el procedimiento.
@@ -4002,13 +3987,13 @@ caso el emplazamiento o las notificaciones se
 firmarán por la persona servidora pública judicial y por
 la persona a quien se hiciere. Si ésta no supiere o no
 pudiera firmar lo hará a su ruego un testigo, si no
+
 quisiere firmar o presentar testigo que lo haga por
 ella, firmarán dos testigos requeridos al efecto por la
 persona servidora pública judicial. Quienes sean
 testigos, no podrán negarse hacerlo bajo pena de
 multa por los equivalentes precisados en el artículo
 192 de este Código Nacional.
-
 Artículo 202. Las personas servidoras públicas
 judiciales, deberán practicar los emplazamientos,
 notificaciones, citaciones o requerimientos dentro de
@@ -4030,13 +4015,13 @@ V. Por telégrafo, y
 VI. Por cualquier otro medio de comunicación
 electrónica o sistema de justicia digital, mediante
 dispositivos físicos o móviles, autorizados en los
+
 lineamientos aprobados por el Consejo de la
 Judicatura conforme a la Ley Orgánica del Poder
 Judicial correspondiente.
 La persona servidora pública judicial, elaborará la
 razón respectiva, acompañando las evidencias de la
 ejecución de la misma.
-
 Artículo 204. Las partes, en el primer escrito o en la
 primera diligencia judicial, deberán designar un
 domicilio ubicado en el lugar del procedimiento para
@@ -4058,13 +4043,13 @@ excepcionalmente a juicio de la autoridad
 jurisdiccional deba practicarla personalmente en el
 domicilio señalado, con las salvedades previstas en el
 presente Código Nacional.
+
 Artículo 205. En caso de omisión en la designación
 del domicilio o dirección electrónica, las notificaciones
 le surtirán a la parte omisa por el medio de
 comunicación procesal oficial respectivo.
 Las entidades públicas que participen en un
 procedimiento amparado por el presente Código
-
 Nacional, deberán designar una dirección de correo
 electrónico, y contar con el equipo y los recursos de
 infraestructura necesarios para la recepción de
@@ -4088,6 +4073,7 @@ Artículo 207. Salvo disposición legal en contrario,
 cuando se trate de diligencias de embargo, la persona
 servidora pública judicial, no podrá practicarla cuando
 por primera ocasión en que la intente no se entienda
+
 con la parte interesada. En este caso, dejará citatorio
 para que la espere dentro de las horas que se le
 precisen, que serán para después de seis horas de la
@@ -4095,7 +4081,6 @@ del citatorio y entre las cuarenta y ocho horas
 siguientes. Si la persona buscada no atiende el
 citatorio, la diligencia se practicará con quienes
 tengan con ella algún parentesco o sean sus
-
 trabajadoras, o con cualquier otra persona que viva
 en el domicilio señalado.
 En todos los casos, practicada la diligencia de
@@ -4118,6 +4103,7 @@ medios de apremio que considere procedentes.
 A petición de parte la autoridad jurisdiccional, dentro
 de un término de cinco días, deberá poner el oficio
 respectivo a disposición de la parte interesada,
+
 acompañado de la constancia debidamente
 certificada del embargo de bienes inmuebles, para
 que se presente al Registro de la Propiedad, Oficina
@@ -4125,7 +4111,6 @@ Registral o cualquier otra institución análoga según la
 Entidad Federativa de que se trate, para su
 inscripción preventiva, la cual tendrá el efecto
 señalado en el Código Civil y la Ley Registral de la
-
 Entidad Federativa correspondiente. En caso de
 negativa sin causa justificada a la inscripción del
 embargo, la dependencia pública será responsable de
@@ -4150,6 +4135,7 @@ nuevo domicilio o medio de comunicación con los
 datos precisos.
 Artículo 209. Procede el emplazamiento o la
 notificación por edictos:
+
 I.
 
 Cuando se trate de personas inciertas;
@@ -4159,7 +4145,6 @@ ignora, se manifieste así bajo protesta de decir
 verdad y previo informe o informes que
 electrónicamente se soliciten y rindan por el
 mismo medio y que, a juicio de la autoridad
-
 jurisdiccional requiera a las autoridades o
 instituciones públicas que cuenten con registro
 oficial de personas y sus domicilios, y
@@ -4182,12 +4167,12 @@ Lo anterior en la inteligencia de que, si se presentare
 la persona requerida ante la autoridad jurisdiccional
 dentro del término que se haya otorgado, será
 emplazada y empezará a correr el plazo para
+
 contestar la demanda al día siguiente; y de no ser así,
 concluido el plazo otorgado iniciará al día siguiente el
 plazo para dar contestación a la demanda respectiva,
 quedando en la secretaría de la autoridad
 jurisdiccional el traslado correspondiente.
-
 Artículo 210. Se harán mediante notificación
 personal las siguientes resoluciones:
 I.
@@ -4210,12 +4195,12 @@ VI. Cuando se estime que se trata de un caso
 urgente o que la situación de vulnerabilidad de la
 persona lo requiera, a juicio de la autoridad
 jurisdiccional y así se ordene;
+
 VII. El requerimiento de un acto a la parte que deba
 cumplirlo;
 VIII. La primera resolución dictada por la autoridad
 jurisdiccional distinto al que previno en el
 conocimiento;
-
 IX. En todo caso, a las personas titulares de las
 fiscalías, Agentes del Ministerio Público y
 cuando la ley expresamente lo disponga, y
@@ -4238,13 +4223,13 @@ hecha el día de su publicación y surtiendo sus efectos
 al día siguiente; y, en caso de que sea una
 notificación personal, cuando comparezca la parte
 interesada ante la autoridad jurisdiccional, se les
+
 deberá de notificar dejando constancia en autos de la
 razón de notificación, firmada por la persona servidora
 pública, habilitada para tal efecto de acuerdo al
 organigrama de la Entidad Federativa de que se trate,
 haciendo saber si la persona notificada se negó a
 firmar; caso en el cual las partes podrán comparecer
-
 el mismo día en que se dicten las resoluciones para el
 efecto de notificarse, sin necesidad de esperar a que
 se publiquen en los medios antes referidos.
@@ -4267,6 +4252,7 @@ si la parte interesada no efectuó la citación oportuna y
 debidamente, pero su inasistencia no dará lugar a la
 imposición de medida de apremio, si no que se
 desechará tal probanza.
+
 Artículo 214. Es un deber procesal de las partes
 interesadas
 concurrir
@@ -4278,7 +4264,6 @@ resoluciones e imponerse de los autos. Todas las que
 se dicten en cualquier procedimiento se notificarán a
 través del medio de comunicación procesal oficial,
 que contendrá la lista de los asuntos que se hayan
-
 acordado cada día, expresando solamente el número
 de toca o expediente, nombre de las partes
 interesadas y clase de juicio, con excepción de los
@@ -4302,13 +4287,13 @@ cláusula especial, incluyendo la de absolver y articular
 posiciones, debiendo en su caso, especificar aquellas
 facultades que no se les otorguen, pero no podrán
 sustituir o delegar dichas facultades en tercera
+
 persona. Sin embargo, requerirán manifestación
 expresa que los faculte para transigir, desistirse de la
 instancia, de la acción y de los recursos o medios de
 defensa.
 Las personas autorizadas conforme al párrafo
 anterior, deberán acreditar encontrarse legalmente
-
 autorizadas para ejercer la profesión de persona
 licenciada en derecho o abogada, debiendo
 proporcionar los datos correspondientes en el escrito
@@ -4332,12 +4317,12 @@ los poderes judiciales, ni la falta de este registro será
 impedimento para que las autoridades jurisdiccionales
 tengan por autorizadas a las personas representantes
 autorizadas.
+
 Las partes podrán autorizar a personas solamente
 para oír notificaciones e imponerse de los autos, a
 cualquiera con capacidad legal, quien no gozará de
 las demás facultades a que se refieren los párrafos
 anteriores.
-
 Al acordar lo relativo a la autorización a que se
 refiere este artículo, se deberá expresar con toda
 claridad el alcance con el que se reconoce la
@@ -4360,12 +4345,12 @@ Artículo 218. De acuerdo con la naturaleza del
 exhorto o despacho, podrán autorizarse áreas o
 autoridades jurisdiccionales especializadas para su
 diligenciación a cargo de personas servidoras
+
 públicas con facultades suficientes para su
 cumplimiento. Para la recepción y devolución de
 exhortos, cartas rogatorias y despachos, los Poderes
 Judiciales preferentemente harán uso de las
 tecnologías de la información y comunicación, de
-
 conformidad con lo dispuesto en la Ley Orgánica
 respectiva.
 En materia familiar, la autoridad jurisdiccional
@@ -4389,12 +4374,12 @@ anterior, se deberán remitir a la autoridad
 jurisdiccional que deba cumplir la encomienda, a
 través del correo electrónico institucional de la
 Administración de Gestión Judicial o Institución
+
 análoga que corresponda, conjuntamente con los
 documentos digitalizados de las constancias
 conducentes. Una vez recibido, la persona secretaria
 judicial hará constar en el citado documento, la fecha
 y hora de su recepción. De la misma manera, se
-
 devolverán las constancias que deriven de la
 diligenciación de dichos exhortos.
 Artículo 220. Las diligencias de los exhortos que
@@ -4421,10 +4406,10 @@ II. La del lugar o población en que tenga que
 llevarse a cabo la actividad solicitada, aunque no
 se designe la ubicación del Tribunal o Poder
 Judicial exhortado;
+
 III. Las actuaciones cuya práctica se intenta;
 IV. El término o plazo en que habrán de practicarse
 las mismas, y
-
 V. El exhorto preferentemente deberá realizarse,
 enviarse y devolverse en forma electrónica,
 mediante
@@ -4453,11 +4438,11 @@ Artículo 222. En caso de que no se hubieran
 remitido por medio electrónico para su gestión, los
 tribunales pueden acordar que los exhortos y
 despachos que manden expedir se entreguen, para
+
 hacerlos llegar a su destino, a la parte interesada que
 hubiere solicitado la práctica de la diligencia.
 El Tribunal o Poder Judicial de cada Entidad
 Federativa redactará el exhorto con las inserciones
-
 respectivas, dentro del término de tres días, contados
 a partir de que surta efectos el proveído que ordene
 su remisión y lo pondrá a disposición de la parte
@@ -4486,23 +4471,22 @@ si
 su
 incomparecencia determina o no del exhorto. No
 procederá la nulidad de actuaciones por las
+
 diligencias
 practicadas
-por
-las
-personas
 mencionadas.
+
+por
+
+las
+
+personas
+
 De igual manera, la autoridad jurisdiccional
 exhortante o de oficio, otorgará plenitud de
 jurisdicción al exhortado, para que se practiquen
-
-cuantas diligencias sean necesarias
+cuantas diligencias sean necesarias para el
 cumplimiento de lo ordenado.
-
-para
-
-el
-
 No se exigirá poder alguno a las personas a que se
 refieren el párrafo que antecede.
 La autoridad jurisdiccional exhortada devolverá a la
@@ -4524,12 +4508,12 @@ presente Código Nacional, dejando constancia en
 autos de lo que resulte. Si a pesar del recordatorio,
 continuase la misma situación, la autoridad
 jurisdiccional exhortante lo pondrá en conocimiento
+
 directo del Superior inmediato del que deba
 cumplimentarlo, rogándole adopte las medidas
 pertinentes a fin de obtener el cumplimiento.
 El exhorto deberá cumplimentarse en el tiempo
 previsto en el mismo. De no ocurrir así, se recordará
-
 por cualquier medio de comunicación de la urgencia
 del cumplimiento, lo que se podrá hacer de oficio o a
 instancia de parte interesada.
@@ -4552,13 +4536,13 @@ diligencia por causas imputables.
 La parte a cuya instancia se libre exhorto, queda
 obligada a satisfacer los gastos que origine su
 diligenciación.
+
 Artículo 225. Tratándose de exhortos o despachos
 que libren las autoridades jurisdiccionales, serán
 remitidos por cualquier medio de comunicación, de
 manera directa a las autoridades jurisdiccionales que
 por razón de jurisdicción y competencia deban
 diligenciarlos, a través del correo electrónico
-
 institucional de la Administración de Gestión Judicial o
 Institución análoga que corresponda, conjuntamente
 con los documentos digitalizados de las constancias
@@ -4589,10 +4573,10 @@ Mexicanos sea parte.
 La parte a cuya instancia se libre exhorto, queda
 obligada a satisfacer los gastos que origine su
 diligenciación.
+
 Capítulo IX
 De los Términos Judiciales
 Artículo 227. Los términos empezarán a correr:
-
 I.
 
 El día siguiente en que se hubiere hecho el
@@ -4616,6 +4600,7 @@ no presentes las partes.
 Asimismo, podrá notificarse mediante otros sistemas
 autorizados en las leyes que corresponda, siempre
 que no causen indefensión.
+
 Artículo 228. La Ley sólo reconoce como términos
 comunes en los juicios, los siguientes:
 I.
@@ -4623,9 +4608,9 @@ I.
 Para todas las partes que intervengan en el
 juicio, el relativo a ofrecimiento de pruebas, así
 como aquéllos en que la autoridad jurisdiccional
-
 determine la vista para desahogo por las partes
 al mismo tiempo;
+
 II. En el litisconsorcio pasivo, tratándose del
 emplazamiento, y
 III. Los demás que expresamente señale este
@@ -4644,11 +4629,11 @@ judiciales.
 Artículo 230. En los autos se hará constar el día en
 que comiencen a correr los términos y aquel en que
 deben concluir.
+
 Artículo 231. Una vez concluidos los términos
 fijados a las partes, sin necesidad de que se acuse
 rebeldía, seguirá el juicio su curso y se tendrá por
 precluido el derecho que, dentro de ellos, debió
-
 ejercitarse, salvo los casos de caducidad o excepción
 previstos en el presente Código Nacional.
 Artículo 232. Siempre que la práctica de un
@@ -4673,12 +4658,12 @@ establece el presente Código Nacional.
 Artículo 234. Operará de pleno derecho la
 caducidad de la primera instancia cualquiera que sea
 el estado del juicio, desde el primer auto que se dicte
+
 en el mismo, hasta antes de que concluya la
 audiencia de juicio, si transcurridos cuarenta días
 hábiles contados a partir de la notificación de la última
 determinación judicial no hubiere promoción que
 tienda a impulsar el procedimiento de cualquiera de
-
 las partes. Los actos o promociones de mero trámite
 que no impliquen ordenación o impulso del
 procedimiento, no se considerarán como actividad de
@@ -4705,6 +4690,7 @@ cosas deben volver al estado que tenían antes
 de la presentación de la demanda y se
 levantarán los embargos preventivos, dejando
 sin efectos las medidas provisionales o
+
 cautelares. Se exceptúan de la ineficacia
 referida, las resoluciones firmes sobre
 competencia,
@@ -4712,7 +4698,6 @@ litispendencia,
 conexidad,
 personalidad y capacidad de las partes
 litigantes, que regirán en el juicio ulterior si se
-
 promoviere. Las pruebas rendidas en el
 procedimiento extinguido por caducidad, podrán
 ser invocadas en el nuevo si se promoviere,
@@ -4737,10 +4722,10 @@ VI. Para los efectos de la interrupción de la
 prescripción por demanda o cualquier género de
 interpelación judicial notificada a la persona
 poseedora o deudora en su caso, se equipará a
+
 la desestimación de la demanda la declaración
 de caducidad del procedimiento;
 VII. No tiene lugar la declaración de caducidad:
-
 a) En los juicios universales de concursos y
 sucesiones, pero sí en los juicios con ellos
 relacionados
@@ -4764,11 +4749,11 @@ interrupción del término de la caducidad. La
 suspensión del procedimiento tiene lugar:
 a) Cuando por fuerza mayor la autoridad
 jurisdiccional o las partes no puedan actuar;
+
 b) En los casos en que es necesario esperar
 la resolución de una cuestión previa o conexa
 por la misma autoridad jurisdiccional o por
 otras autoridades;
-
 c) Cuando la autoridad jurisdiccional tenga
 conocimiento de que las partes están
 participando en un procedimiento alternativo
@@ -4794,10 +4779,10 @@ antes de la presentación de la demanda.
 Título Segundo
 De la Etapa Postulatoria
 Capítulo I
+
 De la Demanda
 Sección Primera
 Requisitos de la Demanda
-
 Artículo 235. La demanda deberá cumplir los
 requisitos siguientes:
 I.
@@ -4821,11 +4806,11 @@ IV. Nombre, denominación o razón social de la parte
 demandada, y su domicilio;
 V. Las pretensiones, el objeto u objetos que se
 reclamen con sus accesorios;
+
 VI. La exposición clara y sucinta de los hechos en
 que el actor funde la demanda, relacionándolos
 a su vez con el título o títulos de las acciones
 que se ejerzan;
-
 VII. Los fundamentos de derecho, procurando citar la
 clase de acción intentada, los preceptos legales
 y, en su caso, convencionales, los criterios
@@ -4852,12 +4837,12 @@ persona representante autorizada, el escrito,
 usando su firma electrónica avanzada, la cual
 deberá corresponder a la persona que
 promueva;
+
 XI. Exhibir por cada demandado un ejemplar de las
 copias de traslado tanto de la demanda y sus
 anexos, ya sean en formato electrónico o físico,
 las cuales deberán estar debidamente foliadas e
 identificadas como copia; si los interesados
-
 fueran varios, se acompañará un ejemplar para
 cada uno de ellos. Esta exigencia no será
 necesaria en los casos que la demanda se
@@ -4882,11 +4867,11 @@ para los fines que les asigna la ley o la naturaleza del
 proceso, debe rectificar y admitir la demanda, sin
 estar vinculado ineludiblemente por su propia
 prevención, aunque el demandante no haya
+
 presentado ningún escrito encaminado a cumplir con
 lo pedido o el presentado se considere insuficiente.
 Si a pesar de lo anterior, no se cumplieron los
 motivos de prevención dentro del término señalado
-
 para tal efecto, se desechará la demanda y devolverá
 al interesado todos los documentos originales y
 electrónicos, así como las copias simples que se
@@ -4909,12 +4894,12 @@ autoridad jurisdiccional. En contra de dicha resolución
 no procede recurso ordinario alguno.
 En contra del auto que admita la demanda no es
 procedente recurso alguno.
+
 Los efectos de la presentación de la demanda son:
 interrumpir la prescripción, si no lo está por otros
 medios, señalar el principio de la instancia, y
 determinar el valor de las prestaciones exigidas,
 cuando no pueda referirse a otro tiempo.
-
 Artículo 238. Cuando se trate de demandas por
 controversias sobre bienes inmuebles, o en caso de
 que se intente la acción hipotecaria, la autoridad
@@ -4937,6 +4922,7 @@ el actor y, en su caso, con la propuesta de convenio y
 el formulario correspondiente, a fin de que, dentro del
 término de quince días conteste la demanda.
 Artículo 240. Los efectos del emplazamiento son:
+
 I.
 
 Prevenir el juicio en favor de la autoridad
@@ -4946,7 +4932,6 @@ II. Sujetar al emplazado a seguir el juicio ante la
 autoridad jurisdiccional que lo emplazó, siendo
 competente al tiempo de la citación, aunque
 después deje de serlo con relación a la parte
-
 demandada, porque éste cambie de domicilio, o
 por otro motivo legal;
 III. Obligar a la parte demandada a contestar ante la
@@ -4979,7 +4964,6 @@ correspondiente, número telefónico y dirección
 de correo electrónico para los mismos efectos
 procesales. Cuando proceda, revelar si el
 promovente pertenece a grupos sociales en
-
 situación de vulnerabilidad y acreditarlo o, en su
 caso, solicitar el apoyo especial a que se refiere
 el artículo 141 de este Código Nacional;
@@ -5011,7 +4995,6 @@ jurisprudenciales o doctrinales, o principios
 jurídicos aplicables;
 VII. Las firmas de la parte demandada, o de la
 persona representante autorizada. Si éstos no
-
 pudieren o no supieren firmar, pondrán su huella
 dactilar, firmando otra persona en su nombre y a
 su ruego indicando estas circunstancias. La
@@ -5031,6 +5014,7 @@ casos que proceda, ajustándose a las disposiciones
 de la demanda.
 En caso de reconvención, se seguirán las reglas
 previstas en este Código Nacional tanto para la
+
 demanda como para la contestación. Sin embargo, el
 emplazamiento deberá hacerse a través de la
 dirección de correo electrónico señalada por la parte
@@ -5039,7 +5023,6 @@ Artículo 243. Si las partes en sus respectivos
 escritos quisieran llamar a un tercero deberán
 manifestarlo en los mismos. El llamamiento a juicio se
 hará corriéndole traslado con los escritos y anexos,
-
 que deberán ser exhibidos por quien solicite la
 citación, debiendo proporcionar el domicilio de éste,
 sin cuyos requisitos no se dará curso a la petición
@@ -5061,16 +5044,15 @@ I.
 
 El o los documentos que acrediten, la
 personalidad o carácter de aquel que comparece
+
 en representación de alguna de las partes o
 terceros;
-
 II. Los documentos en los que la parte actora funde
 su acción y aquellos en que la parte demandada
 funde sus excepciones, ya sea en forma física o
 electrónica. Si no los tuvieren a su disposición,
 acreditarán haber solicitado su expedición con el
 acuse de recibo por el archivo o lugar en que se
-
 encuentren los originales, para que, a su costa,
 se les expida certificación de ellos, en la forma
 que prevenga la Ley. Se entiende que las partes
@@ -5093,6 +5075,7 @@ trate de pruebas supervenientes, de no
 cumplirse por las partes con alguno de los
 requisitos anteriores, no se les recibirán las
 pruebas documentales que no obren en su
+
 poder al presentar la demanda o contestación,
 como tampoco si en esos escritos se dejan de
 identificar las documentales, para el efecto de
@@ -5100,7 +5083,6 @@ que oportunamente sean requeridos por la
 autoridad jurisdiccional y sean recibidas; el
 mismo tratamiento se dará a los informes que se
 pretendan rendir como prueba;
-
 IV. Los documentos que las partes tengan en su
 poder y que deban servir como pruebas de su
 parte y, los que presentaren después, con
@@ -5124,6 +5106,7 @@ prueba y las grabaciones de audio o video, se
 podrán exhibir como archivos dentro de un
 dispositivo de almacenamiento de datos que
 garantice la integridad de los mismos, debiendo
+
 el promovente identificar y precisar con toda
 claridad su contenido. Al momento de proveer el
 escrito de demanda o contestación, la persona
@@ -5131,7 +5114,6 @@ secretaria judicial deberá cotejar que las copias
 exhibidas o las que se contienen en los archivos
 del dispositivo de almacenamiento correspondan
 a los documentos exhibidos como pruebas.
-
 Artículo 245. La presentación de documentos
 cuando sean públicos, podrá hacerse por copia
 simple, si la parte interesada manifestare, bajo
@@ -5155,6 +5137,7 @@ Ser de fecha posterior a dichos escritos;
 
 II. Los anteriores respecto de los cuales,
 protestando decir verdad, asevere la parte que
+
 los presente no haber tenido antes conocimiento
 de su existencia;
 III. Los que no haya sido posible adquirir con
@@ -5163,7 +5146,6 @@ a la parte interesada, y siempre que haya hecho
 oportunamente la designación expresa en los
 términos de lo dispuesto en el presente Código
 Nacional;
-
 IV. Los documentos que sirvan de pruebas contra
 excepciones alegadas o contra acciones en lo
 principal o reconvencional, y
@@ -5180,6 +5162,7 @@ Artículo 248. De todo documento que se presente
 después de la demanda y contestación, se dará
 traslado a la otra parte, para que dentro del plazo de
 tres días manifieste lo que a su derecho convenga.
+
 Una vez desahogada la vista por la contraria, o
 transcurrido el plazo para ello, la autoridad
 jurisdiccional resolverá sobre su admisión.
@@ -5189,7 +5172,6 @@ le dará vista en la misma audiencia para que
 manifieste lo que a su derecho convenga, evaluando
 en todo caso la autoridad jurisdiccional su admisión o
 desechamiento.
-
 Artículo 249. La omisión de presentar las copias
 simples no será motivo para dejar de admitir los
 escritos y documentos que se presenten en tiempo
@@ -5209,6 +5191,7 @@ que no tuvieren en su poder.
 En el caso de documentos físicos o electrónicos que
 hayan sido anunciados y no se tenga la posibilidad de
 exhibir, deberá presentarse el acuse de recibo de la
+
 solicitud de los mismos ante la oficina o archivo en
 que se encuentren, la parte interesada deberá
 continuar con las gestiones necesarias para recabar
@@ -5220,7 +5203,6 @@ electrónicas ofrecidas como prueba, por causa
 justificada la autoridad jurisdiccional desde la
 admisión de la demanda, contestación o desahogo de
 vista de excepciones, auxiliará al oferente girando las
-
 órdenes correspondientes para que sean remitidas a
 más tardar en la audiencia preliminar, con los
 apercibimientos de las medidas de apremio que
@@ -5240,6 +5222,7 @@ audiencia preliminar, según corresponda. En este
 caso, de ser admisible la prueba y no se presente
 oportunamente, se presumirán ciertos los hechos,
 salvo causa justificada y previo apercibimiento.
+
 En el supuesto de pruebas documentales o de
 informe a cargo de personas ajenas al juicio y que
 legalmente no estén obligados a su expedición, la
@@ -5249,7 +5232,6 @@ requerimientos respectivos en el acuerdo que recaiga
 al anuncio y ofrecimiento de la prueba.
 Artículo 251. Una vez contestada la demanda y, en
 su caso, la reconvención o transcurridos los términos
-
 para ello, se señalará fecha y hora para la celebración
 de la audiencia preliminar, dentro de los quince días
 siguientes.
@@ -5268,6 +5250,7 @@ hasta el dictado de la sentencia definitiva, las
 promociones de las partes que se encuentren
 relacionadas con el procedimiento deberán formularse
 oralmente al inicio de la audiencia respectiva. Las
+
 peticiones que no impulsen el procedimiento se harán
 valer antes del cierre de la audiencia. Cualquier
 promoción o petición que se presente por escrito en
@@ -5277,7 +5260,6 @@ Las cuestiones debatidas en una audiencia deberán
 ser resueltas en ella. Las partes no podrán dar lectura
 a escritos o registros de forma íntegra, pero sí a sus
 notas o apuntes.
-
 Artículo 253. La nulidad de una actuación deberá
 reclamarse en la audiencia subsecuente, bajo pena
 de quedar validada de pleno derecho. La producida
@@ -5294,6 +5276,7 @@ partes a través del medio de comunicación oficial,
 salvo lo dispuesto para las audiencias.
 Sección Tercera
 Del Allanamiento y Rebeldía
+
 Artículo 255. Transcurrido el plazo fijado en el
 emplazamiento sin contestar la demanda, se tendrán
 por contestados los hechos en sentido negativo y se
@@ -5305,18 +5288,8 @@ Artículo 256. La parte demandada podrá allanarse a
 la demanda. En caso de allanamiento total, este
 deberá ser ratificado ante la autoridad jurisdiccional,
 en donde ambas partes serán asistidas técnica y
-
-efectivamente
+efectivamente por la persona representante
 autorizada.
-
-por
-
-la
-
-persona
-
-representante
-
 Habiéndose ratificado el allanamiento, la autoridad
 jurisdiccional estudiará la legitimación procesal, y
 dictará sentencia en un plazo que no excederá de
@@ -5332,6 +5305,7 @@ pruebas, y se dictará el fallo correspondiente en la
 misma audiencia.
 Artículo 258. Cuando la controversia se refiera sólo
 a puntos de derecho, y no de hecho, se citará para la
+
 audiencia de juicio en el término de diez días y
 después de escuchar los alegatos, la autoridad
 jurisdiccional expondrá de forma breve, clara y
@@ -5341,7 +5315,6 @@ las partes, así como, en los casos que proceda, el
 derecho que tienen las partes para apelar dicha
 sentencia conforme a lo establecido en este Código
 Nacional.
-
 Artículo 259. En los casos de declaración de
 rebeldía de la parte demandada por falta de
 contestación, tendrán aplicación las siguientes reglas:
@@ -5365,6 +5338,7 @@ en cuanto se estime necesario, para asegurar lo
 que sea objeto del juicio, aplicando en lo
 conducente las reglas de las medidas
 cautelares.
+
 Artículo 260. La persona declarada en rebeldía
 podrá apersonarse a la audiencia de juicio para
 participar en el desahogo de las pruebas y rendir
@@ -5372,7 +5346,6 @@ alegatos finales, sin que en ningún caso pueda
 retrotraerse el procedimiento.
 Capítulo II
 De las Pruebas
-
 Sección Primera
 De las Pruebas en General
 Artículo 261. Las partes, para soportar su acción,
@@ -5392,6 +5365,7 @@ podrá decretar en todo tiempo, sea cual fuere la
 naturaleza del procedimiento la práctica o ampliación
 de cualquier diligencia probatoria. En la práctica de
 estas diligencias, la autoridad jurisdiccional obrará
+
 como estime procedente para obtener el mejor
 resultado de ellas, sin lesionar el derecho de las
 partes, oyéndolas y procurando en todo, su igualdad y
@@ -5401,7 +5375,6 @@ equilibrio procesal.
 Artículo 263. Las diligencias de desahogo de
 pruebas que deban verificarse fuera del recinto
 asiento, de la autoridad jurisdiccional, pero dentro de
-
 su ámbito de competencia territorial, deberán ser
 presididas por la autoridad jurisdiccional, registradas
 por personal técnico adscrito al Tribunal o Poder
@@ -5421,6 +5394,7 @@ III. Cuando la negativa fuere elemento constitutivo
 de la acción o de la excepción.
 Artículo 265. Ni la prueba en general ni los medios
 de pruebas establecidos por la Ley son renunciables.
+
 No obstante, lo dispuesto en el párrafo que
 antecede, las partes podrán desistirse de las pruebas
 que estén pendientes de desahogo, a fin de que el
@@ -5429,7 +5403,6 @@ podrán hacerlo una vez que éstas hayan sido
 desahogadas. Tratándose de documentales que
 lleguen con posterioridad al desistimiento, no podrán
 agregarse al expediente en ningún caso.
-
 Artículo 266. Sólo los hechos estarán sujetos a
 prueba; el derecho lo estará únicamente cuando se
 trate de normas diversas a las generales o cuando se
@@ -5450,6 +5423,7 @@ las pruebas que le presenten las partes, siempre que
 estén permitidas por la Ley y se refieran a los puntos
 cuestionados. Si las partes estiman que las
 resoluciones judiciales que admitan o desechan
+
 pruebas les causan agravio, lo harán valer en la
 apelación contra la sentencia definitiva que, en su
 caso, interpongan; y la autoridad jurisdiccional de
@@ -5458,7 +5432,6 @@ jurisdicción sin reenvío.
 Tratándose de juicios del arrendamiento inmobiliario,
 la prueba pericial sobre cuantificación de daños,
 reparaciones o mejoras, sólo será admisible en el
-
 periodo de ejecución de sentencia, en la que se haya
 declarado la procedencia de dicha prestación.
 Asimismo, tratándose de informes que deban rendirse
@@ -5480,13 +5453,13 @@ acreditada, que por disposición de la Ley deba tenerlo
 o deba acreditarlo o, atendiendo al caso en concreto,
 por la naturaleza de los hechos sea evidente su
 disponibilidad.
+
 Artículo 271. Las personas terceras están
 obligadas, en todo tiempo, a prestar auxilio a las
 autoridades jurisdiccionales, en consecuencia, deben
 sin demora, exhibir documentos, informes, bienes y
 archivos electrónicos que tengan en su poder, cuando
 para ello fueren requeridos o permitir su inspección.
-
 La autoridad jurisdiccional tiene la facultad y el deber
 de compeler a las personas terceras, por los apremios
 más eficaces, para que cumplan con esta obligación;
@@ -5507,13 +5480,13 @@ respecto del objeto de su declaración, tengan el deber
 de guardar secreto con motivo del conocimiento que
 tengan de los hechos debido a su empleo, cargo,
 puesto, oficio, profesión o relación de negocios.
+
 Cuando deba recibirse testimonio de menores de
 edad y se tema por su afectación psicológica o
 emocional, así como en caso de víctimas de cualquier
 tipo de violencia, la autoridad jurisdiccional a petición
 de las partes, podrá ordenar su recepción con el
 auxilio de familiares o peritos especializados.
-
 Para ello deberán utilizarse las técnicas
 audiovisuales adecuadas que favorezcan evitar la
 confrontación con el generador de violencia.
@@ -5537,13 +5510,13 @@ cumplimiento de sus determinaciones, podrá
 imponerse una medida de apremio establecida en el
 presente Código Nacional, salvo que exista
 impedimento legal para ello.
+
 Artículo 274. Las pruebas deberán ofrecerse en los
 escritos de demanda, contestación a la demanda, en
 la reconvención, y en el escrito de contestación a la
 reconvención, así como de las excepciones. En el
 caso de incidentes, se hará en el escrito que lo
 promueva y su contestación, si se realiza por escrito
-
 o, en el mismo acto, si se realiza oralmente en la
 audiencia respectiva.
 Artículo 275. Las pruebas deben ofrecerse
@@ -5566,6 +5539,7 @@ admisión o desechamiento de pruebas, pudiendo
 limitar el número de testigos prudencialmente. En
 ningún caso, la autoridad jurisdiccional admitirá
 pruebas o diligencias en los siguientes supuestos:
+
 I.
 
 Las
@@ -5575,10 +5549,9 @@ extemporáneamente;
 
 sido
 
-II. Las que sean contrarias a derecho;
-
 ofrecidas
 
+II. Las que sean contrarias a derecho;
 III. Las que no versen sobre los hechos narrados
 por las partes, o hechos imposibles o
 notoriamente inverosímiles, y
@@ -5601,10 +5574,10 @@ para dichos efectos tomará en consideración el
 tiempo para su preparación.
 Se señalará audiencia de juicio dentro de los
 siguientes cuarenta días. Presentes o no las partes en
+
 las audiencias, se les tendrá por notificadas y
 apercibidas de las consecuencias legales en caso de
 inasistencia.
-
 La audiencia de juicio, incidental o de ejecución se
 celebrará con las pruebas que estén preparadas, por
 regla general no se diferirá y sólo se señalará nuevo
@@ -5629,11 +5602,11 @@ exista consenso de las partes y resulte necesario a
 juicio de la autoridad jurisdiccional, conforme a lo
 dispuesto en el Libro Octavo del presente Código
 Nacional.
+
 Artículo 280. Cuando hubiere de practicarse alguna
 diligencia o aportarse pruebas fuera del lugar del
 juicio, de acuerdo con la naturaleza de la prueba,
 podrá ordenarse su recepción a distancia. Con este
-
 fin, la autoridad jurisdiccional exhortante podrá
 coordinarse con la exhortada, de acuerdo a los
 sistemas de justicia digital con que cuenten, para
@@ -5691,12 +5664,12 @@ sea testimonial. Para el caso de ser inexactos
 los datos de identificación, domicilio o
 simplemente no existan, se declarará desierta la
 prueba;
+
 III. Que se designen, en caso de ser prueba
 instrumental, los archivos públicos o particulares
 donde se hallen los documentos físicos o
 electrónicos que han de cotejarse, o presentarse
 originales, y
-
 IV. En tratándose de cualquier otra diligencia,
 deberá indicarse con toda claridad lo que se
 pretende rendir o recibir y los puntos sobre los
@@ -5721,12 +5694,12 @@ no rindiere las pruebas que hubiere propuesto, sin
 justificar que para ello tuvo impedimento bastante, se
 le impondrá una sanción pecuniaria a favor de su
 contraparte, equivalente al monto del depósito a que
+
 se hace mención en el mismo artículo anterior,
 incluyendo la anotación en el Registro Judicial a que
 se refiere el presente Código Nacional, y además se
 dejará de recibir la prueba por causas imputables al
 interesado.
-
 En caso de que las partes, estando obligadas a
 presentar a sus testigos o peritos no cumplan con
 dicha comparecencia, se les tendrá por desistidos de
@@ -5749,11 +5722,11 @@ que sea interrogada en forma oral por su
 representante y su contraparte.
 Artículo 285. Cuando se trate de una persona
 jurídica, sólo podrá ser desahogada por la persona
+
 representante autorizada, con facultades, sin que
 pueda exigirse que se lleve a cabo por representante
 o apoderado específico, quien deberá conocer de los
 hechos litigiosos.
-
 La declaración voluntaria de parte propia no será
 admisible para las personas jurídicas públicas.
 La declaración de parte contraria será a cargo de la
@@ -5777,12 +5750,12 @@ el interrogatorio se le tendrá por citada, haya estado
 presente o no, desde la audiencia preliminar en que
 se admitió la prueba. En el caso de la declaración de
 parte contraria, quedará apercibida que, de no
+
 presentarse a la audiencia de juicio, o en caso de
 responder con evasivas el interrogatorio o negarse a
 contestarlo, se presumirán ciertos los hechos que se
 pretendieron demostrar, salvo prueba en contrario. Si
 se trata de una declaración voluntaria de parte propia,
-
 de no presentarse, el apercibimiento será dejar de
 recibir dicha probanza.
 Artículo 287. Tanto el interrogatorio formulado para
@@ -5818,7 +5791,6 @@ entendiéndose por tales las que se dirijan a
 ofuscar la inteligencia del que ha de responder,
 con objeto de obtener una confesión contraria a
 la verdad;
-
 VII. Las preguntas no serán repetitivas;
 VIII. No se permitirán preguntas sobre cuestiones
 de derecho o desconocidas técnicamente por la
@@ -5848,11 +5820,11 @@ u
 otra
 modalidad,
 inmediatamente que concluya su desahogo,
+
 permanezca en el lugar de recepción, para el
 desahogo de la declaración voluntaria de parte
 propia y declaración de parte contraria, según
 corresponda, admitida a la contraparte, a fin de
-
 contribuir a la continuidad y concentración de las
 pruebas;
 III. Quien responda al interrogatorio, al inicio de la
@@ -5877,11 +5849,11 @@ si quien objeta, en su argumentación asiste al
 dar información o indicar a su representado
 sobre cómo responder la pregunta, se tendrán
 por presuntamente ciertos los hechos que se
+
 pretende demostrar con la prueba. Mismo
 criterio se seguirá cuando pretenda defender
 una pregunta en el caso de declaración
 voluntaria;
-
 VII. Previo apercibimiento, en caso de que no asista
 a la audiencia respectiva la parte que responda
 al interrogatorio de declaración de parte
@@ -5905,11 +5877,11 @@ objeción, y
 XI. Durante el desahogo de esta prueba, podrán
 tenerse a la vista, así como usarse, bienes,
 instrumentos y apoyos técnicos, o incluso
+
 documentos, previamente admitidos, para ser
 mostrados al declarante para que pueda
 contestar los cuestionamientos que se le
 realicen.
-
 Artículo 289. No estarán obligadas a comparecer en
 los términos previstos en los artículos anteriores y
 declararán por escrito las siguientes personas:
@@ -5936,10 +5908,10 @@ objeción respectiva, lo cual deberá garantizar la
 autoridad jurisdiccional. Serán calificados por la
 autoridad jurisdiccional antes de su envío para su
 respuesta.
+
 Artículo 290. Las personas señaladas en el artículo
 anterior declararán por medio de preguntas cerradas
 o abiertas y mediante oficio, en el que se insertará el
-
 interrogatorio que quiera hacerles la contraparte, para
 que, por vía de informe, contesten dentro del término
 improrrogable de tres días. En el oficio se apercibirá a
@@ -5964,11 +5936,11 @@ De la Declaración de Testigos
 Artículo 291. Se podrá ofrecer la prueba testimonial
 para que cualquier persona que tenga conocimiento
 sobre los hechos relacionados al litigio comparezca a
+
 proporcionar su declaración testimonial a través del
 interrogatorio que oralmente se le formule. La
 autoridad jurisdiccional podrá prevenir al oferente
 para el efecto de reducir prudencialmente el número
-
 de testigos, debiendo admitir cuando menos dos por
 cada hecho controvertido.
 Toda persona que no tenga impedimento legal y sea
@@ -5995,11 +5967,11 @@ garantice la pronta resolución del juicio.
 En los casos de urgencia, podrán ser citados por
 cualquier medio que garantice la recepción de la
 citación, de lo cual se deberá dejar constancia.
+
 Tratándose de testigos que sean citados en su
 calidad de servidores públicos, la dependencia en la
 que se desempeñen adoptará las medidas
 correspondientes para garantizar su comparecencia,
-
 en cuyo caso absorberá además los gastos que se
 generen.
 La citación se realizará, por lo menos, con dos días
@@ -6025,11 +5997,11 @@ presentación de los testigos. Igualmente, en caso de
 que el señalamiento del domicilio de algún testigo
 resulte inexacto, o no existe, o de comprobarse que
 se solicitó su citación con el propósito de retardar el
+
 procedimiento. En estos casos, además se impondrá
 al oferente una sanción pecuniaria a favor de la
 contraparte hasta por el importe autorizado para
 correcciones disciplinarias, conforme a lo dispuesto
-
 en el presente Código Nacional. La autoridad
 jurisdiccional despachará de oficio ejecución en
 contra del infractor, sin perjuicio de dar vista al
@@ -6056,11 +6028,11 @@ III. El contrainterrogatorio estará a cargo de la
 contraparte, quien podrá formular preguntas
 tendientes tanto a desvirtuar la credibilidad o
 idoneidad del testigo como de su declaración;
+
 IV. El interrogatorio y contrainterrogatorio deberá
 formularse en términos sencillos, claros y
 precisos, deberá dirigirse a los hechos
 controvertidos objeto de la prueba; podrá
-
 destinarse a la credibilidad o idoneidad de quien
 declara; será libre y directo; y se hará bajo la
 completa responsabilidad de quien lo formule,
@@ -6086,11 +6058,11 @@ VII. Quien comparezca como testigo, deberá
 responder a todas las preguntas que se le
 formulen, en caso de negativa o responder
 evasivamente, a petición de parte, la autoridad
+
 jurisdiccional lo apremiará y, en su caso,
 determinará las consecuencias de ello, según el
 caso, en sentencia definitiva, para alguna de las
 partes;
-
 VIII. No se permitirá la tacha de testigos, están
 permitidas las preguntas para destruir la
 idoneidad y credibilidad, momento en el cual,
@@ -6120,11 +6092,11 @@ principio de igualdad e inmediación, salvo que se trate
 de la materia familiar, en cuyo caso la autoridad
 jurisdiccional estará facultada para cuestionar a la
 persona testigo sin limitación alguna, en aras de
+
 allegarse de la verdad material o cuando advierta
 violaciones a derechos humanos.
 Artículo 296. Si la persona testigo o declarante no
 hablara o entendiera el idioma español, no sabe leer;
-
 o tiene algún impedimento de comunicación para la
 manifestación de su voluntad, declarará a través de la
 persona intérprete que le acompañe o la persona que
@@ -6153,11 +6125,11 @@ bajo protesta de decir verdad. En caso de
 inasistencia, la prueba no será recibida.
 En todo caso, el desahogo de la prueba testimonial
 deberá realizarse en audiencia de juicio que se
+
 iniciará desde la Sala de Audiencias respectiva, para
 trasladarse al lugar y luego regresar a la misma.
 Asimismo, de acuerdo a cada caso en particular, la
 autoridad jurisdiccional podrá autorizar su desahogo a
-
 distancia, conforme a las reglas establecidas en este
 Código Nacional.
 Artículo 298. Ambas partes podrán solicitar a las
@@ -6182,10 +6154,10 @@ traducción y apostilla necesarias para el caso de girar
 carta rogatoria y; con la finalidad que tenga la
 oportunidad de formular sus contrainterrogatorios y
 ser agregados al exhorto o carta rogatoria, debiendo
+
 el contrainterrogatorio de cumplir con los mismos
 requisitos. Sin la exhibición de los interrogatorios por
 parte de la oferente no se admitirá la prueba.
-
 El interrogatorio será previamente calificado por la
 autoridad jurisdiccional una vez que admita la prueba
 y enviados en sobre cerrado a la autoridad exhortada.
@@ -6209,11 +6181,11 @@ III. Se ofrecerá expresando los puntos y
 cuestionamientos sobre los que versará y que
 deban resolver los peritos, sin lo cual no será
 admitida;
+
 IV. Las personas designadas deben tener título en
 la ciencia, arte, técnica, oficio o industria a que
 pertenezca, y cédula si se requiere legalmente
 para su ejercicio;
-
 V. Si los conocimientos especiales no estuvieren
 legalmente reglamentados con título oficial o,
 estándolo, no hubiere peritos en el lugar, podrá
@@ -6239,12 +6211,12 @@ en la reconvención, la contraria al contestar
 deberá designar perito de su parte, además de
 proponer la ampliación de los puntos y
 cuestiones que argumentó el oferente para que
+
 los peritos dictaminen. Si se ofrece al contestar
 la demanda principal o reconvencional, la
 contraria deberá designar a su perito, en la
 misma forma del párrafo anterior. Si se ofrece en
 el desahogo de las vistas con excepciones y
-
 defensas, la contraria lo designará dentro del
 término de tres días. En todo caso, deberá
 precisarse la ciencia, técnica o arte a que se
@@ -6273,11 +6245,11 @@ de las partes no exhiba su dictamen dentro del
 plazo señalado por la autoridad jurisdiccional,
 precluirá su derecho para hacerlo y, en
 consecuencia, la prueba se desahogará con el
+
 dictamen que se tenga por rendido. En el
 supuesto de que ninguno de los peritos exhiba
 su dictamen en el plazo señalado se dejará de
 recibir la prueba;
-
 V. Las partes deberán presentar a sus peritos en la
 audiencia de juicio, quienes deberán acreditar,
 bajo su responsabilidad, su calidad científica,
@@ -6302,11 +6274,11 @@ la que se pronuncien sobre la admisibilidad de la
 prueba. Si las causas de sustitución acontecen
 después de la audiencia preliminar, la parte
 interesada podrá sustituir al perito designado, siempre
+
 y cuando se exhiba el dictamen dentro del plazo
 señalado para ello. Subsistiendo todas las cargas y
 apercibimientos para su comparecencia en la
 audiencia de juicio respectiva.
-
 Artículo 303. Desahogados los dictámenes de
 ambas partes, si la autoridad jurisdiccional los estima
 substancialmente contradictorios de tal modo que no
@@ -6331,13 +6303,13 @@ juicio donde comparezca. En caso de incumplir, la
 autoridad jurisdiccional en la audiencia respectiva
 emitirá auto de ejecución en contra de la parte que
 haya omitido el pago.
+
 La persona perito tercero en discordia designado
 deberá rendir su dictamen por escrito a más tardar
 tres días hábiles antes de la audiencia de juicio o su
 continuación, debiendo asistir a la misma para efectos
 de explicar oralmente sus conclusiones y ser
 interrogado por las partes o la autoridad jurisdiccional.
-
 En caso de incumplimiento por parte de la persona
 perito designado, dará lugar a que la autoridad
 jurisdiccional le imponga como sanción pecuniaria, en
@@ -6368,13 +6340,13 @@ Artículo 304. La autoridad jurisdiccional podrá
 designar personas peritos terceros en discordia de
 entre aquéllos autorizados como auxiliares de la
 administración de justicia por la autoridad
+
 jurisdiccional competente del Poder Judicial
 respectivo; o, de entre aquéllos propuestos, a su
 previa solicitud, por colegios, asociaciones o barras
 de profesionales, artísticas, técnicas o científicas o de
 las instituciones de educación superior públicas o
 privadas o las cámaras de industria, comercio,
-
 confederaciones de cámaras, conforme al objeto del
 peritaje.
 En todos los casos en que se trate únicamente de
@@ -6398,12 +6370,12 @@ los mismos.
 Artículo 305. En materia civil, cuando la parte que
 promueve lo haga a través de la Defensoría Pública o
 Institución Pública o Privada que preste dichos
+
 servicios y ésta no cuente con la persona perito
 solicitado, la autoridad jurisdiccional, previa la
 comprobación de dicha circunstancia, nombrará una
 persona perito adscrita de alguna Institución Pública
 que cuente con el mismo. Aplicándose, en lo
-
 conducente, las disposiciones del presente Capítulo
 para garantizar la designación del perito respectivo.
 Artículo 306. En materia familiar, para la prueba
@@ -6429,12 +6401,12 @@ inasistencia se desechará la probanza, y
 IV. Las personas designadas para emitir un peritaje
 quedan obligadas a rendir su dictamen dentro de
 los quince días siguientes a la fecha en que
+
 hayan aceptado y protestado el cargo o bien, de
 la fecha que señale la autoridad jurisdiccional
 atendiendo a las circunstancias del caso. Lo
 anterior en el entendido de que las partes
 deberán de estar en aptitud de imponerse de su
-
 contenido por lo menos con tres días de
 anticipación a la celebración de la audiencia del
 juicio.
@@ -6459,11 +6431,11 @@ Las pruebas ofrecidas por la parte recusante deben
 desahogarse en la misma audiencia. En caso
 contrario, se desechará de plano la recusación. En
 caso de que la persona perito tercero en discordia
+
 ofrezca pruebas, deberá ofrecerlas y exhibirlas en el
 momento, de no ser así y de requerir prepararse las
 mismas, se señalará una audiencia especial
 indiferible dentro del término de tres días, en la que se
-
 desahogaran y se resolverá lo conducente por la
 autoridad jurisdiccional.
 En ese caso, no se suspenderá el desahogo del
@@ -6486,11 +6458,11 @@ electrónicas recibirán el mismo trato, atendiendo los
 principios de equivalencia funcional y neutralidad
 tecnológica. En todo caso, atendiendo a su
 naturaleza, se estará a las reglas generales y
+
 especiales, en lo relativo a su objeción, impugnación
 o fiabilidad.
 Artículo 309. Las partes están obligadas a exhibir
 todas las pruebas documentales físicas o electrónicas
-
 que ofrezcan relacionadas con sus pretensiones en la
 demanda o su contestación, sea principal o
 reconvencional, así como sus respectivas vistas.
@@ -6514,11 +6486,11 @@ interesada para gestionar dichas pruebas.
 De no cumplirse con las cargas procesales antes
 referidas la prueba será desechada o, en su caso,
 declarada desierta.
+
 Artículo 310. Los documentos que ya se exhibieron
 antes del período probatorio y las constancias de
 autos se tomarán como prueba, aunque no se
 ofrezcan.
-
 Artículo 311. Los archivos o registros electrónicos
 de audiencias o diligencias del juicio oral, cualquiera
 que sea el medio, serán documentos públicos que
@@ -6545,11 +6517,11 @@ los archivos públicos, o los dependientes del
 Gobierno Federal, de los Estados, de los
 Ayuntamientos, con firma original o electrónica
 autorizada;
+
 IV. Las certificaciones de las actas del estado civil
 expedidas por las autoridades jurisdiccionales,
 personas funcionarias públicas del Registro Civil
 o dependencia pública de acuerdo con cada
-
 Entidad Federativa, y las certificaciones que
 sean expedidas por medios manuales o
 electrónicos y que cuenten con la firma
@@ -6573,12 +6545,12 @@ de sociedades o asociaciones, universidades,
 siempre que estuvieren aprobados por el
 Gobierno Federal o de los Estados, y las copias
 certificadas que de ellos se expidieren;
+
 VIII. Las actuaciones judiciales de toda especie,
 incluyendo las de los expedientes electrónicos
 publicados y generados por cualquier autoridad
 jurisdiccional, en forma física o electrónica, de
 los Poderes Judiciales que les corresponda;
-
 IX. Las certificaciones que expidieren las bolsas
 mercantiles o mineras autorizadas por la Ley y
 las expedidas por corredor público con arreglo al
@@ -6601,10 +6573,10 @@ procedentes del extranjero, hagan fe en los Estados
 Unidos Mexicanos, deberán presentarse debidamente
 legalizados por las autoridades diplomáticas o
 consulares en los términos que establezcan los
+
 tratados y convenciones de los que México sea parte,
 la Ley del Servicio Exterior Mexicano y demás
 disposiciones aplicables.
-
 En caso de imposibilidad para obtener la
 legalización, ésta se sustituirá por cualquier prueba
 adecuada para garantizar su autenticidad. En todo
@@ -6629,12 +6601,12 @@ dar vista a la parte contraria para que, en un plazo de
 tres días, manifieste si está conforme; en caso de no
 estarlo, dentro del mismo plazo de tres días deberá
 presentar traducción emitida por un perito traductor.
+
 Si la traducción presentada por ambas partes fuese
 distinta en aspectos relevantes para la solución del
 conflicto, a costa de las partes, la autoridad
 jurisdiccional ordenará la traducción a través de un
 perito traductor oficial o una institución educativa.
-
 En ambos casos, si hubiere conformidad o no dijere
 nada el contrario, se tendrá por consentida la
 traducción.
@@ -6658,11 +6630,11 @@ electrónica, simple o avanzada, de ser posible se
 compulsarán levantando la actuación correspondiente
 y se observará el documento en la página de internet
 o en la base de datos de la dependencia que lo
+
 expidió. De no ser posible el referido cotejo, se
 procederá en los términos del párrafo anterior.
 Artículo 318. Los documentos públicos que hayan
 venido al procedimiento sin citación contraria, se
-
 tendrán por legítimos y eficaces, salvo que se
 impugnare expresamente su autenticidad o exactitud
 por la parte a quien perjudiquen. En este caso, a
@@ -6688,20 +6660,13 @@ autógrafa.
 Artículo 319. Son documentos privados los que
 otorgan personas particulares sin intervención de
 Notario Público u otra persona funcionaria dotado de
+
 fe pública, o legalmente autorizado para certificar tal
 documento.
 También se consideran documentos privados,
 aquellos que provengan de personas terceras y que
-
-este Código Nacional
+este Código Nacional no reconozca como
 documentos públicos.
-
-no
-
-reconozca
-
-como
-
 Artículo 320. Los documentos privados y la
 correspondencia
 procedente
@@ -6727,12 +6692,12 @@ Artículo 321. Los documentos privados originales,
 cuando formen parte de un libro, expediente o legajo,
 se exhibirán para que se compulse la parte que
 señalen las partes interesadas.
+
 Artículo 322. Si el documento se encuentra en
 libros, papeles de casa, de comercio o de algún
 establecimiento industrial, así como archivo que, por
 sus características y estado no permita su
 reproducción sin deteriorarse, quien pida el
-
 documento o la constancia, deberá fijar con precisión
 cuál sea, y la copia testimoniada se tomará en el
 escritorio del establecimiento, sin que las personas
@@ -6758,10 +6723,10 @@ demostrar su contraparte. La parte que promueva la
 prueba podrá presentar copia del documento o
 proporcionar los datos que conozca acerca de su
 contenido, mismo que se tendrá por exacto si se
+
 probare que el documento se halla o estuvo en poder
 de la parte adversaria, y ésta sin justa causa no lo
 presenta.
-
 Artículo 324. La obligación de exhibir documentos y
 cosas en procedimientos que se sigan en el
 extranjero, no comprenderá la de exhibir documentos
@@ -6787,9 +6752,9 @@ debe hacerlo, ya sea tratándose de una de las partes
 o de un tercero, quien en la audiencia de juicio
 contestará oralmente los cuestionamientos que se le
 realicen sólo sobre el documento a reconocer. Si se
+
 niega a responder y es parte en el juicio, el
 documento se tendrá por reconocido.
-
 Sólo puede reconocer un documento privado la
 persona que lo firmó, la que lo manda extender o la
 persona legítima representante con poder o cláusula
@@ -6814,10 +6779,10 @@ documentos indubitables para el cotejo y promover la
 prueba pericial correspondiente. Sin estos requisitos
 se tiene por no redargüido o impugnado el
 documento.
+
 Realizada la impugnación, se procederá a
 desahogar la prueba pericial en términos del presente
 Código Nacional.
-
 Lo dispuesto en este artículo sólo da competencia a
 la autoridad jurisdiccional para conocer y decidir en lo
 principal la fuerza probatoria del documento
@@ -6847,12 +6812,12 @@ documento y ofrecerá las pruebas para tal fin. La
 parte actora podrá responder a dicha impugnación,
 ampliará su cuestionario y ofrecerá la pericial
 correspondiente, en su caso.
+
 Si se trata de documentos exhibidos al contestar la
 demanda o la reconvención, la contraparte deberá
 promover la impugnación al desahogar la vista y
 ofrecerá las pruebas para ello, dando vista por tres
 días a su contraria para el derecho de contradicción.
-
 En el caso de los documentos exhibidos en los
 escritos de desahogo de vista de excepciones, la
 demandada podrá impugnarlos dentro del término de
@@ -6878,9 +6843,9 @@ asiente la firma, letras o huella digital que servirán
 para el cotejo. En este caso, la autoridad jurisdiccional
 podrá aprovechar la presencia de la persona en
 cualquiera de las audiencias para recabar sus firmas.
+
 Artículo 331. Se considerarán indubitables para el
 cotejo:
-
 I.
 
 Los documentos físicos o electrónicos firmados
@@ -6908,9 +6873,9 @@ la autoridad jurisdiccional, por la parte cuya
 firma, letra o huella dactilar se trata de
 comprobar y las puestas ante cualquier otra
 persona funcionaria revestida de fe pública.
+
 Sección Sexta
 De la Inspección o Reconocimiento Judicial
-
 Artículo 332. Al ofrecerse la prueba de inspección
 judicial, se deberá señalar e identificar los puntos
 sobre los que debe versar y puede verificarse
@@ -6937,11 +6902,11 @@ I.
 
 Deberá desahogarse en la audiencia de juicio o,
 según las circunstancias, o bien, antes o
+
 después de la misma en cualquier diligencia, con
 día de diferencia máximo, a efecto de no afectar
 el principio de continuidad y concentración de la
 información que arroje;
-
 II. En el caso de haberse solicitado la elaboración
 de planos o toma de fotografías éstas deberán
 desahogarse necesariamente en audiencia de
@@ -6966,11 +6931,11 @@ V. Con este fin, la audiencia iniciará en la sala de
 audiencias de la autoridad jurisdiccional
 respectiva, en la que, después de cumplir con
 las demás formalidades de la misma, se
+
 decretará el receso para trasladarse al lugar de
 la inspección y, posteriormente, al regreso,
 continuar con la audiencia respectiva de poderse
 celebrar el mismo día, en caso contrario, se
-
 podrá señalar nuevo día y hora para su
 continuación, y
 VI. En caso de no presentarse a la audiencia o
@@ -6996,9 +6961,9 @@ proponga, o que el juzgado requiera oficiosamente y
 que la persona informante tenga a su disposición, en
 cualquier fuente que la pueda contener, ya sea
 electrónica o documental.
+
 Los informes que se soliciten deberán versar sobre
 puntos claramente individualizados y referirse a
-
 hechos o actos que resulten de la documentación,
 archivo o registro de la persona informante.
 La contraparte podrá formular las peticiones
@@ -7024,10 +6989,10 @@ fonográficos y, en general, cualesquiera otros
 elementos proporcionados por la ciencia y la
 tecnología, que puedan producir convicción en el
 ánimo de la autoridad jurisdiccional.
+
 Las pruebas ofrecidas que, por su naturaleza,
 requieran de dispositivos electrónicos para su
 reproducción o percepción, o de alguna traducción o
-
 interpretación técnica, serán admitidas siempre y
 cuando la autoridad jurisdiccional cuente con ellas, y
 en caso contrario el oferente proporcione dichas
@@ -7058,9 +7023,9 @@ intimidad de las personas o poner en riesgo
 información reservada, confidencial o secretos
 industriales, lo expresará a la autoridad jurisdiccional,
 quien calificará tal solicitud y de considerarla fundada
+
 se recibirá en audiencia privada, dejando constancia
 de ello en el acta mínima que al efecto se levante.
-
 Sección Novena
 De las Presunciones
 Artículo 337. Presunción es la consecuencia que la
@@ -7085,9 +7050,9 @@ que la Ley haya reservado el derecho de probar.
 Artículo 341. La presunción debe ser grave, esto
 es, digna de ser aceptada por persona de buen
 criterio. Debe también ser precisa, esto es, que el
+
 hecho probado en que se funde, sea parte o
 antecedente o consecuencia del que se quiera probar,
-
 y que cuando fueren varias las presunciones han de
 ser concordantes entre sí.
 Artículo 342. En los supuestos de presunciones
@@ -7113,9 +7078,9 @@ valorándolas en los términos señalados en el párrafo
 anterior.
 Artículo 344. Los documentos públicos siempre
 harán prueba plena, salvo el caso de objeción
+
 declarada procedente o probado el incidente de
 impugnación.
-
 Las actuaciones e inspección judiciales que no
 requiera conocimientos especiales o científicos hacen
 prueba plena.
@@ -7143,9 +7108,9 @@ cualquier persona, tendrán el valor probatorio que les
 asigne su normatividad específica.
 Los documentos simples reconocidos por testigos,
 tendrán el valor que merezcan sus testimonios.
+
 Artículo 347. Las presunciones legales hacen
 prueba plena, salvo que existan otras que la
-
 contradigan o el presente Código Nacional disponga
 lo contrario.
 El órgano jurisdiccional según la naturaleza de los
@@ -7172,9 +7137,9 @@ recibida o archivada por medios electrónicos, ópticos,
 digitales, cuánticos o de cualquier otra tecnología, se
 ha mantenido íntegra e inalterada a partir del
 momento en que se generó por primera vez en su
+
 forma definitiva y ésta pueda ser accesible para su
 ulterior consulta.
-
 La información, documentos electrónicos o
 mensajes de datos contenidos o almacenados en una
 cadena de bloques pública hacen prueba plena,
@@ -7231,8 +7196,8 @@ Artículo 355. Para el emplazamiento se aplicarán
 las reglas generales previstas en este Código
 Nacional, pero se dará traslado a la parte demandada
 del registro en que conste la comparecencia para
-formular la demanda, así como la resolución de
 
+formular la demanda, así como la resolución de
 admisión de esta, y se le entregarán copias de los
 documentos o registros presentados al formular la
 demanda.
@@ -7269,9 +7234,9 @@ al
 demandado
 reconvencional en ese mismo acto para otra
 audiencia que se celebrará en un plazo no
+
 menor a cinco días contados a partir de
 concluida la audiencia;
-
 III. El demandado de la reconvención dará
 respuesta a los hechos expuestos por su
 contraria y ofrecerá las pruebas que estime a su
@@ -7295,9 +7260,9 @@ El escrito en que se consigne la sentencia deberá
 corresponder a la que en la audiencia pronunció la
 autoridad judicial, sin que sea permitido incorporar
 argumentos diversos.
+
 Artículo 360. Siempre se procurará resolver el
 fondo de todas las controversias planteadas.
-
 Artículo 361. Contra la sentencia definitiva procede
 recurso de apelación; contra cualquier otra resolución
 no procede recurso alguno.
@@ -7321,9 +7286,9 @@ Artículo 365. En los procedimientos orales sumarios
 no existirá expediente.
 Las audiencias se registrarán por cualquier medio
 que se estime conveniente, que asegure la
+
 preservación de la información para que pueda ser
 consultada.
-
 No será necesario que la autoridad judicial sea
 asistida por persona secretaria judicial.
 Artículo 366. Los Consejos de la Judicatura de los
@@ -7347,9 +7312,9 @@ I.
 Pidiendo información a través de declaración o
 interrogatorio bajo protesta, a la persona que se
 pretenda demandar, acerca de un hecho relativo
+
 a su personalidad, negocios, la calidad de su
 posesión o tenencia de bienes;
-
 II. Pidiendo la exhibición del bien mueble que haya
 de ser objeto de la acción real que se trate de
 entablar;
@@ -7374,9 +7339,9 @@ hallen en peligro inminente de perder la vida, o
 próximas a ausentarse a un lugar con el cual
 sean tardías o difíciles las comunicaciones y no
 pueda deducirse aún la acción, por depender su
+
 ejercicio de un plazo o de una condición que no
 se haya cumplido todavía;
-
 VIII. Pidiendo el examen de personas testigos para
 probar alguna excepción, siempre que la prueba
 sea indispensable y las personas testigos se
@@ -7401,9 +7366,9 @@ jurídicos que puedan ser materia de
 controversia.
 La acción que pueda prepararse conforme a las
 fracciones I a III y XI, procede contra cualquier
+
 persona que tenga en su poder los bienes que en
 ellas se mencionan.
-
 Artículo 368. Los medios preparatorios tienen por
 objeto que una persona se allegue de aquellos
 elementos que estime necesarios para ejercitar una
@@ -7461,9 +7426,9 @@ del procedimiento y el contenido de la solicitud, para
 que dentro del plazo de cinco días se lleve a cabo la
 audiencia respectiva o la práctica de la diligencia a
 que haya lugar.
+
 Artículo 374. La solicitud de exhibición interrumpe la
 prescripción de la acción, siempre que se presente la
-
 demanda correspondiente dentro de los cinco días
 siguientes al que se efectúo la exhibición, o dentro de
 los cinco días siguientes al que judicialmente conste
@@ -7494,9 +7459,9 @@ perjuicio a la Federación. Las que se practicaren en
 contravención de este precepto serán nulas de pleno
 derecho y no producirán efecto legal alguno.
 Sección Segunda
+
 De los Medios Preparatorios del Juicio Ejecutivo
 Civil
-
 Artículo 378. Los medios preparatorios a juicio
 ejecutivo tienen por objeto que una persona presunta
 deudora comparezca ante la autoridad jurisdiccional
@@ -7522,10 +7487,10 @@ documento o firma, se deberá adjuntar el documento
 a reconocer.
 Artículo 381. Una vez que la autoridad jurisdiccional
 admita la solicitud, señalará fecha de audiencia dentro
+
 del plazo de veinte días y citará a la persona de la
 cual se requiera el reconocimiento del documento o
 su declaración en torno a una presunta deuda liquida
-
 y exigible, con el apercibimiento que, en caso de
 inasistencia o falta de contestación al interrogatorio,
 se le tendrá por cierto el reconocimiento de la
@@ -7558,10 +7523,10 @@ reconocimiento de lo solicitado, cuando así
 proceda.
 Artículo 383. Puede hacerse el reconocimiento de
 documentos firmados ante Corredora o Corredor
+
 Público, Notaria o Notario Público, según corresponda
 de conformidad con lo dispuesto por la legislación
 aplicable, en forma autógrafa o con la firma
-
 electrónica, ya en el momento del otorgamiento o con
 posterioridad, siempre que lo haga la persona
 directamente obligada, la persona representante
@@ -7586,10 +7551,10 @@ jurisdiccional lo estima necesario y la resolución se
 dictará dentro de los tres días siguientes al desahogo
 de las pruebas; pronunciamiento contra el cual no
 procederá recurso alguno.
+
 Artículo 385. En lo no previsto en este Capítulo se
 observarán las reglas para los medios preparatorios
 del juicio en general en lo que resulte aplicable.
-
 Sección Tercera
 De la Preparación del Juicio Arbitral
 Artículo 386. Cuando en un contrato o instrumento
@@ -7613,12 +7578,12 @@ anterior, la persona secretaria judicial la requerirá
 previamente para que reconozca o no la firma
 autógrafa o electrónica del documento, y si se
 rehusare a contestar, se tendrá por reconocida.
+
 Artículo 389. En la audiencia, la autoridad
 jurisdiccional exhortará a que elijan árbitro de común
 acuerdo, y en caso de no conseguirlo, designará uno
 entre las personas que aparezcan en las listas
 oficiales del Poder Judicial de la Federación o de las
-
 Entidades Federativas; también podrá consultar a
 instituciones arbitrales, colegios de corredores o
 notarios públicos debidamente certificados para tal fin.
@@ -7641,12 +7606,12 @@ obligación, mediante el ofrecimiento judicial de pago,
 seguido de consignación.
 Artículo 392. Si la persona acreedora fuere cierta y
 conocida, se le citará para día, hora y lugar
+
 determinados, a fin de que reciba o vea depositar el
 bien debido. Si este fuere bien mueble de difícil
 conducción, la diligencia se practicará en el lugar
 donde se encuentre, siempre que esté dentro de la
 competencia territorial de la autoridad jurisdiccional; si
-
 estuviere fuera, se le citará y se librará el exhorto por
 escrito o vía correo electrónico o el despacho
 correspondiente a la autoridad jurisdiccional del lugar
@@ -7671,12 +7636,12 @@ efectos, pudiendo también, en su momento, ordenar
 que se entregue al acreedor la posesión del bien, lo
 cual determinará con base en las circunstancias que
 resulten de las diligencias que se practiquen.
+
 Artículo 395. Si la persona acreedora fuere
 desconocida, se le citará de conformidad con lo
 previsto en este Código Nacional, en términos de las
 disposiciones que se utilizan para las notificaciones
 de personas inciertas o cuyo domicilio se ignore.
-
 Si la persona acreedora estuviere ausente o
 desaparecida, será citada a través de representante
 de conformidad con las leyes de la materia, y en su
@@ -7704,10 +7669,10 @@ Artículo 397. Si el bien debido fuese cierto y
 determinado, que debiera ser consignado en el lugar
 en donde se encuentre, y la persona acreedora no lo
 retirara ni lo transportara, la deudora puede obtener
+
 autorización de la autoridad jurisdiccional para
 depositarlo en otro lugar adecuado y bajo su
 responsabilidad.
-
 Artículo 398. Cuando la persona acreedora no haya
 estado presente en el ofrecimiento y depósito del bien
 debido, debe ser notificada personalmente de esas
@@ -7732,11 +7697,11 @@ la diligencia y se limitarán a hacer el ofrecimiento y
 expedir a la persona deudora la certificación
 respectiva, en la que dé fe de los hechos. La
 tramitación de oposiciones de la persona acreedora y
+
 declaración de liberación deberá hacerse por la
 autoridad jurisdiccional competente.
 Artículo 401. Las mismas diligencias previstas en el
 artículo que antecede, se seguirán si la persona
-
 acreedora fuere conocida, pero dudosos sus
 derechos. Este depósito sólo podrá hacerse bajo la
 intervención judicial y bajo la condición de que la
@@ -7760,9 +7725,9 @@ Público, la designación será bajo la responsabilidad
 de la deudora.
 Capítulo II
 De las Medidas Cautelares en Materia Civil
+
 Sección Primera
 De las Providencias Precautorias
-
 Artículo 404. Las providencias precautorias son las
 siguientes:
 I.
@@ -7791,6 +7756,7 @@ II. Retención de bienes, en cualquiera de los
 siguientes casos:
 a) Cuando exista temor fundado de que los
 bienes que se hayan consignado como
+
 garantía o respecto de los cuales se vaya a
 ejercitar una acción real, se dispongan,
 oculten,
@@ -7799,7 +7765,6 @@ enajenen
 o
 sean
 insuficientes, y
-
 b) Tratándose de acciones personales,
 siempre que la persona contra quien se pida
 no tuviere otros bienes que aquellos en que se
@@ -7825,11 +7790,11 @@ garantizar la ejecución efectiva de la sentencia,
 siempre y cuando las cosas se mantengan en el
 estado en que se encuentren a la fecha de
 notificación de la providencia, no se afecten el
+
 orden e interés público o de terceras personas, y
 no se constituyan derechos a favor de la
 promovente equivalentes a los que obtendría, en
 el caso de obtener sentencia definitiva favorable.
-
 Las disposiciones de las fracciones anteriores
 comprenden no sólo a la persona deudora, sino
 también a quienes tengan la calidad de socias y
@@ -7855,10 +7820,10 @@ procedimiento, desde luego remitirá las mismas a la
 que le haya sido encomendado el mismo, quien
 podrá, en su caso, confirmar o revocar la decisión
 dictada.
+
 En el segundo caso, se tramitará en vía incidental
 directamente ante la autoridad jurisdiccional que
 conoce del procedimiento conforme al procedimiento
-
 de dos fases del mismo artículo 409 del presente
 Código Nacional.
 Si se pide la radicación de persona, bastará la
@@ -7885,10 +7850,10 @@ precisión;
 III. Manifieste, bajo protesta de decir verdad, las
 razones por las cuales tenga temor fundado de
 que los bienes consignados como garantía o
+
 respecto de los cuales se vaya a ejercitar la
 acción real serán ocultados, dilapidados,
 dispuestos o enajenados. En caso de que dichos
-
 bienes sean insuficientes para garantizar el
 adeudo, deberá acreditarlo con el avalúo o las
 constancias respectivas;
@@ -7916,9 +7881,9 @@ de la garantía deberá ser determinado por la
 autoridad jurisdiccional prudentemente, con base
 en la información que se le proporcione y
 cuidando que la misma sea asequible para quien
+
 la solicite. Salvo en asuntos que afecten
 derechos de familia, niñas, niños, adolescentes
-
 o mujeres que sufran cualquier tipo de violencia,
 en las que no será necesaria tal garantía.
 Artículo 408. Si la parte demandada consigna el
@@ -7944,9 +7909,9 @@ los requisitos particulares que este Código Nacional
 exige respecto de cada providencia precautoria, la
 apariencia del buen derecho y el peligro en la demora.
 Para tal efecto, se correrá traslado a la parte afectada
+
 con la solicitud respectiva para que en el plazo de tres
 días hábiles manifieste lo que a su derecho convenga.
-
 En dicho caso, las partes deben ofrecer sus pruebas
 en la comparecencia o en los escritos de solicitud de
 providencia precautoria y en el de su contestación, y
@@ -7971,10 +7936,10 @@ todo lo relacionado a ofrecimiento, admisión,
 preparación, desahogo de pruebas y celebración de
 audiencia oral, se aplicarán las reglas previstas en el
 presente Código Nacional.
+
 Artículo 410. De toda providencia precautoria queda
 responsable la persona que la pida; por consiguiente,
 son a su cargo los daños y perjuicios que se causen.
-
 Artículo 411. El aseguramiento de bienes decretado
 por providencia precautoria y la consignación a que
 se refiere este Capítulo, se rigen en lo que sea
@@ -7999,11 +7964,11 @@ cualquier tiempo, pero antes de la sentencia
 ejecutoria, solicitar a la autoridad jurisdiccional su
 modificación o revocación, cuando ocurra un hecho
 superveniente y conforme al procedimiento que
+
 establece el artículo 409 del presente Código
 Nacional.
 Artículo 415. Puede reclamar la providencia
 precautoria un tercero, cuando sus bienes hayan sido
-
 objeto del secuestro. Esta reclamación se sustanciará
 por cuaderno separado. El tercero que reclame una
 providencia, deberá hacerlo mediante escrito en el
@@ -8030,11 +7995,11 @@ En contra de la resolución de dicha reclamación,
 procederá el recurso de apelación en el efecto
 devolutivo. Cuando la providencia precautoria hubiere
 sido dictada en segunda instancia con motivo del
+
 recurso de apelación, la sentencia de la reclamación
 no admitirá recurso alguno.
 Artículo 416. Cuando la providencia precautoria se
 dicte por una autoridad jurisdiccional que no sea la
-
 que deba conocer del procedimiento principal, una
 vez ejecutada y resuelta en su caso la reclamación,
 se remitirán a la autoridad jurisdiccional competente
@@ -8057,12 +8022,12 @@ inmediata.
 Artículo 418. La parte que tenga interés en que se
 modifique la situación de hecho existente, deberá
 proponer su demanda ante la autoridad competente.
+
 Artículo 419. Cuando para mantener los hechos en
 el estado que guarden entrañe la suspensión de una
 obra, de la ejecución de un acto o de la celebración
 de un contrato, la demanda debe ser presentada por
 la parte que solicitó la medida, dentro del plazo de
-
 cinco días, contados a partir de la fecha en que se
 haya ordenado la suspensión.
 El hecho de no interponer la demanda dentro del
@@ -8085,11 +8050,11 @@ iniciarse el juicio, quedará insubsistente si no se
 interpone la demanda dentro de los cinco días de
 practicada, y se restituirán las cosas al estado que
 guardaban antes de dictarse la medida.
+
 Artículo 423. No podrá decretarse diligencia
 preparatoria alguna, de aseguramiento o precautoria
 que no esté autorizada por este Código Nacional o
 por disposición especial de la ley.
-
 Título Segundo
 Procedimientos Civiles No Contenciosos
 Capítulo I
@@ -8116,7 +8081,6 @@ derecho;
 II. Cuando se pretenda justificar la posesión como
 medio para acreditar el dominio pleno de un
 inmueble o derecho real;
-
 III. La posesión o propiedad de vehículos
 automotores por medio de testigos, siempre que
 no cuenten con reporte de robo u otros ilícitos,
@@ -8140,11 +8104,11 @@ En los casos de las tres primeras fracciones, así
 como en aquellos que se afecte el interés público,
 estén involucrados derechos de niñas, niños y
 adolescentes o se trate de derechos o bienes de
+
 personas declaradas ausentes o desaparecidas, se
 dará vista al Ministerio Público o Representación
 Social para su intervención y solo se podrá celebrar
 ante autoridad jurisdiccional. Las practicadas por
-
 Notaria o Notario Público las realizarán conforme a la
 ley respectiva.
 En el caso de la fracción IV, con la quien sea titular
@@ -8167,9 +8131,9 @@ Ministerio Público para los efectos conducentes y
 suspenderá la tramitación de la información.
 Estos procedimientos se tramitarán por escrito, salvo
 que, atendiendo al caso en concreto puedan
+
 realizarse las diligencias ajustándose a los principios
 del juicio oral.
-
 Artículo 426. La jurisdicción voluntaria deberá
 promoverse por escrito ante la autoridad jurisdiccional
 competente y reunir los siguientes requisitos:
@@ -8196,9 +8160,9 @@ intervención judicial;
 II. Si se requiere por la naturaleza de lo solicitado,
 el promovente ofrecerá las informaciones,
 dictámenes o pruebas necesarias para que la
+
 autoridad jurisdiccional gestione la solicitud y
 emita la providencia respectiva, y
-
 III. Si la autoridad jurisdiccional admite la solicitud,
 en
 la
@@ -8231,10 +8195,10 @@ desahogarán las pruebas de las partes y en
 seguida se emitirá la sentencia respectiva.
 Artículo 429. Los Consejos de la Judicatura de los
 Poderes Judiciales de las Entidades Federativas y del
+
 Poder Judicial de la Federación, mediante acuerdos
 generales, podrán establecer los mecanismos
 necesarios para que los procedimientos a que se
-
 refiere este artículo se desahoguen por medios
 electrónicos.
 Artículo 430. Para el examen de los testigos, se
@@ -8259,10 +8223,10 @@ reglas del presente Código Nacional.
 Artículo 433. Se dará por terminado el
 procedimiento de jurisdicción voluntaria si se opusiere
 parte legítima. Se desechará la oposición que se haga
+
 después de efectuado el acto, reservándole los
 derechos a quien se oponga para que los haga valer
 en la vía y forma que proceda.
-
 Artículo 434. La Autoridad Jurisdiccional podrá
 variar o modificar las providencias que dictare, sin
 sujeción estricta a los términos y formas establecidos
@@ -8286,9 +8250,9 @@ nulas de pleno derecho y no producirán efecto legal
 alguno.
 Artículo 437. De las informaciones o resoluciones
 se expedirán las copias certificadas o se mandarán
+
 protocolizar ante Fedatario Público a petición y costa
 del interesado.
-
 Artículo 438. Las informaciones se inscribirán en el
 Registro Público de la Propiedad Federal, Oficina
 Registral o cualquier Institución análoga según la
@@ -8314,8 +8278,11 @@ III. Quien sea titular del derecho para usufructuar el
 bien;
 IV. El apeo o deslinde de un fundo de propiedad
 nacional, estatal o municipal sólo podrá
-practicarse a petición de la autoridad
+
+practicarse a petición de la
 administrativa correspondiente, y
+
+autoridad
 
 V. Los particulares pueden también pedir el apeo,
 para deslindar su fundo respecto de otro con
@@ -8341,10 +8308,10 @@ servir para la diligencia, y designación de perito
 por parte de la promovente, y
 VI. La designación de un perito para que intervenga
 en el reconocimiento.
+
 Si el apeo se tramita ante Notaria o Notario Público,
 además de acreditarse la propiedad o titularidad del
 bien a deslindar, se deberá acreditar la propiedad o
-
 titularidad de los colindantes, salvo que el predio
 colinde con predio o bienes destinados a servicios
 públicos o de propiedad municipal, estatal o federal.
@@ -8402,8 +8369,8 @@ autoridad jurisdiccional de hacer declaración
 alguna en cuanto a la posesión, respetando en
 ella a quien la disfrute, y mandará reservar sus
 derechos a quienes tengan interés para que los
-hagan valer en el juicio correspondiente
 
+hagan valer en el juicio correspondiente
 mediante la resolución correspondiente que se
 dictare en el plazo de cinco días, y
 V. La autoridad jurisdiccional mandará que se fijen
@@ -8430,8 +8397,8 @@ unos y presente a los otros.
 En el caso de que el trámite de la diligencia se
 realice ante Notaria o Notario Público, los gastos
 serán únicamente por cuenta de quien la promueva.
-Sección Tercera
 
+Sección Tercera
 De la Designación de Apoyos Extraordinarios
 Artículo 445. Todas las personas mayores de edad
 tienen capacidad jurídica plena. El código civil
@@ -10078,14 +10045,13 @@ omisiones graves que afecten a los integrantes de la
 familia, la autoridad jurisdiccional deberá adoptar las
 medidas provisionales que se estimen convenientes,
 para que cesen de plano. En los casos de violencia
-vicaria, entendida como la violencia ejercida contra
-las mujeres a través de sus hijos, la autoridad
-jurisdiccional deberá salvaguardar la integridad de
-niñas, niños, adolescentes y mujeres, a efecto de
-
-evitar la violencia institucional contemplada en la Ley
+vicaria, definida en el artículo 6, fracción VI, de la Ley
 General de Acceso de las Mujeres a una Vida Libre
-de Violencia.
+de Violencia, la autoridad jurisdiccional deberá
+
+salvaguardar la integridad de niñas, niños,
+adolescentes y mujeres.
+Artículo reformado DOF 16-12-2024
 Artículo 555. La autoridad jurisdiccional determinará
 siempre el aseguramiento de los alimentos de quien
 tenga derecho a recibirlos aun cuando el
@@ -10534,8 +10500,11 @@ acompañamiento psicológico.
 La autoridad jurisdiccional está obligada a observar
 aquellos casos en los que pudiera tratarse de
 violencia vicaria en contra de mujeres, por sí o a
-través de una tercera persona.
+través de una tercera persona definida en el artículo
 
+6, fracción VI, de la Ley General de Acceso de las
+Mujeres a una Vida Libre de Violencia.
+Párrafo reformado DOF 16-12-2024
 Artículo 574. Toda persona integrante de la familia
 podrá solicitar las medidas de protección que
 considere pertinentes y se atenderá al principio de
@@ -10560,9 +10529,9 @@ en este Código Nacional deben ser dictadas dentro de
 las veinticuatro horas siguientes al conocimiento de
 los hechos, y ser cumplimentadas en un término no
 mayor a setenta y dos horas; por lo que, no será
+
 necesario que surta efectos ningún tipo de notificación
 para la materialización de las medidas u órdenes.
-
 Las órdenes de protección, pueden ser modificadas
 durante la tramitación del juicio, en la audiencia
 preliminar, o en la sentencia definitiva.
@@ -10588,9 +10557,9 @@ La autoridad jurisdiccional podrá retener los
 pasaportes a los deudores alimentarios morosos, y
 tratándose de extranjeros se dará vista al Instituto
 Nacional de Migración, mediante oficio para que
+
 proceda conforme a la Ley de Migración, a efecto que
 no se le permita la salida del Territorio Nacional.
-
 Del mismo modo la autoridad jurisdiccional podrá
 ordenar a petición de parte, el embargo precautorio
 de bienes y derechos de los que sea titular del deudor
@@ -10617,7 +10586,6 @@ solicitud;
 
 II. Indicar el domicilio en el que pretende
 permanecer o del que se desea retirar, y
-
 III. En caso de existir hijas o hijos menores de edad
 correspondientes a la unión, se deberán de
 exhibir los documentos que acrediten la filiación,
@@ -10645,10 +10613,10 @@ I.
 
 Para el caso que la solicitud fuera interpuesta
 por una tercera persona, se proveerá respecto
+
 de la manifestación de conformidad con la
 persona interesada en el trámite, lo cual se
 realizará en la diligencia de cumplimiento;
-
 II. Las medidas pertinentes y órdenes de
 protección a fin de que se efectúe de inmediato
 la separación, con atención a los hechos y
@@ -10672,10 +10640,10 @@ habidos en el matrimonio o relación familiar, se
 le entregarán la ropa, muebles y demás enseres
 de los mismos, así como de las personas
 mayores que deban salir del domicilio con quien
+
 se haya separado del mismo. En todos los casos
 quien se retire del domicilio familiar podrá retirar
 sus objetos personales y de trabajo, y
-
 VIII. Ordenar la notificación al otro cónyuge,
 concubina o concubinario, con la prevención
 expresa de que deberá abstenerse de impedir la
@@ -10701,9 +10669,9 @@ pertenezcan a grupos que se encuentren en situación
 de vulnerabilidad, se dará vista a la Procuraduría de
 Protección para Niños, Niñas y Adolescentes o su
 equivalente en la Entidad Federativa de la que se
+
 trate, así como al Agente del Ministerio Público de su
 adscripción.
-
 Artículo 583. La autoridad jurisdiccional puede
 modificar las resoluciones decretadas cuando los
 cónyuges o concubinos lo soliciten de común acuerdo
@@ -10733,10 +10701,10 @@ Restaurativa no es obligatorio para acceder a la
 justicia familiar.
 Las partes podrán acordar suspender la tramitación
 del juicio que hayan iniciado por un intervalo no mayor
+
 a tres meses. Las medidas cautelares, precautorias o
 provisionales decretadas en el trámite de cualquier
 juicio se mantendrán vigentes.
-
 Las partes podrán sujetarse a los mecanismos de
 justicia restaurativa, sin suspensión del trámite judicial
 correspondiente.
@@ -10763,9 +10731,9 @@ manifiesten su deseo de someterse a los beneficios
 de la justicia restaurativa, la autoridad jurisdiccional
 señalará día y hora para que las partes acudan a la
 entrevista inicial, a la cual podrán ser acompañadas
+
 en todo momento de cualquier persona de su
 confianza, lo que incluye a su representante legal.
-
 Una vez realizadas las entrevistas la persona
 facilitadora informará en el plazo de tres días a la
 autoridad jurisdiccional la viabilidad de la
@@ -10793,9 +10761,9 @@ asimetría en las relaciones de poder.
 En el plan o convenio, en su caso, la persona
 mediadora o facilitadora deberán promover que se
 garantice el bienestar psicológico y la seguridad física
+
 de todos los miembros de la familia. Después de
 aceptado y firmado el acuerdo la persona facilitadora
-
 tendrá un plazo máximo de tres días para presentarlo
 ante la autoridad jurisdiccional competente.
 Recibido por la autoridad jurisdiccional competente
@@ -10830,8 +10798,8 @@ jurisdiccional proveerá de todo lo necesario para su
 ejecución.
 El cumplimiento forzoso del convenio judicial podrá
 solicitarse en la vía de apremio.
-Título Segundo
 
+Título Segundo
 Procedimientos No Contenciosos en Materia
 Familiar
 Capítulo I
@@ -10889,8 +10857,8 @@ VI. Firma de quien promueve.
 Artículo 590. Cuando fuere necesaria la audiencia
 de alguna persona, se la citará conforme a derecho,
 apercibiéndole en la citación que quedan, por tres
-días, las actuaciones en la secretaría de la autoridad
 
+días, las actuaciones en la secretaría de la autoridad
 jurisdiccional para que se imponga de ellas y señalará
 día y hora para la audiencia dentro del término de
 quince días, a la que concurrirá el promovente o su
@@ -10927,8 +10895,8 @@ jurisdiccional o lo pidan las partes, y
 VI. Cuando lo dispusiere la Ley aplicable.
 Artículo 592. Recibida la solicitud, la autoridad
 jurisdiccional la examinará y conjuntamente a su
-admisión, proveerá respecto de las pruebas ofrecidas,
 
+admisión, proveerá respecto de las pruebas ofrecidas,
 las que se desahogarán en una audiencia oral que se
 fijará dentro del término de quince días. En su caso,
 se dará vista al Ministerio Público sin que sea
@@ -10955,8 +10923,8 @@ del procedimiento contencioso que corresponda.
 Artículo 596. Las resoluciones que se dicten en las
 diligencias de jurisdicción voluntaria ante autoridad
 jurisdiccional son recurribles en términos de lo que
-establece este Código Nacional. Contra la resolución
 
+establece este Código Nacional. Contra la resolución
 desestimatoria de la petición procede el recurso de
 queja y la que dé por concluido el procedimiento de
 las diligencias, será apelable en ambos efectos.
@@ -11152,9 +11120,9 @@ cumplido la edad exigida por la legislación
 sustantiva de cada Entidad Federativa];
 Fracción declarada inválida por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
-legales 14-08-2024 (En la porción normativa “que hubiere
-cumplido la edad exigida por la legislación sustantiva de
-cada Entidad Federativa”)
+legales 14-08-2024 y publicada DOF 04-12-2024 (En la
+porción normativa “que hubiere cumplido la edad exigida
+por la legislación sustantiva de cada Entidad Federativa”)
 III. Se requiere prevención judicial para que las
 cuentas se rindan antes de llegar al plazo
 previsto en la fracción I; a menos que hubiese
@@ -11177,9 +11145,9 @@ dejare de serlo, el Ministerio Público y las demás
 personas que fija la ley de la materia;
 Fracción declarada inválida por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
-legales 14-08-2024 (En la porción normativa “que hubiere
-cumplido la edad exigida por la legislación sustantiva de
-cada Entidad Federativa”)
+legales 14-08-2024 y publicada DOF 04-12-2024 (En la
+porción normativa “que hubiere cumplido la edad exigida
+por la legislación sustantiva de cada Entidad Federativa”)
 V. La resolución que desaprobare las cuentas
 indicará, si fuere posible, los alcances y la que
 aprobare puede ser apelada por el Ministerio
@@ -11642,7 +11610,7 @@ desde que fue presentada la solicitud de
 restitución, y]
 Fracción declarada inválida por sentencia de la SCJN a
 Acción de Inconstitucionalidad notificada para efectos
-legales 14-08-2024
+legales 14-08-2024 y publicada DOF 04-12-2024
 IV. Que la persona adolescente solicitada hubiere
 alcanzado la edad de dieciséis años y manifieste
 su conformidad con el traslado.
