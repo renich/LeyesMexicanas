@@ -95,6 +95,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LAmn.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LBOGM.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LBio.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LCACSEFAM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LCF.pdf
@@ -106,6 +107,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LCMM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LCNDH.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LCNE.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LCPAF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LDCMPME.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LDEFAM.pdf
@@ -118,6 +120,8 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LEBHN.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LEG_110814.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LEMEFAM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LEN.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LEPECFE.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LEPEPM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LESS.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFAAR.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LFAEBSP.pdf
@@ -225,6 +229,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LGT.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGTOC.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LGeo.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LHidro.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf
@@ -281,6 +286,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LPF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LPM_110814.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LPO.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LPPDDHP.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LPTE.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LPlan.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LRAF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LRAM.pdf
@@ -295,6 +301,8 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LRSF.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LRSIC.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LSE.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf/LSH.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LSInt_300519.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LSM.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LSN.pdf
@@ -489,6 +497,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Asociaciones_Publico_Priv
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Asociaciones_Religiosas_y_Culto.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Aviacion_Civil.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Ayuda_Alimentaria_para_los_Trabajadores.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Biocombustibles.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Bioseguridad_de_Organismos_Geneticamente_Modificados.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Camaras_Empresariales_y_sus_Confederaciones.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Caminos_Puentes_y_Autotransporte.pdf
@@ -518,6 +527,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Fomento_a_la_Industria_Vi
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Fomento_para_la_Lectura_y_el_Libro.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Fondos_de_Aseguramiento_Agropecuario_y_Rural.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Fondos_de_Inversion.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Geotermia.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Hidrocarburos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Infraestructura_de_la_Calidad.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Ingresos_2024.pdf
@@ -534,6 +544,7 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Obras_Publicas_y_Servicio
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Organizaciones_Ganaderas.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Petroleos_Mexicanos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Planeacion.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Planeacion_y_Transicion_Energetica.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Premios_Estimulos_y_Recompensas_Civiles.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Productos_Organicos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_Promocion_y_Desarrollo_de_los_Bioenergeticos.pdf
@@ -560,8 +571,11 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Agencia_Nacional_de_Se
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Casa_de_Moneda.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Comision_Federal_de_Electricidad.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Comision_Nacional_Bancaria_y_de_Valores.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Comision_Nacional_de_Energia.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Comision_Nacional_de_los_Derechos_Humanos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Economia_Social_y_Solidaria.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Empresa_Publica_del_Estado_Comision_Federal_de_Electricidad.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Empresa_Publica_del_Estado_Petroleos_Mexicanos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Fiscalia_General_de_la_Republica.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Guardia_Nacional.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_de_la_Industria_Electrica.pdf
@@ -587,6 +601,8 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Instituto_del_Fondo_Naci
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Instituto_del_Fondo_Nacional_para_el_Consumo_de_los_Trabajadores.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Mercado_de_Valores.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Registro_Publico_Vehicular.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Sector_Electrico.pdf
+http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Sector_Hidrocarburos.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Seguro_Social.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Servicio_Exterior_Mexicano.pdf
 http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_del_Servicio_Militar.pdf
