@@ -64,6 +64,12 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 ==> Impuesto_Sobre_Servicios-Declarados_de_Interes_Publico-Empresas_Concesionarias.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
+==> LAASSP.txt <==
+LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO
+
+==> LAASSP_2000.txt <==
+LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO
+
 ==> LAAT.txt <==
 LEY DE AYUDA ALIMENTARIA PARA LOS TRABAJADORES
 
@@ -1244,6 +1250,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_Reglamentaria_del_Servicio_Ferroviario.txt <==
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+==> Ley_de_Adquisiciones_Arrendamientos_y_Servicios-2000.txt <==
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
 ==> Ley_de_Adquisiciones_Arrendamientos_y_Servicios.txt <==
