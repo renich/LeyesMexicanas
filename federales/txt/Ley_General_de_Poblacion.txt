@@ -7,7 +7,7 @@ LEY GENERAL DE POBLACIÓN
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 7 de enero de 1974
 TEXTO VIGENTE
-Última reforma publicada DOF 12-07-2018
+Última reforma publicada DOF 16-07-2025
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -525,19 +525,113 @@ Registro Nacional de Población, se le asignará una
 clave que se denominará Clave Unica de Registro de
 Población. Esta servirá para registrarla e identificarla
 en forma individual.
+La Clave Única de Registro de Población es la
+fuente única de identidad de las personas, de
+nacionalidad mexicana, o extranjera que se encuentre
+en condición de estancia regular en el país, integrada
+de una secuencia alfanumérica de 18 caracteres que
+permite identificarlas, la cual contará con, al menos,
+los siguientes datos:
+
+I.
+
+Nombres y apellidos, según corresponda;
+
+II.
+
+Fecha de nacimiento, empezando por año,
+mes y día;
+
+III.
+
+Sexo o género;
+
+IV.
+
+Lugar de nacimiento, y
+
+V.
+
+Nacionalidad.
+Párrafo con fracciones adicionado DOF 16-07-2025
 Artículo reformado DOF 22-07-1992
+
+Artículo 91 Bis.- La Clave Única de Registro de
+Población que, además de los datos previstos en el
+artículo 91 de esta Ley, contenga huellas dactilares y
+fotografía, será el documento nacional de
+identificación obligatorio, de aceptación universal y
+obligatoria en todo el territorio nacional, y estará
+disponible en formato físico y digital.
+La Secretaría de Gobernación llevará a cabo
+acciones para integrar los datos biométricos de las
+personas a la Clave Única de Registro de Población,
+mediante:
+I.
+
+La transferencia de los datos biométricos que
+obren en poder de las autoridades de los tres
+órdenes de gobierno al Registro Nacional de
+Población, previa autorización de su titular, o
+
+II.
+
+La asistencia de los titulares a los centros que
+al efecto habilite la Secretaría de Gobernación
+para tal efecto.
+
+La integración de los datos biométricos se realizará,
+previo consentimiento de las personas titulares.
+La Secretaría de Gobernación, a través del Registro
+Nacional de Población, establecerá mecanismos de
+coordinación y colaboración con las distintas
+autoridades de los tres órdenes de gobierno para los
+fines del presente artículo.
+Artículo adicionado DOF 16-07-2025
+Artículo 91 Ter.- La Clave Única de Registro de
+Población que cuente con los datos biométricos se
+vinculará con el Registro del Sistema Nacional de
+Salud, que prevé la Ley General de Salud. Asimismo,
+podrá integrarse a otros registros y sistemas
+nacionales, en términos de las leyes y normativa
+aplicable.
+Artículo adicionado DOF 16-07-2025
+Artículo 91 Quater.- El Registro Nacional de
+Población contará con una Plataforma Única de
+Identidad, para la consulta, validación y gestión de las
+Claves Únicas de Registro de Población que permita
+la integración de los datos a que se refiere el artículo
+91 Bis de la presente Ley, a fin de brindar el Servicio
+Nacional de Identificación Personal.
+Artículo adicionado DOF 16-07-2025
+
+Artículo 91 Quinquies.- La versión digital de la
+Clave Única de Registro de Población como
+identificación estará a cargo de la Agencia de
+Transformación Digital y Telecomunicaciones.
+Artículo adicionado DOF 16-07-2025
+Artículo 91 Sexies.- En los términos que fije el
+Reglamento de esta Ley, así como en otras
+disposiciones jurídicas aplicables, la Clave Única de
+Registro de Población deberá ser empleada en los
+procesos de validación y autenticación de la Identidad
+de las personas en medios digitales.
+Todo ente público o particular estará obligado a
+solicitar la Clave Única de Registro de Población para
+la prestación de sus trámites y servicios.
+Artículo adicionado DOF 16-07-2025
 Artículo 92.- La Secretaría de Gobernación
 establecerá las normas, métodos y procedimientos
 técnicos del Registro Nacional de Población.
 Asimismo, coordinará los métodos de identificación y
 registro de las dependencias de la administración
 pública federal.
-
 Artículo reformado DOF 31-12-1981, 22-07-1992
 Artículo 93.- Las autoridades locales contribuirán a
 la integración del Registro Nacional de Población. Al
 efecto, la Secretaría de Gobernación celebrará con
 ellas, convenios con los siguientes propósitos:
+
 I. Adoptar la normatividad a que se refiere el artículo
 anterior;
 II. Recabar la información relativa a los nacimientos,
@@ -558,7 +652,6 @@ Artículo adicionado DOF 22-07-1992
 Artículo 95.- Las autoridades judiciales deberán
 informar a la Secretaría de Gobernación sobre las
 resoluciones que afecten los derechos ciudadanos, o
-
 que impliquen modificar los datos del registro de la
 persona.
 Artículo adicionado DOF 22-07-1992
@@ -566,6 +659,7 @@ Artículo 96.- La Secretaría de Relaciones Exteriores
 informará a la de Gobernación, sobre la expedición y
 cancelación de cartas de naturalización, certificados
 de nacionalidad y renuncias a la nacionalidad que
+
 reciba. De igual manera, proporcionará la información
 necesaria para que los mexicanos residentes en el
 extranjero, queden incorporados al Registro Nacional
@@ -585,7 +679,6 @@ Artículo 98.- Los ciudadanos mexicanos tienen la
 obligación de inscribirse en el Registro Nacional de
 Ciudadanos y obtener su Cédula de Identidad
 Ciudadana.
-
 El Registro Nacional de Ciudadanos contará con el
 apoyo de un Comité Técnico Consultivo, en los
 términos que establezca el Reglamento.
@@ -593,6 +686,7 @@ Artículo adicionado DOF 22-07-1992
 Artículo 99.- Para cumplir con la obligación
 establecida en el artículo anterior los ciudadanos
 deben satisfacer los siguientes requisitos:
+
 I.
 Presentar
 la
@@ -622,21 +716,17 @@ aportados por los ciudadanos con los que consten en
 los archivos correspondientes de dependencias y
 entidades de la administración pública federal que,
 para el ejercicio de sus funciones, tengan
-
 establecidos
-personal.
-
 procedimientos
-
 de
-
 identificación
-
+personal.
 Las dependencias y entidades que se encuentren en
 el supuesto anterior estarán obligadas a proporcionar
 la información que para este efecto solicite la
 Secretaría de Gobernación.
 Artículo adicionado DOF 22-07-1992
+
 Artículo 102.- Cuando la Secretaría de Gobernación
 encuentre alguna irregularidad en los documentos
 presentados por el interesado, suspenderá el registro
@@ -657,13 +747,13 @@ el documento oficial de identificación, que hace
 prueba plena sobre los datos de identidad que
 contiene en relación con su titular.
 Artículo adicionado DOF 22-07-1992
-
 Artículo 105.- La Cédula de Identidad Ciudadana
 tendrá valor como medio de identificación personal
 ante todas las autoridades mexicanas ya sea en el
 país o en el extranjero, y las personas físicas y
 morales con domicilio en el país.
 Artículo adicionado DOF 22-07-1992
+
 Artículo 106.- Ninguna persona podrá ser
 sancionada por la no portación de la Cédula de
 Identificación Ciudadana.
@@ -680,13 +770,13 @@ VI. Firma y huella dactilar.
 Artículo adicionado DOF 22-07-1992
 Artículo 108.- Corresponde al titular de la Cédula de
 Identidad Ciudadana su custodia y conservación.
-
 Artículo adicionado DOF 22-07-1992
 Artículo 109.- La Cédula de Identidad Ciudadana
 deberá renovarse;
 I. A más tardar, noventa días antes de que
 concluya su vigencia; la cual no podrá exceder de
 15 años;
+
 II. Cuando esté deteriorada por su uso; y
 III.
 
@@ -709,13 +799,13 @@ expedir un documento de identificación a los
 mexicanos menores de 18 años, en los términos
 establecidos por el reglamento de esta ley.
 Artículo adicionado DOF 22-07-1992
-
 Artículo 112.- La Secretaría de Gobernación
 proporcionará al Instituto Nacional Electoral, la
 información del Registro Nacional de Ciudadanos que
 sea necesaria para la integración de los instrumentos
 electorales, en los términos previstos por la ley.
 Igualmente podrá proporcionarla a las demás
+
 dependencias y entidades públicas que la requieran
 para el ejercicio de sus atribuciones.
 Artículo adicionado DOF 22-07-1992. Reformado DOF 0112-2015
@@ -734,12 +824,12 @@ III. (Se deroga).
 Fracción derogada DOF 25-05-2011
 IV. No expidan la Cédula de Identidad a la persona
 que se presente con los documentos requeridos o
-
 retengan indebidamente dicha Cédula una vez
 expedida;
 Fracción reformada DOF 22-11-2010
 V. (Se deroga).
 Fracción reformada DOF 22-11-2010. Derogada DOF 2505-2011
+
 VI. Cometan actos u omisiones que violen los
 derechos humanos de las personas que se
 encuentran sujetas a esta ley.
@@ -752,6 +842,14 @@ constituyan delitos, serán sancionados con multa
 hasta de cinco mil pesos y destitución en caso de
 reincidencia.
 Artículo recorrido (antes artículo 94) DOF 22-07-1992
+Artículo 114 Bis. Las autoridades de los tres
+órdenes de gobierno y particulares que incumplan con
+las obligaciones previstas en el artículo 91 Bis de esta
+Ley, previo apercibimiento por el reiterado
+incumplimiento, serán sancionadas con multas de
+10,000 a 20,000 veces el valor diario de la Unidad de
+Medida y Actualización.
+Artículo adicionado DOF 16-07-2025
 Artículo 115.- El que auxilie, encubra o aconseje a
 cualquier individuo violar las disposiciones de esta
 Ley y su Reglamento en materia que no constituya
@@ -760,9 +858,9 @@ salario mínimo general vigente en el Distrito Federal
 en el momento de consumar la conducta, o bien
 arresto hasta por treinta y seis horas si no pagare la
 multa.
+
 Artículo recorrido (antes artículo 95) DOF 22-07-1992.
 Reformado DOF 08-11-1996
-
 Artículo 116.- (Se deroga).
 Artículo recorrido (antes artículo 96) DOF 22-07-1992.
 Reformado DOF 08-11-1996. Derogado DOF 25-05-2011
@@ -782,8 +880,8 @@ Artículo 121.- (Se deroga).
 Artículo recorrido (antes artículo 101) DOF 22-071992. Derogado DOF 21-07-2008
 Artículo 122.- (Se deroga).
 Artículo recorrido (antes artículo 102) DOF 22-071992. Derogado DOF 21-07-2008
-Artículo 123.- (Se deroga).
 
+Artículo 123.- (Se deroga).
 Artículo recorrido (antes artículo 103) DOF 22-071992. Derogado DOF 21-07-2008
 Artículo 124.- (Se deroga).
 Artículo recorrido (antes artículo 104) DOF 22-071992. Derogado DOF 21-07-2008
@@ -801,8 +899,8 @@ Artículo 128.- (Se deroga).
 Artículo recorrido (antes artículo 108) DOF 22-071992. Derogado DOF 25-05-2011
 Artículo 129.- (Se deroga).
 Artículo recorrido (antes artículo 109) DOF 22-071992. Derogado DOF 25-05-2011
-Artículo 130.- (Se deroga).
 
+Artículo 130.- (Se deroga).
 Artículo recorrido (antes artículo 110) DOF 22-071992. Derogado DOF 25-05-2011
 Artículo 131.- (Se deroga).
 Artículo recorrido (antes artículo 111) DOF 22-071992. Derogado DOF 25-05-2011
@@ -835,8 +933,8 @@ artículo 121) DOF 22-07-1992. Derogado DOF 25-052011
 Artículo 142.- (Se deroga).
 Artículo recorrido (antes artículo 122) DOF 22-071992. Derogado DOF 08-11-1996
 Artículo 143.- (Se deroga).
-Artículo recorrido (antes artículo 123) DOF 22-071992. Reformado DOF 02-07-2010. Derogado DOF 25-052011
 
+Artículo recorrido (antes artículo 123) DOF 22-071992. Reformado DOF 02-07-2010. Derogado DOF 25-052011
 Artículo 144.- (Se deroga).
 Artículo adicionado DOF 26-12-1990. Recorrido (antes
 artículo 124) DOF 22-07-1992. Derogado DOF 25-052011
@@ -853,8 +951,8 @@ Artículo 148.- (Se deroga).
 Artículo adicionado DOF 08-11-1996. Derogado DOF 2505-2011
 Artículo 149.- (Se deroga).
 Artículo adicionado DOF 08-11-1996. Derogado DOF 2505-2011
-Artículo 150.- (Se deroga).
 
+Artículo 150.- (Se deroga).
 Artículo adicionado DOF 08-11-1996. Derogado DOF 2505-2011
 CAPÍTULO X
 DEL PROCEDIMIENTO DE VERIFICACIÓN Y
@@ -871,8 +969,8 @@ Artículo adicionado DOF 08-11-1996. Derogado DOF 2505-2011
 Artículo 155.- (Se deroga).
 Artículo adicionado DOF 08-11-1996. Derogado DOF 2505-2011
 Artículo 156.- (Se deroga).
-Artículo adicionado DOF 08-11-1996. Derogado DOF 2505-2011
 
+Artículo adicionado DOF 08-11-1996. Derogado DOF 2505-2011
 Artículo 157.- (Se deroga).
 Artículo adicionado DOF 08-11-1996. Derogado DOF 2505-2011
 ARTICULOS TRANSITORIOS
@@ -896,9 +994,9 @@ esta Ley.
 Artículo Cuarto.- La Secretaría de Gobernación
 señalará la fecha en que habrá de iniciarse el registro
 de la población mexicana.
+
 México, D. F., a 11 de diciembre de 1973.- Rafael
 Hernández Ochoa, D. P.- Vicente Juárez Carro, S.
-
 P.- José Luis Escobar Herrera, D. S.- Félix Vallejo
 Martínez, S.S.- Rúbricas.
 En cumplimiento de lo dispuesto por la fracción I del
@@ -923,10 +1021,10 @@ Bracamontes.- Rúbrica.- El Secretario de Recursos
 Hidráulicos, Leandro Rovirosa Wade.- Rúbrica.- El
 Secretario de Educación Pública, Víctor Bravo
 Ahuja.- Rúbrica.- El Secretario de Salubridad y
+
 Asistencia, Jorge Jiménez Cantú.- Rúbrica.- El
 Secretario del Trabajo y Previsión Social, Porfirio
 Muñoz Ledo.- Rúbrica.- El Secretario de la
-
 Presidencia, Hugo Cervantes del Río.- Rúbrica.- El
 Jefe del Departamento de Asuntos Agrarios y
 Colonización, Augusto Gómez Villanueva.- Rúbrica.El Jefe del Departamento de Turismo, Julio
