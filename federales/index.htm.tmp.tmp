@@ -1,0 +1,1272 @@
+<!doctype html>
+<html class="no-js" >
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Leyes Federales de México</title>
+        
+        <!-- Favicon -->
+        <link rel="shortcut icon" href="imagenes/principal/favicon.png">
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <!-- Boxicons CSS-->
+		<link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+        <!-- Main Menu CSS -->
+        <link rel="stylesheet" href="css/meanmenu.min.css" />
+        <!-- Custom Style CSS -->
+        <link rel="stylesheet" href="css/style.css" />
+		<!-- Custom Calendar Device CSS -->
+        <link rel="stylesheet" type="text/css" href="css/custom.css" />
+    </head>
+
+    <body>
+
+        <div id="wrapper" class="wrapper">
+           
+           <!-- Header Area Start Here -->
+            <header>
+                <div id="header-layout2" class="header-style6">
+                    <div class="header-top-bar">
+                        <div class="top-bar-top bg-accent1 border-bottom">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-9 col-md-12">
+                                        <ul class="news-info-list text-center--md">
+                                            <li>
+												<i class="bx bxs-calendar" aria-hidden="true"></i><b><span id="current_date"></span>
+												. &nbsp;&nbsp;&nbsp;<span style="font-size: 9pt">&quot;LXVI Legislatura&quot;</span></b>
+											</li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-lg-3 d-none d-lg-block">
+                                        <ul class="header-social">
+                                            <li>
+                                                <a href="https://www.facebook.com/camaradediputados" target="_blank" title="Facebook">
+													<i class="bx bxl-facebook bx-border-circle" aria-hidden="true"></i>
+												</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://twitter.com/Mx_Diputados" target="_blank" title="X-Twitter">
+													<i class="bx bxl-twitter bx-border-circle" aria-hidden="true"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.youtube.com/user/camaradediputadosmx" target="_blank" title="YouTube">
+													<i class="bx bxl-youtube bx-border-circle" aria-hidden="true"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="main-menu-area bg-body border-bottom" id="sticker">
+                        <div class="container">
+                            <div class="row no-gutters align-items-center">
+                                <div class="col-lg-2 d-none d-lg-block">
+									<div class="logo-area">
+										<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+										<a href="https://www.diputados.gob.mx/">
+										<img border="0" src="imagenes/principal/logo66.png" width="225" height="67"></a>
+									</div>
+								</div>
+								<div class="col-lg-10 d-none d-lg-block position-static min-height-none">
+									<div class="ne-main-menu">
+										<nav id="dropdown">
+										<ul>
+											<li class="active">
+											<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+											<a href="index.htm">
+											<font face="Arial Narrow" color="#DC0228" style="font-size: 9pt"><b>VIGENTES</b></font></a>
+											</li>
+											<li class="active">
+											<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+											<a href="ref/cpeum.htm">
+											<font face="Arial Narrow" style="font-size: 9pt"><b>CPEUM</b></font></a>
+														<ul class="ne-dropdown-menu">
+                                                            <li>
+                                                                <a href="ref/cpeum_crono.htm"><font face="Arial" size="2">Reformas en Orden Cronológico</font></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="ref/cpeum_art.htm"><font face="Arial" size="2">Reformas por Artículo</font></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="ref/cpeum_per.htm"><font face="Arial" size="2">Reformas por Periodo Presidencial</font></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="ref/cpeum.htm"><font face="Arial" size="2">Más de la Constitución</font></a>
+                                                            </li>
+                                                    	</ul>
+											</li>
+											<li class="active">
+											<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+											<a href="marco.htm">
+											<font face="Arial Narrow" style="font-size: 9pt"><b>MARCO</b></font></a>
+														<ul class="ne-dropdown-menu">
+                                                            <li>
+                                                                <a href="marco.htm"><font face="Arial" size="2">Marco Jurídico del Congreso</font></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="marjur/normas.htm"><font face="Arial" size="2">Normas y Reglamentos internos</font></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="marjur/marjur.htm"><font face="Arial" size="2">Otras Disposiciones de la Cámara</font></a>
+                                                            </li>
+                                                    	</ul>
+											</li>
+											<li class="active">
+											<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+											<a href="abroga.htm">
+											<font face="Arial Narrow" style="font-size: 9pt"><b>ABROGADAS</b></font></a>
+											</li>
+											<li class="active">
+											<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+											<a href="sumario.htm">
+											<font face="Arial Narrow" style="font-size: 9pt"><b>SUMARIO</b></font></a>
+											</li>
+											<li class="active">
+											<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+											<a href="legis.htm">
+											<font face="Arial Narrow" style="font-size: 9pt"><b>LEGISLATURAS</b></font></a>
+														<ul class="ne-dropdown-menu">
+                                                            <li>
+                                                                <a href="legis/reflxvi.htm"><font face="Arial" size="2">Reformas LXVI Legislatura</font></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="legis/reflxv.htm"><font face="Arial" size="2">Reformas LXV Legislatura</font></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="legis/reflxiv.htm"><font face="Arial" size="2">Reformas LXIV Legislatura</font></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="legis.htm"><font face="Arial" size="2">Legislaturas anteriores</font></a>
+                                                            </li>
+                                                    	</ul>
+											</li>
+											<li class="active">
+											<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+											<a href="legiscd.htm">
+											<font face="Arial Narrow" style="font-size: 9pt"><b>DESCARGA</b></font></a>
+											</li>
+											<li class="active">
+											<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+											<a href="regley.htm">
+											<font face="Arial Narrow" style="font-size: 9pt"><b>REG LEY</b></font></a>
+														<ul class="ne-dropdown-menu">
+                                                            <li>
+                                                                <a href="regla.htm"><font face="Arial" size="2">Reglamentos de Leyes vigentes</font></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="regley_abro.htm"><font face="Arial" size="2">Reglamentos de Leyes abrogados</font></a>
+                                                            </li>
+                                                    	</ul>
+											</li>
+											<li class="active">
+											<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+											<a href="norma.htm">
+											<font face="Arial Narrow" style="font-size: 9pt"><b>REG FED</b></font></a>
+														<ul class="ne-dropdown-menu">
+                                                            <li>
+                                                                <a href="norma/estatuto.htm"><font face="Arial" size="2">Estatutos Federales vigentes</font></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="norma/manual.htm"><font face="Arial" size="2">Manuales Federales vigentes</font></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="norma/reglamento.htm"><font face="Arial" size="2">Reglamentos Federales vigentes</font></a>
+                                                            </li>
+                                                    	</ul>
+											</li>
+											<li class="active">
+											<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+											<a href="gobiernos.htm">
+											<font face="Arial Narrow" style="font-size: 9pt"><b>ESTADOS</b></font></a>
+											</li>
+											<li class="active">
+											<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+											<a href="compila.htm">
+											<font face="Arial Narrow" style="font-size: 9pt"><b>COMPILA</b></font></a>
+														<ul class="ne-dropdown-menu">
+                                                            <li>
+                                                                <a href="compila/inconst.htm"><font face="Arial" size="2">Acciones de Inconstitucionalidad</font></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="compila/controv.htm"><font face="Arial" size="2">Controversias Constitucionales</font></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="compila/declara.htm"><font face="Arial" size="2">Declaratorias de Inconstitucionalidad</font></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="compila.htm"><font face="Arial" size="2">Otras Compilaciones</font></a>
+                                                            </li>
+                                                    	</ul>
+											</li>
+											<li class="active">
+											<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+											<a href="dof.htm">
+											<font face="Arial Narrow" style="font-size: 9pt"><b>DOF</b></font></a>
+														<ul class="ne-dropdown-menu">
+                                                            <li>
+                                                                <a href="dof.htm"><font face="Arial" size="2">Indices 2024</font></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="dof/dof_2023.htm"><font face="Arial" size="2">Indices 2023</font></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="dof/dof_2022.htm"><font face="Arial" size="2">Años anteriores</font></a>
+                                                            </li>
+                                                    	</ul>
+											</li>
+											<li class="active">
+											<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+											<a href="actual/ultima.htm">
+											<font face="Arial Narrow" style="font-size: 9pt"><b>ACTUAL</b></font></a>
+														<ul class="ne-dropdown-menu">
+                                                            <li>
+                                                                <a href="actual/ultima.htm"><font face="Arial" size="2">Actualizaciones 2024</font></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="actual/2023.htm"><font face="Arial" size="2">Actualizaciones 2023</font></a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="actual/2022.htm"><font face="Arial" size="2">Años anteriores</font></a>
+                                                            </li>
+                                                    	</ul>
+											</li>
+											<li>
+											    <script async src="https://cse.google.com/cse.js?cx=007991680573319912863:zntqixbviwu"></script>
+                                                <div class="gcse-search">
+													<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+												</div>
+											</li>
+											<li>
+											 <div class="header-action-item on-mobile-fixed">
+												<ul>
+													<li>
+													<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+													</p>
+													</li>
+												</ul>
+											  </div>
+											</li>
+										  </ul>
+									   </nav>
+									</div>
+								</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <!-- Header Area End Here -->
+
+<section style="background-image: url('imagenes/principal/linea.jpg');">
+    <div class="container">
+    </div>
+</section>
+
+<section class="bg-accent section-space-less30" style="background-image: url('imagenes/principal/background.png'); background-repeat:no-repeat;  ">
+  <div class="container">
+    
+	<p style="margin-top: 0; margin-bottom: 0; line-height:24px" align="center">
+		<font face="Verdana" color="#595843" style="font-size: 11pt; font-weight:700">LEYES FEDERALES VIGENTES</font></p>
+	<p style="margin-bottom: 0; line-height:100%; margin-top:0" align="center">
+				<font face="Verdana" size="2">Últimas reformas publicadas en el Diario Oficial de la 
+				Federación el 21 de julio de 2025</font></p>
+	<p style="text-align: center; margin-bottom: 0">&nbsp;</p>
+	
+   <div align="center">
+	<table border="0" style="width: 98%; border-collapse: collapse" cellspacing="2">
+		<tr>
+    		<td style="padding:.75pt 3.0pt .75pt 3.0pt" align="center" height="30" bgcolor="#E3DAC1" width="5%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<font face="Verdana" size="2" color="#595843">No.</font></b></td>
+			<td style="width: 50%; padding-left: 3.0pt; padding-right: 3.0pt; padding-top: .75pt; padding-bottom: .75pt" align="center" height="30" bgcolor="#E3DAC1">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<font face="Verdana" size="2" color="#595843">LEY / Página de Reformas</font></b></p></td>
+			<td style="padding:.75pt 3.0pt .75pt 3.0pt" align="center" height="30" bgcolor="#E3DAC1" width="18%">
+				<p style="line-height: 100%; margin-top: 0; margin-bottom: 0"><b>
+				<font face="Verdana" size="2" color="#595843">Última Reforma</font></b></td>
+	 		<td style="padding:.75pt 3.0pt .75pt 3.0pt" align="center" height="30" bgcolor="#E3DAC1" width="27%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<font face="Verdana" size="2" color="#595843">TEXTO VIGENTE</font></b></td>
+    	</tr>
+   		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">001</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/cpeum.htm">
+				<font color="#000000" size="2" face="Verdana">CONSTITUCIÓN Política de los Estados Unidos Mexicanos</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 05/02/1917</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">DOF 15/04/2025</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/CPEUM.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/CPEUM.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Constitucion_Politica.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">002</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/ccf.htm">
+				<font color="#000000" size="2" face="Verdana">CÓDIGO Civil Federal</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 26/05/1928</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 17/01/2024</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/CCF.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/CCF.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Codigo_Civil_Federal.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">003</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/ccom.htm">
+				<font color="#000000" face="Verdana" size="2">CÓDIGO de Comercio</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 07/10/1889</font><p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 30/12/2024</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/CCom.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/CCom.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Codigo_de_Comercio.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">004</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/cjm.htm">
+				<font color="#000000" size="2" face="Verdana">CÓDIGO de Justicia Militar</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font size="2" face="Verdana">DOF 31/08/1933</font></p>
+				<p style="margin:0 0cm; line-height:100%">
+				<b><font face="Verdana" size="2" color="#0000FF">En 
+				actualización</font></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 16/07/2025</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/CJM.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/CJM.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Codigo_de_Justicia_Militar.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">005</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/cfpc.htm">
+				<font color="#000000" size="2" face="Verdana">CÓDIGO Federal de Procedimientos Civiles</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font size="2" face="Verdana">DOF 24/02/1943</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">(<i>Abrogado en un plazo que no exceda del 01/04/2027</i>)</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height: 100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">DOF 07/06/2023</font></p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/CFPC.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/CFPC.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Codigo_Federal_de_Procedimientos_Civiles.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">006</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/cff.htm">
+				<font color="#000000" size="2" face="Verdana">CÓDIGO Fiscal de la Federación</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font size="2" face="Verdana">DOF 31/12/1981</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height: 100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">DOF 30/12/2024</font></p>
+				</td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/CFF.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/CFF.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Codigo_Fiscal_de_la_Federacion.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+				<font color="#595843" face="Verdana" size="2">007</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<a href="ref/cmpp.htm"><b>
+				<font color="#000000" size="2" face="Verdana">CÓDIGO Militar de Procedimientos Penales</font></b></a></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 16/05/2016</font></p>
+				<p style="margin:0 0cm; line-height:100%">
+				<b><font face="Verdana" size="2" color="#0000FF">En 
+				actualización</font></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 16/07/2025</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/CMPP.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/CMPP.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Codigo_Militar_de_Procedimientos_Penales.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">008</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/cnpcf.htm">
+				<font color="#000000" size="2" face="Verdana">CÓDIGO Nacional de Procedimientos Civiles y Familiares</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 07/06/2023</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height: 100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">DOF 16/12/2024</font></p>
+				</td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/CNPCF.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/CNPCF.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Codigo_Nacional_de_Procedimientos_Civiles_y_Familiares.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">009</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/cnpp.htm">
+				<font color="#000000" face="Verdana" size="2">CÓDIGO Nacional de Procedimientos Penales</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 05/03/2014</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">DOF 16/12/2024</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/CNPP.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/CNPP.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Codigo_Nacional_de_Procedimientos_Penales.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">010</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/cpf.htm">
+				<font color="#000000" size="2" face="Verdana">CÓDIGO Penal Federal</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 14/08/1931</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<b><font face="Verdana" size="2" color="#CC3300">Nueva reforma</font></b><p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 16/07/2025</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/CPF.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/CPF.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Codigo_Penal_Federal.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+				<font color="#595843" face="Verdana" size="2">011</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/egdf.htm">
+				<font color="#000000" size="2" face="Verdana">ESTATUTO de Gobierno del Distrito Federal</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 26/07/1994</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 27/06/2014</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/10_270614.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/10_270614.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Estatuto_de_Gobierno_del_Distrito_Federal.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">012</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">
+				<a href="ref/lisipl.htm"><b>
+				<font color="#000000">IMPUESTO sobre Servicios Expresamente Declarados de Interés Público 
+				por Ley, en los que Intervengan Empresas Concesionarias de Bienes 
+				del Dominio Directo de la Nación</font></b><font color="#000000"> (LEY que establece, reforma 
+				y adiciona las disposiciones relativas a diversos impuestos)</font></a></font><p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 31/12/1968</font><p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">Sin reforma</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/79.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/79.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Impuesto_Sobre_Servicios-Declarados_de_Interes_Publico-Empresas_Concesionarias.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">013</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/ladua.htm">
+				<font color="#000000" size="2" face="Verdana">LEY Aduanera</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 15/12/1995</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 28/12/2023</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LAdua.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LAdua.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_Aduanera.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">014</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/lagra.htm">
+				<font color="#000000" size="2" face="Verdana">LEY Agraria</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 26/02/1992</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 01/04/2024</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LAgra.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LAgra.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_Agraria.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">015</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/laassp.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 16/04/2025</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<b><font face="Verdana" size="2" color="#CC3300">Nueva Ley</font></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">Sin reforma</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LAASSP.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LAASSP.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Adquisiciones_Arrendamientos_y_Servicios.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">016</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/laero.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Aeropuertos</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 22/12/1995</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height: 100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">DOF 03/05/2023</font></p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LAero.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LAero.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Aeropuertos.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">017</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/lan.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Aguas Nacionales</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 01/12/1992</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">DOF 08/05/2023</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LAN.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LAN.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Aguas_Nacionales.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+				<font color="#595843" face="Verdana" size="2">018</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/lacp.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Ahorro y Crédito Popular</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 04/06/2001</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 24/01/2024</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LACP.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LACP.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Ahorro_y_Credito_Popular.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">019</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/lamn.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Amnistía</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 22/04/2020</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height: 100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">DOF 14/06/2024</font></p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LAmn.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LAmn.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Amnistia.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font color="#595843" face="Verdana" size="2">020</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/lamni.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Amnistía</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 22/01/1994</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">Sin reforma</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/19.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/19.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Amnistia_1994.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">021</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font style="font-weight:700" size="2">
+				<a href="ref/lamp.htm">
+				<font color="#000000" face="Verdana">LEY de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos</font></a></font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 02/04/2013</font></p>
+				<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+				<b><font face="Verdana" size="2" color="#CC3300">Nueva reforma</font></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height: 100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">DOF 13/03/2025</font></p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LAmp.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LAmp.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Amparo_Reglamentaria-Articulos_103_y_107.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+				<font color="#595843" face="Verdana" size="2">022</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/laam.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Ascensos de la Armada de México</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 25/06/2004</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">DOF 01/06/2011</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/21.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/21.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Ascensos_de_la_Armada.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">023</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/larefam.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">(Antes <i>&quot;Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos&quot;</i>)</font></p>
+				<p style="margin:0 0cm; line-height:100%">
+				<font face="Verdana" size="2">DOF 30/10/2003</font></p>
+				<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+				<b><font face="Verdana" size="2" color="#CC3300">Nueva reforma</font></b></p>
+				<p style="margin:0 0cm; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 16/07/2025</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LAREFAGN.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LAREFAGN.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Ascensos_y_Recompensas_del_Ejercito_Fuerza_Aerea_y_Guardia_Nacional.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">024</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/lasoc.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Asistencia Social</font></a></b></p>
+				<p style="margin:0 0cm; line-height:100%">
+				<font face="Verdana" size="2">DOF 02/09/2004</font></p>
+				<p style="margin:0 0cm; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 01/04/2024</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LASoc.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LASoc.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Asistencia_Social.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">025</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<a href="ref/lapp.htm"><b>
+				<font color="#000000" size="2" face="Verdana">LEY de Asociaciones Público Privadas</font></b></a></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 16/01/2012</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">DOF 15/06/2018</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LAPP_150618.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LAPP_150618.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Asociaciones_Publico_Privadas.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">026</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/larcp.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Asociaciones Religiosas y Culto Público</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 15/07/1992</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">DOF 17/12/2015 </font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/24_171215.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/24_171215.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Asociaciones_Religiosas_y_Culto.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">027</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/lac.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Aviación Civil</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 12/05/1995</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height: 100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">DOF 03/05/2023</font></p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LAC.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LAC.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Aviacion_Civil.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">028</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/laat.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Ayuda Alimentaria para los Trabajadores</font></a></b></p>
+				<p style="margin:0 0cm; line-height:100%">
+				<font face="Verdana" size="2">DOF 17/01/2011</font></p>
+				<p style="margin:0 0cm; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">Sin reforma</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LAAT.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LAAT.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Ayuda_Alimentaria_para_los_Trabajadores.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">029</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/lbio.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Biocombustibles</font></a></b></p>
+				<p style="line-height: 100%; margin: 0 0cm">
+				<font face="Verdana" size="2">DOF 18/03/2025</font></p>
+				<p style="line-height: 100%; margin: 0 0cm">
+				<b><font face="Verdana" size="2" color="#CC3300">Nueva Ley</font></b></p>
+				<p style="margin:0 0cm; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">Sin reforma</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LBio.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LBio.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Biocombustibles.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">030</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/lbogm.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Bioseguridad de Organismos Genéticamente Modificados</font></a></b></p>
+				<p style="margin:0 0cm; line-height:100%">
+				<font face="Verdana" size="2">DOF 18/03/2005</font></p>
+				<p style="margin:0 0cm; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">DOF 11/05/2022</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LBOGM.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LBOGM.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Bioseguridad_de_Organismos_Geneticamente_Modificados.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">031</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/lcec.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Cámaras Empresariales y sus Confederaciones</font></a></b></p>
+				<p style="margin:0 0cm; line-height:100%">
+				<font face="Verdana" size="2">DOF 20/01/2005</font></p>
+				<p style="margin:0 0cm; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">DOF 12/04/2019</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LCEC_120419.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LCEC_120419.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Camaras_Empresariales_y_sus_Confederaciones.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">032</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/lcpaf.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Caminos, Puentes y Autotransporte Federal</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 22/12/1993</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<b><font face="Verdana" size="2" color="#CC3300">Nueva reforma</font></b><p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 16/07/2025</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LCPAF.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LCPAF.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Caminos_Puentes_y_Autotransporte.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">033</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/lcpro.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Capitalización del Procampo</font></a></b></p>
+				<p style="margin:0 0cm; line-height:100%">
+				<font face="Verdana" size="2">DOF 31/12/2001</font></p>
+				<p style="margin:0 0cm; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">Sin reforma</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/238.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/238.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Capitalizacion_del_Procampo.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">034</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<b><a href="ref/lcjpjf.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Carrera Judicial del Poder Judicial de la Federación</font></a></b></p>
+				<p style="margin:0 0cm; line-height:100%">
+				<font face="Verdana" size="2">DOF 02/01/2025</font></p>
+				<p style="margin:0 0cm; line-height:100%">
+				<b><font face="Verdana" size="2" color="#CC3300">Nueva Ley</font></b></p>
+				<p style="margin:0 0cm; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">Sin reforma</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LCJPJF.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LCJPJF.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Carrera_Judicial_del_Poder_Judicial.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">035</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/lce.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Comercio Exterior</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 27/07/1993</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 21/12/2006</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/28.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/28.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Comercio_Exterior.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">036</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/lcm.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Concursos Mercantiles</font></a></b></p>
+				<p style="margin:0 0cm; line-height:100%">
+				<font face="Verdana" size="2">DOF 12/05/2000</font></p>
+				<p style="margin:0 0cm; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">DOF 11/05/2022</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LCM.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LCM.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Concursos_Mercantiles.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">037</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/lcmopfih.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica</font></a></b></p>
+				<p style="margin:0 0cm; line-height:100%">
+				<font face="Verdana" size="2">DOF 26/12/1990</font></p>
+				<p style="margin:0 0cm; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font face="Verdana" size="2">Sin reforma</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/30.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/30.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Contribucion_de_Mejoras_por_Obras_Publicas-de_Infraestructura_Hidraulica.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">038</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<a href="ref/lcid.htm"><b>
+				<font color="#000000" size="2" face="Verdana">LEY de Cooperación Internacional para el Desarrollo</font></b></a></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 06/04/2011</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 06/11/2020</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LCID_061120.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LCID_061120.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Cooperacion_Internacional_para_el_Desarrollo.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">039</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/lcf.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Coordinación Fiscal</font></a></b></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 27/12/1978</font></p>
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 03/01/2024</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LCF.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LCF.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Coordinacion_Fiscal.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">040</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/ldrs.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Desarrollo Rural Sustentable</font></a></b></p>
+				<p style="margin:0 0cm; line-height:100%">
+				<font face="Verdana" size="2">DOF 07/12/2001</font></p>
+				<p style="margin:0 0cm; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 07/06/2024</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LDRS.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LDRS.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Desarrollo_Rural_Sustentable.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">041</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/ldsca.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Desarrollo Sustentable de la Caña de Azúcar</font></a></b></p>
+				<p style="margin:0 0cm; line-height:100%">
+				<font face="Verdana" size="2">DOF 22/08/2005</font></p>
+				<p style="margin:0 0cm; line-height:100%">&nbsp;</p></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="18%">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+				<font face="Verdana" size="2">DOF 20/10/2008</font></td>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" width="27%">
+				<p align="center" style="margin:3px 0cm; text-align: center; line-height:100%">
+				<a target="_blank" href="pdf/LDSCA.pdf">
+				<img border="0" src="imagenes/principal/pdf.png" width="32" height="32"></a>&nbsp;
+				<a href="doc/LDSCA.doc">
+				<img border="0" src="imagenes/principal/doc.png" width="32" height="32"></a>&nbsp;
+				<a target="_blank" href="pdf_mov/Ley_de_Desarrollo_Sustentable_de_la_Cana_de_Azucar.pdf">
+				<img border="0" src="imagenes/principal/android_ios.png" width="32" height="32"></a></td>
+		</tr>
+		<tr>
+			<td valign="top" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" align="center" width="5%">
+				<p style="line-height:100%; margin-top:0; margin-bottom:0">
+				<font color="#595843" face="Verdana" size="2">042</font></td>
+			<td valign="top" style="width: 50%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" align="left">
+				<p style="margin-top: 0; margin-bottom: 0; line-height:100%"><b>
+				<a href="ref/ldefam.htm">
+				<font color="#000000" size="2" face="Verdana">LEY de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional</font></a></b
