@@ -10,7 +10,7 @@ TEXTO VIGENTE
 Última reforma publicada DOF 12-11-2021
 
 Cantidades actualizadas por Reglas Generales de Comercio
-Exterior DOF 28-12-2023
+Exterior DOF 30-12-2024
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -1154,7 +1154,7 @@ servicios que se vayan a autorizar.
 
 II. Tener un capital social pagado de por lo menos
 $3,209,000.00.
-Cantidad de la fracción actualizada DOF 24-12-2020, 2412-2021, 27-12-2022, 28-12-2023
+Cantidad de la fracción actualizada DOF 24-12-2020, 2412-2021, 27-12-2022, 28-12-2023, 30-12-2024
 III. Cumplir con los requisitos de procedimiento que
 el Servicio de Administración Tributaria
 establezca en la convocatoria que para estos
@@ -1245,7 +1245,8 @@ será destinado al Servicio de Administración
 Tributaria para mejorar la infraestructura aduanera del
 país.
 Párrafo reformado DOF 06-11-2020
-Cantidad del párrafo actualizada DOF 27-12-2011, 29-122014, 22-12-2017, 24-12-2021, 27-12-2022, 28-12-2023
+Cantidad del párrafo actualizada DOF 27-12-2011, 29-122014, 22-12-2017, 24-12-2021, 27-12-2022, 28-12-2023,
+30-12-2024
 Quienes introduzcan o extraigan del territorio
 nacional mercancías deberán, previo a la transmisión
 del pedimento en el sistema electrónico aduanero, al
@@ -1257,8 +1258,8 @@ Párrafo adicionado DOF 09-12-2013. Reformado DOF 2506-2018
 Artículo adicionado DOF 01-01-2002
 ARTICULO 16-B. El Servicio de Administración
 Tributaria podrá otorgar autorización a los
-particulares, para prestar los servicios de
 
+particulares, para prestar los servicios de
 procesamiento electrónico de datos y servicios
 relacionados necesarios para llevar a cabo el control
 de la importación temporal de remolques,
@@ -1312,11 +1313,12 @@ fracción I de esta Ley. El aprovechamiento será
 destinado al Servicio de Administración Tributaria
 para mejorar la infraestructura aduanera del país.
 Párrafo reformado DOF 30-12-2002, 06-11-2020
-Cantidad del párrafo actualizada DOF 27-12-2011, 29-122014, 22-12-2017, 24-12-2021, 27-12-2022, 28-12-2023
+Cantidad del párrafo actualizada DOF 27-12-2011, 29-122014, 22-12-2017, 24-12-2021, 27-12-2022, 28-12-2023,
+30-12-2024
 Artículo adicionado DOF 01-01-2002
 ARTICULO 16-C. (Se deroga).
-Artículo adicionado DOF 25-06-2018. Derogado DOF 1211-2021
 
+Artículo adicionado DOF 25-06-2018. Derogado DOF 1211-2021
 ARTICULO 16-D. El Servicio de Administración
 Tributaria podrá otorgar autorización a personas
 morales, para la fabricación o importación de
@@ -1342,9 +1344,9 @@ siempre que la solicitud se presente durante los
 últimos tres meses previos al vencimiento de la
 autorización, se efectúe el pago correspondiente y se
 sigan cumpliendo los requisitos previstos para su
+
 otorgamiento, así como de las obligaciones derivadas
 de la misma.
-
 Las personas morales que obtengan la autorización
 a que se refiere este artículo, deberán cumplir con las
 obligaciones establecidas en esta Ley, mantener los
@@ -1371,14 +1373,14 @@ procederán a realizar los actos a que se refiere el
 artículo 40 del Código Fiscal de la Federación.
 El Servicio de Administración Tributaria podrá
 expedir un gafete electrónico de identificación a través
+
 del sistema electrónico aduanero, por el cual los
 interesados pagarán un aprovechamiento de $240.00,
 mismo que será destinado al Servicio de
-
 Administración Tributaria para el mejoramiento de la
 infraestructura aduanera del país.
 Párrafo adicionado DOF 25-06-2018. Reformado DOF 0611-2020
-Cantidad del párrafo actualizada DOF 27-12-2022, 28-122023
+Cantidad del párrafo actualizada DOF 27-12-2022, 28-122023, 30-12-2024
 ARTICULO 18. Las veinticuatro horas del día y
 todos los días del año serán hábiles para el ejercicio
 de las facultades de comprobación de las autoridades
@@ -1404,8 +1406,8 @@ representantes en territorio nacional, los capitanes,
 pilotos, conductores y propietarios de los medios de
 transporte de mercancías materia de entrada o salida
 del territorio nacional, están obligados a:
-Párrafo reformado DOF 09-12-2013
 
+Párrafo reformado DOF 09-12-2013
 I.
 
 Poner a disposición de las autoridades
@@ -1497,9 +1499,9 @@ Servicio de Administración Tributaria un representante
 en territorio nacional para efecto de las
 responsabilidades que le asigna esta Ley.
 Párrafo adicionado DOF 09-12-2013
+
 Reforma DOF 09-12-2013: Derogó del artículo el entonces
 párrafo tercero
-
 ARTICULO 21. Las mercancías que ingresen al
 territorio nacional, o que se pretendan extraer del
 mismo por la vía postal, quedarán confiadas al
@@ -5207,13 +5209,13 @@ declarado en los pedimentos de importación que
 fueron objeto del reconocimiento aduanero,
 verificación de mercancías en transporte o visitas
 domiciliarias.
+
 CO
 
 
 PCO  
   100
  CO  CDR 
-
 donde
 
 PCO
@@ -5265,13 +5267,13 @@ se refiere el artículo 98 de esta Ley. Es decir si
 PCO > ME, entonces el monto total por concepto
 de contribuciones y cuotas compensatorias a
 pagar por el importador será igual a.
+
  PCO  ME 
 
   CDV  CE 
 100
 
 
-
 El pago que se realice conforme a esta fracción
 se considerará efectuado por concepto de los
 impuestos y derechos al comercio exterior, al
@@ -7802,7 +7804,8 @@ XXI.Otorgar, inhabilitar, suspender, cancelar y
 extinguir las patentes de los agentes
 aduanales.
 Fracción reformada DOF 25-06-2018
-XXII. Otorgar, inhabilitar y cancelar las
+XXII. Otorgar, inhabilitar
+y cancelar las
 autorizaciones de las agencias aduanales.
 Fracción derogada DOF 09-12-2013. Adicionada DOF 2506-2018
 XXIII. Expedir, previa opinión de la Secretaría de
@@ -8056,9 +8059,11 @@ documentación relativa al comercio exterior
 formulados por la autoridad aduanera.
 IV. Cuando
 presente
-irregularidades
-inconsistencias en el Registro Federal
+inconsistencias en el
 Contribuyentes.
+
+irregularidades
+Registro Federal
 
 o
 de
@@ -9202,7 +9207,7 @@ contraprestación de $450.00 por cada
 operación.
 Párrafo reformado DOF 25-06-2018
 Cantidad del párrafo actualizada DOF 01-03-2002, 2804-2003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009,
-01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 2212-2017, 24-12-2020, 24-12-2021, 27-12-2022, 28-122023
+01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 2212-2017, 24-12-2020, 24-12-2021, 27-12-2022, 28-122023, 30-12-2024
 X. Utilizar los candados oficiales o electrónicos en
 los vehículos y contenedores que transporten
 las mercancías cuyo despacho promueva, de
@@ -9518,7 +9523,7 @@ importación definitiva, la omisión no exceda de
 $231,610.00.
 Fracción reformada DOF 31-12-1998, 25-06-2018
 Cantidad de la fracción actualizada DOF 01-03-2002,
-28-04-2003, 04-04-2005, 10-04-2006, 09-05-2007, 0905-2008, 12-05-2009, 01-07-2010, 03-08-2011, 27-122011, 29-12-2014, 22-12-2017, 24-12-2020, 24-122021, 27-12-2022, 28-12-2023
+28-04-2003, 04-04-2005, 10-04-2006, 09-05-2007, 0905-2008, 12-05-2009, 01-07-2010, 03-08-2011, 27-122011, 29-12-2014, 22-12-2017, 24-12-2020, 24-122021, 27-12-2022, 28-12-2023, 30-12-2024
 VIII.
 
 (Se deroga).
@@ -9552,7 +9557,7 @@ más del 10% del total de los que debieron
 pagarse.
 Inciso reformado DOF 31-12-1998, 25-06-2018
 Cantidad del inciso actualizada DOF 01-03-2002, 2804-2003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009,
-01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 2212-2017, 24-12-2020, 24-12-2021, 27-12-2022, 28-122023
+01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 2212-2017, 24-12-2020, 24-12-2021, 27-12-2022, 28-122023, 30-12-2024
 b) Efectuar los trámites del despacho
 aduanero sin el permiso de las autoridades
 competentes o sin contar con la asignación
@@ -9637,7 +9642,7 @@ derechos y, en su caso, cuotas
 compensatorias causadas.
 Inciso reformado DOF 31-12-1998, 25-06-2018
 Cantidad del inciso actualizada DOF 01-03-2002, 2804-2003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009,
-01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 2212-2017, 24-12-2020, 24-12-2021, 27-12-2022, 28-122023
+01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 2212-2017, 24-12-2020, 24-12-2021, 27-12-2022, 28-122023, 30-12-2024
 b) Efectuar los trámites del despacho sin el
 permiso o sin contar con la asignación del
 cupo de las autoridades competentes,
@@ -9883,7 +9888,7 @@ las leyes mexicanas y con cláusula de exclusión
 de extranjeros, debiendo acreditar que el valor
 de su activo fijo registrado en su contabilidad sea
 permanentemente superior a $672,680.00.
-Cantidad de la fracción actualizada DOF 24-12-2021, 2712-2022, 28-12-2023
+Cantidad de la fracción actualizada DOF 24-12-2021, 2712-2022, 28-12-2023, 30-12-2024
 
 II. Señalar en su acta constitutiva como objeto
 social la prestación de los servicios del despacho
@@ -10219,7 +10224,7 @@ Ley, de haberse destinado la mercancía de que
 se trate al régimen de importación definitiva, la
 omisión no exceda de $241,620.00.
 
-Cantidad de la fracción actualizada DOF 24-12-2021, 2712-2022, 28-12-2023
+Cantidad de la fracción actualizada DOF 24-12-2021, 2712-2022, 28-12-2023, 30-12-2024
 Para efectos de las fracciones I, III y IV del presente
 artículo, se inhabilitará a la agencia aduanal para
 operar desde el inicio del procedimiento, hasta por un
@@ -10931,8 +10936,8 @@ compruebe el cumplimiento de las regulaciones
 y restricciones no arancelarias, tratándose de
 vehículos.
 Fracción reformada DOF 31-12-1998, 25-06-2018
-Multa de la fracción actualizada DOF 01-03-2002, 2804-2003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011,
-29-12-2014, 22-12-2017, 24-12-2020, 24-12-2021, 2712-2022, 28-12-2023
+Multa de la fracción actualizada DOF 01-03-2002, 2804-2003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009,
+01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 2212-2017, 24-12-2020, 24-12-2021, 27-12-2022, 28-122023, 30-12-2024
 III. Multa del 70% al 100% del valor comercial de
 las mercancías, cuando su importación o
 exportación esté prohibida o cuando las
@@ -11038,7 +11043,8 @@ $1,000.00 a $1,500.00, sin actualización, a quien
 cometa la infracción a que se refieren los artículos
 180 y 180-A de esta Ley.
 Párrafo reformado DOF 30-12-2002
-Multa del párrafo actualizada DOF 01-03-2002, 28-042003, 22-12-2017, 24-12-2021, 27-12-2022, 28-12-2023
+Multa del párrafo actualizada DOF 01-03-2002, 28-042003, 22-12-2017, 24-12-2021, 27-12-2022, 28-12-2023,
+30-12-2024
 A los infractores que aporten a los fondos a que se
 refiere el artículo 202 de esta Ley, una cantidad
 equivalente a la multa que se les imponga en los
@@ -11066,10 +11072,10 @@ que
 determinó
 su
 otorgamiento.
+
 b) Trasladen las mercancías a que se refiere el
 inciso anterior a lugar distinto del señalado
 al otorgar el beneficio.
-
 c) Las enajenen o permitan que las usen
 personas diferentes del beneficiario.
 d) Enajenen o adquieran vehículos importados
@@ -11097,9 +11103,9 @@ otra forma violen las disposiciones que regulen
 el régimen aduanero autorizado en cuanto al
 destino de las mercancías correspondientes y
 la finalidad específica del régimen.
+
 III. Importen temporalmente vehículos sin tener
 alguna de las condiciones de estancia
-
 señaladas en el inciso a) de la fracción IV del
 artículo 106 de esta Ley; importen vehículos en
 franquicia
@@ -11129,10 +11135,10 @@ dispositivo tecnológico, un medio electrónico o
 una impresión de los pedimentos de tránsito
 interno o internacional con el fin de dar por
 concluidos dichos tránsitos en la aduana de
+
 despacho o en la de salida, sin la presentación
 física de las mercancías en los recintos fiscales
 o fiscalizados.
-
 Fracción adicionada DOF 01-01-2002. Reformada DOF
 09-12-2013, 25-06-2018
 VII. Realicen la exportación, el retorno de
@@ -11164,10 +11170,10 @@ arancelarias, en los casos a que se refiere la
 fracción I, incisos a), b), c) y f).
 Multa equivalente del 30% al 50% del impuesto
 general de importación que habría tenido que
+
 cubrirse si la importación fuera definitiva o del
 15% al 30% del valor comercial de las
 mercancías cuando estén exentas, en los
-
 casos a que se refiere la fracción I, incisos d) y
 e) y la fracción III. Tratándose de yates y
 veleros turísticos la multa será del 10% al 15%
@@ -11184,7 +11190,7 @@ efectúe el retorno. El monto de la multa no
 excederá del valor de las mercancías.
 Multa del párrafo actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 No se aplicará la multa a que se refiere el
 párrafo anterior, a las personas que retornen
 en forma espontánea los vehículos importados
@@ -11192,9 +11198,9 @@ o internados temporalmente.
 IIl. Multa equivalente a la señalada por el artículo
 178, fracciones I, II, III o IV, según se trate, o
 del 30% al 50% del valor comercial de las
+
 mercancías cuando estén exentas, si la
 omisión en el retorno de las mercancías
-
 importadas o internadas temporalmente es
 descubierta por la autoridad.
 Párrafo reformado DOF 31-12-1998
@@ -11209,7 +11215,7 @@ supuesto a que se refiere la fracción IV.
 Fracción reformada DOF 31-12-1998
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 VI. Multa equivalente del 70% al 100% del valor en
 aduana de las mercancías en los supuestos a
 que se refieren las fracciones V, VI y VII.
@@ -11217,10 +11223,10 @@ Fracción adicionada DOF 01-01-2002
 ARTICULO 183-A. Las mercancías pasarán a ser
 propiedad del Fisco Federal, sin perjuicio de las
 demás sanciones aplicables, en los siguientes casos:
+
 I. Cuando no sean retiradas de los almacenes
 generales de depósito, dentro del plazo
 establecido en el artículo 144-A de esta Ley.
-
 II. Cuando el nombre, denominación o razón social,
 domicilio del proveedor en el extranjero o domicilio
 fiscal del importador, señalado en el pedimento,
@@ -11246,11 +11252,11 @@ de los excedentes o sobrantes detectados a
 maquiladoras de mercancía registrada en su
 programa, a que se refiere el artículo 153, último
 párrafo de esta Ley.
+
 IV. En el supuesto previsto en el artículo 178,
 fracción IV de esta Ley, excepto cuando el
 infractor cumpla con las regulaciones y
 restricciones no arancelarias, dentro de los treinta
-
 días siguientes a la notificación del acta de inicio
 del procedimiento administrativo en materia
 aduanera. Para efectos de esta fracción los
@@ -11276,10 +11282,10 @@ mercancías pasen a propiedad del Fisco Federal, el
 infractor deberá pagar el importe de su valor
 comercial en el territorio nacional al momento de la
 aplicación de las sanciones que correspondan.
+
 Artículo adicionado DOF 31-12-1998
 ARTICULO 184. Cometen las infracciones
 relacionadas con las obligaciones de transmitir y
-
 presentar, información y documentación, así como
 declaraciones, quienes:
 Párrafo reformado DOF 09-12-2013
@@ -11309,10 +11315,10 @@ dentro del plazo señalado en el requerimiento o
 por esta Ley.
 III. Transmitan o presenten los informes o
 documentos a que se refieren las dos
+
 fracciones anteriores, con datos inexactos o
 falsos u omitiendo algún dato.
 Fracción reformada DOF 31-12-1998, 09-12-2013
-
 IV. Omitan transmitir o presentar, o lo hagan
 extemporáneamente, la información que
 compruebe el cumplimiento de las obligaciones
@@ -11348,10 +11354,10 @@ Administración Tributaria, información distinta a
 la declarada en dicho documento o cuando se
 presenten éstos al módulo de selección
 automatizado con el código de barras mal
+
 impreso. La falta de algún dato en la impresión
 del código de barras no se considerará como
 información distinta, siempre que la información
-
 transmitida al citado sistema sea igual a la
 consignada en el pedimento.
 Tratándose de lo dispuesto en los artículos 36,
@@ -11381,9 +11387,9 @@ sin o con los elementos técnicos en una
 situación que impida su lectura.
 Párrafo adicionado DOF 25-06-2018
 Fracción reformada DOF 31-12-1998, 09-12-2013
+
 VIII. Omitan declarar en la aduana de entrada al
 país o en la de salida, que llevan consigo
-
 cantidades en efectivo, en cheques nacionales
 o extranjeros, órdenes de pago o cualquier otro
 documento por cobrar o una combinación de
@@ -11407,10 +11413,10 @@ XI. Presenten el pedimento en el módulo de
 selección automatizado sin la consignación de
 pago del módulo bancario, sin la firma
 electrónica avanzada, sin el sello digital o sin el
+
 medio tecnológico de identificación respectivo,
 de quien deba firmar el pedimento conforme a
 las disposiciones aduaneras.
-
 Fracción adicionada DOF 31-12-1998. Reformada DOF
 09-12-2013, 25-06-2018
 XII. Omitan
@@ -11441,10 +11447,10 @@ transporte internacional de traslado y custodia
 de valores o a las empresas de mensajería,
 que utilicen para internar o extraer del territorio
 nacional las cantidades que envíen en efectivo,
+
 en cheques nacionales o extranjeros, órdenes
 de pago o cualquier otro documento por cobrar
 o una combinación de ellos, superiores al
-
 equivalente en la moneda o monedas de que
 se trate a diez mil dólares de los Estados
 Unidos de América.
@@ -11502,11 +11508,11 @@ I.
 
 Multa de $29,420.00 a $49,050.00 a la señalada
 en las fracciones I y II.
-Multa de la fracción actualizada DOF 27-01-2017, 2212-2017, 24-12-2018, 24-12-2021, 27-12-2022, 28-122023
 
+Multa de la fracción actualizada DOF 27-01-2017, 2212-2017, 24-12-2018, 24-12-2021, 27-12-2022, 28-122023, 30-12-2024
 II. Multa de $2,330.00 a $3,320.00 a la señalada en
 la fracción III.
-Multa de la fracción actualizada DOF 27-01-2017, 2212-2017, 24-12-2018, 24-12-2021, 27-12-2022, 28-122023
+Multa de la fracción actualizada DOF 27-01-2017, 2212-2017, 24-12-2018, 24-12-2021, 27-12-2022, 28-122023, 30-12-2024
 Artículo adicionado DOF 09-12-2013
 ARTICULO 184-C. El agente aduanal e importador
 serán suspendidos para operar en el sistema
@@ -11528,10 +11534,10 @@ Una vez conocidos por las autoridades aduaneras
 los hechos u omisiones que configuren la suspensión,
 éstas los darán a conocer en forma circunstanciada al
 agente aduanal o importador, y le concederán un
+
 plazo de veinte días, contados a partir del día
 siguiente en que surta efectos la notificación, para
 que desvirtúen la causal, o bien, presenten el
-
 documento en el que conste el depósito efectuado
 mediante cuenta aduanera de garantía, a través de la
 rectificación al pedimento, en caso contrario, se
@@ -11560,11 +11566,10 @@ omisión a las mencionadas en las fracciones I y
 II. Las multas se reducirán al 50% cuando la
 presentación sea extemporánea.
 Fracción reformada DOF 30-12-2002, 09-12-2013
-Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
-12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 27-01-
 
-2017, 22-12-2017, 24-12-2018, 24-12-2021, 27-12-2022,
-28-12-2023
+Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
+12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 27-012017, 22-12-2017, 24-12-2018, 24-12-2021, 27-12-2022,
+28-12-2023, 30-12-2024
 lI. Multa de $2,330.00 a $3,310.00 a la señalada
 en la fracción III, por cada documento.
 Fracción reformada DOF 31-12-1998
@@ -11572,28 +11577,27 @@ Reforma DOF 09-12-2013: Derogó de la fracción el
 entonces párrafo segundo (antes adicionado DOF 01-012002)
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 III. Multa de $3,990.00 a $6,680.00 tratándose de
 la fracción IV.
 Fracción reformada DOF 31-12-1998, 31-12-2000
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 IV. Multa de $5,350.00 a $8,010.00 a la señalada
 en la fracción V, por cada medio magnético que
 contenga información inexacta, incompleta o
 falsa.
-Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
-12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-12-
 
-2014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
+12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
+28-12-2023, 30-12-2024
 V. Multa de $4,980.00 a $8,290.00 a la señalada
 en la fracción VI.
 Fracción reformada DOF 31-12-1998
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 VI. Multa de $4,970.00 a $8,250.00, en el caso
 señalado en la fracción VII, por cada pedimento
 o por cada aviso consolidado o documento
@@ -11601,15 +11605,15 @@ aduanero que corresponda.
 Fracción reformada DOF 31-12-1998, 09-12-2013, 25-062018
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 27-012017, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 VII. Multa equivalente de 20% al 40% de la
 cantidad que exceda al equivalente en la
 moneda o monedas de que se trate a diez mil
 dólares de los Estados Unidos de América, a
+
 las infracciones establecidas en las fracciones
 VIII, XV y XVI.
 Fracción reformada DOF 01-01-2002
-
 VIII. Multa de $95,550.00 a $143,400.00, en el caso
 de la transmisión electrónica señalada en la
 fracción IX, por la omisión de cada pasajero,
@@ -11631,19 +11635,19 @@ multas por evento.
 Fracción reformada DOF 30-12-2002, 25-06-2018
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 IX. Multa de $267,420.00 a $401,120.00, en los
 casos señalados en la fracción X, por cada
 aeronave que arribe al territorio nacional.
 Multa DOF 01-03-2002, 28-04-2003, 04-04-2005, 10-042006, 09-05-2007, 09-05-2008, 12-05-2009, 01-07-2010,
-03-08-2011, 27-12-2011, 29-12-2014, 22-12-2017, 24-122020, 24-12-2021, 27-12-2022, 28-12-2023
+
+03-08-2011, 27-12-2011, 29-12-2014, 22-12-2017, 24-122020, 24-12-2021, 27-12-2022, 28-12-2023, 30-12-2024
 X. Multa de $3,310.00 a $4,980.00, en el caso
 señalado en la fracción XI, por cada pedimento.
-
 Fracción adicionada DOF 31-12-1998
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 XI. Multa de $9,940.00 a $13,250.00 en caso de
 omisión y de $4,980.00 a $8,290.00 por la
 presentación extemporánea, en el caso
@@ -11651,26 +11655,27 @@ señalado en la fracción XII.
 Fracción adicionada DOF 31-12-1998
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 XII. Multa de $1,670.00 a $3,310.00, en el caso
 señalado en la fracción XIII, por cada
 documento.
 Fracción adicionada DOF 31-12-1998
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
+
 XIII. Multa equivalente del 2% al 10% del valor
 comercial de las mercancías, a la señalada en
 la fracción XIV.
 Fracción adicionada DOF 31-12-1998
-
 XIV.Multa de $23,960.00 a $35,940.00, a la
 señalada en la fracción XVII, en caso de no
 presentar el aviso dentro del plazo establecido.
 Fracción adicionada DOF 30-12-2002. Reformada DOF
 09-12-2013
 Multa de la fracción actualizada DOF 28-04-2003, 04-042005, 10-04-2006, 09-05-2007, 09-05-2008, 12-05-2009,
-01-07-2010, 03-08-2011, 27-12-2011, 27-01-2017, 22-122017, 24-12-2018, 24-12-2021, 27-12-2022, 28-12-2023
+01-07-2010, 03-08-2011, 27-12-2011, 27-01-2017, 22-122017, 24-12-2018, 24-12-2021, 27-12-2022, 28-12-2023,
+30-12-2024
 ARTICULO 185-A. Comete la infracción relacionada
 con la obligación de llevar los sistemas de control de
 inventarios, quienes no cumplan con lo dispuesto en
@@ -11682,10 +11687,10 @@ infracción relacionada con la obligación de llevar los
 sistemas de control de inventarios prevista en el
 artículo 185-A de esta Ley.
 Artículo adicionado DOF 31-12-2000. Reformado DOF 3012-2002
+
 Multa del artículo actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
-
+28-12-2023, 30-12-2024
 ARTICULO 186. Cometen las infracciones
 relacionadas con el control, seguridad y manejo de las
 mercancías de comercio exterior:
@@ -11714,12 +11719,12 @@ conductores,
 propietarios de medios de transporte y
 empresas porteadoras o sus representantes
 que no cumplan con la obligación prevista en
+
 las fracciones I, V y VIII del artículo 20 de esta
 Ley.
 Fracción reformada DOF 09-12-2013
 V. Los capitanes o pilotos que toleren la venta de
 mercancías de procedencia extranjera en las
-
 embarcaciones o aeronaves, una vez que se
 encuentren en el territorio nacional.
 VI. Los almacenes generales de depósito que
@@ -11751,6 +11756,7 @@ en
 ellos
 almacenadas y no cuenten con copia del
 pedimento en el que conste que éstas fueron
+
 retornadas al extranjero o exportadas, según
 corresponda.
 IX. Los capitanes o pilotos de embarcaciones y
@@ -11759,7 +11765,6 @@ que
 presten
 servicios
 internacionales y las empresas a que éstas
-
 pertenezcan, cuando injustificadamente arriben
 o aterricen en lugar no autorizado, siempre que
 no exista infracción de contrabando.
@@ -11782,12 +11787,12 @@ oficiales que al efecto establezca el Servicio de
 Administración Tributaria, para la declaración
 de aduanas de los pasajeros.
 Fracción reformada DOF 25-06-2018
+
 XIV.Las personas que hubieran obtenido concesión
 o autorización para prestar los servicios de
 manejo, almacenaje y custodia de mercancías
 de comercio exterior, cuando no cumplan con
 alguna de las obligaciones previstas en el
-
 primer párrafo y en las fracciones I a VI y VIII y
 los lineamientos a que se refiere el primer
 párrafo del artículo 15 y en la fracción III del
@@ -11810,13 +11815,13 @@ en el medio de transporte que contenga las
 mercancías.
 Fracción adicionada DOF 31-12-1998. Reformada DOF
 09-12-2013, 25-06-2018
+
 XVIII. Las instituciones de crédito o casas de
 bolsa autorizadas para operar cuentas
 aduaneras, cuando no cumplan con las
 obligaciones previstas en las fracciones II o III
 del artículo 87 de esta Ley.
 Fracción adicionada DOF 31-12-1998
-
 XIX.Los establecimientos que se ostenten como
 depósito fiscal para la exposición y venta de
 mercancías extranjeras y nacionales sin contar
@@ -11839,11 +11844,11 @@ no cumplan con los lineamientos a que se
 refiere el segundo párrafo del artículo 14-C de
 esta Ley.
 Fracción adicionada DOF 30-12-2002
+
 XXII. Quienes efectúen la transferencia o
 desconsolidación de mercancías sin cumplir
 con los requisitos y condiciones aplicables.
 Fracción adicionada DOF 30-12-2002
-
 XXIII. Las personas que hubieran obtenido la
 autorización a que se refiere el artículo 14-D o
 135-A, cuando no cumplan con alguna de las
@@ -11862,15 +11867,16 @@ XXII.
 Fracción reformada DOF 30-12-2002
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 II. Multa de $2,670.00 a $4,030.00, a la señalada
 en la fracción III.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
-12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-12-
+
+2014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
+28-12-2023, 30-12-2024
 IIl. Multa equivalente del 70% al 100% de las
 contribuciones y cuotas compensatorias
-
 omitidas, cuando no se haya cubierto lo que
 correspondía pagar o del 30% al 50% del valor
 comercial de las mercancías si están exentas o
@@ -11882,19 +11888,19 @@ señaladas en la fracción IX.
 Fracción reformada DOF 09-12-2013
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 27-012017, 22-12-2017, 24-12-2018, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 V. Multa de $16,040.00 a $21,380.00 a las
 señaladas en las fracciones Xll y Xlll.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 VI. Multa de $95,680.00 a $143,540.00, a la
 señalada en la fracción VIII.
 Fracción reformada DOF 31-12-1998, 30-12-2002
+
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
-
+28-12-2023, 30-12-2024
 VII. Clausura del establecimiento por una semana
 en la primera ocasión, por dos semanas en la
 segunda ocasión, por tres semanas en la
@@ -11905,7 +11911,7 @@ VIII. Multa de $53,500.00 a $106,970.00 a la
 señalada en la fracción XVl.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 IX. Multa del 3% al 5% del importe total que no se
 hubiera transferido, a la señalada en la fracción
 XVIII.
@@ -11914,15 +11920,16 @@ X. Multa de $132,580.00 a $182,290.00, a la
 señalada en la fracción XIX.
 Fracción adicionada DOF 31-12-1998
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
-12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-12-
+
+2014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
+28-12-2023, 30-12-2024
 XI. Multa de $1,670.00 a $3,310.00, a la señalada
 en la fracción XVII.
-
 Fracción adicionada DOF 31-12-1998
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 XII. Multa de $598,060.00 a $956,920.00, a la
 señalada en la fracción XX, por cada periodo
 de 20 días o fracción que transcurra desde la
@@ -11931,7 +11938,8 @@ obligación y hasta que la misma se cumpla.
 Fracción adicionada DOF 01-01-2002. Reformada
 DOF 30-12-2002
 Multa de la fracción actualizada DOF 28-04-2003, 04-042005, 10-04-2006, 09-05-2007, 09-05-2008, 12-05-2009,
-01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 22-122017, 24-12-2020, 24-12-2021, 27-12-2022, 28-12-2023
+01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 22-122017, 24-12-2020, 24-12-2021, 27-12-2022, 28-12-2023,
+30-12-2024
 XIII. Multa equivalente del 80% al 100% de las
 contribuciones y cuotas compensatorias que se
 hubieran omitido, cuando no se haya cubierto
@@ -11939,11 +11947,11 @@ lo que correspondía pagar o del 30% al 50%
 del valor comercial de las mercancías si están
 exentas o se trata de retorno al extranjero, a la
 señalada en la fracción VII. En el caso de
+
 reincidencia, la sanción consistirá en la
 suspensión provisional del recinto fiscalizado
 por un plazo de dos a treinta días.
 Fracción adicionada DOF 30-12-2002
-
 XIV.Multa de $95,680.00 a $143,540.00, a la
 señalada en la fracción XIV. En el caso de
 reincidencia, la sanción consistirá en la
@@ -11951,24 +11959,26 @@ suspensión provisional del recinto fiscalizado
 por un plazo de dos a treinta días.
 Fracción adicionada DOF 30-12-2002
 Multa de la fracción actualizada DOF 28-04-2003, 04-042005, 10-04-2006, 09-05-2007, 09-05-2008, 12-05-2009,
-01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 22-122017, 24-12-2020, 24-12-2021, 27-12-2022, 28-12-2023
+01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 22-122017, 24-12-2020, 24-12-2021, 27-12-2022, 28-12-2023,
+30-12-2024
 XV. Multa de $1,196,120.00 a $2,392,260.00 a la
 señalada en la fracción XXIII.
 Fracción adicionada DOF 30-12-2002
 Multa de la fracción actualizada DOF 28-04-2003, 04-042005, 10-04-2006, 09-05-2007, 09-05-2008, 12-05-2009,
-01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 22-122017, 24-12-2020, 24-12-2021, 27-12-2022, 28-12-2023
+01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 22-122017, 24-12-2020, 24-12-2021, 27-12-2022, 28-12-2023,
+30-12-2024
 Tratándose de los plazos de suspensión provisional
 a que se refieren las fracciones XIII y XIV de este
 artículo, el titular del recinto fiscalizado únicamente
 podrá concluir las operaciones que tuviera iniciadas a
 la fecha en que le sea notificada la orden de
+
 suspensión, sin que durante dicho plazo pueda iniciar
 nuevas operaciones.
 Párrafo adicionado DOF 30-12-2002
 ARTICULO 188. Comete la infracción relacionada
 con la clave confidencial de identidad, quien al
 presentar pedimento o realizar cualquier trámite:
-
 l.
 
 Utilice una clave confidencial de identidad
@@ -11985,12 +11995,14 @@ Multa de $53,500.00 a $80,220.00, a quien
 cometa la infracción señalada en la fracción I.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 Il. Multa de $106,970.00 a $160,450.00, a quien
 cometa la infracción señalada en la fracción II.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
-12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-12-
+
+2014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
+28-12-2023, 30-12-2024
 ARTICULO
 190.
 Comete
@@ -12020,37 +12032,38 @@ de identificación.
 ARTICULO 191. Se aplicarán las siguientes
 sanciones a quien cometa las infracciones
 establecidas en el artículo 190 de esta Ley:
+
 l.
 
 Multa de $26,750.00 a $40,120.00, tratándose
 de las señaladas en las fracciones l y Il.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
-
+28-12-2023, 30-12-2024
 II. Multa de $53,500.00 a $80,220.00, tratándose
 de la señalada en la fracción III.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 IIl. Multa de $5,350.00 a $8,010.00, tratándose de
 la señalada en la fracción IV.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 IV. Multa de $106,970.00 a $160,450.00,
 tratándose de la señalada en la fracción V,
 independientemente de las sanciones a que
 haya lugar por la comisión de delitos.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
-12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-12-
+
+2014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
+28-12-2023, 30-12-2024
 A los infractores que aporten a los fondos a que se
 refiere el artículo 202 de esta Ley, una cantidad
 equivalente a la multa que se les imponga en los
 términos de este artículo, se les tendrá por liberados
 de la obligación de pagar dicha multa.
-
 ARTICULO
 192.
 Comete
@@ -12082,6 +12095,7 @@ exceda del autorizado, no pueda transportarse
 en más de un vehículo, y siempre que se
 solicite al administrador de la aduana con un
 día de anticipación la autorización para que el
+
 medio de transporte ingrese al recinto fiscal en
 cierta fecha y hora. Lo previsto en esta fracción
 no será aplicable cuando se trate de puertos o
@@ -12089,7 +12103,6 @@ terminales portuarias concesionadas.
 ARTICULO 193. Se aplicarán las siguientes
 sanciones a quien cometa las infracciones
 relacionadas con la seguridad o integridad de las
-
 instalaciones aduaneras previstas en el artículo 192
 de esta Ley:
 l.
@@ -12098,22 +12111,22 @@ Multa de $16,040.00 a $21,380.00, a la
 señalada en la fracción I.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 II. Multa de $21,380.00 a $26,750.00, a la
 señalada en la fracción II, así como reparación
 del daño causado.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 III. Multa de $21,380.00 a $26,750.00, si se trata
 de la señalada en la fracción III.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
+
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
+28-12-2023, 30-12-2024
 A los infractores que aporten a los fondos a que se
 refiere el artículo 202 de esta Ley, una cantidad
 equivalente a la multa que se les imponga en los
-
 términos de este artículo, se les tendrá por liberados
 de la obligación de pagar dicha multa.
 ARTICULO 194. A quienes omitan enterar las
@@ -12135,6 +12148,7 @@ esta Ley.
 Artículo reformado DOF 25-06-2018
 ARTICULO 196. Se considera cometida una sola
 infracción, cuando en diversos actos se introduzcan o
+
 extraigan del país mercancías presentándolas
 desmontadas o en partes, en los siguientes casos:
 I.
@@ -12174,7 +12188,6 @@ II. En caso contrario, se aplicará la sanción que
 corresponda a la infracción cometida por la
 totalidad de las mercancías y todos
 responderán solidariamente.
-
 ARTICULO 198. Las autoridades aduaneras, al
 imponer las multas, deberán considerar como
 agravantes los siguientes supuestos:
@@ -12211,11 +12224,11 @@ exportación y la descripción, naturaleza y
 demás características necesarias para la
 clasificación de las mercancías hayan sido
 correctamente manifestadas a la autoridad.
+
 Esta disminución no será aplicable cuando
 exista criterio de clasificación arancelaria de la
 autoridad aduanera, en los términos del artículo
 48 de esta Ley, o cuando las mercancías estén
-
 sujetas a regulaciones y restricciones no
 arancelarias.
 II. En un 20% en el caso de que la multa se
@@ -12241,10 +12254,10 @@ los pague junto con sus accesorios antes de la
 notificación de la resolución que determine el
 monto de la contribución o aprovechamiento
 que omitió.
+
 Fracción adicionada DOF 01-01-2002
 V. En un 50% en el caso de que la multa no
 derive de la omisión de contribuciones o cuotas
-
 compensatorias en los supuestos en que no
 proceda el embargo precautorio de las
 mercancías, siempre que el infractor la pague
@@ -12269,10 +12282,10 @@ impuestos al comercio exterior omitidos, con el valor
 en aduana de las mercancías y éstos no pueden
 determinarse, se aplicará a los infractores una multa
 de $80,220.00 a $106,970.00.
+
 Multa del artículo actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
-28-12-2023
-
+28-12-2023, 30-12-2024
 ARTICULO 201. (Se deroga).
 Artículo derogado DOF 15-12-1995
 ARTICULO 202. Los agentes aduanales, las
@@ -12296,11 +12309,11 @@ Artículo reformado DOF 09-12-2013, 25-06-2018
 Título Noveno
 Recursos administrativos
 Capítulo Unico
+
 ARTICULO 203.- En contra de todas las
 resoluciones definitivas que dicten las autoridades
 aduaneras procederá el recurso de revocación
 establecido en el Código Fiscal de la Federación.
-
 Párrafo reformado DOF 30-12-1996
 La interposición del recurso de revocación será
 optativa para el interesado antes de acudir al Tribunal
@@ -12326,12 +12339,12 @@ disposiciones
 reglamentarias de esta Ley, seguirá en vigor el
 Reglamento de la Ley que se abroga en todo lo que
 no se le oponga.
+
 Tercero. Hasta en tanto entra en vigor lo dispuesto
 en los artículos 21, fracciones l y ll y 82, párrafos
 primero y segundo de esta Ley, las mercancías que
 ingresen al territorio nacional, o que se pretendan
 extraer del mismo por vía postal, quedarán confiadas
-
 al Servicio Postal Mexicano, bajo la vigilancia y
 control de las autoridades aduaneras.
 Para los efectos de lo dispuesto en el párrafo
@@ -12359,6 +12372,7 @@ consultas,
 interpretaciones,
 autorizaciones o permisos de carácter general o que
 se hubieran otorgado a título particular que
+
 contravengan o se opongan a lo preceptuado en esta
 Ley.
 Quinto.
@@ -12367,7 +12381,6 @@ despachos,
 operaciones
 y
 procedimientos de comercio exterior, iniciados de
-
 acuerdo con las disposiciones de la Ley que se
 abroga, serán concluidos conforme a
 las
@@ -12392,12 +12405,12 @@ vigente al 1o. de abril de 1996, conforme al artículo 72
 de la Ley que se abroga, se considerarán inscritas en
 el citado registro, en los términos de lo previsto en el
 artículo 100 de esta Ley.
+
 Noveno. Las personas que hubieran introducido al
 país yates y veleros turísticos, así como casas
 rodantes, bajo el régimen de las marinas turísticas y
 de los campamentos de casas rodantes vigente al
 primero de abril de 1996, conforme a los artículos 95
-
 y 95-A de la Ley que se abroga, deberán realizar el
 cambio al régimen de importación temporal, conforme
 al artículo 106, fracción V, incisos c) y d) de esta Ley,
@@ -12419,12 +12432,12 @@ Cantón Zetina, Presidente.- Sen. Gustavo Carvajal
 Moreno, Presidente.- Dip. Emilio Solórzano Solís,
 Secretario.- Sen. Jorge G. López Tijerina,
 Secretario.- Rúbricas".
+
 En cumplimiento de lo dispuesto por la fracción I del
 Artículo 89 de la Constitución Política de los Estados
 Unidos Mexicanos, y para su debida publicación y
 observancia, expido el presente Decreto en la
 residencia del Poder Ejecutivo Federal, en la Ciudad
-
 de México, Distrito Federal, a los trece días del mes
 de diciembre de mil novecientos noventa y cinco.Ernesto Zedillo Ponce de León.- Rúbrica.- El
 Secretario de Gobernación, Emilio Chuayffet
