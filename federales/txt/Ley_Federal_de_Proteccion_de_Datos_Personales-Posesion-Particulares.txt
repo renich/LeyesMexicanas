@@ -20,7 +20,6 @@ servido dirigirme el siguiente
 DECRETO
 "EL CONGRESO GENERAL DE LOS ESTADOS
 UNIDOS MEXICANOS, DECRETA:
-
 SE
 EXPIDEN
 LA
@@ -33,6 +32,7 @@ ACCESO
 A
 LA
 INFORMACIÓN PÚBLICA; LA LEY GENERAL DE
+
 PROTECCIÓN DE DATOS PERSONALES EN
 POSESIÓN DE SUJETOS OBLIGADOS; LA LEY
 FEDERAL
@@ -62,12 +62,12 @@ observancia general en todo el territorio nacional y
 tiene por objeto la protección de los datos personales
 en posesión de los particulares, con la finalidad de
 regular su tratamiento legítimo, controlado e
-
 informado, a efecto de garantizar la privacidad y el
 derecho a la autodeterminación informativa de las
 personas.
 Quedan exceptuados de la aplicación de la presente
 Ley:
+
 I.
 
 Las sociedades de información crediticia en los
@@ -127,7 +127,6 @@ tratamiento de los mismos;
 V. Datos personales: Cualquier información
 concerniente a una persona identificada o
 identificable. Se considera que una persona es
-
 identificable cuando su identidad pueda
 determinarse directa o indirectamente a través
 de cualquier información;
@@ -140,6 +139,7 @@ más no limitativa se consideran sensibles los
 datos personales que puedan revelar aspectos
 como origen racial o étnico, estado de salud
 presente o futuro, información genética,
+
 creencias religiosas, filosóficas y morales,
 opiniones políticas y preferencia sexual;
 VII. Derechos ARCO: Derechos de acceso,
@@ -151,7 +151,6 @@ los datos personales no pueden asociarse a la
 persona titular ni permitir, por su estructura,
 contenido o grado de desagregación, la
 identificación de la misma;
-
 X. Fuente de acceso público: Aquellas bases de
 datos, sistemas o archivos que por disposición
 de ley puedan ser consultadas públicamente
@@ -166,6 +165,7 @@ establecidas por la presente Ley y demás
 disposiciones jurídicas aplicables;
 XI. Ley: Ley Federal de Protección de Datos
 Personales en Posesión de los Particulares;
+
 XII. Persona encargada: Persona física o jurídica
 que sola o conjuntamente con otras trate datos
 personales por cuenta del responsable;
@@ -176,7 +176,6 @@ XIV. Responsable: Sujetos regulados a que se
 refiere la fracción XVI de este artículo;
 XV. Secretaría: Secretaría Anticorrupción y Buen
 Gobierno;
-
 XVI. Sujetos regulados: Personas físicas o
 morales de carácter privado que llevan a cabo el
 tratamiento de datos personales;
@@ -200,6 +199,7 @@ utilización,
 comunicación,
 difusión,
 almacenamiento,
+
 posesión, acceso, manejo, aprovechamiento,
 divulgación, transferencia o disposición de datos
 personales, y
@@ -208,7 +208,6 @@ personales dentro o fuera del territorio
 mexicano, realizada a persona distinta de la
 titular, del responsable o de la persona
 encargada del tratamiento.
-
 Artículo 3. Los principios y derechos previstos en
 esta Ley, tendrán como límite en cuanto a su
 observancia y ejercicio, la protección de la seguridad
@@ -227,6 +226,7 @@ Administrativo.
 Capítulo II
 De los Principios de Protección de Datos
 Personales
+
 Artículo 5. El responsable deberá observar los
 principios de licitud, finalidad, lealtad, consentimiento,
 calidad,
@@ -235,7 +235,6 @@ información
 y
 responsabilidad en el tratamiento de datos
 personales.
-
 Artículo 6. Los datos personales deberán recabarse
 y tratarse de manera lícita conforme a lo previsto por
 esta Ley y demás disposiciones jurídicas aplicables.
@@ -257,9 +256,9 @@ consentimiento es expreso cuando la voluntad de la
 persona titular se manifieste verbalmente, por escrito,
 por medios electrónicos, ópticos, signos inequívocos
 o por cualquier otra tecnología.
+
 El consentimiento será tácito cuando habiéndose
 puesto a disposición de la persona titular el aviso de
-
 privacidad, esta no manifieste su voluntad en sentido
 contrario.
 Por regla general será válido el consentimiento
@@ -320,8 +319,8 @@ asistencia sanitaria, o la gestión de servicios
 sanitarios, mientras la persona titular no esté en
 condiciones de otorgar el consentimiento, en los
 términos que establece la Ley General de Salud
-
 y demás disposiciones jurídicas aplicables y que
+
 dicho tratamiento de datos se realice por una
 persona sujeta al secreto profesional u
 obligación equivalente, o
@@ -348,12 +347,12 @@ contractuales, una vez que transcurra un plazo de
 setenta y dos meses, contado a partir de la fecha
 calendario en que se presente el mencionado
 incumplimiento.
-
 Artículo 11. El tratamiento de datos personales
 deberá limitarse al cumplimiento de las finalidades
 previstas en el aviso de privacidad, sin embargo, si el
 responsable pretende tratar los datos para una
 finalidad distinta a las establecidas en el aviso de
+
 privacidad, se requerirá obtener nuevamente el
 consentimiento de la persona titular.
 Artículo 12. El tratamiento de datos personales será
@@ -373,7 +372,6 @@ respetado en todo momento por él o por terceros con
 los que guarde alguna relación jurídica.
 Artículo 14. El responsable tendrá la obligación de
 informar a la persona titular, a través del aviso de
-
 privacidad, la existencia y características principales
 del tratamiento al que serán sometidos sus datos
 personales, a fin de que pueda tomar decisiones
@@ -406,7 +404,6 @@ VI. El procedimiento y medio por el cual el
 responsable comunicará a las personas titulares
 de cambios al aviso de privacidad, de
 conformidad con lo previsto en esta Ley.
-
 Artículo 16. El responsable debe poner a
 disposición de las personas titulares el aviso de
 privacidad, a través de formatos impresos, digitales,
@@ -436,7 +433,6 @@ Artículo 17. Cuando los datos no hayan sido
 obtenidos directamente de la persona titular, el
 responsable deberá darle a conocer el cambio en el
 aviso de privacidad.
-
 No resulta aplicable lo establecido en el párrafo
 anterior, cuando el tratamiento sea con fines
 históricos, estadísticos o científicos.
@@ -451,6 +447,7 @@ técnicas y físicas que permitan proteger los datos
 personales contra daño, pérdida, alteración,
 destrucción o el uso, acceso o tratamiento no
 autorizado.
+
 Los responsables no adoptarán medidas de
 seguridad menores a aquellas que mantengan para el
 manejo de su información. Asimismo, se tomará en
@@ -461,7 +458,6 @@ Artículo 19. Las vulneraciones de seguridad
 ocurridas en cualquier fase del tratamiento de datos
 personales que afecten de forma significativa los
 derechos patrimoniales o morales de las personas
-
 titulares le serán informadas de forma inmediata por
 el responsable, a fin de que pueda tomar las medidas
 correspondientes a la defensa de sus derechos.
@@ -478,6 +474,7 @@ Datos Personales
 Artículo 21. Cualquier persona titular o, en su caso,
 su representante legal, podrá ejercer los derechos
 ARCO previstos en la presente Ley.
+
 El ejercicio de cualquiera de los derechos ARCO no
 es requisito previo ni impide el ejercicio de otro.
 Los datos personales deben ser resguardados de tal
@@ -486,7 +483,6 @@ derechos.
 Artículo 22. La persona titular tendrá derecho a
 acceder a sus datos personales que obren en
 posesión del responsable, así como conocer la
-
 información relacionada con las condiciones y
 generalidades de su tratamiento, a través del aviso de
 privacidad.
@@ -508,6 +504,7 @@ periodo de bloqueo tras el cual se procederá a la
 supresión del dato, el responsable podrá conservarlos
 exclusivamente para efectos de las responsabilidades
 nacidas del tratamiento.
+
 El periodo de bloqueo será equivalente al plazo de
 prescripción de las acciones derivadas de la relación
 jurídica que funda el tratamiento en los términos de la
@@ -515,7 +512,6 @@ Ley aplicable en la materia, y una vez cancelado el
 dato se dará aviso a la persona titular.
 Cuando los datos personales hubiesen sido
 transmitidos con anterioridad a la fecha de
-
 rectificación o cancelación y sigan siendo tratados por
 terceros, el responsable deberá hacer de su
 conocimiento dicha solicitud de rectificación o
@@ -539,6 +535,7 @@ delitos o la actualización de sanciones
 administrativas;
 IV. Sean necesarios para proteger los intereses
 jurídicamente tutelados de la persona titular;
+
 V. Sean necesarios para realizar una acción en
 función del interés público;
 VI. Sean necesarios para cumplir con una
@@ -546,7 +543,6 @@ obligación legalmente adquirida por la persona
 titular, y
 VII. Sean objeto de tratamiento para la prevención o
 para el diagnóstico médico o la gestión de
-
 servicios de salud, siempre que dicho
 tratamiento se realice por un profesional de la
 salud sujeto a un deber de secreto.
@@ -572,12 +568,11 @@ libertades, y estén destinados a evaluar, sin
 intervención humana, determinados aspectos
 personales de la misma o analizar o predecir, en
 particular, su rendimiento profesional, situación
+
 económica, estado de salud, preferencias
 sexuales, fiabilidad o comportamiento.
-
 No procederá el ejercicio del derecho de oposición
 en aquellos casos en los que el tratamiento sea
-
 necesario para el cumplimiento de una obligación
 legal impuesta al responsable.
 Capítulo IV
@@ -590,19 +585,25 @@ de los datos personales que le conciernen.
 Artículo 28. La solicitud para el ejercicio de los
 derechos ARCO deberá contener y acompañar lo
 siguiente:
-I. El nombre de la persona titular y su domicilio o
+I.
+
+El nombre de la persona titular y su domicilio o
 cualquier otro medio para recibir notificaciones;
-II. Los documentos que acrediten la identidad de la
+
+II.
+
+Los documentos que acrediten la identidad de la
 persona titular o, en su caso, la personalidad e
 identidad de su representante;
+
 III. La descripción clara y precisa de los datos
 personales respecto de los que se busca ejercer
 alguno de los derechos ARCO, salvo que se
 trate del derecho de acceso;
+
 IV. La descripción del derecho ARCO que se
 pretende ejercer, o bien, lo que solicita la
 persona titular, y
-
 V. Cualquier otro elemento o documento que
 facilite la localización de los datos personales.
 Artículo 29. Todo responsable fomentará la
@@ -632,8 +633,8 @@ procedente, se haga efectiva la misma dentro de los
 quince días siguientes a la fecha en que se comunica
 la respuesta. Tratándose de solicitudes para el
 ejercicio del derecho de acceso a datos personales,
-procederá la entrega previa acreditación de la
 
+procederá la entrega previa acreditación de la
 identidad del titular o representante legal, según
 corresponda.
 Los plazos antes referidos podrán ser ampliados una
@@ -654,7 +655,9 @@ tener por cumplida la solicitud.
 Artículo 33. Las causas en las que el ejercicio de
 los derechos ARCO no serán procedentes y por tanto
 el responsable podrá negar los mismos son:
-I. Cuando la persona titular o el representante
+I.
+
+Cuando la persona titular o el representante
 legal no estén debidamente acreditados para
 ello;
 
@@ -684,12 +687,12 @@ comunicarla a la persona titular, o en su caso, al
 representante legal, en los plazos establecidos para
 tal efecto, por el mismo medio por el que se llevó a
 cabo la solicitud para el ejercicio de los derechos
-
 ARCO, acompañando, en su caso, las pruebas que
 resulten pertinentes.
 Artículo 34. El ejercicio de los derechos ARCO es
 gratuito, solo podrán realizarse cobros para recuperar
 los costos de reproducción, copias o envío.
+
 Cuando la persona titular proporcione el medio
 magnético, electrónico o el mecanismo necesario
 para reproducir los datos personales, los mismos
@@ -708,7 +711,6 @@ extranjeros, distintos de la persona encargada deberá
 comunicar a éstos el aviso de privacidad y las
 finalidades a las que la persona titular sujetó su
 tratamiento.
-
 El tratamiento de los datos se hará conforme a lo
 convenido en el aviso de privacidad, el cual contendrá
 una cláusula en la que se indique si la persona titular
@@ -716,6 +718,7 @@ acepta o no la transferencia de sus datos, de igual
 manera, el tercero receptor, asumirá las mismas
 obligaciones que correspondan al responsable que
 transfirió los datos.
+
 Artículo 36. Las transferencias nacionales o
 internacionales de datos podrán llevarse a cabo sin el
 consentimiento de la persona titular cuando se
@@ -738,7 +741,6 @@ control común del responsable, o a una
 sociedad matriz o a cualquier sociedad del
 mismo grupo del responsable que opere bajo los
 mismos procesos y políticas internas;
-
 IV. La transferencia sea necesaria por virtud de un
 contrato celebrado o por celebrar en interés de
 la persona titular, por el responsable y un
@@ -747,6 +749,7 @@ V. La transferencia sea necesaria o legalmente
 exigida para la salvaguarda de un interés
 público, o para la procuración o administración
 de justicia;
+
 VI. La transferencia sea precisa para el
 reconocimiento, ejercicio o defensa de un
 derecho en un proceso judicial, y
@@ -765,7 +768,6 @@ esquemas de autorregulación vinculante en la
 materia, que complementen lo dispuesto por la
 presente Ley. Dichos esquemas deberán contener
 mecanismos para medir su eficacia en la protección
-
 de los datos, consecuencias y medidas correctivas
 eficaces en caso de incumplimiento.
 Los esquemas de autorregulación podrán traducirse
@@ -778,6 +780,7 @@ los derechos de las personas titulares. Dichos
 esquemas serán notificados de manera simultánea a
 las autoridades correspondientes y a la Secretaría.
 Capítulo VII
+
 De la Secretaría
 Artículo 38. La Secretaría, para efectos de esta Ley,
 tendrá por objeto difundir el conocimiento del derecho
@@ -790,7 +793,6 @@ obligaciones por parte de los sujetos regulados por
 este ordenamiento.
 Artículo 39. La Secretaría tiene las siguientes
 atribuciones:
-
 I.
 
 Vigilar y verificar el cumplimiento de las
@@ -818,6 +820,7 @@ IV. Emitir los criterios y recomendaciones, de
 conformidad con las disposiciones aplicables de
 esta Ley, para efectos de su funcionamiento y
 operación;
+
 V. Divulgar estándares y mejores prácticas
 internacionales en materia de seguridad de la
 información, en atención a la naturaleza de los
@@ -828,7 +831,6 @@ VI. Conocer y resolver los procedimientos de
 protección de derechos y de verificación
 señalados en esta Ley e imponer las sanciones
 según corresponda;
-
 VII. Cooperar con otras autoridades de supervisión y
 organismos nacionales e internacionales, a
 efecto de coadyuvar en materia de protección
@@ -845,6 +847,7 @@ torno a la protección de datos personales y
 brindar capacitación a los sujetos obligados, y
 XI. Las demás que le confieran esta Ley y demás
 ordenamientos aplicables.
+
 Capítulo VIII
 Del Procedimiento de Protección de Derechos
 Artículo 40. El procedimiento se iniciará a instancia
@@ -853,7 +856,6 @@ representante legal, expresando con claridad el
 contenido de su reclamación y de los preceptos de
 esta Ley que se consideran vulnerados. La solicitud
 de protección de datos deberá presentarse ante la
-
 Secretaría dentro de los quince días siguientes a la
 fecha en que se comunique la respuesta a la persona
 titular por parte del responsable.
@@ -873,12 +875,12 @@ personales solicitados, o lo haga en un formato
 incomprensible, se niegue a efectuar modificaciones o
 correcciones a los datos personales, la persona titular
 no esté conforme con la información entregada por
+
 considerar que es incompleta o no corresponda a la
 información requerida.
 Recibida la solicitud de protección de datos ante la
 Secretaría, se dará traslado de la misma al
 responsable, para que, en el plazo de quince días,
-
 emita respuesta, ofrezca las pruebas que estime
 pertinentes y manifieste por escrito lo que a su
 derecho convenga.
@@ -901,8 +903,8 @@ términos y plazos conforme a los que se desarrollará
 el procedimiento de protección de derechos.
 Artículo 41. La solicitud de protección de datos
 podrá interponerse por escrito libre o a través de los
-formatos, del sistema electrónico que al efecto
 
+formatos, del sistema electrónico que al efecto
 proporcione la Secretaría y deberá contener la
 siguiente información:
 I.
@@ -931,9 +933,9 @@ La forma y términos en que deba acreditarse la
 identidad de la persona titular o bien, la
 representación legal, se establecerán en el
 Reglamento.
+
 Asimismo, a la solicitud de protección de datos
 deberá acompañarse la solicitud y la respuesta que
-
 se recurre o, en su caso, los datos que permitan su
 identificación.
 En el caso de falta de respuesta sólo será necesario
@@ -982,7 +984,6 @@ peticiones expuestos en la misma o en la solicitud de
 protección de datos.
 Artículo 46. Las resoluciones de la Secretaría
 podrán:
-
 I.
 
 Sobreseer o desechar la solicitud de protección
@@ -1022,12 +1023,12 @@ por el tercero interesado, en contra del acto
 recurrido ante la Secretaría;
 V. Se trate de una solicitud de protección de datos
 ofensiva o irracional, o
-
 VI. Sea extemporánea por haber transcurrido el
 plazo establecido en el artículo 40 de la
 presente Ley.
 Artículo 48. La solicitud de protección de datos será
 sobreseída cuando:
+
 I.
 
 La persona titular fallezca;
@@ -1052,13 +1053,13 @@ cumplimiento del acuerdo respectivo.
 Para efectos de la conciliación a que se alude en el
 presente ordenamiento, se estará al procedimiento
 que se establezca en el Reglamento de esta Ley.
-
 Artículo 50. Interpuesta la solicitud de protección de
 datos ante la falta de respuesta a una solicitud en
 ejercicio de los derechos ARCO por parte del
 responsable, la Secretaría dará vista al citado
 responsable para que, en un plazo no mayor a diez
 días, acredite haber respondido en tiempo y forma la
+
 solicitud, o bien dé respuesta a la misma. En caso de
 que la respuesta atienda a lo solicitado, la solicitud de
 protección de datos se considerará improcedente y la
@@ -1077,7 +1078,6 @@ Artículo 51. Contra las resoluciones de la
 Secretaría, los particulares podrán promover juicio de
 amparo. Los juicios de amparo serán sustanciados
 por jueces y tribunales especializados en los términos
-
 del artículo 94 de la Constitución Política de los
 Estados Unidos Mexicanos.
 Artículo 52. Todas las resoluciones de la Secretaría
@@ -1087,6 +1087,7 @@ la persona titular de los datos que lo identifiquen o lo
 hagan identificable.
 Artículo 53. Las personas titulares que consideren
 que han sufrido un daño o lesión en sus bienes o
+
 derechos como consecuencia del incumplimiento a lo
 dispuesto en la presente Ley por el responsable o la
 persona encargada, podrán ejercer los derechos que
@@ -1102,7 +1103,6 @@ petición de parte.
 La verificación de oficio procederá cuando se dé el
 incumplimiento a resoluciones dictadas con motivo de
 procedimientos de protección de derechos a que se
-
 refiere el Capítulo anterior o se presuma fundada y
 motivadamente la existencia de violaciones a la
 presente Ley.
@@ -1113,6 +1113,7 @@ a la resolución que lo motive.
 Las personas servidoras públicas estarán obligadas
 a guardar confidencialidad sobre la información que
 conozcan derivada de la verificación correspondiente.
+
 El Reglamento desarrollará la forma, términos y
 plazos en que se sustanciará el procedimiento a que
 se refiere el presente artículo.
@@ -1127,7 +1128,6 @@ disposiciones de esta Ley, iniciará el procedimiento
 de imposición de sanciones.
 Artículo 57. El procedimiento de imposición de
 sanciones dará comienzo con la notificación que
-
 efectúe la Secretaría a la presunta persona infractora,
 sobre los hechos que motivaron el inicio del
 procedimiento y le otorgará un término de quince días
@@ -1142,6 +1142,7 @@ demás pruebas que estime necesarias. Concluido el
 desahogo de las pruebas, la Secretaría notificará a la
 presunta persona infractora el derecho que le asiste
 para que, de considerarlo necesario, presente sus
+
 alegatos dentro de los cinco días siguientes a su
 notificación.
 La Secretaría, una vez analizadas las pruebas y
@@ -1150,7 +1151,6 @@ pertinentes, resolverá en definitiva dentro de los
 cincuenta días siguientes a la fecha en que inició el
 procedimiento sancionador. Dicha resolución deberá
 ser notificada a las partes.
-
 Cuando haya causa justificada, la Secretaría podrá
 ampliar por una vez y hasta por un período igual este
 plazo.
@@ -1179,7 +1179,6 @@ de los derechos ARCO;
 III. Declarar dolosamente la inexistencia de datos
 personales, cuando exista total o parcialmente
 en las bases de datos del responsable;
-
 IV. Dar tratamiento a los datos personales en
 contravención a los principios establecidos en la
 presente Ley;
@@ -1197,6 +1196,7 @@ refiere la fracción I del artículo 59 de la presente
 Ley;
 VIII. Incumplir el deber de confidencialidad
 establecido en el artículo 20 de esta Ley;
+
 IX. Cambiar sustancialmente la finalidad originaria
 del tratamiento de los datos, sin observar lo
 dispuesto por el artículo 11 de esta Ley;
@@ -1204,7 +1204,6 @@ X. Transferir datos a terceros sin comunicar a
 estos el aviso de privacidad que contiene las
 limitaciones a que la persona titular sujetó la
 divulgación de los mismos;
-
 XI. Vulnerar la seguridad de bases de datos,
 locales, programas o equipos, cuando resulte
 imputable al responsable;
@@ -1216,11 +1215,21 @@ consentimiento expreso de la persona titular, en
 los casos en que éste sea exigible;
 XIV. Obstruir los actos de verificación de la
 autoridad;
-XV. Recabar datos en forma engañosa y
+XV. Recabar datos
 fraudulenta;
+
+en
+
+forma
+
+engañosa
+
+y
+
 XVI. Continuar con el uso ilegítimo de los datos
 personales cuando se ha solicitado el cese del
 mismo por la Secretaría o las personas titulares;
+
 XVII. Tratar los datos personales de manera que se
 afecte o impida el ejercicio de los derechos
 ARCO establecidos en el artículo 16 de la
@@ -1230,39 +1239,50 @@ XVIII.
 Crear bases de datos en contravención a lo
 dispuesto por el artículo 8, segundo párrafo de
 esta Ley, y
-
 XIX. Cualquier incumplimiento del responsable a las
 obligaciones establecidas a su cargo en
 términos de lo previsto en la presente Ley.
 Artículo 59. Las infracciones a la presente Ley
 serán sancionadas por la Secretaría con:
-I. El apercibimiento para que el responsable lleve
+I.
+
+El apercibimiento para que el responsable lleve
 a cabo los actos solicitados por la persona
 titular, en los términos previstos por esta Ley,
 tratándose de los supuestos previstos en la
 fracción I del artículo anterior;
-II. Multa de 100 a 160,000 veces la Unidad de
+
+II.
+
+Multa de 100 a 160,000 veces la Unidad de
 Medida y Actualización, en los casos previstos
 en las fracciones II a VII del artículo anterior;
+
 III. Multa de 200 a 320,000 veces la Unidad de
 Medida y Actualización, en los casos previstos
 en las fracciones VIII a XVIII del artículo
 anterior, y
+
 IV. En caso de que de manera reiterada persistan
 las infracciones citadas en los incisos anteriores,
 se impondrá una multa adicional que irá de 100
 a 320,000 veces la Unidad de Medida y
 Actualización. En tratándose de infracciones
 cometidas en el tratamiento de datos sensibles,
-
 las sanciones podrán incrementarse hasta por
 dos veces, los montos establecidos.
 Artículo 60. La Secretaría fundará y motivará sus
 resoluciones, considerando:
-I. La naturaleza del dato;
-II. La notoria improcedencia de la negativa del
+I.
+
+La naturaleza del dato;
+
+II.
+
+La notoria improcedencia de la negativa del
 responsable, para realizar los actos solicitados
 por la persona titular, en términos de esta Ley;
+
 III. El carácter intencional o no, de la acción u
 omisión constitutiva de la infracción;
 IV. La capacidad económica del responsable, y
@@ -1273,12 +1293,12 @@ responsabilidad civil o penal que resulte.
 Capítulo XII
 De los Delitos en Materia del Tratamiento Indebido
 de Datos Personales
+
 Artículo 62. Se impondrán de tres meses a tres
 años de prisión al que, estando autorizado para tratar
 datos personales, con ánimo de lucro, provoque una
 vulneración de seguridad a las bases de datos bajo su
 custodia.
-
 Artículo 63. Se sancionará con prisión de seis
 meses a cinco años al que, con el fin de alcanzar un
 lucro indebido, trate datos personales mediante el
@@ -1296,15 +1316,20 @@ Federación, con excepción de lo previsto en el
 transitorio Tercero de este instrumento.
 Segundo.- A la entrada en vigor del presente
 Decreto se abrogan las disposiciones siguientes:
-I. La Ley Federal de Protección de Datos
+I.
+
+La Ley Federal de Protección de Datos
 Personales en Posesión de los Particulares,
+
 publicada en el Diario Oficial de la Federación el
 5 de julio de 2010;
-II. La Ley General de Transparencia y Acceso a la
-Información Pública, publicada en el Diario
+II.
 
+La Ley General de Transparencia y Acceso a la
+Información Pública, publicada en el Diario
 Oficial de la Federación el 4 de mayo de 2015 y
 sus modificaciones posteriores;
+
 III. La Ley Federal de Transparencia y Acceso a la
 Información Pública, publicada en el Diario
 Oficial de la Federación el 9 de mayo de 2016 y
@@ -1333,8 +1358,8 @@ Tercero.- Los artículos 71 y 72 de la Ley General de
 Transparencia y Acceso a la Información Pública
 entrarán en vigor cuando se extingan la Comisión
 Federal de Competencia Económica y el Instituto
-Federal de Telecomunicaciones conforme a lo
 
+Federal de Telecomunicaciones conforme a lo
 previsto en los transitorios Décimo y Décimo Primero
 del “Decreto por el que se reforman, adicionan y
 derogan diversas disposiciones de la Constitución
@@ -1360,10 +1385,10 @@ corresponda.
 Quinto.- Los derechos laborales de las personas
 servidoras públicas del Instituto Nacional de
 Transparencia, Acceso a la Información y Protección
-
 de Datos Personales, serán respetados, en términos
 de la legislación aplicable. Los recursos humanos con
 que cuente el referido Instituto pasarán a formar parte
+
 de la Secretaría Anticorrupción y Buen Gobierno y
 Transparencia para el Pueblo.
 El Instituto Nacional de Transparencia, Acceso a la
@@ -1386,7 +1411,6 @@ Secretaría Anticorrupción y Buen Gobierno habilitados
 para tales efectos o en los medios que esta determine
 y conforme a la normativa aplicable a la
 Administración Pública Federal. Lo anterior también
-
 es aplicable a las personas que se hayan
 desempeñado como servidoras públicas en el
 mencionado Instituto y que a la fecha de entrada en
@@ -1394,6 +1418,7 @@ vigor del presente Decreto aún tengan pendiente
 cumplir con dicha obligación.
 Las personas que dentro de los diez días previos a
 la entrada en vigor del presente Decreto se hayan
+
 desempeñado como personas servidoras públicas del
 Instituto Nacional de Transparencia, Acceso a la
 Información y Protección de Datos Personales,
@@ -1417,7 +1442,6 @@ por la autoridad competente con posterioridad.
 Sexto.- Los recursos materiales con que cuente el
 Instituto Nacional de Transparencia, Acceso a la
 Información y Protección de Datos Personales serán
-
 transferidos a la Secretaría Anticorrupción y Buen
 Gobierno, dentro de los veinte días hábiles siguientes
 a la entrada en vigor del presente Decreto.
@@ -1431,6 +1455,7 @@ las disposiciones jurídicas
 aplicables.
 Asimismo, el Instituto Nacional de Transparencia,
 Acceso a la Información y Protección de Datos
+
 Personales deberá entregar a la citada dependencia
 la información y formatos necesarios para integrar la
 Cuenta Pública y demás informes correspondientes al
@@ -1450,7 +1475,6 @@ Instituto Nacional de Transparencia, Acceso a la
 Información y Protección de Datos Personales, así
 como los sistemas informáticos utilizados por dicho
 Instituto, incluso los que ya no se utilicen pero
-
 contengan
 registros
 históricos,
@@ -1475,6 +1499,7 @@ judiciales
 de
 los
 actos
+
 administrativos y jurídicos emitidos por el Instituto
 Nacional de Transparencia, Acceso a la Información y
 Protección de Datos Personales, en materia de
@@ -1485,7 +1510,6 @@ Autoridad garante competente aquellos asuntos que
 se mencionan en los párrafos anteriores que le
 corresponda conforme al ámbito de sus atribuciones
 para su atención.
-
 Décimo.- Los procedimientos iniciados con
 anterioridad a la entrada en vigor de este Decreto
 ante el Instituto Nacional de Transparencia, Acceso a
@@ -1509,6 +1533,7 @@ Protección de Datos Personales, en materia de datos
 personales o cualquier otra distinta a la mencionada
 en el transitorio anterior, así como el seguimiento de
 los que se encuentren en trámite, incluso los
+
 procedimientos penales y laborales, se llevará a cabo
 por la Secretaría Anticorrupción y Buen Gobierno.
 La Secretaría Anticorrupción y Buen Gobierno podrá
@@ -1516,7 +1541,6 @@ remitir a la Autoridad garante competente aquellos
 asuntos que se mencionan en los párrafos anteriores
 que le corresponda conforme al ámbito de sus
 atribuciones para su atención.
-
 Décimo Primero.- Los municipios podrán cumplir
 con las obligaciones a su cargo en materia de
 transparencia y acceso a la información, en términos
@@ -1542,11 +1566,11 @@ a la Información y Protección de Datos Personales
 para el ejercicio de sus facultades sustantivas,
 competencias o funciones, de conformidad con la Ley
 General de Archivos y demás disposiciones jurídicas
+
 aplicables, serán transferidos a la Secretaría
 Anticorrupción y Buen Gobierno dentro de los veinte
 días hábiles siguientes a la entrada en vigor del
 presente Decreto.
-
 La Secretaría Anticorrupción y Buen Gobierno,
 dentro de los treinta días naturales siguientes
 contados a partir de que se reciban los expedientes y
@@ -1598,10 +1622,10 @@ en términos de lo previsto en el transitorio Cuarto del
 Decreto por el que se reforman, adicionan y derogan
 diversas disposiciones de la Constitución Política de
 los Estados Unidos Mexicanos, en materia de
-
 simplificación orgánica, publicado en el Diario Oficial
 de la Federación el 20 de diciembre de 2024, la
 persona titular del poder ejecutivo local de que se
+
 trate será integrante del Consejo del Sistema
 Nacional de Acceso a la Información Pública.
 Décimo Séptimo.- La persona titular de la
@@ -1623,7 +1647,6 @@ treinta días naturales contados a partir de la entrada
 en vigor del presente Decreto deberán realizar las
 adecuaciones necesarias a su normativa interna para
 dar cumplimiento a lo dispuesto en este instrumento.
-
 Para efectos de lo previsto en este transitorio, se
 suspenden por un plazo de noventa días naturales
 contados a partir de la entrada en vigor de este
@@ -1632,6 +1655,7 @@ procedimientos y demás medios de impugnación,
 establecidos en este instrumento y demás normativa
 aplicable, con excepción de la recepción y atención
 de las solicitudes de información que se tramitan a
+
 través de la Plataforma Nacional de Transparencia
 por las autoridades que se mencionan en el párrafo
 anterior.
@@ -1649,7 +1673,6 @@ federativas en la presente Ley.
 Vigésimo.- El Poder Judicial de la Federación
 deberá habilitar juzgados de Distrito y tribunales
 Colegiados de Circuito especializados en materia de
-
 acceso a la información pública y protección de datos
 personales, en un plazo no mayor a ciento veinte días
 naturales contados a partir de la entrada en vigor del
@@ -1662,6 +1685,7 @@ naturales contados a partir de la entrada en vigor de
 este Decreto los plazos y términos procesales de los
 juicios de amparo en materia de acceso a la
 información pública y protección de datos personales
+
 que se encuentran en trámite ante juzgados de
 Distrito y tribunales Colegiados de Circuito.
 Ciudad de México, a 20 de marzo de 2025.- Sen.
@@ -1675,7 +1699,6 @@ Unidos Mexicanos, y para su debida publicación y
 observancia, expido el presente Decreto en la
 Residencia del Poder Ejecutivo Federal, en la Ciudad
 de México, a 20 de marzo de 2025.- Claudia
-
 Sheinbaum Pardo, Presidenta de los Estados Unidos
 Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez
 Velázquez, Secretaria de Gobernación.- Rúbrica.
