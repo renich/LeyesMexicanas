@@ -30,12 +30,12 @@ DEL
 ESTADO,
 PETRÓLEOS
 MEXICANOS; LA LEY DEL SECTOR ELÉCTRICO;
+
 LA LEY DEL SECTOR HIDROCARBUROS; LA LEY
 DE PLANEACIÓN Y TRANSICIÓN ENERGÉTICA;
 LA LEY DE BIOCOMBUSTIBLES; LA LEY DE
 GEOTERMIA Y, LA LEY DE LA COMISIÓN
 NACIONAL DE ENERGÍA; SE REFORMAN
-
 DIVERSAS DISPOSICIONES DE LA LEY DEL
 FONDO MEXICANO DEL PETRÓLEO PARA LA
 ESTABILIZACIÓN Y EL DESARROLLO Y, SE
@@ -60,32 +60,31 @@ Unidos Mexicanos y tiene por objeto regular y
 promover el desarrollo sustentable de los
 Biocombustibles, con el fin de coadyuvar con la
 soberanía, justicia y autosuficiencia energética, como
+
 parte de la diversificación y de la transición
 energética, y establece las bases para:
 I.
 
-Promover el aprovechamiento y valorización
-de los residuos orgánicos para la Producción
-de Biocombustibles;
+Promover el aprovechamiento y valorización de
+los residuos orgánicos para la Producción de
+Biocombustibles;
 
 II.
 
-Promover la producción sustentable de
-Biomasa
-para
-la
-Producción
-de
-Biocombustibles en Suelos Marginales que no
-provengan de insumos primarios de origen
-vegetal destinados para el consumo humano,
+Promover la producción sustentable de Biomasa
+para la Producción de Biocombustibles en
+Suelos Marginales que no provengan de
+insumos primarios de origen vegetal destinados
+para el consumo humano, salvo los
+provenientes de los excedentes de caña de
+azúcar y del sorgo;
 
-salvo los provenientes de los excedentes de
-caña de azúcar y del sorgo;
 III. Desarrollar e impulsar mecanismos para
 incentivar el uso directo de la Biomasa como
 Biocombustible; la Producción, importación,
-exportación, Almacenamiento, Transporte,
+exportación,
+Almacenamiento,
+Transporte,
 Comercialización, Distribución, y el Expendio al
 Público de Biocombustibles;
 IV. Contribuir con la reducción de las emisiones
@@ -93,11 +92,17 @@ contaminantes a la atmósfera, así como de
 gases y compuestos de efecto invernadero,
 mediante el desarrollo sustentable de los
 Biocombustibles, y
-V. Coordinar acciones entre los Gobiernos
-Federal, de las entidades federativas, de los
-municipios y las demarcaciones territoriales de
-la Ciudad de México, así como la concertación
-con los sectores social y privado para el
+V. Coordinar acciones entre los Gobiernos Federal,
+de las entidades federativas, de los municipios y
+las demarcaciones territoriales de la Ciudad de
+México, así como la concertación con los
+
+sectores
+social
+y
+privado
+para
+el
 aprovechamiento y valorización de los residuos
 orgánicos
 para
@@ -114,7 +119,6 @@ Energética, la Ley del Sector Hidrocarburos, la Ley
 General para la Prevención y Gestión Integral de los
 Residuos, la Ley de Desarrollo Rural Sustentable y
 las siguientes:
-
 I.
 
 Almacenamiento: Depósito y resguardo de
@@ -136,64 +140,57 @@ Biocombustible;
 III. Biomasa: La materia renovable de origen
 orgánico cuyo contenido energético es
 susceptible de ser aprovechado como
+
 Biocombustible. Se excluye a la materia de
 origen orgánico contenida en yacimientos y
 formaciones geológicas fosilizadas conocida
 como hidrocarburos;
-IV. Bitácora: Informe a través del cual las
-personas
-titulares
+IV. Bitácora: Informe a través del cual las personas
+titulares de los permisos proporcionan a la
+Secretaría
 de
-los
-permisos
-proporcionan a la Secretaría de Energía la
-información relacionada con sus actividades;
+Energía
+la
+información
+relacionada con sus actividades;
 V. Comercialización: La venta al mayoreo de
 Biocombustibles cuya enajenación no está
 destinada a la venta al menudeo o al consumo
 final, excepto para el consumo propio;
 VI. Distribución: Actividad que consiste en adquirir,
 recibir, guardar, trasladar y, en su caso,
-conducir un determinado volumen de
+conducir
+un
+determinado
+volumen
+de
 Biocombustibles
 desde
 una
 ubicación
-
 determinada hacia uno o varios destinos
 previamente asignados para su venta a
 personas Permisionarias de Expendio al
 Público;
-VII. Estrategia: La Estrategia
-Transición Energética;
+VII. Estrategia: La Estrategia Nacional de Transición
+Energética;
+VIII. Expendio al Público: La enajenación al menudeo
+hacia el consumidor final, en instalaciones con
+fin específico o multimodal, incluyendo
+estaciones de servicio, de compresión y de
+carburación, entre otras;
 
-Nacional
-
-de
-
-VIII. Expendio al Público: La enajenación al
-menudeo hacia el consumidor final, en
-instalaciones con fin específico o multimodal,
-incluyendo estaciones de servicio, de
-compresión y de carburación, entre otras;
 IX. Ley: La Ley de Biocombustibles;
-X. Producción:
-Los
-procesos
-de
-acondicionamiento
+X. Producción: Los procesos de acondicionamiento
 o
 transformación
 necesarios
 para
 el
-aprovechamiento
-energético o la transformación de la Biomasa
-que lo requiera para su uso como
-Biocombustibles,
-en
-instalaciones
-determinadas para dicho fin;
+aprovechamiento energético o la transformación
+de la Biomasa que lo requiera para su uso como
+Biocombustibles, en instalaciones determinadas
+para dicho fin;
 XI. Reglamento: El Reglamento de la Ley de
 Biocombustibles;
 XII. Registro: El Registro
@@ -202,6 +199,7 @@ XIII. SADER: La Secretaría
 Desarrollo Rural;
 
 de
+
 de
 
 permisos
@@ -210,34 +208,35 @@ para
 
 Agricultura
 
-XIV. SEMARNAT: La Secretaría
-Ambiente y Recursos Naturales;
-
-de
-
 y
 
-Medio
-
+XIV. SEMARNAT: La Secretaría de Medio Ambiente
+y Recursos Naturales;
 XV. SENER: La Secretaría de Energía;
 XVI. Subsistema: El Sistema de Información en
-Materia de Biocombustibles, administrado por
-
-la SENER y que forma parte del Sistema
-Nacional de Información Energética;
+Materia de Biocombustibles, administrado por la
+SENER y que forma parte del Sistema Nacional
+de Información Energética;
 XVII. Suelos Marginales: Hace referencia a los
 espacios abandonados como consecuencia de
 su escaso valor productivo, estos suelos
+
 generalmente cuentan con un bajo valor de
 nutrientes para ser utilizados para cultivos
 intensivos, y
-XVIII. Transporte: Actividad de recibir, entregar y,
+XVIII.
+Transporte: Actividad de recibir, entregar y,
 en su caso, conducir Biocombustibles de un
-lugar a otro por medio de ductos u otros
-medios, que no conlleva la Enajenación o
-Comercialización de dicho producto por parte
-de quien la realiza. Se excluye de esta
-definición la Distribución.
+lugar a otro por medio de ductos u otros medios,
+que
+no
+conlleva
+la
+Enajenación
+o
+Comercialización de dicho producto por parte de
+quien la realiza. Se excluye de esta definición la
+Distribución.
 Artículo 3.- En todo lo no previsto en la presente
 Ley, se deben aplicar las disposiciones contenidas en
 la Ley de Planeación y Transición Energética, la Ley
@@ -254,9 +253,9 @@ tratados internacionales de los que México sea parte.
 TÍTULO SEGUNDO
 De las Autoridades Competentes y de la
 Coordinación
-
 Capítulo I
 De las Autoridades Competentes
+
 Artículo 4.- La interpretación para efectos
 administrativos y la aplicación de esta Ley
 corresponde al Ejecutivo Federal, a través de la
@@ -270,7 +269,9 @@ Formular, conducir y coordinar la política
 nacional en materia de Biocombustibles, a
 través del uso directo de la Biomasa como
 Biocombustible, la Producción, importación,
-exportación, Almacenamiento, Transporte,
+exportación,
+Almacenamiento,
+Transporte,
 Comercialización, Distribución y el Expendio al
 Público de Biocombustibles;
 
@@ -278,22 +279,32 @@ II.
 
 Promover el uso de las mejores prácticas y
 tecnologías en la Producción, uso, importación,
-exportación, Almacenamiento, Transporte,
+exportación,
+Almacenamiento,
+Transporte,
 Comercialización, Distribución y Expendio al
 Público de Biocombustibles;
 
 III. Elaborar programas que promuevan el uso
-directo de la Biomasa como Biocombustibles,
-la Producción de Biocombustibles y su uso
+directo de la Biomasa como Biocombustibles, la
+Producción de Biocombustibles y su uso
 sustentable;
 IV. Diseñar, desarrollar, proponer y, en su caso,
 aplicar instrumentos de carácter fiscal,
 financiero o de mercado que promuevan e
-incentiven el uso directo de la Biomasa como
-Biocombustible, la Producción de los
-Biocombustibles, su uso y el Almacenamiento,
 
-el Transporte, la Comercialización, la
+incentiven el uso directo de la Biomasa como
+Biocombustible,
+la
+Producción
+de
+los
+Biocombustibles, su uso y el Almacenamiento,
+el
+Transporte,
+la
+Comercialización,
+la
 Distribución y el Expendio al Público de los
 Biocombustibles, en coordinación con las
 dependencias y entidades de la Administración
@@ -322,82 +333,89 @@ Biocombustibles en el Subsistema;
 
 sobre
 
-VIII. Integrar la información sobre el impacto del
-uso de Biocombustibles en el Balance
-Nacional
-de
-Energía
-y
-Escenarios
-Prospectivos de Energía, así como evaluar su
-impacto en el seno del Consejo para la
-Planeación Energética;
+VIII. Integrar la información sobre el impacto del uso
+de Biocombustibles en el Balance Nacional de
+Energía y Escenarios Prospectivos de Energía,
+así como evaluar su impacto en el seno del
+Consejo para la Planeación Energética;
+
 IX. Otorgar, modificar, actualizar, suspender y
 revocar permisos para la Producción, la
-importación,
-la
-exportación,
-el
-Almacenamiento,
+importación, la exportación, el Almacenamiento,
 el
 Transporte,
 la
-Comercialización, la Distribución y el Expendio
-al Público de Biocombustibles;
-
-X. Autorizar la Producción de Biocombustibles
-para las actividades de investigación científica,
+Comercialización,
+la
+Distribución y el Expendio al Público de
+Biocombustibles;
+X. Autorizar la Producción de Biocombustibles para
+las actividades de investigación científica,
 tecnológica, o cualquier otra previstas en el
 Reglamento de la presente Ley;
 XI. Integrar, organizar, actualizar y llevar el control
 del Registro;
-XII. Integrar, organizar, actualizar, verificar el
+XII. Integrar, organizar, actualizar, verificar
 contenido y llevar el control de las Bitácoras;
+
+el
+
 XIII. Emitir las disposiciones administrativas de
 carácter general para la regulación de las
-actividades, permisos, y requisitos de
+actividades,
+permisos,
+y
+requisitos
+de
 información sobre la Producción, importación,
-exportación, Almacenamiento, Transporte,
+exportación,
+Almacenamiento,
+Transporte,
 Comercialización, Distribución y Expendio al
 Público de Biocombustibles;
 XIV. Regular y expedir las Normas Oficiales
-Mexicanas y, en su caso, lineamientos y
-demás
-disposiciones,
-en
-materia
-de
-Biocombustibles, sobre los requisitos, la
-calidad, las características y las medidas de
-seguridad; el uso de las mejores prácticas y
-tecnologías disponibles, con relación al uso
-directo de la Biomasa como Biocombustible, y
-la Producción, Almacenamiento, Transporte,
-Comercialización, Distribución y el Expendio al
-Público de Biocombustibles;
+Mexicanas y, en su caso, lineamientos y demás
+disposiciones, en materia de Biocombustibles,
+sobre
+los
+requisitos,
+la
+calidad,
+las
+características y las medidas de seguridad; el
+uso de las mejores prácticas y tecnologías
+
+disponibles, con relación al uso directo de la
+Biomasa como Biocombustible, y la Producción,
+Almacenamiento, Transporte, Comercialización,
+Distribución y el Expendio al Público de
+Biocombustibles;
 XV. Vigilar e inspeccionar el cumplimiento de las
 leyes y disposiciones en materia de
 Biocombustibles aplicables al uso directo de la
 Biomasa como Biocombustible, la Producción,
-importación, exportación, Almacenamiento,
-
+importación, exportación,
+Almacenamiento,
 Transporte, Comercialización, Distribución y
 Expendio al Público de Biocombustibles;
-XVI. Ordenar medidas de seguridad e imponer
-las sanciones por infracciones a la presente
-Ley y las demás disposiciones que deriven de
-esta, en lo relativo a la Producción,
-importación, exportación, Almacenamiento,
-Transporte, Comercialización, Distribución y
-Expendio al Público de Biocombustibles, y
-XVII. Promover con la SADER y la SEMARNAT,
-en el ámbito de sus competencias, la creación
-de programas para la producción sustentable
-de Biomasa en Suelos Marginales para la
+XVI. Ordenar medidas de seguridad e imponer las
+sanciones por infracciones a la presente Ley y
+las demás disposiciones que deriven de esta, en
+lo relativo a la Producción, importación,
+exportación,
+Almacenamiento,
+Transporte,
+Comercialización, Distribución y Expendio al
+Público de Biocombustibles, y
+XVII. Promover con la SADER y la SEMARNAT, en
+el ámbito de sus competencias, la creación de
+programas para la producción sustentable de
+Biomasa en Suelos Marginales para la
 Producción de Biocombustibles y para la
 producción de Biocombustibles a partir de
 cultivos orgánicos, cultivo de organismos o el
 aprovechamiento de residuos orgánicos.
+
 Artículo 6.- Para los efectos de la presente Ley, la
 SEMARNAT, tiene las siguientes facultades:
 I.
@@ -411,14 +429,13 @@ Producción;
 
 II.
 
-Promover el aprovechamiento y valorización
-de los residuos orgánicos y el tratamiento de
-aguas residuales para su uso directo como
+Promover el aprovechamiento y valorización de
+los residuos orgánicos y el tratamiento de aguas
+residuales para su uso directo como
 Biocombustibles o para su Producción;
 
 III. Elaborar programas que promuevan el
 aprovechamiento y valorización de los residuos
-
 orgánicos y el tratamiento de aguas residuales
 para su uso directo como Biocombustibles o
 para su Producción;
@@ -427,21 +444,23 @@ de la atmósfera, el agua y el suelo por la
 producción de Biomasa, el aprovechamiento y
 valorización de residuos, el uso directo de
 Biomasa como Biocombustibles, así como la
-Producción, Almacenamiento, Transporte,
+Producción,
+Almacenamiento,
+Transporte,
 Comercialización, Distribución y el Expendio al
 Público de los Biocombustibles;
 V. Regular y supervisar la seguridad industrial y
 operativa, el desmantelamiento y abandono de
+
 instalaciones, y el control integral de residuos y
 emisiones a la atmósfera del aprovechamiento
-energético de residuos orgánicos, el uso
-directo de Biomasa como Biocombustibles, así
-como
-la
+energético de residuos orgánicos, el uso directo
+de Biomasa como Biocombustibles, así como la
 Producción,
 Almacenamiento,
-Transporte, Comercialización, Distribución y
-Expendio al Público de los Biocombustibles;
+Transporte,
+Comercialización, Distribución y Expendio al
+Público de los Biocombustibles;
 VI. La evaluación del impacto ambiental de la
 construcción y operación de las instalaciones
 para
@@ -452,11 +471,13 @@ Transporte, Comercialización, Distribución y el
 Expendio al Público de los Biocombustibles, de
 conformidad con las disposiciones legales
 aplicables;
-VII. Iniciar, tramitar y resolver, en los términos de
-las disposiciones legales y reglamentarias
+VII. Iniciar, tramitar y resolver, en los términos de las
+disposiciones
+legales
+y
+reglamentarias
 aplicables, los procedimientos administrativos
 que correspondan con motivo de sus
-
 atribuciones, aplicables al uso directo de
 Biomasa
 como
@@ -468,93 +489,87 @@ así
 como
 la
 Producción,
-Almacenamiento,
-Transporte,
-Comercialización, Distribución y el Expendio al
-Público de los Biocombustibles;
+Almacenamiento, Transporte, Comercialización,
+Distribución y el Expendio al Público de los
+Biocombustibles;
 VIII. Aplicar las regulaciones en materia ambiental,
-forestal, de vida silvestre, de gestión integral
-de los residuos, de emisiones a la atmósfera y
-de bioseguridad de organismos genéticamente
+forestal, de vida silvestre, de gestión integral de
+los residuos, de emisiones a la atmósfera y de
+bioseguridad de organismos genéticamente
+
 modificados para asegurar la preservación,
 restauración y aprovechamiento sustentable de
-los recursos naturales y de la biodiversidad en
-el
-uso
-directo
-de
-Biomasa
+los recursos naturales y de la biodiversidad en el
+uso directo de Biomasa como Biocombustibles,
+el aprovechamiento y valorización de residuos
+orgánicos,
+así
 como
-Biocombustibles, el aprovechamiento y
-valorización de residuos orgánicos, así como la
-Producción, Almacenamiento, Transporte,
-Comercialización, Distribución y el Expendio al
-Público de los Biocombustibles;
+la
+Producción,
+Almacenamiento, Transporte, Comercialización,
+Distribución y el Expendio al Público de los
+Biocombustibles;
 IX. Evaluar los aspectos de sustentabilidad de los
-programas derivados de la presente Ley para
-la producción de Biomasa, el aprovechamiento
-y valorización de residuos orgánicos y el uso
+programas derivados de la presente Ley para la
+producción de Biomasa, el aprovechamiento y
+valorización de residuos orgánicos y el uso
 sustentable de Biocombustibles, así como el
 impacto ambiental de su ejecución;
-X. Regular y, en su caso, expedir Normas
-Oficiales Mexicanas y demás disposiciones
-administrativas de carácter general relativas a
-la protección al medio ambiente, la seguridad
+X. Regular y, en su caso, expedir Normas Oficiales
+Mexicanas
+y
+demás
+disposiciones
+administrativas de carácter general relativas a la
+protección al medio ambiente, la seguridad
 industrial y operativa, el desmantelamiento y
 abandono de instalaciones, y el control integral
-
-de residuos y emisiones a la atmósfera, del
-uso
-directo
-de
-la
-Biomasa
-como
-Biocombustible,
+de residuos y emisiones a la atmósfera, del uso
+directo de la Biomasa como Biocombustible, el
+aprovechamiento y valorización de residuos
+orgánicos y el tratamiento de agua residuales
+para su uso como Biocombustibles o su
+Producción,
 el
-aprovechamiento
-y
-valorización de residuos orgánicos y el
-tratamiento de agua residuales para su uso
-como Biocombustibles o su Producción, el uso
-sustentable de Biocombustibles, así como la
-Producción, Almacenamiento, Transporte,
-Comercialización, Distribución y el Expendio al
-Público de los Biocombustibles, y controlar y
-vigilar su debido cumplimiento;
+uso
+sustentable
+de
+Biocombustibles, así como la Producción,
+Almacenamiento, Transporte, Comercialización,
+Distribución y el Expendio al Público de los
+
+Biocombustibles, y controlar y vigilar su debido
+cumplimiento;
 XI. Emitir dictámenes en materia ambiental,
-seguridad industrial y operativa que le permita
-a la autoridad competente contar con
-elementos para la revocación de permisos o
-autorizaciones en materia de Biocombustibles,
-cuyas actividades afecten o pongan en riesgo
-el medio ambiente;
+seguridad industrial y operativa que le permita a
+la autoridad competente contar con elementos
+para la revocación de permisos o autorizaciones
+en materia de Biocombustibles, cuyas
+actividades afecten o pongan en riesgo el medio
+ambiente;
 XII. Vigilar que no se realice el cambio de uso de
 suelo de forestal a agrícola con el fin de
 establecer cultivos para la producción de
 Biomasa para Biocombustibles;
 XIII. Coadyuvar con la SENER en la integración y
 actualización de la información que forme parte
-del
-Subsistema
-en
-materia
-de
-Biocombustibles, el aprovechamiento y
-valorización de residuos orgánicos y el
-tratamiento de aguas residuales para su uso
-como Biocombustibles o para su Producción, y
+del Subsistema en materia de Biocombustibles,
+el aprovechamiento y valorización de residuos
+orgánicos y el tratamiento de aguas residuales
+para su uso como Biocombustibles o para su
+Producción, y
 XIV. Coordinar con la SENER la elaboración de
 programas
 para
 la
 Producción
 de
-
 Biocombustibles a partir del aprovechamiento y
 valorización de residuos orgánicos, cultivos de
 organismos y el tratamiento de aguas
 residuales.
+
 Artículo 7.- Para los efectos de la presente Ley, la
 SADER, tiene las siguientes facultades:
 I.
@@ -562,10 +577,13 @@ I.
 Formular, conducir y coordinar la política
 nacional en materia de Biomasa obtenida a
 partir de cultivos en Suelos Marginales o el
-aprovechamiento de residuos orgánicos
-derivados de las actividades agropecuarias
-para su uso directo como Biocombustible o
-para su Producción;
+aprovechamiento
+de
+residuos
+orgánicos
+derivados de las actividades agropecuarias para
+su uso directo como Biocombustible o para su
+Producción;
 
 II.
 
@@ -573,9 +591,9 @@ Elaborar y coordinar la ejecución del Programa
 para la producción sustentable de Biomasa
 obtenida a partir de cultivos en Suelos
 Marginales o el aprovechamiento de residuos
-derivados de las actividades agropecuarias
-para su uso directo como Biocombustible o
-para su Producción;
+derivados de las actividades agropecuarias para
+su uso directo como Biocombustible o para su
+Producción;
 
 III. Evaluar el impacto sobre la seguridad y
 soberanía alimentarias y el desarrollo rural,
@@ -584,41 +602,42 @@ producción sustentable de Biomasa obtenida a
 partir de cultivos en Suelos Marginales para la
 Producción de Biocombustibles;
 IV. Apoyar a la SENER en la integración y
-actualización de la información sobre la
-cadena productiva de la Biomasa obtenida a
-partir de cultivos en Suelos Marginales o el
+actualización de la información sobre la cadena
+productiva de la Biomasa obtenida a partir de
+cultivos
+en
+Suelos
+Marginales
+o
+el
 aprovechamiento de residuos derivados de las
-
 actividades agropecuarias para su uso directo
-como Biocombustible o para su Producción
-para su integración al Subsistema;
+
+como Biocombustible o para su Producción para
+su integración al Subsistema;
 V. Otorgar, modificar, actualizar, suspender y
-revocar permisos previos para la producción
-de Biomasa para la Producción de
-Biocombustibles provenientes de la caña de
-azúcar y del sorgo, los cuales se deben otorgar
-solamente
-cuando
-existan
-inventarios
-excedentes de producción interna para
-satisfacer el consumo nacional;
-VI. Recibir los avisos de siembra que presenten
-las personas interesadas en producir Biomasa
+revocar permisos previos para la producción de
+Biomasa para la Producción de Biocombustibles
+provenientes de la caña de azúcar y del sorgo,
+los cuales se deben otorgar solamente cuando
+existan inventarios excedentes de producción
+interna para satisfacer el consumo nacional;
+VI. Recibir los avisos de siembra que presenten las
+personas interesadas en producir Biomasa
 obtenida a partir de cultivos en Suelos
 Marginales
 para
 la
 Producción
 de
-Biocombustibles, que no provengan de
-insumos
-primarios
-de
-origen
-vegetal
-destinados para el consumo humano;
-VII. Instrumentar en el Registro Nacional
+Biocombustibles, que no provengan de insumos
+primarios de origen vegetal destinados para el
+consumo humano;
+VII. Instrumentar
+en
+el
+Registro
+Nacional
 Agropecuario de la SADER, el Registro de los
 permisos previos y de los avisos de siembra
 presentados para producir Biomasa obtenida a
@@ -627,64 +646,69 @@ Biocombustibles, así como de los predios para
 desarrollar la agroindustria que procesa la
 Biomasa, a fin de dar seguimiento a su
 trazabilidad;
-VIII. Regular y, en su caso, expedir Normas
-Oficiales Mexicanas relativas a la Biomasa
-obtenida a partir de cultivos en Suelos
-Marginales o el aprovechamiento de residuos
+VIII. Regular y, en su caso, expedir Normas Oficiales
+Mexicanas relativas a la Biomasa obtenida a
+partir de cultivos en Suelos Marginales o el
 
-orgánicos derivados de las actividades
-agropecuarias para la Producción de
-Biocombustibles, así como controlar y vigilar
-su debido cumplimiento;
+aprovechamiento
+de
+residuos
+orgánicos
+derivados de las actividades agropecuarias para
+la Producción de Biocombustibles, así como
+controlar y vigilar su debido cumplimiento;
 IX. Diseñar, desarrollar, proponer y en su caso,
 aplicar, instrumentos de carácter fiscal,
 financiero y de mercado que promuevan e
 incentiven la cadena productiva sustentable de
 la Biomasa obtenida a partir de cultivos en
 Suelos Marginales o el aprovechamiento de
-residuos
-orgánicos
-derivados
+residuos orgánicos derivados de las actividades
+agropecuarias para su uso directo como
+Biocombustible o para su Producción, en
+coordinación con las dependencias y entidades
 de
-las
-actividades agropecuarias para su uso directo
-como Biocombustible o para su Producción, en
-coordinación con las dependencias y
-entidades de la Administración Pública Federal
+la
+Administración
+Pública
+Federal
 competentes;
-X. Asesorar a las personas productoras para que
-la cadena productiva sustentable de la
-Biomasa obtenida a partir de cultivos en
-Suelos Marginales o el aprovechamiento de
-residuos
-orgánicos
-derivados
-de
-las
-actividades agropecuarias para su uso directo
-como Biocombustible o para su Producción se
-realice de acuerdo con las mejores prácticas
-que
-las
-investigaciones
-científicas
-y
-tecnológicas aconsejen;
+X. Asesorar a las personas productoras para que la
+cadena productiva sustentable de la Biomasa
+obtenida a partir de cultivos en Suelos
+Marginales o el aprovechamiento de residuos
+orgánicos derivados de las actividades
+agropecuarias para su uso directo como
+Biocombustible o para su Producción se realice
+de acuerdo con las mejores prácticas que las
+investigaciones científicas y tecnológicas
+aconsejen;
 XI. Facilitar la organización productiva de las
 personas productoras y demás agentes
 relacionadas con la cadena productiva
-sustentable de Biomasa obtenida a partir de
-cultivos en Suelos Marginales o el
-aprovechamiento de residuos orgánicos
 
-derivados de las actividades agropecuarias
-para su uso directo como Biocombustible o
-para su Producción, a través de mecanismos
-de comunicación, concertación y planeación;
+sustentable de Biomasa obtenida a partir de
+cultivos
+en
+Suelos
+Marginales
+o
+el
+aprovechamiento
+de
+residuos
+orgánicos
+derivados de las actividades agropecuarias para
+su uso directo como Biocombustible o para su
+Producción, a través de mecanismos de
+comunicación, concertación y planeación;
 XII. Emitir dictámenes que le permita a la autoridad
 competente contar con elementos para la
-revocación de permisos o autorizaciones para
-la Producción de Biocombustibles, cuyas
+revocación de permisos o autorizaciones para la
+Producción
+de
+Biocombustibles,
+cuyas
 actividades afecten o pongan en riesgo la
 seguridad y soberanía alimentaria del país;
 XIII. Vigilar
@@ -695,32 +719,26 @@ Producción
 de
 Biocombustibles no se utilicen insumos
 primarios de origen vegetal destinados para
-consumo
-humano
-en
-sus
-diversas
-modalidades, salvo los excedentes de caña de
-azúcar o del sorgo, con la finalidad de procurar
-en
-todo
-momento
-la
-autosuficiencia
-alimentaria;
+consumo humano en sus diversas modalidades,
+salvo los excedentes de caña de azúcar o del
+sorgo, con la finalidad de procurar en todo
+momento la autosuficiencia alimentaria;
 XIV. Imponer las sanciones por infracciones a lo
 establecido en la presente Ley y las demás
 disposiciones que deriven de la misma, en lo
-relativo a la cadena productiva sustentable de
-la Biomasa obtenida a partir de cultivos o el
-aprovechamiento de residuos orgánicos
-derivados de las actividades agropecuarias
-para su uso directo como Biocombustible o
-para su Producción;
+relativo a la cadena productiva sustentable de la
+Biomasa obtenida a partir de cultivos o el
+aprovechamiento
+de
+residuos
+orgánicos
+derivados de las actividades agropecuarias para
+su uso directo como Biocombustible o para su
+Producción;
+
 XV. Coadyuvar con la SENER en la integración y
 actualización de la información que forme parte
 del Subsistema, y
-
 XVI. Coordinar con la SENER la elaboración de
 programas para la producción sustentable de
 Biocombustibles.
@@ -743,6 +761,7 @@ Ciudad de México, con el objeto de establecer las
 bases de participación, en el ámbito de sus
 competencias, para instrumentar las acciones
 necesarias para el cumplimiento de esta Ley.
+
 Artículo 9.- Para instrumentar las acciones
 necesarias para el cumplimiento de esta Ley, los
 convenios o acuerdos de coordinación que suscriban
@@ -751,56 +770,57 @@ Pública Federal con los gobiernos de las entidades
 federativas, los municipios y las demarcaciones
 territoriales de la Ciudad de México pueden tener por
 objeto, entre otros:
-
 I.
 
 Impulsar la creación de empresas mexicanas
 cuyo objeto sea el aprovechamiento y
 valorización de los residuos orgánicos para su
-uso directo como Biocombustible o, en su
-caso, como insumo para la Producción de
+uso directo como Biocombustible o, en su caso,
+como insumo para la Producción de
 Biocombustibles;
 
 II.
 
-Impulsar la creación a nivel nacional de
-personal capacitado, recursos materiales y
-financieros, así como la estructura institucional
-específica para el desarrollo de actividades, las
-capacidades técnicas y de supervisión y
-control que les permitan asumir facultades que
-para tales efectos requiera la autoridad federal
-en materia de Biocombustibles;
+Impulsar la creación a nivel nacional de personal
+capacitado, recursos materiales y financieros,
+así como la estructura institucional específica
+para el desarrollo de actividades, las
+capacidades técnicas y de supervisión y control
+que les permitan asumir facultades que para
+tales efectos requiera la autoridad federal en
+materia de Biocombustibles;
 
 III. Aplicar criterios de sustentabilidad establecidos
-en la regulación aplicable para la producción
-de Biomasa en Suelos Marginales, el
+en la regulación aplicable para la producción de
+Biomasa
+en
+Suelos
+Marginales,
+el
 aprovechamiento y valorización de residuos
 orgánicos y el tratamiento de aguas residuales
 para su uso como Biocombustibles o para su
 Producción, el uso directo de Biomasa como
-Biocombustible, así como la Producción,
-Almacenamiento,
-Transporte,
-Comercialización, Distribución y Expendio al
-Público de Biocombustibles, a efecto de
-salvaguardar el medio ambiente y la seguridad
-y soberanía alimentaria y energética del país;
-IV. Promover el aprovechamiento y valorización
-de residuos orgánicos y el tratamiento de
-aguas residuales para su uso como
-Biocombustibles o para su Producción, así
 
-como el uso directo de Biomasa como
-Biocombustible;
+Biocombustible, así como la Producción,
+Almacenamiento, Transporte, Comercialización,
+Distribución y Expendio al Público de
+Biocombustibles, a efecto de salvaguardar el
+medio ambiente y la seguridad y soberanía
+alimentaria y energética del país;
+IV. Promover el aprovechamiento y valorización de
+residuos orgánicos y el tratamiento de aguas
+residuales para su uso como Biocombustibles o
+para su Producción, así como el uso directo de
+Biomasa como Biocombustible;
 V. Fomentar la investigación, el desarrollo
 tecnológico, la transferencia de tecnología y la
 capacitación para el aprovechamiento y
 valorización de residuos orgánicos y el
 tratamiento de aguas residuales para su uso
-como Biocombustibles o para su Producción,
-así como la producción sustentable de la
-Biomasa en Suelos Marginales;
+como Biocombustibles o para su Producción, así
+como la producción sustentable de la Biomasa
+en Suelos Marginales;
 VI. Establecer
 mecanismos
 conjuntos
@@ -810,13 +830,9 @@ con organizaciones sociales y privadas, para el
 aprovechamiento y valorización de residuos
 orgánicos y el tratamiento de aguas residuales
 para su uso como Biocombustibles o para su
-Producción,
-así
-como
-la
-producción
-sustentable de la Biomasa en Suelos
-Marginales, y
+Producción, así como la producción sustentable
+de la Biomasa en Suelos Marginales, y
+
 VII. Llevar a cabo acciones para el monitoreo y
 seguimiento en la reducción de las emisiones
 contaminantes a la atmosfera, así como de
@@ -829,7 +845,6 @@ dependencias y entidades de la Administración
 Pública Federal entre sí, o con los gobiernos de las
 entidades federativas o de los municipios y las
 demarcaciones territoriales de la Ciudad de México,
-
 de conformidad con lo previsto en el presente
 Capítulo, deberán sujetarse a las siguientes bases:
 I.
@@ -852,44 +867,39 @@ competentes;
 
 II.
 
-Establecer con precisión su objeto, así como
-las obligaciones dentro de la esfera de su
-competencia que, en su caso, deben asumir
-de manera congruente con los objetivos de los
+Establecer con precisión su objeto, así como las
+obligaciones dentro de la esfera de su
+competencia que, en su caso, deben asumir de
+manera congruente con los objetivos de los
 instrumentos de planeación nacional de
 desarrollo y con la política nacional para el
-desarrollo sustentable de los Biocombustibles,
-el aprovechamiento y valorización de residuos
+desarrollo sustentable de los Biocombustibles, el
+aprovechamiento y valorización de residuos
 orgánicos y el tratamiento de aguas residuales
 para su uso como Biocombustibles o para su
-Producción,
-así
-como
-la
-producción
-sustentable de la Biomasa en Suelos
-Marginales;
+Producción, así como la producción sustentable
+de la Biomasa en Suelos Marginales;
 
 III. Determinar la participación y responsabilidad
 que corresponda a cada una de las partes, así
-
 como los bienes y recursos aportados por las
 mismas, especificando su destino y forma de
 administración. Además, se debe precisar qué
 tipo de facultades se pueden asumir de forma
 inmediata a la firma del convenio o acuerdo y
 cuáles en forma posterior;
-IV. Establecer el órgano u órganos que deben
-llevar a cabo las acciones que resulten de los
+IV. Establecer el órgano u órganos que deben llevar
+a cabo las acciones que resulten de los
 convenios o acuerdos de coordinación, que
-incluyan las acciones de evaluación, así como
-el cronograma de las actividades a realizar;
+incluyan las acciones de evaluación, así como el
+cronograma de las actividades a realizar;
 V. Definir los mecanismos de información que se
 requieran, a fin de que las partes suscriptoras
 puedan asegurar el cumplimiento de su objeto;
-VI. Precisar la vigencia del instrumento, sus
-formas de modificación y terminación y, en su
-caso, el número y duración de sus prórrogas, y
+
+VI. Precisar la vigencia del instrumento, sus formas
+de modificación y terminación y, en su caso, el
+número y duración de sus prórrogas, y
 VII. Los demás acuerdos que las partes consideren
 necesarias para el correcto cumplimiento del
 convenio o acuerdo de coordinación.
@@ -903,7 +913,6 @@ De los Instrumentos para el Desarrollo
 Sustentable de los Biocombustibles
 Capítulo I
 De los Instrumentos de Planeación
-
 Artículo 11.- La Estrategia Nacional de Transición
 Energética debe de incluir las metas para Producción
 de Biocombustibles.
@@ -914,6 +923,7 @@ aprovechamiento y valorización de los residuos
 orgánicos y el tratamiento de aguas residuales para
 su uso directo como Biocombustibles o para su
 Producción, el uso Directo de la Biomasa como
+
 Biocombustible, así como la Producción, importación,
 exportación,
 Almacenamiento,
@@ -927,9 +937,11 @@ Sustentable de la Energía debe contemplar, cuando
 menos, los elementos siguientes:
 I.
 
-Las metas de corto plazo para el uso directo
-de Biomasa como Biocombustible, así como la
-Producción, Almacenamiento, Transporte,
+Las metas de corto plazo para el uso directo de
+Biomasa como Biocombustible, así como la
+Producción,
+Almacenamiento,
+Transporte,
 Comercialización, Distribución y Expendio al
 Público de Biocombustibles y su uso
 sustentable;
@@ -943,18 +955,18 @@ III. Las acciones y los proyectos para el
 aprovechamiento y valorización de los residuos
 orgánicos y el tratamiento de aguas residuales
 para su uso directo como Biocombustibles o
-
 para su Producción, el uso directo de la
 Biomasa como Biocombustible, así como la
 Producción de Biocombustibles y su uso
 sustentable;
 IV. La estimación de los recursos necesarios y su
 fuente de financiamiento para la ejecución de
+
 las acciones y proyectos que permitan el
 cumplimiento de las metas;
 V. La delimitación de:
-a) Las responsabilidades de las dependencias
-y entidades de la Administración Pública
+a) Las responsabilidades de las dependencias y
+entidades de la Administración Pública
 Federal, las cuales deben atender a los
 criterios de transversalidad e integralidad
 previstos en la Estrategia, y
@@ -966,17 +978,17 @@ para el aprovechamiento y valorización de los
 residuos orgánicos y el tratamiento de aguas
 residuales para su uso directo como
 Biocombustibles o para su Producción, el uso
-directo de la Biomasa como Biocombustible,
-así como la Producción de Biocombustibles y
-su uso sustentable.
+directo de la Biomasa como Biocombustible, así
+como la Producción de Biocombustibles y su
+uso sustentable.
 Artículo 14.- La SENER, la SADER y la
 SEMARNAT de manera coordinada, y en el ámbito de
 sus respectivas competencias, pueden elaborar
 programas para promover el desarrollo sustentable de
 los Biocombustibles.
-
 Artículo 15.- Los instrumentos y programas a los
 que se refiere el presente Capítulo de esta Ley,
+
 pueden ser revisados y, en su caso, actualizados
 cada tres años, o antes sí:
 I.
@@ -984,15 +996,11 @@ I.
 Se presenta información que lo justifique
 mediante las evaluaciones de la política
 nacional en materia de Biocombustibles;
-Biomasa obtenida a partir de cultivos en
-Suelos Marginales o el aprovechamiento de
-residuos
-orgánicos
-derivados
-de
-las
-actividades agropecuarias para su uso directo
-como Biocombustible o para su Producción; el
+Biomasa obtenida a partir de cultivos en Suelos
+Marginales o el aprovechamiento de residuos
+orgánicos derivados de las actividades
+agropecuarias para su uso directo como
+Biocombustible o para su Producción; el
 aprovechamiento y valorización de los residuos
 orgánicos y el tratamiento de aguas residuales
 para su uso directo como Biocombustibles o
@@ -1014,9 +1022,9 @@ de Biomasa distinta a la de cultivos en Suelos
 Marginales para la producción de Biocombustibles,
 para lo cual se sujetarán a lo dispuesto en la presente
 sección.
+
 Capítulo II
 De los Instrumentos de Promoción
-
 Artículo 17.- Las dependencias y entidades de la
 Administración Pública Federal, en el ámbito de sus
 respectivas competencias, pueden promover y
@@ -1047,6 +1055,7 @@ financiados no pongan en riesgo el medio ambiente ni
 la seguridad y soberanía alimentaria del país.
 Artículo 19.- La Secretaría de Economía debe
 establecer la metodología para medir el grado de
+
 contenido nacional en la Biomasa, ya sea para su uso
 directo como Biocombustibles o de la Producción de
 Biocombustibles, así como su verificación, para lo
@@ -1054,7 +1063,6 @@ cual puede contar con el apoyo de las autoridades del
 Sector.
 Las empresas cuyo objeto sea la producción de
 Biomasa, para su uso directo como Biocombustible o
-
 para su Producción, así como la Producción de
 Biocombustibles, deben proporcionar información a la
 Secretaría de Economía sobre el grado de contenido
@@ -1092,50 +1100,40 @@ Biocombustibles o para su Producción;
 
 III. Fomentar y desarrollar las mejores prácticas
 para el uso directo de la Biomasa como
-Biocombustible o para su Producción, así
-como
-la
-Producción,
-Almacenamiento,
-Transporte, Comercialización, Distribución y
-
-Expendio al Público de Biocombustibles y su
-uso sustentable;
-IV. Generar información que coadyuve a la toma
-de mejores decisiones en materia de desarrollo
-sustentable de Biocombustibles, por parte de
-las autoridades competentes;
+Biocombustible o para su Producción, así como
+la Producción, Almacenamiento, Transporte,
+Comercialización, Distribución y Expendio al
+Público de Biocombustibles y su uso
+sustentable;
+IV. Generar información que coadyuve a la toma de
+mejores decisiones en materia de desarrollo
+sustentable de Biocombustibles, por parte de las
+autoridades competentes;
 V. Fomentar la viabilidad de los proyectos para el
-uso
-directo
-de
-la
-Biomasa
-como
-Biocombustible o para su Producción, así
-como el aprovechamiento y valorización de los
-residuos orgánicos y el tratamiento de aguas
-residuales para su uso directo como
-Biocombustibles o para su Producción;
+uso directo de la Biomasa como Biocombustible
+o para su Producción, así como el
+aprovechamiento y valorización de los residuos
+orgánicos y el tratamiento de aguas residuales
+para su uso directo como Biocombustibles o
+para su Producción;
 VI. Integrar cadenas productivas, con inclusión
 social, en la Producción sustentable de
 Biocombustibles y su uso sustentable, y
-VII. Reducir al mínimo el impacto sobre la
-seguridad y soberanía alimentaria, el balance
-energético y ambiental, derivados de la
-producción de Biomasa obtenida a partir de
-cultivos en Suelos Marginales o el
-aprovechamiento de residuos orgánicos
-derivados de las actividades agropecuarias
-para su uso directo como Biocombustible o
-para su Producción; el aprovechamiento y
-valorización de los residuos orgánicos y el
-tratamiento de aguas residuales para su uso
-directo como Biocombustibles o para su
-Producción.
+
+VII. Reducir al mínimo el impacto sobre la seguridad
+y soberanía alimentaria, el balance energético y
+ambiental, derivados de la producción de
+Biomasa obtenida a partir de cultivos en Suelos
+Marginales o el aprovechamiento de residuos
+orgánicos derivados de las actividades
+agropecuarias para su uso directo como
+Biocombustible o para su Producción; el
+aprovechamiento y valorización de los residuos
+orgánicos y el tratamiento de aguas residuales
+para su uso directo como Biocombustibles o
+para su Producción.
 Artículo 21.- El Sistema Nacional de Investigación y
 Transferencia Tecnológica para el Desarrollo Rural
-
 Sustentable, previsto en la Ley de Desarrollo Rural
 Sustentable, es la instancia encargada de coordinar y
 orientar la investigación, el desarrollo tecnológico y la
@@ -1148,90 +1146,106 @@ I.
 
 Realizar investigaciones en materia de
 producción de Biomasa en Suelos Marginales
-para el uso directo como Biocombustible o
-para su Producción;
+para el uso directo como Biocombustible o para
+su Producción;
 
 II.
 
 Promover el desarrollo tecnológico en materia
 de producción de Biomasa en Suelos
-Marginales para el uso directo como
+
+Marginales para el uso directo
 Biocombustible o para su Producción;
+
+como
 
 III. Emitir opinión de carácter técnico y científico
 para la administración y conservación de los
-recursos naturales asociados a la producción
-de Biomasa en Suelos Marginales para el uso
+recursos naturales asociados a la producción de
+Biomasa en Suelos Marginales para el uso
 directo como Biocombustible o para su
 Producción;
 IV. Participar en la consulta pública en el marco de
-la elaboración del Programa para la
-Producción Sustentable de Biomasa para
-Biocombustibles;
+la elaboración del Programa para la Producción
+Sustentable de Biomasa para Biocombustibles;
 V. Coordinar la integración y funcionamiento de
 una red nacional de grupos, institutos de
 investigación y universidades, en materia de
 producción de Biomasa en Suelos Marginales
-para el uso directo como Biocombustible o
-
-para su Producción y uso, con la finalidad de
-alcanzar la articulación de acciones, así como
-la optimización de recursos humanos,
-financieros y de infraestructura;
+para el uso directo como Biocombustible o para
+su Producción y uso, con la finalidad de
+alcanzar la articulación de acciones, así como la
+optimización de recursos humanos, financieros y
+de infraestructura;
 VI. Dar asesoramiento científico y técnico a las
 personas agricultoras, principalmente de las
-poblaciones más vulnerables que así lo
-soliciten para conservar, repoblar, fomentar,
-cultivar y desarrollar especies asociadas a la
-producción de Biomasa en Suelos Marginales
-para el uso directo como Biocombustible o
-para su Producción;
-VII. Poner a disposición de las personas
-productoras de Biomasa en Suelos Marginales,
-para el uso directo como Biocombustible o
-para su Producción, los resultados de las
+poblaciones más vulnerables que así lo soliciten
+para conservar, repoblar, fomentar, cultivar y
+desarrollar especies asociadas a la producción
+de Biomasa en Suelos Marginales para el uso
+directo como Biocombustible o para su
+Producción;
+
+VII. Poner a disposición de las personas productoras
+de Biomasa en Suelos Marginales, para el uso
+directo como Biocombustible o para su
+Producción,
+los
+resultados
+de
+las
 investigaciones y el desarrollo tecnológico en
 esta materia, así como promover su
 implementación;
 VIII. Promover y coordinar la vinculación de las
 instituciones académicas y centros de
 investigación con el sector productivo, para el
-desarrollo, ejecución de proyectos de
-investigación y la transferencia de tecnología
-en materia de producción de Biomasa en
-Suelos Marginales para el uso directo como
+desarrollo,
+ejecución
+de
+proyectos
+de
+investigación y la transferencia de tecnología en
+materia de producción de Biomasa en Suelos
+Marginales para el uso directo como
 Biocombustible o para su Producción;
 IX. Formular y ejecutar programas de capacitación
-en materia de producción de Biomasa en
-Suelos Marginales para el uso directo como
+en materia de producción de Biomasa en Suelos
+Marginales para el uso directo como
 Biocombustible o para su Producción;
-
 X. Difundir sus actividades y los resultados de sus
-investigaciones, sin perjuicio de los derechos
-de propiedad intelectual y de la información
-que por su naturaleza deba reservarse
-conforme a la ley de la materia, y
+investigaciones, sin perjuicio de los derechos de
+propiedad intelectual y de la información que por
+su naturaleza deba reservarse conforme a la ley
+de la materia, y
 XI. Las demás que expresamente le atribuya esta
 Ley, sus disposiciones reglamentarias, las
-normas oficiales que de ella deriven, las leyes
-y reglamentos en materia de desarrollo
+normas oficiales que de ella deriven, las leyes y
+
+reglamentos
+en
+materia
+de
 sustentable de Biocombustibles.
+
+desarrollo
+
 Capítulo IV
 De la Información y Participación Social
 Artículo 22.- La SENER debe registrar en el
 Subsistema, entre otros aspectos, los siguientes:
 I.
 
-La información sobre la producción de
-Biomasa, para su uso directo como
-Biocombustible o para su Producción, así
-como
-la
-Producción,
-Almacenamiento,
-Transporte, Comercialización, Distribución,
-Expendio al Público de Biocombustibles y su
-uso;
+La información sobre la producción de Biomasa,
+para su uso directo como Biocombustible o para
+su Producción, así como la Producción,
+Almacenamiento, Transporte, Comercialización,
+Distribución,
+Expendio
+al
+Público
+de
+Biocombustibles y su uso;
 
 II.
 
@@ -1242,17 +1256,17 @@ información
 sobre
 permisos
 para
-Biocombustibles, de acuerdo con lo señalado
-en el Reglamento de la presente Ley.
+Biocombustibles, de acuerdo con lo señalado en
+el Reglamento de la presente Ley.
 Artículo 23.- En el diseño y aplicación de los
 programas a que se refiere la presente Ley, las
 dependencias competentes deben promover la
 participación social y la concertación, con el fin de
 vincular al sector público, las organizaciones de la
 sociedad civil y del sector privado, las instituciones
-
 académicas y a la población en general, coordinando
 sus actividades en el ámbito de esta Ley.
+
 Artículo 24.- Para dar cumplimiento al artículo
 anterior la SENER, la SADER, y la SEMARNAT
 pueden:
@@ -1267,34 +1281,33 @@ compartida;
 II.
 
 Celebrar convenios de concertación con
-organizaciones
-sociales,
-privadas
-y
-académicas relacionadas con las actividades
-en materia de Producción y uso de
-Biocombustibles, así como la sustentabilidad
-de estas actividades, a efecto de emprender
-acciones conjuntas;
+organizaciones sociales, privadas y académicas
+relacionadas con las actividades en materia de
+Producción y uso de Biocombustibles, así como
+la sustentabilidad de estas actividades, a efecto
+de emprender acciones conjuntas;
 
-III. Promover el reconocimiento a los esfuerzos
-más destacados de la sociedad para propiciar
-la producción de Biomasa en Suelos
-Marginales para el uso directo como
-Biocombustible o para su Producción, el
-aprovechamiento y valorización de los residuos
-orgánicos y el tratamiento de aguas residuales
-para su uso directo como Biocombustibles o
-para
+III. Promover el reconocimiento a los esfuerzos más
+destacados de la sociedad para propiciar la
+producción de Biomasa en Suelos Marginales
+para el uso directo como Biocombustible o para
 su
 Producción,
-así
-como
-la
-sustentabilidad de estas actividades, y
+el
+aprovechamiento
+y
+valorización de los residuos orgánicos y el
+tratamiento de aguas residuales para su uso
+directo como Biocombustibles o para su
+Producción, así como la sustentabilidad de
+estas actividades, y
 IV. Concertar acciones e inversiones con los
 sectores social y privado con la finalidad de
-propiciar el desarrollo sustentable de
+propiciar
+el
+desarrollo
+sustentable
+de
 Biocombustibles.
 
 TÍTULO CUARTO
@@ -1308,8 +1321,8 @@ conforme a lo siguiente:
 I.
 
 Para la producción de Biomasa para la
-Producción de Biocombustibles provenientes
-de la caña de azúcar o de sorgo; los cuales se
+Producción de Biocombustibles provenientes de
+la caña de azúcar o de sorgo; los cuales se
 deben otorgar solamente cuando existan
 inventarios excedentes de producción interna
 para satisfacer el consumo nacional, el cual
@@ -1318,24 +1331,23 @@ debe ser expedido por la SADER, y
 II.
 
 Para la Producción, importación, exportación,
-Almacenamiento,
-Transporte,
-Comercialización, Distribución y Expendio al
-Público de Biocombustibles; los cuales deben
-ser expedidos por la SENER.
+Almacenamiento, Transporte, Comercialización,
+Distribución y Expendio al Público de
+Biocombustibles; los cuales deben ser
+expedidos por la SENER.
 
 La SENER, en el ámbito de sus atribuciones, puede
 autorizar la Producción de Biocombustibles para las
 actividades de investigación científica, tecnológica o
 cualquier otra prevista en el Reglamento de la
 presente Ley.
+
 El otorgamiento de permisos por parte de la SADER
 y de la SENER se debe regir por lo previsto en la
 presente Ley, su Reglamento y las disposiciones
 administrativas que resulten aplicables.
 La SENER debe establecer en el Reglamento y
 demás disposiciones correspondientes, los medios de
-
 trazabilidad para las actividades relacionadas con la
 Producción,
 importación,
@@ -1369,6 +1381,7 @@ III. Terceros para actividades distintas de las
 aeronáuticas.
 En el caso de la fracción III del presente artículo,
 dichos terceros deben contar previamente con la
+
 opinión favorable de la Secretaría de Infraestructura,
 Comunicaciones y Transportes.
 La SENER debe emitir las disposiciones generales
@@ -1387,7 +1400,6 @@ Ley y demás disposiciones aplicables.
 Para efectos de la presente Ley, se considera que
 los Biocombustibles han sido alterados cuando se
 modifique su composición respecto de las
-
 especificaciones establecidas en las disposiciones
 aplicables.
 Artículo 28.- Las especificaciones de calidad de los
@@ -1406,6 +1418,7 @@ características
 cualitativas, así como al volumen en el Transporte,
 Almacenamiento, Comercialización, Distribución y, en
 su caso, el Expendio al Público de Biocombustibles se
+
 deben establecer en las Normas Oficiales Mexicanas
 o Lineamientos que para tal efecto expidan la SENER
 y la Secretaría de Economía, en el ámbito de su
@@ -1420,16 +1433,19 @@ Los formatos de solicitudes deben contener, cuando
 menos, los siguientes datos:
 I.
 
-Nombre, denominación o razón social y
+Nombre, denominación o razón
 domicilio de la persona solicitante;
+
+social
 
 II.
 
 Tipo de permiso que es de su interés obtener;
 
+y
+
 III. En su caso, ubicación y descripción de las
 instalaciones, equipos y procesos con los que
-
 se pretendan desarrollar las actividades objeto
 del permiso, y
 IV. Los demás que, de acuerdo con el objeto del
@@ -1438,6 +1454,7 @@ disposiciones administrativas que resulten
 aplicables.
 Artículo 31.- Las personas titulares de los permisos
 y autorizaciones otorgados por la SENER deben
+
 llevar una Bitácora, utilizando los formatos que para
 tal efecto señale la propia SENER, en la que
 registren, cuando menos, los volúmenes, fechas y
@@ -1456,14 +1473,23 @@ lineamientos específicos emitidos por las autoridades
 competentes, los cuales al menos deben señalar:
 I.
 
-II.
-
-Los términos y condiciones para el
+Los
+términos
+y
+condiciones
+para
+el
 otorgamiento,
 modificación,
 cesión,
-actualización, suspensión, revocación y
+actualización,
+suspensión,
+revocación
+y
 extinción de los permisos y autorizaciones;
+
+II.
+
 El contenido y los requisitos de los avisos de
 inicio de operaciones correspondientes a los
 permisos, así como la documentación que se
@@ -1472,12 +1498,13 @@ debe anexar;
 III. El contenido de las Bitácoras, así como los
 procedimientos para su revisión;
 IV. La obligación de entrega de la información
-suficiente y adecuada por parte de las
-personas permisionarias para fines de
-regulación y estadísticos, y
-V. La vigencia de los permisos y autorizaciones,
-el procedimiento y los requisitos para su
-prórroga, actualización o cesión.
+suficiente y adecuada por parte de las personas
+
+permisionarias para fines de regulación y
+estadísticos, y
+V. La vigencia de los permisos y autorizaciones, el
+procedimiento y los requisitos para su prórroga,
+actualización o cesión.
 Artículo 33.- La cesión de los permisos y
 autorizaciones o la realización de las actividades
 reguladas al amparo de este, sólo puede realizarse
@@ -1496,17 +1523,15 @@ cualquiera de las causas siguientes:
 I.
 
 Vencimiento de la vigencia originalmente
-prevista en el permiso o de la prórroga
-otorgada;
+prevista en el permiso o de la prórroga otorgada;
 
 II.
 
 Renuncia expresa de la persona permisionaria,
-siempre que no se afecten derechos de
-terceras personas;
+siempre que no se afecten derechos de terceras
+personas;
 
 III. Caducidad;
-
 IV. Revocación;
 V. Desaparición del objeto o de la finalidad del
 permiso;
@@ -1520,107 +1545,94 @@ La terminación, extinción del permiso o autorización
 no exime a su titular de las responsabilidades
 contraídas durante su vigencia con las autoridades
 competentes y con terceras personas.
-Artículo 35.- Los permisos y autorizaciones
+Artículo 35.- Los permisos
 caducan si sus titulares:
 I.
+
+y
+
+autorizaciones
 
 No ejercen los derechos conferidos en el título
 del permiso de acuerdo con lo siguiente:
 a) En el plazo que para tal efecto se establezca
 en el permiso o autorización, o
-b) A falta de plazo, por un periodo consecutivo
-de trescientos sesenta y cinco días
-naturales, y
 
+b) A falta de plazo, por un periodo consecutivo
+de trescientos sesenta y cinco días naturales,
+y
 II.
 
 Se ubican en los demás supuestos de
-caducidad previstos en el permiso o
-autorización respectiva.
+caducidad previstos en el permiso o autorización
+respectiva.
+
 Artículo 36.- La SADER y la SENER pueden, en el
 ámbito de sus competencias, revocar los permisos
 expedidos y autorizaciones por cualquiera de las
 causas siguientes:
-
 I.
 
-Incumplir sin causa justificada y sin
-autorización de la SADER y la SENER, según
-corresponda, con el objeto, obligaciones,
-condiciones del permiso o autorización;
+Incumplir sin causa justificada y sin autorización
+de la SADER y la SENER, según corresponda,
+con el objeto, obligaciones, condiciones del
+permiso o autorización;
 
 II.
 
-Actualizar
-o
-modificar
-la
-información
-presentada originalmente en la solicitud del
-permiso sin autorización de la SADER y la
-SENER;
+Actualizar o modificar la información presentada
+originalmente en la solicitud del permiso sin
+autorización de la SADER y la SENER;
 
 III. Realizar
 prácticas
 indebidamente
 discriminatorias en perjuicio de las personas
 usuarias;
-IV. No respetar la regulación en materia de
-precios y tarifas, incluida la correspondiente en
-materia de contabilidad regulatoria, así como
-los términos y condiciones que, en su caso,
-llegue a fijar la autoridad competente o, en su
-caso, las disposiciones que los regulan;
+IV. No respetar la regulación en materia de precios
+y tarifas, incluida la correspondiente en materia
+de contabilidad regulatoria, así como los
+términos y condiciones que, en su caso, llegue a
+fijar la autoridad competente o, en su caso, las
+disposiciones que los regulan;
+
 V. Ceder o gravar los permisos, los derechos en
 ellos conferidos, o los bienes utilizados para su
 ejecución, sin la autorización de la SADER y la
 SENER, según corresponda;
-VI. No otorgar o no mantener en vigor las
-garantías o los seguros correspondientes
-incluyendo aquéllos necesarios para cubrir
-daños a terceras personas, conforme a la
-regulación que para el efecto se emita;
-VII. No cumplir
-Mexicanas;
-
-con
-
-las
-
-Normas
-
-Oficiales
-
+VI. No otorgar o no mantener en vigor las garantías
+o los seguros correspondientes incluyendo
+aquéllos necesarios para cubrir daños a terceras
+personas, conforme a la regulación que para el
+efecto se emita;
+VII. No cumplir con las Normas Oficiales Mexicanas;
 VIII. Incumplir de forma continua el pago de
 contribuciones y aprovechamientos por los
 servicios de supervisión de los permisos.
-
 Para efectos de esta fracción se considera que
-el incumplimiento es continuo cuando la
-persona permisionaria omita el pago por más
-de un ejercicio fiscal;
-IX. No acatar las resoluciones que, en el ámbito
-de su competencia, expida la dependencia
+el incumplimiento es continuo cuando la persona
+permisionaria omita el pago por más de un
+ejercicio fiscal;
+IX. No acatar las resoluciones que, en el ámbito de
+su competencia, expida la dependencia
 encargada de formular y conducir las políticas
 generales de industria, comercio exterior,
 interior, abasto y precios del país;
 X. Cuando se ponga en riesgo la seguridad
 alimentaria del país;
+
 XI. Realizar
 actividades
 de
 importación,
-exportación, Transporte, Comercialización,
+exportación,
+Transporte,
+Comercialización,
 Almacenamiento, Distribución o Expendio al
-Público
-de
-Biocombustibles,
-que
-se
-compruebe no hayan sido producidos o
-adquiridos de forma lícita y que haya sido
-determinado por resolución firme de autoridad
-competente, y
+Público de Biocombustibles, que se compruebe
+no hayan sido producidos o adquiridos de forma
+lícita y que haya sido determinado por
+resolución firme de autoridad competente, y
 XII. Las demás previstas
 autorización respectiva.
 
@@ -1641,7 +1653,9 @@ inscriben:
 I.
 
 Los permisos para la Producción, importación,
-exportación, Almacenamiento, Transporte,
+exportación,
+Almacenamiento,
+Transporte,
 Comercialización, Distribución y Expendio al
 Público de Biocombustibles;
 
@@ -1653,6 +1667,7 @@ respectivas;
 
 III. Las autorizaciones de los avisos para la
 Producción de Biocombustibles, y
+
 IV. El grado de contenido nacional en los
 Biocombustibles comercializados o expendidos
 en el país.
@@ -1679,8 +1694,8 @@ Artículo 39.- En la imposición de las sanciones
 administrativas se debe considerar la gravedad de la
 infracción, el daño causado, los indicios de
 intencionalidad, la participación de la persona
-
 infractora en la comisión u omisión de la infracción, la
+
 duración de la práctica ilegal y la reincidencia o
 antecedentes de la persona infractora, así como su
 capacidad económica.
@@ -1692,33 +1707,38 @@ I.
 
 Por producir insumos primarios de origen
 vegetal destinados para consumo humano,
-distintos a la caña de azúcar o de sorgo, para
-la producción de Biomasa para su uso directo
+distintos a la caña de azúcar o de sorgo, para la
+producción de Biomasa para su uso directo
 como Biocombustible o para la Producción de
 Biocombustibles, con multa de 1,000 a 80,000
 veces el valor de la Unidad de Medida y
-Actualización y clausura total permanente de
-las instalaciones;
+Actualización y clausura total permanente de las
+instalaciones;
 
 II.
 
 Por incumplir los términos y condiciones
 establecidos en los permisos otorgados por la
-SADER, o transgredir lo previsto en las
-Normas Oficiales Mexicanas relativas a la
-producción de Biomasa para su uso directo
-como Biocombustible o para la Producción de
+SADER, o transgredir lo previsto en las Normas
+Oficiales Mexicanas relativas a la producción de
+Biomasa
+para
+su
+uso
+directo
+como
+Biocombustible o para la Producción de
 Biocombustibles, con multa de 500 a 8,000
 veces el valor de la Unidad de Medida y
 Actualización y clausura total temporal de
 instalaciones, y
 
-III. Por producir Biomasa para su uso directo
-como Biocombustible o para la Producción de
-Biocombustibles, sin entregar a la SADER el
-aviso de siembra correspondiente, con multa
+III. Por producir Biomasa para su uso directo como
+Biocombustible o para la Producción de
 
-de 500 a 8,000 veces el valor de la Unidad de
+Biocombustibles, sin entregar a la SADER el
+aviso de siembra correspondiente, con multa de
+500 a 8,000 veces el valor de la Unidad de
 Medida y Actualización.
 Artículo 41.- La SENER debe sancionar
 administrativamente los incumplimientos a las
@@ -1727,22 +1747,24 @@ deriven de ella, tomando en cuenta la gravedad de la
 falta, de acuerdo con lo siguiente:
 I.
 
-El incumplimiento de los términos y
-condiciones que se establezcan en los
-permisos otorgados por la SENER, a que hace
-referencia el artículo 25 de la presente Ley,
-con multa de 500 a 100,000 veces el valor de
-la Unidad de Medida y Actualización;
+El incumplimiento de los términos y condiciones
+que se establezcan en los permisos otorgados
+por la SENER, a que hace referencia el artículo
+25 de la presente Ley, con multa de 500 a
+100,000 veces el valor de la Unidad de Medida y
+Actualización;
 
 II.
 
 La suspensión de los servicios amparados por
 un permiso de Producción, importación o
-exportación de Biocombustibles sin la
+exportación de
+Biocombustibles
+sin la
 autorización correspondiente, salvo por causa
 de fuerza mayor o caso fortuito, con multa de
-entre 1,000 a 50,000 veces el valor de la
-Unidad de Medida y Actualización;
+entre 1,000 a 50,000 veces el valor de la Unidad
+de Medida y Actualización;
 
 III. La
 cesión,
@@ -1751,34 +1773,35 @@ actualización,
 enajenación, traspaso o gravamen total o
 parcial, de los derechos u obligaciones
 derivados de un permiso de Producción,
-importación, exportación, Almacenamiento,
-Transporte, Distribución, Comercialización,
-Expendio al Público, sin la autorización
-correspondiente, con multa de 50,000 a
-100,000 veces el valor de la Unidad de Medida
-y Actualización y revocación del permiso
-correspondiente;
+importación,
+exportación,
+Almacenamiento,
+Transporte,
+Distribución,
+Comercialización,
 
+Expendio al Público, sin la autorización
+correspondiente, con multa de 50,000 a 100,000
+veces el valor de la Unidad de Medida y
+Actualización y revocación del permiso
+correspondiente;
 IV. La realización de actividades sin permiso de
 Producción,
 importación,
 exportación,
-Almacenamiento, Transporte, Distribución,
+Almacenamiento,
+Transporte,
+Distribución,
 Comercialización, Expendio al Público, con
 multa de 1,000 a 200,000 veces el valor de la
 Unidad de Medida y Actualización;
-V. Por
-entregar
-de
-manera
-dolosa
-Biocombustibles en cantidades menores a las
-convenidas o calidades distintas a las
-establecidas en las Normas Oficiales
-Mexicanas o, en su caso, criterios y
-lineamientos de especificaciones de calidad,
-con multa de 5,000 a 100,000 veces el valor
-de la Unidad de Medida y Actualización,
+V. Por entregar de manera dolosa Biocombustibles
+en cantidades menores a las convenidas o
+calidades distintas a las establecidas en las
+Normas Oficiales Mexicanas o, en su caso,
+criterios y lineamientos de especificaciones de
+calidad, con multa de 5,000 a 100,000 veces el
+valor de la Unidad de Medida y Actualización,
 clausura total o temporal de instalaciones y
 revocación del permiso correspondiente;
 VI. Por realizar actividades amparadas por los
@@ -1789,62 +1812,69 @@ Medida y Actualización y clausura total o
 temporal de las instalaciones;
 VII. Por producir Biocombustibles para las
 actividades de investigación científica o
-tecnológica y aquellas que se establezcan en
-el Reglamento sin entregar el aviso de
-exención correspondiente, con multa de 500 a
-200,000 veces el valor de la Unidad de Medida
-y Actualización;
+
+tecnológica y aquellas que se establezcan en el
+Reglamento sin entregar el aviso de exención
+correspondiente, con multa de 500 a 200,000
+veces el valor de la Unidad de Medida y
+Actualización;
 VIII. Por incumplir los términos y condiciones
 establecidos en los permisos que otorgue,
-
 transgredir lo previsto en las Normas Oficiales
 Mexicanas o, en su caso, criterios y
-lineamientos sobre los requisitos, la calidad,
-las características, las medidas de seguridad y
+lineamientos sobre los requisitos, la calidad, las
+características, las medidas de seguridad y
 demás aspectos pertinentes, con relación a la
 Producción,
 importación,
 exportación,
-Almacenamiento, Transporte, Distribución,
+Almacenamiento,
+Transporte,
+Distribución,
 Comercialización, Expendio al Público de
-Biocombustibles, con multa de 5,000 a
-100,000 veces el valor de la Unidad de Medida
-y Actualización y clausura total temporal de las
+Biocombustibles, con multa de 5,000 a 100,000
+veces el valor de la Unidad de Medida y
+Actualización y clausura total temporal de las
 instalaciones;
-IX. Por proporcionar información falsa mediante
-las Bitácoras que deben llevar las personas
-titulares de los permisos que otorgue, con
-multa de 10,000 a 200,000 veces el valor de la
-Unidad de Medida y Actualización;
+IX. Por proporcionar información falsa mediante las
+Bitácoras que deben llevar las personas titulares
+de los permisos que otorgue, con multa de
+10,000 a 200,000 veces el valor de la Unidad de
+Medida y Actualización;
 X. La realización de actividades de importación,
-exportación, Almacenamiento, Transporte,
+exportación,
+Almacenamiento,
+Transporte,
 Distribución, Comercialización, Expendio al
 Público en las cuales no se compruebe que los
 Biocombustibles utilizados son de procedencia
+
 lícitas, con multa de 10,000 a 200,000 veces el
 valor de la Unidad de Medida y Actualización;
 XI. Por realizar actividades distintas o en
 instalaciones distintas a las señaladas en los
 permisos que otorgue, con multa de 10,000 a
-500,000 veces el valor de la Unidad de Medida
-y Actualización, clausura total o permanente de
+500,000 veces el valor de la Unidad de Medida y
+Actualización, clausura total o permanente de
 instalaciones y revocación del permiso
 correspondiente, y
-
 XII. Los demás incumplimientos a esta Ley y a sus
 disposiciones reglamentarias, así como a la
-regulación, lineamientos y disposiciones
+regulación,
+lineamientos
+y
+disposiciones
 administrativas competencia de la SENER,
 deben ser sancionadas con multa de 500 a
-200,000 veces el valor de la Unidad de Medida
-y Actualización.
+200,000 veces el valor de la Unidad de Medida y
+Actualización.
 Artículo 42.- Para la aplicación de las sanciones
 previstas en esta Ley, la autoridad administrativa
 debe fundar y motivar su resolución considerando:
 I.
 
-Los daños que se hubieren producido o
-puedan producirse;
+Los daños que se hubieren producido o puedan
+producirse;
 
 II.
 
@@ -1853,6 +1883,7 @@ omisión constitutiva de la infracción;
 
 III. La gravedad de la infracción, y
 IV. La reincidencia del infractor.
+
 Para la aplicación de las sanciones se está a lo
 dispuesto en la Ley Federal de Procedimiento
 Administrativo.
@@ -1868,7 +1899,6 @@ una infracción que haya sido sancionada, cometa otra
 del mismo tipo o naturaleza, dentro de un plazo de
 diez años, contados a partir de la imposición de la
 sanción.
-
 Artículo 43.- La SEMARNAT debe sancionar
 administrativamente los incumplimientos a las
 disposiciones contenidas en la presente Ley y las que
@@ -1880,6 +1910,7 @@ Controversias
 Artículo 44.- Las controversias que se susciten
 respecto de las transacciones de Biomasa producida
 a partir de cultivos en Suelos Marginales o el
+
 aprovechamiento de residuos orgánicos derivados de
 las
 actividades
@@ -1911,13 +1942,13 @@ Consumidor.
 Artículo 46.- Contra los actos de autoridad emitidos
 con motivo de la aplicación de esta Ley, los
 programas y demás disposiciones que deriven de la
-
 misma, se están a lo dispuesto en la Ley Federal de
 Procedimiento Administrativo.
 Transitorios
 Primero.- La presente Ley entrará en vigor al día
 siguiente de su publicación en el Diario Oficial de la
 Federación.
+
 Segundo.- Se abroga la Ley de Promoción y
 Desarrollo de los Bioenergéticos, publicada en el
 Diario Oficial de la Federación el 1 de febrero de 2008
@@ -1947,9 +1978,9 @@ su entrada en vigor.
 Las solicitudes de autorización o permisos que se
 hayan recibido previo a la entrada en vigor de esta
 Ley se tramitan conforme a las disposiciones jurídicas
-
 que para el efecto haya emitido la autoridad
 competente con anterioridad a la presente Ley.
+
 Quinto.- El Ejecutivo Federal debe expedir el
 Reglamento de la presente Ley dentro de los ciento
 ochenta días siguientes a la fecha de su entrada en
@@ -1977,9 +2008,9 @@ los residuos orgánicos y el tratamiento de aguas
 residuales para su uso directo como Biocombustibles
 o para su Producción, previsto en la fracción III del
 artículo 6 de la presente Ley, dentro de los trescientos
+
 sesenta días naturales siguientes a la fecha de su
 entrada en vigor.
-
 Décimo.- La SADER debe expedir el Programa para
 promover la producción sustentable de Biomasa
 obtenida a partir de cultivos en Suelos Marginales o el
@@ -2007,11 +2038,11 @@ vigencia en los términos otorgados.
 Décimo Tercero.- Los pagos de derechos que en
 materia de bioenergéticos o Biocombustibles se
 establecen en favor de la Comisión Reguladora de
+
 Energía en la Ley Federal de Derechos, se entienden
 en favor de la SENER.
 ARTÍCULO SÉPTIMO A ARTÍCULO DÉCIMO.………
 Transitorios
-
 Primero. El presente Decreto entrará en vigor el día
 siguiente al de su publicación en el Diario Oficial de la
 Federación.
