@@ -8,9 +8,7 @@ Nuevo Código publicado en el Diario Oficial de la
 Federación del 7 de octubre al 13 de diciembre de
 1889
 TEXTO VIGENTE
-Última reforma publicada DOF 28-03-2018
-
-Cantidades actualizadas por Acuerdo DOF 30-12-2024
+Última reforma publicada DOF 14-11-2025
 
 El Presidente de la República se ha servido dirigirme
 el decreto que sigue:
@@ -47,8 +45,8 @@ ejerzan actos de comercio.
 Artículo 4o.- Las personas que accidentalmente,
 con o sin establecimiento fijo, hagan alguna operación
 de comercio, aunque no son en derecho
-
 comerciantes, quedan sin embargo, sujetas por ella a
+
 las leyes mercantiles. Por tanto, los labradores y
 fabricantes, y en general todos los que tienen
 planteados almacén o tienda en alguna población
@@ -1414,12 +1412,13 @@ utilizando una de estas dos acciones, quedará
 extinguida la otra.
 Nota: Por Decreto DOF 29-05-2000 se adicionó y
 reestructuró el actual Título Segundo “Del Comercio
-Electrónico”. En consecuencia, se suprimió la
-referencia al Capítulo I “De las diferentes clases de
-sociedades mercantiles” (antes derogado DOF 04-081934), perteneciente al anterior Título Segundo “De
-las Sociedades de Comercio”.
+Electrónico”. En consecuencia, se suprimió la referencia al
+Capítulo I “De las diferentes clases de sociedades
+mercantiles” (antes derogado DOF 04-08-1934), perteneciente
+al anterior Título Segundo “De las Sociedades de Comercio”.
 
 TITULO SEGUNDO
+
 DEL COMERCIO ELECTRONICO
 Título derogado DOF 04-08-1934. Adicionado y
 reestructurado con denominación reformada DOF 29-052000
@@ -1443,10 +1442,10 @@ mismos podrán emplearse los medios electrónicos,
 ópticos o cualquier otra tecnología. Para efecto del
 presente Código, se deberán tomar en cuenta las
 siguientes definiciones:
-
 Certificado: Todo Mensaje de Datos u otro registro
 que confirme el vínculo entre un Firmante y los datos
 de creación de Firma Electrónica.
+
 Datos de Creación de Firma Electrónica: Son los
 datos únicos, como códigos o claves criptográficas
 privadas, que el Firmante genera de manera secreta y
@@ -1471,10 +1470,10 @@ Firma Electrónica: Los datos en forma electrónica
 consignados en un Mensaje de Datos, o adjuntados o
 lógicamente asociados al mismo por cualquier
 tecnología, que son utilizados para identificar al
-
 Firmante en relación con el Mensaje de Datos e
 indicar que el Firmante aprueba la información
 contenida en el Mensaje de Datos, y que produce los
+
 mismos efectos jurídicos que la firma autógrafa,
 siendo admisible como prueba en juicio.
 Firma Electrónica Avanzada o Fiable: Aquella
@@ -1497,10 +1496,10 @@ enviada, recibida o archivada por medios electrónicos,
 Parte que Confía: La persona que, siendo o no el
 Destinatario, actúa sobre la base de un Certificado o
 de una Firma Electrónica.
-
 Prestador de Servicios de Certificación: La
 persona o institución pública que preste servicios
 relacionados con firmas electrónicas, expide los
+
 certificados o presta servicios relacionados como la
 conservación de mensajes de datos, el sellado digital
 de tiempo y la digitalización de documentos impresos,
@@ -1535,10 +1534,10 @@ o procesar de alguna otra forma Mensajes de Datos.
 Titular del Certificado: Se entenderá a la persona a
 cuyo favor fue expedido el Certificado.
 Artículo derogado DOF 04-08-1934. Adicionado DOF 2905-2000. Reformado DOF 29-08-2003
-
 Artículo 89 bis.- No se negarán efectos jurídicos,
 validez o fuerza obligatoria a cualquier tipo de
 información por la sola razón de que esté contenida
+
 en un Mensaje de Datos. Por tanto, dichos mensajes
 podrán ser utilizados como medio probatorio en
 cualquier diligencia ante autoridad legalmente
@@ -1563,9 +1562,9 @@ automáticamente.
 Artículo derogado DOF 04-08-1934. Adicionado DOF 2905-2000. Reformado DOF 29-08-2003
 Artículo 90 bis.- Se presume que un Mensaje de
 Datos ha sido enviado por el Emisor y, por lo tanto, el
-
 Destinatario o la Parte que Confía, en su caso, podrá
 actuar en consecuencia, cuando:
+
 I. Haya aplicado en forma adecuada el
 procedimiento acordado previamente con el
 Emisor, con el fin de establecer que el Mensaje
@@ -1590,10 +1589,10 @@ Salvo prueba en contrario y sin perjuicio del uso de
 cualquier otro método de verificación de la identidad
 del Emisor, se presumirá que se actuó con la debida
 diligencia si el método que usó el Destinatario o la
-
 Parte que Confía cumple con los requisitos
 establecidos en este Código para la verificación de la
 fiabilidad de las Firmas Electrónicas. Cuando se
+
 acuerde el uso de comunicaciones electrónicas
 certificadas, éstas deberán realizarse conforme a los
 requisitos previstos en la Norma Oficial Mexicana a
@@ -1624,6 +1623,7 @@ Lo dispuesto en este artículo será aplicable aun
 cuando el Sistema de Información esté ubicado en un
 lugar distinto de donde se tenga por recibido el
 Mensaje de Datos conforme al artículo 94.
+
 Cuando se acuerde el uso de comunicaciones
 electrónicas certificadas, éstas deberán realizarse
 conforme a los requisitos previstos en la Norma
@@ -1645,7 +1645,6 @@ Destinatario que se acuse recibo del Mensaje de
 Datos, pero no se ha acordado entre éstos una
 forma o método determinado para efectuarlo, se
 podrá acusar recibo mediante:
-
 a) Toda
 comunicación
 automatizada o no, o
@@ -1681,9 +1680,9 @@ b) No se haya recibido el acuse de recibo en el
 plazo solicitado o acordado o, en su defecto,
 dentro de un plazo razonable atendiendo a la
 naturaleza del negocio.
-
 El Emisor podrá dar aviso al Destinatario de que
 no ha recibido el acuse de recibo solicitado o
+
 acordado y fijar un nuevo plazo razonable para su
 recepción, contado a partir del momento de este
 aviso. Cuando el Emisor reciba acuse de recibo
@@ -1710,11 +1709,11 @@ Datos, siempre que la información en él contenida se
 mantenga íntegra y sea accesible para su ulterior
 consulta, sin importar el formato en el que se
 encuentre o represente.
-
 Cuando adicionalmente la ley exija la firma de las
 partes, dicho requisito se tendrá por cumplido
 tratándose de Mensaje de Datos, siempre que éste
 sea atribuible a dichas partes.
+
 En los casos en que la ley establezca como requisito
 que un acto jurídico deba otorgarse en instrumento
 ante fedatario público, éste y las partes obligadas
@@ -1739,10 +1738,10 @@ conservado la integridad de la información, a
 partir del momento en que se generó por primera
 vez en su forma definitiva, como Mensaje de
 Datos o en alguna otra forma, y
-
 II. De requerirse que la información sea presentada,
 si dicha información puede ser mostrada a la
 persona a la que se deba presentar.
+
 Para efectos de este artículo, se considerará que el
 contenido de un Mensaje de Datos es íntegro, si éste
 ha
@@ -1770,12 +1769,12 @@ guarde una relación más estrecha con la
 operación subyacente o, de no haber una
 operación subyacente, su establecimiento
 principal, y
-
 II. Si el Emisor o el Destinatario no tienen
 establecimiento, se tendrá en cuenta su lugar de
 residencia habitual.
 Artículo derogado DOF 04-08-1934. Adicionado y
 reubicado DOF 29-05-2000. Reformado DOF 29-08-2003
+
 Artículo 95.- Conforme al artículo 90, siempre que
 se entienda que el Mensaje de Datos proviene del
 Emisor, o que el Destinatario tenga derecho a actuar
@@ -1798,7 +1797,6 @@ Artículo derogado DOF 04-08-1934. Adicionado DOF 2908-2003
 CAPÍTULO I BIS
 De la Digitalización
 Capítulo adicionado DOF 07-04-2016
-
 Artículo 95 bis 1.- Para el caso de los servicios de
 digitalización se estará a lo siguiente:
 a.
@@ -1840,11 +1838,12 @@ En todo caso, el prestador de servicios de
 certificación que ejecutó las actividades de
 digitalización deberá mantener la confidencialidad
 de la información, salvo por mandato judicial.
-
 Artículo adicionado DOF 07-04-2016
+
 Artículo 95 bis 2.- En materia de conservación de
 mensajes de datos, será responsabilidad estricta del
 comerciante mantenerlos bajo su control, acceso y
+
 resguardo directo, a fin de que su ulterior consulta
 pueda llevarse a cabo en cualquier momento.
 Artículo adicionado DOF 07-04-2016
@@ -1868,11 +1867,11 @@ correspondiente cotejo, el contratante deberá firmar
 una cláusula de satisfacción del servicio prestado, y
 proceder a adjuntar su firma electrónica avanzada a la
 información.
-
 Si el contratante no adjunta su firma electrónica
 avanzada a la información digitalizada, ésta no podrá
 surtir efecto legal alguno, y será de carácter
 meramente informativo.
+
 Asimismo, el prestador de servicios deberá
 implementar el mecanismo tecnológico necesario, a
 fin de que, una vez digitalizado y entregado el
@@ -1897,9 +1896,9 @@ Artículo 95 bis 6.- Para los efectos de este Título, la
 Secretaría tendrá las siguientes facultades:
 I. Expedir y revocar las acreditaciones como
 Prestadores de Servicios de Certificación a que
-
 se refieren los artículos 95 Bis 3, 100 y 102 de
 este Código, y
+
 II. Podrá verificar en cualquier tiempo el adecuado
 desarrollo de las operaciones de los prestadores
 de servicios de certificación.
@@ -1922,7 +1921,6 @@ generó o comunicó ese Mensaje de Datos.
 La Firma Electrónica se considerará Avanzada o
 Fiable si cumple por lo menos los siguientes
 requisitos:
-
 I. Los Datos de Creación de la Firma, en el contexto
 en
 que
@@ -1930,6 +1928,7 @@ son
 utilizados,
 corresponden
 exclusivamente al Firmante;
+
 II. Los Datos de Creación de la Firma estaban, en el
 momento de la firma, bajo el control exclusivo del
 Firmante;
@@ -1958,10 +1957,10 @@ de los usuarios si las Firmas Electrónicas Avanzadas
 o Fiables que les ofrecen cumplen o no los
 requerimientos dispuestos en las fracciones I a IV del
 artículo 97.
-
 La determinación que se haga, con arreglo al párrafo
 anterior, deberá ser compatible con las normas y
 criterios internacionales reconocidos.
+
 Lo dispuesto en el presente artículo se entenderá
 sin perjuicio de la aplicación de las normas del
 derecho internacional privado.
@@ -1996,6 +1995,7 @@ Responder por las obligaciones derivadas del
 uso no autorizado de su firma, cuando no hubiere
 obrado con la debida diligencia para impedir su
 utilización, salvo que el Destinatario conociere de
+
 la inseguridad de la Firma Electrónica o no
 hubiere actuado con la debida diligencia.
 Artículo derogado DOF 04-08-1934. Adicionado DOF 2908-2003
@@ -2020,11 +2020,11 @@ mensajes de datos, el sellado digital de tiempo, o la
 digitalización de documentos impresos, así como
 fungir en calidad de tercero legalmente autorizado
 conforme a lo que se establezca en la norma oficial
-
 mexicana, no conllevan fe pública por sí misma, así,
 los notarios y corredores públicos podrán llevar a
 cabo certificaciones que impliquen o no la fe pública,
 en documentos en papel o mensajes de datos.
+
 Párrafo reformado DOF 07-04-2016
 Quien aspire a obtener la acreditación como
 prestador de servicios de certificación, podrá
@@ -2049,10 +2049,10 @@ III.
 Llevar a cabo registros de los elementos de
 identificación de los Firmantes y de aquella
 información con la que haya verificado el
-
 cumplimiento de fiabilidad de las Firmas
 Electrónicas Avanzadas y emitir el Certificado;
 Fracción reformada DOF 07-04-2016
+
 IV.
 
 Expedir sellos digitales de tiempo para asuntos
@@ -2081,11 +2081,11 @@ siguientes al comienzo de dicha actividad.
 Párrafo reformado DOF 07-04-2016
 A) Para que las personas indicadas en el artículo
 100 puedan ser Prestadores de Servicios de
-
 Certificación, se requiere acreditación de la
 Secretaría, la cual podrá otorgarse para autorizar
 la prestación de uno o varios servicios, a elección
 del solicitante, y no podrá ser negada si éste
+
 cumple los siguientes requisitos, en el entendido
 de que la Secretaría podrá requerir a los
 Prestadores de Servicios de Certificación que
@@ -2118,10 +2118,10 @@ medidas que garanticen la seriedad de los
 Certificados, la conservación y consulta de los
 registros, si es el caso;
 Fracción reformada DOF 07-04-2016
-
 IV. Quienes operen o tengan acceso a los
 sistemas de certificación de los Prestadores de
 Servicios de Certificación no podrán haber sido
+
 condenados por delito contra el patrimonio de
 las personas o que haya merecido pena
 privativa de la libertad, ni que por cualquier
@@ -2145,11 +2145,11 @@ conforme al artículo 100 anterior, dentro de los 45
 días siguientes a la presentación de la solicitud, se
 tendrá por concedida la acreditación.
 Artículo derogado DOF 04-08-1934. Adicionado DOF 2908-2003
-
 Artículo 103.- Las responsabilidades de las
 Entidades Prestadoras de Servicios de Certificación
 deberán estipularse en el contrato con los firmantes.
 Artículo derogado DOF 04-08-1934. Adicionado DOF 2908-2003
+
 Artículo 104.- Los Prestadores de Servicios de
 Certificación
 deben
@@ -2182,13 +2182,13 @@ IV.
 
 Mantener un registro de Certificados, en el que
 quedará constancia de los emitidos y figurarán las
-
 circunstancias que afecten a la suspensión,
 pérdida o terminación de vigencia de sus efectos.
 A dicho registro podrá accederse por medios
 electrónicos, ópticos o de cualquier otra
 tecnología y su contenido público estará a
 disposición de las personas que lo soliciten, el
+
 contenido privado estará a disposición del
 Destinatario y de las personas que lo soliciten
 cuando así lo autorice el Firmante, así como en
@@ -2217,13 +2217,13 @@ Datos de Creación de la Firma Electrónica;
 VIII. Establecer declaraciones sobre sus normas y
 prácticas, las cuales harán del conocimiento del
 usuario y el Destinatario, y
-
 IX.
 
 Proporcionar medios de acceso que permitan a
 la Parte que Confía en el Certificado determinar:
 a) La identidad del Prestador de Servicios de
 Certificación;
+
 b) Que el Firmante nombrado en el Certificado
 tenía bajo su control el dispositivo y los Datos
 de Creación de la Firma en el momento en que
@@ -2244,10 +2244,10 @@ de que los Datos de Creación de la Firma han
 sido de alguna manera controvertidos, y
 h) Si se ofrece un servicio de terminación de
 vigencia del Certificado.
-
 Artículo derogado DOF 04-08-1934. Adicionado DOF 2908-2003
 Artículo 105.- La Secretaría coordinará y actuará
 como autoridad Certificadora, y registradora, respecto
+
 de los Prestadores de Servicios de Certificación,
 previstos en este Capítulo.
 Artículo derogado DOF 04-08-1934. Adicionado DOF 2908-2003
@@ -2269,12 +2269,12 @@ no hayan tomado medidas razonables para:
 I. Verificar la fiabilidad de la Firma Electrónica, o
 II. Cuando la Firma Electrónica esté sustentada por
 un Certificado:
-
 a) Verificar, incluso en forma inmediata, la
 validez, suspensión o revocación del
 Certificado, y
 b) Tener en cuenta cualquier limitación de uso
 contenida en el Certificado.
+
 Artículo derogado DOF 04-08-1934. Adicionado DOF 2908-2003
 Artículo 108.- Los Certificados,
 considerados válidos, deberán contener:
@@ -2309,6 +2309,7 @@ y
 VIII. La referencia de la tecnología empleada para
 la creación de la Firma Electrónica.
 Artículo derogado DOF 04-08-1934. Adicionado DOF 2908-2003
+
 Artículo 109.- Un Certificado dejará de surtir efectos
 para el futuro, en los siguientes casos:
 I. Expiración del periodo de vigencia del Certificado,
@@ -2339,6 +2340,7 @@ que lo ordene.
 Artículo derogado DOF 04-08-1934. Adicionado DOF 2908-2003
 Artículo 110.- El Prestador de Servicios de
 Certificación que incumpla con las obligaciones que
+
 se le imponen en este Código, el reglamento o la
 norma oficial mexicana sobre digitalización y
 conservación de mensajes de datos que para tal
@@ -2359,7 +2361,6 @@ incurran los infractores.
 Artículo derogado DOF 04-08-1934. Adicionado DOF 2908-2003
 Artículo 112.- Las autoridades competentes harán
 uso de las medidas legales necesarias, incluyendo el
-
 auxilio de la fuerza pública, para lograr la ejecución de
 las sanciones y medidas de seguridad que procedan
 conforme a esta Ley. Incluso, en los procedimientos
@@ -2367,6 +2368,7 @@ instaurados se podrá solicitar a los órganos
 competentes la adopción de las medidas cautelares
 que se estimen necesarias para asegurar la eficacia
 de la resolución que definitivamente se dicte.
+
 Artículo derogado DOF 04-08-1934. Adicionado DOF 2908-2003
 Artículo 113.- En el caso de que un Prestador de
 Servicios de Certificación sea suspendido, inhabilitado
@@ -2386,13 +2388,13 @@ una Firma Electrónica extranjeros producen efectos
 jurídicos, o en qué medida los producen, no se tomará
 en consideración cualquiera de los siguientes
 supuestos:
-
 I. El lugar en que se haya expedido el Certificado o
 en que se haya creado o utilizado la Firma
 Electrónica, y
 II. El lugar en que se encuentre el establecimiento
 del Prestador de Servicios de Certificación o del
 Firmante.
+
 Todo Certificado expedido fuera de la República
 Mexicana producirá los mismos efectos jurídicos en la
 misma que un Certificado expedido en la República
@@ -2418,12 +2420,12 @@ a
 efectos
 del
 reconocimiento
-
 transfronterizo, salvo que ese acuerdo no sea válido o
 eficaz conforme al derecho aplicable.
 Artículo derogado DOF 04-08-1934. Adicionado DOF 2908-2003
 Artículo 115.- (Se deroga).
 Artículo derogado DOF 04-08-1934
+
 Artículo 116.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 117.- (Se deroga).
@@ -2440,12 +2442,12 @@ Artículo 122.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 123.- (Se deroga).
 Artículo derogado DOF 04-08-1934
-
 Artículo 124.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 125.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 126.- (Se deroga).
+
 Artículo derogado DOF 04-08-1934
 Artículo 127.- (Se deroga).
 Artículo derogado DOF 04-08-1934
@@ -2463,11 +2465,11 @@ Artículo 133.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 134.- (Se deroga).
 Artículo derogado DOF 04-08-1934
-
 Artículo 135.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 136.- (Se deroga).
 Artículo derogado DOF 04-08-1934
+
 Artículo 137.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 138.- (Se deroga).
@@ -2485,12 +2487,12 @@ Artículo derogado DOF 04-08-1934
 Artículo 144.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 145.- (Se deroga).
-
 Artículo derogado DOF 04-08-1934
 Artículo 146.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 147.- (Se deroga).
 Artículo derogado DOF 04-08-1934
+
 Artículo 148.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 149.- (Se deroga).
@@ -2507,12 +2509,12 @@ Artículo 154.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 155.- (Se deroga).
 Artículo derogado DOF 04-08-1934
-
 Artículo 156.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 157.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 158.- (Se deroga).
+
 Artículo derogado DOF 04-08-1934
 Artículo 159.- (Se deroga).
 Artículo derogado DOF 04-08-1934
@@ -2530,12 +2532,12 @@ Artículo 163.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 164.- (Se deroga).
 Artículo derogado DOF 04-08-1934
-
 Artículo 165.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 166.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 167.- (Se deroga).
+
 Artículo derogado DOF 04-08-1934
 Artículo 168.- (Se deroga).
 Artículo derogado DOF 04-08-1934
@@ -2553,11 +2555,11 @@ Artículo 174.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 175.- (Se deroga).
 Artículo derogado DOF 04-08-1934
-
 Artículo 176.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 177.- (Se deroga).
 Artículo derogado DOF 04-08-1934
+
 Artículo 178.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 179.- (Se deroga).
@@ -2575,12 +2577,12 @@ Artículo derogado DOF 04-08-1934
 Artículo 185.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 186.- (Se deroga).
-
 Artículo derogado DOF 04-08-1934
 Artículo 187.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 188.- (Se deroga).
 Artículo derogado DOF 04-08-1934
+
 Artículo 189.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 190.- (Se deroga).
@@ -2597,12 +2599,12 @@ Artículo 195.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 196.- (Se deroga).
 Artículo derogado DOF 04-08-1934
-
 Artículo 197.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 198.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 199.- (Se deroga).
+
 Artículo derogado DOF 04-08-1934
 Artículo 200.- (Se deroga).
 Artículo derogado DOF 04-08-1934
@@ -2620,11 +2622,11 @@ Artículo 206.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 207.- (Se deroga).
 Artículo derogado DOF 04-08-1934
-
 Artículo 208.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 209.- (Se deroga).
 Artículo derogado DOF 04-08-1934
+
 Artículo 210.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 211.- (Se deroga).
@@ -2642,12 +2644,12 @@ Artículo derogado DOF 04-08-1934
 Artículo 217.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 218.- (Se deroga).
-
 Artículo derogado DOF 04-08-1934
 Artículo 219.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 220.- (Se deroga).
 Artículo derogado DOF 04-08-1934
+
 Artículo 221.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 222.- (Se deroga).
@@ -2665,12 +2667,12 @@ Capítulo derogado DOF 04-08-1934
 Artículo 226.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 227.- (Se deroga).
-
 Artículo derogado DOF 04-08-1934
 Artículo 228.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 229.- (Se deroga).
 Artículo derogado DOF 04-08-1934
+
 Artículo 230.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 231.- (Se deroga).
@@ -2687,13 +2689,13 @@ Artículo 236.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 237.- (Se deroga).
 Artículo derogado DOF 04-08-1934
-
 CAPITULO VII
 De las Sociedades Cooperativas
 (Se deroga).
 Capítulo derogado DOF 30-05-1933
 Artículo 238.- (Se deroga).
 Artículo derogado DOF 30-05-1933
+
 Artículo 239.- (Se deroga).
 Artículo derogado DOF 30-05-1933
 Artículo 240.- (Se deroga).
@@ -2710,12 +2712,12 @@ Artículo 245.- (Se deroga).
 Artículo derogado DOF 30-05-1933
 Artículo 246.- (Se deroga).
 Artículo derogado DOF 30-05-1933
-
 Artículo 247.- (Se deroga).
 Artículo derogado DOF 30-05-1933
 Artículo 248.- (Se deroga).
 Artículo derogado DOF 30-05-1933
 Artículo 249.- (Se deroga).
+
 Artículo derogado DOF 30-05-1933
 Artículo 250.- (Se deroga).
 Artículo derogado DOF 30-05-1933
@@ -2733,11 +2735,11 @@ Artículo 256.- (Se deroga).
 Artículo derogado DOF 30-05-1933
 Artículo 257.- (Se deroga).
 Artículo derogado DOF 30-05-1933
-
 Artículo 258.- (Se deroga).
 Artículo derogado DOF 30-05-1933
 Artículo 259.- (Se deroga).
 Artículo derogado DOF 30-05-1933
+
 CAPITULO VIII
 De la Fusión de las Sociedades
 (Se deroga).
@@ -2756,12 +2758,12 @@ CAPITULO IX
 De las Sociedades Extranjeras
 (Se deroga).
 Capítulo derogado DOF 04-08-1934
-
 Artículo 265.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 266.- (Se deroga).
 Artículo derogado DOF 04-08-1934
 Artículo 267.- (Se deroga).
+
 Artículo derogado DOF 04-08-1934
 CAPITULO X
 De las Asociaciones
@@ -2780,12 +2782,12 @@ Disposiciones Penales
 (Se deroga).
 Capítulo derogado DOF 04-08-1934
 Artículo 272.- (Se deroga).
-
 Artículo derogado DOF 04-08-1934
 TITULO TERCERO
 De la Comisión Mercantil
 CAPITULO I
 De los Comisionistas
+
 Artículo 273.- El mandato aplicado a actos
 concretos de comercio, se reputa comisión mercantil.
 Es comitente el que confiere comisión mercantil y
@@ -2806,13 +2808,13 @@ gestión en desempeño del encargo que le hizo el
 comitente, queda sujeto a continuarlo hasta su
 conclusión, entendiéndose que acepta tácitamente la
 comisión.
-
 Artículo 277.- Aunque el comisionista rehúse la
 comisión que se le confiera, no estará dispensado de
 practicar las diligencias que sean de indispensable
 necesidad para la conservación de los efectos que el
 comitente le haya remitido, hasta que éste provea de
 nuevo encargado, sin que por practicar tales
+
 diligencias se entienda tácitamente aceptada la
 comisión.
 Artículo 278.- Cuando sin causa legal dejare el
@@ -2834,10 +2836,10 @@ recibir dicho aviso, no provea de nuevo encargado
 que reciba los efectos que hubiere remitido.
 El producto líquido de los efectos así vendidos, será
 depositado a disposición del comitente en una
-
 institución de crédito, si la hubiere, o en poder de la
 persona que en su defecto designe la autoridad
 judicial.
+
 Artículo 280.- El comisionista debe desempeñar por
 sí los encargos que recibe, y no puede delegarlos sin
 estar autorizado para ello.
@@ -2860,12 +2862,12 @@ Artículo 283.- El comisionista, salvo siempre el
 contrato entre él y el comitente, podrá desempeñar la
 comisión tratando en su propio nombre o en el de su
 comitente.
-
 Artículo 284.- Cuando el comisionista contrate en
 nombre propio, tendrá acción y obligación
 directamente con las personas con quienes contrate,
 sin tener que declarar cuál sea la persona del
 comitente, salvo en el caso de seguros.
+
 Artículo 285.- Cuando el comisionista contratare
 expresamente en nombre del comitente, no contraerá
 obligación propia, rigiéndose en este caso sus
@@ -2889,12 +2891,12 @@ suspender
 el
 cumplimiento de la comisión, comunicándolo así al
 comitente por el medio más rápido posible.
-
 Artículo 289.- En las operaciones hechas por el
 comisionista, con violación o con exceso del encargo
 recibido, además de la indemnización a favor del
 comitente de daños y perjuicios, quedará á opción de
 éste ratificarlas o dejarlas a cargo del comisionista.
+
 Artículo 290.- El comisionista estará obligado a dar
 oportunamente noticia a su comitente, de todos los
 hechos o circunstancias que puedan determinarle a
@@ -2917,13 +2919,13 @@ Artículo 293.- El comisionista que habiendo recibido
 fondos para evacuar un encargo, les diere distinta
 inversión, sin perjuicio de la acción criminal a que
 hubiere lugar y de la indemnización de daños y
-
 perjuicios, abonará al comitente el capital y su interés
 legal desde el día en que lo recibió.
 Artículo 294.- Responderá el comisionista de los
 efectos y mercaderías que recibiere en los términos y
 con las condiciones y calidades con que se le avisare
 la remesa, a no ser que al encargarse de ellos hiciere
+
 constar por la certificación de dos corredores, ó dos
 comerciantes a falta de éstos, las averías ó deterioros
 que en dichos efectos hubiere.
@@ -2945,13 +2947,13 @@ Artículo 296.- El comisionista que hubiere de remitir
 efectos a otro punto, deberá contratar el transporte,
 cumpliendo las obligaciones que se imponen al
 cargador.
-
 Artículo 297.- El comisionista encargado de
 expedición de efectos deberá asegurarlos, si tuviere
 orden para ello, y la provisión de fondos necesaria, o
 se hubiere obligado a anticiparlos.
 Artículo 298.- Estará obligado el comisionista a
 rendir, con relación á sus libros, después de
+
 ejecutada la comisión, una cuenta completa y
 justificada de su cumplimiento, y a entregar al
 comitente el saldo de lo recibido. En caso de
@@ -2973,13 +2975,13 @@ a plazos, pudiendo en estos casos el comitente
 exigirle el pago al contado, dejando a favor del
 comisionista cualquier interés o ventaja que resulte de
 dicho crédito a plazo.
-
 Artículo 302.- Si el comisionista, con la debida
 autorización, vendiere á plazo, deberá avisarlo así al
 comitente participándole los nombres de los
 compradores, y no haciéndolo, se entenderá,
 respecto al comitente, que las ventas fueron al
 contado.
+
 Artículo 303.- El accionista que no verificare
 oportunamente la cobranza de los créditos, o no
 usare de los medios legales para conseguir el pago,
@@ -3002,11 +3004,11 @@ derechos de comisión, anticipaciones y gastos que el
 comisionista hubiere hecho por cuenta de ellos, y no
 podrá ser desposeído de los mismos sin ser antes
 pagado.
-
 Artículo 307.- Quedando siempre obligado a las
 resultas de las gestiones ya practicadas, el comitente
 podrá en cualquier tiempo revocar la comisión
 conferida al comisionista.
+
 La revocación intimada únicamente al comisionista,
 no puede ser opuesta a terceros contratantes que no
 la conociesen, salvo el derecho del comitente contra
@@ -3029,11 +3031,11 @@ constantemente alguna o algunas gestiones propias
 del tráfico, en nombre y por cuenta del propietario de
 éste. Todo comerciante en el ejercicio de su tráfico,
 podrá constituir factores y dependientes.
-
 Artículo 310.- Los factores deberán tener la
 capacidad necesaria para obligarse, y poder o
 autorización por escrito de la persona por cuya cuenta
 hagan el tráfico.
+
 Artículo 311.- Los factores negociarán y contratarán
 a nombre de sus principales, expresándolo así en los
 documentos que con tal carácter suscriban, pudiendo
@@ -3056,19 +3058,12 @@ por los factores recaigan sobre objetos comprendidos
 en el giro o tráfico de que están encargados, se
 entenderán hechos por cuenta del principal, aun
 cuando el factor no lo haya expresado así al
-
-celebrarlos, haya trasgredido
+celebrarlos, haya trasgredido sus facultades o
 cometido abuso de confianza.
-
-sus
-
-facultades
-
-o
-
 Artículo 316.- Asimismo obligarán al principal los
 contratos de su factor, aun siendo ajenos al giro de
 que esté encargado, siempre que haya obrado con
+
 orden de su principal, o éste los haya aprobado en
 términos expresos o por hechos positivos.
 Artículo 317.- Las multas en que puede incurrir el
@@ -3090,12 +3085,12 @@ encargado.
 Artículo 320.- Los actos y contratos ejecutados por
 el factor serán válidos respecto de su principal,
 mientras no llegue a noticia del factor la revocación
-
 del poder o la enajenación del establecimiento o
 empresa de que estaba encargado; y con relación a
 tercero, mientras no se haya cumplido, en cuanto a la
 revocación del poder, la inscripción y publicación de
 ella.
+
 Artículo 321.- Los actos de los dependientes
 obligarán a sus principales en todas las operaciones
 que éstos les tuvieren encomendadas.
@@ -3118,12 +3113,12 @@ Artículo 325.- Sólo con autorización de sus
 principales, podrán los factores y dependientes
 delegar en otros los encargos que recibieron de
 aquellos.
-
 Artículo 326.- Los principales indemnizarán a los
 factores y dependientes de los gastos que hicieren y
 pérdidas que sufrieren en el desempeño de su
 encargo, salvo lo expresamente pactado a este
 respecto.
+
 Artículo 327.- Los factores y dependientes serán
 responsables a sus principales de cualquier perjuicio
 que causen a sus intereses por malicia, negligencia o
@@ -3143,12 +3138,12 @@ Artículo 330.- Los principales podrán despedir a sus
 dependientes antes del plazo convenido:
 I.- Por fraude o abuso de confianza en los encargos
 que les hubieren confiado;
-
 II.- Por hacer alguna operación de comercio sin
 autorización de su principal, por cuenta propia;
 III.- Por faltar gravemente al respeto y consideración
 debidos a su principal o personas de su familia o
 dependencia.
+
 Artículo 331.- Los dependientes podrán despedirse
 de sus principales antes del plazo fijado:
 I.- Por falta de cumplimiento, por parte del principal,
@@ -3168,12 +3163,12 @@ depositario tiene derecho á exigir retribución por el
 depósito, la cual se arreglará a los términos del
 contrato, y en su defecto, a los usos de la plaza en
 que se constituyó el depósito.
-
 Artículo 334.- El depósito queda constituido
 mediante la entrega al depositario de la cosa que
 constituye su objeto.
 Artículo 335.- El depositario está obligado a
 conservar la cosa, objeto del depósito, según la
+
 reciba, y a devolverla con los documentos, si los
 tuviere, cuando el depositario se la pida.
 En la conservación del depósito responderá el
@@ -3194,13 +3189,13 @@ sin especificación de moneda, o sin cerrar o sellar, el
 depositario responderá de su conservación y riesgos,
 en los términos establecidos por el artículo anterior.
 Artículo 337.- (Se deroga).
-
 Artículo derogado DOF 27-08-1932
 Artículo 338.- Siempre que con asentimiento del
 depositante dispusiese el depositario de las cosas
 que fuesen objeto del depósito, ya para sí o sus
 negocios, ya para operaciones que aquel le
 encomendare, cesarán los derechos y obligaciones
+
 propias del depositante y depositario, surgiendo los
 del contrato que se celebrare.
 Artículo 339.- (Se deroga).
@@ -3219,11 +3214,11 @@ Artículo 343.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 344.- (Se deroga).
 Artículo derogado DOF 27-08-1932
-
 Artículo 345.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 346.- (Se deroga).
 Artículo derogado DOF 27-08-1932
+
 Artículo 347.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 348.- (Se deroga).
@@ -3241,12 +3236,12 @@ Artículo derogado DOF 27-08-1932
 Artículo 354.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 355.- (Se deroga).
-
 Artículo derogado DOF 27-08-1932
 Artículo 356.- (Se deroga)
 Artículo derogado DOF 27-08-1932
 Artículo 357.- (Se deroga)
 Artículo derogado DOF 27-08-1932
+
 TITULO QUINTO
 Del Préstamo Mercantil
 CAPITULO I
@@ -3267,12 +3262,12 @@ el pago, la alteración que experimente en valor será
 en daño o beneficio del prestador.
 En los préstamos de títulos o valores, pagará el
 deudor devolviendo otros tantos de la misma clase é
-
 idénticas condiciones, o sus equivalentes, si aquellos
 se hubiesen extinguido, salvo pacto en contrario.
 Si los préstamos fueren en especie, deberá el
 deudor devolver, á no mediar pacto en distinto
 sentido, igual cantidad en la misma especie y calidad,
+
 o su equivalente en metálico si se hubiese extinguido
 la especie debida.
 Artículo 360.- En los préstamos por tiempo
@@ -3294,12 +3289,12 @@ plaza en que deba hacerse la devolución, el día
 siguiente al del vencimiento, o por el que determinen
 peritos sí la mercadería estuviere extinguida al tiempo
 de hacerse su valuación.
-
 Y si consistiere el préstamo en títulos o valores, el
 rédito por mora será el que los mismos títulos o
 valores devenguen, o en su defecto el 6 por 100
 anual, determinándose el precio de los valores por el
 que tengan en la Bolsa, si fueren cotizables, o en
+
 caso contrario por el que tuvieren en la plaza el día
 siguiente al del vencimiento.
 Artículo 363.- Los intereses vencidos y no pagados,
@@ -3321,10 +3316,10 @@ Capítulo derogado DOF 27-08-1932
 Artículo 365.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 366.- (Se deroga).
-
 Artículo derogado DOF 27-08-1932
 Artículo 367.- (Se deroga).
 Artículo derogado DOF 27-08-1932
+
 Artículo 368.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 369.- (Se deroga).
@@ -3346,10 +3341,10 @@ traficar.
 Artículo 372.- En las compraventas mercantiles se
 sujetarán los contratantes a todas las estipulaciones
 lícitas con que las hubieren pactado.
-
 Artículo 373.- Las compraventas que se hicieren
 sobre muestras o calidades de mercancías
 determinadas y conocidas en el comercio, se tendrán
+
 por perfeccionadas por el solo consentimiento de las
 partes.
 En caso de desavenencia entre los contratantes, dos
@@ -3374,10 +3369,10 @@ una vez perfeccionado el contrato, el contratante que
 cumpliere tendrá derecho a exigir del que no
 cumpliere, la rescisión o cumplimiento del contrato, y
 la indemnización, además, de los daños y perjuicios.
-
 Artículo 377.- Una vez perfeccionado el contrato de
 compraventa, las pérdidas, daños o menoscabos que
 sobrevinieren a las mercaderías vendidas, serán por
+
 cuenta del comprador, si ya le hubieren sido
 entregadas real, jurídica o virtualmente; o si no le
 hubieren sido entregadas de ninguna de estas
@@ -3402,9 +3397,9 @@ términos y plazos convenidos. A falta de convenio lo
 deberá pagar de contado. La demora en el pago del
 precio lo constituirá en la obligación de pagar réditos
 al tipo legal sobre la cantidad que adeude.
-
 Artículo 381.- Salvo pacto en contrario, las
 cantidades que con el carácter de arras se entreguen
+
 en las ventas mercantiles, se reputarán dadas a
 cuenta de precio.
 Artículo 382.- Los gastos de entrega en las ventas
@@ -3428,9 +3423,9 @@ Artículo 385.- Las ventas mercantiles no se
 rescindirán por causa de lesión; pero al perjudicado,
 además de la acción criminal que le competa, le
 asistirá la de daños y perjuicios contra el contratante
-
 que hubiese procedido con fraude o malicia en el
 contrato o en su cumplimiento.
+
 Artículo 386.- Mientras que las mercancías
 vendidas estén en poder del vendedor, aunque sea
 en calidad de depósito, éste tendrá preferencia sobre
@@ -3454,10 +3449,10 @@ Artículo 390. La cesión producirá sus efectos
 legales con respecto al deudor, desde que le sea
 notificada ante dos testigos y contra terceros a partir
 de su inscripción en la Sección Única del Registro
-
 Único de Garantías Mobiliarias del Registro Público
 de Comercio.
 Artículo reformado DOF 13-06-2014
+
 Artículo 391.- Salvo pacto en contrario, el cedente
 de un crédito mercantil responderá tan solo de la
 legitimidad del crédito y de la personalidad con que
@@ -3481,10 +3476,10 @@ I. El consignatario tendrá la obligación de pagar el
 precio pactado con el consignante o de devolver
 el bien, salvo lo dispuesto por el tercer párrafo, de
 la fracción VI, de este artículo.
-
 II. El consignante trasmitirá la posesión de los
 bienes al consignatario, y en su momento, la
 propiedad de los mismos al adquirente; en caso
+
 contrario, estará obligado a responder por los
 daños y perjuicios causados, así como por el
 saneamiento en caso de evicción de los bienes
@@ -3517,9 +3512,9 @@ prenda dichos bienes hasta en tanto le sea
 cubierta la retribución, estándose además a lo
 dispuesto en el segundo párrafo de la fracción VII
 de este artículo.
-
 En caso de que el bien consignado sea vendido y
 habiéndose pactado una retribución para el
+
 consignatario ésta no se haya determinado, se
 estará a aquella que generalmente se fije en este
 tipo de contratos en la plaza respectiva, tomando
@@ -3548,9 +3543,9 @@ consignado o el pago del producto obtenido de la
 venta del mismo, en caso de que las partes
 hayan celebrado el contrato respectivo por
 escrito, el mismo traerá aparejada ejecución en
-
 términos de los establecido en la fracción VIII, del
 artículo 1391 de este Código.
+
 V. En caso de que los bienes consignados no hayan
 sido vendidos, el consignante no podrá disponer
 de ellos en tanto no se verifique el término
@@ -3578,9 +3573,9 @@ consignatorio cuando éste le sea entregado de
 manera real por el consignante, con la excepción
 de la pérdida o deterioro por caso fortuito o fuerza
 mayor tratándose de bienes individualmente
-
 designados los cuales correrán a cargo del
 consignante.
+
 VII. El consignatario podrá disponer válidamente
 del bien sólo con el fin previsto en el contrato. Los
 efectos consignados no podrán ser embargados
@@ -3607,8 +3602,8 @@ Artículo 394.- Son causas de terminación del
 contrato consignatorio:
 I. La ejecución total de las obligaciones derivadas
 del contrato;
-
 II. El vencimiento del plazo pactado;
+
 III.
 
 La Muerte de alguno de los contratantes;
@@ -3636,10 +3631,10 @@ Artículo derogado DOF 31-08-1935
 Artículo 397.- (Se deroga).
 Artículo derogado DOF 31-08-1935
 CAPITULO II
-
 Del Seguro contra Incendios
 (Se deroga).
 Capítulo derogado DOF 31-08-1935
+
 Artículo 398.- (Se deroga).
 Artículo derogado DOF 31-08-1935
 Artículo 399.- (Se deroga).
@@ -3659,9 +3654,9 @@ Artículo derogado DOF 31-08-1935
 Artículo 406.- (Se deroga).
 Artículo derogado DOF 31-08-1935
 Artículo 407.- (Se deroga).
-
 Artículo derogado DOF 31-08-1935
 Artículo 408.- (Se deroga).
+
 Artículo derogado DOF 31-08-1935
 Artículo 409.- (Se deroga).
 Artículo derogado DOF 31-08-1935
@@ -3681,9 +3676,9 @@ Artículo 416.- (Se deroga).
 Artículo derogado DOF 31-08-1935
 Artículo 417.- (Se deroga).
 Artículo derogado DOF 31-08-1935
-
 Artículo 418.- (Se deroga).
 Artículo derogado DOF 31-08-1935
+
 Artículo 419.- (Se deroga).
 Artículo derogado DOF 31-08-1935
 Artículo 420.- (Se deroga).
@@ -3704,9 +3699,9 @@ Del Seguro sobre la Vida
 Capítulo derogado DOF 31-08-1935
 Artículo 426.- (Se deroga).
 Artículo derogado DOF 31-08-1935
-
 Artículo 427.- (Se deroga).
 Artículo derogado DOF 31-08-1935
+
 Artículo 428.- (Se deroga).
 Artículo derogado DOF 31-08-1935
 Artículo 429.- (Se deroga).
@@ -3727,9 +3722,9 @@ Artículo 436.- (Se deroga).
 Artículo derogado DOF 31-08-1935
 Artículo 437.- (Se deroga).
 Artículo derogado DOF 31-08-1935
-
 Artículo 438.- (Se deroga).
 Artículo derogado DOF 31-08-1935
+
 Artículo 439.- (Se deroga).
 Artículo derogado DOF 31-08-1935
 Artículo 440.- (Se deroga).
@@ -3750,9 +3745,9 @@ Artículo 445.- (Se deroga).
 Artículo derogado DOF 31-08-1935
 Artículo 446.- (Se deroga).
 Artículo derogado DOF 31-08-1935
-
 Artículo 447.- (Se deroga).
 Artículo derogado DOF 31-08-1935
+
 CAPITULO V
 De las Demás Clases de Seguros
 (Se deroga).
@@ -3774,9 +3769,9 @@ Artículo 450.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 451.- (Se deroga).
 Artículo derogado DOF 27-08-1932
-
 Artículo 452.- (Se deroga).
 Artículo derogado DOF 27-08-1932
+
 Artículo 453.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 454.- (Se deroga).
@@ -3797,9 +3792,9 @@ Artículo 461.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 462.- (Se deroga).
 Artículo derogado DOF 27-08-1932
-
 Artículo 463.- (Se deroga).
 Artículo derogado DOF 27-08-1932
+
 Artículo 464.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 465.- (Se deroga).
@@ -3820,9 +3815,9 @@ Artículo 470.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 471.- (Se deroga).
 Artículo derogado DOF 27-08-1932
-
 Artículo 472.- (Se deroga).
 Artículo derogado DOF 27-08-1932
+
 Artículo 473.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 474.- (Se deroga).
@@ -3843,9 +3838,9 @@ Artículo 479.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 480.- (Se deroga).
 Artículo derogado DOF 27-08-1932
-
 Artículo 481.- (Se deroga).
 Artículo derogado DOF 27-08-1932
+
 Artículo 482.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 483.- (Se deroga).
@@ -3866,9 +3861,9 @@ Artículo derogado DOF 27-08-1932
 Artículo 488.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 489.- (Se deroga).
-
 Artículo derogado DOF 27-08-1932
 Artículo 490.- (Se deroga).
+
 Artículo derogado DOF 27-08-1932
 Artículo 491.- (Se deroga).
 Artículo derogado DOF 27-08-1932
@@ -3889,9 +3884,9 @@ Artículo derogado DOF 27-08-1932
 Artículo 497.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 498.- (Se deroga).
-
 Artículo derogado DOF 27-08-1932
 CAPITULO VI
+
 Del Pago
 (Se deroga).
 Capítulo derogado DOF 27-08-1932
@@ -3912,9 +3907,9 @@ Artículo derogado DOF 27-08-1932
 Artículo 506.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 507.- (Se deroga).
-
 Artículo derogado DOF 27-08-1932
 Artículo 508.- (Se deroga).
+
 Artículo derogado DOF 27-08-1932
 Artículo 509.- (Se deroga).
 Artículo derogado DOF 27-08-1932
@@ -3935,9 +3930,9 @@ Artículo derogado DOF 27-08-1932
 Artículo 515.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 516.- (Se deroga).
-
 Artículo derogado DOF 27-08-1932
 Artículo 517.- (Se deroga).
+
 Artículo derogado DOF 27-08-1932
 Artículo 518.- (Se deroga).
 Artículo derogado DOF 27-08-1932
@@ -3958,9 +3953,9 @@ Artículo derogado DOF 27-08-1932
 Artículo 524.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 525.- (Se deroga).
-
 Artículo derogado DOF 27-08-1932
 Artículo 526.- (Se deroga).
+
 Artículo derogado DOF 27-08-1932
 CAPITULO IX
 De las Acciones que Competen al Portador de una
@@ -3981,9 +3976,9 @@ Artículo derogado DOF 27-08-1932
 Artículo 533.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 534.- (Se deroga).
-
 Artículo derogado DOF 27-08-1932
 Artículo 535.- (Se deroga).
+
 Artículo derogado DOF 27-08-1932
 Artículo 536.- (Se deroga).
 Artículo derogado DOF 27-08-1932
@@ -4004,9 +3999,9 @@ Artículo derogado DOF 27-08-1932
 Artículo 542.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 543.- (Se deroga).
-
 Artículo derogado DOF 27-08-1932
 Artículo 544.- (Se deroga).
+
 Artículo derogado DOF 27-08-1932
 TITULO NOVENO
 De las Libranzas, Vales, Pagares, Cheques y
@@ -4028,9 +4023,9 @@ Artículo derogado DOF 27-08-1932
 Artículo 549.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 550.- (Se deroga).
-
 Artículo derogado DOF 27-08-1932
 Artículo 551.- (Se deroga).
+
 Artículo derogado DOF 27-08-1932
 CAPITULO II
 De los Cheques
@@ -4051,9 +4046,9 @@ Artículo derogado DOF 27-08-1932
 Artículo 558.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 559.- (Se deroga).
-
 Artículo derogado DOF 27-08-1932
 Artículo 560.- (Se deroga).
+
 Artículo derogado DOF 27-08-1932
 Artículo 561.- (Se deroga).
 Artículo derogado DOF 27-08-1932
@@ -4074,9 +4069,9 @@ Artículo derogado DOF 27-08-1932
 Artículo 567.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 568.- (Se deroga).
-
 Artículo derogado DOF 27-08-1932
 Artículo 569.- (Se deroga).
+
 Artículo derogado DOF 27-08-1932
 Artículo 570.- (Se deroga).
 Artículo derogado DOF 27-08-1932
@@ -4097,7 +4092,6 @@ Del Contrato Mercantil de Transporte Terrestre
 Artículo 576.- El contrato de transportes por vías
 terrestres o fluviales de todo género se reputará
 mercantil:
-
 I.- Cuando tenga por objeto
 cualesquiera efectos del comercio;
 
@@ -4128,9 +4122,9 @@ Artículo 579.- El contrato de transporte se rescindirá
 de hecho antes de emprenderse el viaje, o durante su
 curso; si sobreviniere algún suceso de fuerza mayor
 que impida verificarlo o continuarlo, como declaración
-
 de guerra, prohibición de comercio, intercepción de
 caminos ú otros acontecimientos análogos.
+
 Artículo 580.- En los casos previstos en el artículo
 anterior, cada uno de los interesados perderá los
 gastos que hubiese hecho, si el viaje no se ha
@@ -4153,11 +4147,11 @@ II.- El nombre, apellido y domicilio del porteador;
 III.- El nombre, apellido y domicilio de la persona a
 quien o á cuya orden vayan dirigidos los efectos, o si
 han de entregarse al portador de la misma carta;
-
 IV.- La designación de los efectos, con expresión de
 su calidad genérica, de su peso y de las marcas o
 signos exteriores de los bultos en que se contengan;
 V.- El precio del transporte;
+
 VI.- La fecha en que se hace la expedición;
 VII.- El lugar de la entrega al porteador;
 VIII.- El lugar y el plazo en que habrá de hacerse la
@@ -4179,11 +4173,11 @@ por cuyo contenido se decidirán las cuestiones que
 ocurran sobre su ejecución y cumplimiento, sin admitir
 más excepciones que la falsedad y error material de
 su redacción.
-
 Cumpliendo el contrato se devolverá al porteador la
 carta de porte que hubiere expedido, y en virtud del
 canje de este título por el objeto porteado se tendrán
 por canceladas las respectivas obligaciones y
+
 acciones, salvo cuando en el mismo acto se hicieren
 constar por escrito en el mismo título las
 reclamaciones que las partes quisieran reservarse;
@@ -4208,11 +4202,11 @@ circunstancias requeridas en el art. 581 no invalidará
 la carta de porte, ni destruirá su fuerza probatoria,
 pudiendo rendir sobre las que faltan las pruebas
 relativas.
-
 Artículo 586.- Las cartas de porte o billetes en los
 casos de transporte de viajeros por ferrocarriles ú
 otras empresas sujetas a tarifas, podrán ser
 diferentes, unos para las personas y otros para los
+
 equipajes; pero todos contendrán la indicación del
 porteador, la fecha de la expedición, los puntos de
 salida y llegada, el precio, y en lo tocante a equipajes,
@@ -4234,12 +4228,12 @@ que entregue al cargador.
 Artículo 588.- El cargador está obligado:
 I.- A entregar las mercancías en las condiciones,
 lugar y tiempo convenidos;
-
 II.- A dar los documentos necesarios, así fiscales
 como municipales para el libre tránsito y pasaje de la
 carga;
 III.- A sufrir los comisos, multas y demás penas que
 se le impongan por infracción de las leyes fiscales, y a
+
 indemnizar al porteador de los perjuicios que se le
 causen por la violación de las mismas.
 IV.- A sufrir las pérdidas y averías de las mercancías
@@ -4261,11 +4255,11 @@ mientras estuvieren en camino, si diere con
 oportunidad la orden respectiva al porteador y le
 entregare la carta de porte expedida a favor del
 primer consignatario;
-
 II.- A variar, dentro de la ruta convenida, el lugar de
 la entrega de la carga, dando oportunamente al
 porteador la orden respectiva, pagando la totalidad
 del flete estipulado y canjeando la carta de porte
+
 primitiva por otra, debiendo indicar al porteador el
 nuevo consignatario, si lo hubiere.
 Artículo 590.- El porteador está obligado:
@@ -4285,12 +4279,12 @@ de porte o de la orden respectiva en defecto de ella;
 VI.- A pagar, en caso de retardo que le sea
 imputable, la indemnización convenida, o si no se ha
 estipulado, el perjuicio que haya causado al cargador,
-
 deduciéndose en uno y otro caso el monto respectivo
 del precio del transporte;
 VII.- A entregar las mercancías por peso, cuenta y
 medida, si así están consideradas en la carta de
 porte, a no ser que estén en barricas, cajones o
+
 fardos, pues entonces cumplirá con entregar éstos sin
 lesión exterior;
 VIII.- A probar que las pérdidas o averías de las
@@ -4310,13 +4304,13 @@ Artículo 591.- El porteador tiene derecho:
 I.- A recibir la mitad del porte convenido, si por
 negligencia o culpa del cargador no se verificare el
 viaje;
-
 II.- A percibir la totalidad del porte convenido, si por
 negligencia o culpa del cargador no se verificare el
 viaje, siempre que a virtud del convenio de transporte
 hubiere destinado algún vehículo con el exclusivo
 objeto de verificar el transporte de las mercancías,
 descontándose lo que el porteador hubiese
+
 aprovechado por conducción de otras mercancías en
 el mismo vehículo;
 III.- A rescindir el contrato, si comenzado el viaje
@@ -4343,18 +4337,10 @@ de
 responsabilidad que no provenga de fraude o dolo;
 VI.- A que el consignatario le reciba de la carga
 averiada las mercancías que estén ilesas, siempre
-
-que separadas de las
+que separadas de las averiadas no sufrieren
 disminución en su valor;
-
-averiadas
-
 VII.- A retener las mercancías
 mientras no se le pague el porte;
-
-no
-
-sufrieren
 
 transportadas,
 
@@ -4379,11 +4365,11 @@ Artículo 594.- Las responsabilidades a que se
 refiere el artículo anterior, son las civiles y no las
 penales, las que seguirán para su prescripción las
 reglas establecidas en el Código Penal.
-
 Artículo 595.- El consignatario está obligado:
 I.- A recibir las mercancías sin demora, siempre que
 lo permita su estado y que tengan las condiciones
 expresadas en la carta de porte;
+
 II.- Abrir y reconocer los bultos que contengan las
 mercancías en el acto de su recepción, cuando lo
 solicite el porteador. Si el consignatario rehusare
@@ -4404,11 +4390,11 @@ VI.- A cumplir con las órdenes del cargador, dándole
 cuenta, sin pérdida de tiempo, de cuanto ocurra
 relativo a las mercancías porteadas.
 Artículo 596.- El consignatario tiene derecho:
-
 I.- A que mientras sea tenedor de la carta de porte
 expedida a su favor, se le entreguen las mercancías,
 cualesquiera que sean las órdenes que en contrario
 diere el cargador con posterioridad;
+
 II.- A no recibir las mercancías en los casos
 expresados en este título, y además cuando su valor
 no alcance a cubrir los gastos y desembolsos que
@@ -4430,11 +4416,11 @@ administración principal y en las oficinas que con tal
 objeto tengan en el tránsito.
 Artículo 599.- Si un jefe de estación, un conductor
 de vehículo terrestre o un patrón de embarcación,
-
 recibe carga o pasajeros fuera de la administración
 principal o de las estaciones del tránsito, obliga por
 ese hecho a la empresa de transportes, salva la
 responsabilidad que ésta pueda exigir a su empleado.
+
 Artículo 600.- Los Empresarios de transportes están
 obligados:
 I. A publicar en el sistema electrónico establecido
@@ -4461,11 +4447,11 @@ IV.- A entregar la carga en los puntos convenidos,
 tan luego como llegue a su destino, al que
 presente el conocimiento respectivo, siempre que
 cumpla con las obligaciones que contenga, y á
-
 depositarla en sus almacenes mientras que no
 haya quien se presente a recibirla; así como a
 devolver a los pasajeros, en los momentos de
 terminar el viaje, los sacos de noche ó maletas
+
 que al tiempo de partir den a los conductores, si
 éstos tuvieren el deber de su vigilancia.
 Artículo 601.- El cargador está obligado a declarar
@@ -4490,11 +4476,11 @@ desde luego lo bastante a cubrir las responsabilidades
 que sobre ellos pesaren con motivo de su conducción,
 y con el resto se cumplan las obligaciones impuestas
 para esos casos por derecho.
-
 Artículo 604.- Si después del plazo a que alude el
 artículo anterior, el cargador o su representante se
 presentaren a exigir la devolución de las mercancías,
 quedará libre la empresa de toda responsabilidad y de
+
 toda ulterior contestación, poniendo de manifiesto el
 certificado mandado expedir por la autoridad judicial a
 cuya disposición se hayan puesto.
@@ -4515,10 +4501,10 @@ Artículo derogado DOF 27-08-1932
 Artículo 610.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 611.- (Se deroga).
-
 Artículo derogado DOF 27-08-1932
 Artículo 612.- (Se deroga).
 Artículo derogado DOF 27-08-1932
+
 Artículo 613.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 614.- (Se deroga).
@@ -4539,9 +4525,9 @@ Artículo derogado DOF 27-08-1932
 Artículo 617.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 618.- (Se deroga).
-
 Artículo derogado DOF 27-08-1932
 CAPITULO II
+
 Del robo, hurto o extravío de los documentos de
 crédito y efectos al portador
 (Se deroga).
@@ -4562,9 +4548,9 @@ Artículo 625.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 626.- (Se deroga).
 Artículo derogado DOF 27-08-1932
-
 Artículo 627.- (Se deroga).
 Artículo derogado DOF 27-08-1932
+
 Artículo 628.- (Se deroga).
 Artículo derogado DOF 27-08-1932
 Artículo 629.- (Se deroga).
@@ -4585,9 +4571,9 @@ Artículo 635.- La base de la moneda mercantil es el
 peso mexicano, y sobre esta base se harán todas las
 operaciones de comercio y los cambios sobre el
 extranjero.
-
 Artículo 636.- Esta misma base servirá para los
 contratos hechos en el Extranjero y que deban
+
 cumplirse en la República Mexicana, así como los
 giros que se hagan de otros países.
 Artículo 637.- Las monedas extranjeras efectivas o
@@ -4606,18 +4592,17 @@ Se deroga
 Título derogado DOF 10-01-2014
 Artículo 640.- Se deroga
 Artículo reformado DOF 09-04-2012. Derogado DOF 1001-2014
+Nota: De conformidad con la fracción III del artículo Tercero
+Transitorio de la Ley de Navegación, publicada en el DOF
+04-01-1994, se establece que se derogan “los artículos (…)
+641 a 944 (…) del Código de Comercio”, que conforman el
+Libro Tercero de este Código. Sin embargo, los artículos del
+Libro Tercero ya habían sido previamente derogados
+conforme lo establecido en el artículo 2o. Transitorio de la Ley
 
-Nota: De conformidad con la fracción III del artículo
-Tercero Transitorio de la Ley de Navegación,
-publicada en el DOF 04-01-1994, se establece que se
-derogan “los artículos (…) 641 a 944 (…) del Código
+de Navegación y Comercio Marítimo, publicada en el DOF
+21-11-1963.
 
-de Comercio”, que conforman el Libro Tercero de este
-Código. Sin embargo, los artículos del Libro Tercero
-ya habían sido previamente derogados conforme lo
-establecido en el artículo 2o. Transitorio de la Ley de
-Navegación y Comercio Marítimo, publicada en el
-DOF 21-11-1963.
 LIBRO TERCERO
 Del Comercio Marítimo
 (Se deroga).
@@ -4636,10 +4621,10 @@ Artículo 644.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 645.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
-
 Artículo 646.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 647.- (Se deroga).
+
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 648.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
@@ -4659,9 +4644,9 @@ Artículo 655.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 656.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
-
 Artículo 657.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
+
 Artículo 658.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 659.- (Se deroga).
@@ -4682,10 +4667,10 @@ TITULO SEGUNDO
 De las Personas que Intervienen en el Comercio
 Marítimo
 (Se deroga).
-
 Título derogado DOF 21-11-1963
 CAPITULO I
 De los Navieros
+
 (Se deroga).
 Capítulo derogado DOF 21-11-1963
 Artículo 666.- (Se deroga).
@@ -4705,10 +4690,10 @@ Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 673.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 674.- (Se deroga).
-
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 675.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
+
 Artículo 676.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 677.- (Se deroga).
@@ -4728,10 +4713,10 @@ De los Capitanes
 (Se deroga).
 Capítulo derogado DOF 21-11-1963
 Artículo 683.- (Se deroga).
-
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 684.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
+
 Artículo 685.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 686.- (Se deroga).
@@ -4750,10 +4735,10 @@ Artículo 692.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 693.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
-
 Artículo 694.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 695.- (Se deroga).
+
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 696.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
@@ -4773,10 +4758,10 @@ Artículo 701.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 702.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
-
 Artículo 703.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 704.- (Se deroga).
+
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 705.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
@@ -4796,9 +4781,9 @@ Artículo 712.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 713.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
-
 Artículo 714.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
+
 Artículo 715.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 716.- (Se deroga).
@@ -4818,10 +4803,10 @@ Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 723.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 CAPITULO IV
-
 De los Sobrecargos
 (Se deroga).
 Capítulo derogado DOF 21-11-1963
+
 Artículo 724.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 725.- (Se deroga).
@@ -4843,10 +4828,10 @@ Fletamento
 Derogado DOF 21-11-1963
 Artículo 727.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
-
 Artículo 728.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 729.- (Se deroga).
+
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 730.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
@@ -4866,9 +4851,9 @@ Artículo 737.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 738.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
-
 Artículo 739.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
+
 Artículo 740.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 741.- (Se deroga).
@@ -4889,9 +4874,9 @@ Artículo 746.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 747.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
-
 Artículo 748.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
+
 Artículo 749.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 750.- (Se deroga).
@@ -4912,9 +4897,9 @@ Artículo 755.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 756.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
-
 Artículo 757.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
+
 Artículo 758.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 759.- (Se deroga).
@@ -4935,10 +4920,10 @@ Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 764.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 765.- (Se deroga).
-
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 766.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
+
 Artículo 767.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 CAPITULO V
@@ -4958,10 +4943,10 @@ Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 773.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 774.- (Se deroga).
-
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 775.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
+
 Artículo 776.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 777.- (Se deroga).
@@ -4981,10 +4966,10 @@ Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 782.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 783.- (Se deroga).
-
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 784.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
+
 Artículo 785.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 786.- (Se deroga).
@@ -5003,11 +4988,11 @@ Artículo 792.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 793.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
-
 CAPITULO VII
 Del Contrato a la Gruesa o Préstamo a Riesgo
 Marítimo
 (Se deroga).
+
 Capítulo derogado DOF 21-11-1963
 Artículo 794.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
@@ -5027,9 +5012,9 @@ Artículo 801.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 802.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
-
 Artículo 803.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
+
 Artículo 804.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 805.- (Se deroga).
@@ -5050,9 +5035,9 @@ CAPITULO VIII
 De los Seguros Marítimos.- De la forma de este
 Contrato
 (Se deroga).
-
 Capítulo derogado DOF 21-11-1963
 Artículo 812.- (Se deroga).
+
 Artículo reformado DOF 03-05-1946. Derogado DOF 2111-1963, 04-01-1994
 Artículo 813.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
@@ -5073,9 +5058,9 @@ Artículo 818.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 819.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
-
 Artículo 820.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
+
 Artículo 821.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 822.- (Se deroga).
@@ -5094,10 +5079,10 @@ Artículo 828.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 829.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
-
 CAPITULO X
 Obligaciones entre el Asegurador y Asegurado
 (Se deroga).
+
 Capítulo derogado DOF 21-11-1963
 Artículo 830.- (Se deroga).
 Artículo reformado DOF 03-05-1946. Derogado DOF 2111-1963, 04-01-1994
@@ -5116,9 +5101,9 @@ Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 837.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 838.- (Se deroga).
-
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 839.- (Se deroga).
+
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 840.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
@@ -5138,9 +5123,9 @@ Artículo 847.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 848.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
-
 Artículo 849.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
+
 Artículo 850.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 851.- (Se deroga).
@@ -5162,9 +5147,9 @@ Artículo 856.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 857.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
-
 Artículo 858.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
+
 Artículo 859.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 860.- (Se deroga).
@@ -5185,9 +5170,9 @@ Artículo 865.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 866.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
-
 Artículo 867.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
+
 Artículo 868.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 869.- (Se deroga).
@@ -5207,9 +5192,9 @@ Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 876.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 877.- (Se deroga).
-
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 878.- (Se deroga).
+
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 879.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
@@ -5231,9 +5216,9 @@ Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 883.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 884.- (Se deroga).
-
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 885.- (Se deroga).
+
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 886.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
@@ -5254,9 +5239,9 @@ Artículo derogado DOF 21-11-1963, 04-01-1994
 CAPITULO II
 De las Arribadas Forzosas
 (Se deroga).
-
 Capítulo derogado DOF 21-11-1963
 Artículo 894.- (Se deroga).
+
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 895.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
@@ -5277,9 +5262,9 @@ Capítulo derogado DOF 21-11-1963
 Artículo 901.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 902.- (Se deroga).
-
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 903.- (Se deroga).
+
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 904.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
@@ -5299,9 +5284,9 @@ Artículo 911.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 912.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
-
 Artículo 913.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
+
 Artículo 914.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 CAPITULO IV
@@ -5323,9 +5308,9 @@ Artículo derogado DOF 21-11-1963, 04-01-1994
 TITULO QUINTO
 De la Justificación y Liquidación de las Averías
 (Se deroga).
-
 Título derogado DOF 21-11-1963
 CAPITULO I
+
 Disposiciones Comunes a Toda Clase de Averías
 (Se deroga).
 Capítulo derogado DOF 21-11-1963
@@ -5347,9 +5332,9 @@ Artículo 926.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 927.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
-
 Artículo 928.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
+
 Artículo 929.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 930.- (Se deroga).
@@ -5369,9 +5354,9 @@ Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 937.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 938.- (Se deroga).
-
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 939.- (Se deroga).
+
 Artículo derogado DOF 21-11-1963, 04-01-1994
 Artículo 940.- (Se deroga).
 Artículo derogado DOF 21-11-1963, 04-01-1994
@@ -5392,10 +5377,10 @@ TITULO PRIMERO
 De las Quiebras
 (Se deroga).
 Título derogado DOF 20-04-1943
-
 CAPITULO I
 Disposiciones Generales
 (Se deroga).
+
 Capítulo derogado DOF 20-04-1943
 Artículo 945.- (Se deroga).
 Artículo derogado DOF 20-04-1943
@@ -5416,9 +5401,9 @@ De la Clasificación de las Quiebras
 (Se deroga).
 Capítulo derogado DOF 20-04-1943
 Artículo 952.- (Se deroga).
-
 Artículo derogado DOF 20-04-1943
 Artículo 953.- (Se deroga).
+
 Artículo derogado DOF 20-04-1943
 Artículo 954.- (Se deroga).
 Artículo derogado DOF 20-04-1943
@@ -5439,9 +5424,9 @@ Artículo derogado DOF 20-04-1943
 CAPITULO III
 De los Efectos del Estado de Quiebra
 (Se deroga).
-
 Capítulo derogado DOF 20-04-1943
 Artículo 962.- (Se deroga).
+
 Artículo derogado DOF 20-04-1943
 Artículo 963.- (Se deroga).
 Artículo derogado DOF 20-04-1943
@@ -5461,9 +5446,9 @@ Artículo 970.- (Se deroga).
 Artículo derogado DOF 20-04-1943
 Artículo 971.- (Se deroga).
 Artículo derogado DOF 20-04-1943
-
 Artículo 972.- (Se deroga).
 Artículo derogado DOF 20-04-1943
+
 Artículo 973.- (Se deroga).
 Artículo derogado DOF 20-04-1943
 Artículo 974.- (Se deroga).
@@ -5484,9 +5469,9 @@ Artículo 981.- (Se deroga).
 Artículo derogado DOF 20-04-1943
 Artículo 982.- (Se deroga).
 Artículo derogado DOF 20-04-1943
-
 Artículo 983.- (Se deroga).
 Artículo derogado DOF 20-04-1943
+
 CAPITULO IV
 De la Época de la Quiebra
 (Se deroga).
@@ -5508,9 +5493,9 @@ Artículo 988.- (Se deroga).
 Artículo derogado DOF 20-04-1943
 Artículo 989.- (Se deroga).
 Artículo derogado DOF 20-04-1943
-
 Artículo 990.- (Se deroga).
 Artículo derogado DOF 20-04-1943
+
 Artículo 991.- (Se deroga).
 Artículo derogado DOF 20-04-1943
 Artículo 992.- (Se deroga).
@@ -5531,9 +5516,9 @@ De la Graduación
 Capítulo derogado DOF 20-04-1943
 Artículo 998.- (Se deroga).
 Artículo derogado DOF 20-04-1943
-
 Artículo 999.- (Se deroga).
 Artículo derogado DOF 20-04-1943
+
 Artículo 1000.- (Se deroga).
 Artículo derogado DOF 20-04-1943
 Artículo 1001.- (Se deroga).
@@ -5553,10 +5538,10 @@ Artículo derogado DOF 20-04-1943
 Artículo 1008.- (Se deroga).
 Artículo derogado DOF 20-04-1943
 CAPITULO VII
-
 De la Rehabilitación
 (Se deroga).
 Capítulo derogado DOF 20-04-1943
+
 Artículo 1009.- (Se deroga).
 Artículo derogado DOF 20-04-1943
 Artículo 1010.- (Se deroga).
@@ -5577,9 +5562,9 @@ en las Sociedades Mercantiles
 (Se deroga).
 Capítulo derogado DOF 20-04-1943
 Artículo 1016.- (Se deroga).
-
 Artículo derogado DOF 20-04-1943
 Artículo 1017.- (Se deroga).
+
 Artículo derogado DOF 20-04-1943
 Artículo 1018.- (Se deroga).
 Artículo derogado DOF 20-04-1943
@@ -5600,9 +5585,9 @@ Artículo derogado DOF 20-04-1943
 CAPITULO IX
 De las Quiebras de las Compañías y Empresas de
 Ferrocarriles y demás Obras Públicas
-
 (Se deroga).
 Capítulo derogado DOF 20-04-1943
+
 Artículo 1026.- (Se deroga).
 Artículo derogado DOF 20-04-1943
 Artículo 1027.- (Se deroga).
@@ -5623,9 +5608,9 @@ Artículo 1034.- (Se deroga).
 Artículo derogado DOF 20-04-1943
 Artículo 1035.- (Se deroga).
 Artículo derogado DOF 20-04-1943
-
 Artículo 1036.- (Se deroga).
 Artículo derogado DOF 20-04-1943
+
 Artículo 1037.- (Se deroga).
 Artículo derogado DOF 20-04-1943
 TITULO SEGUNDO
@@ -5648,9 +5633,9 @@ que se funde el derecho del acreedor.
 Se considerará la prescripción como no interrumpida
 por la interpelación judicial, si el actor desistiese de
 ella o fuese desestimada su demanda.
-
 Artículo 1042.- Empezará a contarse el nuevo
 término de la prescripción en caso de reconocimiento
+
 de las obligaciones, desde el día que se haga; en el
 de renovación desde la fecha del nuevo título; y si en
 él se hubiere prorrogado el plazo del cumplimiento de
@@ -5684,6 +5669,7 @@ Fracción derogada DOF 04-01-1994
 
 VI.- Las acciones nacidas de servicios, obras,
 provisiones o suministros de efectos o de dinero
+
 para construir, reparar, pertrechar o avituallar los
 buques o mantener la tripulación;
 VII.- (Se deroga).
@@ -5705,9 +5691,9 @@ Artículo 1046.- La acción para reivindicar la
 propiedad de un navío prescribe en diez años, aun
 cuando el que lo posea carezca de título o de buena
 fe.
-
 El capitán de un navío no puede adquirir éste a
 virtud de la prescripción.
+
 Artículo 1047.- En todos los casos en que el
 presente Código no establezca para la prescripción
 un plazo más corto, la prescripción ordinaria en
@@ -5731,9 +5717,9 @@ Artículo 1050.- Cuando conforme a las
 disposiciones mercantiles, para una de las partes que
 intervienen en un acto, éste tenga naturaleza
 comercial y para la otra tenga naturaleza civil la
-
 controversia que del mismo se derive se regirá
 conforme a las leyes mercantiles.
+
 Artículo reformado DOF 04-01-1989
 Artículo 1051.- El procedimiento mercantil
 preferente a todos es el que libremente convengan las
@@ -5759,9 +5745,9 @@ Artículo reformado DOF 04-01-1989
 Artículo 1052.- Los tribunales se sujetarán al
 procedimiento convencional que las partes hubieren
 pactado siempre que el mismo se hubiere formalizado
-
 en escritura pública, póliza ante corredor o ante el
 juez que conozca de la demanda en cualquier estado
+
 del juicio, y se respeten las formalidades esenciales
 del procedimiento.
 Artículo reformado DOF 04-01-1989
@@ -5806,20 +5792,18 @@ términos de los anteriores artículos, salvo que las
 leyes mercantiles establezcan un procedimiento
 especial o una supletoriedad expresa, los juicios
 mercantiles se regirán por las disposiciones de este
-libro y, en su defecto, se aplicará supletoriamente el
-Código Federal de Procedimientos Civiles y en caso
-de que no regule suficientemente la institución cuya
-supletoriedad se requiera, la ley de procedimientos
-local respectiva.
-Artículo reformado DOF 04-01-1989, 24-05-1996, 13-062003, 17-04-2008, 30-12-2008
+Libro y, en su defecto, se aplicará supletoriamente el
+Código Nacional de Procedimientos Civiles y
+Familiares.
+Artículo reformado DOF 04-01-1989, 24-05-1996, 13-062003, 17-04-2008, 30-12-2008, 14-11-2025
 Artículo 1055.- Los juicios mercantiles, son
 ordinarios, orales, ejecutivos o los especiales que se
 encuentren regulados por cualquier ley de índole
 comercial. Todos los juicios mercantiles con
-
 excepción de los orales que tienen señaladas reglas
 especiales, se sujetarán a lo siguiente:
 Párrafo reformado DOF 09-01-2012
+
 I. Todos los ocursos de las partes y actuaciones
 judiciales deberán escribirse en idioma español;
 fácilmente legibles a simple vista, y deberán estar
@@ -5850,11 +5834,11 @@ certificar el acto;
 V. Los secretarios cuidarán de que las promociones
 originales o en copias sean claramente legibles y
 de que los expedientes sean exactamente
-
 foliados, al agregarse cada una de las hojas;
 rubricarán todas éstas en el centro de los escritos
 sellándolo en el fondo del cuaderno, de manera
 que se abarquen las dos páginas;
+
 VI.
 
 Las copias simples de los documentos que se
@@ -5882,10 +5866,10 @@ acciones en juicio ejecutivo mercantil, ordinario,
 especial, sumario hipotecario o el que corresponda,
 de acuerdo a este Código, a la legislación mercantil o
 a la legislación civil aplicable, conservando la garantía
-
 real y su preferencia en el pago, aun cuando los
 bienes gravados se señalen para la práctica de la
 ejecución.
+
 Artículo adicionado DOF 13-06-2003. Reformado DOF 1001-2014
 CAPITULO II
 De la capacidad y personalidad
@@ -5910,10 +5894,10 @@ inmediata, sin perjuicio de lo dispuesto por el artículo
 Artículo reformado DOF 24-05-1996, 17-04-2008
 Artículo 1058.- Por aquel que no estuviere presente
 en el lugar del juicio ni tenga representante legítimo,
-
 podrá comparecer un gestor judicial para promover en
 el interés del actor o del demandado, y siempre
 sujetándose a las disposiciones de los artículos
+
 relativos del Código Civil Federal, y gozará de los
 derechos y facultades de un mandatario judicial. Si la
 ratificación de la gestión se da antes de exhibir la
@@ -5940,10 +5924,10 @@ continuación del juicio. En caso de no designar
 mandatario, podrán elegir de entre ellas mismas un
 representante común. Si dentro del término señalado,
 no nombraren mandatario judicial ni hicieren la
-
 elección de representante común, o no se pusieren de
 acuerdo en ella, el juez nombrará al representante
 común escogiendo a alguno de los que hayan sido
+
 propuestos; y si nadie lo hubiere sido, a cualquiera de
 los interesados.
 El representante común que designe el juez tendrá
@@ -5973,10 +5957,10 @@ responderán de los daños y perjuicios que causen a
 sus poderdantes y representados. El mandatario o el
 representante común podrán actuar por medio de
 apoderado o mandatario y autorizar personas para oír
-
 notificaciones en los términos del Artículo 1069 de
 este Código.
 Artículo reformado DOF 24-05-1996
+
 Artículo 1061.- Al primer escrito se acompañarán
 precisamente:
 I. El poder que acredite la personalidad del que
@@ -6001,11 +5985,11 @@ deberá acreditar la solicitud de expedición del
 documento de que carezca, para lo cual la copia
 simple sellada por el archivo, protocolo o
 dependencia, deberá exhibirla con la contestación o
-
 dentro de los tres días siguientes al del vencimiento
 del término para contestar la demanda.
 Se entiende que las partes tienen a su disposición
 los documentos, siempre que legalmente puedan
+
 pedir copia autorizada de los originales y exista
 obligación de expedírselos. Si las partes no tuvieren a
 su disposición o por cualquier otra causa no pudiesen
@@ -6031,11 +6015,11 @@ IV. Además de lo señalado en la fracción III, con la
 demanda y contestación se acompañarán todos los
 documentos que las partes tengan en su poder y que
 deban de servir como pruebas de su parte; y, los que
-
 presentaren después, con violación de este precepto,
 no le serán admitidos, salvo que se trate de pruebas
 supervenientes, y
 Fracción adicionada DOF 24-05-1996
+
 V. Copia simple o fotostática siempre que sean
 legibles a simple vista, tanto del escrito de demanda
 como de los demás documentos referidos, incluyendo
@@ -6058,12 +6042,13 @@ Artículo 1061 Bis. En todos los juicios mercantiles
 se reconoce como prueba la información generada o
 comunicada que conste en medios digitales, ópticos o
 en cualquier otra tecnología. Su valor probatorio se
-regirá conforme a lo previsto por el artículo 210-A del
-Código Federal de Procedimientos Civiles.
-Artículo adicionado DOF 13-06-2014
-
+regirá conforme a lo previsto por los artículos 348,
+349 y 350 del Código Nacional de Procedimientos
+Civiles y Familiares.
+Artículo adicionado DOF 13-06-2014. Reformado DOF 1411-2025
 Artículo 1062.- En el caso de que se demuestre
 haber solicitado al protocolo dependencia o archivo
+
 público la expedición del documento y no se expida,
 el juez ordenará al jefe o director responsable, que lo
 expida a costa del solicitante dentro del plazo de tres
@@ -6075,12 +6060,11 @@ Artículo reformado DOF 24-05-1996
 CAPITULO III
 De las Formalidades Judiciales
 Artículo 1063.- Los juicios mercantiles se
-substanciarán de acuerdo a los procedimientos
+substanciarán de acuerdo con los procedimientos
 aplicables conforme este Código, las leyes especiales
 en materia de comercio y en su defecto por el Código
-Federal de Procedimientos Civiles y en último término
-por el Código de Procedimientos Civiles local.
-Artículo reformado DOF 04-01-1989, 24-05-1996, 13-062003, 17-04-2008
+Nacional de Procedimientos Civiles y Familiares.
+Artículo reformado DOF 04-01-1989, 24-05-1996, 13-062003, 17-04-2008, 14-11-2025
 Artículo 1064.- Las actuaciones judiciales han de
 practicarse en días y horas hábiles, bajo pena de
 nulidad. Son días hábiles todos los días del año,
@@ -6089,10 +6073,10 @@ tribunales competentes en materia mercantil que
 conozcan el procedimiento. Se entienden horas
 hábiles las que median desde las siete hasta las
 diecinueve horas.
-
 Artículo reformado DOF 04-01-1989
 Artículo 1065.- El juez puede habilitar los días y
 horas inhábiles para actuar o para que se practiquen
+
 diligencias cuando hubiere causa urgente que lo exija,
 expresando cuál sea ésta y las diligencias que hayan
 de practicarse.
@@ -6118,10 +6102,10 @@ fotostática de los documentos o resoluciones que
 obren en autos, bastando que la parte interesada lo
 solicite verbalmente, sin que se requiera decreto
 judicial, dejando constancia en autos de su recepción.
-
 Párrafo adicionado DOF 24-05-1996
 Para obtener copia certificada de cualquier
 documento que obre en juicio, la parte interesada
+
 debe solicitarlo en comparecencia o por escrito,
 requiriéndose decreto judicial, y cuando se pidiere
 copia o testimonio de parte de un documento o pieza,
@@ -6148,10 +6132,10 @@ Artículo 1067 Bis.- Para hacer cumplir sus
 determinaciones el juez puede emplear cualquiera de
 las siguientes medidas de apremio que estime
 pertinentes, sin que para ello sea necesario que el
-
 juzgador se ciña al orden que a continuación se
 señala:
 I. Amonestación;
+
 II. Multa hasta de $10,685.55, monto que se
 actualizará en términos del artículo 1253, fracción
 VI;
@@ -6177,11 +6161,11 @@ resoluciones que ordenen su práctica. Si se tratare de
 notificaciones personales, estas deberán realizarse
 dentro de los tres días siguientes a aquel en que el
 notificador reciba el expediente. Sin perjuicio de lo
-
 anterior, por causa justificada, el juez, bajo su
 responsabilidad, podrá ampliar los plazos previstos en
 este párrafo.
 Párrafo reformado DOF 10-01-2014
+
 Se impondrá de plano a los infractores de este
 artículo una multa que no exceda del equivalente a
 diez días de salario mínimo general vigente en el
@@ -6248,11 +6232,11 @@ que entienda la diligencia; requiriendo a ésta para que
 a su vez se identifique, asentando su resultado, así
 como los medios por los que se cerciore de ser el
 domicilio del buscado, pudiendo pedir la exhibición de
-
 documentos que lo acrediten, precisándolos en caso
 de su presentación, así como aquellos signos
 exteriores del inmueble que puedan servir de
 comprobación de haber acudido al domicilio señalado
+
 como el del buscado, y las demás manifestaciones
 que haga la persona con quien se entienda el
 emplazamiento en cuanto a su relación laboral, de
@@ -6277,10 +6261,10 @@ Artículo adicionado DOF 25-01-2017
 Artículo 1069.- Todos los litigantes, en el primer
 escrito o en la primera diligencia judicial, deben
 designar domicilio ubicado en el lugar del juicio para
-
 que se les hagan las notificaciones y se practiquen las
 diligencias que sean necesarias. Igualmente deben
 designar el domicilio en que ha de hacerse la primera
+
 notificación a la persona o personas contra quienes
 promueven.
 Cuando un litigante no cumpla con la primera parte
@@ -6308,10 +6292,10 @@ encontrarse legalmente autorizadas para ejercer la
 profesión de abogado o licenciado en Derecho,
 debiendo proporcionar los datos correspondientes en
 el escrito en que se otorgue dicha autorización y
-
 mostrar la cédula profesional o carta de pasante para
 la práctica de la abogacía en las diligencias de prueba
 en que intervengan, en el entendido que el autorizado
+
 que no cumpla con lo anterior, perderá la facultad a
 que se refiere este artículo en perjuicio de la parte
 que lo hubiere designado, y únicamente tendrá las
@@ -6337,9 +6321,9 @@ autos, a cualquiera con capacidad legal, quien no
 gozará de las demás facultades a que se refieren los
 párrafos anteriores.
 Párrafo adicionado DOF 24-05-1996
-
 El juez al acordar lo relativo a la autorización a que
 se refiere este artículo deberá expresar con toda
+
 claridad el alcance con el que se reconoce la
 autorización otorgada.
 Párrafo adicionado DOF 24-05-1996
@@ -6364,11 +6348,11 @@ no queda comprendida dentro del secreto fiscal o de
 alguna otra reserva que las autoridades o
 instituciones estén obligadas a observar conforme a
 las disposiciones que las rige.
-
 Cuando la autoridad o institución proporcione
 información de diversas personas con el mismo
 nombre, la parte actora podrá hacer las
 observaciones y aclaraciones pertinentes para
+
 identificar el domicilio que corresponda a la persona
 buscada o, en su caso, para desestimar domicilios
 proporcionados. El juez revisará la información
@@ -6394,11 +6378,11 @@ tribunales, además de que las diligencias en que
 dicha parte debiere tener intervención se practicarán
 en el local del juzgado sin su presencia.
 Párrafo reformado DOF 10-01-2014
-
 Una vez que el actuario o ejecutor se cerciore de
 que en el domicilio sí habita la persona buscada y
 después de la habilitación de días y horas inhábiles,
 de persistir la negativa de abrir o de atender la
+
 diligencia, el actuario dará fe para que el Juez ordene
 dicha diligencia por medio de edictos sin necesidad
 de girar oficios para la localización del domicilio.
@@ -6422,10 +6406,10 @@ hará la notificación o citación por medio de despacho
 o exhorto al juez de la población en que aquélla
 residiere, los que podrán tramitarse por conducto del
 interesado si éste lo pidiere.
-
 El auxilio que se solicite se efectuará únicamente
 por medio de las comunicaciones señaladas dirigidas
 al órgano que deba prestarlo y que contendrá:
+
 I. La designación
 exhortante;
 
@@ -6463,10 +6447,10 @@ empleo de los medios de comunicación indicados se
 dejará razón en el expediente, así como de las
 causas para considerarlo urgente.
 Párrafo adicionado DOF 24-05-1996
-
 En los despachos, exhortos y suplicatorias no se
 requiere la legalización de la firma del tribunal que lo
 expida.
+
 Párrafo adicionado DOF 24-05-1996
 Artículo reformado DOF 04-01-1989
 Artículo 1072.- Pueden los tribunales acordar que
@@ -6491,10 +6475,10 @@ No se exigirá exhibición ante el Juez exhortado de
 poder alguno a las personas que intervengan en su
 diligenciación si aparecen mencionadas en el exhorto
 para tal fin.
-
 El tribunal redactará con las inserciones respectivas,
 el exhorto dentro del término de tres días, contados a
 partir del proveído que ordene su remisión y lo pondrá
+
 a disposición del solicitante mediante el tipo de
 notificación procedente, que se hará dentro del mismo
 plazo, para que a partir del día siguiente al que surta
@@ -6521,10 +6505,10 @@ cuyo caso se le entregará a este quien bajo su
 responsabilidad lo devolverá al exhortante dentro del
 término de tres días contados a partir de su
 recepción.
-
 El juez exhortante podrá facultar al juez exhortado,
 para que cuando el exhorto haya sido remitido a un
 órgano diferente al que deba prestar el auxilio, el que
+
 lo reciba lo envíe directamente al que corresponda, si
 es que le consta cuál sea la jurisdicción competente,
 debiendo dar cuenta de dicha circunstancia por oficio
@@ -6549,11 +6533,11 @@ los fines que se precisan en este artículo no hace la
 devolución dentro de los tres días siguientes al plazo
 que se le hubiere concedido para su diligenciación,
 sin justificar impedimento bastante, será sancionada
-
 en los términos que autorice la ley y se dejará de
 desahogar la diligencia. Igual sanción se le impondrá
 cuando la contraparte manifieste que sin haberse
 señalado plazo para la diligencia objeto del exhorto, la
+
 misma ya se llevó a cabo, y no se ha devuelto el
 exhorto diligenciado, por aquel que lo solicitó y
 recibió, salvo prueba en contrario.
@@ -6580,7 +6564,6 @@ Artículo 1074.- Los exhortos que se remitan al
 extranjero o que se reciban de él, salvo lo dispuesto
 por los tratados o convenciones de los que México
 sea parte, se sujetarán a las siguientes disposiciones:
-
 I.- Los exhortos que se remitan al extranjero serán
 comunicaciones oficiales escritas que contendrán
 la petición de realizar las actuaciones necesarias
@@ -6589,6 +6572,7 @@ comunicaciones
 contendrán
 los
 datos
+
 informativos necesarios y las copias certificadas,
 cédulas, copias de traslado y demás anexos
 procedentes según sea el caso;
@@ -6615,11 +6599,11 @@ V.- Todo exhorto que se reciba del extranjero en
 idioma distinto del español, deberá acompañarse
 de su traducción, a la cual se estará, salvo
 deficiencia evidente u objeción de parte;
-
 VI.- Los exhortos que se reciban del extranjero sólo
 requerirán homologación cuando impliquen
 ejecución coactiva sobre personas, bienes o
 derechos; los relativos a notificaciones, recepción
+
 de pruebas y otros asuntos de mero trámite, se
 diligenciarán sin formar incidente;
 VII.- Los exhortos que se reciban del extranjero
@@ -6643,10 +6627,10 @@ CAPITULO V
 De los Términos Judiciales
 Artículo 1075.- Todos los términos judiciales
 empezarán a correr desde el día siguiente a aquel en
-
 que hayan surtido efectos el emplazamiento o
 notificaciones y se contará en ellos el día de
 vencimiento.
+
 Las notificaciones personales surten efectos al día
 siguiente del que se hayan practicado, y las demás
 surten al día siguiente, de aquel en que se hubieren
@@ -6672,11 +6656,11 @@ judiciales, salvo los casos de excepción que se
 señalen por la ley.
 La caducidad de la instancia operará de pleno
 derecho, por lo cual es de orden público, irrenunciable
-
 y no puede ser materia de convenios entre las partes.
 Tal declaración podrá ser de oficio, o a petición de
 parte, cualquiera que sea el estado del juicio, desde el
 primer auto que se dicte en el mismo y hasta la
+
 citación para oír sentencia, en aquellos casos en que
 concurran las siguientes circunstancias:
 Párrafo reformado DOF 25-01-2017
@@ -6700,10 +6684,10 @@ II. Se exceptúa de la ineficacia señalada, las
 resoluciones firmes de las excepciones
 procesales que regirán en cualquier juicio que se
 promoviera. De igual manera las pruebas
-
 rendidas en el proceso que se haya declarado
 caduco podrán invocarse de oficio, o por las
 partes, en el nuevo proceso que se promueva;
+
 III.
 
 La caducidad de la segunda instancia surge si
@@ -6740,11 +6724,12 @@ fuerza mayor y el juez y las partes no pueden
 actuar; así como en los casos en que es
 necesario esperar una resolución de cuestión
 previa o conexa por el mismo juez o por otras
-
 autoridades; y en los demás casos previstos por
 la ley;
+
 VII. La resolución que decrete la caducidad será
 apelable en ambos efectos, en caso de que el
+
 juicio admita la alzada. Si la declaratoria se hace
 en segunda instancia se admitirá reposición, y
 VIII. Las costas serán a cargo del actor, cuando se
@@ -6770,12 +6755,12 @@ promovente de oficio o a simple instancia verbal del
 interesado, deberá dar nueva cuenta y resolver las
 cuestiones omitidas dentro del día siguiente. Las
 sentencias definitivas también deben ser claras,
-
 precisas y congruentes con las demandas y las
 contestaciones y con las demás pretensiones
 deducidas oportunamente en el pleito, condenando o
 absolviendo al demandado, y decidiendo todos los
 puntos litigiosos que hayan sido objeto del debate.
+
 Cuando estos hubieren sido varios, se hará el
 pronunciamiento correspondiente a cada uno de ellos.
 Las sentencias interlocutorias deben dictarse y
@@ -6798,13 +6783,13 @@ Los decretos, los autos y las sentencias serán
 necesariamente pronunciados y mandados notificar
 en los plazos de ley.
 Artículo reformado DOF 04-01-1989, 24-05-1996
-
 Artículo 1078.- Una vez concluidos los términos
 fijados a las partes, sin necesidad de que se acuse
 rebeldía, seguirá el juicio su curso y se tendrá por
 perdido el derecho que debió ejercitarse dentro del
 término correspondiente.
 Artículo reformado DOF 04-01-1989
+
 Artículo 1079.- Cuando la ley no señale término
 para la práctica de algún acto judicial, o para el
 ejercicio de algún derecho, se tendrán por señalados
@@ -6826,13 +6811,13 @@ preventivamente la sentencia interlocutoria o auto
 de tramitación conjunta con la definitiva, en los
 términos del artículo 1339 de este Código;
 Fracción reformada DOF 24-05-1996, 17-04-2008
-
 III.
 
 Tres días para desahogar la vista que se les
 dé a las partes en toda clase de incidentes que
 no tengan tramitación especial;
 Fracción derogada DOF 04-01-1989. Adicionada DOF 2405-1996
+
 IV.
 
 Tres años para la ejecución de sentencias en
@@ -6858,13 +6843,13 @@ Fracción derogada DOF 24-05-1996
 CAPITULO VI
 (Se deroga su denominación)
 Denominación del Capítulo derogada DOF 04-01-1989
-
 Artículo 1080.- Las audiencias en todos los
 procedimientos se llevarán a cabo observando las
 siguientes reglas:
 I. Siempre serán públicas, manteniendo la igualdad
 entre las partes, sin hacer concesiones a una de
 ellas sin que se haga lo mismo con la otra,
+
 evitando disgresiones y reprimiendo con energía
 las promociones de las partes que tiendan a
 suspender o retardar el procedimiento, el cual
@@ -6890,7 +6875,6 @@ IV. Los que se resistieren a cumplir la orden de
 expulsión serán arrestados hasta por un término
 de seis horas, y que cumplirán en el lugar que
 designe el Juez;
-
 V.
 En los términos expresados en el párrafo
 anterior, serán corregidos los terceros ajenos a la
@@ -6898,6 +6882,7 @@ controversia, los testigos, peritos o cualesquiera
 otros que, como partes, o representándolas,
 faltaren en las vistas y actos judiciales, de palabra,
 o de obra o por escrito, a la consideración, respeto
+
 y obediencia debido a los tribunales, o a otras
 personas cuando los hechos no constituyan delito,
 y
@@ -6918,13 +6903,13 @@ del juicio.
 Artículo 1082.- Cada parte será inmediatamente
 responsable de las costas que originen las diligencias
 que promueva, en caso de condenación en costas, la
-
 parte condenada indemnizará a la otra de todas las
 que se hubieren causado, cuando hubiese opuesto
 excepciones o recursos frívolos o improcedentes con
 el propósito de retardar el procedimiento.
 La condenación no comprenderá la remuneración
 del procurador, ni la del patrono, sino cuando fuere
+
 abogado recibido; cuando un abogado fuere
 procurador, sólo comprenderá sus honorarios la
 condenación, cuando el mismo se haya encargado de
@@ -6944,7 +6929,6 @@ acción o su excepción, si se funda en hechos
 disputados;
 II. El que presentase instrumentos o documentos
 falsos, o testigos falsos o sobornados;
-
 III.
 
 El que fuese condenado en juicio ejecutivo y el
@@ -6979,12 +6963,12 @@ juicio de cuantía indeterminada. Lo anterior también
 será aplicable a las costas que se generen por la
 caducidad de la instancia.
 Artículo reformado DOF 10-01-2014
-
 Artículo 1086.- Presentada la regulación de las
 costas al juez o tribunal ante el cual se hubieren
 causado, se dará vista de ella por tres días a la parte
 condenada, para que exprese su conformidad o
 inconformidad.
+
 Artículo 1087.- Si nada expusiere dentro del término
 fijado la parte condenada, se decidirá el pago. Si en el
 término referido expresare no estar conforme, se dará
@@ -7007,10 +6991,10 @@ autos, podrá recurrirse a los de los inmediatos.
 CAPÍTULO VIII
 De las competencias y excepciones procesales
 Denominación del Capítulo reformada DOF 24-05-1996
-
 Artículo 1090.- Toda demanda debe interponerse
 ante juez competente.
 Artículo reformado DOF 24-05-1996
+
 Artículo 1091.- Cuando en el lugar donde se ha de
 seguir el juicio hubiere varios jueces competentes,
 conocerá del negocio el que elija el actor, salvo lo que
@@ -7043,6 +7027,7 @@ I. El demandante, por el hecho de ocurrir al juez
 entablando su demanda, no solo para ejercitar su
 acción, sino también para contestar a la
 reconvención que se le oponga;
+
 II. El demandado, por contestar la demanda o por
 reconvenir al actor;
 Fracción reformada DOF 04-01-1989, 24-05-1996
@@ -7081,6 +7066,7 @@ Fracción adicionada DOF 24-05-1996
 Artículo 1095.- Ni por sumisión expresa ni por
 tácita, se puede prorrogar jurisdicción, sino a juez que
 la tenga del mismo género que la que se prorroga.
+
 Artículo 1096.- Es juez competente para conocer de
 la reconvención, aquel que conoce de la demanda
 principal.
@@ -7101,12 +7087,12 @@ Artículo 1097 Bis.- (Se deroga).
 Artículo adicionado DOF 04-01-1989. Derogado DOF 2305-2000
 Artículo 1098.- (Se deroga).
 Artículo reformado DOF 24-05-1996. Derogado DOF 2305-2000
-
 Artículo 1099.- No se dará curso a cuestión de
 competencia ni será materia de improcedencia de la
 vía cuando se hagan valer por comerciantes acciones
 o procedimientos especiales, en vía civil, derivada de
 contratos y actos reglamentados en el derecho
+
 común, o garantías derivadas de ese tipo de
 convenciones entre las partes, en que se alegue la
 necesidad de tramitar el juicio de acuerdo a las
@@ -7129,12 +7115,12 @@ Artículo reformado DOF 24-05-1996
 Artículo 1102.- Las contiendas sobre competencia
 sólo podrán entablarse a instancia de parte.
 Artículo reformado DOF 24-05-1996
-
 Artículo 1103.- Los litigantes pueden desistirse de
 la competencia antes o después de la remisión de los
 testimonios de constancias al Superior, y su
 desistimiento hará cesar la contienda.
 Artículo reformado DOF 24-05-1996
+
 Artículo 1104.- Salvo lo dispuesto en el artículo
 1093, sea cual fuere la naturaleza del juicio, será juez
 competente, en el orden siguiente:
@@ -7153,12 +7139,12 @@ Artículo 1105.- Se deroga
 Artículo reformado DOF 23-05-2000. Derogado DOF 1001-2014
 Artículo 1106.- Se deroga
 Artículo derogado DOF 10-01-2014
-
 Artículo 1107.- A falta de domicilio fijo o conocido,
 tratándose de acciones personales, será competente
 el juez del lugar donde se celebró el contrato.
 En el supuesto de que se pretenda hacer valer una
 acción real, será competente el juez del lugar de la
+
 ubicación de la cosa. Si las cosas fueren varias y
 estuvieren ubicadas en distintos lugares, será juez
 competente el del lugar de la ubicación de cualquiera
@@ -7180,11 +7166,11 @@ promueve.
 Artículo reformado DOF 24-05-1996
 Artículo 1112.- Para los actos prejudiciales, es
 competente el juez que lo fuere para el negocio
-
 principal; si se tratare de providencia precautoria lo
 será también, en caso de urgencia, el juez del lugar
 en donde se hallen el demandado o la cosa que debe
 ser asegurada.
+
 Artículo 1113.- Para decretar la cancelación de un
 registro, cuando la acción que se entabla no tiene
 más objeto que éste, es competente el juez a cuya
@@ -7208,12 +7194,12 @@ constitucional y de las leyes secundarias respectivas.
 Tratándose de competencias que se susciten entre
 los tribunales de un mismo Estado, se resolverá por el
 respectivo tribunal de alzada al que pertenezcan
-
 ambos jueces, debiéndose observar las siguientes
 reglas:
 I. La inhibitoria se intentará ante el juez a quien se
 considere competente, pidiéndole que dirija oficio
 al que se estima no serlo, para que remita
+
 testimonio de las actuaciones respectivas al
 Superior, y el requirente también remita lo
 actuado por él al mismo tribunal de alzada para
@@ -7241,13 +7227,13 @@ que se estime incompetente puede inhibirse del
 conocimiento del negocio en los términos del
 primer párrafo del Artículo siguiente.
 Artículo reformado DOF 24-05-1996
-
 Artículo 1115.- Los tribunales quedan impedidos
 para declarar de oficio las cuestiones de competencia,
 y sólo deberán inhibirse del conocimiento de negocios
 cuando se trate de competencias por razón de
 territorio o materia, y siempre y cuando se inhiban en
 el primer proveído que se dicte respecto de la
+
 demanda principal, o ante la reconvención por lo que
 hace a la cuantía.
 Cuando dos o más jueces se nieguen a conocer de
@@ -7271,12 +7257,12 @@ continuación al período de alegatos, y citando para oír
 resolución, la que deberá pronunciarse y notificarse
 dentro del término de ocho días, remitiendo los autos
 al juez competente.
-
 En el supuesto de no ofrecerse pruebas, y tan sólo
 se alegare, el tribunal dictará sentencia y la mandará
 publicar en el mismo plazo señalado en el párrafo
 anterior.
 Artículo reformado DOF 24-05-1996
+
 Artículo 1116.- El que promueva la inhibitoria
 deberá hacerlo dentro del término señalado para
 contestar la demanda que se contará a partir del día
@@ -7300,13 +7286,13 @@ requirente y el testimonio de constancias del
 requerido, los pondrá a la vista de las partes para que
 éstas dentro del término de tres días ofrezcan
 pruebas y aleguen lo que a su interés convenga.
-
 Si las pruebas son de admitirse así lo decretará el
 tribunal y señalará fecha para audiencia indiferible
 que deberá celebrarse dentro de los diez días
 siguientes, en las que desahogará las pruebas y
 alegatos y dictará en la misma la resolución que
 corresponda.
+
 En el caso de que las partes sólo aleguen y no
 ofrezcan pruebas, o las propuestas no se admitan, el
 tribunal las citará para oír resolución, la que se
@@ -7327,13 +7313,13 @@ puntos, ordenando al juez del conocimiento que
 remita los autos originales al juez que se tenga
 declarado como competente para que este continúe y
 concluya el juicio.
-
 Si la inhibitoria se declara improcedente, el tribunal
 lo comunicará a ambos jueces para que el
 competente continúe y concluya el juicio.
 Artículo reformado DOF 24-05-1996
 Artículo 1117.- El que promueva la declinatoria
 deberá hacerlo dentro del término señalado para
+
 contestar la demanda que se contará a partir del día
 siguiente del emplazamiento.
 La declinatoria de jurisdicción se propondrá ante el
@@ -7355,13 +7341,13 @@ las pruebas y alegatos y dictará en la misma la
 resolución que corresponda.
 En el caso de que las partes sólo aleguen y no
 ofrezcan pruebas, o las propuestas no se admitan, el
-
 tribunal citará para oír resolución, la que se
 pronunciará dentro del término improrrogable de ocho
 días.
 Decidida la competencia, el tribunal lo comunicará al
 juez ante quien se promovió la declinatoria, y en su
 caso al que se declare competente.
+
 En caso de declararse procedente la declinatoria,
 siempre tendrán validez las actuaciones practicadas
 ante el juez declarado incompetente, relativas a la
@@ -7383,7 +7369,6 @@ Artículo 1118.- El litigante que hubiere optado por
 uno de los dos medios de promover una
 incompetencia, no podrá abandonarlo y recurrir al
 otro, ni tampoco emplearlos sucesivamente.
-
 En caso de que se declare infundada o
 improcedente una incompetencia, se aplicará al que
 la opuso, una sanción pecuniaria equivalente hasta de
@@ -7391,6 +7376,7 @@ sesenta días de salario mínimo general vigente de la
 zona respectiva, en beneficio del colitigante, siempre
 que se compruebe que el incidente respectivo fue
 promovido de mala fe.
+
 Artículo reformado DOF 04-01-1989, 24-05-1996
 Artículo 1119.- Salvo disposición expresa que
 señale a alguna otra excepción como procesal, las
@@ -7413,13 +7399,13 @@ de la misma causa de pedir. En consecuencia ningún
 tribunal podrá abstenerse de conocer de asuntos
 alegando falta de competencia por materia cuando se
 presente alguno de los casos señalados, que podrán
-
 dar lugar a multiplicidad de litigios con posibles
 resoluciones contradictorias.
 También será prorrogable el caso en que,
 conociendo el tribunal superior de apelación contra
 auto o interlocutoria, las partes estén de acuerdo en
 que conozca de la cuestión principal. El juicio se
+
 seguirá tramitando conforme a las reglas de su clase,
 prosiguiéndose este ante el superior.
 Artículo reformado DOF 24-05-1996
@@ -7443,12 +7429,12 @@ La división y la excusión;
 VII. La improcedencia de la vía, y
 VIII. Las demás al que dieren ese carácter las
 leyes.
-
 Artículo reformado DOF 24-05-1996
 Artículo 1123.- La excepción de litispendencia
 procede cuando un juez conoce ya de un juicio en el
 que hay igualdad entre partes, acciones deducidas y
 cosas reclamadas.
+
 El que la oponga debe señalar precisamente el
 juzgado donde se tramita el primer juicio,
 acompañando copia autorizada de las constancias
@@ -7472,12 +7458,12 @@ deberá ofrecer y exhibir en la audiencia incidental de
 pruebas y alegatos y sentencia. En este caso,
 declarada procedente la litispendencia, se dará por
 concluido el segundo procedimiento.
-
 Artículo reformado DOF 24-05-1996
 Artículo 1124.- Existe conexidad de causas cuando
 haya:
 I. Identidad de personas y acciones, aunque las
 cosas sean distintas;
+
 II. Identidad de personas y de cosas, aunque las
 acciones sean distintas;
 III.
@@ -7504,7 +7490,6 @@ del equivalente al importe de un día de su salario.
 Cuando la excepción de conexidad sea por relación
 con un juicio tramitado en juzgado que no se
 encuentre en la misma población o que no pertenezca
-
 a la misma jurisdicción de apelación, sólo podrá
 acreditarla con las copias autorizadas o certificadas
 de la demanda y contestación formuladas en el juicio
@@ -7512,6 +7497,7 @@ anterior, que deberá ofrecer y exhibir en la audiencia
 de pruebas. En el caso de pertenecer a la misma
 jurisdicción de apelación, declarada procedente la
 conexidad, tiene por objeto la remisión de los autos
+
 en que se opone, al juzgado que previno en el
 conocimiento de la causa conexa, para que se
 acumulen ambos juicios y se tramiten como uno,
@@ -7533,7 +7519,6 @@ demandado, se continuará el juicio en rebeldía de
 éste. Si no se subsanara la del actor, el juez de
 inmediato sobreseerá el juicio y devolverá los
 documentos.
-
 La falta de capacidad del actor obliga al juez a dar
 por sobreseído el juicio.
 Artículo reformado DOF 04-01-1989, 24-05-1996
@@ -7541,6 +7526,7 @@ Artículo 1127.- Todas las excepciones procesales
 que tenga el demandado debe hacerlas valer al
 contestar la demanda, y en ningún caso suspenderán
 el procedimiento. Si se declara procedente la
+
 litispendencia el efecto será sobreseer en segundo
 juicio. Salvo disposición en contrario si se declara
 procedente la conexidad, su efecto será la
@@ -7563,13 +7549,13 @@ plano. De no ser así, dichas excepciones se
 resolverán de modo incidental, dando vista a la
 contraria por el término de tres días, y si no se
 ofrecen pruebas deberá dictarse la resolución
-
 correspondiente por el tribunal y notificarse a las
 partes dentro del término de 8 días, sin que se pueda
 suspender el procedimiento, y su efecto será dejar a
 salvo el derecho para que se haga valer cuando
 cambien las circunstancias que afectan su ejercicio.
 Artículo reformado DOF 24-05-1996
+
 Artículo 1129.- Salvo la competencia del órgano
 jurisdiccional, las demás excepciones procesales y las
 objeciones aducidas respecto de los presupuestos
@@ -7593,13 +7579,13 @@ alegatos y en el mismo acto se dictará la sentencia
 interlocutoria que corresponda sin que el tribunal
 pueda diferir tal resolución que dictará en la misma
 audiencia.
-
 En las excepciones procesales sólo se administran
 como prueba la documental y la pericial, salvo en la
 litispendencia y conexidad, respecto de las cuales se
 podrán ofrecer también, la prueba de inspección de
 los autos.
 Artículo reformado DOF 24-05-1996
+
 Artículo 1131.- La excepción de cosa juzgada, se
 resolverá en los términos del artículo 1129 de este
 código.
@@ -7658,12 +7644,13 @@ casos en que haya actuado en funciones de
 mediación o conciliación de conformidad con los
 artículos 1390 bis 32 y 1390 bis 35 de este
 Código, o
-
 Fracción reformada DOF 10-01-2014
+
 XII. Si fuere pariente por consanguinidad o afinidad
 del abogado o procurador de alguna de las
 partes, en los mismos grados que expresa la frac.
 II de este artículo.
+
 Artículo 1133.- Los magistrados, jueces y
 secretarios tienen el deber de excusarse del
 conocimiento de los negocios en que ocurra alguna
@@ -7686,12 +7673,12 @@ que corresponda.
 Artículo reformado DOF 24-05-1996
 Artículo 1134.- Toda recusación se impondrá ante
 el juez o tribunal que conozca del negocio,
-
 expresándose con toda claridad y precisión la causa
 en que se funde, quien remitirá de inmediato
 testimonio de las actuaciones respectivas a la
 autoridad competente para resolver sobre la
 recusación.
+
 La recusación debe decirse sin audiencia de la parte
 contraria, y se tramita en forma de incidente.
 Artículo derogado DOF 27-12-1983. Adicionado DOF 2405-1996
@@ -7713,11 +7700,11 @@ Artículo reformado DOF 24-05-1996
 Artículo 1136.- En los concursos solo podrá hacer
 uso de la recusación el representante legítimo de los
 acreedores en los negocios que afecten al interés
-
 general: en los que afecten al interés particular de
 alguno de los acreedores, podrá el interesado hacer
 uso de la recusación, pero el juez no quedará inhibido
 más que en el punto de que se trate.
+
 Artículo 1137.- Cuando en un negocio intervengan
 varias personas antes de haber nombrado
 representante común, conforme al art. 1060,
@@ -7741,9 +7728,9 @@ III.- Seguir actualmente con alguna de las partes, el
 juez o las personas citadas en la fracción anterior, un
 proceso civil, o no llevar un año de terminado el que
 antes hubieren seguido;
-
 IV.- Ser actualmente el juez acreedor, arrendador,
 comensal o principal de alguna de las partes;
+
 V.- Ser el juez, su mujer o sus hijos, acreedores o
 deudores de alguna de las partes;
 VI.- Haber sido el juez administrador de algún
@@ -7768,10 +7755,10 @@ recusaciones
 pueden
 interponerse durante el juicio desde el escrito de la
 contestación a la demanda hasta la notificación del
-
 auto que abre el juicio a prueba, a menos de cambio
 en el personal del juzgado o tribunal. En este caso la
 recusación será admisible si se hace dentro de los
+
 tres días siguientes a la notificación del primer auto o
 decreto proveído por el nuevo personal.
 Mientras se decide la recusación, no suspende la
@@ -7793,9 +7780,9 @@ deban servir para preparar el juicio;
 II.- Al cumplimentar exhortos;
 III.- En las demás diligencias que les encomienden
 otros jueces o tribunales;
-
 IV.- En las diligencias de mera ejecución, más sí lo
 serán en las de ejecución mixta;
+
 V.- En los demás actos que no radiquen jurisdicción
 ni importen conocimiento de causa.
 Artículo 1142.- En los tribunales colegiados la
@@ -7820,8 +7807,8 @@ es superveniente o que no había tenido conocimiento
 de ella.
 Artículo 1146.- Los tribunales desecharán de plano
 toda recusación:
-
 I. Cuando no se presente en tiempo, y
+
 II. Cuando no se funde en alguna de las causas a
 que se refieren los artículos 1132 y 1138 de esta
 ley, o en el caso del artículo anterior.
@@ -7847,11 +7834,11 @@ que declare procedente la recusación de que se trate,
 también determinará cual será el tribunal que debe
 seguir conociendo el asunto y el término en que
 deben remitírsele los autos.
-
 Si se declara no ser bastante la causa, se
 comunicará la resolución al juzgado de su origen. Si
 la denegación de recusación fuese de un magistrado,
 continuará conociendo del negocio el mismo si se
+
 trata de unitario o la misma sala como antes de la
 recusación.
 Las recusaciones de los secretarios del tribunal
@@ -7875,10 +7862,10 @@ imponer una corrección disciplinaria.
 Artículo reformado DOF 24-05-1996
 CAPITULO X
 Medios Preparatorios del Juicio
-
 Artículo 1151.- El juicio podrá prepararse:
 I.- Pidiendo declaración bajo protesta el que
 pretenda demandar, de aquel contra quien se
+
 propone dirigir la demanda acerca de algún
 hecho relativo a su personalidad o a la calidad de
 su posesión o tenencia;
@@ -7906,15 +7893,14 @@ acción, por depender su ejercicio de un plazo o
 de una condición que no se haya cumplido
 todavía;
 Fracción adicionada DOF 24-05-1996
-
 VI.
 
 Pidiendo el examen de testigos para probar
 alguna excepción, siempre que la prueba sea
+
 indispensable y los testigos se hallen en alguno
 de los casos señalados en la fracción anterior;
 Fracción adicionada DOF 24-05-1996
-
 VII. Pidiendo el examen de testigos u otras
 declaraciones que se requieran en un proceso
 extranjero, y
@@ -7936,9 +7922,9 @@ del que solicita la diligencia preparatoria, ya de la
 urgencia de examinar a los testigos.
 Contra la resolución del juez que conceda la
 diligencia preparatoria no cabe recurso alguno. Contra
-
 la resolución que la deniegue habrá el de apelación
 en ambos efectos si fuere dictada por un juez de
+
 primera instancia, o el de revocación si fuere dictada
 por juez menor o de paz.
 Artículo reformado DOF 24-05-1996
@@ -7966,9 +7952,9 @@ Artículo reformado DOF 24-05-1996, 17-04-2008, 30-122008
 Artículo 1155.- Cuando se pida la exhibición de un
 protocolo o de cualquier otro documento archivado en
 oficina pública, si el juez concede la diligencia
-
 preparatoria, mandará que se practique por el
 actuario, ejecutor o secretario, acompañado del
+
 peticionario, en el domicilio del notario, corredor o de
 la oficina respectiva, dejándoseles a estos, cédula de
 notificación en la que se transcriba la orden judicial,
@@ -7996,10 +7982,10 @@ para que se reciban por el tribunal, con el
 apercibimiento que de no realizarlo se le aplicará
 alguna de las medidas de apremio que autoriza la ley.
 Artículo reformado DOF 24-05-1996
-
 Artículo 1157.- Las diligencias preparatorias de que
 se trata en las fracciones V a VIII del artículo 1151 se
 practicará con citación de la parte contraria, a quien
+
 se correrá traslado de la solicitud por el término de
 tres días, y se aplicarán las reglas establecidas para
 la práctica de las pruebas testimonial, pericial o la
@@ -8025,9 +8011,9 @@ podrán exhibir las copias certificadas a que se refiere
 el artículo anterior, o solicitar que se agreguen las
 actuaciones originales de los medios preparatorios
 que se hubieren tramitado, para lo cual deberá
-
 hacerse la petición desde el escrito de demanda o
 contestación y de no hacerse así no se recibirán
+
 dichos originales, al igual que cuando se hubieren
 extraviado o destruido.
 Artículo reformado DOF 24-05-1996
@@ -8054,10 +8040,10 @@ domicilio del demandado, entregándole también
 copias del traslado de la solicitud debidamente
 selladas y cotejadas.
 Artículo reformado DOF 24-05-1996
-
 Artículo 1164.- Si no comparece a la citación, y si
 se le hubiere hecho con apercibimiento de ser
 declarado confeso, así como cumplidos los requisitos
+
 a que se refieren los artículos anteriores, y la
 exhibición del pliego de posiciones que calificadas de
 legales acrediten la procedencia de lo solicitado, se le
@@ -8084,10 +8070,10 @@ sellada de la solicitud.
 De no entenderse la diligencia personalmente con el
 deudor cuando se trate de persona física o del
 mandatario para pleitos y cobranzas o actos de
-
 dominio tratándose de personas morales o del
 representante legal, en otros casos, el actuario o
 ejecutor se abstendrá de hacer requerimiento alguno,
+
 y dejará citatorio para que ese deudor, mandatario o
 representante legal, lo espere para la práctica de
 diligencia judicial en aquellas horas que se señale en
@@ -8120,9 +8106,9 @@ pruebas
 documentales que acredite su contestación. De no
 exhibirse, el juez lo tendrá por cierto en la certeza de
 la deuda señalada, o por la cantidad que deje de
-
 acreditarse que no se adeuda, al igual que cuando
 reconozca la firma origen o monto del adeudo.
+
 Cuando el deudor desconozca su firma se dejarán a
 salvo los derechos del promovente para que los haga
 valer en la vía y forma correspondiente pero de
@@ -8147,10 +8133,10 @@ el juicio en la vía ejecutiva como marca la ley para los
 de su clase.
 La resolución que niegue el auto de ejecución será
 apelable en ambos efectos y, en caso contrario, se
-
 admitirá en el efecto devolutivo de tramitación
 inmediata.
 Párrafo reformado DOF 17-04-2008, 30-12-2008
+
 Artículo reformado DOF 24-05-1996
 Artículo 1166.- Puede hacerse el reconocimiento
 ante notario o corredor, ya en el momento de su
@@ -8175,9 +8161,9 @@ prepararse la acción ejecutiva siempre que la
 liquidación pueda hacerse en un término que no
 excederá de nueve días.
 Artículo reformado DOF 24-05-1996
-
 CAPITULO XI
 De las Providencias Precautorias
+
 Artículo 1168.- En los juicios mercantiles
 únicamente podrán dictarse las medidas cautelares o
 providencias precautorias, previstas en este Código, y
@@ -8202,10 +8188,10 @@ practicar la diligencia, y exista temor fundado
 de que los disponga, oculte, dilapide o enajene.
 En los supuestos a que se refiere esta fracción, si
 los bienes consisten en dinero en efectivo o en
-
 depósito en instituciones de crédito, u otros bienes
 fungibles, se presumirá, para los efectos de este
 artículo, el riesgo de que los mismos sean dispuestos,
+
 ocultados o dilapidados, salvo que el afectado con la
 medida garantice el monto del adeudo.
 Tratándose de la retención de bienes cuya titularidad
@@ -8231,8 +8217,8 @@ presenta la demanda. El monto de la garantía deberá
 ser determinado por el juez prudentemente, con base
 en la información que se le proporcione y cuidando
 que la misma sea asequible para el solicitante.
-
 Artículo reformado DOF 10-01-2014
+
 Artículo 1172.- Si la radicación de persona se pide
 al tiempo de presentar la demanda, bastará la petición
 del actor y el otorgamiento de la garantía a que se
@@ -8258,9 +8244,9 @@ Artículo reformado DOF 24-05-1996, 10-01-2014
 Artículo 1175.- El juez deberá decretar de plano la
 retención de bienes, cuando el que lo pide cumpla
 con los siguientes requisitos:
-
 I. Pruebe la existencia de un crédito líquido y
 exigible a su favor;
+
 II. Exprese el valor de las prestaciones o el de la
 cosa que se reclama, designando ésta con toda
 precisión;
@@ -8286,17 +8272,8 @@ V. Garantice los daños y perjuicios que pueda
 ocasionar la medida precautoria al deudor, en el
 caso de que no se presente la demanda dentro
 del plazo previsto en este Código o bien porque
-
-promovida la
+promovida la demanda, sea absuelta su
 contraparte.
-
-demanda,
-
-sea
-
-absuelta
-
-su
 
 El monto de la garantía deberá ser determinado
 por el juez prudentemente, con base en la
@@ -8325,8 +8302,8 @@ ordenamiento. En el segundo caso, la providencia se
 sustanciará en incidente, por cuerda separada, y
 conocerá de ella el juez o tribunal que al ser
 presentada la solicitud esté conociendo del negocio.
-
 Artículo reformado DOF 10-01-2014
+
 Artículo 1178.- Ni para recibir la información ni para
 dictar una providencia precautoria se citará a la
 persona contra quien ésta se pida, salvo que la
@@ -8353,9 +8330,9 @@ antes de ser promovida la demanda, el que la pidió
 deberá presentarla dentro de tres días, si el juicio
 hubiere de seguirse en el lugar en que aquélla se
 dictó. Si debiere seguirse en otro lugar, el juez
-
 aumentará a los tres días señalados, los que resulten
 de acuerdo al último párrafo del artículo 1075.
+
 El que pidió la medida precautoria deberá acreditar
 ante el juzgador que concedió la providencia la
 presentación de la demanda ante el juez competente,
@@ -8381,9 +8358,9 @@ Artículo reformado DOF 24-05-1996, 10-01-2014
 Artículo 1184.- Igualmente puede reclamar la
 providencia precautoria un tercero, cuando sus bienes
 hayan sido objeto del secuestro. Esta reclamación se
-
 sustanciará por cuaderno separado y conforme a los
 artículos siguientes.
+
 Artículo reformado DOF 24-05-1996, 10-01-2014
 Artículo 1185.- El tercero que reclame una
 providencia, deberá hacerlo mediante escrito en el
@@ -8411,9 +8388,9 @@ devolutivo de tramitación inmediata. Si la sentencia
 que resuelva la reclamación en primera instancia
 levanta la providencia precautoria, no se ejecutará
 sino previa garantía que dé la parte que la obtuvo. La
-
 sentencia de segunda instancia causará ejecutoria.
 Cuando la providencia precautoria hubiere sido
+
 dictada en segunda instancia, la sentencia no admitirá
 recurso alguno.
 Artículo reformado DOF 10-01-2014
@@ -8438,8 +8415,8 @@ Artículo reformado DOF 24-05-1996, 10-01-2014
 Artículo 1190.- Se deroga
 Artículo reformado DOF 24-05-1996. Derogado DOF 1001-2014
 Artículo 1191.- Se deroga
-
 Artículo reformado DOF 17-04-2008. Derogado DOF 1001-2014
+
 Artículo 1192.- Se deroga
 Artículo derogado DOF 10-01-2014
 Artículo 1193.- Se deroga
@@ -8461,10 +8438,10 @@ prueba: el derecho lo estará únicamente cuando se
 funde en leyes extranjeras: el que las invoca debe
 probar la existencia de ellos y que son aplicables al
 caso.
-
 Artículo 1198.- Las pruebas deben ofrecerse
 expresando claramente el hecho o hechos que se
 trata de demostrar con las mismas, así como las
+
 razones por los que el oferente considera que
 demostrarán sus afirmaciones; si a juicio del tribunal
 las pruebas ofrecidas no cumplen con las condiciones
@@ -8490,10 +8467,10 @@ salvo casos de fuerza mayor.
 Artículo reformado DOF 04-01-1989, 24-05-1996
 Artículo 1202.- No obstan a lo dispuesto en el
 artículo anterior las reglas que se establecen para la
-
 recepción de pruebas en incidentes, o las
 documentales de las que la parte que las exhibe
 manifieste bajo protesta de decir verdad, que antes no
+
 supo de ellas, o habiéndolas solicitado y hasta
 requerido por el juez, no las pudo obtener, o las
 supervenientes.
@@ -8521,9 +8498,9 @@ cualquier prueba que ofrezcan las partes o terceros
 llamados a juicio, a los que siempre se les
 considerará como partes en el mismo.
 Artículo reformado DOF 24-05-1996, 17-04-2008
-
 Artículo 1204.- La citación se hará, lo más tarde, el
 día anterior á aquel en que deba recibirse la prueba.
+
 Artículo 1205.- Son admisibles como medios de
 prueba todos aquellos elementos que puedan
 producir convicción en el ánimo del juzgador acerca
@@ -8556,10 +8533,10 @@ de pruebas y la contraria manifieste su conformidad, o
 se abstenga de oponerse a dicha prórroga dentro del
 término de tres días. Dicho término únicamente podrá
 prorrogarse en los juicios ordinarios hasta por veinte
-
 días y en los juicios ejecutivos o especiales hasta por
 diez días. El término extraordinario sólo se concederá
 cuando las pruebas se tengan que desahogar en
+
 distinta entidad federativa o fuera del país, y cuando
 se otorguen las garantías por cada prueba que se
 encuentre en dichos supuestos, bajo las condiciones
@@ -8586,10 +8563,10 @@ juez, la suspensión se levantará cuando cese dicha
 causa, o éste requiera a las partes para que dentro
 del plazo de tres días, manifiesten y acrediten si tal
 gravedad subsiste. Transcurridos noventa días
-
 naturales de que se haya suspendido por causa
 grave, de oficio o cualquiera de las partes podrá
 solicitar al juez, para que se compruebe si subsiste la
+
 gravedad, y de haberse salvado ésta, se levantará la
 suspensión, previa constancia de haberse efectuado
 el requerimiento señalado anteriormente, con el fin de
@@ -8616,10 +8593,10 @@ la
 Artículo 1214.- Desde los escritos de demanda y
 contestación a la demanda y hasta diez días antes de
 la audiencia de pruebas, se podrá ofrecer la de
-
 confesión, quedando las partes obligadas a declarar,
 bajo protesta de decir verdad, cuando así lo exija el
 contrario.
+
 Es permitido articular posiciones al procurador que
 tenga poder especial para absolverlas, o general con
 cláusula para hacerlo.
@@ -8646,10 +8623,10 @@ hechos propios de aquel por quien absuelve, ni podrá
 manifestar que ignora la respuesta o contestar con
 evasivas, ni mucho menos negarse a contestar o se
 abstenga de responder de modo categórico en forma
-
 afirmativa o negativa, pues de hacerlo así se le
 declarará confeso de las posiciones que calificadas
 de legales se le formulen, toda vez que el tribunal
+
 bajo su responsabilidad debe considerar a dicho
 mandatario o representante legal, como si se tratara
 de la misma persona o parte por la cual absuelva las
@@ -8676,9 +8653,9 @@ cerrado y sellado, el pliego en que consten las
 posiciones, mismas que deben ser previamente
 calificadas. Del pliego, el oferente de la prueba,
 deberá, al ofrecer la confesión, acompañar copia que,
-
 autorizada conforme a la ley con la firma del juez y la
 del secretario, quedará en el seguro del juzgado, sin
+
 oportunidad de que pueda ser conocida por el
 contrario del oferente.
 Artículo reformado DOF 24-05-1996
@@ -8736,8 +8713,8 @@ la parte absolvente firmará al margen el pliego de
 posiciones.
 Artículo 1226.- En ningún caso se permitirá que la
 parte que ha de absolver un interrogatorio de
-
 posiciones esté asistida por su abogado, procurador,
+
 ni por otra persona; ni se le dará traslado ni copia de
 las posiciones, ni término para que se aconseje; pero
 si el absolvente fuere extranjero, podrá ser asistido
@@ -12270,8 +12247,9 @@ de embargo con los parientes, empleados o
 domésticos del interesado, o cualquier otra persona
 que viva en el domicilio señalado, siguiéndose las
 
-reglas del Código Federal de Procedimientos Civiles,
-respecto de los embargos.
+reglas del Código Nacional de Procedimientos Civiles
+y Familiares respecto de los embargos.
+Párrafo reformado DOF 14-11-2025
 Una vez que el actuario o ejecutor se cerciore de
 que en el domicilio sí habita la persona buscada y
 después de la habilitación de días y horas inhábiles,
@@ -12326,8 +12304,8 @@ diligencia de embargo para su inscripción.
 Párrafo adicionado DOF 10-01-2014
 El juez, en ningún caso, suspenderá su jurisdicción
 para dejar de resolver todo lo concerniente al
-embargo, su inscripción en el Registro Público que
 
+embargo, su inscripción en el Registro Público que
 corresponda, desembargo, rendición de cuentas por
 el depositario respecto de los gastos de
 administración y de las demás medidas urgentes,
@@ -12678,11 +12656,10 @@ resuelto por el juez con apoyo en las disposiciones
 respectivas de este Título; y en su defecto, en lo
 relativo a los incidentes en los Juicios Ordinarios
 Mercantiles; y a falta de uno u otro, a lo que disponga
-el Código Federal de Procedimientos Civiles, o en su
-defecto la ley procesal de la Entidad Federativa
-correspondiente, procurando la mayor equidad entre
-las partes sin perjuicio para ninguna de ellas.
-Artículo reformado DOF 24-05-1996, 13-06-2003, 17-042008
+el Código Nacional de Procedimientos Civiles y
+Familiares, procurando la mayor equidad entre las
+partes sin perjuicio para ninguna de ellas.
+Artículo reformado DOF 24-05-1996, 13-06-2003, 17-042008, 14-11-2025
 TITULO TERCERO BIS
 
 De los procedimientos de ejecución de la prenda
@@ -13113,22 +13090,20 @@ En todo lo no previsto en este Capítulo serán
 aplicables las disposiciones contenidas en el Título III
 del Libro V, de este Código.
 Artículo adicionado DOF 23-05-2000
-Nota: Por Decreto DOF 04-01-1989 se adicionó un
-nuevo Título Cuarto entonces denominado “Del
+Nota: Por Decreto DOF 04-01-1989 se adicionó un nuevo
+Título Cuarto entonces denominado “Del Procedimiento
 
-Procedimiento Arbitral” con los artículos 1415 al 1437.
-En consecuencia, se suprimieron las referencias a los
-Capítulos I "Disposiciones generales, II "Del
-aseguramiento de bienes", III "De la rectificación de
-créditos", IV "De la liquidación judicial", V "Del
-abandono de activo", VI "Del concurso necesario", VII
-"De la administración de la quiebra", VIII "De la
-graduación" y IX "De la segunda instancia", que
-formaban parte del anterior Título Cuarto “Del
-Procedimiento Especial en las Quiebras”, el cual fue
-previamente derogado en su totalidad con los
-capítulos y artículos que lo integraban mediante Ley
-DOF 20-04-1943.
+Arbitral” con los artículos 1415 al 1437. En consecuencia, se
+suprimieron las referencias a los Capítulos I "Disposiciones
+generales, II "Del aseguramiento de bienes", III "De la
+rectificación de créditos", IV "De la liquidación judicial", V "Del
+abandono de activo", VI "Del concurso necesario", VII "De la
+administración de la quiebra", VIII "De la graduación" y IX "De
+la segunda instancia", que formaban parte del anterior Título
+Cuarto “Del Procedimiento Especial en las Quiebras”, el cual
+fue previamente derogado en su totalidad con los capítulos y
+artículos que lo integraban mediante Ley DOF 20-04-1943.
+
 TITULO CUARTO
 DEL ARBITRAJE COMERCIAL
 Título derogado DOF 20-04-1943. Título adicionado y
@@ -13180,8 +13155,8 @@ sus
 establecimientos en países diferentes; o
 b) El lugar de arbitraje, determinado en el
 acuerdo de arbitraje o con arreglo al misma, el
-
 lugar del cumplimiento de una parte sustancial
+
 de las obligaciones de la relación comercial o
 el lugar con el cual el objeto del litigio tenga
 una relación más estrecha, esté situado fuera
@@ -13209,8 +13184,8 @@ razonable; y honorarios y gastos de la institución
 que haya designado a los árbitros;
 V.- Tribunal arbitral, el árbitro o árbitros
 designados para decidir una controversia.
-
 Artículo derogado DOF 20-04-1943. Adicionado DOF 0401-1989. Reformado DOF 22-07-1993
+
 Artículo 1417.presente título:
 
 Cuando
@@ -13245,8 +13220,8 @@ demanda y de la reconvención.
 Artículo derogado DOF 20-04-1943. Adicionado DOF 0401-1989. Reformado DOF 22-07-1993
 Artículo 1418.- En materia de notificación y
 cómputo de plazos se estará a lo siguiente:
-
 I.- Salvo acuerdo en contrario de las partes:
+
 a) Se considerará recibida toda comunicación
 escrita
 que
@@ -13279,9 +13254,9 @@ en que se reciba una notificación, nota, comunicación
 o propuesta. Si el último día de ese plazo es feriado
 oficial o no laborable en el lugar de residencia o
 establecimiento de los negocios del destinatario,
-
 dicho plazo se prorrogará hasta el primer día
 laborable siguiente. Los demás días feriados oficiales
+
 o no laborables que ocurran durante el transcurso del
 plazo se incluirán en el cómputo del plazo.
 Artículo derogado DOF 20-04-1943. Adicionado DOF 0401-1989. Reformado DOF 22-07-1993
@@ -13305,8 +13280,8 @@ donde se lleve a cabo el arbitraje.
 Cuando el lugar del arbitraje se encuentre fuera del
 territorio nacional, conocerá del reconocimiento y de
 la ejecución del laudo el juez de primera instancia
-
 federal o del orden común competente, del domicilio
+
 del ejecutado o, en su defecto, el de la ubicación de
 los bienes.
 Artículo derogado DOF 20-04-1943. Adicionado DOF 0401-1989. Reformado DOF 22-07-1993
@@ -13357,10 +13332,10 @@ Artículo derogado DOF 20-04-1943. Adicionado DOF 0401-1989. Reformado DOF 22-07
 CAPITULO III
 COMPOSICION DEL TRIBUNAL ARBITRAL
 Capítulo adicionado DOF 22-07-1993
-
 Artículo 1426.- Las partes podrán determinar
 libremente el número de árbitros. A falta de tal
 acuerdo, será un solo árbitro.
+
 Artículo derogado DOF 20-04-1943. Adicionado DOF 0401-1989. Reformado DOF 22-07-1993
 Artículo 1427.- Para el nombramiento de árbitros se
 estará a lo siguiente:
@@ -13389,12 +13364,15 @@ designados nombrarán al tercero; si una parte
 no nombra al árbitro dentro de los treinta días
 del recibo de un requerimiento de la otra parte
 para que lo haga, o si los dos árbitros no
-
 consiguen ponerse de acuerdo sobre el tercer
 árbitro dentro de los treinta días siguientes
 contados a partir de su nombramiento, la
-designación será hecha, a petición de
+
+designación será hecha, a petición
 cualquiera de las partes, por el juez;
+
+de
+
 IV.- Cuando en un procedimiento de nombramiento
 convenido por las partes, una de ellas no actúe
 conforme a lo estipulado en dicho procedimiento,
@@ -13423,8 +13401,8 @@ imparcial. En el caso de árbitro único o del tercer
 árbitro, tomará en cuenta asimismo, la
 conveniencia de nombrar un árbitro de
 nacionalidad distinta a la de las partes.
-
 Artículo derogado DOF 20-04-1943. Adicionado DOF 0401-1989. Reformado DOF 22-07-1993
+
 Artículo 1428.- La persona a quien se comunique
 su posible nombramiento como árbitro deberá revelar
 todas las circunstancias que puedan dar lugar a
@@ -13450,10 +13428,10 @@ A falta de acuerdo, la parte que desee recusar a un
 árbitro enviará al tribunal arbitral, dentro de los quince
 días siguientes a aquél en que tenga conocimiento de
 su constitución o de circunstancias que den lugar a
-
 dudas justificadas respecto de la imparcialidad del
 árbitro o su independencia, o si no posee las
 cualidades convenidas, un escrito en el que exponga
+
 los motivos para la recusación. A menos que el árbitro
 recusado renuncie a su cargo o que la otra parte
 acepte la recusación, corresponderá al tribunal arbitral
@@ -13477,11 +13455,11 @@ desacuerdo, cualquiera de las partes podrá solicitar al
 juez dé por terminado el encargo, decisión que será
 inapelable.
 Artículo derogado DOF 20-04-1943. Adicionado DOF 0401-1989. Reformado DOF 22-07-1993
-
 Artículo 1431.- Cuando un árbitro cese en su cargo
 en virtud de lo dispuesto en los artículos 1429 o 1430,
 renuncia, remoción por acuerdo de las partes o
 terminación de su encargo por cualquier otra causa,
+
 se procederá al nombramiento de un sustituto
 conforme al mismo procedimiento por el que se
 designó al árbitro que se ha de sustituir.
@@ -13506,10 +13484,10 @@ impedidas de oponer la excepción por el hecho de
 que hayan designado a un árbitro o participado en su
 designación. La excepción basada en que el tribunal
 arbitral ha excedido su mandato, deberá oponerse tan
-
 pronto como se plantee durante las actuaciones
 arbitrales la materia que supuestamente exceda su
 mandato. El tribunal arbitral podrá, en cualquiera de
+
 los casos, estimar una excepción presentada con
 posterioridad si considera justificada la demora.
 El tribunal arbitral podrá decidir las excepciones a
@@ -13534,8 +13512,8 @@ Artículo derogado DOF 20-04-1943. Adicionado DOF 0401-1989. Reformado DOF 22-07
 CAPITULO V
 SUSTANCIACION DE LAS ACTUACIONES
 ARBITRALES
-
 Capítulo adicionado DOF 22-07-1993
+
 Artículo 1434.- Deberá tratarse a las partes con
 igualdad y darse a cada una de ellas plena
 oportunidad de hacer valer sus derechos.
@@ -13560,8 +13538,8 @@ Sin perjuicio de lo dispuesto en el párrafo
 precedente, el tribunal arbitral podrá salvo acuerdo en
 contrario de las partes, reunirse en cualquier lugar
 que estime apropiado para celebrar deliberaciones
-
 entre sus miembros, oír a las partes, a los testigos, o
+
 a los peritos, o para examinar mercancías u otros
 bienes o documentos.
 Artículo derogado DOF 20-04-1943. Adicionado DOF 0401-1989. Reformado DOF 22-07-1993
@@ -14055,8 +14033,10 @@ remisión al arbitraje. Al tomar esta determinación
 el juez deberá observar un criterio riguroso.
 Artículo derogado DOF 20-04-1943. Adicionado DOF 2701-2011
 Artículo 1466.- Se tramitarán en vía de jurisdicción
-voluntaria conforme a los artículos 530 a 532 y 534 a
-537 del Código Federal de Procedimientos Civiles:
+voluntaria conforme al Código Nacional de
+Procedimientos Civiles y Familiares, con excepción
+del artículo 433:
+Párrafo reformado DOF 14-11-2025
 I. La solicitud de designación de árbitros o la
 adopción de medidas previstas en las fracciones
 III y IV del artículo 1427 de este Código.
@@ -14073,10 +14053,10 @@ Artículo 1467.- Salvo que en las circunstancias del
 caso sea inconveniente, al designar árbitro o árbitros
 o adoptar las medidas a que se refiere el artículo
 anterior, se observará lo siguiente:
+
 I. El juez deberá oír previamente a las partes, a
 cuyo efecto podrá, si lo estima conveniente,
 citarlas a una junta para oír sus opiniones.
-
 II. El juez deberá previamente consultar con una o
 varias instituciones arbitrales, colegio de
 corredores públicos, cámaras de comercio o
@@ -14103,9 +14083,9 @@ juez;
 c) Transcurrido el plazo mencionado, el juez
 nombrará al árbitro o árbitros de entre las
 personas aprobadas en las listas devueltas y
+
 de conformidad con el orden de preferencia
 indicado por las partes, y
-
 d) Si por cualquier motivo no pudiera hacerse el
 nombramiento según el sistema de lista, el
 juez ejercerá su discreción para nombrar al
@@ -14130,9 +14110,9 @@ partes en el arbitraje.
 Artículo derogado DOF 20-04-1943. Adicionado DOF 2701-2011
 Artículo 1470.- Se tramitarán conforme al
 procedimiento previsto en los artículos 1472 a 1476:
+
 I. La resolución sobre recusación de un árbitro a
 que se refiere el tercer párrafo del artículo 1429.
-
 II. La resolución sobre la competencia del Tribunal
 Arbitral, cuando se determina en una resolución
 que no sea un laudo sobre el fondo del asunto,
@@ -14160,13 +14140,13 @@ u otro procedimiento, el reconocimiento y ejecución se
 promoverán en el juicio especial a que se refieren los
 artículos 1472 a 1476.
 Artículo derogado DOF 20-04-1943. Adicionado DOF 2701-2011
+
 Artículo
 1472.El
 juicio
 especial
 sobre
 transacciones comerciales y arbitraje, a que se
-
 refieren los artículos 1470 y 1471, se tramitará
 conforme a los siguientes artículos.
 Artículo derogado DOF 20-04-1943. Adicionado DOF 2701-2011
@@ -14188,9 +14168,9 @@ días.
 Artículo derogado DOF 20-04-1943. Adicionado DOF 2701-2011
 Artículo 1476.- Celebrada la audiencia el juez citará
 a las partes para oír sentencia. Las resoluciones
+
 intermedias dictadas en este juicio especial y la
 sentencia que lo resuelva no serán recurribles.
-
 Artículo derogado DOF 20-04-1943. Adicionado DOF 2701-2011
 Artículo 1477.- Los juicios especiales que versen
 sobre nulidad o reconocimiento y ejecución de laudos
@@ -14201,11 +14181,11 @@ favor del juez que haya prevenido. La acumulación no
 procede respecto de procesos que se ventilen en
 jurisdicciones territoriales diversas o en el extranjero,
 ni entre tribunales federales y los de los estados. La
-acumulación se tramitará conforme a los artículos 73
-a 75 del Código Federal de Procedimientos Civiles. La
+acumulación se tramitará conforme al Código
+Nacional de Procedimientos Civiles y Familiares. La
 resolución que resuelva sobre la acumulación es
 irrecurrible.
-Artículo derogado DOF 20-04-1943. Adicionado DOF 2701-2011
+Artículo derogado DOF 20-04-1943. Adicionado DOF 2701-2011. Reformado DOF 14-11-2025
 Artículo 1478.- El juez gozará de plena discreción
 en la adopción de las medidas cautelares
 provisionales a que se refiere el artículo 1425.
@@ -14215,9 +14195,9 @@ un Tribunal Arbitral se reconocerá como vinculante y,
 salvo que el Tribunal Arbitral disponga otra cosa, será
 ejecutada al ser solicitada tal ejecución ante el juez
 competente, cualquiera que sea el estado en donde
+
 haya sido ordenada, y a reserva de lo dispuesto en el
 artículo 1480.
-
 La parte que solicite o haya obtenido el
 reconocimiento o la ejecución de una medida cautelar
 informará sin demora al juez de toda revocación,
@@ -14240,9 +14220,9 @@ de los motivos enunciados en los incisos a), b),
 c) o d) de la fracción I del artículo 1462, o
 b) No se ha cumplido la decisión del Tribunal
 Arbitral sobre la prestación de la garantía que
+
 corresponda a la medida cautelar otorgada por
 el Tribunal Arbitral, o
-
 c) La medida cautelar ha sido revocada o
 suspendida por el Tribunal Arbitral o, en caso
 de que esté facultado para hacerlo, por un
@@ -14268,9 +14248,9 @@ la medida cautelar. El juez al que se solicite el
 reconocimiento o la ejecución no podrá emprender,
 en el ejercicio de dicho cometido, una revisión del
 contenido de la medida cautelar.
+
 De toda medida cautelar queda responsable el que
 la pide, así como el Tribunal Arbitral que la dicta, por
-
 consiguiente son de su cargo los daños y perjuicios
 que se causen.
 Artículo derogado DOF 20-04-1943. Adicionado DOF 2701-2011
@@ -14290,9 +14270,9 @@ Artículo 1487.- (Se deroga).
 Artículo derogado DOF 20-04-1943
 Artículo 1488.- (Se deroga).
 Artículo derogado DOF 20-04-1943
+
 Artículo 1489.- (Se deroga).
 Artículo derogado DOF 20-04-1943
-
 Artículo 1490.- (Se deroga).
 Artículo derogado DOF 20-04-1943
 Artículo 1491.- (Se deroga).
@@ -14313,9 +14293,9 @@ Artículo 1498.- (Se deroga).
 Artículo derogado DOF 20-04-1943
 Artículo 1499.- (Se deroga).
 Artículo derogado DOF 20-04-1943
+
 Artículo 1500.- (Se deroga).
 Artículo derogado DOF 20-04-1943
-
 TRANSITORIOS
 Artículo Primero.- Este Código comenzará a regir
 el día 1o. de Enero de 1890.
@@ -14339,9 +14319,9 @@ mercantiles preexistentes y relativas a las materias
 que en este Código se tratan.
 Por tanto, mando se imprima, publique, circule y se
 le dé el debido cumplimiento.
+
 Palacio de Gobierno Nacional en México, a 15 de
 Septiembre de 1889.- Porfirio Díaz.- Al C. Lic.
-
 Joaquín Baranda, Secretario de Estado y del
 Despacho de Justicia e Instrucción Pública.
 Y lo comunico a ud. para los fines consiguientes.
