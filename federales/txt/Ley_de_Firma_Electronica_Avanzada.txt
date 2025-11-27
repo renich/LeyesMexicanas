@@ -7,7 +7,7 @@ LEY DE FIRMA ELECTRÓNICA AVANZADA
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 11 de enero de 2012
 TEXTO VIGENTE
-Última reforma publicada DOF 20-05-2021
+Última reforma publicada DOF 14-11-2025
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -258,7 +258,9 @@ Artículo 6. A falta de disposición expresa en esta
 Ley o en las demás disposiciones que de ella deriven,
 se aplicarán supletoriamente la Ley Federal de
 Procedimiento Administrativo, el Código Civil Federal
-y el Código Federal de Procedimientos Civiles.
+y el Código Nacional de Procedimientos Civiles y
+Familiares.
+Artículo reformado DOF 14-11-2025
 TÍTULO SEGUNDO
 DE LA FIRMA ELECTRÓNICA AVANZADA
 CAPÍTULO I
@@ -270,8 +272,13 @@ Los documentos electrónicos y los mensajes de
 datos que cuenten con firma electrónica avanzada
 producirán los mismos efectos que los presentados
 con firma autógrafa y, en consecuencia, tendrán el
-mismo valor probatorio que las disposiciones
+
+mismo valor probatorio que
 aplicables les otorgan a éstos.
+
+las
+
+disposiciones
 
 Artículo 8. Para efectos del artículo 7 de esta Ley,
 la firma electrónica avanzada deberá cumplir con los
@@ -297,10 +304,10 @@ inalterado desde su firma, con independencia de
 los cambios que hubiere podido sufrir el medio
 que lo contiene como resultado del proceso de
 comunicación, archivo o presentación;
+
 IV.Neutralidad Tecnológica: Consiste en que la
 tecnología utilizada para la emisión de
 certificados digitales y para la prestación de los
-
 servicios relacionados con la firma electrónica
 avanzada será aplicada de modo tal que no
 excluya, restrinja o favorezca alguna tecnología
@@ -326,9 +333,9 @@ u
 II. Una clave privada, generada bajo su exclusivo
 control.
 CAPÍTULO II
+
 De los documentos electrónicos y de los
 mensajes de datos
-
 Artículo 10. Las dependencias y entidades en las
 comunicaciones y, en su caso, actos jurídicos que
 realicen entre las mismas, harán uso de mensajes de
@@ -357,9 +364,9 @@ I. Que aceptan consultar el tablero electrónico, al
 menos, los días quince y último de cada mes o
 bien, el día hábil siguiente si alguno de éstos
 fuere inhábil; y en caso de no hacerlo, se tendrá
+
 por hecha la notificación en el día hábil que
 corresponda;
-
 II. Que aceptan darse por notificados de las
 actuaciones
 electrónicas
@@ -390,10 +397,10 @@ con una dirección de correo electrónico para recibir,
 cuando corresponda, mensajes de datos y
 documentos electrónicos en la realización de los
 actos previstos en esta Ley.
+
 Artículo 13. Cada dependencia y entidad creará y
 administrará un sistema de trámites electrónicos que
 establezca el control de accesos, los respaldos y la
-
 recuperación de información, con mecanismos
 confiables de seguridad, disponibilidad, integridad,
 autenticidad, confidencialidad y custodia.
@@ -418,10 +425,10 @@ avanzada derivados de los actos a que se refiere esta
 Ley, durante los plazos de conservación previstos en
 los ordenamientos aplicables, según la naturaleza de
 la información.
+
 Mediante disposiciones generales se establecerá lo
 relativo a la conservación de los mensajes de datos y
 de los documentos electrónicos con firma electrónica
-
 avanzada, para lo cual se tomarán en cuenta, entre
 otros requisitos, los previstos en la Norma Oficial
 Mexicana a que se refiere el artículo 49 del Código de
@@ -446,11 +453,11 @@ entidad podrá solicitar que el documento impreso
 le sea presentado directamente o bien, que este
 último se le envíe por correo certificado con
 acuse de recibo.
+
 En el supuesto de que se opte por el envío del
 documento impreso a través de correo certificado,
 será necesario que adicionalmente se envíe
 dentro de los tres días hábiles siguientes,
-
 mediante un mensaje de datos, la guía que
 compruebe que el referido documento fue
 depositado en una oficina de correos;
@@ -474,10 +481,10 @@ de que se trate, los plazos de conservación
 previstos en los ordenamientos aplicables.
 TÍTULO TERCERO
 DEL CERTIFICADO DIGITAL
+
 CAPÍTULO I
 De la estructura y procedimientos del certificado
 digital
-
 Artículo 17. El certificado digital deberá contener lo
 siguiente:
 I. Número de serie;
@@ -485,7 +492,7 @@ II. Autoridad certificadora que lo emitió;
 III. Algoritmo de firma;
 IV.Vigencia;
 V. Nombre del titular del certificado digital;
-VI. Dirección de correo electrónico del titular del
+VI.Dirección de correo electrónico del titular del
 certificado digital;
 VII. Clave Única del Registro de Población (CURP)
 del titular del certificado digital;
@@ -495,10 +502,10 @@ establezcan en las disposiciones generales que
 se emitan en términos de esta Ley.
 Artículo 18. Para obtener un certificado digital el
 interesado accederá a la página Web de la autoridad
+
 certificadora y llenará el formato de solicitud con los
 datos siguientes:
 I. Nombre completo del solicitante;
-
 II. Domicilio del solicitante;
 III. Dirección de correo electrónico para recibir
 mensajes de datos y documentos electrónicos;
@@ -519,9 +526,9 @@ b) El documento de identificación oficial expedido
 por autoridad competente, y
 c) El documento probatorio de nacionalidad
 mexicana, y tratándose de extranjeros, el
+
 documento que acredite su legal estadía en
 territorio nacional.
-
 La Secretaría, la Secretaría de Economía y el
 Servicio
 de
