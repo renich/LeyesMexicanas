@@ -43,7 +43,6 @@ https://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/238.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/246.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/252.pdf
-https://www.diputados.gob.mx/LeyesBiblio/pdf/255.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/260.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/268.pdf
@@ -57,7 +56,6 @@ https://www.diputados.gob.mx/LeyesBiblio/pdf/53.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/57.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/63.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/65_071220.pdf
-https://www.diputados.gob.mx/LeyesBiblio/pdf/67.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/70.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/71_240418.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/74.pdf
@@ -249,7 +247,7 @@ https://www.diputados.gob.mx/LeyesBiblio/pdf/LMTR.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/LMigra.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/LMin.pdf
-https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM_071220.pdf
+https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/LNED.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/LNETB.pdf
@@ -287,6 +285,7 @@ https://www.diputados.gob.mx/LeyesBiblio/pdf/LRASCAP.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt3_MMCE_300919.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt6_MDR.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt76_fracVI.pdf
+https://www.diputados.gob.mx/LeyesBiblio/pdf/LRCDN.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFIyII_Art105.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFXIIIB_Art123.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf
@@ -301,6 +300,7 @@ https://www.diputados.gob.mx/LeyesBiblio/pdf/LSM.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/LSN.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIEG.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIIMSP.pdf
+https://www.diputados.gob.mx/LeyesBiblio/pdf/LSP.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPM.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPREM.pdf
 https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf
