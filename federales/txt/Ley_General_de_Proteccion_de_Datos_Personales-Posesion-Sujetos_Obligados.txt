@@ -6,9 +6,10 @@ Versión PDF para vista en dispositivo móvil Android y Apple iOS
 LEY GENERAL DE PROTECCIÓN DE DATOS
 PERSONALES EN POSESIÓN DE SUJETOS
 OBLIGADOS
-TEXTO VIGENTE
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 20 de marzo de 2025
+TEXTO VIGENTE
+Última reforma publicada DOF 14-11-2025
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -39,13 +40,13 @@ DE
 PROTECCIÓN
 DE
 DATOS
+
 PERSONALES
 EN
 POSESIÓN
 DE
 LOS
 PARTICULARES; Y SE REFORMA EL ARTÍCULO
-
 37, FRACCIÓN XV, DE LA LEY ORGÁNICA DE LA
 ADMINISTRACIÓN PÚBLICA FEDERAL
 Artículo Primero.- ………
@@ -82,9 +83,9 @@ II.
 
 Distribuir competencias entre la Secretaría y las
 Autoridades garantes, en materia de protección
+
 de datos personales en posesión de sujetos
 obligados;
-
 III. Establecer las bases mínimas y condiciones
 homogéneas que regirán el tratamiento de los
 datos personales y el ejercicio de los derechos
@@ -114,15 +115,16 @@ aquellas conductas que contravengan las
 disposiciones previstas en esta Ley.
 Artículo 3. Para los efectos de la presente Ley se
 entenderá por:
+
 I.
 
 Áreas: Instancias de los sujetos obligados
 previstas en los respectivos reglamentos
-
 interiores, estatutos orgánicos o instrumentos
 equivalentes, que cuentan o puedan contar, dar
 tratamiento, y ser responsables o encargadas
 de los datos personales;
+
 II.
 
 Autoridades garantes: Órgano de control y
@@ -481,9 +483,10 @@ de los organismos nacionales e internacionales, en
 materia de protección de datos personales.
 Artículo 9. A falta de disposición expresa en la
 presente Ley, se aplicarán de manera supletoria las
-disposiciones del Código Federal de Procedimientos
-Civiles y de la Ley Federal de Procedimiento
-Administrativo.
+disposiciones del Código Nacional de Procedimientos
+Civiles y Familiares y de la Ley Federal de
+Procedimiento Administrativo.
+Párrafo reformado DOF 14-11-2025
 Las leyes de las Entidades Federativas, en el ámbito
 de sus respectivas competencias, deberán determinar
 las disposiciones que les resulten aplicables en
@@ -495,24 +498,13 @@ Capítulo I
 De los Principios
 Artículo 10. El responsable deberá observar los
 principios de licitud, finalidad, lealtad, consentimiento,
+
 calidad,
 proporcionalidad,
 información
 y
-
-responsabilidad
+responsabilidad en el tratamiento de datos
 personales.
-
-en
-
-el
-
-tratamiento
-
-de
-
-datos
-
 Artículo 11. El tratamiento de datos personales por
 parte del responsable deberá sujetarse a las
 facultades o atribuciones que la normatividad
