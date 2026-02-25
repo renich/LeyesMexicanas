@@ -9,9 +9,10 @@ Secretaría de Servicios Parlamentarios
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 Nuevo Código publicado en el Diario Oficial de la Federación el 24 de febrero de 1943
 Última reforma publicada DOF 07-06-2021
-
-Declaratoria de invalidez de artículo transitorio de decreto de reforma por Sentencia de la SCJN DOF 18-02-2022
 Código Abrogado, en un plazo que no exceda del 1o. de abril de 2027, por Decreto DOF 07-06-2023
+
+Declaratoria de inconstitucionalidad de artículos por Sentencia de la SCJN publicada en el DOF 05-06-2025 y notificado el engrose de
+la Sentencia para efectos legales el 17-06-2025
 
 Nota sobre la vigencia y abrogación de este Código: Por medio del Decreto por el que se expide el Código
 Nacional de Procedimientos Civiles y Familiares, publicado en el DOF 07-06-2023, se abroga el Código Federal de
@@ -46,9 +47,8 @@ DECRETO:
 
 CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 LIBRO PRIMERO
-Disposiciones Generales
 
-1 de 124
+1 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -58,6 +58,7 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Disposiciones Generales
 TITULO PRIMERO
 Partes
 CAPITULO I
@@ -99,10 +100,8 @@ Fe de erratas al párrafo DOF 13-03-1943. Reformado DOF 20-05-2021
 
 ARTICULO 5º.- Siempre que una parte, dentro de un juicio, esté compuesta de diversas personas,
 deberá tener una sola representación, para lo cual nombrarán los interesados un representante común.
-Si se tratare de la actora, el nombramiento de representante será hecho en la demanda o en la
-primera promoción, sin lo cual, no se le dará curso.
 
-2 de 124
+2 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -112,6 +111,8 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Si se tratare de la actora, el nombramiento de representante será hecho en la demanda o en la
+primera promoción, sin lo cual, no se le dará curso.
 Si fuere la demandada, el nombramiento se hará en un plazo que concluirá a los tres días siguientes
 al vencimiento del término del último de los emplazados, para contestar la demanda.
 Fe de erratas al párrafo DOF 13-03-1943
@@ -154,9 +155,7 @@ composición voluntaria de la controversia, y, además, limitó su actuación, e
 lo estrictamente indispensable para hacer posible la definitiva resolución del negocio.
 Fe de erratas al párrafo DOF 13-03-1943
 
-Se entiende que no es imputable a la parte la falta de composición voluntaria de la controversia.
-
-3 de 124
+3 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -166,6 +165,7 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Se entiende que no es imputable a la parte la falta de composición voluntaria de la controversia.
 I.- Cuando la ley ordena que sea decidida necesariamente por autoridad judicial;
 II.- Cuando consista en una mera cuestión de derecho dudoso, o en substituir el arbitrio judicial a las
 voluntades de las partes, y
@@ -206,10 +206,8 @@ Artículo reformado DOF 07-06-2021
 
 ARTICULO 16.- Las partes pueden desistir de una competencia antes o después de la remisión de los
 autos al superior, si se trata de competencia por territorio.
-ARTICULO 17.- Es nulo de pleno derecho lo actuado por el tribunal que fuere declarado
-incompetente, salva disposición contraria a la ley.
 
-4 de 124
+4 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -219,6 +217,8 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+ARTICULO 17.- Es nulo de pleno derecho lo actuado por el tribunal que fuere declarado
+incompetente, salva disposición contraria a la ley.
 En los casos de incompetencia superveniente, la nulidad sólo opera a partir del momento en que
 sobrevino la incompetencia.
 Fe de erratas al párrafo DOF 13-03-1943
@@ -262,10 +262,8 @@ ARTICULO 23.- La competencia territorial es prorrogable por mutuo consentimiento
 expreso o tácito.
 Hay prórroga tácita:
 I.- De parte del actor, por el hecho de ocurrir al tribunal, entablando su demanda;
-II.- De parte del demandado, por contestar la demanda y por reconvenir al actor, y
-Fe de erratas a la fracción DOF 13-03-1943
 
-5 de 124
+5 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -274,6 +272,9 @@ Código Abrogado DOF 07-06-2023
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+II.- De parte del demandado, por contestar la demanda y por reconvenir al actor, y
+Fe de erratas a la fracción DOF 13-03-1943
 
 III.- De parte de cualquiera de los interesados, cuando desista de una competencia.
 ARTICULO 24.- Por razón de territorio es tribunal competente:
@@ -315,11 +316,7 @@ el del domicilio del que promueve; pero, si se trata de bienes raíces, lo es el
 ubicados, observándose, en lo aplicable, lo dispuesto en la fracción III.
 Fe de erratas al párrafo DOF 13-03-1943
 
-Cuando haya varios tribunales competentes conforme a las disposiciones anteriores, en caso de
-conflicto de competencias se decidirá a favor del que haya prevenido en el conocimiento, y
-Párrafo reformado DOF 18-12-2002
-
-6 de 124
+6 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -328,6 +325,10 @@ Código Abrogado DOF 07-06-2023
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+Cuando haya varios tribunales competentes conforme a las disposiciones anteriores, en caso de
+conflicto de competencias se decidirá a favor del que haya prevenido en el conocimiento, y
+Párrafo reformado DOF 18-12-2002
 
 IX.- Tratándose de juicios en los que el demandado sea indígena, será juez competente el del lugar en
 el que aquél tenga su domicilio; si ambas partes son indígenas, lo será el juez que ejerza jurisdicción en
@@ -370,9 +371,8 @@ ARTICULO 33.- En caso de que aquellas leyes estén en conflicto, las competencia
 los jueces de un Estado a los de otro se decidirá con arreglo a la sección segunda de este capítulo.
 
 SECCION SEXTA
-Substanciación de las competencias
 
-7 de 124
+7 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -382,6 +382,7 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Substanciación de las competencias
 ARTICULO 34.- Las contiendas de competencias podrán promoverse por inhibitoria o por declinatoria.
 La inhibitoria se intentará ante el juez o tribunal a quien se considere competente, pidiéndole que dirija
 oficio al que se estime no serlo, para que se inhiba y le remita los autos.
@@ -420,11 +421,8 @@ diligencias necesarias.
 
 CAPITULO II
 Impedimentos
-ARTICULO 39.- Fijada la competencia de un juez, magistrado o ministro, conforme a lo dispuesto por
-el capítulo precedente, conocerá del negocio en que se haya fijado, si no se encuentra comprendido en
-los siguientes casos de impedimento:
 
-8 de 124
+8 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -434,6 +432,9 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+ARTICULO 39.- Fijada la competencia de un juez, magistrado o ministro, conforme a lo dispuesto por
+el capítulo precedente, conocerá del negocio en que se haya fijado, si no se encuentra comprendido en
+los siguientes casos de impedimento:
 Fe de erratas al párrafo DOF 13-03-1943
 
 I.- Tener interés directo o indirecto en el negocio;
@@ -469,7 +470,7 @@ XVI.- Ser tutor o curador de alguno de los interesados, y
 XVII.- Estar en una situación que pueda afectar su imparcialidad en forma análoga o más grave que
 las mencionadas.
 
-9 de 124
+9 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -515,9 +516,8 @@ oposición de las partes.
 Si la excusa fuere de un secretario o ministro ejecutor, la propondrá al tribunal del conocimiento, el
 que, con audiencia de las partes, resolverá si se acepta o no, designando, en caso afirmativo, a quien
 deba substituir al impedido.
-ARTICULO 46.- Entretanto se resuelve una excusa, quedará en suspenso el procedimiento.
 
-10 de 124
+10 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -527,6 +527,7 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+ARTICULO 46.- Entretanto se resuelve una excusa, quedará en suspenso el procedimiento.
 La resolución que decida una excusa no es recurrible.
 
 SECCION SEGUNDA
@@ -564,9 +565,8 @@ En todo caso, la resolución que decida una recusación es irrevocable.
 CAPITULO III
 Facultades y obligaciones de los funcionarios judiciales
 SECCION PRIMERA
-De los juzgadores
 
-11 de 124
+11 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -576,6 +576,7 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+De los juzgadores
 ARTICULO 54.- Los jueces, magistrados y ministros tienen el deber de mantener el buen orden, y de
 exigir que se les guarde el respeto y consideración debidos, tanto por parte de los litigantes y personas
 que ocurran a los tribunales, como por parte de los funcionarios y empleados de éstos, y sancionarán
@@ -614,9 +615,8 @@ Fracción reformada DOF 20-06-2008
 
 II.- El auxilio de la fuerza pública.
 Si fuere insuficiente el apremio, se procederá contra el rebelde por el delito de desobediencia.
-ARTICULO 60.- Todo tribunal actuará con secretario o testigos de asistencia.
 
-12 de 124
+12 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -625,6 +625,8 @@ Código Abrogado DOF 07-06-2023
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+ARTICULO 60.- Todo tribunal actuará con secretario o testigos de asistencia.
 
 SECCION SEGUNDA
 De los secretarios
@@ -664,9 +666,8 @@ ARTICULO 69.-Si hubiere oposición de parte de tercero contra la cumplimentació
 resolverá aquella por el procedimiento incidental.
 
 TITULO TERCERO
-CAPITULO UNICO
 
-13 de 124
+13 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -676,6 +677,7 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+CAPITULO UNICO
 Litigio
 ARTICULO 70.- Puede ser propuesta, al tribunal, una demanda, tanto para la resolución de todas,
 como para la resolución de algunas de las cuestiones que puedan surgir para la decisión de una
@@ -719,7 +721,7 @@ demanda, contestación y demás trámites del juicio, y, entre tanto no lo hagan
 tribunal a resolver. La resolución que ordene la ampliación es apelable en ambos efectos.
 Fe de erratas al artículo DOF 13-03-1943
 
-14 de 124
+14 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -770,7 +772,7 @@ general, debe probar que así es.
 ARTICULO 84.- El que afirma que otro contrajo una liga jurídica, sólo debe probar el hecho o acto que
 la originó, y no que la obligación subsiste.
 
-15 de 124
+15 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -824,7 +826,7 @@ desaparezca o se altere, y la declaración de la primera o la inspección de la 
 para la resolución de la cuestión controvertida, podrá el tribunal ordenar la recepción de la prueba
 correspondiente.
 
-16 de 124
+16 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -868,10 +870,8 @@ de ser propio del que declara.
 ARTICULO 100.- Cuando la pregunta contenga dos o más hechos, el tribunal la examinará
 prudentemente, determinando si debe resolverse en dos o más preguntas, o sí, por la íntima relación que
 existe entre los hechos que contiene, de manera que no pueda afirmarse o negarse uno, sin afirmar o
-negar el otro u otros, y teniendo en cuenta lo ya declarado por el absolvente al contestar las anteriores
-del interrogatorio, debe aprobarse como ha sido formulada.
 
-17 de 124
+17 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -881,6 +881,8 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+negar el otro u otros, y teniendo en cuenta lo ya declarado por el absolvente al contestar las anteriores
+del interrogatorio, debe aprobarse como ha sido formulada.
 ARTICULO 101.- Se tienen por insidiosas las preguntas que se dirigen a ofuscar la inteligencia del
 que ha de responder, con el objeto de obtener una confesión contraria a la verdad.
 ARTICULO 102.- Desde que se abre el juicio a prueba, hasta antes de la audiencia final, todo litigante
@@ -927,7 +929,7 @@ Sí se declara procedente, se le repetirá para que la conteste, apercibida de t
 hace.
 Fe de erratas al artículo DOF 13-03-1943
 
-18 de 124
+18 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -987,9 +989,8 @@ señalada para recibir notificaciones, se librará el correspondiente exhorto o 
 sobre cerrado y sellado, el pliego en que consten las preguntas. En este caso, se abrirá el pliego, y,
 calificadas las preguntas, se sacará copia de las que fueren aprobadas, la cual se guardará en el secreto
 del tribunal, debidamente autorizada, remitiéndose el original con el exhorto o despacho, para que se
-haga el examen al tenor de las posiciones que hubiere aprobado el tribunal del juicio. Si el interesado
 
-19 de 124
+19 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -999,6 +1000,7 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+haga el examen al tenor de las posiciones que hubiere aprobado el tribunal del juicio. Si el interesado
 ignorare el lugar en que se encuentre el absolvente, la citación se hará por edictos, y, además, en el
 domicilio señalado.
 Fe de erratas al párrafo DOF 13-03-1943
@@ -1041,7 +1043,7 @@ Fe de erratas al párrafo DOF 13-03-1943
 Se tendrá por confeso al articulante, y sólo en lo que le perjudique, respecto a los hechos propios que
 consten en las posiciones que formule, y contra ellos no se le admitirá prueba de ninguna clase.
 
-20 de 124
+20 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1099,7 +1101,7 @@ ARTICULO 136.- Los documentos privados se presentarán originales, y, cuando for
 libro, expediente o legajo, se exhibirán para que se compulse la parte que señalen los interesados.
 Fe de erratas al artículo DOF 13-03-1943
 
-21 de 124
+21 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1153,7 +1155,7 @@ los haya tenido como pruebas.
 CAPITULO IV
 Prueba pericial
 
-22 de 124
+22 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1205,7 +1207,7 @@ partes y lo permita la naturaleza del reconocimiento, pudiendo pedir, a los peri
 que estime conducentes, y exigirles la práctica de nuevas diligencias.
 ARTICULO 149.- En el caso del párrafo final del artículo anterior, se observarán las reglas siguientes:
 
-23 de 124
+23 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1261,7 +1263,7 @@ siguientes al en que cause estado la notificación de su nombramiento a los liti
 causas que pueden serlo los jueces; pero, si se tratare de perito nombrado en rebeldía de una de las
 partes, sólo ésta podrá hacer uso de la recusación.
 
-24 de 124
+24 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1314,7 +1316,7 @@ están obligados a declarar como testigos.
 ARTICULO 166.- Una parte sólo puede presentar hasta cinco testigos sobre cada hecho, salvo
 disposición diversa de la ley.
 
-25 de 124
+25 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1371,7 +1373,7 @@ Fe de erratas al artículo DOF 13-03-1943
 ARTICULO 175.- Las preguntas y repreguntas deben estar concebidas en términos claros y precisos;
 han de ser conducentes a la cuestión debatida; se procurará que en una sola no se comprenda más de
 
-26 de 124
+26 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1429,7 +1431,7 @@ no puede leer, la declaración será leída por el secretario, y, si no quiere, 
 imprimirá sus huellas digitales, si puede y quiere hacerlo, de todo lo cual se hará relación motivada en
 autos.
 
-27 de 124
+27 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1480,7 +1482,7 @@ ARTICULO 193.- La parte que niegue una presunción debe rendir la contraprueba d
 de aquélla.
 ARTICULO 194.- La parte que impugne una presunción debe probar contra su contenido.
 
-28 de 124
+28 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1530,7 +1532,7 @@ Las declaraciones o manifestaciones de que se trata prueban plenamente contra qu
 o asistieron al acto en que fueron hechas, y se manifestaron conformes con ellas. Pierden su valor en el
 caso de que judicialmente se declare su simulación.
 
-29 de 124
+29 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1583,7 +1585,7 @@ presentó, se tendrá al autor por reconocido. En caso contrario, la verdad del 
 haya sido escrito por cuenta de la persona indicada, debe demostrarse por prueba directa, de acuerdo
 con los capítulos anteriores de este título.
 
-30 de 124
+30 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1638,7 +1640,7 @@ directamente la existencia de la obligación o de la excepción que debía proba
 acto o contrato tuvo lugar, con las formalidades exigidas para su validez, en el lugar y momento en que
 se efectuó.
 
-31 de 124
+31 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1687,7 +1689,7 @@ cualquier especia, deberán contener la certificación correspondiente que acred
 circunstancias en que fueron tomadas, así como que corresponden a lo representado en ellas, para que
 constituyan prueba plena. En cualquier otro caso, su valor probatorio queda al prudente arbitrio judicial.
 
-32 de 124
+32 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1746,7 +1748,7 @@ que pueda variar la substancia de la resolución.
 ARTICULO 225.- El auto que resuelva sobre la aclaración o adición de una resolución, se reputará
 parte integrante de ésta, y no admitirá ningún recurso.
 
-33 de 124
+33 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1797,7 +1799,7 @@ demás partes no hacen el señalamiento que les corresponde, se enviará la copi
 señaladas por el apelante.
 Fe de erratas al párrafo DOF 13-03-1943
 
-34 de 124
+34 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1853,7 +1855,7 @@ que, dentro de los tres días siguientes de estar notificado, ocurra al Tribunal
 continuar el recurso, ampliándose el término que se le señale, en su caso, por razón de la distancia.
 Artículo reformado DOF 07-06-2021
 
-35 de 124
+35 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1909,7 +1911,7 @@ ARTICULO 253.- Sólo en la apelación de sentencias o de autos que pongan fin a 
 admitirán, a las partes, pruebas en la segunda instancia, siempre que no se hubieren recibido en la
 primera por causas ajenas a su voluntad, o que sean relativas a excepciones posteriores a la audiencia
 
-36 de 124
+36 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -1964,7 +1966,7 @@ el tribunal señale como conducentes, las que hubiere indicado el recurrente, y 
 días siguientes a la notificación del auto que ordene la expedición señalen las demás partes.
 Fe de erratas al artículo DOF 13-03-1943
 
-37 de 124
+37 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2019,7 +2021,7 @@ recurrida la sentencia, luego que causa ésta ejecutoria se comunicará al tribu
 recurso, para que lo declare sin materia y ordene su archivo. Si la sentencia fuere recurrida, se
 comunicará la admisión del recurso al tribunal que conozca del que esté en trámite, para que remita el
 
-38 de 124
+38 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2073,7 +2075,7 @@ visual, auditiva o de locución, el tribunal deberá a petición de la parte que
 asistencia necesaria en materia de estenografía proyectada o de ayuda técnica respectiva.
 Párrafo adicionado DOF 24-05-2011
 
-39 de 124
+39 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2130,7 +2132,7 @@ II.- El número de copias simples necesario para correr traslado a las demás pa
 demanda principal o incidental como de los documentos que con ellas se acompañen.
 Fe de erratas a la fracción DOF 13-03-1943
 
-40 de 124
+40 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2182,7 +2184,7 @@ ARTICULO 283.- Siempre que deba tener lugar un acto judicial en día y hora señ
 cualquier circunstancia no se efectúe, el secretario hará constar, en los autos, la razón por la cual no se
 practicó.
 
-41 de 124
+41 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2235,7 +2237,7 @@ lugar del juicio, a petición del interesado se concederán los siguientes térm
 I.- Dos meses si el lugar está comprendido dentro del territorio nacional;
 II.- Cuatro meses si lo está en los Estados Unidos de Norteamérica, en Canadá o en las Antillas;
 
-42 de 124
+42 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2280,7 +2282,7 @@ ARTICULO 299.- Los exhortos y despachos se expedirán el siguiente día al en qu
 acuerdo que los prevenga, a menos de determinación judicial en contrario, sin que, en ningún caso, el
 término fijado pueda exceder de diez días.
 
-43 de 124
+43 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2331,7 +2333,7 @@ ARTICULO 309.- Las notificaciones serán personales:
 I.- Para emplazar a juicio al demandado, y en todo caso en que se trate de la primera notificación en el
 negocio;
 
-44 de 124
+44 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2385,7 +2387,7 @@ una relación sucinta de la demanda, y se publicarán por tres veces, de siete e
 Oficial" y en uno de los periódicos diarios de mayor circulación en la República, haciéndosele saber que
 debe presentarse dentro del término de treinta días, contados del siguiente al de la última publicación. Se
 
-45 de 124
+45 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2443,7 +2445,7 @@ Juicio
 CAPITULO I
 Demanda
 
-46 de 124
+46 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2496,7 +2498,7 @@ Fe de erratas al párrafo DOF 13-03-1943
 
 El auto que admita la demanda no es recurrible, el que la desecha es apelable.
 
-47 de 124
+47 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2550,7 +2552,7 @@ Fe de erratas al artículo DOF 13-03-1943
 ARTICULO 331.- Lo dispuesto en los artículos 323 y 324 es aplicable al demandado, respecto de los
 documentos en que funde sus excepciones o que deban de servirle como pruebas en el juicio.
 
-48 de 124
+48 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2601,7 +2603,7 @@ ARTICULO 342.- Concluida la recepción de las pruebas ofrecidas por las partes y
 por el tribunal, en su caso, el último día del término de prueba se verificará la audiencia final del juicio,
 con arreglo a los artículos siguientes, concurran o no las partes.
 
-49 de 124
+49 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2661,7 +2663,7 @@ III.- Sólo se concederá el uso de la palabra por dos veces a cada una de las p
 réplica y dúplica, deberán alegar tanto sobre la cuestión de fondo como sobre las incidencias que se
 hayan presentado en el proceso;
 
-50 de 124
+50 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2713,7 +2715,7 @@ ARTICULO 352.- Cuando hayan sido varios los puntos litigiosos, se hará, con la 
 declaración correspondiente a cada uno de ellos.
 Fe de erratas al artículo DOF 13-03-1943
 
-51 de 124
+51 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2762,7 +2764,7 @@ respecto de los cuales lo dispone así la ley.
 ARTICULO 360.- Promovido el incidente, el juez mandará dar traslado a las otras partes, por el
 término de tres días.
 
-52 de 124
+52 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2814,7 +2816,7 @@ verificado durante la suspensión es ineficaz, sin que sea necesario pedir ni de
 Los actos ejecutados ante tribunal diverso del que conozca del negocio, sólo son ineficaces si la
 suspensión es debida a imposibilidad de las partes para cuidar de sus intereses en el litigio.
 
-53 de 124
+53 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2865,7 +2867,7 @@ incidentes. La caducidad de los incidentes sólo produce la del principal cuando
 procedimiento en éste.
 Fe de erratas al párrafo DOF 13-03-1943
 
-54 de 124
+54 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2916,7 +2918,7 @@ ARTICULO 379.- Cuando una parte requiera indispensablemente, para entablar una d
 inspección de determinadas cosas, documentos, libros o papeles, la autoridad judicial puede decretar su
 exhibición, previa comprobación del derecho con que se pide la medida y de la necesidad de la misma.
 
-55 de 124
+55 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -2969,7 +2971,7 @@ que conceda la medida fijará el importe de la cantidad que deba asegurarse.
 ARTICULO 391.- La parte que solicite la medida debe previamente otorgar garantía suficiente para
 responder de los daños y perjuicios que con ella se ocasionen, y la parte contra la que se dicte podrá
 
-56 de 124
+56 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3023,7 +3025,7 @@ ARTICULO 402.- Si el deudor no cumple con la obligación, se practicará el aseg
 y se emplazará al demandado en los términos del Capítulo II del Título Primero de este Libro,
 siguiéndose, conforme al mismo, el juicio.
 
-57 de 124
+57 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3071,7 +3073,7 @@ signatario. El mismo apercibimiento procederá cuando el documento esté firmado
 que debe reconocerlo.
 Fe de erratas al artículo DOF 13-03-1943
 
-58 de 124
+58 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3118,7 +3120,7 @@ rebeldía, o por quien corresponda, de conformidad con lo establecido en el cont
 CAPITULO III
 Formas de ejecución
 
-59 de 124
+59 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3174,7 +3176,7 @@ ARTICULO 426.- Cuando la ejecución tenga por objeto cosa cierta y determinada, 
 llevarse a efecto, resultare que ya no existe, que el deudor la ha ocultado o simplemente no aparece, el
 ejecutante puede reclamar su valor, intereses y daños y perjuicios, por las cantidades que
 
-60 de 124
+60 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3228,7 +3230,7 @@ hacerle el requerimiento de pago, se le dejará citatorio para que espere a hora
 y, si no espera, se practicará la diligencia con la persona que se encuentre en la casa, o con el vecino
 más inmediato.
 
-61 de 124
+61 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3278,7 +3280,7 @@ XIV.- Los ejidos de los pueblos y la parcela individual que, en su fraccionamien
 a cada ejidatario, y
 XV.- Los demás bienes exceptuados por la ley.
 
-62 de 124
+62 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3326,7 +3328,7 @@ Fe de erratas a la fracción DOF 13-03-1943
 III.- Si los bienes estuvieren en diversos lugares. En este caso puede señalar los que se hallen en el
 lugar del juicio.
 
-63 de 124
+63 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3379,7 +3381,7 @@ la diligencia de embargo.
 Una vez trabado el embargo, no puede el ejecutado alterar, en forma alguna, el bien embargado, ni
 contratar el uso del mismo, si no es con autorización judicial, que se otorgará oyendo al ejecutante; y,
 
-64 de 124
+64 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3437,7 +3439,7 @@ ARTICULO 453.- Si los muebles depositados fueren cosas fungibles, el depositario
 obligación de imponerse de los precios que en plaza tengan los objetos confiados a su guarda, a fin de
 que, si encuentra ocasión favorable para la venta, lo ponga en conocimiento del tribunal, con el objeto de
 
-65 de 124
+65 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3491,7 +3493,7 @@ gasto. Si no se logra el acuerdo, y el depositario o alguna de las partes insist
 reparación, conservación o construcción, el tribunal resolverá, autorizando o no el gasto, como lo estime
 conveniente.
 
-66 de 124
+66 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3546,7 +3548,7 @@ pertinente.
 ARTICULO 462.- El depositario o interventor y el ejecutante, cuando éste lo hubiere nombrado, serán
 solidariamente responsables de los actos que ejecutare aquél, en el ejercicio de su cargo. Cuando el
 
-67 de 124
+67 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3602,7 +3604,7 @@ baste el resto para cubrir los honorarios del depositario, deberán cubrírsele 
 embargada, sin perjuicio de lo que dispone el Capítulo II del Título Primero del Libro Primero, en relación
 con la condena en costas. Estos gastos puede anticiparlos el acreedor, si así lo estima conveniente.
 
-68 de 124
+68 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3657,7 +3659,7 @@ forma que dispone el artículo anterior, y de igual manera se procederá para la
 la misma causa, hasta efectuar legalmente el remate. En cada una de las almonedas se deducirá un diez
 por ciento del precio que, en la anterior, haya servido de base.
 
-69 de 124
+69 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3709,7 +3711,7 @@ anterior.
 ARTICULO 484.- En el caso del artículo 482, si el postor no cumpliere sus obligaciones, ya porque se
 negare a otorgar la garantía ofrecida, ya porque, extendida la escritura correspondiente, en su caso, se
 
-70 de 124
+70 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3762,7 +3764,7 @@ ARTICULO 495.- Si el deudor, o quien deba hacerlo, se niega a otorgar la escritu
 dentro del término de tres días de haberse mandado otorgar, la otorgará el tribunal, en su rebeldía, sin
 más trámite; pero, en todo caso, es responsable de la evicción el ejecutado.
 
-71 de 124
+71 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3772,9 +3774,12 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
-ARTICULO 496.- Otorgada la escritura, pondrá el tribunal, al comprador, en posesión de los bienes
+ARTICULO 496.- [Otorgada la escritura, pondrá el tribunal, al comprador, en posesión de los bienes
 rematados, si lo pidiere, con citación de los colindantes, arrendatarios, aparceros, colonos y demás
-interesados de que se tenga noticia.
+interesados de que se tenga noticia.]
+Artículo declarado inconstitucional por sentencia de la SCJN a Declaratoria General de Inconstitucionalidad publicada en el DOF 05-06-2025 y
+notificado el engrose de la Sentencia para efectos legales el 17-06-2025
+
 ARTICULO 497.- Con el precio, se pagará al acreedor, hasta donde alcance, y, si hubiere gastos y
 costas pendientes de liquidar, se mantendrá en depósito la cantidad que se estime bastante para
 cubrirlos, hasta que sean aprobados los que faltaren de pagarse; pero, si el ejecutante no formula su
@@ -3814,9 +3819,8 @@ siguiente:
 I.- Se efectuará su venta, siempre de contado, por medio de corredor o casa de comercio que
 expenda objetos o mercancías similares, haciéndoles saber el precio, para la busca de compradores, que
 será igual a los dos tercios del valor fijado por peritos o por convenio de las partes;
-Fe de erratas a la fracción DOF 13-03-1943
 
-72 de 124
+72 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3825,6 +3829,8 @@ Código Abrogado DOF 07-06-2023
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+Fe de erratas a la fracción DOF 13-03-1943
 
 II.- Si, pasados diez días de puestos a la venta, no se hubiere logrado ésta, el tribunal ordenará una
 rebaja del diez por ciento del valor fijado primitivamente, y comunicará, al corredor o casa de comercio, el
@@ -3864,9 +3870,8 @@ ARTICULO 509. Si los bienes concursados no excedieren del importe de los crédit
 la Hacienda Pública Federal, el Ministerio Público provocará la declaración judicial, en ese sentido, y la
 remitirá a la Secretaría de Hacienda y Crédito Público, para justificar los asientos que deban hacerse en
 los libros de la contabilidad fiscal.
-Artículo reformado DOF 09-04-2012
 
-73 de 124
+73 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3875,6 +3880,8 @@ Código Abrogado DOF 07-06-2023
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+Artículo reformado DOF 09-04-2012
 
 CAPITULO II
 Del juicio de sucesión
@@ -3916,11 +3923,8 @@ Fe de erratas a la fracción DOF 13-03-1943
 
 IV.- Ei sitio donde están y donde deben colocarse las señales, y, si éstas no existen, el lugar donde
 estuvieron o debieron levantarse, y
-V.- Los planos y demás documentos que vengan a servir para la diligencia, y designación de un perito
-por parte del promovente.
-Fe de erratas a la fracción DOF 13-03-1943
 
-74 de 124
+74 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3929,6 +3933,10 @@ Código Abrogado DOF 07-06-2023
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+V.- Los planos y demás documentos que vengan a servir para la diligencia, y designación de un perito
+por parte del promovente.
+Fe de erratas a la fracción DOF 13-03-1943
 
 ARTICULO 518.- Hecha la promoción, el juez mandará hacerla saber a los colindantes, para que,
 dentro de tres días, presenten los títulos o documentos de su posesión, nombren perito, si quieren
@@ -3971,10 +3979,7 @@ Procedimiento de avalúo en los casos de expropiación
 (Se deroga)
 Fe de erratas a la denominación del Capítulo DOF 13-03-1943. Derogado DOF 16-01-2012
 
-ARTICULO 521.- (Se deroga)
-Artículo derogado DOF 16-01-2012
-
-75 de 124
+75 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -3983,6 +3988,9 @@ Código Abrogado DOF 07-06-2023
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+ARTICULO 521.- (Se deroga)
+Artículo derogado DOF 16-01-2012
 
 ARTICULO 522.- (Se deroga)
 Artículo derogado DOF 16-01-2012
@@ -4026,10 +4034,8 @@ I.- Cuando la solicitud promovida afecte los intereses de la Federación;
 II.- Cuando se refiera a la persona o bienes de menores o incapacitados;
 III.- Cuando tenga relación con los derechos o bienes de un ausente; y
 IV.- Cuando lo dispusieren las leyes.
-ARTICULO 533.- Si, a la solicitud promovida, se opusiere parte legítima, se seguirá el negocio
-conforme a los trámites establecidos para el juicio.
 
-76 de 124
+76 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4039,6 +4045,8 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+ARTICULO 533.- Si, a la solicitud promovida, se opusiere parte legítima, se seguirá el negocio
+conforme a los trámites establecidos para el juicio.
 Si la oposición se hiciere por quien no tenga personalidad ni interés para ello, el juez la desechará de
 plano. Igualmente desechará las oposiciones presentadas después de efectuado el acto de jurisdicción
 voluntaria, reservando su derecho al opositor.
@@ -4079,11 +4087,7 @@ ARTICULO 541.- Las informaciones se protocolizarán en la Notaría que designe e
 ARTICULO 542.- En ningún caso se admitirán, en jurisdicción voluntaria, informaciones de testigos
 sobre hechos que fueren materia de un juicio comenzado.
 
-LIBRO CUARTO
-De la Cooperación Procesal Internacional
-Libro adicionado DOF 12-01-1988
-
-77 de 124
+77 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4092,6 +4096,10 @@ Código Abrogado DOF 07-06-2023
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+LIBRO CUARTO
+De la Cooperación Procesal Internacional
+Libro adicionado DOF 12-01-1988
 
 TITULO UNICO
 Título adicionado DOF 12-01-1988
@@ -4142,10 +4150,7 @@ dispuesto por los artículos siguientes, salvo lo dispuesto por los tratados y c
 México sea parte.
 Artículo adicionado DOF 12-01-1988
 
-ARTICULO 550.- Los exhortos que se remitan al extranjero serán comunicaciones oficiales escritas
-que contendrán la petición de realización de las actuaciones necesarias en el proceso en que se expidan.
-
-78 de 124
+78 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4155,6 +4160,8 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+ARTICULO 550.- Los exhortos que se remitan al extranjero serán comunicaciones oficiales escritas
+que contendrán la petición de realización de las actuaciones necesarias en el proceso en que se expidan.
 Dichas comunicaciones contendrán los datos informativos necesarios y las copias certificadas, cédulas,
 copias de traslado y demás anexos procedentes según sea el caso.
 No se exigirán requisitos de forma adicionales respecto de los exhortos que provengan del extranjero.
@@ -4203,12 +4210,7 @@ Federación y de las Entidades Federativas, provenientes del extranjero se hará
 autoridades federales que resulten competentes por razón del domicilio de aquéllas.
 Artículo adicionado DOF 12-01-1988
 
-ARTICULO 558.- Las diligencias a que se refiere el artículo anterior y el artículo 545 se llevará a cabo
-por el tribunal del domicilio de quien vaya a ser notificado, de quien vaya a recibirse la prueba o donde se
-encuentre la cosa según sea el caso.
-Artículo adicionado DOF 12-01-1988
-
-79 de 124
+79 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4217,6 +4219,11 @@ Código Abrogado DOF 07-06-2023
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+ARTICULO 558.- Las diligencias a que se refiere el artículo anterior y el artículo 545 se llevará a cabo
+por el tribunal del domicilio de quien vaya a ser notificado, de quien vaya a recibirse la prueba o donde se
+encuentre la cosa según sea el caso.
+Artículo adicionado DOF 12-01-1988
 
 CAPITULO IV
 De la Recepción de las Pruebas
@@ -4265,12 +4272,8 @@ ARTICULO 564.- Será reconocida en México la competencia asumida por un tribuna
 los efectos de la ejecución de sentencias, cuando dicha competencia haya sido asumida por razones que
 resulten compatibles o análogas con el derecho nacional, salvo que se trate de asuntos de la
 competencia exclusiva de los tribunales mexicanos.
-Artículo adicionado DOF 12-01-1988
 
-ARTICULO 565.- No obstante lo previsto en el artículo anterior, el tribunal nacional reconocerá la
-competencia asumida por el extranjero si a su juicio éste hubiera asumido dicha competencia para evitar
-
-80 de 124
+80 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4280,6 +4283,10 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo adicionado DOF 12-01-1988
+
+ARTICULO 565.- No obstante lo previsto en el artículo anterior, el tribunal nacional reconocerá la
+competencia asumida por el extranjero si a su juicio éste hubiera asumido dicha competencia para evitar
 una denegación de justicia, por no existir órgano jurisdiccional competente. El tribunal mexicano podrá
 asumir competencia en casos análogos.
 Artículo adicionado DOF 12-01-1988
@@ -4324,12 +4331,8 @@ Los efectos que las sentencias, laudos arbitrales privados de carácter no comer
 jurisdiccionales extranjeros produzcan en el territorio nacional, estarán regidos por lo dispuesto en el
 Código Civil, por este código y demás leyes aplicables.
 Párrafo reformado DOF 22-07-1993
-Artículo adicionado DOF 12-01-1988
 
-ARTICULO 570.- Las sentencias, laudos arbitrales privados de carácter no comercial y resoluciones
-jurisdiccionales extranjeros se cumplirán coactivamente en la República, mediante homologación en los
-
-81 de 124
+81 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4339,6 +4342,10 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo adicionado DOF 12-01-1988
+
+ARTICULO 570.- Las sentencias, laudos arbitrales privados de carácter no comercial y resoluciones
+jurisdiccionales extranjeros se cumplirán coactivamente en la República, mediante homologación en los
 términos de este código y demás leyes aplicables, salvo lo dispuesto por los tratados y convenciones de
 los que México sea parte.
 Artículo adicionado DOF 12-01-1988. Reformado DOF 22-07-1993
@@ -4396,9 +4403,8 @@ documentación:
 I.- Copia auténtica de la sentencia, laudo o resolución jurisdiccional;
 II.- Copia auténtica de las constancias que acrediten que se cumplió con las condiciones previstas en
 las fracciones IV y V del artículo anterior;
-III.- Las traducciones al idioma español que sean necesarias al efecto; y
 
-82 de 124
+82 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4408,6 +4414,7 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+III.- Las traducciones al idioma español que sean necesarias al efecto; y
 IV.- Que el ejecutante haya señalado domicilio para oír notificaciones en el lugar del tribunal de la
 homologación.
 Artículo adicionado DOF 12-01-1988
@@ -4457,11 +4464,8 @@ Capítulo adicionado DOF 30-08-2011
 
 ARTICULO 578.- La defensa y protección de los derechos e intereses colectivos será ejercida ante los
 Tribunales de la Federación con las modalidades que se señalen en este Título, y sólo podrán
-promoverse en materia de relaciones de consumo de bienes o servicios, públicos o privados y medio
-ambiente.
-Artículo adicionado DOF 30-08-2011
 
-83 de 124
+83 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4470,6 +4474,10 @@ Código Abrogado DOF 07-06-2023
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+promoverse en materia de relaciones de consumo de bienes o servicios, públicos o privados y medio
+ambiente.
+Artículo adicionado DOF 30-08-2011
 
 ARTICULO 579.- La acción colectiva es procedente para la tutela de las pretensiones cuya titularidad
 corresponda a una colectividad de personas, así como para el ejercicio de las pretensiones individuales
@@ -4515,12 +4523,7 @@ objetivos de los procedimientos colectivos, en aras de proteger y tutelar el int
 e intereses colectivos.
 Artículo adicionado DOF 30-08-2011
 
-ARTICULO 584.- Las acciones colectivas previstas en este título prescribirán a los tres años seis
-meses contados a partir del día en que se haya causado el daño. Si se trata de un daño de naturaleza
-continua el plazo para la prescripción comenzará a contar a partir del último día en que se haya generado
-el daño causante de la afectación.
-
-84 de 124
+84 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4530,6 +4533,10 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+ARTICULO 584.- Las acciones colectivas previstas en este título prescribirán a los tres años seis
+meses contados a partir del día en que se haya causado el daño. Si se trata de un daño de naturaleza
+continua el plazo para la prescripción comenzará a contar a partir del último día en que se haya generado
+el daño causante de la afectación.
 Artículo adicionado DOF 30-08-2011
 
 Capítulo II
@@ -4566,11 +4573,8 @@ El representante deberá rendir protesta ante el juez y rendir cuentas en cualqu
 de éste.
 En el caso de que durante el procedimiento dejare de haber un legitimado activo o aquéllos a que se
 refieren las fracciones II y III del artículo 585 no cumplieran con los requisitos referidos en el presente
-artículo, el juez de oficio o a petición de cualquier miembro de la colectividad, abrirá un incidente de
-remoción y sustitución, debiendo suspender el juicio y notificar el inicio del incidente a la colectividad en
-los términos a que se refiere el artículo 591 de este Código.
 
-85 de 124
+85 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4580,6 +4584,9 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+artículo, el juez de oficio o a petición de cualquier miembro de la colectividad, abrirá un incidente de
+remoción y sustitución, debiendo suspender el juicio y notificar el inicio del incidente a la colectividad en
+los términos a que se refiere el artículo 591 de este Código.
 Una vez realizada la notificación a que se refiere el párrafo anterior, el juez recibirá las solicitudes de
 los interesados dentro del término de diez días, evaluará las solicitudes que se presentaren y resolverá lo
 conducente dentro del plazo de tres días.
@@ -4614,11 +4621,8 @@ lugar de la acción individual.
 El juez podrá prevenir a la parte actora para que aclare o subsane su demanda cuando advierta la
 omisión de requisitos de forma, sea obscura o irregular, otorgándole un término de cinco días para tales
 efectos.
-El juez resolverá si desecha de plano la demanda en los casos en que la parte actora no desahogue
-la prevención, no se cumplan los requisitos previstos en este Título, o se trate de pretensiones
-infundadas, frívolas, o temerarias.
 
-86 de 124
+86 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4628,6 +4632,9 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+El juez resolverá si desecha de plano la demanda en los casos en que la parte actora no desahogue
+la prevención, no se cumplan los requisitos previstos en este Título, o se trate de pretensiones
+infundadas, frívolas, o temerarias.
 Artículo adicionado DOF 30-08-2011
 
 ARTICULO 588.- Son requisitos de procedencia de la legitimación en la causa los siguientes:
@@ -4662,12 +4669,8 @@ VII. Que las asociaciones que pretendan ejercer la legitimación en el proceso n
 requisitos establecidos en este Título.
 El juez de oficio o a petición de cualquier interesado podrá verificar el cumplimiento de estos requisitos
 durante el procedimiento.
-Artículo adicionado DOF 30-08-2011
 
-ARTICULO 590.- Una vez presentada la demanda o desahogada la prevención, dentro de los tres
-días siguientes, el juez ordenará el emplazamiento al demandado, le correrá traslado de la demanda y le
-
-87 de 124
+87 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4677,6 +4680,10 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Artículo adicionado DOF 30-08-2011
+
+ARTICULO 590.- Una vez presentada la demanda o desahogada la prevención, dentro de los tres
+días siguientes, el juez ordenará el emplazamiento al demandado, le correrá traslado de la demanda y le
 dará vista por cinco días para que manifieste lo que a su derecho convenga respecto del cumplimiento de
 los requisitos de procedencia previstos en este Título.
 Desahogada la vista, el juez certificará dentro del término de diez días, el cumplimiento de los
@@ -4717,12 +4724,8 @@ Artículo adicionado DOF 30-08-2011
 
 ARTICULO 594.- Los miembros de la colectividad afectada podrán adherirse a la acción de que se
 trate, conforme a las reglas establecidas en este artículo.
-En el caso de las acciones colectivas en sentido estricto e individuales homogéneas, la adhesión a su
-ejercicio podrá realizarse por cada individuo que tenga una afectación a través de una comunicación
-expresa por cualquier medio dirigida al representante a que se refiere el artículo 585 de este Código o al
-representante legal de la parte actora, según sea el caso.
 
-88 de 124
+88 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4732,6 +4735,10 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+En el caso de las acciones colectivas en sentido estricto e individuales homogéneas, la adhesión a su
+ejercicio podrá realizarse por cada individuo que tenga una afectación a través de una comunicación
+expresa por cualquier medio dirigida al representante a que se refiere el artículo 585 de este Código o al
+representante legal de la parte actora, según sea el caso.
 Los afectados podrán adherirse voluntariamente a la colectividad durante la substanciación del
 proceso y hasta dieciocho meses posteriores a que la sentencia haya causado estado o en su caso, el
 convenio judicial adquiera la calidad de cosa juzgada.
@@ -4771,10 +4778,7 @@ miembros de la colectividad, si las hubiere, el juez podrá aprobar el convenio 
 cosa juzgada.
 Artículo adicionado DOF 30-08-2011
 
-ARTICULO 596.- En caso de que las partes no alcanzaren acuerdo alguno en la audiencia previa y de
-conciliación, el juez procederá a abrir el juicio a prueba por un período de sesenta días hábiles, comunes
-
-89 de 124
+89 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4784,6 +4788,8 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+ARTICULO 596.- En caso de que las partes no alcanzaren acuerdo alguno en la audiencia previa y de
+conciliación, el juez procederá a abrir el juicio a prueba por un período de sesenta días hábiles, comunes
 para las partes, para su ofrecimiento y preparación, pudiendo, a instancia de parte, otorgar una prórroga
 hasta por veinte días hábiles.
 Una vez presentado el escrito de pruebas, el representante legal deberá ratificarlo bajo protesta ante
@@ -4827,11 +4833,8 @@ Artículo adicionado DOF 30-08-2011
 
 ARTICULO 601.- No será necesario que la parte actora ofrezca y desahogue pruebas individualizadas
 por cada uno de los miembros de la colectividad.
-Las reclamaciones individuales deberán justificar en su caso, la relación causal en el incidente de
-liquidación respectivo.
-Artículo adicionado DOF 30-08-2011
 
-90 de 124
+90 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4840,6 +4843,10 @@ Código Abrogado DOF 07-06-2023
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+Las reclamaciones individuales deberán justificar en su caso, la relación causal en el incidente de
+liquidación respectivo.
+Artículo adicionado DOF 30-08-2011
 
 ARTICULO 602.- Cuando la acción sea interpuesta por los representantes a que se refieren las
 fracciones II y III del artículo 585 de este Código, estarán obligados a informar a través de los medios
@@ -4884,12 +4891,7 @@ El pago que resulte del incidente de liquidación será hecho a los miembros de 
 términos que ordene la sentencia; en ningún caso a través del representante común.
 Artículo adicionado DOF 30-08-2011
 
-ARTICULO 606.- En caso de que una colectividad haya ejercitado por los mismos hechos de manera
-simultánea una acción difusa y una acción colectiva, el juez proveerá la acumulación de las mismas en
-los términos de este Código.
-Artículo adicionado DOF 30-08-2011
-
-91 de 124
+91 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4898,6 +4900,11 @@ Código Abrogado DOF 07-06-2023
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+ARTICULO 606.- En caso de que una colectividad haya ejercitado por los mismos hechos de manera
+simultánea una acción difusa y una acción colectiva, el juez proveerá la acumulación de las mismas en
+los términos de este Código.
+Artículo adicionado DOF 30-08-2011
 
 ARTICULO 607.- La sentencia fijará al condenado un plazo prudente para su cumplimiento
 atendiendo a las circunstancias del caso, así como los medios de apremio que deban emplearse cuando
@@ -4940,11 +4947,8 @@ siempre que con las mismas no se causen más daños que los que se causarían co
 omisiones objeto de la medida. El juez deberá valorar además que con el otorgamiento de la medida, no
 se cause una afectación ruinosa al demandado.
 Para el otorgamiento de dichas medidas se requerirá:
-I. Que el solicitante de la medida manifieste claramente cuáles son los actos, hechos o abstenciones
-que estén causando un daño o vulneración a los derechos o intereses colectivos o lo puedan llegar a
-causar.
 
-92 de 124
+92 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -4954,6 +4958,9 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+I. Que el solicitante de la medida manifieste claramente cuáles son los actos, hechos o abstenciones
+que estén causando un daño o vulneración a los derechos o intereses colectivos o lo puedan llegar a
+causar.
 II. Que exista urgencia en el otorgamiento de la medida en virtud del riesgo de que se cause o
 continúe causando un daño de difícil o imposible reparación.
 Para decretar estas medidas, el juez dará vista por tres días a la parte demandada para que
@@ -4992,10 +4999,8 @@ causa, el mismo demandado en ambos procesos informará de tal situación a los j
 El juez del proceso individual notificará a la parte actora de la existencia de la acción colectiva para
 que en su caso, decida continuar por la vía individual o ejerza su derecho de adhesión a la misma dentro
 del plazo de noventa días contados a partir de la notificación.
-Para que proceda la adhesión de la parte actora a la acción colectiva, deberá desistirse del proceso
-individual para que éste se sobresea.
 
-93 de 124
+93 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5005,6 +5010,8 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+Para que proceda la adhesión de la parte actora a la acción colectiva, deberá desistirse del proceso
+individual para que éste se sobresea.
 Tratándose de derechos o intereses individuales de incidencia colectiva, en caso de la improcedencia
 de la pretensión en el procedimiento colectivo, los interesados tendrán a salvo sus derechos para
 ejercerlos por la vía individual.
@@ -5050,10 +5057,8 @@ ARTICULO 618.- Los gastos y costas se liquidarán en ejecución de sentencia de 
 siguientes reglas:
 I. Los gastos y costas así como los honorarios de los representantes de la parte actora referidos en el
 artículo anterior, serán cubiertos en la forma que lo determine el juez, buscando asegurar el pago
-correspondiente. Dicho pago se hará con cargo al Fondo a que se refiere el Capítulo XI de este Título,
-cuando exista un interés social que lo justifique y hasta donde la disponibilidad de los recursos lo permita.
 
-94 de 124
+94 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5063,6 +5068,8 @@ Código Abrogado DOF 07-06-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 
+correspondiente. Dicho pago se hará con cargo al Fondo a que se refiere el Capítulo XI de este Título,
+cuando exista un interés social que lo justifique y hasta donde la disponibilidad de los recursos lo permita.
 II. En el caso de las sentencias que establezcan una cantidad cuantificable, la parte actora pagará
 entre el tres y el veinte por ciento del monto total condenado por concepto de honorarios a sus
 representantes según lo previsto en el artículo anterior.
@@ -5103,11 +5110,8 @@ ARTICULO 623.- Para mantener el registro las asociaciones deberán:
 I. Cumplir con lo dispuesto en el artículo anterior;
 II. Entregar al Consejo de la Judicatura Federal, un informe anual sobre su operación y actividades
 respecto del año inmediato anterior, a más tardar el último día hábil del mes de abril de cada año, y
-III. Mantener actualizada en forma permanente la información que deba entregar al Consejo de la
-Judicatura Federal en los términos de lo dispuesto por el artículo 621 de este Código.
-Artículo adicionado DOF 30-08-2011
 
-95 de 124
+95 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5116,6 +5120,10 @@ Código Abrogado DOF 07-06-2023
 
 Secretaría General
 Secretaría de Servicios Parlamentarios
+
+III. Mantener actualizada en forma permanente la información que deba entregar al Consejo de la
+Judicatura Federal en los términos de lo dispuesto por el artículo 621 de este Código.
+Artículo adicionado DOF 30-08-2011
 
 Capítulo XI
 Del Fondo
@@ -5160,7 +5168,7 @@ residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a los tr
 diciembre de mil novecientos cuarenta y dos.- Manuel Avila Camacho.- Rúbrica.- El Secretario de
 Estado y del Despacho de Gobernación.- Miguel Alemán.- Rúbricas.
 
-96 de 124
+96 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5184,7 +5192,7 @@ Nota: Fe de erratas a los artículos 3º, 4º, 5º, 7º, 8º, 9º, 11, 17, 21, 2
 la denominación del Capítulo VII del Título Cuarto del Libro Primero, y a la denominación Capítulo IV del Título
 Primero del Libro Tercero.
 
-97 de 124
+97 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5223,7 +5231,7 @@ residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 de diciembre de mil novecientos ochenta y siete.- Miguel de la Madrid H.- Rúbrica.- El Secretario de
 Gobernación, Manuel Bartlett D.- Rúbrica.
 
-98 de 124
+98 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5256,7 +5264,7 @@ residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 de julio de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de
 Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 
-99 de 124
+99 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5310,7 +5318,7 @@ entrada en vigor del presente Decreto.
 Séptimo.- Las solicitudes de inscripción de actos mercantiles en el Registro Público de Comercio y los
 medios de defensa iniciados con anterioridad a la entrada en vigor del presente Decreto, se
 
-100 de 124
+100 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5334,7 +5342,7 @@ residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación,
 Diódoro Carrasco Altamirano.- Rúbrica.
 
-101 de 124
+101 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5367,7 +5375,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago
 Creel Miranda.- Rúbrica.
 
-102 de 124
+102 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5403,7 +5411,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 de junio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago
 Creel Miranda.- Rúbrica.
 
-103 de 124
+103 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5433,7 +5441,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan
 Camilo Mouriño Terrazo.- Rúbrica.
 
-104 de 124
+104 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5466,7 +5474,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 diciembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de
 Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
-105 de 124
+105 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5496,7 +5504,7 @@ Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el
 Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 23 de mayo de 2011.Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake
 Mora.- Rúbrica.
 
-106 de 124
+106 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5544,7 +5552,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José
 Francisco Blake Mora.- Rúbrica.
 
-107 de 124
+107 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5597,7 +5605,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro
 Alfonso Poiré Romero.- Rúbrica.
 
-108 de 124
+108 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5632,7 +5640,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federa
 dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro
 Alfonso Poiré Romero.- Rúbrica.
 
-109 de 124
+109 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5683,7 +5691,7 @@ Pública Federal el organismo descentralizado denominado Instituto Nacional de C
 pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y
 de gestión, dentro del ámbito de la Fiscalía General de la República.
 
-110 de 124
+110 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5737,7 +5745,7 @@ transición.
 Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
 Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
 
-111 de 124
+111 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5789,7 +5797,7 @@ corresponderá al Órgano Interno de Control de la Fiscalía General de la Repú
 del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
 Federación.
 
-112 de 124
+112 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5818,7 +5826,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de
 Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen
 Sánchez Cordero Dávila.- Rúbrica.
 
-113 de 124
+113 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5878,7 +5886,7 @@ Segundo. Dentro de los 180 días siguientes a la publicación del presente Decre
 competentes del Poder Judicial de la Federación deberán realizar las adecuaciones normativas,
 orgánicas y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.
 
-114 de 124
+114 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5931,7 +5939,7 @@ nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de dici
 su encargo el 30 de noviembre de 2023; el Consejero de la Judicatura Federal nombrado por el Pleno de
 la Suprema Corte de Justicia de la Nación el 24 de febrero de 2019 concluirá sus funciones el 23 de
 
-115 de 124
+115 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -5959,7 +5967,7 @@ Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de junio de
 López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez
 Cordero Dávila.- Rúbrica.
 
-116 de 124
+116 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -6012,7 +6020,7 @@ Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Ple
 privada celebrada el doce de abril de dos mil diez, le solicito que remita a esta Secretaría General de
 Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice a las
 
-117 de 124
+117 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -6030,7 +6038,7 @@ LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el miércoles 17
 de noviembre de 2021 a las 13:35 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
 
-118 de 124
+118 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -6081,7 +6089,7 @@ Notifíquese; haciéndolo por medios electrónicos y, en su oportunidad, archív
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 ……..
 
-119 de 124
+119 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -6106,7 +6114,7 @@ Congreso de la Unión, dictada por el Pleno de la Suprema Corte de Justicia de l
 dieciséis de noviembre dos mil veintiuno. Se certifica con la finalidad de que se publique en el Diario
 Oficial de la Federación.- Ciudad de México, a treinta y uno de enero de dos mil veintidós.- Rúbrica.
 
-120 de 124
+120 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -6158,7 +6166,7 @@ sistema civil o familiar al cual se incorporarán tomando en cuenta su marco sus
 Artículo Sexto. En el caso de la Federación, la Cámara de Diputados, tomando en cuenta la
 estimación de ingresos aprobados para cada ejercicio fiscal, y con base en los principios de austeridad,
 
-121 de 124
+121 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -6212,7 +6220,7 @@ respectivos presupuestos de egresos del ejercicio fiscal que corresponda.
 La Comisión prevista en el Artículo Séptimo de estas Disposiciones Transitorias, dará seguimiento a la
 implementación conforme a lo establecido o dispuesto en el párrafo anterior.
 
-122 de 124
+122 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -6267,7 +6275,7 @@ número de expediente de cada proceso judicial de insolvencia que se admita, la 
 juzgado de radicación y el nombre de la persona deudora. Dicho registro será público, y tendrá por objeto
 servir de medio de notificación de los procedimientos de insolvencia a todos los acreedores que puedan
 
-123 de 124
+123 de 129
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
@@ -6300,5 +6308,222 @@ Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el
 Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de junio de 2023.- Andrés Manuel
 López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
 
-124 de 124
+124 de 129
+
+CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Código Abrogado DOF 07-06-2023
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+VERSIÓN Pública de la Sentencia dictada por el Tribunal Pleno de la Suprema Corte de
+Justicia de la Nación en la Declaratoria General de Inconstitucionalidad 5/2023, así como
+los Votos Concurrentes de la señora Ministra Presidenta Norma Lucía Piña Hernández y
+del señor Ministro Juan Luis González Alcántara Carrancá.
+Publicada en el Diario Oficial de la Federación el 5 de junio de 2025
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de
+Justicia de la Nación.- Secretaría General de Acuerdos.
+DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD
+5/2023
+SOLICITANTE: PRIMERA SALA DE LA SUPREMA CORTE
+DE JUSTICIA DE LA NACIÓN
+PONENTE: MINISTRA ANA MARGARITA RÍOS FARJAT
+SECRETARIO: RICARDO LATAPIE ALDANA
+COLABORADORA: ANDREA GUERRERO CHIPROUT
+Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en sesión
+correspondiente al siete de enero de dos mil veinticinco, emite la siguiente:
+SENTENCIA
+Derivada de la jurisprudencia fijada por la Primera Sala de la Suprema Corte de Justicia de la Nación
+en el amparo en revisión 340/2019, en el que declaró la inconstitucionalidad del artículo 496 del Código
+Federal de Procedimientos Civiles, el cual establece lo siguiente: “Artículo 496. Otorgada la escritura,
+pondrá el tribunal, al comprador, en posesión de los bienes rematados, si lo pidiere, con citación de los
+colindantes, arrendatarios, aparceros, colonos y demás interesados de que se tenga noticia”. Esto, al
+considerar que vulnera el derecho a la propiedad.
+Antecedentes y trámite
+……..
+I. COMPETENCIA a IV. ESTUDIO
+……..
+V. EFECTOS
+52. El artículo 107, fracción II, párrafo tercero, constitucional confiere a esta Suprema Corte de Justicia
+de la Nación amplias facultades para fijar los alcances y condiciones de una declaratoria general de
+inconstitucionalidad con la finalidad de que se supere eficazmente el problema de
+inconstitucionalidad generado por las normas así declaradas en sus precedentes obligatorios.
+53. Además, en términos del artículo 234 de la Ley de Amparo, la declaratoria general de
+inconstitucionalidad en ningún caso podrá modificar el sentido de la resolución que le dio origen,
+será obligatoria, tendrá efectos generales y no serán retroactivos, salvo en materia penal, y se
+establecerá la fecha a partir de la cual surtirá sus efectos, así como sus alcances y condiciones.
+
+125 de 129
+
+CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Código Abrogado DOF 07-06-2023
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+54. Por lo anterior, este Tribunal Pleno considera que, para poder superar el vicio de
+inconstitucionalidad, se deberá hacer la declaratoria general de inconstitucionalidad del artículo 496
+del Código Federal de Procedimientos Civiles, en su integridad, que establece:
+Artículo 496. Otorgada la escritura, pondrá el tribunal, al comprador, en posesión de los
+bienes rematados, si lo pidiere, con citación de los colindantes, arrendatarios, aparceros,
+colonos y demás interesados de que se tenga noticia.
+55. Con fundamento en el artículo 234 referido con anterioridad, la presente declaratoria general de
+inconstitucionalidad surtirá efectos generales a partir de la notificación de los puntos resolutivos de la
+presente ejecutoria al Congreso de la Unión, y tiene el alcance de que la norma declarada
+inconstitucional no sea aplicada a persona alguna por parte cualquier autoridad.
+56. Finalmente, con base en el artículo 235 de la Ley de Amparo, se ordena notificar al Diario Oficial de
+la Federación con copia de esta sentencia para efectos de su publicación en siete días hábiles.
+57. Por lo expuesto y fundado, se
+RESUELVE:
+PRIMERO. Es procedente y fundada la presente declaratoria general de inconstitucionalidad.
+SEGUNDO. Se declara la inconstitucionalidad del artículo 496 del Código Federal de
+Procedimientos Civiles, publicado en el Diario Oficial de la Federación el veinticuatro de febrero de
+mil novecientos cuarenta y tres, la cual surtirá efectos generales a partir de la notificación de estos
+puntos resolutivos al Congreso de la Unión, para los efectos precisados en el apartado V de esta
+determinación.
+TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el
+Semanario Judicial de la Federación y su Gaceta.
+Notifíquese con testimonio de la presente resolución y, en su oportunidad, archívese el expediente
+como asunto concluido.
+Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
+En relación con el punto resolutivo primero:
+Se aprobó por unanimidad de diez votos de las señoras Ministras y de los señores Ministros
+Gutiérrez Ortiz Mena, González Alcántara Carrancá, Esquivel Mossa, Ortiz Ahlf, Pardo Rebolledo,
+Batres Guadarrama, Ríos Farjat, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández,
+respecto de los apartados I, II y III relativos, respectivamente, a la competencia, a la legitimación y a
+la procedencia.
+En relación con el punto resolutivo segundo:
+Se aprobó por mayoría de nueve votos de las señoras Ministras y de los señores Ministros Gutiérrez
+Ortiz Mena, González Alcántara Carrancá, Esquivel Mossa, Pardo Rebolledo, Batres Guadarrama
+separándose de la metodología, Ríos Farjat, Laynez Potisek, Pérez Dayán y Presidenta Piña
+Hernández separándose de los párrafos 25, del 29 al 34 y del 40 al 46, respecto del apartado IV,
+relativo al estudio, consistente en declarar la inconstitucionalidad del artículo 496 del Código Federal
+de Procedimientos Civiles. La señora Ministra Ortiz Ahlf votó en contra. El señor Ministro González
+
+126 de 129
+
+CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Código Abrogado DOF 07-06-2023
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+Alcántara Carrancá y la señora Ministra Presidenta Piña Hernández anunciaron sendos votos
+concurrentes.
+Se aprobó por mayoría de nueve votos de las señoras Ministras y de los señores Ministros Gutiérrez
+Ortiz Mena, González Alcántara Carrancá, Esquivel Mossa, Pardo Rebolledo, Batres Guadarrama,
+Ríos Farjat, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández con salvedades, respecto
+del apartado V, relativo a los efectos, consistente en determinar que la declaratoria general de
+inconstitucionalidad decretada surta efectos generales a partir de la notificación de los puntos
+resolutivos de la presente ejecutoria al Congreso de la Unión y tiene el alcance de que la norma
+declarada inconstitucional no sea aplicada a persona alguna por parte de cualquier autoridad. La
+señora Ministra Ortiz Ahlf votó en contra. La señora Ministra Presidenta Piña Hernández anunció
+voto concurrente.
+En relación con el punto resolutivo tercero:
+Se aprobó por unanimidad de diez votos de las señoras Ministras y de los señores Ministros
+Gutiérrez Ortiz Mena, González Alcántara Carrancá, Esquivel Mossa, Ortiz Ahlf, Pardo Rebolledo,
+Batres Guadarrama, Ríos Farjat, Laynez Potisek, Pérez Dayán y Presidenta Piña Hernández.
+La señora Ministra Presidenta Piña Hernández declaró que el asunto se resolvió en los términos
+propuestos. Doy fe.
+Firman la señora Ministra Presidenta y la señora Ministra Ponente con el Secretario General de
+Acuerdos, quien da fe.
+Presidenta, Ministra Norma Lucía Piña Hernández.- Firmado electrónicamente.- Ponente, Ministra
+Ana Margarita Ríos Farjat.- Firmado electrónicamente.- Secretario General de Acuerdos, Licenciado
+Rafael Coello Cetina.- Firmado electrónicamente.
+En términos de previsto en los artículos 113 y 116 de la Ley General de Transparencia y Acceso a la
+Información Pública; 110 y 113 de la Ley Federal de Transparencia y Acceso a la Información Pública; y
+el Acuerdo General 11/2017, del Pleno de la Suprema Corte de Justicia de la Nación, publicado el
+dieciocho de septiembre de dos mil diecisiete en el Diario Oficial de la Federación, en esta versión
+pública se suprime la información considerada legalmente como reservada o confidencial que se
+encuentra en esos supuestos normativos.
+EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA
+SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: CERTIFICA: Que la presente copia fotostática
+constante de dieciséis fojas útiles en las que se cuenta esta certificación, concuerda fiel y exactamente
+con la versión pública de la sentencia emitida en la declaratoria general de inconstitucionalidad 5/2023,
+solicitada por la Primera Sala de la Suprema Corte de Justicia de la Nación, dictada por el Pleno de la
+Suprema Corte de Justicia de la Nación en su sesión del siete de enero de dos mil veinticinco. Se
+certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México, a
+veintiséis de mayo de dos mil veinticinco.- Rúbrica.
+
+127 de 129
+
+CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Código Abrogado DOF 07-06-2023
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+ENGROSE de la Sentencia en la Declaratoria General de Inconstitucionalidad 5/2023
+relativa al artículo 496 del Código Federal de Procedimientos Civiles.
+Notificado al Congreso de la Unión para efectos legales el 17 de junio de 2025
+
+Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de
+Justicia de la Nación.
+SECRETARÍA GENERAL DE ACUERDOS
+DECLARATORIA
+GENERAL
+DE
+INCONSTITUCIONALIDAD 5/2023
+RELATIVA AL ARTÍCULO 496 DEL CÓDIGO FEDERAL
+DE PROCEDIMIENTOS CIVILES
+SOLICITANTE: PRIMERA SALA DE LA SUPREMA
+CORTE DE JUSTICIA DE LA NACIÓN
+OF. SGA/FAOT/309/2025.- CÁMARA DE DIPUTADOS DEL CONGRESO DE LA UNIÓN
+En el expediente que se menciona al margen, la Ministra Presidenta de la Suprema Corte de Justicia
+de la Nación dictó el acuerdo siguiente:
+“En la Ciudad de México, a dos de junio de dos mil veinticinco, se da cuenta a la Presidenta de la
+Suprema Corte de Justicia de la Nación con el oficio SGA/MAAS/526/2025, acompañado del presente
+expediente, al que viene agregado el engrose correspondiente, así como los votos concurrentes de la
+señora Ministra Presidenta Norma Lucia Piña Hernández y del señor Ministro Juan Luis González
+Alcántara Carrancá, registrado en la Oficina de Certificación Judicial y Correspondencia de este Alto
+Tribunal con el folio 010456, el veintinueve de mayo de dos mil veinticinco. Conste.Ciudad de México, a dos de junio de dos mil veinticinco.
+Agréguese para que surtan sus efectos legales el oficio de cuenta, y con fundamento en el artículo 14,
+fracción XX, de la Ley Orgánica del Poder Judicial de la Federación abrogada, tal como se ordena en la
+sentencia dictada en el presente asunto en fa cual se determinó: “PRIMERO. Es procedente y fundada
+la presente declaratoria general de inconstitucionalidad. SEGUNDO. Se declara la
+inconstitucionalidad del artículo 496 del Código Federal de Procedimientos Civiles, publicado en
+el Diario Oficial de la Federación el veinticuatro de febrero de mil novecientos cuarenta y tres, la
+cual surtirá efectos generales a partir de la notificación de estos puntos resolutivos al Congreso
+de la Unión, para los efectos precisados en el apartado V de esta determinación. TERCERO.
+Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial
+de la Federación y su Gaceta”, notifíquese dicha resolución, así como los votos de cuenta, por medio
+de oficio al Congreso de la Unión, por conducto de las Cámaras de Diputados y Senadores, debiendo
+entregárseles copia certificada de dichos documentos. Cumplido lo anterior, remítase el presente
+expediente al archivo como asunto concluido.
+Notifíquese por lista electrónica, tomando en cuenta lo previsto en el artículo 34, párrafo segundo, del
+Acuerdo General Plenario 9/2020, y por medio de oficio al Congreso de la Unión, por conducto de las
+Cámaras de Diputados y Senadores.
+Lo proveyó y firma la Presidenta de la Suprema Corte de Justicia de la Nación, Ministra Norma Lucía
+Piña Hernández, quien actúa con el secretario general de acuerdos que da fe, licenciado Rafael Coello
+Cetina”
+
+128 de 129
+
+CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Código Abrogado DOF 07-06-2023
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+Lo anterior para los efectos legales consiguientes y en vía de notificación del auto inserto.
+Reitero a usted mi atenta y distinguida consideración.
+Ciudad de México, a 12 de junio de 2025
+LICENCIADO RAFAEL COELLO CETINA
+SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA
+NACIÓN.- Rúbrica.
+Notificado el engrose a la Cámara de Diputados del H. Congreso de la Unión el martes 17 de junio de
+2025 a las 10:22 hrs.- Oficialía de Partes.- Sello de Recibido.
+
+129 de 129
 
