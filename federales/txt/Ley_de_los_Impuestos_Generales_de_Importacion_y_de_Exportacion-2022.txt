@@ -11,7 +11,7 @@ TEXTO VIGENTE
 Última reforma publicada DOF 29-12-2025
 
 Fracciones arancelarias de la Tarifa de la Ley modificadas por
-Decreto DOF 23-04-2026
+Decreto DOF 13-10-2026
 
 Al margen un sello con el Escudo Nacional, que dice: Estados
 Unidos Mexicanos.- Presidencia de la República.
@@ -82524,7 +82524,8 @@ ordinario o de crin
 (incluidos
 los
 hilados
-de crin
+de
+crin
 entorchados),
 aunque
 estén
@@ -148611,7 +148612,9 @@ de
 
 jaulas
 
-y rodillos
+y
+
+rodillos
 
 de
 
@@ -151133,6 +151136,7 @@ excepto
 reconocibles
 
 los
+
 como
 
 Pza
@@ -184453,7 +184457,7 @@ de
 
 Kg
 
-10
+Ex.
 
 Ex.
 
@@ -184477,6 +184481,10 @@ la
 Secretaría
 de
 Economía.
+Arancel modificado
+con vigencia temporal
+DOF 13-10-2026
+(antes Imp. 10)
 Partes
 y
 componentes para el
@@ -184512,22 +184520,13 @@ la
 Secretaría
 de
 Economía.
-
 98.04
 
-9804.00
-
 Importaciones
-o
 exportaciones
-de
-equipajes
-de
-pasajeros
+
 o
-menajes de casa.
-Importaciones
-o
+de
 
 Kg
 
@@ -184535,8 +184534,16 @@ Kg
 
 Ex.
 
+equipajes
+de
+pasajeros
+o
+menajes de casa.
+Importaciones
+o
 exportaciones
 de
+9804.00
 equipajes
 de
 pasajeros o menajes
@@ -184584,37 +184591,37 @@ sujetos a tratamiento
 especial.
 Mercancías
 importadas por un
+9806.00.01
 organismo
 de
 certificación
 en
-9806.00.01
+
+Kg
+Kg
+
+Ex.
+Ex.
+
+Ex.
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
+Pza
+
+Ex.
+
+Ex.
+
 cantidad no mayor a
 3 unidades, o el
 número de muestras
 que determine la
-
-Kg
-Kg
-
-Ex.
-Ex.
-
-Ex.
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
-Pza
-
-Ex.
-
-Ex.
-
 Norma
 Mexicana
 NMX-Z12 o, en su
@@ -184657,19 +184664,14 @@ materiales, animales,
 plantas y demás
 artículos
 para
+9806.00.03
 investigación
 o
 desarrollos
-9806.00.03
 tecnológicos, cuando
 los centros públicos
 de
 investigación,
-universidades
-públicas y privadas,
-instituciones
-de
-investigación
 
 Pza
 
@@ -184683,6 +184685,11 @@ Ex.
 
 Ex.
 
+universidades
+públicas y privadas,
+instituciones
+de
+investigación
 científica
 y
 tecnológica,
@@ -184731,19 +184738,11 @@ vehículos
 del
 Capítulo 87.
 Mercancías
-destinadas
+9806.00.05 destinadas
 a
 la
 reparación
 o
-9806.00.05
-mantenimiento
-de
-naves
-aéreas
-o
-aeropartes.
-9806.00.06 Mercancías,
 
 Pza
 
@@ -184757,12 +184756,13 @@ Ex.
 
 Ex.
 
-Kg
-
-Ex.
-
-Ex.
-
+mantenimiento
+de
+naves
+aéreas
+o
+aeropartes.
+Mercancías,
 insumos, partes y
 componentes para el
 submontaje, montaje
@@ -184781,6 +184781,7 @@ con la aprobación de
 producción
 de
 productos
+9806.00.06
 aeronáuticos y sus
 artículos,
 en
@@ -184804,36 +184805,35 @@ Archivos
 conteniendo,
 entre
 otros, diagnósticos
-médicos,
-9806.00.07
+9806.00.07 médicos,
 radiografías,
 fluorangiografías,
 resultados
 de
 laboratorio,
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
 electrocardiogramas.
 Mercancías
-9806.00.08 destinadas
+destinadas
 a
 procesos tales como
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
 reparación,
 reacondicionamiento
 o
 remanufactura,
-cuando las empresas
+9806.00.08 cuando las empresas
 cuenten con registro
 otorgado conforme a
 los
@@ -184864,9 +184864,9 @@ animal y vegetal,
 salud pública, medio
 ambiente
 y
+9806.00.09
 seguridad nacional,
 que se destinen al
-9806.00.09
 régimen de recinto
 fiscalizado
 estratégico, por parte
@@ -184884,12 +184884,6 @@ almacenaje,
 consolidación
 de
 carga, así como las
-resultantes de los
-procesos
-de
-elaboración,
-transformación
-o
 
 Kg
 
@@ -184897,6 +184891,18 @@ Ex.
 
 Ex.
 
+Kg
+
+Ex.
+
+Ex.
+
+resultantes de los
+procesos
+de
+elaboración,
+transformación
+o
 reparación en el
 recinto
 fiscalizado
@@ -184934,10 +184940,10 @@ en
 materia de sanidad
 animal y vegetal,
 salud pública, medio
-ambiente
+9806.00.10 ambiente
 y
 seguridad nacional,
-9806.00.10 que se destinen al
+que se destinen al
 régimen de recinto
 fiscalizado
 estratégico, por parte
@@ -184948,13 +184954,6 @@ para
 operar el régimen.
 Cuando
 las
-mercancías
-se
-extraigan del recinto
-deberán
-ser
-clasificadas
-en
 
 Kg
 
@@ -184962,6 +184961,13 @@ Ex.
 
 Ex.
 
+mercancías
+se
+extraigan del recinto
+deberán
+ser
+clasificadas
+en
 términos de la Tarifa
 de esta Ley y
 cumplir, en su caso,
@@ -185011,15 +185017,15 @@ Economía.
 
 Kg
 
-Ex.
-
-Ex.
-
 _______________
+
+Ex.
+
+Ex.
+
 Artículo 2o.- Las Reglas Generales y las Complementarias para la
 aplicación e interpretación de esta Ley, son las siguientes:
 I. Reglas Generales.
-
 La clasificación de mercancías en la Tarifa de la Ley de los
 Impuestos Generales de Importación y de Exportación se regirá
 por las reglas siguientes:
@@ -185050,12 +185056,12 @@ dos o más partidas por aplicación de la Regla 2 b) o en
 cualquier otro caso, la clasificación se efectuará como sigue:
 a) La partida con descripción más específica tendrá prioridad
 sobre las partidas de alcance más genérico. Sin embargo,
+
 cuando dos o más partidas se refieran, cada una,
 solamente a una parte de las materias que constituyen un
 producto mezclado o un artículo compuesto o solamente a
 una parte de los artículos en el caso de mercancías
 presentadas en juegos o surtidos acondicionados para la
-
 venta al por menor, tales partidas deben considerarse
 igualmente específicas para dicho producto o artículo,
 incluso si una de ellas lo describe de manera más precisa
@@ -185086,11 +185092,11 @@ susceptibles de uso prolongado y presentados con los
 artículos a los que estén destinados, se clasifican con
 dichos artículos cuando sean de los tipos normalmente
 vendidos con ellos. Sin embargo, esta Regla no se aplica
+
 en la clasificación de los continentes que confieran al
 conjunto su carácter esencial;
 b) Salvo lo dispuesto en la Regla 5 a) anterior, los envases
 que contengan mercancías se clasifican con ellas cuando
-
 sean de los tipos normalmente utilizados para esa clase de
 mercancías. Sin embargo, esta disposición no es
 obligatoria cuando los envases sean susceptibles de ser
@@ -185118,13 +185124,13 @@ corresponda, y estarán formadas por un código de 8 dígitos, de
 la siguiente forma:
 a) El Capítulo es identificado por los dos primeros dígitos,
 ordenados en forma progresiva del 01 al 98;
+
 b) El Código de partida se forma por los dos dígitos del Capítulo
 seguidos de un tercer y cuarto dígitos ordenados en forma
 progresiva;
 c) La subpartida se forma por los cuatro dígitos de la partida
 adicionados de un quinto y sexto dígitos, separados de los de
 la partida por medio de un punto. Las subpartidas pueden ser
-
 de primer o segundo nivel, que se distinguen con uno o dos
 guiones respectivamente, excepto aquellas cuyo código
 numérico de subpartida se representa con ceros (00);
@@ -185151,13 +185157,13 @@ octavo dígitos, separados de los de la subpartida por medio
 de un punto, forman la fracción arancelaria. Las fracciones
 arancelarias estarán ordenadas del 01 al 99, reservando los
 códigos noventas (90 a 99) para clasificar las mercancías que
+
 no estén comprendidas en las fracciones arancelarias
 específicas con terminación 01 a 89.
 La cuota señalada en las fracciones arancelarias de la Tarifa de
 la presente Ley se entenderá expresada en términos de
 porcentaje exclusivamente, salvo disposición en contrario, y se
 aplicará sobre la base gravable del impuesto general de
-
 importación o la base gravable del impuesto general de
 exportación que corresponda.
 3ª Para los efectos de interpretación y aplicación de la Tarifa, la
@@ -185448,13 +185454,13 @@ posibilidad de ser comercializados; o
 condiciones de presentación, indiquen sin lugar a dudas,
 que solo pueden servir de muestras o muestrarios incluso
 acorde con lo que al efecto establezca la Secretaría de
+
 Hacienda y Crédito Público, mediante reglas de carácter
 general.
 8ª Previa autorización de la Secretaría de Economía:
 a) Se consideran como artículos completos o terminados,
 aunque no tengan las características esenciales de los
 mismos, las mercancías que se importen en una o varias
-
 remesas o por una o varias aduanas, por empresas que
 cuenten con registro de empresa fabricante, aprobado por la
 Secretaría de Economía.
@@ -185481,6 +185487,7 @@ proporcionar en un plazo de 15 días naturales, pudiendo solicitar
 prórroga por un término igual. Vencido el plazo concedido, la
 autoridad aduanera clasificará la mercancía como corresponda,
 a partir de los elementos de que disponga.
+
 10ª
 Se establecerán números de identificación comercial (NICO)
 en los que se clasifican las mercancías en función de las
@@ -185490,7 +185497,6 @@ por la Secretaría de Economía, con opinión previa de la
 Secretaría de Hacienda y Crédito Público. La metodología será
 publicada en el Diario Oficial de la Federación por conducto de
 la Secretaría de Economía.
-
 La clasificación de las mercancías estará integrada por las
 fracciones arancelarias y el número de identificación comercial,
 el cual estará integrado por 2 dígitos, los cuales se colocan en la
@@ -185514,6 +185520,7 @@ que los sistemas utilizados en las operaciones de comercio exterior
 se encuentran listos para operar conforme a la Ley que se emite, lo
 cual deberá suceder dentro de los 180 días siguientes a su
 publicación.
+
 Segundo. Con la entrada en vigor del presente Decreto se abroga
 la Ley de Impuestos Generales de Importación y de Exportación
 publicada en el Diario Oficial de la Federación el 1 de julio de 2020.
@@ -185522,7 +185529,6 @@ fracción II, regla 10ª de la Ley que se emite mediante el presente
 ordenamiento, se publicará en el Diario Oficial de la Federación
 dentro los 20 días naturales posteriores a la publicación del presente
 Decreto.
-
 Cuarto. La Secretaría de Economía dentro de los 40 días naturales
 posteriores a la publicación del presente Decreto, deberá publicar en
 el Diario Oficial de la Federación los números de identificación
@@ -185549,6 +185555,7 @@ respecto a la Ley que se abroga por virtud de la presente, se
 entenderán referidas a esta Ley que se emite.
 Ciudad de México, a 27 de abril de 2022.- Sen. Olga Sánchez
 Cordero Dávila, Presidenta.- Dip. Sergio Carlos Gutiérrez Luna,
+
 Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip.
 María Macarena Chávez Flores, Secretaria.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de
