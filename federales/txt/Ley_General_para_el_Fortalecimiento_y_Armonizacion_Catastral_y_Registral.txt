@@ -1,0 +1,792 @@
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+Secretaría General
+Secretaría de Servicios Parlamentarios
+Versión PDF para vista en dispositivo móvil Android y Apple iOS
+
+LEY GENERAL PARA EL FORTALECIMIENTO Y
+ARMONIZACIÓN CATASTRAL Y REGISTRAL
+TEXTO VIGENTE
+Nueva Ley publicada en el Diario Oficial de la
+Federación el 23 de octubre de 2026
+
+Al margen un sello con el Escudo Nacional, que dice:
+Estados Unidos Mexicanos.- Presidencia de la
+República.
+CLAUDIA SHEINBAUM PARDO, Presidenta de los
+Estados Unidos Mexicanos, a sus habitantes sabed:
+Que el Honorable Congreso de la Unión, se ha
+servido dirigirme el siguiente
+DECRETO
+"EL CONGRESO GENERAL DE LOS ESTADOS
+UNIDOS MEXICANOS, DECRETA:
+SE EXPIDE LA LEY GENERAL PARA EL
+FORTALECIMIENTO
+Y
+ARMONIZACIÓN
+CATASTRAL Y REGISTRAL
+Artículo Único. Se expide la Ley General para el
+Fortalecimiento y Armonización Catastral y Registral,
+para quedar como sigue:
+LEY GENERAL PARA EL FORTALECIMIENTO Y
+ARMONIZACIÓN CATASTRAL Y REGISTRAL
+
+TÍTULO PRIMERO
+DE LAS DISPOSICIONES GENERALES
+Capítulo I
+Del Objeto de la Ley
+Artículo 1. La presente Ley es de orden público,
+interés social y observancia general en el territorio
+nacional, y tiene por objeto establecer las bases,
+principios, criterios y mecanismos de coordinación
+entre la Federación, las entidades federativas y los
+municipios, para fortalecer, modernizar, homologar,
+actualizar e interoperar los catastros y los registros
+públicos de la propiedad, a fin de dar cumplimiento al
+artículo 73, fracción XXIX-R, de la Constitución
+Política de los Estados Unidos Mexicanos.
+Las disposiciones de esta Ley serán aplicables a las
+autoridades facultadas para realizar funciones
+catastrales y registrales, así como a aquellas que
+generen, administren o resguarden información
+susceptible de vincularse en esas materias.
+Artículo 2. Para los efectos de esta Ley, con
+independencia de su referencia en singular o plural,
+se entenderá por:
+I. Agencia: La Agencia de Transformación Digital
+y Telecomunicaciones;
+II. Autoridad Catastral: Las autoridades de las
+entidades federativas o municipales que, conforme
+a la legislación aplicable ejerzan funciones
+relacionadas con el catastro; dentro de su
+respectivo ámbito de competencia territorial;
+III. Autoridad Registral: La autoridad competente
+en cada entidad federativa para ejercer la función
+
+registral inmobiliaria o el Instituto Registral de
+cada entidad federativa;
+IV. Cartografía: Conjunto de mapas, planos,
+archivos vectoriales y ortofotos georreferenciados
+de forma impresa o digital, que muestran la
+representación de los Predios que componen el
+territorio nacional, permitiendo con ello identificar
+con precisión su ubicación geográfica y sus
+características;
+V. Catastro: El sistema de información territorial,
+relativo a la propiedad inmueble, cuyo propósito
+principal es obtener un censo analítico de las
+características, físicas, cualitativas, geográficas,
+fiscales y administrativas de los inmuebles,
+permitiendo con ello el uso multifinalitario de dicho
+sistema;
+VI. Cédula Única Catastral y Registral: El
+documento electrónico o físico emitido por las
+autoridades competentes en materia de catastro y
+registro, que contiene la información general de un
+predio, para su plena ubicación e identificación
+física, que vincula la información registral y
+catastral;
+VII. Clave Única Catastral: Registro único que se
+asigna a un predio o unidad inmobiliaria para su
+identificación, cuya integración estará determinada
+en los lineamientos técnicos emitidos por la
+Secretaría en conjunto con la Agencia;
+VIII. Folio Real: Conjunto de asientos realizados
+de manera física o electrónica referidos a un
+predio o inmueble, ya sea electrónico o cartular;
+
+IX. Interoperabilidad: Capacidad de los sistemas
+o dispositivos para comunicarse, a fin de
+intercambiar y consultar información entre las
+distintas autoridades catastrales y registrales;
+X. Ley: Ley General para el Fortalecimiento y
+Armonización Catastral y Registral;
+XI. Llave MX: Mecanismo de autenticación e
+identificación en medios digitales asociado a la
+Clave Única de Registro de Población;
+XII. Ley Nacional: Ley Nacional para Eliminar
+Trámites Burocráticos;
+XIII. Modelos para la Homologación: El Modelo
+para la Homologación de Trámites y Servicios
+Catastrales y Modelo para la Homologación de
+Trámites y Servicios Registrales;
+XIV. Modelo para la Homologación de Trámites
+y Servicios Catastrales: Estándar para unificar
+criterios, requisitos, formatos y procedimientos de
+atención y resolución de trámites y servicios en
+materia catastral;
+XV. Modelo para la Homologación de Trámites
+y Servicios Registrales: Estándar para unificar
+criterios, requisitos, formatos y procedimientos de
+atención y resolución de trámites y servicios en
+materia registral;
+XVI. Planes Nacionales: Plan Nacional Catastral
+y Plan Nacional Registral;
+XVII. Plataformas: Plataforma Catastral Municipal
+y Plataforma de Registros Públicos de la
+Propiedad;
+
+XVIII. Plataforma Catastral Municipal: Solución
+tecnológica que permite gestionar de manera
+homologada trámites catastrales, conectar la
+información territorial y predial de las entidades
+federativas y de los municipios mediante
+estándares comunes e interoperabilidad;
+XIX. Plataforma de Registros Públicos de la
+Propiedad: Solución tecnológica que permite
+gestionar de manera homologada trámites
+registrales con estándares comunes, y
+XX. Secretaría: Secretaría de Desarrollo Agrario,
+Territorial y Urbano.
+Capítulo II
+De los Principios
+Artículo 3. Para el cumplimiento de los objetivos de
+esta Ley se observarán los siguientes principios:
+I. Equidad: Promover condiciones de igualdad
+sustantiva en el territorio a través de la aplicación
+de medidas recaudatorias que disuadan la
+discriminación, segregación o marginación de
+individuos o grupos en los derechos de propiedad;
+II. Certeza jurídica: Garantizar la seguridad
+patrimonial sobre los derechos de propiedad de
+los inmuebles, así como su cumplimiento con las
+disposiciones de los planes o programas de
+Desarrollo Urbano, Ordenamiento Territorial y
+Ambiental, con respeto al federalismo y la
+autonomía municipal;
+III. Interoperabilidad: Garantizar la comunicación
+y el intercambio seguro de información entre los
+sistemas tecnológicos de las Autoridades
+
+Catastrales y Registrales, a fin de que los datos y
+documentos que obren en sus archivos o registros
+sean consultados o integrados por dichas
+Autoridades para la resolución de trámites o
+servicios, y
+IV. Trazabilidad: Las actuaciones, registros,
+modificaciones y trámites realizados deberán ser
+asentados de forma cronológica, inalterable y
+auditable desde su origen hasta su estado actual.
+Artículo 4. A falta de disposición expresa en esta
+Ley, se aplicarán de manera supletoria, en lo que no
+se oponga a este ordenamiento:
+I. La Ley Federal de Procedimiento Administrativo;
+II. El Código Nacional de Procedimientos Civiles y
+Familiares;
+III. El Código Civil Federal, y
+IV. La Ley Nacional para Eliminar Trámites
+Burocráticos.
+TÍTULO SEGUNDO
+DE LAS AUTORIDADES
+Capítulo Único
+De las Autoridades Responsables
+Artículo 5. Son responsables de implementar,
+supervisar y vigilar el cumplimiento de las
+disposiciones de esta Ley, en sus respectivos ámbitos
+de competencias, las siguientes:
+I. La Secretaría;
+II. La Agencia;
+III. Las Autoridades Catastrales, y
+IV. Las Autoridades Registrales.
+
+Las autoridades responsables antes mencionadas
+podrán colaborar y coordinarse con el Instituto
+Nacional de Estadística y Geografía, como organismo
+público autónomo de carácter técnico, para el
+cumplimiento del objeto de la presente Ley, dentro del
+ámbito de sus respectivas competencias.
+Artículo 6. La Secretaría tendrá las siguientes
+atribuciones:
+I. Proponer, administrar, dictaminar y asignar los
+recursos presupuestales federales destinados al
+Programa de Modernización de los Registros
+Públicos de la Propiedad y Catastros para las
+entidades federativas y municipios; sujetándose al
+presupuesto de Egresos de la Federación, reglas
+de operación, convenios y disponibilidad
+presupuestaria;
+II. Supervisar las acciones de modernización
+registral y catastral;
+III. Emitir los lineamientos, guías y manuales
+necesarios para el cumplimiento de la presente
+Ley, en el ámbito de sus atribuciones, y
+IV. Las demás atribuciones que se establezcan en
+esta Ley y otras disposiciones jurídicas aplicables.
+Artículo 7. La Agencia tendrá las siguientes
+atribuciones:
+I. Desarrollar y emitir los Planes Nacionales, en
+coordinación con la Secretaría;
+II. Habilitar las herramientas necesarias para la
+implementación de los Planes Nacionales;
+III. Diseñar y
+Homologación;
+
+emitir
+
+los
+
+Modelos
+
+para
+
+la
+
+IV. Desarrollar, habilitar y administrar las
+Plataformas;
+mantenerlas
+técnicamente
+actualizadas y con mecanismos de ciberseguridad
+para su correcto funcionamiento;
+V. Habilitar los accesos a las Autoridades
+Catastrales y Registrales de las Plataformas;
+VI. Habilitar las herramientas tecnológicas para
+que las Autoridades Catastrales y Registrales
+implementen medios de pago electrónicos o
+digitales para sus respectivos trámites y servicios
+a que se refiere la presente Ley;
+VII. Asesorar, capacitar y brindar acompañamiento
+técnico a las Autoridades Catastrales y Registrales
+para la implementación de los Modelos para la
+Homologación, la adopción de la Clave Única
+Catastral y de la Cédula Única Catastral y
+Registral, así como para la interoperabilidad con
+las Plataformas;
+VIII. Supervisar la adopción e implementación de
+los Modelos para la Homologación y de las
+Plataformas;
+IX. Habilitar una mesa de ayuda para las
+Autoridades Catastrales y Registrales que adopten
+e implementen las Plataformas;
+X. Supervisar que las Autoridades Catastrales
+mantengan actualizada su cartografía catastral
+conforme a los plazos previstos en los
+lineamientos que emita para tal efecto;
+XI. Habilitar mecanismos tecnológicos para
+interoperar las Plataformas con las plataformas
+digitales de las Autoridades Catastrales y
+
+Registrales, siempre que cumplan
+estándares técnicos que establezca;
+
+con
+
+los
+
+XII. Emitir los lineamientos, guías y manuales
+necesarios para el cumplimiento de la presente
+Ley, en el ámbito de sus atribuciones, y
+XIII. Las demás atribuciones que se establezcan
+en esta Ley y otras disposiciones jurídicas
+aplicables.
+Artículo 8. Las Autoridades Catastrales deberán:
+I. Adoptar e implementar el Modelo para la
+Homologación
+de
+Trámites
+y
+Servicios
+Catastrales, conforme a los términos establecidos
+por la Agencia;
+II. Proporcionar la información y documentación
+que le requiera la Agencia respecto de la adopción
+e implementación de los Modelos para la
+Homologación
+de
+Trámites
+y
+Servicios
+Catastrales;
+III. Cumplir con el Plan Nacional Catastral de
+conformidad con lo establecido en la presente Ley;
+IV. Adoptar e implementar la Clave Única
+Catastral y la Cédula Única Catastral y Registral,
+de conformidad con los lineamientos emitidos para
+tal efecto por la Secretaría y la Agencia;
+V. Adoptar e implementar la Plataforma Catastral
+Municipal;
+VI. Implementar la Llave MX como el mecanismo
+de autenticación e identificación de las personas
+en medios digitales;
+
+VII. Mantener actualizada su cartografía catastral,
+y
+VIII. Las demás atribuciones que se establezcan
+en esta Ley y otras disposiciones jurídicas
+aplicables.
+Artículo 9. Las Autoridades Registrales deberán:
+I. Adoptar e implementar los Modelos para la
+Homologación de Trámites y Servicios Registrales
+conforme a los términos establecidos por la
+Agencia;
+II. Proporcionar la información y documentación
+que le requiera la Agencia respecto de la adopción
+e implementación de los Modelos para la
+Homologación de Trámites y Servicios;
+III. Cumplir con el Plan Nacional Registral de
+conformidad con lo establecido en la presente Ley;
+IV. Adoptar e implementar la Cédula Única
+Catastral y Registral, de conformidad con los
+lineamientos emitidos para tal efecto;
+V. Adoptar e implementar la Plataforma de
+Registros Públicos de la Propiedad;
+VI. Implementar la Llave MX como el mecanismo
+de autenticación e identificación de las personas
+en medios digitales, y
+VII. Las demás atribuciones que se establezcan
+en esta Ley y otras disposiciones jurídicas
+aplicables.
+TÍTULO TERCERO
+DEL PLAN NACIONAL CATASTRAL
+Capítulo I
+
+De la Integración y Objeto del Plan Nacional
+Catastral
+Artículo 10. El Plan Nacional Catastral es el
+instrumento de carácter nacional que establece las
+directrices, prioridades y acciones para orientar el
+desarrollo,
+fortalecimiento,
+modernización
+y
+coordinación de la función catastral en el territorio
+nacional, así como para promover la integración,
+actualización, homologación, interoperabilidad y
+aprovechamiento de la información catastral, con el
+propósito de contribuir a una gestión integral del
+territorio y a la adecuada identificación de los bienes
+inmuebles.
+Artículo 11. El Plan Nacional Catastral tendrá por
+objeto:
+I. Desarrollar y fortalecer los catastros;
+II. Homologar los procesos, requisitos, criterios
+técnicos, trámites y servicios catastrales, de
+conformidad con la Ley Nacional;
+III. Impulsar la actualización permanente de la
+información catastral;
+IV. Adoptar e implementar por parte de las
+Autoridades Catastrales la Plataforma Catastral
+Municipal;
+V. Establecer estándares, normas técnicas,
+modelos de datos y metodologías comunes;
+VI. Fortalecer las capacidades institucionales de
+las Autoridades Catastrales, y
+VII. Establecer mecanismos de seguimiento y
+evaluación que permitan medir el grado de
+cumplimiento de sus objetivos y metas.
+
+Artículo 12. La aplicación del Plan Nacional
+Catastral se regirá por los principios de concurrencia,
+corresponsabilidad y apoyo técnico mutuo, con pleno
+respeto al ámbito competencial de los municipios en
+términos del artículo 115 de la Constitución Política de
+los Estados Unidos Mexicanos.
+Los municipios podrán suscribir convenios de
+coordinación con los gobiernos de las entidades
+federativas, la Agencia y la Secretaría para fortalecer
+sus capacidades técnicas.
+Artículo 13. La Agencia coordinará con la
+Secretaría, las entidades federativas y los municipios
+la implementación del Plan Nacional Catastral.
+Artículo
+14.
+Las
+Autoridades
+Catastrales
+implementarán, en el ámbito de sus respectivas
+competencias, las acciones necesarias para cumplir
+los objetivos, metas y líneas de acción establecidas
+en el Plan Nacional Catastral, de conformidad con sus
+atribuciones y disponibilidad presupuestaria.
+Artículo 15. El Plan Nacional Catastral se integrará
+por las siguientes herramientas:
+I. La Plataforma Catastral Municipal;
+II. El Modelo para la Homologación de Trámites y
+Servicios Catastrales;
+III. El Modelo Nacional para la Integración de la
+Clave Única Catastral, y
+IV. Las demás que determine la Agencia o la
+Secretaría.
+Capítulo II
+De la Plataforma Catastral Municipal
+
+Artículo 16. La Plataforma Catastral Municipal
+constituirá un mecanismo de coordinación tecnológica
+entre la Federación, entidades federativas y
+municipios para el fortalecimiento de la función
+catastral y la actualización de la Cartografía.
+Artículo 17. La Plataforma Catastral Municipal se
+integrará, al menos, por los siguientes elementos:
+I. Mapa base con la Cartografía que integrará la
+propiedad civil, social y pública del país;
+II. Módulo de gestión de trámites y servicios;
+III. Módulo de gestión del impuesto predial;
+IV. Módulo para habilitar pagos digitales, y
+V. Módulo de orientación e información.
+Artículo 18. El mecanismo de autenticación e
+identificación para la solicitud y gestión de trámites y
+servicios a través de la Plataforma Catastral Municipal
+será con Llave MX, en los términos de la Ley
+Nacional.
+Artículo 19. Los trámites, servicios o actuaciones
+que se realicen a través de la Plataforma Catastral
+Municipal producirán los mismos efectos jurídicos que
+los presenciales, y las notificaciones serán igualmente
+válidas, y tendrán equivalencia jurídica y probatoria
+que las notificaciones físicas, conforme a los
+lineamientos que expida para tal efecto la Agencia.
+Artículo 20. La Plataforma Catastral Municipal
+deberá interoperar con la Plataforma de Registros
+Públicos de la Propiedad para vincular la Clave Única
+Catastral con el Folio Real de los Registros Públicos
+de la Propiedad de cada inmueble, a fin de generar la
+Cédula Única Catastral y Registral.
+
+Artículo 21. La gestión y uso de la información y
+datos catastrales contenidos en la Plataforma
+Catastral Municipal con motivo de la solicitud y
+resolución de trámites y servicios, así como los datos
+catastrales, corresponde única y exclusivamente al
+ámbito de competencia y responsabilidad de cada
+una de las Autoridades Catastrales.
+Capítulo III
+Del Modelo para la Homologación de Trámites y
+Servicios Catastrales
+Artículo 22. El Modelo para la Homologación de
+Trámites y Servicios Catastrales, en términos de la
+Ley Nacional, establece los trámites o servicios,
+requisitos y tiempos de resolución de observancia
+obligatoria para las Autoridades Catastrales del país,
+a fin de homologar y estandarizar sus procedimientos.
+Artículo 23. Las Autoridades Catastrales, en el
+respectivo ámbito de su competencia, deberán
+adoptar e implementar el Modelo para la
+Homologación de Trámites y Servicios Catastrales
+que emita la Agencia, en términos de la Ley Nacional
+y conforme a los Lineamientos para la
+Implementación
+del
+Modelo
+Nacional
+de
+Homologación de Trámites y Servicios, Compartición
+de Soluciones Tecnológicas y Desarrollo de
+Capacidades Públicas.
+Capítulo IV
+Del Modelo Nacional para la Integración de la
+Clave Única Catastral
+Artículo 24. La Clave Única Catastral se integrará
+conforme al estándar y criterios técnicos que emita la
+
+Secretaría, en conjunto con la Agencia, a través del
+Modelo Nacional para la Integración de la Clave Única
+Catastral.
+Artículo 25. La Clave Única Catastral tendrá por
+objeto identificar de manera inequívoca cada
+inmueble para facilitar la integración, actualización y
+consulta de la información catastral en la Plataforma
+Catastral Municipal; y su vinculación con el Folio Real
+de cada predio o unidad inmobiliaria.
+Artículo 26. Las Autoridades Catastrales conforme
+a su ámbito de competencia, deberán asignar una
+Clave Única Catastral a cada predio o unidad
+inmobiliaria que se inscriba en su registro catastral.
+Artículo 27. La asignación de la Clave Única
+Catastral se realizará con base en los estándares y
+procedimientos establecidos en los lineamientos que
+al efecto emita la Secretaría en conjunto con la
+Agencia.
+Artículo 28. La asignación de la Clave Única
+Catastral no constituirá, por sí misma, prueba plena
+de propiedad, posesión, superficie o colindancias, ni
+convalida actos nulos o irregulares, reconocimiento,
+constitución, transmisión, modificación o extinción de
+derechos de propiedad o posesión sobre un predio o
+una unidad inmobiliaria.
+TÍTULO CUARTO
+DEL PLAN NACIONAL REGISTRAL
+Capítulo I
+De la Integración y Objeto del Plan Nacional
+Registral
+
+Artículo 29. El Plan Nacional Registral es el
+instrumento de carácter nacional que establece las
+directrices, prioridades y acciones para orientar el
+desarrollo,
+fortalecimiento,
+modernización
+y
+coordinación de la función registral en el territorio
+nacional.
+Artículo 30. El Plan Nacional Registral tendrá por
+objeto:
+I. Desarrollar y fortalecer los Registros Públicos de
+la Propiedad;
+II. Homologar los procesos, requisitos, criterios
+técnicos, trámites y servicios registrales, de
+conformidad con la Ley Nacional;
+III. Adoptar por parte de las Autoridades
+Registrales la implementación de la Plataforma de
+Registros Públicos de la Propiedad;
+IV. Establecer estándares, normas técnicas,
+modelos de datos y metodologías comunes;
+V. Fortalecer las capacidades institucionales de
+las Autoridades Registrales, y
+VI. Establecer mecanismos de seguimiento y
+evaluación que permitan medir el grado de
+cumplimiento de sus objetivos y metas.
+Artículo 31. La aplicación del Plan Nacional
+Registral se regirá por los principios de concurrencia,
+publicidad, corresponsabilidad y apoyo técnico mutuo
+entre la Federación y las entidades federativas, las
+cuales podrán suscribir convenios de coordinación
+con la Agencia y la Secretaría para fortalecer sus
+capacidades técnicas.
+
+Artículo 32. La Agencia coordinará con
+Secretaría
+y
+las
+entidades
+federativas
+implementación del Plan Nacional Registral.
+
+la
+la
+
+Artículo
+33.
+Las
+autoridades
+registrales
+implementarán, en el ámbito de sus respectivas
+competencias, las acciones necesarias para cumplir
+los objetivos, metas y líneas de acción establecidas
+en el Plan Nacional Registral, de conformidad con sus
+atribuciones y disponibilidad presupuestaria.
+Artículo 34. El Plan Nacional Registral se integrará
+por las siguientes herramientas:
+I. La Plataforma de Registros Públicos de la
+Propiedad;
+II. El Modelo para la Homologación de Trámites y
+Servicios Registrales, y
+III. Las demás que determine la Agencia o la
+Secretaría.
+Capítulo II
+De la Plataforma de Registros Públicos de la
+Propiedad
+Artículo 35. La Plataforma de Registros Públicos de
+la Propiedad constituirá un mecanismo de
+coordinación tecnológica en las entidades federativas
+para el fortalecimiento de la función registral nacional.
+Artículo 36. La Plataforma de Registros Públicos de
+la Propiedad se integrará al menos, por los siguientes
+elementos:
+I. Módulo de gestión de trámites y servicios, y
+II. Módulo para habilitar pagos digitales.
+
+Artículo 37. El mecanismo de autenticación e
+identificación para la solicitud y gestión de trámites y
+servicios a través de la Plataforma de Registros
+Públicos de la Propiedad será con Llave MX, en los
+términos de la Ley Nacional.
+Artículo 38. Los trámites, servicios o actuaciones
+que se realicen a través de la Plataforma de Registros
+Públicos de la Propiedad producirán los mismos
+efectos jurídicos que los presenciales, y las
+notificaciones serán igualmente válidas, y tendrán
+equivalencia jurídica y probatoria que las
+notificaciones físicas, conforme a los lineamientos que
+expida para tal efecto la Agencia.
+Artículo 39. La Plataforma de Registros Públicos de
+la Propiedad deberá interoperar con la Plataforma
+Catastral Municipal para vincular el Folio Real con la
+Clave Única Catastral de cada inmueble, a fin de
+generar la Cédula Única Catastral y Registral.
+Artículo 40. La gestión y uso de la información y
+datos registrales contenidos en la Plataforma de
+Registros Públicos de la Propiedad con motivo de la
+solicitud y resolución de trámites y servicios, así como
+los datos registrales, corresponde única y
+exclusivamente al ámbito de competencia y
+responsabilidad de cada una de las Autoridades
+Registrales.
+Capítulo III
+Del Modelo para la Homologación de Trámites
+y Servicios Registrales
+Artículo 41. El Modelo para la Homologación de
+Trámites y Servicios Registrales, en términos de la
+
+Ley Nacional, establece los trámites o servicios,
+requisitos y tiempos de resolución de observancia
+obligatoria para las Autoridades Registrales del país,
+a fin de homologar y estandarizar sus procedimientos.
+Artículo 42. Las Autoridades Registrales, en el
+respectivo ámbito de su competencia, deberán
+adoptar e implementar el Modelo para la
+Homologación de Trámites y Servicios Registrales
+que emita la Agencia, en términos de la Ley Nacional
+y conforme a los Lineamientos para la
+Implementación
+del
+Modelo
+Nacional
+de
+Homologación de Trámites y Servicios, Compartición
+de Soluciones Tecnológicas y Desarrollo de
+Capacidades Públicas.
+TÍTULO QUINTO
+DE LA VINCULACIÓN ENTRE EL CATASTRO Y EL
+REGISTRO PÚBLICO DE LA PROPIEDAD
+Capítulo Único
+De la Interoperabilidad del Catastro y el Registro
+Público de la Propiedad
+Artículo 43. La Cédula Única Catastral y Registral
+es el mecanismo de vinculación entre el Catastro y el
+Registro Público de la Propiedad, a través de la Clave
+Única Catastral y el Folio Real de cada inmueble.
+La Cédula Única Catastral y Registral deberá
+integrar la información del predio o unidad inmobiliaria
+que resulte necesaria para su vinculación de
+conformidad con los lineamientos que para tal efecto
+emita la Agencia en conjunto con la Secretaría, para
+su integración, adopción e implementación.
+
+Artículo 44. Las Autoridades Catastrales y
+Registrales, en el ámbito de sus respectivas
+competencias, deberán intercambiar la información
+necesaria para garantizar la identificación, vinculación
+y actualización de los bienes inmuebles en sus
+respectivos sistemas, así como para detectar posibles
+inconsistencias entre la información catastral y
+registral, para su corrección, en términos de la
+normatividad aplicable.
+El intercambio de información se realizará mediante
+mecanismos interoperables, conforme a las
+disposiciones aplicables, garantizando la protección
+de datos personales, archivos, transparencia,
+integridad, seguridad y trazabilidad de la información.
+TÍTULO SEXTO
+DE LAS RESPONSABILIDADES
+ADMINISTRATIVAS DE LAS PERSONAS
+SERVIDORAS PÚBLICAS
+Capítulo Único
+De las Personas Servidoras Públicas
+Artículo 45. El incumplimiento de las obligaciones
+previstas en esta Ley, y en las disposiciones que de
+ella se deriven, por parte de las personas servidoras
+públicas, será sancionado de conformidad con la Ley
+General de Responsabilidades Administrativas y, en
+su caso, con las disposiciones locales aplicables, de
+acuerdo
+con
+el
+ámbito
+de
+competencia
+correspondiente.
+Lo
+anterior
+será
+sin
+perjuicio
+de
+las
+responsabilidades civiles, penales o de cualquier otra
+
+naturaleza que resulten procedentes conforme a las
+disposiciones jurídicas aplicables.
+Transitorios
+Primero. El presente Decreto entrará en vigor el día
+siguiente al de su publicación en el Diario Oficial de la
+Federación.
+Segundo. Se derogan todas aquellas disposiciones
+que se opongan a lo dispuesto en la presente Ley.
+Tercero. En un plazo no mayor a treinta días hábiles
+contados a partir de la entrada en vigor del presente
+Decreto, la Agencia de Transformación Digital y
+Telecomunicaciones deberá emitir los Lineamientos
+para la implementación de los Planes Nacionales, los
+cuales serán de observancia obligatoria para las
+Autoridades Catastrales y Registrales.
+En un plazo no mayor a treinta días hábiles
+contados a partir de la entrada en vigor del presente
+Decreto, la Secretaría de Desarrollo Agrario,
+Territorial y Urbano y la Agencia de Transformación
+Digital y Telecomunicaciones deberán emitir los
+Lineamientos para la integración, adopción e
+implementación de la Clave Única Catastral y la
+Cédula Única Catastral y Registral.
+Cuarto. La Agencia de Transformación Digital y
+Telecomunicaciones, en un plazo no mayor a treinta
+días hábiles contados a partir del día siguiente a la
+entrada en vigor del presente Decreto, deberá
+habilitar las Plataformas.
+Quinto. Las Autoridades Catastrales y Registrales
+adoptarán e implementarán los Modelos para la
+Homologación de Trámites y Servicios Catastrales y
+
+Registrales, así como las Plataformas a más tardar el
+31 de diciembre de 2026, a fin de que entren en
+operación el 1 de enero de 2027, conforme a lo
+dispuesto en la Ley Nacional para Eliminar Trámites
+Burocráticos
+y
+los
+Lineamientos
+para
+la
+Implementación
+del
+Modelo
+Nacional
+de
+Homologación de Trámites y Servicios, Compartición
+de Soluciones Tecnológicas y Desarrollo de
+Capacidades Públicas; lo anterior conforme al
+calendario que dé a conocer la Agencia de
+Transformación Digital y Telecomunicaciones en el
+Diario Oficial de la Federación, tomando en cuenta las
+capacidades técnicas y operativas.
+Sexto. Los Poderes Legislativos de las Entidades
+Federativas deberán realizar las adecuaciones a su
+marco legal o emitir la legislación correspondiente con
+la finalidad de instrumentar el presente Decreto, a
+más tardar dentro de los ciento ochenta días
+posteriores a la entrada en vigor del mismo y prever
+en sus respectivos Presupuestos y leyes de Egresos,
+los recursos necesarios para la implementación de la
+presente Ley.
+Séptimo. Dentro del plazo de ciento ochenta días
+hábiles, contado a partir de la entrada en vigor del
+presente Decreto, las personas titulares de los
+Poderes Ejecutivos de las Entidades Federativas y los
+municipios deberán llevar a cabo las acciones
+necesarias para la armonización de la normatividad
+que resulte procedente para el cumplimiento de la
+presente Ley, sin perjuicio de los plazos y
+procedimientos previstos en la Ley Nacional para
+
+Eliminar Trámites Burocráticos y las disposiciones
+que de ella derivan.
+Octavo. Las erogaciones que se generen con
+motivo de la entrada en vigor del presente Decreto se
+cubrirán con cargo al presupuesto autorizado a los
+ejecutores de gasto correspondientes, por lo que no
+incrementará su presupuesto regularizable de gasto
+de operación y de servicios personales, y no se
+autorizarán recursos adicionales para el ejercicio
+fiscal ni subsecuentes.
+Ciudad de México, a 14 de octubre de 2026.- Dip.
+Raúl Bolaños-Cacho Cué, Presidente.- Sen. Higinio
+Martínez Miranda, Presidente.- Dip. Laura Iraís
+Ballesteros Mancilla, Secretaria.- Sen. Juanita Guerra
+Mena, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del
+Artículo 89 de la Constitución Política de los Estados
+Unidos Mexicanos, y para su debida publicación y
+observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad
+de México, a 23 de octubre de 2026.- Claudia
+Sheinbaum Pardo, Presidenta de los Estados Unidos
+Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez
+Velázquez, Secretaria de Gobernación.- Rúbrica.
+

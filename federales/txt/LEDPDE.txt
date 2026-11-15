@@ -1,0 +1,358 @@
+LEY DE ECONOMÍA DIGITAL PARA PAGOS DIGITALES Y ELECTRÓNICOS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 04-11-2026
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+LEY DE ECONOMÍA DIGITAL PARA PAGOS DIGITALES Y ELECTRÓNICOS
+TEXTO VIGENTE
+Nueva Ley publicada en el Diario Oficial de la Federación el 4 de noviembre de 2026
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+CLAUDIA SHEINBAUM PARDO, Presidenta de los Estados Unidos Mexicanos, a sus habitantes sabed:
+Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+DECRETO
+"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
+SE EXPIDE LA LEY DE ECONOMÍA DIGITAL PARA PAGOS DIGITALES Y ELECTRÓNICOS
+
+Artículo Único.- Se expide la Ley de Economía Digital para Pagos Digitales y Electrónicos, para quedar como
+sigue:
+LEY DE ECONOMÍA DIGITAL PARA PAGOS DIGITALES Y ELECTRÓNICOS
+TÍTULO PRIMERO
+DISPOSICIONES GENERALES
+Capítulo Único
+Del objeto y ámbito de aplicación
+Artículo 1. La presente Ley es de orden público y de observancia general en todo el territorio nacional, y tiene por
+objeto promover la adopción e implementación de Medios de Pago Digitales y Electrónicos, en los términos de las
+presentes disposiciones y las de carácter general emitidas por las autoridades competentes conforme a la
+normatividad aplicable en la materia.
+Artículo 2. Para los efectos de la presente Ley, con independencia de su referencia en singular o plural, se
+entenderá por:
+I.
+
+Agencia: Agencia de Transformación Digital y Telecomunicaciones;
+
+II.
+
+Contingencia: Evento o circunstancias extraordinarias, imprevistas o inevitables de caso fortuito o
+fuerza mayor que afectan temporalmente la continuidad, disponibilidad, o funcionamiento de la
+infraestructura, sistemas, servicios u operaciones realizadas a través de Medios de Pago Digitales y
+Electrónicos;
+
+III.
+
+CURP Digital: Versión digital de la Clave Única de Registro de Población a que se refiere los artículos
+91 Bis, párrafo primero, y 91 Quinquies de la Ley General de Población;
+
+IV.
+
+Entidades: Instituciones de crédito, a las sociedades financieras de objeto múltiple, a las sociedades
+financieras populares, a las sociedades financieras comunitarias, a las sociedades cooperativas de
+ahorro y préstamo, a las entidades financieras que actúen como fiduciarias en fideicomisos que
+otorguen crédito, préstamo o financiamiento al público, las uniones de crédito y las instituciones de
+
+1 de 6
+
+LEY DE ECONOMÍA DIGITAL PARA PAGOS DIGITALES Y ELECTRÓNICOS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 04-11-2026
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+tecnología financiera, así como las sociedades que de manera habitual otorguen créditos, préstamos o
+financiamientos al público;
+V.
+
+Expediente Digital Ciudadano: Al regulado por la Ley Nacional para Eliminar Trámites Burocráticos,
+que puede ser utilizado por las Entidades para la contratación de servicios financieros a solicitud de las
+Personas Usuarias;
+
+VI.
+
+Ley: Ley de Economía Digital para Pagos Digitales y Electrónicos;
+
+VII.
+
+Medios de Pago Digitales y Electrónicos: Códigos QR, Códigos de Respuesta Rápida, y
+dispositivos NFC, Comunicación de Campo Cercano, que permitan la realización de pagos; tarjetas de
+débito y de crédito; órdenes de transferencia de fondos, incluido el servicio conocido como
+domiciliación; cualquier dispositivo, tarjeta o interfaz que permita la realización de pagos,
+transferencias de recursos, así como a otros reconocidos conforme a las disposiciones de carácter
+general emitidas por las autoridades competentes de acuerdo con la normatividad aplicable en la
+materia;
+
+VIII.
+
+Operación Económica: a cualquier acto de comercio previsto en el Código de Comercio, relacionado
+con la enajenación de bienes, prestación de servicios, otorgamiento de uso o goce temporal de bienes,
+así como la importación de bienes o servicios;
+
+IX.
+
+Persona Usuaria: persona física o moral que hace uso de servicios financieros digitales o Medios de
+Pago Digitales y Electrónicos;
+
+X.
+
+Proveedores de Bienes o Servicios: personas físicas o morales de carácter público o privado que,
+de manera habitual y profesional, realicen Operaciones Económicas en las que comercialicen bienes o
+servicios;
+
+XI.
+
+Soluciones Tecnológicas: los sistemas tecnológicos, plataformas, aplicaciones web, aplicaciones
+móviles o similares y, en general, cualquier programa de cómputo, relacionado con la enajenación de
+bienes, prestación de servicios, otorgamiento de uso o goce temporal de bienes, así como la
+importación de bienes o servicios.
+
+Artículo 3. Lo dispuesto en la presente Ley no excluye la observancia y aplicación de las respectivas leyes
+especiales aplicables a las Entidades, Proveedores de Bienes o Servicios de que se trate; las leyes financieras y
+mercantiles; los usos y prácticas bancarias, bursátiles y mercantiles; la legislación civil federal, ni de las disposiciones
+de carácter general emitidas por las autoridades competentes de acuerdo con la normatividad aplicable en materia
+de Medios de Pago Digitales y Electrónicos.
+Artículo 4. Las Operaciones Económicas que se efectúen a través de Medios de Pago Digitales y Electrónicos
+por los Proveedores de Bienes o Servicios y las Personas Usuarias se regirán conforme a las disposiciones de esta
+Ley y demás disposiciones de carácter general en la materia.
+TÍTULO SEGUNDO
+DE LOS MECANISMOS DE CONFIANZA PARA LA CONTRATACIÓN DIGITAL DE SERVICIOS FINANCIEROS
+Capítulo I
+
+2 de 6
+
+LEY DE ECONOMÍA DIGITAL PARA PAGOS DIGITALES Y ELECTRÓNICOS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 04-11-2026
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+CURP Digital
+Artículo 5. En la contratación digital de servicios financieros, la CURP Digital será aceptada como un mecanismo
+de confianza, conforme a las disposiciones de carácter general que emitan las autoridades competentes de acuerdo
+con la normatividad aplicable en el ámbito de sus respectivas competencias. Lo anterior, sin perjuicio de cualquier
+otro mecanismo que para tal efecto habiliten las autoridades competentes.
+Artículo 6. Las Personas Usuarias, a su elección, podrán utilizar ante las Entidades, la CURP Digital o cualquier
+otro mecanismo de identificación oficial, para la contratación digital de servicios financieros.
+Capítulo II
+Expediente Digital Ciudadano
+Artículo 7. El Expediente Digital Ciudadano es un mecanismo de confianza para la consulta o uso de
+documentos o información de las Personas Usuarias, que aceptarán las Entidades en la contratación y acceso a
+servicios financieros, cuando lo soliciten las Personas Usuarias.
+Artículo 8. Las Personas Usuarias podrán solicitar a las Entidades, la consulta y portabilidad de los documentos
+e información que obran en el Expediente Digital Ciudadano para la contratación digital de servicios financieros.
+Artículo 9. Los documentos digitales que obren en el Expediente Digital Ciudadano producirán los mismos
+efectos jurídicos que las leyes otorgan a los documentos físicos emitidos conforme a la normatividad vigente.
+TÍTULO TERCERO
+DE LOS MEDIOS DE PAGO DIGITALES Y ELECTRÓNICOS
+Capítulo I
+Disposiciones preliminares
+Artículo 10. Las autoridades de los tres órdenes de gobierno realizarán las acciones necesarias para aceptar los
+Medios de Pago Digitales y Electrónicos para la atención de trámites y servicios.
+Artículo 11. Los Proveedores de Bienes o Servicios podrán implementar los Medios de Pago Digitales y
+Electrónicos, en términos de lo dispuesto por esta Ley y las disposiciones de carácter general que se emitan para tal
+efecto.
+Artículo 12. Para la implementación de los Medios de Pago Digitales y Electrónicos, los Proveedores de Bienes o
+Servicios y las autoridades de los tres órdenes de gobierno:
+I.
+
+Habilitarán la infraestructura necesaria para su recepción y promover su uso entre las Personas
+Usuarias;
+
+II.
+
+Informarán a las Personas Usuarias aquellos que hayan sido habilitados;
+
+III.
+
+Adoptarán las medidas necesarias para atender y, en su caso, subsanar las Contingencias que
+impidan su aceptación, de conformidad con las disposiciones de carácter general emitidas por las
+autoridades competentes de acuerdo con la normatividad aplicable, y
+
+3 de 6
+
+LEY DE ECONOMÍA DIGITAL PARA PAGOS DIGITALES Y ELECTRÓNICOS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 04-11-2026
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+IV.
+
+Implementarán cualquier otra acción que sea necesaria para promover su uso en los trámites,
+servicios y bienes que ofrezcan.
+Capítulo II
+
+De los Medios de Pago Digitales y Electrónicos en sectores estratégicos o actividades relevantes
+Artículo 13. La Secretaría de Hacienda y Crédito Público determinará los sectores estratégicos y actividades
+relevantes en los cuales la aceptación de Medios de Pago Digitales y Electrónicos podrá ser la única forma de pago.
+Artículo 14. Las autoridades que sean competentes conforme a la normatividad aplicable de cada sector
+estratégico o actividad relevante, emitirán las disposiciones administrativas de carácter general de acuerdo con la
+presente Ley para establecer las condiciones, requisitos, obligaciones y de operación para la recepción de los
+Medios de Pago Digitales y Electrónicos en dichos sectores o actividades, como única forma de pago.
+Asimismo, podrán establecer mecanismos y plazos específicos en cada uno de los sectores estratégicos o
+actividades relevantes para los procesos de transición gradual de pagos en efectivo a pagos realizados a través de
+Medios de Pago Digitales y Electrónicos.
+Artículo 15. Cuando se presente una Contingencia que imposibilite la recepción de Medios de Pago Digitales y
+Electrónicos, se permitirá el pago en efectivo o cheque.
+Artículo 16. Las Contingencias en sectores estratégicos o actividades relevantes no podrán justificar de manera
+permanente o recurrente, el incumplimiento de las obligaciones establecidas en la presente Ley.
+TÍTULO CUARTO
+DE LA ADOPCIÓN Y USO DE MEDIOS DE PAGO DIGITALES Y ELECTRÓNICOS
+Capítulo Único
+Artículo 17. Las autoridades, en el ámbito de su competencia, deberán coadyuvar al cumplimiento de la Política
+Nacional de Inclusión Financiera, a fin de promover el uso de Medios de Pago Digitales y Electrónicos.
+Para tal efecto, las autoridades competentes deberán emitir las disposiciones de carácter general necesarias, en
+el ámbito de sus atribuciones, que eliminen las barreras a la inclusión financiera para el otorgamiento de créditos y
+financiamientos, así como cualquier otra normativa que facilite el cumplimiento de los objetivos previstos en la
+presente Ley.
+Artículo 18. Para impulsar los Medios de Pago Digitales y Electrónicos, las autoridades competentes de acuerdo
+con la normatividad aplicable, realizarán las acciones necesarias para llevar a cabo planes, políticas y programas en
+materia de conectividad que coadyuven en su implementación y operación, y faciliten su acceso para la población.
+Artículo 19. Para el cumplimiento del objeto de la presente Ley, el Banco de México podrá:
+I.
+
+Regular los niveles de operación de cuentas de depósito de dinero a la vista, con la finalidad de
+generar alternativas que se adapten a las necesidades de la población, para incentivar el uso de
+Medios de Pago Digitales y Electrónicos;
+
+4 de 6
+
+LEY DE ECONOMÍA DIGITAL PARA PAGOS DIGITALES Y ELECTRÓNICOS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 04-11-2026
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+II.
+
+Implementar programas informáticos que faciliten el uso de las transferencias electrónicas de fondos
+para la realización de pagos;
+
+III.
+
+Emitir disposiciones que establezcan la homologación de la experiencia de uso de las aplicaciones de
+servicios financieros;
+
+IV.
+
+Emitir disposiciones de carácter general, en conjunto con la Comisión Nacional Bancaria y de Valores,
+cuya supervisión estará a cargo de dicha Comisión, para que las Entidades que presten el servicio de
+recepción de pagos a través de Terminales Punto de Venta para pagos con tarjeta, permitan la
+recepción de pagos por Medios de Pago Digitales y Electrónicos mediante códigos QR que cumplan
+las especificaciones técnicas y operativas que establezca el Banco de México mediante disposiciones
+de carácter general, y
+
+V.
+
+Establecer medidas o proveer infraestructuras para propiciar el acceso de la población a servicios
+financieros.
+
+Artículo 20. Para el cumplimiento del objeto de la presente Ley, las Entidades deberán:
+I.
+
+Realizar las acciones necesarias para promover la inclusión financiera de la población;
+
+II.
+
+Difundir los productos y servicios financieros que ofrecen para los diferentes sectores de la población;
+
+III.
+
+Promover entre la población los distintos niveles de operación de cuentas de depósito de dinero a la
+vista;
+
+IV.
+
+Facilitar el otorgamiento de créditos, financiamiento y préstamos a través de medios digitales, y
+
+V.
+
+Cumplir con las demás obligaciones que se establezcan en las disposiciones legales aplicables.
+
+Lo anterior, de conformidad con las disposiciones de carácter general que emitan las autoridades competentes,
+de acuerdo con la normatividad aplicable.
+TÍTULO QUINTO
+DE LOS TRÁMITES Y SERVICIOS PARA EL DESARROLLO ECONÓMICO
+Capítulo I
+De los Modelos para la Homologación de Trámites para el Desarrollo Económico
+Artículo 21. Las autoridades de los tres órdenes de gobierno, en el respectivo ámbito de su competencia,
+deberán adoptar e implementar los Modelos para la Homologación de Trámites relacionados con el desarrollo
+económico, que emita la Agencia en términos de la Ley Nacional para Eliminar Trámites Burocráticos, para contribuir
+al cumplimiento de la presente Ley.
+Capítulo II
+De las Soluciones Tecnológicas para el Desarrollo Económico
+Artículo 22. Las autoridades de los tres órdenes de gobierno, en el respectivo ámbito de su competencia,
+deberán adoptar e implementar las Soluciones Tecnológicas que desarrolle y habilite la Agencia, en términos de la
+Ley Nacional para Eliminar Trámites Burocráticos, para contribuir al cumplimiento de la presente Ley.
+
+5 de 6
+
+LEY DE ECONOMÍA DIGITAL PARA PAGOS DIGITALES Y ELECTRÓNICOS
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+
+Nueva Ley DOF 04-11-2026
+
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+Dichas Soluciones Tecnológicas serán, entre otras:
+I.
+
+CURP Digital;
+
+II.
+
+Expediente Digital Ciudadano para personas físicas y morales;
+
+III.
+
+Ventanilla Digital Nacional de Inversiones;
+
+IV.
+
+Plataforma de Establecimientos Mercantiles, y
+
+V.
+
+Las demás que determine la Agencia en el ámbito de su competencia, de conformidad con la Ley
+Nacional para Eliminar Trámites Burocráticos y la normatividad que de ella deriva.
+Transitorios
+
+Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la
+Federación.
+Segundo. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en la presente Ley.
+Tercero. Dentro del plazo de quince días hábiles siguientes a la entrada en vigor del presente Decreto, la
+Secretaría de Hacienda y Crédito Público deberá determinar los sectores estratégicos y actividades relevantes en los
+cuales la aceptación de Medios de Pago Digitales y Electrónicos podrá ser la única forma de pago, sin perjuicio de
+que, en ejercicio de sus atribuciones, posteriormente pueda ampliar dicha determinación.
+Cuarto. Dentro del plazo de quince días hábiles siguientes a la publicación de la determinación a que se refiere el
+artículo transitorio anterior, las autoridades competentes, conforme a la normatividad aplicable de cada sector
+estratégico o actividad relevante, deberán emitir las disposiciones administrativas de carácter general a que se refiere
+el artículo 14 de la presente Ley, para establecer las condiciones, requisitos, obligaciones y de operación, para la
+recepción de los Medios de Pago Digitales y Electrónicos en dichos sectores o actividades como única forma de
+pago; estableciendo mecanismos y plazos específicos en cada uno de los sectores estratégicos o actividades
+relevantes para los procesos de transición gradual de pago en efectivo al uso de Medios de Pago Digitales y
+Electrónicos.
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con
+cargo al presupuesto autorizado a los ejecutores de gasto correspondientes, por lo que no incrementará su
+presupuesto regularizable de gasto de operación y de servicios personales, y no se autorizarán recursos adicionales
+para el ejercicio fiscal ni subsecuentes.
+Ciudad de México, a 20 de octubre de 2026.- Dip. Raúl Bolaños-Cacho Cué, Presidente.- Sen. Higinio Martínez
+Miranda, Presidente.- Dip. Francisco Amadeo Espinosa Ramos, Secretario.- Sen. María Martina Kantún Can,
+Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos
+Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder
+Ejecutivo Federal, en la Ciudad de México, a 04 de noviembre de 2026.- Claudia Sheinbaum Pardo, Presidenta de
+los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.Rúbrica.
+
+6 de 6
+
