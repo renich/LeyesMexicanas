@@ -7,10 +7,7 @@ LEY ADUANERA
 Nueva Ley publicada en el Diario Oficial de la
 Federación el 15 de diciembre de 1995
 TEXTO VIGENTE
-Última reforma publicada DOF 19-11-2025
-
-Cantidades actualizadas por Reglas Generales de Comercio
-Exterior DOF 27-12-2025
+Última reforma publicada DOF 23-10-2026
 
 Al margen un sello con el Escudo Nacional, que dice:
 Estados Unidos Mexicanos.- Presidencia de la
@@ -23,9 +20,9 @@ dirigirme el siguiente
 DECRETO
 "EL CONGRESO DE LOS ESTADOS UNIDOS
 MEXICANOS, DECRETA:
-
 SE EXPIDEN NUEVAS LEYES FISCALES Y SE
 MODIFICAN OTRAS
+
 Artículo Primero. ..........
 Artículo Segundo. Se expide la siguiente:
 Ley Aduanera
@@ -51,7 +48,6 @@ sus
 propietarios,
 poseedores,
 tenedores,
-
 consignatarios, destinatarios, remitentes, apoderados,
 agentes
 aduanales,
@@ -59,6 +55,7 @@ agencias
 aduanales
 o
 cualesquiera personas que tengan intervención en la
+
 introducción, extracción, custodia, almacenaje,
 manejo y tenencia de las mercancías o en los hechos
 o actos mencionados en el párrafo anterior.
@@ -85,10 +82,10 @@ lll. Mercancías, los productos, artículos, efectos y
 cualesquier otros bienes, aun cuando las leyes
 los consideren inalienables o irreductibles a
 propiedad particular.
-
 IV. Residentes en territorio nacional, además de los
 señalados en el Código Fiscal de la Federación,
 las personas físicas o morales residentes en el
+
 extranjero, que tengan uno o varios
 establecimientos permanentes en el país,
 siempre que reúnan los requisitos que señala la
@@ -113,8 +110,8 @@ Fracción adicionada DOF 31-12-1998. Reformada DOF
 IX. Programa de devolución de aranceles, el
 régimen de importación definitiva de mercancías
 para su posterior exportación.
-
 Fracción adicionada DOF 31-12-2000
+
 X. Programas de diferimiento de aranceles, los
 regímenes de importación temporal para
 elaboración, transformación o reparación en
@@ -142,9 +139,9 @@ Fracción adicionada DOF 30-12-2002
 XIII. Documento electrónico, todo mensaje que
 contiene información escrita en datos generada,
 transmitida, comunicada, presentada, recibida,
-
 archivada o almacenada por medios electrónicos
 o cualquier otro medio tecnológico.
+
 Fracción adicionada DOF 09-12-2013. Reformada DOF
 25-06-2018
 XIV. Documento digital, todo mensaje que contiene
@@ -172,8 +169,8 @@ territorio nacional, en la que se contiene la
 información relativa a las mercancías, el tráfico y
 régimen aduanero al que se destinan, y los
 demás datos exigidos para cumplir con las
-
 formalidades de su entrada o salida del territorio
+
 nacional, así como la exigida conforme a las
 disposiciones aplicables.
 Fracción adicionada DOF 09-12-2013
@@ -200,9 +197,9 @@ XIX. Retiro voluntario, la renuncia definitiva e
 irrevocable de los derechos que concede la
 patente de agente aduanal.
 Fracción adicionada DOF 25-06-2018
-
 XX. Agencia aduanal, persona moral autorizada en
 términos del artículo 167-D de esta Ley para
+
 promover el despacho aduanero de las
 mercancías por cuenta ajena en los diferentes
 regímenes aduaneros previstos en esta Ley.
@@ -229,9 +226,9 @@ mismo son facultades exclusivas de las autoridades
 aduaneras.
 Los funcionarios y empleados públicos federales y
 locales, en la esfera de sus respectivas
-
 competencias, deberán auxiliar a las autoridades
 aduaneras en el desempeño de sus funciones cuando
+
 éstas lo soliciten y estarán obligados a denunciar los
 hechos de que tengan conocimiento sobre presuntas
 infracciones a esta Ley y hacer entrega de las
@@ -264,8 +261,8 @@ deberán implementarse de conformidad con los
 términos pactados con dichas autoridades y
 atendiendo a las disposiciones jurídicas aplicables. El
 Servicio de Administración Tributaria establecerá
-
 mediante reglas, los mecanismos, formas y medios a
+
 través de los cuales se facilitará y proveerá la
 instrumentación de dichos programas o proyectos.
 Artículo reformado DOF 30-12-2002, 09-12-2013
@@ -5433,12 +5430,12 @@ donde
 PCO
 = Porcentaje de contribuciones
 compensatorias omitidas.
-CO
 
 y
 
 cuotas
 
+CO
 = Monto total de las contribuciones y cuotas
 compensatorias omitidas detectadas con motivo
 del reconocimiento aduanero, verificación de
@@ -5468,8 +5465,8 @@ III. Si el porcentaje obtenido del cálculo de la
 fracción II es mayor que el margen de error
 obtenido conforme a la fracción I de este artículo,
 el porcentaje excedente se aplicará al total de
-contribuciones y cuotas compensatorias pagadas
 
+contribuciones y cuotas compensatorias pagadas
 con motivo de la importación de mercancías
 efectuadas en el ejercicio inmediato anterior que
 no fueron objeto del reconocimiento aduanero,
@@ -5487,7 +5484,13 @@ se refiere el artículo 98 de esta Ley. Es decir si
 PCO > ME, entonces el monto total por concepto
 de contribuciones y cuotas compensatorias a
 pagar por el importador será igual a.
-¡Error! Marcador no definido.
+ PCO  ME 
+
+  CDV  CE 
+100
+
+
+
 El pago que se realice conforme a esta fracción
 se considerará efectuado por concepto de los
 impuestos y derechos al comercio exterior, al
@@ -5497,8 +5500,8 @@ por cuotas compensatorias, en la misma
 proporción que representen las citadas
 contribuciones y cuotas compensatorias respecto
 al monto total de las cantidades que haya
-pagado el importador de que se trate por cada
 
+pagado el importador de que se trate por cada
 una de las mismas, en el ejercicio por el que se
 efectúe el cálculo a que se refiere este artículo.
 El monto total de contribuciones y cuotas
@@ -5556,8 +5559,8 @@ Párrafo reformado DOF 09-04-2012
 Las autoridades aduaneras podrán suspender hasta
 por seis meses la inscripción en el registro a que se
 refiere este artículo, cuando con motivo del ejercicio
-de sus facultades de comprobación, detecten
 
+de sus facultades de comprobación, detecten
 cualquier maniobra tendiente a eludir el cumplimiento
 de las obligaciones fiscales.
 En ningún caso procederá la renovación de la
@@ -8096,6 +8099,13 @@ elementos que haya tomado en consideración
 para determinar dicho valor, o lo hubiera
 determinado con base en documentación o
 información falsa o inexacta.
+Cuando el valor declarado en el pedimento sea
+inferior al valor de transacción de mercancías
+idénticas o similares determinado conforme a los
+artículos 72 y 73 de esta Ley, las autoridades
+aduaneras iniciarán de oficio el ejercicio de las
+facultades de comprobación.
+Párrafo adicionado DOF 23-10-2026
 Fracción reformada DOF 30-12-1996
 XIII. Establecer precios estimados para mercancías
 que se importen y retenerlas hasta que se
@@ -8111,6 +8121,7 @@ Para ejercer las facultades a que se refiere el
 párrafo anterior, podrá solicitar el dictamen que
 requiera al agente aduanal, a la agencia
 aduanal, a la autoridad especializada en la
+
 materia según la mercancía de que se trate o a
 cualquier otro perito.
 Párrafo adicionado DOF 19-11-2025
@@ -8118,14 +8129,12 @@ Fracción reformada DOF 09-12-2013, 25-06-2018, 01-072020
 XV. Determinar
 las
 contribuciones
+y
 aprovechamientos
 omitidos
 por
-contribuyentes o responsables solidarios.
-
-y
 los
-
+contribuyentes o responsables solidarios.
 Fracción reformada DOF 31-12-1998
 XVI. Comprobar la comisión de infracciones e
 imponer las sanciones que correspondan.
@@ -8146,6 +8155,7 @@ transferidas a la autoridad competente para
 administrar y dar destino a dichas mercancías
 de conformidad con la Ley Federal para la
 Administración y Enajenación de Bienes del
+
 Sector
 Público,
 la
@@ -8156,7 +8166,6 @@ proceder a la asignación, donación o destrucción
 de las mismas en términos de las disposiciones
 aplicables.
 Fracción reformada DOF 31-12-1998, 09-12-2013, 19-112025
-
 XIX. Dictar, en caso fortuito o fuerza mayor,
 naufragio, o cualquiera otra causa que impida el
 cumplimiento de alguna de las prevenciones de
@@ -8177,10 +8186,13 @@ refiere el artículo 159 bis de esta Ley.
 Fracción reformada DOF 25-06-2018, 19-11-2025
 XXII. Otorgar,
 inhabilitar
+autorizaciones de las
+
 y
 cancelar
 las
-autorizaciones de las agencias aduanales,
+agencias aduanales,
+
 previa determinación del Consejo a que se
 refiere el artículo 159 bis de esta Ley.
 Fracción derogada DOF 09-12-2013. Adicionada DOF 2506-2018. Reformada DOF 19-11-2025
@@ -8188,7 +8200,6 @@ XXIII.
 Expedir, previa opinión de la Secretaría de
 Economía, reglas para la aplicación de las
 disposiciones en materia aduanera de los
-
 tratados o acuerdos internacionales de los que
 México sea parte.
 Fracción reformada DOF 09-04-2012
@@ -8210,6 +8221,7 @@ por Sector Industrial. Asimismo, podrá dar a
 conocer a los contribuyentes la información de
 los pedimentos de las operaciones que hayan
 efectuado.
+
 Fracción reformada DOF 30-12-2002
 XXVII. Establecer, para efectos de la información
 que deben manifestar los importadores o
@@ -8217,7 +8229,6 @@ exportadores en el pedimento que corresponda,
 unidades de medida diferentes a las señaladas
 en la Ley de los Impuestos Generales de
 Importación y de Exportación.
-
 Fracción reformada DOF 19-11-2025
 XXVIII. Suspender la libre circulación de las
 mercancías de procedencia extranjera dentro del
@@ -8239,6 +8250,7 @@ XXX. Ordenar y practicar el embargo precautorio en
 los términos del Código Fiscal de la Federación,
 de las cantidades en efectivo, en cheques
 nacionales o extranjeros, órdenes de pago o
+
 cualquier otro documento por cobrar o una
 combinación de ellos, superiores al equivalente
 en la moneda o monedas de que se trate, a diez
@@ -8247,7 +8259,6 @@ cuando se omita declararlas a las autoridades
 aduaneras, al entrar o salir del territorio nacional,
 conforme a lo dispuesto en el artículo 9o. de
 esta Ley.
-
 Fracción reformada DOF 30-12-2002
 XXXI. (Se deroga).
 Fracción adicionada DOF 30-12-2002. Derogada DOF 0912-2013
@@ -8267,6 +8278,7 @@ conjunto conforme a la legislación nacional, los
 tratados internacionales y los acuerdos
 interinstitucionales aplicables, incluso para el
 ejercicio de facultades de comprobación en
+
 aduanas yuxtapuestas y puntos fronterizos
 unificados.
 Fracción adicionada DOF 09-12-2013. Reformada DOF
@@ -8274,7 +8286,6 @@ Fracción adicionada DOF 09-12-2013. Reformada DOF
 XXXIV. Autorizar y cancelar la autorización a los
 dictaminadores aduaneros.
 Fracción adicionada DOF 09-12-2013
-
 XXXV. Contar con sistemas, dispositivos, equipos
 tecnológicos o cualquier otro medio electrónico o
 servicio necesario para el ejercicio de sus
@@ -8296,6 +8307,7 @@ facultad la autoridad aduanera actuará como
 auxiliar de las autoridades competentes en
 materia de los derechos de autor y de propiedad
 industrial, en los términos que se establezca en
+
 los convenios de colaboración y demás
 disposiciones jurídicas aplicables.
 Fracción adicionada DOF 25-06-2018
@@ -8304,7 +8316,6 @@ regímenes aduaneros o grupos que conforman
 el ámbito de importadores y exportadores por
 sector, para coadyuvar en la identificación de
 conductas ilícitas relacionadas con la entrada y
-
 salida de mercancías del territorio nacional, y
 proponer estrategias e instrumentar mecanismos
 para prevenir y combatir dichas conductas, lo
@@ -8325,6 +8336,7 @@ que se cuente.
 Párrafo adicionado DOF 19-11-2025
 ARTICULO 144-A. Las autoridades aduaneras
 podrán revocar las concesiones o cancelar las
+
 autorizaciones otorgadas en los términos de esta Ley,
 por cualquiera de las siguientes causas:
 Párrafo reformado DOF 30-12-2002, 19-11-2025
@@ -8335,7 +8347,6 @@ aprovechamientos
 correspondientes, no esté al corriente en el
 cumplimiento de sus obligaciones fiscales o no
 otorgue la garantía a que esté obligado.
-
 Fracción reformada DOF 25-06-2018
 II. Cuando el titular no mantenga los registros,
 inventarios o medios de control a que esté
@@ -8355,6 +8366,7 @@ concesión o autorización otorgada o las
 obligaciones inherentes a la misma, durante su
 vigencia.
 Fracción adicionada DOF 25-06-2018
+
 VI. Las demás que establezca esta Ley y las que
 se señalen en la concesión o autorización.
 Fracción recorrida DOF 25-06-2018
@@ -8362,7 +8374,6 @@ VII. Cuando los concesionarios o autorizados, sus
 socios o accionistas, según corresponda, cuenten
 con créditos fiscales determinados, firmes, que no
 se encuentren pagados o garantizados en alguna
-
 de las formas permitidas por el Código Fiscal de la
 Federación.
 Fracción adicionada DOF 19-11-2025
@@ -8382,6 +8393,7 @@ IX. Cuando los concesionarios o autorizados, sus
 socios o accionistas, según corresponda, tengan
 suspendido o cancelado su certificado de sello
 digital vigente o no cuenten con los mismos, o se
+
 ubiquen en alguno de los supuestos señalados en
 los artículos 17-H o 17-H Bis del Código Fiscal de
 la Federación.
@@ -8389,7 +8401,6 @@ Fracción adicionada DOF 19-11-2025
 X.
 Cuando los concesionarios o autorizados, sus
 socios o accionistas, según corresponda, se
-
 encuentren como no localizados en su domicilio
 fiscal o el estatus de este sea inexistente.
 Fracción adicionada DOF 19-11-2025
@@ -8413,6 +8424,7 @@ procedimiento. Transcurrido dicho plazo sin que se
 notifique la resolución, el interesado podrá considerar
 que la autoridad aduanera puso fin a dicho
 procedimiento resolviendo en el sentido de revocar la
+
 concesión o cancelar la autorización y podrá
 interponer los medios de defensa en cualquier tiempo
 posterior a dicho plazo o esperar a que se dicte la
@@ -8423,7 +8435,6 @@ aduanera,
 podrá
 levantar
 provisionalmente la suspensión a que se refiere el
-
 párrafo anterior, cuando la suspensión afecte la
 operación aduanera o de comercio exterior del país,
 hasta en tanto se adopten las medidas necesarias
@@ -8447,13 +8458,13 @@ régimen en el plazo señalado, las mercancías
 causarán abandono a favor del Fisco Federal en el
 primer caso y en el segundo se entenderá que se
 encuentran ilegalmente en el país.
+
 En los casos en que se cancele la autorización a
 que se refiere el artículo 121 de esta Ley, la persona
 autorizada deberá importar definitivamente o retornar
 al extranjero las mercancías de procedencia
 extranjera y exportar definitivamente o reincorporar al
 mercado nacional las de origen nacional.
-
 Artículo adicionado DOF 31-12-1998
 ARTICULO 144-B. La Secretaría podrá cancelar la
 inscripción en el registro de empresas transportistas a
@@ -8472,6 +8483,7 @@ documentación de comercio exterior.
 III. Cuando no cumpla con los requerimientos de
 documentación relativa al comercio exterior
 formulados por la autoridad aduanera.
+
 IV. Cuando
 presente
 inconsistencias en el
@@ -8487,7 +8499,6 @@ V.
 Cuando la empresa transportista inscrita no
 sea localizable en los domicilios señalados para el
 efecto.
-
 VI. Cuando no cubra los créditos fiscales que
 hubieran quedado firmes cuando para su cobro se
 hubiera seguido el procedimiento administrativo de
@@ -8508,6 +8519,7 @@ que para tal efecto estén obligados a conservar en
 términos de lo establecido en esta Ley y el Código
 Fiscal de la Federación.
 Artículo adicionado DOF 09-12-2013
+
 ARTICULO 145. El Servicio de Administración
 Tributaria y la Agencia Nacional de Aduanas de
 México contarán con un Consejo Asesor,
@@ -8516,7 +8528,6 @@ la determinación de las políticas, procedimientos y
 criterios en materia de destino de las mercancías
 provenientes de comercio exterior que pasen a
 propiedad del Fisco Federal y de las que se pueda
-
 disponer, que no sean transferibles a la autoridad
 competente para administrar y dar destino a dichas
 mercancías de conformidad con la Ley Federal para
@@ -8538,6 +8549,7 @@ idénticas o similares a aquéllas. La integración,
 operación y funcionamiento del Consejo Asesor será
 conforme a lo establecido en el Reglamento.
 Párrafo reformado DOF 19-11-2025
+
 La autoridad aduanera al señalar el destino a las
 mercancías de comercio exterior no transferibles,
 observará lo siguiente:
@@ -8548,7 +8560,6 @@ nacional, salud pública y medio ambiente.
 
 II. Para proceder a la asignación o donación de las
 mercancías, deberá contar con un dictamen
-
 expedido por autoridad competente, que
 establezca que éstas son aptas para uso o
 consumo humano o animal, uso medicinal,
@@ -8570,6 +8581,7 @@ Legislativo y Judicial. En este caso no se requerirá la
 opinión previa del Consejo. El Servicio de
 Administración Tributaria y la Agencia Nacional de
 Aduanas de México, respectivamente, deberán enviar
+
 mensualmente un reporte de las asignaciones al
 Consejo y a la Cámara de Diputados del Honorable
 Congreso de la Unión y en periodo de receso a la
@@ -8579,7 +8591,6 @@ para recibir donativos deducibles en los términos de la
 Ley del Impuesto sobre la Renta, previa opinión de los
 Consejos establecidos en este artículo.
 Párrafo reformado DOF 25-06-2018, 19-11-2025
-
 Para efectos del párrafo anterior, dichas personas
 morales con fines no lucrativos autorizadas que
 reciban en donación mercancías, podrán cobrar
@@ -8601,6 +8612,7 @@ Público, quien, en su caso, podrá enajenar estas
 mercancías a la propia empresa objeto del embargo,
 siempre que se encuentren comprendidas dentro de
 su programa autorizado.
+
 Párrafo reformado DOF 25-06-2018, 19-11-2025
 Artículo reformado DOF 30-12-1996, 30-12-2002, 0904-2012, 09-12-2013
 ARTICULO 146. La tenencia, transporte o manejo
@@ -8608,7 +8620,6 @@ de mercancías de procedencia extranjera, a
 excepción de las de uso personal, deberá ampararse
 en todo tiempo, con cualquiera de los siguientes
 documentos:
-
 I.
 
 Documentación aduanera que acredite su legal
@@ -8631,6 +8642,7 @@ federal o institución autorizada por ésta, o la
 documentación que acredite la entrega de las
 mercancías por parte de la Secretaría.
 Fracción reformada DOF 30-12-1996, 31-12-1998
+
 III. Comprobante fiscal digital por Internet que
 deberá reunir los requisitos que señale el Código
 Fiscal de la Federación.
@@ -8638,7 +8650,6 @@ Tratándose de mercancías en transporte el
 comprobante fiscal digital por Internet deberá
 contar con complemento carta porte emitido
 conforme a las disposiciones del Código Fiscal
-
 de la Federación, que acredite el traslado legal
 de las mercancías.
 Fracción reformada DOF 09-12-2013, 25-06-2018, 19-112025
@@ -8661,6 +8672,7 @@ sean conducidas hacia los litorales o fronteras,
 con los pedidos, comprobante fiscal digital,
 contratos y otros documentos comerciales que
 acrediten que serán destinadas a dichas zonas,
+
 o
 con
 los
@@ -8669,11 +8681,9 @@ de
 exportación
 correspondientes.
 Fracción reformada DOF 25-06-2018
-
 II. Las confundibles con las extranjeras que sean
 transportadas hacia el interior del país, con las
 marcas registradas en México que ostenten o
-
 con
 el
 comprobante
@@ -8700,13 +8710,13 @@ autoridad administrativa o judicial competente en
 materia de propiedad intelectual, las autoridades
 aduaneras procederán a retener dichas mercancías y
 a ponerlas a disposición de la autoridad competente
+
 en el almacén que la autoridad señale para tales
 efectos.
 Al momento de practicar la retención a que se refiere
 el párrafo anterior, las autoridades aduaneras
 levantarán acta circunstanciada en la que se deberá
 hacer constar lo siguiente:
-
 I.
 
 La identificación de la autoridad que practica la
@@ -8735,6 +8745,7 @@ designados no aceptan fungir como tales, la autoridad
 que practique la diligencia los designará.
 Se entregará copia del acta a la persona con quien
 se hubiera entendido la diligencia y copia de la
+
 resolución de suspensión de libre circulación de las
 mercancías emitida por la autoridad administrativa o
 judicial competente, con el objeto de que continúe el
@@ -8742,7 +8753,6 @@ procedimiento administrativo o judicial conforme a la
 legislación de la materia.
 ARTICULO 149. Lo dispuesto en el artículo 148 de
 esta Ley solamente será aplicable cuando la
-
 resolución en la que la autoridad administrativa o
 judicial competente ordene la suspensión de la libre
 circulación de las mercancías de procedencia
@@ -8764,6 +8774,7 @@ ubicado dentro de la circunscripción territorial
 de la aduana que corresponda.
 VI. La designación o aceptación expresa del cargo
 de depositario.
+
 ARTICULO 150. Las autoridades aduaneras
 levantarán el acta de inicio del procedimiento
 administrativo en materia aduanera, cuando con
@@ -8773,7 +8784,6 @@ facultades
 de
 comprobación,
 embarguen
-
 precautoriamente mercancías en los términos
 previstos por esta Ley.
 Párrafo reformado DOF 09-12-2013
@@ -8802,6 +8812,7 @@ dos testigos y señale domicilio para oír y recibir
 notificaciones dentro de la circunscripción territorial de
 la autoridad competente para tramitar y resolver el
 procedimiento correspondiente, salvo que se trate de
+
 pasajeros, en cuyo caso, podrán señalar un domicilio
 fuera de dicha circunscripción.
 Se apercibirá al interesado de que si los testigos no
@@ -8809,7 +8820,6 @@ son designados o los designados no aceptan fungir
 como tales, quien practique la diligencia los
 designará; que de no señalar el domicilio, de señalar
 uno que no le corresponda a él o a su representante,
-
 de desocupar el domicilio señalado sin aviso a la
 autoridad competente o señalando un nuevo domicilio
 que no le corresponda a él o a su representante, de
@@ -8831,6 +8841,7 @@ motivo de una inexacta clasificación arancelaria podrá
 ofrecerse, dentro del plazo señalado, la celebración
 de una junta técnica consultiva para definir si es
 correcta o no la clasificación arancelaria manifestada
+
 en el pedimento; dicha junta deberá realizarse dentro
 de los tres días hábiles siguientes a su ofrecimiento.
 En caso de ser correcta la clasificación arancelaria
@@ -8838,7 +8849,6 @@ manifestada en el pedimento la autoridad aduanera
 que inició el procedimiento acordará el levantamiento
 del embargo y la entrega de las mercancías, dejando
 sin efectos el mismo, en caso contrario, el
-
 procedimiento continuará su curso legal. Lo dispuesto
 en este párrafo no constituye instancia.
 La autoridad que levante el acta respectiva deberá
@@ -8863,13 +8873,13 @@ Fracción reformada DOF 31-12-1998
 II. Cuando se trate de mercancías de importación o
 exportación prohibida o sujeta a las regulaciones
 y restricciones no arancelarias a que se refiere
+
 la fracción II, del artículo 176 de esta Ley y no se
 acredite su cumplimiento o, en su caso, se omita
 el pago de cuotas compensatorias. Tratándose
 de las normas oficiales mexicanas de
 información comercial, también procederá el
 embargo cuando se detecten incumplimientos.
-
 Fracción reformada DOF 30-12-1996, 01-01-2002, 3012-2002, 25-06-2018, 19-11-2025
 III.- Cuando no se acredite con la documentación
 aduanera correspondiente, que las mercancías
@@ -8892,12 +8902,12 @@ IV. Cuando con motivo del reconocimiento
 aduanero, o de la verificación de mercancías en
 transporte, se detecte mercancía no declarada o
 excedente en más de un 10% del valor total
+
 declarado en la documentación aduanera que
 ampare las mercancías.
 Fracción reformada DOF 30-12-1996, 31-12-1998, 09-122013
 V. Cuando se introduzcan dentro del recinto fiscal
 vehículos de carga que transporten mercancías
-
 de importación sin el pedimento que
 corresponda para realizar el despacho de las
 mismas.
@@ -8915,19 +8925,17 @@ extranjero.
 Fracción adicionada DOF 31-12-1998. Reformada DOF
 01-01-2002, 09-12-2013, 25-06-2018
 VII. Cuando el valor declarado en el pedimento sea
-inferior en un 50% o más al valor de transacción
-de mercancías idénticas o similares determinado
-conforme a los artículos 72 y 73 de esta Ley,
-salvo que se haya otorgado la garantía a que se
-refiere el artículo 86-A de esta Ley.
+inferior al valor de transacción de mercancías
+idénticas o similares determinado conforme a los
+artículos 72 y 73 de esta Ley.
 Fracción adicionada DOF 31-12-1998. Reformada DOF
-25-06-2018
+25-06-2018, 23-10-2026
+
 VIII. Cuando se trate de mercancías importadas
 temporalmente y éstas no se dirijan a los
 domicilios registrados, o a los declarados en los
 pedimentos, o bien, no se localicen en dichos
 domicilios.
-
 Fracción adicionada DOF 19-11-2025
 En los casos a que se refieren las fracciones VI y VII
 se requerirá una orden emitida por la autoridad
@@ -8950,10 +8958,10 @@ procederá al embargo de la totalidad del excedente,
 permitiéndose inmediatamente la salida del medio de
 transporte y del resto de la mercancía correctamente
 declarada.
+
 Párrafo adicionado DOF 30-12-1996. Reformado DOF 0904-2012
 Reforma DOF 30-12-2002: Derogó del artículo el entonces
 último párrafo
-
 ARTICULO 152. En los casos en que con motivo del
 reconocimiento aduanero, de la verificación de
 mercancías en transporte, de la revisión de los
@@ -8979,12 +8987,12 @@ Una vez obtenido el dictamen correspondiente,
 resultado del análisis practicado a las muestras de
 mercancías de difícil identificación, se notificarán al
 interesado mediante escrito o acta circunstanciada,
+
 los hechos u omisiones advertidos, dentro del plazo
 de seis meses contados a partir del acta de toma de
 muestras correspondientes, y se continuará el
 procedimiento conforme a lo establecido en el
 presente artículo.
-
 Párrafo adicionado DOF 27-01-2012
 Cuando no se requiera la toma de muestras para su
 identificación, la autoridad aduanera dará a conocer
@@ -9013,11 +9021,11 @@ los Artículos 123 y 130 del Código Fiscal de la
 Federación.
 Dentro del plazo de diez días siguientes a aquél en
 el que se recibieron las pruebas aportadas por el
+
 contribuyente, si la autoridad identifica elementos
 adicionales que deban ser verificados, podrá
 efectuarle un requerimiento de información y
 documentación adicional, así como a terceros, el cual
-
 deberá ser atendido dentro del plazo de diez días
 siguientes a aquél en el que se notificó.
 Párrafo adicionado DOF 19-11-2025
@@ -9044,9 +9052,9 @@ llevado a cabo las diligencias necesarias para el
 desahogo de las pruebas ofrecidas por los
 promoventes.
 Párrafo reformado DOF 19-11-2025
+
 En los demás casos la determinación del crédito
 fiscal se hará por la autoridad aduanera.
-
 En el escrito o acta de inicio del procedimiento se
 deberá requerir al interesado para que señale
 domicilio para oír y recibir notificaciones, apercibido
@@ -9076,11 +9084,11 @@ procedimiento establecido en este artículo y en el
 artículo 150 de esta Ley, quedando a salvo sus
 derechos para interponer los medios de defensa. Al
 efecto, la autoridad aduanera emitirá y notificará el
+
 acto administrativo en el que se funde y motive la
 sanción aplicable.
 Párrafo adicionado DOF 25-06-2018
 Artículo reformado DOF 30-12-1996, 31-12-1998, 02-022006
-
 ARTICULO 153. El interesado deberá ofrecer por
 escrito, las pruebas y alegatos que a su derecho
 convenga, ante la autoridad aduanera que hubiera
@@ -9099,47 +9107,49 @@ artículos 36 y 36-A de esta Ley para su despacho, se
 dará pleno valor probatorio a la información
 transmitida.
 Párrafo reformado DOF 09-12-2013
-Cuando
-el
-interesado
-presente
-pruebas
+Cuando la persona interesada presente pruebas
 documentales que acrediten la legal estancia o
 tenencia de las mercancías en el país; desvirtúen los
 supuestos por los cuales fueron objeto de embargo
 precautorio o acrediten que el valor declarado fue
 determinado de conformidad con el Título III, Capítulo
-III, Sección Primera de esta Ley en los casos a que se
-refiere el artículo 151, fracción VII de esta Ley, la
-autoridad que levantó el acta a que se refiere el
-artículo 150 de esta Ley, dictará de inmediato la
-resolución, sin que en estos casos se impongan
-sanciones; de existir mercancías embargadas se
+III, Sección Primera, de esta Ley en los casos a que
 
-ordenará su devolución. Cuando el interesado no
-presente las pruebas o éstas no desvirtúen los
-supuestos
-por
-los
-cuales
-se
-embargó
-precautoriamente la mercancía, las autoridades
-aduaneras deberán de dictar resolución definitiva, en
-un plazo que no excederá de cuatro meses, contados
-a partir del día siguiente a aquél en que se encuentre
-debidamente integrado el expediente. Se entiende
-que el expediente se encuentra debidamente
-integrado cuando hayan vencido los plazos para la
-presentación de todos los escritos de pruebas y
-alegatos o, en caso de resultar procedente, la
-autoridad encargada de emitir la resolución haya
-llevado a cabo las diligencias necesarias para el
-desahogo de las pruebas ofrecidas por los
-promoventes. De no emitirse la resolución definitiva
-en el término de referencia, quedarán sin efectos las
-actuaciones de la autoridad que dieron inicio al
-procedimiento.
+se refiere el artículo 151, fracción VII, de este
+ordenamiento, la autoridad que levantó el acta a que
+se refiere el artículo 150 de esta Ley, dictará de
+inmediato la resolución, sin que en estos casos se
+impongan
+sanciones;
+de
+existir
+mercancías
+embargadas se ordenará su devolución; liberará la
+garantía, o bien, llevará a cabo la devolución del
+depósito en efectivo, presentados en términos del
+artículo 154, párrafo segundo, de esta Ley, conforme
+a las disposiciones que para tal efecto emitan las
+autoridades aduaneras competentes. Cuando la
+persona interesada no presente las pruebas o éstas
+no desvirtúen los supuestos por los cuales se
+embargó precautoriamente la mercancía, las
+autoridades aduaneras deberán de dictar resolución
+definitiva, en un plazo que no excederá de cuatro
+meses, contados a partir del día siguiente a aquél en
+que se encuentre debidamente integrado el
+expediente. Se entiende que el expediente se
+encuentra debidamente integrado cuando hayan
+vencido los plazos para la presentación de todos los
+escritos de pruebas y alegatos o, en caso de resultar
+procedente, la autoridad encargada de emitir la
+resolución haya llevado a cabo las diligencias
+necesarias para el desahogo de las pruebas ofrecidas
+por las personas promoventes. De no emitirse la
+resolución definitiva en el término de referencia,
+quedarán sin efectos las actuaciones de la autoridad
+que dieron inicio al procedimiento.
+Párrafo reformado DOF 23-10-2026
+
 El plazo a que se refiere el párrafo anterior, se
 suspenderá cuando se actualice alguno de los
 supuestos establecidos en el artículo 46-A, segundo
@@ -9151,7 +9161,6 @@ Párrafo adicionado DOF 19-11-2025
 Tratándose de mercancías excedentes o no
 declaradas embargadas a maquiladoras y empresas
 con programas de exportación autorizados por la
-
 Secretaría de Economía, cuando dentro de los diez
 días siguientes a la notificación del acta a que se
 refiere este artículo, el interesado presente escrito en
@@ -9171,6 +9180,7 @@ Para efectos de la fracción IV del artículo 151 de la
 Ley Aduanera, cuando con motivo del reconocimiento
 aduanero, o de la verificación de mercancía en
 transporte, se detecte mercancía no declarada o
+
 excedente en más de un 10% del valor total declarado
 en la documentación aduanera que ampare las
 mercancías, siempre que no se actualice alguno de
@@ -9183,7 +9193,6 @@ consentimiento con el contenido del acta, la autoridad
 aduanera que hubiera iniciado el procedimiento podrá
 emitir una resolución provisional en la que determine
 las contribuciones y cuotas compensatorias omitidas y
-
 las sanciones que procedan. Cuando el interesado en
 un plazo de cinco días a partir de que surta efectos la
 notificación de la resolución provisional acredite el
@@ -9202,6 +9211,7 @@ parciales y final, cuando el acto de comprobación se
 concluya con posterioridad al día de su inicio,
 sujetándose en lo aplicable a lo dispuesto en el
 Código Fiscal de la Federación, sin que al respecto
+
 los actos de comprobación se puedan extender por un
 plazo de cinco días, contado a partir de su inicio,
 salvo causas debidamente justificadas. De no
@@ -9213,22 +9223,46 @@ mercancías podrá ser sustituido por las garantías que
 establece el Código Fiscal de la Federación, excepto
 en los casos señalados en el artículo 183-A de esta
 Ley.
-
 En los casos a que se refiere el artículo 151, fracción
-VII de esta Ley, el embargo precautorio sólo podrá ser
-sustituido mediante depósito efectuado en las cuentas
-aduaneras de garantía en los términos del artículo 86A, fracción I de esta Ley. Cuando las mercancías
-embargadas no se encuentren sujetas a precios
-estimados por la Secretaría de Hacienda y Crédito
-Público, el embargo precautorio podrá ser sustituido
-por depósito efectuado en las cuentas aduaneras de
-garantía, por un monto igual a las contribuciones y
+VII de esta Ley, cuando las mercancías embargadas
+no se encuentren sujetas a precios estimados por la
+Secretaría se estará a lo siguiente:
+I. Cuando el valor declarado en el pedimento sea
+inferior en menos de un 20%, al valor de
+transacción de mercancías idénticas o similares
+determinado conforme a los artículos 72 y 73 de
+esta Ley, las personas interesadas podrán,
+dentro de los diez días hábiles siguientes a la
+notificación del inicio del procedimiento
+administrativo, solicitar la sustitución del embargo
+precautorio mediante la presentación de un
+depósito en efectivo o efectuado en las cuentas
+aduaneras de garantía, conforme a las
+disposiciones que para tal efecto emitan las
+autoridades aduaneras competentes, por un
+monto equivalente a las contribuciones y cuotas
+
+compensatorias que se causarían por la
+diferencia entre el valor declarado y el valor de
+transacción de las mercancías idénticas o
+similares referido en los citados artículos, o
+II. Cuando el valor declarado en el pedimento sea
+inferior en un 20% o más al valor de transacción
+de mercancías idénticas o similares determinado
+conforme a los artículos 72 y 73 de esta Ley, las
+personas interesadas podrán, dentro de los diez
+días hábiles siguientes a la notificación del inicio
+del procedimiento administrativo, solicitar la
+sustitución del embargo precautorio mediante la
+presentación de un depósito en efectivo,
+conforme a las disposiciones que para tal efecto
+emitan las autoridades aduaneras competentes,
+por un monto equivalente a las contribuciones y
 cuotas compensatorias que se causarían por la
 diferencia entre el valor declarado y el valor de
-transacción de las mercancías idénticas o similares
-determinado conforme a los artículos 72 y 73 de esta
-Ley, que se haya considerado para practicar el
-embargo precautorio.
+transacción de las mercancías idénticas o
+similares referido en los citados artículos.
+Párrafo con fracciones reformado DOF 23-10-2026
 En los casos en que el infractor cumpla con las
 regulaciones y restricciones no arancelarias en un
 plazo de treinta días a partir de la notificación del acta
@@ -9238,11 +9272,11 @@ embargo precautorio de las mercancías embargadas,
 conforme a lo señalado en el primer párrafo de este
 artículo.
 Artículo reformado DOF 31-12-1998
+
 ARTICULO 155. Si durante la práctica de una visita
 domiciliaria se encuentra mercancía extranjera cuya
 legal estancia en el país no se acredite, los
 visitadores procederán a efectuar el embargo
-
 precautorio en los casos previstos en el artículo 151 y
 cumpliendo con las formalidades a que se refiere el
 artículo 150 de esta Ley. El acta de embargo, en
@@ -9270,12 +9304,12 @@ presentación de todos los escritos de pruebas y
 alegatos o, en caso de resultar procedentes, la
 autoridad encargada de emitir la resolución haya
 llevado a cabo las diligencias necesarias para el
+
 desahogo de las pruebas ofrecidas por los
 promoventes. De no emitirse la resolución definitiva
 en el término de referencia, quedarán sin efectos las
 actuaciones de la autoridad que dieron inicio al
 procedimiento.
-
 Párrafo reformado DOF 31-12-1998, 09-12-2013
 El plazo a que se refiere el párrafo anterior, se
 suspenderá cuando se actualice alguno de los
@@ -9299,12 +9333,12 @@ contaminantes, radiactivas o radioactivas, que sean
 objeto de embargo precautorio y que, dentro de los
 diez días siguientes a su embargo, no se hubiere
 comprobado su legal estancia o tenencia en el país,
+
 las autoridades aduaneras podrán proceder a su
 destrucción, donación o asignación. Tratándose de
 vehículos automotores, aeronaves y embarcaciones
 serán transferidos para su venta a la autoridad
 competente para su administración y destino
-
 conforme a lo previsto en la Ley Federal para la
 Administración y Enajenación de Bienes del Sector
 Público, una vez emitida la resolución que ponga fin al
@@ -9330,11 +9364,11 @@ podrá optar por solicitar la entrega de un bien
 sustituto con valor similar, o el valor del bien,
 actualizado conforme lo establece el párrafo
 siguiente. No procederá la entrega de un bien
+
 sustituto tratándose de mercancías perecederas, de
 fácil descomposición o deterioro, explosivas,
 inflamables, corrosivas, contaminantes, radiactivas o
 radioactivas, de animales vivos, o de las mercancías
-
 embargadas en términos del artículo 151, fracciones
 VI y VII de esta Ley.
 Párrafo reformado DOF 25-06-2018
@@ -9361,11 +9395,11 @@ que se dicte la resolución correspondiente.
 Párrafo reformado DOF 25-06-2018, 19-11-2025
 Tratándose de mercancías enajenadas por la
 autoridad competente para administrar y dar destino a
+
 dichas mercancías de conformidad con la Ley Federal
 para la Administración y Enajenación de Bienes del
 Sector Público, la resolución definitiva que ordene la
 devolución de las mismas, considerará el valor
-
 obtenido por la venta, de conformidad con lo
 establecido en la Ley Federal para la Administración y
 Enajenación de Bienes del Sector Público. El cálculo
@@ -9392,10 +9426,10 @@ subjetivo legítimamente reconocido sobre los bienes,
 ambos deberán solicitar el resarcimiento en forma
 conjunta, designando a una de ellas de común
 acuerdo como el titular del derecho.
+
 Tratándose de mercancías embargadas en términos
 del artículo 151, fracciones VI y VII de esta Ley, la
 resolución definitiva que ordene la devolución del
-
 valor de las mercancías, considerará el valor
 declarado en el pedimento, adicionado con el
 coeficiente de utilidad a que se refiere el artículo 58
@@ -9420,12 +9454,12 @@ Fracción reformada DOF 09-12-2013
 
 II. (Derogada).
 Fracción reformada DOF 09-12-2013. Derogada DOF 1911-2025
+
 Asimismo, procederá la retención de los medios de
 transporte de las mercancías que hubieran
 ocasionado daños en los recintos fiscales, en este
 supuesto las mercancías no serán objeto de
 retención.
-
 Las autoridades aduaneras en el acta de retención
 que para tal efecto se levante, harán constar la
 fundamentación y motivación que dan lugar a la
@@ -9449,10 +9483,10 @@ Agentes aduanales, agencias aduanales y
 dictaminadores aduaneros
 Denominación del Título reformada DOF 25-06-2018
 Capítulo Unico
+
 Sección Primera
 Agentes aduanales y agencias aduanales
 Denominación de la Sección reformada DOF 25-06-2018
-
 ARTICULO 159. Agente aduanal es la persona
 física autorizada por la Secretaría, mediante una
 patente, para promover por cuenta ajena el despacho
@@ -9482,7 +9516,6 @@ IV.No ser persona servidora pública, incluidas
 aquellas con licencia, ni encontrarse inhabilitada
 para serlo.
 Fracción reformada DOF 30-12-1996, 19-11-2025
-
 V. No tener parentesco por consanguinidad en línea
 recta sin limitación de grado y colateral hasta el
 cuarto grado, ni por afinidad, con el administrador
@@ -9505,12 +9538,12 @@ el cumplimiento de sus obligaciones fiscales.
 Fracción reformada DOF 09-12-2013
 IX.Aprobar el examen de conocimientos que
 practique la autoridad aduanera y un examen
+
 psicotécnico, que constará de dos etapas, la de
 confiabilidad y la psicológica, conforme a los
 lineamientos que al efecto emita la autoridad
 aduanera.
 Fracción reformada DOF 31-12-1998, 19-11-2025
-
 Terminadas las etapas de inscripción y evaluación
 de candidatos, los resultados de las mismas se
 deberán someter al Consejo a que se refiere el
@@ -9534,12 +9567,12 @@ previstos para su otorgamiento y el agente aduanal no
 haya sido inhabilitado o suspendido en más de tres
 ocasiones conforme a lo previsto en los artículos 160
 y 164 de esta Ley. Dicha prórroga deberá contar con
+
 la determinación del Consejo a que se refiere el
 artículo 159 bis de esta Ley.
 Párrafo adicionado DOF 19-11-2025
 La Secretaría podrá expedir patentes de agente
 aduanal para promover únicamente el despacho de
-
 mercancías cuyas fracciones arancelarias se
 autoricen en forma expresa. Para obtener dicha
 patente se deberá cumplir con los requisitos y
@@ -9563,12 +9596,12 @@ determinación conducente respecto de los asuntos
 referidos en el párrafo anterior. Asimismo, podrá
 solicitar a la Secretaría el inicio del procedimiento de
 suspensión, cancelación o extinción de patente, así
+
 como de la inhabilitación de agente aduanal o de
 autorización, inhabilitación y cancelación de agencia
 aduanal.
 El Consejo se integra por una persona servidora
 pública de:
-
 I.
 
 La Secretaría, quien lo presidirá;
@@ -9605,11 +9638,11 @@ suspensión, cancelación o extinción de las demás
 autorizaciones y concesiones previstas en esta Ley,
 conforme a los lineamientos que establezca la
 Secretaría. Para estos efectos, las autoridades
+
 aduaneras deberán someter para determinación del
 Consejo, en forma previa, los proyectos de resolución
 correspondientes.
 Artículo adicionado DOF 19-11-2025
-
 ARTICULO 160. El agente aduanal deberá cubrir los
 siguientes requisitos para operar:
 I.
@@ -9635,12 +9668,12 @@ aduanales. Las notificaciones que se realicen en
 el domicilio y en el correo electrónico,
 manifestados conforme a la presente fracción,
 surtirán sus efectos en los términos legales.
+
 Asimismo, deberá dar aviso a las autoridades
 aduaneras del cambio de domicilio o de la
 dirección de correo electrónico, aun en el caso
 de suspensión voluntaria de actividades.
 Fracción reformada DOF 09-12-2013, 25-06-2018
-
 V. Ocuparse personal y habitualmente de las
 actividades propias de su función y no
 suspenderlas en caso alguno, excepto cuando lo
@@ -9665,11 +9698,11 @@ al promover y tramitar el despacho. El agente
 aduanal será ilimitadamente responsable por los
 actos de sus empleados o dependientes
 autorizados y de sus mandatarios.
+
 Para ser mandatario aduanal autorizado de
 agente aduanal se requiere contar con poder
 notarial para actos de administración y
 demostrar experiencia aduanera mayor a tres
-
 años; aprobar los exámenes de conocimientos y
 psicotécnico, éste constará de dos etapas, la de
 confiabilidad y la psicológica, conforme a los
@@ -9693,12 +9726,12 @@ despacho, se efectúe con cualquiera de sus
 empleados, dependientes autorizados o de sus
 mandatarios.
 Párrafo reformado DOF 09-12-2013
+
 Asimismo, deberá usar el gafete de
 identificación personal en los recintos fiscales en
 que actúe; obligación que también deben
 cumplir sus empleados o dependientes
 autorizados y sus mandatarios.
-
 Los actos que practiquen los mandatarios
 aduanales con motivo del despacho y
 reconocimiento aduanero, así como los actos
@@ -9722,13 +9755,13 @@ IX. Ocuparse de
 aquellas operaciones de
 importación y exportación cuyo valor no rebase
 al que, mediante reglas determine el Servicio de
+
 Administración Tributaria, en cada una de las
 aduanas en las que opere.
 Párrafo reformado DOF 09-12-2013, 25-06-2018
 Cuando los agentes aduanales tengan
 autorización para despachar en aduanas
 distintas a la de su adscripción, la obligación a
-
 que se refiere esta fracción será aplicable para
 cada una de las aduanas en las que operen.
 El Servicio de Administración Tributaria podrá
@@ -9750,13 +9783,13 @@ Párrafo reformado DOF 25-06-2018
 Cantidad del párrafo actualizada DOF 01-03-2002, 2804-2003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009,
 01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 2212-2017, 24-12-2020, 24-12-2021, 27-12-2022, 28-122023, 30-12-2024,
 27-12-2025
+
 X. Utilizar los candados oficiales o electrónicos en
 los vehículos y contenedores que transporten las
 mercancías cuyo despacho promueva, de
 conformidad con lo que establezca el Servicio de
 Administración Tributaria mediante reglas, así
 como evitar que los candados fiscales que
-
 adquiera de los importadores o fabricantes
 autorizados, se utilicen en contenedores o
 vehículos que transporten mercancías cuyo
@@ -9779,13 +9812,13 @@ conformidad con las reglas.
 Fracción adicionada DOF 19-11-2025
 XIII. No ser socio, accionista, representante legal,
 tener una relación laboral o vinculación en
+
 términos del artículo 68 de esta Ley con alguna
 persona para la cual tramite operaciones de
 comercio exterior.
 Fracción adicionada DOF 19-11-2025
 La inobservancia a lo dispuesto en las fracciones V,
 IX y X de este artículo inhabilita al agente aduanal
-
 para operar hasta por un mes. La inhabilitación se
 inicia a partir de que se notifique la resolución que
 concluya el procedimiento.
@@ -9808,13 +9841,13 @@ aduaneras deberán dictar la resolución que
 corresponda, en un plazo que no excederá de tres
 meses, contado a partir de la notificación del inicio del
 procedimiento; la notificación de la resolución se
+
 realizará conforme a lo que establezca el
 Reglamento. Transcurrido el plazo mencionado sin
 que la autoridad emita resolución, se entenderá
 caducado el procedimiento respectivo, sin perjuicio
 del ejercicio posterior de las facultades de las
 autoridades aduaneras.
-
 Párrafo adicionado DOF 09-12-2013. Reformado DOF 2506-2018
 ARTICULO 161. La patente de agente aduanal le da
 derecho al titular para actuar ante una aduana de
@@ -9841,11 +9874,11 @@ aduana que le hubiera sido autorizada conforme al
 párrafo anterior de este artículo, podrá presentar
 solicitud para que se le autorice actuar en otra
 aduana.
+
 En los casos de supresión de alguna aduana, los
 agentes aduanales a ella adscritos o autorizados,
 podrán solicitar su readscripción al Servicio de
 Administración Tributaria.
-
 El agente aduanal podrá actuar en aduanas distintas
 a las de su adscripción o a las que le hubieran sido
 autorizadas, cuando promueva el despacho para el
@@ -9872,12 +9905,12 @@ deberá asegurarse que el importador o
 exportador cuenta con los documentos que
 acrediten el cumplimiento de las obligaciones
 que en materia de regulaciones y restricciones
+
 no arancelarias son aplicables a las mercancías,
 de conformidad con lo previsto por esta Ley y
 por las demás leyes y disposiciones jurídicas
 aplicables.
 Párrafo adicionado DOF 19-11-2025
-
 Fracción reformada DOF 09-04-2012, 09-12-2013
 III. Rendir el dictamen técnico cuando se lo solicite
 la autoridad competente.
@@ -9900,12 +9933,12 @@ en que se requieran o, en su caso, en el sistema
 mecanizado.
 Asimismo, tiene la obligación de cerciorarse de
 que los usuarios que le soliciten operaciones de
+
 comercio exterior se encuentren plenamente
 identificados, que cuenten con infraestructura,
 que no tengan vinculación, en términos de lo
 previsto en el artículo 68 de esta Ley con
 contribuyentes que se encuentren en el listado a
-
 que refiere el artículo 69-B, cuarto párrafo del
 Código Fiscal de la Federación, así como que
 cumplen con sus obligaciones fiscales,
@@ -9931,11 +9964,11 @@ presente Ley y demás disposiciones jurídicas
 aplicables, respecto de la cual tienen la
 obligación de cerciorarse que es acorde a la
 operación que se pretende realizar.
+
 Párrafo reformado DOF 19-11-2025
 El expediente electrónico deberá contener el
 pedimento o documento aduanero en el formato
 en que se haya transmitido, así como sus
-
 anexos y acuses, debiendo conservarse como
 parte de la contabilidad, por los plazos
 establecidos en el Código Fiscal de la
@@ -9958,12 +9991,12 @@ tendrán la obligación de conservarlos en
 términos de lo establecido en el cuarto párrafo
 del artículo 6o. de esta Ley.
 Fracción reformada DOF 31-12-1998, 01-01-2002, 09-122013, 25-06-2018
+
 VIII. Presentar la garantía por cuenta de los
 importadores de la posible diferencia de
 contribuciones y sus accesorios, en los términos
 previstos en esta Ley, a que pudiera dar lugar
 por declarar en el pedimento un valor inferior al
-
 precio estimado que establezca la Secretaría y
 verificar que dicha garantía sea suficiente.
 Fracción reformada DOF 19-11-2025
@@ -9990,13 +10023,13 @@ Fracción adicionada DOF 31-12-1998. Reformada DOF
 09-12-2013
 XII. Derogada.
 Fracción adicionada DOF 30-12-2002. Derogada DOF 2506-2018
+
 XIII. Acreditar, en su caso, ante cada aduana en la
 que ejerza la patente al menos a un mandatario
 autorizado por la autoridad aduanera.
 Fracción adicionada DOF 09-12-2013
 XIV. Someterse a los exámenes a los que podrá
 convocar anualmente de manera general el
-
 Servicio de Administración Tributaria. Este
 deberá publicar las reglas de carácter general en
 las que se establecerán los lineamientos para la
@@ -10023,6 +10056,7 @@ XVI. Emitir el comprobante fiscal digital por Internet
 en términos del Código Fiscal de la Federación,
 por todos los servicios prestados.
 Fracción adicionada DOF 19-11-2025
+
 ARTICULO 163. Son derechos del agente aduanal:
 l.
 
@@ -10030,7 +10064,6 @@ Ejercer la patente.
 
 II. Derogada.
 Fracción derogada DOF 25-06-2018
-
 III. Solicitar el cambio de adscripción a aduana
 distinta, siempre que la autorización que se le
 hubiera otorgado para actuar en su aduana de
@@ -10053,13 +10086,13 @@ V. Cobrar los honorarios que pacte con su cliente
 por los servicios prestados, incluso en el caso a
 que se refiere el segundo párrafo de la fracción
 XIV del artículo 144 de esta Ley.
+
 Vl. Suspender voluntariamente sus actividades,
 previa
 autorización de
 las autoridades
 aduaneras.
 VII. (Se deroga).
-
 Fracción adicionada DOF 01-01-2002. Derogada DOF 0912-2013
 ARTICULO 163-A. (Se deroga).
 Artículo adicionado DOF 01-01-2002. Derogado DOF 0912-2013
@@ -10081,12 +10114,12 @@ aduanal se encuentre investigado penalmente o
 esté vinculado a proceso penal por la comisión de
 delitos fiscales o privado de su libertad.
 Fracción reformada DOF 19-11-2025
+
 II. Dejar de cumplir con el encargo que se le hubiere
 conferido, así como transferir o endosar
 documentos a su consignación, sin autorización
 escrita de su mandante, salvo en el caso de
 corresponsalías entre agentes aduanales.
-
 III. Derogada.
 Fracción derogada DOF 25-06-2018
 IV.
@@ -10110,12 +10143,12 @@ Fracción reformada DOF 30-12-1996, 25-06-2018, 1911-2025
 VII. Tratándose de los regímenes aduaneros
 temporales, de depósito fiscal, de tránsito de
 mercancías y recinto fiscalizado estratégico,
+
 declarar con inexactitud algún dato, siempre que
 con los datos aportados, excluida la liquidación
 provisional a que se refieren los artículos 127,
 fracción II y 131, fracción II de esta Ley, de
 haberse destinado la mercancía de que se trate al
-
 régimen de importación definitiva, la omisión no
 exceda de $262,210.00.
 Fracción reformada DOF 31-12-1998, 25-06-2018
@@ -10138,11 +10171,11 @@ Fracción adicionada DOF 19-11-2025
 X. Se encuentre en los listados de contribuyentes
 publicados por el Servicio de Administración
 Tributaria a que se refieren los artículos:
+
 a) 69 del Código Fiscal de la Federación, con
 excepción de la fracción VI;
 b) 69-B, cuarto párrafo del Código Fiscal de la
 Federación, o
-
 c) 69-B Bis, noveno párrafo del Código Fiscal de
 la Federación.
 La suspensión durará el tiempo que el agente
@@ -10165,10 +10198,10 @@ comercial de la mercancía.
 Fracción adicionada DOF 19-11-2025
 XIII. Cuente con créditos fiscales determinados no
 firmes, que no se encuentren pagados o
+
 garantizados en alguna de las formas permitidas
 por el Código Fiscal de la Federación.
 Fracción adicionada DOF 19-11-2025
-
 En todo caso de suspensión, el afectado no podrá
 iniciar nuevas operaciones, sino solamente concluir
 las que tuviera ya iniciadas a la fecha en que le sea
@@ -10195,11 +10228,10 @@ de $374,610.00 y dicha omisión represente
 más del 10% del total de los que debieron
 pagarse.
 Inciso reformado DOF 31-12-1998, 25-06-2018
+
 Cantidad del inciso actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009,
-01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 22-
-
-12-2017, 24-12-2020, 24-12-2021, 27-12-2022, 28-122023, 30-12-2024,
+01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 2212-2017, 24-12-2020, 24-12-2021, 27-12-2022, 28-122023, 30-12-2024,
 27-12-2025
 Inciso reformado DOF 19-11-2025
 b) Efectuar los trámites del despacho aduanero
@@ -10220,11 +10252,22 @@ entonces párrafo segundo (antes reformado DOF 30-121996, 25-06-2018)
 III. Cuando el agente aduanal, al tramitar las
 operaciones de comercio exterior, declare datos
 del importador o exportador o de las
-operaciones y éstos resulten falsos o
+
+operaciones
 inexistentes.
+
+y
+
+éstos
+
+resulten
+
+falsos
+
+o
+
 De igual forma, será cancelada la patente si el
 agente aduanal efectúa el trámite de las
-
 operaciones de comercio exterior y declara los
 datos a que se refiere el párrafo anterior de una
 persona de la cual no cuente con el encargo
@@ -10247,12 +10290,12 @@ agencia aduanal a la que se encuentre adscrito.
 Fracción reformada DOF 09-12-2013, 25-06-2018
 VII. Tratándose de los regímenes aduaneros
 temporales, de depósito fiscal, de tránsito de
+
 mercancías y recinto fiscalizado estratégico,
 declarar con inexactitud algún dato, siempre que
 con los datos aportados, excluida la liquidación
 provisional a que se refieren los artículos 127,
 fracción II y 131, fracción II de esta Ley, de
-
 haberse destinado la mercancía de que se trate
 al régimen de importación definitiva, se dé
 alguno de los siguientes supuestos:
@@ -10275,10 +10318,10 @@ regulación o restricción no arancelaria
 emitidas conforme a la Ley de Comercio
 Exterior, cuando se requieran, o sin realizar
 el descargo total o parcial sobre el permiso o
+
 cupo antes de activar el mecanismo de
 selección automatizado.
 Inciso reformado DOF 31-12-1998, 19-11-2025
-
 c) Se trate de mercancías de importación o
 exportación prohibida.
 VIII. Cuente con créditos fiscales determinados,
@@ -10303,10 +10346,10 @@ Fracción adicionada DOF 09-12-2013
 XI. Declarar en el pedimento, sus anexos, o en el
 aviso consolidado tratándose de operaciones
 con pedimento consolidado, un valor en aduana
+
 que sea distinto al proporcionado por el
 importador o exportador.
 Fracción adicionada DOF 09-12-2013
-
 XII. Encontrarse dentro de los supuestos de
 cancelación a que se refiere la Ley Federal para
 la Prevención e Identificación de Operaciones
@@ -10336,10 +10379,10 @@ trámites del despacho aduanero de mercancías
 no permitidas para destinarse a dichos
 regímenes.
 Fracción adicionada DOF 19-11-2025
+
 XVI. Tratándose de los regímenes aduaneros de
 importación temporal de mercancías para
 retornar al extranjero después de haberse
-
 destinado a un proceso de elaboración,
 transformación o reparación, cuando efectúe los
 trámites del despacho aduanero y dichas
@@ -10365,10 +10408,10 @@ XVIII.Cuando se encuentre como no localizado en
 su domicilio fiscal o el estatus de este sea
 inexistente.
 Fracción adicionada DOF 19-11-2025
+
 XIX. Cuando haya sido suspendida su patente más
 de dos veces en el plazo de tres años.
 Fracción adicionada DOF 19-11-2025
-
 A partir de la fecha en que se notifique a los clientes
 de asuntos inconclusos la cancelación de la patente,
 se interrumpirán por treinta días los plazos legales
@@ -10392,10 +10435,10 @@ Inciso reformado DOF 19-11-2025
 Párrafo con incisos reformado DOF 09-12-2013
 Para efectos de lo anterior, la autoridad competente
 deberá sujetarse al procedimiento referido en el
+
 artículo 167 de esta Ley, así como a lo establecido en
 sus artículos 167-A, 167-B y 167-C.
 Párrafo adicionado DOF 09-12-2013
-
 En caso de fallecimiento del agente aduanal, el
 mandatario a que se refiere el artículo 163, fracción IV
 de esta Ley que dé aviso a la autoridad aduanera
@@ -10422,11 +10465,11 @@ suspensión provisional por el tiempo que subsista la
 causa que la motivó. Decretada la medida provisional
 antes mencionada, el agente aduanal podrá, en
 cualquier momento, desvirtuar la causal de
+
 suspensión o acreditar que la misma ya no subsiste,
 exhibiendo ante la autoridad que ordenó su
 suspensión las pruebas documentales que estime
 pertinentes y manifestando por escrito lo que a su
-
 derecho convenga; la autoridad resolverá en definitiva
 en un plazo no mayor de quince días posteriores a la
 presentación de las pruebas y escritos señalados.
@@ -10452,10 +10495,10 @@ Cuando sólo se altere la información estadística, la
 autoridad aduanera competente no dará inicio a los
 procedimientos de cancelación o suspensión de
 patente, por hechos u omisiones que configuren las
+
 causales previstas en los artículos 164 y 165 de la
 Ley.
 Artículo reformado DOF 09-12-2013
-
 ARTICULO 167-A. En los procedimientos de
 suspensión, cancelación o extinción de patente, así
 como de inhabilitación de agente aduanal, se
@@ -10482,11 +10525,11 @@ cuando ésta sea legalmente posible. Para este efecto
 deberá identificar con toda precisión los documentos
 y, tratándose de los que pueda tener a su disposición
 bastará con que acompañe la copia sellada de la
+
 solicitud de los mismos. Se entiende que el agente
 aduanal tiene a su disposición los documentos,
 cuando legalmente pueda obtener copia autorizada
 de los originales o de las constancias de éstos.
-
 Cuando no se acompañe alguna de las pruebas
 ofrecidas, la autoridad aduanera requerirá al agente
 aduanal para que la presente dentro del término de
@@ -10511,9 +10554,9 @@ ofrecidas y admitidas se realizará dentro de un plazo
 no menor a cinco días ni mayor de quince días,
 contado a partir de su admisión. Si se ofreciesen
 pruebas que ameriten ulterior desahogo, se
+
 concederá al interesado un plazo no menor de ocho
 días ni mayor de quince días para tal efecto.
-
 Las pruebas supervenientes podrán presentarse
 siempre que no se haya emitido la resolución
 definitiva.
@@ -10539,9 +10582,9 @@ transcurridos los tres meses sin resolución expresa,
 se entenderá caducado el procedimiento respectivo,
 sin perjuicio del ejercicio posterior de las facultades
 de las autoridades aduaneras sujetándose a lo
+
 previsto en el segundo párrafo del artículo 167 de
 esta Ley.
-
 Tanto el acto de inicio como la resolución que ponga
 fin a los procedimientos de suspensión, cancelación o
 extinción de la patente aduanal, así como de
@@ -10576,7 +10619,6 @@ Cantidad de la fracción actualizada DOF 27-12-2025
 
 II. Señalar en su acta constitutiva como objeto
 social la prestación de los servicios del despacho
-
 aduanero de mercancías en los diferentes
 regímenes aduaneros previstos en esta Ley.
 III. Estar conformada por ciudadanos mexicanos y,
@@ -10615,9 +10657,9 @@ para
 la
 identificación, administración y control de
 riesgos.
+
 c) La emisión de un Código de Ética que deban
 observar los integrantes de la sociedad.
-
 d) Contar con un procedimiento que
 contribuya a la continuidad de la sociedad y de
 los servicios especializados que ésta preste,
@@ -10640,10 +10682,10 @@ de datos enlazados con el sistema electrónico
 aduanero del Servicio de Administración
 Tributaria, así como llevar un registro simultáneo
 de las operaciones de comercio exterior.
+
 VIII. Cumplir los demás requisitos y condiciones
 que el Servicio de Administración Tributaria
 establezca mediante reglas.
-
 Los socios de la persona moral deberán cumplir con
 los siguientes requisitos:
 I.
@@ -10669,6 +10711,7 @@ de esta Ley, por lo que sólo podrá ser utilizada para
 realizar operaciones que deriven del encargo
 conferido a la agencia aduanal de que se trate, en
 tanto sea parte integrante de la misma.
+
 Los
 mandatarios
 aduanales,
@@ -10677,7 +10720,6 @@ o
 dependientes autorizados del agente aduanal que
 integre una agencia aduanal, a partir de la fecha en
 que la agencia aduanal obtenga la respectiva
-
 autorización e inicie sus operaciones o a partir de la
 incorporación formal del agente aduanal en una
 agencia aduanal ya constituida, no podrán actuar para
@@ -10703,12 +10745,12 @@ que la integran, se encuentre inhabilitada o
 suspendida, cancelada o extinguida, excepto en los
 casos en que se integre con otros agentes aduanales
 que no se encuentren en este supuesto.
+
 En el supuesto previsto en el párrafo anterior, se
 permitirá a la agencia aduanal concluir las
 operaciones amparadas con los pedimentos que
 hubieran sido validados y pagados antes de la fecha
 de inhabilitación, suspensión, cancelación o extinción
-
 del o los agentes aduanales que integran la agencia
 aduanal.
 La Secretaría contará con un plazo de un mes para
@@ -10732,11 +10774,11 @@ de los agentes aduanales cuente con una patente
 vigente, que dicha solicitud se presente durante el
 último año de vigencia de la autorización y antes de
 los últimos cuatro meses de la conclusión de su
+
 vigencia, y se cumplan los requisitos vigentes
 previstos para su otorgamiento.
 Párrafo adicionado DOF 19-11-2025
 Artículo adicionado DOF 25-06-2018
-
 ARTICULO 167-E. Para obtener la autorización de
 agencia aduanal, las personas morales constituidas
 para tales efectos, integradas cuando menos por un
@@ -10762,6 +10804,7 @@ cancelación, suspensión o inhabilitación de la
 respectiva patente.
 Cuando la agencia aduanal que ya se encuentre
 operando requiera incorporar un agente aduanal,
+
 siempre que no se encuentre sujeto a algún
 procedimiento
 de
@@ -10770,7 +10813,6 @@ suspensión,
 cancelación o extinción de la patente de la que sea
 titular, solicitará la autorización correspondiente,
 misma que se resolverá previa determinación del
-
 Consejo a que se refiere el artículo 159 bis de esta
 Ley.
 Párrafo reformado DOF 19-11-2025
@@ -10797,12 +10839,12 @@ domicilio de su oficina para oír y recibir
 notificaciones en la circunscripción de las
 aduanas en las que ejerza la autorización de la
 agencia aduanal, así como la dirección de correo
+
 electrónico para recibir notificaciones y la de sus
 mandatarios aduanales. Las notificaciones que
 se realicen en el domicilio y en el correo
 electrónico, manifestados conforme a la presente
 fracción, surtirán sus efectos en los términos
-
 legales. Asimismo, deberá dar aviso a las
 autoridades aduaneras del cambio de domicilio o
 de la dirección de correo electrónico, aun en el
@@ -10832,11 +10874,11 @@ efectúe con cualquiera de sus socios, empleados
 o dependientes autorizados, mandatarios
 aduanales, así como agentes aduanales que la
 integran.
+
 IV. Realizar los actos que le correspondan conforme
 a esta Ley para el despacho aduanero de las
 mercancías, empleando el sistema electrónico
 aduanero y la firma electrónica avanzada o el
-
 sello digital que le asigne el Servicio de
 Administración Tributaria.
 V. Contar con el equipo necesario para promover el
@@ -10863,12 +10905,12 @@ los importadores o fabricantes autorizados, se
 utilicen en contenedores o vehículos que
 transporten mercancías cuyo despacho no
 hubiere promovido.
+
 VIII. Cumplir el encargo que se le hubiera conferido,
 por lo que no podrá transferirlo ni endosar
 documentos que estén a su favor o a su nombre,
 sin la autorización expresa y por escrito de quien
 lo otorgó.
-
 IX. Dar aviso a las autoridades aduaneras en un
 plazo no mayor a diez días contados a partir de
 que ocurra el hecho, cuando alguno de los
@@ -10904,7 +10946,6 @@ II, III, IV, V, IX y X del artículo 167-F de esta Ley,
 en cuyo caso la inhabilitación aplicará desde el
 inicio del procedimiento hasta en tanto no se
 cumpla con el requisito correspondiente.
-
 III. Se omita el pago de las contribuciones o cuotas
 compensatorias, en el despacho aduanero que
 promueva, siempre que no sea aplicable la
@@ -10927,11 +10968,11 @@ Fracción reformada DOF 19-11-2025
 Cantidad de la fracción actualizada DOF 27-12-2025
 V. La agencia, sus socios o accionistas, se
 encuentren en los listados de contribuyentes
+
 publicados por el Servicio de Administración
 Tributaria a que se refieren los artículos:
 a) 69 del Código Fiscal de la Federación, con
 excepción de la fracción VI;
-
 b) 69-B, cuarto párrafo del Código Fiscal de la
 Federación, o
 c) 69-B Bis, noveno párrafo del Código Fiscal
@@ -10954,12 +10995,12 @@ procederá la inhabilitación de la patente del agente
 aduanal que hubiere intervenido en el despacho de la
 operación aduanera de la que deriva la causal,
 debiendo señalarse esta circunstancia en el inicio y
+
 resolución del procedimiento de inhabilitación, por lo
 que durante el tiempo que dure la misma, el agente
 aduanal se encontrará impedido para intervenir en las
 operaciones encargadas a la agencia aduanal, desde
 el inicio del procedimiento, hasta por un mes.
-
 Para efectos de las fracciones V y VI del presente
 artículo, se inhabilitará a la agencia aduanal para
 operar durante el tiempo que prevalezcan los
@@ -10983,6 +11024,7 @@ las autoridades aduaneras.
 Artículo adicionado DOF 25-06-2018
 ARTICULO 167-H. Son obligaciones de la agencia
 aduanal:
+
 I.
 
 Actuar siempre con ese carácter en los trámites
@@ -10991,9 +11033,9 @@ cualquier título, el uso o goce de la autorización
 o de los derechos consignados en la misma, ni
 permitir el uso de cualesquiera de los derechos
 consignados en dicha autorización o de la
-
 autorización misma, por un tercero para la
 obtención de un lucro.
+
 II. Manifestar en el pedimento o documento
 aduanero que corresponda el número de
 autorización de la agencia aduanal, así como el
@@ -11015,12 +11057,12 @@ anexos y acuses, debiendo conservarse como
 parte de la contabilidad, por los plazos
 establecidos en el Código Fiscal de la
 Federación.
+
 Los expedientes electrónicos que se generen en
 términos de esta fracción, deberán ser
 proporcionados a los clientes que les
 correspondan, sin cargo adicional, quienes
 tendrán la obligación de conservarlos en
-
 términos de lo establecido por el cuarto párrafo
 del artículo 6o. de esta Ley.
 IV. Aceptar las visitas que ordenen y practiquen las
@@ -11041,6 +11083,7 @@ VII. Cumplir con los demás requisitos que se
 establezcan en las demás disposiciones jurídicas
 aplicables.
 Artículo adicionado DOF 25-06-2018
+
 ARTICULO 167-I. La autorización a que se refiere el
 artículo 167-D de esta Ley permite a la agencia
 aduanal realizar lo siguiente:
@@ -11048,9 +11091,9 @@ I.
 
 El despacho aduanero de mercancías en la
 aduana a la que esté adscrita y en las aduanas
-
 que tengan autorizadas el o los agentes
 aduanales que integran la agencia aduanal.
+
 II. El despacho de mercancías por conducto de los
 mandatarios aduanales de la agencia aduanal,
 incluidos los mandatarios aduanales de los
@@ -11071,12 +11114,12 @@ confirmadas conforme a lo señalado en el artículo
 167-D de esta Ley y siempre que la patente del
 agente aduanal de la que dependan no se encuentre
 inhabilitada, suspendida, cancelada o extinguida.
+
 No obstante lo dispuesto en la fracción I del párrafo
 anterior, la agencia aduanal podrá solicitar
 autorización al Servicio de Administración Tributaria
 para actuar en aduanas adicionales a las que se
 encuentran adscritos o a las autorizadas al o los
-
 agentes aduanales que la integran, siempre que
 presente su solicitud anexando lo siguiente:
 I.
@@ -11103,11 +11146,11 @@ IV. La relación del personal que será contratado
 para atender los servicios del despacho, incluso
 del número de empleados, sin perjuicio de que
 los mandatarios aduanales deban de cumplir con
+
 los requisitos y condiciones previstos en esta Ley
 para ser autorizados.
 V. El programa de capacitación del personal de la
 agencia aduanal.
-
 VI. Las demás que el Servicio de Administración
 Tributaria establezca mediante reglas.
 El Servicio de Administración Tributaria cancelará la
@@ -11136,11 +11179,11 @@ agencia aduanal.
 
 II. Incumpla alguna de las obligaciones inherentes
 al ejercicio de la autorización de la agencia
+
 aduanal, o bien, no se mantengan los medios de
 control correspondientes.
 III. Deje de ejercer la autorización de la agencia
 aduanal por más de seis meses, salvo en los
-
 casos en que dicha suspensión haya sido
 autorizada por la autoridad aduanera.
 IV. Se cancele o extinga la patente de agente
@@ -11164,11 +11207,11 @@ Fiscal de la Federación.
 Fracción reformada DOF 19-11-2025
 VII. No esté al corriente en el cumplimiento de sus
 obligaciones fiscales.
+
 VIII. La agencia, sus socios o accionistas, se
 encuentren como no localizados en su domicilio
 fiscal o el estatus de éste sea inexistente.
 Fracción adicionada DOF 19-11-2025
-
 IX. Cuando haya sido inhabilitada su autorización
 más de dos veces en el plazo de tres años.
 Fracción adicionada DOF 19-11-2025
@@ -11190,12 +11233,12 @@ Una vez cancelada la autorización de la agencia
 aduanal, no se podrá utilizar para el despacho
 aduanero de las mercancías.
 Artículo adicionado DOF 25-06-2018
+
 ARTICULO 167-K. En caso de fallecimiento, retiro
 voluntario, retiro por incapacidad permanente del o los
 agentes aduanales que integran la agencia aduanal, o
 bien, cuando dejen de formar parte integrante de la
 misma, se permitirá a la agencia aduanal concluir las
-
 operaciones amparadas con los pedimentos que
 hubieran sido validados y pagados antes de la fecha
 del fallecimiento o retiro del agente aduanal, en un
@@ -11221,11 +11264,11 @@ derecho a que se le otorgue la patente de agente
 aduanal quien obtenga los mejores resultados en el
 proceso de evaluación, conforme a las reglas que al
 efecto emita el Servicio de Administración Tributaria.
+
 En caso de que alguno de los aspirantes designados
 no realice en tiempo las evaluaciones sin causa
 justificada, o bien, ninguno las apruebe en la primera
 ocasión, éstos podrán presentar por una segunda
-
 ocasión las evaluaciones en los términos que
 establezca el Servicio de Administración Tributaria
 mediante reglas.
@@ -11249,12 +11292,12 @@ cancelación o extinción.
 El agente aduanal cuya patente sea cancelada o
 extinguida podrá conservar el carácter de socio
 inversionista de la agencia aduanal de la que era
+
 integrante, para lo cual deberá desincorporar su
 patente cancelada o extinguida y acreditar dicha
 situación ante la autoridad aduanera en términos del
 artículo 167-M, incluso encontrándose impedido para
 intervenir en las operaciones de comercio exterior
-
 encargadas a la agencia aduanal en carácter de
 empleado, dependiente autorizado o mandatario de la
 misma.
@@ -11278,12 +11321,12 @@ misma, pudiendo solicitar la reactivación de su
 patente aduanal.
 En los casos de inhabilitación o suspensión de la
 patente del agente aduanal, incorporado a una
+
 agencia aduanal, cuando por hechos o actos
 anteriores a su incorporación, se actualicen los
 supuestos establecidos en los artículos 160 y 164 de
 esta Ley y demás disposiciones jurídicas aplicables,
 la agencia aduanal no podrá iniciar nuevas
-
 operaciones por conducto del agente aduanal
 sancionado sino solamente concluir las que tenga
 iniciadas a la fecha de notificación del acuerdo de la
@@ -11306,10 +11349,10 @@ Artículo derogado DOF 09-12-2013
 ARTICULO 171. (Se deroga).
 Artículo reformado DOF 31-12-1998, 09-04-2012.
 Derogado DOF 09-12-2013
+
 ARTICULO 172. (Se deroga).
 Artículo reformado DOF 31-12-1998. Derogado DOF
 09-12-2013
-
 ARTICULO 173. (Se deroga).
 Artículo reformado DOF 31-12-1998. Cantidades
 actualizadas DOF 01-03-2002, 28-04-2003, 04-04-2005,
@@ -11331,12 +11374,12 @@ ejecutoriada por delito intencional que merezca
 pena corporal.
 lll. Gozar de buena reputación personal y ser de
 reconocida probidad y honradez.
+
 lV. No ser servidor público ni militar en servicio
 activo, ni haber prestado sus servicios en la
 Administración General de Aduanas.
 V. Derogada.
 Fracción derogada DOF 25-06-2018
-
 VI. Presentar y aprobar los exámenes que
 practiquen las autoridades aduaneras, los
 cuales constan de:
@@ -11355,13 +11398,13 @@ condiciones que para su otorgamiento están
 establecidas en esta Ley y demás disposiciones
 jurídicas aplicables.
 Párrafo adicionado DOF 25-06-2018
+
 El incumplimiento de cualquiera de los requisitos
 señalados en las fracciones anteriores será causa de
 cancelación de la autorización para ejercer como
 dictaminador aduanero.
 No se otorgará la autorización a que se refiere este
 artículo a las personas que previamente se les
-
 hubiera cancelado una autorización de dictaminador
 aduanero.
 Párrafo adicionado DOF 09-12-2013
@@ -11387,6 +11430,7 @@ adicional ni se impondrá sanción alguna a la empresa
 para la cual preste sus servicios dicho dictaminador.
 El Servicio de Administración Tributaria podrá
 cancelar las autorizaciones a los dictaminadores
+
 aduaneros por cualquiera de las siguientes causas,
 aplicando el procedimiento que establece el artículo
 144-A de esta Ley:
@@ -11395,7 +11439,6 @@ I.
 Cuando omitan cumplir con las obligaciones
 inherentes a la autorización, esto es, llevar a
 cabo el análisis e interpretación de las imágenes
-
 generadas por la tecnología no intrusiva o, en su
 caso,
 emitir
@@ -11403,6 +11446,7 @@ el
 dictamen
 aduanero
 correspondiente.
+
 II. Cuando omitan sujetarse a las evaluaciones de
 confiabilidad que determine el Servicio de
 Administración Tributaria o el resultado de
@@ -11419,6 +11463,7 @@ reconocimiento aduanero de las mercancías por
 cualquiera de las siguientes causas, aplicando el
 procedimiento que establece el artículo 144-A de esta
 Ley:
+
 I.
 
 Cuando se omita obtener y mantener vigentes
@@ -11430,7 +11475,6 @@ preventivo y correctivo de la infraestructura o
 cualquier dispositivo que permita la continuidad
 de los servicios autorizados, conforme a las
 disposiciones e instrumentos jurídicos aplicables.
-
 III. Las demás que establezca esta Ley y las que se
 señalen en la autorización.
 Artículo adicionado DOF 09-12-2013
@@ -11455,6 +11499,7 @@ II. Sin permiso de las autoridades competentes o
 sin la firma electrónica en el pedimento que
 demuestre el descargo total o parcial del
 permiso antes de realizar los trámites del
+
 despacho aduanero o sin cumplir cualesquiera
 otras
 regulaciones
@@ -11468,7 +11513,6 @@ compromisos
 internacionales, requerimientos de orden público
 o cualquiera otra regulación.
 Fracción reformada DOF 01-01-2002, 25-06-2018, 1911-2025
-
 III. Cuando su importación o exportación esté
 prohibida o cuando las maquiladoras y
 empresas con programa autorizado por la
@@ -11493,6 +11537,7 @@ casos anteriores.
 VI. Cuando se extraigan o se pretendan extraer
 mercancías de recintos fiscales o fiscalizados
 sin que hayan sido entregadas legalmente por la
+
 autoridad o por las personas autorizadas para
 ello.
 Fracción reformada DOF 30-12-1996
@@ -11501,7 +11546,6 @@ retorno de mercancías el resultado del
 mecanismo de selección automatizado hubiera
 determinado reconocimiento aduanero y no se
 pueda llevar a cabo éste, por no encontrarse las
-
 mercancías en el lugar señalado para tal efecto,
 así como en las demás operaciones de
 despacho aduanero en que se requiera activar el
@@ -11522,6 +11566,7 @@ X. Cuando no se acredite con la documentación
 aduanal correspondiente la legal estancia o
 tenencia de las mercancías en el país o que se
 sometieron a los trámites previstos en esta Ley,
+
 para su introducción al territorio nacional o para
 su salida del mismo. Se considera que se
 encuentran dentro de este supuesto, las
@@ -11530,7 +11575,6 @@ mecanismo de selección automatizado sin
 pedimento, cuando éste sea exigible, o con un
 pedimento que no corresponda.
 Fracción adicionada DOF 31-12-1998
-
 XI. Cuando el nombre, denominación o razón social
 o domicilio del proveedor en el extranjero o
 domicilio fiscal del importador, señalado en el
@@ -11552,6 +11596,7 @@ Fracción adicionada DOF 19-11-2025
 XIII. Cuando omitan cumplir con las obligaciones
 establecidas en el artículo 59 de esta Ley,
 excepto la establecida en la fracción I.
+
 Fracción adicionada DOF 19-11-2025
 XIV. Cuando omitan cumplir con las obligaciones
 que establezca el Servicio de Administración
@@ -11561,7 +11606,6 @@ artículo 88 bis de esta Ley que realizan las
 empresas de
 mensajería y paquetería
 autorizadas.
-
 Fracción adicionada DOF 19-11-2025
 ARTICULO 177. Se presumen cometidas las
 infracciones establecidas por el artículo 176 de esta
@@ -11584,6 +11628,7 @@ III. Durante el plazo a que se refiere el artículo
 empresa con programa de exportación
 autorizado por la Secretaría de Economía que
 hubiera efectuado la importación temporal, no
+
 acrediten
 que
 las
@@ -11595,7 +11640,6 @@ domicilio en el cual se llevará a cabo el proceso
 para su elaboración, transformación o
 reparación manifestado en su programa.
 Fracción reformada DOF 30-12-1996. Derogada DOF 3112-1998. Adicionada DOF 30-12-2002
-
 IV. Se introduzcan o extraigan del país mercancías
 ocultas o con artificio tal que su naturaleza
 pueda pasar inadvertida, si su importación o
@@ -11615,6 +11659,7 @@ XX del artículo 144 de esta Ley.
 VIII. Tratándose de mercancías susceptibles de ser
 identificadas individualmente, no se consigne
 en el pedimento o en la información transmitida
+
 relativa al valor y demás datos de
 comercialización de las mercancías o, en su
 caso, valor comercial, los números de serie,
@@ -11624,7 +11669,6 @@ necesarias para identificar las mercancías y
 distinguirlas de otras similares, cuando dichos
 datos existan. Esta presunción no será
 aplicable en los casos de exportación, salvo
-
 tratándose
 de
 mercancías
@@ -11649,16 +11693,16 @@ plazo autorizado al almacén general de
 depósito o a los locales autorizados.
 XI.- (Se deroga).
 Fracción adicionada DOF 30-12-1996. Derogada DOF 3112-1998
+
 XII. Con motivo del ejercicio de facultades de
 comprobación, se detecte que quien introduzca
 al país mercancías bajo un régimen aduanero
 que le permita la determinación de
 contribuciones sin su pago, declare en el
 pedimento o documento aduanero de que se
-trate, un valor que sea inferior en un 50% o
+trate, un valor que sea inferior en un 20% o
 más al valor de transacción de mercancías
 idénticas o similares, determinado conforme a
-
 los artículos 72 y 73 de esta Ley, siempre que
 con los datos aportados, de haberse destinado
 la mercancía de que se trate al régimen de
@@ -11666,7 +11710,8 @@ importación definitiva, se hubiere omitido el
 pago total o parcial de los impuestos al
 comercio exterior y, en su caso, de las cuotas
 compensatorias.
-Fracción adicionada DOF 25-06-2018
+Fracción adicionada DOF 25-06-2018. Reformada DOF
+23-10-2026
 ARTICULO 178. Se aplicarán las siguientes
 sanciones a quien cometa las infracciones
 establecidas por el artículo 176 de esta Ley:
@@ -11680,8 +11725,8 @@ Cuando la infracción a que se refiere esta
 fracción sea cometida por pasajeros, se
 impondrá una multa del 80% al 120% del valor
 comercial de las mercancías.
-Párrafo reformado DOF 31-12-1998, 09-12-2013
 
+Párrafo reformado DOF 31-12-1998, 09-12-2013
 II. Multa de $7,520.00 a $18,760.00 cuando no se
 compruebe el cumplimiento de las regulaciones
 y restricciones no arancelarias, tratándose de
@@ -11689,7 +11734,6 @@ vehículos.
 Fracción reformada DOF 31-12-1998, 25-06-2018
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009,
-
 01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 22-122017, 24-12-2020, 24-12-2021, 27-12-2022, 28-12-2023,
 30-12-2024, 27-12-2025
 III. Multa del 250% al 300% del valor comercial de
@@ -11707,6 +11751,7 @@ cumplimiento de las regulaciones y restricciones
 no arancelarias o cuotas compensatorias
 correspondientes.
 Fracción reformada DOF 30-12-1996, 31-12-1998, 01-012002, 25-06-2018, 19-11-2025
+
 V. Multa del 250% al 300% del valor comercial de
 las mercancías declaradas, a la mencionada en
 la fracción VI del artículo 176 de esta Ley.
@@ -11714,7 +11759,6 @@ Fracción reformada DOF 19-11-2025
 VI. Multa equivalente del 250% al 300% del valor
 declarado de las mercancías cuando se trate de
 los supuestos a que se refiere la fracción VII.
-
 Fracción adicionada DOF 30-12-1996. Reformada DOF
 31-12-1998, 19-11-2025
 VII. Multa del 70% al 100% del valor declarado o
@@ -11735,13 +11779,13 @@ efectuó con anterioridad a la presentación de las
 mercancías, en cuyo caso, únicamente se
 incurrirá en la sanción prevista en la fracción V
 del artículo 185 de esta Ley.
+
 Fracción adicionada DOF 31-12-1998
 X. Multa del 250% al 300% del valor en aduana de
 las mercancías en los casos a que se refiere la
 fracción XI del artículo 176 de esta Ley.
 Fracción adicionada DOF 01-01-2002. Reformada DOF
 19-11-2025
-
 XI. En los casos a que se refiere la fracción XII del
 artículo 177 de esta Ley, multa del 130% al
 150% de los impuestos al comercio exterior y,
@@ -11763,13 +11807,13 @@ la empresa de mensajería y paquetería
 autorizada no cumpla con las obligaciones que
 establezca el Servicio de Administración
 Tributaria mediante reglas para realizar el
+
 procedimiento simplificado a que se refiere el
 artículo 88 bis de esta Ley.
 Fracción adicionada DOF 19-11-2025
 Multa de la fracción actualizada DOF 27-12-2025
 Reforma DOF 31-12-1998: Derogó del artículo los
 entonces párrafos segundo (antes reformado por DOF 3012-1996) y tercero
-
 ARTICULO 179. Las sanciones establecidas por el
 artículo 178, se aplicarán a quien enajene, comercie,
 adquiera o tenga en su poder por cualquier título
@@ -11792,13 +11836,13 @@ circulación indebida dentro del recinto fiscal quienes
 circulen en vehículos dentro de dichos recintos sin
 sujetarse a los lineamientos de circulación
 establecidos por las autoridades aduaneras y quienes
+
 en vehículo o sin él se introduzcan sin estar
 autorizados para ello, a zonas de los recintos fiscales
 cuyo acceso esté restringido.
 ARTICULO 180-A. Cometen la infracción de uso
 indebido de funciones dentro del recinto fiscal,
 quienes realicen cualquier diligencia o actuación
-
 dentro de los recintos fiscales o fiscalizados, sin
 autorización expresa de las autoridades aduaneras.
 Artículo adicionado DOF 30-12-2002
@@ -11820,6 +11864,7 @@ quienes:
 I.
 
 Sin autorización de la autoridad aduanera:
+
 a) Destinen
 las
 mercancías
@@ -11831,7 +11876,6 @@ haya eximido del cumplimiento de alguna
 regulación o restricción no arancelaria, a una
 finalidad distinta de la que determinó su
 otorgamiento.
-
 b) Trasladen las mercancías a que se refiere el
 inciso anterior a lugar distinto del señalado al
 otorgar el beneficio.
@@ -11851,6 +11895,7 @@ II. Excedan el plazo concedido para el retorno de
 las mercancías importadas o internadas
 temporalmente; no se lleve a cabo el retorno al
 extranjero de las importaciones temporales o el
+
 retorno a la franja o región fronteriza en las
 internaciones
 temporales
@@ -11860,7 +11905,6 @@ transformen las mercancías que debieron
 conservar en el mismo estado o de cualquier
 otra forma violen las disposiciones que regulen
 el régimen aduanero autorizado en cuanto al
-
 destino de las mercancías correspondientes y la
 finalidad específica del régimen.
 III. Importen temporalmente vehículos sin tener
@@ -11884,12 +11928,12 @@ V. No presenten las mercancías en el plazo
 concedido para el arribo de las mismas a la
 aduana de despacho o de salida, tratándose del
 régimen de tránsito interno.
+
 Fracción adicionada DOF 01-01-2002
 VI. Transmitan, presenten o proporcionen, un
 dispositivo tecnológico, un medio electrónico o
 una impresión de los pedimentos de tránsito
 interno o internacional con el fin de dar por
-
 concluidos dichos tránsitos en la aduana de
 despacho o en la de salida, sin la presentación
 física de las mercancías en los recintos fiscales
@@ -11912,6 +11956,7 @@ régimen de depósito fiscal.
 Fracción adicionada DOF 19-11-2025
 ARTICULO 183. Se aplicarán las siguientes
 sanciones a quien cometa las infracciones
+
 relacionadas con el destino de las mercancías,
 previstas en el artículo 182 de esta Ley:
 I.
@@ -11920,7 +11965,6 @@ Multa equivalente del 130% al 150% del
 beneficio obtenido con la franquicia, exención o
 reducción de impuestos concedida o del 70% al
 100% del valor comercial de las mercancías
-
 cuando se haya eximido del cumplimiento de las
 regulaciones y restricciones no arancelarias, en
 los casos a que se refiere la fracción I, incisos
@@ -11935,6 +11979,7 @@ fracción III. Tratándose de yates y veleros
 turísticos la multa será del 10% al 15% del valor
 comercial.
 Párrafo reformado DOF 31-12-1998
+
 II. Si la infracción consistió en exceder los plazos
 concedidos para el retorno de las mercancías de
 importación o internación, según el caso, multa
@@ -11944,11 +11989,11 @@ quince días o fracción que transcurra desde la
 fecha de vencimiento del plazo hasta que se
 efectúe el retorno. El monto de la multa no
 excederá del valor de las mercancías.
+
 Multa del párrafo actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010,
 03-08-2011, 27-12-2011, 29-12-2014, 22-12-2017, 24-122020, 24-12-2021, 27-12-2022, 28-12-2023, 30-12-2024,
 27-12-2025
-
 No se aplicará la multa a que se refiere el
 párrafo anterior, a las personas que retornen en
 forma espontánea los vehículos importados o
@@ -11973,14 +12018,13 @@ IV. Multa equivalente del 30% al 50% del valor
 comercial de las mercancías correspondientes,
 en los demás casos.
 Fracción reformada DOF 31-12-1998
+
 V. Multa de $112,580.00 a $150,090.00 en el
 supuesto a que se refiere la fracción IV.
 Fracción reformada DOF 31-12-1998
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010,
-03-08-2011, 27-12-2011, 29-12-2014, 22-12-2017, 24-12-
-
-2020, 24-12-2021, 27-12-2022, 28-12-2023, 30-12-2024,
+03-08-2011, 27-12-2011, 29-12-2014, 22-12-2017, 24-122020, 24-12-2021, 27-12-2022, 28-12-2023, 30-12-2024,
 27-12-2025
 VI. Multa equivalente del 70% al 100% del valor en
 aduana de las mercancías en los supuestos a
@@ -12001,6 +12045,7 @@ consolidado, a que se refieren los artículos 36-A,
 37-A, fracción I y 59-A de esta Ley, considerando,
 en su caso, el acuse correspondiente declarado,
 sean falsos o inexistentes o cuando en el domicilio
+
 señalado, no se pueda localizar al proveedor en el
 extranjero o importador, así como cuando se
 señale en el pedimento el nombre o denominación
@@ -12008,7 +12053,6 @@ o razón social, domicilio fiscal o la clave del
 registro federal de contribuyentes de alguna
 persona que no hubiera solicitado la operación de
 comercio exterior.
-
 Fracción reformada DOF 25-06-2018
 III. En los casos previstos en el artículo 176,
 fracciones III, V, VI, VIII y X de esta Ley, salvo que
@@ -12032,13 +12076,13 @@ pedimento de rectificación, anexando en
 documento electrónico o digital, la información que
 compruebe el cumplimiento de las regulaciones y
 restricciones no arancelarias.
+
 Fracción reformada DOF 09-12-2013, 25-06-2018
 V.
 Los vehículos, cuando no se haya cumplido
 con las regulaciones y restricciones no
 arancelarias.
 Fracción reformada DOF 25-06-2018
-
 VI. En los casos a que se refiere el artículo 182,
 fracciones I, incisos d) y e), III, excepto yates y
 veleros turísticos y IV de esta Ley.
@@ -12060,6 +12104,7 @@ ARTICULO 184. Cometen las infracciones
 relacionadas con las obligaciones de transmitir y
 presentar, información y documentación, así como
 declaraciones, quienes:
+
 Párrafo reformado DOF 09-12-2013
 I.
 
@@ -12068,7 +12113,6 @@ aduaneras en documento electrónico o digital,
 o en cualquier otro dispositivo tecnológico o
 medio electrónico que se establezca o lo hagan
 en forma extemporánea, la información que
-
 ampare las mercancías que introducen o
 extraen del territorio nacional sujetas a un
 régimen aduanero, que transporten o que
@@ -12093,6 +12137,7 @@ falsos u omitiendo algún dato.
 Fracción reformada DOF 31-12-1998, 09-12-2013
 IV. Omitan transmitir o presentar, o lo hagan
 extemporáneamente, la información que
+
 compruebe el cumplimiento de las obligaciones
 en materia de regulaciones y restricciones no
 arancelarias, cuando hayan obtenido la misma
@@ -12100,7 +12145,6 @@ antes de la transmisión o presentación del
 pedimento. Los interesados deberán transmitir
 o presentar un pedimento de rectificación, en
 términos de los artículos 36 y 36-A de esta Ley,
-
 anexando en documento electrónico o digital, la
 información que compruebe el cumplimiento de
 las
@@ -12132,6 +12176,7 @@ del código de barras no se considerará como
 información distinta, siempre que la información
 transmitida al citado sistema sea igual a la
 consignada en el pedimento.
+
 Tratándose de lo dispuesto en los artículos 36,
 37-A y 39 de la Ley, consignen en el dispositivo
 tecnológico o medio electrónico, información
@@ -12139,7 +12184,6 @@ distinta a la requerida, o a la declarada en el
 pedimento o en el aviso consolidado. La falta
 de algún dato en dicho dispositivo o medio, no
 se considerará como información distinta,
-
 siempre que la información transmitida al
 sistema electrónico aduanero sea igual a la
 consignada en el pedimento o aviso
@@ -12165,11 +12209,11 @@ país o en la de salida, que llevan consigo
 cantidades en efectivo, en cheques nacionales
 o extranjeros, órdenes de pago o cualquier otro
 documento por cobrar o una combinación de
+
 ellos, superiores al equivalente en la moneda o
 monedas de que se trate a diez mil dólares de
 los Estados Unidos de América.
 Fracción reformada DOF 31-12-1998, 31-12-2000, 01-012002
-
 IX. Omitan transmitir electrónicamente la siguiente
 información:
 a) La relativa a cada pasajero, tripulante y
@@ -12191,6 +12235,7 @@ de quien deba firmar el pedimento conforme a
 las disposiciones aduaneras.
 Fracción adicionada DOF 31-12-1998. Reformada DOF
 09-12-2013, 25-06-2018
+
 XII. Omitan
 presentar
 o
@@ -12200,7 +12245,6 @@ extemporáneamente la declaración semestral a
 que se refiere el artículo 87, fracción I de esta
 Ley.
 Fracción adicionada DOF 31-12-1998
-
 XIII. Transmitan y, en su caso, presenten el
 pedimento que ampare la mercancía que
 importen, omitiendo el nombre, denominación o
@@ -12226,12 +12270,12 @@ o una combinación de ellos, superiores al
 equivalente en la moneda o monedas de que
 se trate a diez mil dólares de los Estados
 Unidos de América.
+
 Fracción adicionada DOF 01-01-2002
 XVI.Omitan declarar a las autoridades aduaneras,
 las cantidades en efectivo, en cheques
 nacionales o extranjeros, órdenes de pago o
 cualquier otro documento por cobrar o una
-
 combinación de ellos, que las personas que
 utilizan sus servicios les hayan manifestado en
 los términos del segundo párrafo del artículo
@@ -12261,7 +12305,6 @@ identificación
 individual,
 considerando la mercancía que se presente a
 despacho.
-
 III. Transmitir información relacionada con la
 transportación de la mercancía, incompleta o con
 datos inexactos, en cuanto a su descripción e
@@ -12290,7 +12333,6 @@ la fracción III.
 Multa de la fracción actualizada DOF 27-01-2017, 2212-2017, 24-12-2018, 24-12-2021, 27-12-2022, 28-122023, 30-12-2024,
 27-12-2025
 Artículo adicionado DOF 09-12-2013
-
 ARTICULO 184-C. El agente aduanal e importador
 serán suspendidos para operar en el sistema
 electrónico aduanero para el despacho de
@@ -12314,6 +12356,7 @@ agente aduanal o importador, y le concederán un
 plazo de veinte días, contados a partir del día
 siguiente en que surta efectos la notificación, para
 que desvirtúen la causal, o bien, presenten el
+
 documento en el que conste el depósito efectuado
 mediante cuenta aduanera de garantía, a través de la
 rectificación al pedimento, en caso contrario, se
@@ -12321,7 +12364,6 @@ suspenderá la patente o autorización de que se trate,
 hasta en tanto se presente la documentación
 respectiva, sin que la suspensión pueda ser superior
 a un mes de calendario.
-
 Dicha suspensión quedará sin efectos, una vez que
 el interesado desvirtúe la causal o presente la
 garantía a que se refieren los artículos 36-A, fracción
@@ -12344,33 +12386,45 @@ declaraciones, así como de transmisión electrónica de
 la información, previstas en el artículo 184 de esta
 Ley:
 Párrafo reformado DOF 30-12-2002
+
 I.
 
 Multa de $4,790.00 a $7,190.00, en caso de
 omisión a la mencionada en la fracción I. La
 multa se reducirá al 50% cuando la presentación
 sea extemporánea.
-Fracción reformada DOF 30-12-2002, 09-12-2013
+Multa del párrafo actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009, 01-07-2010, 03-08-2011, 27-122011, 27-01-2017, 22-12-2017, 24-12-2018, 24-122021, 27-12-2022, 28-12-2023, 30-12-2024, 27-122025
+Tratándose de hidrocarburos y petrolíferos, se
+aplicará una multa del 50% al 100% del valor
+comercial de las mercancías.
+Párrafo adicionado DOF 23-10-2026
+Fracción reformada DOF 30-12-2002, 09-12-2013, 1911-2025
 
-Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009, 01-07-2010, 03-08-2011, 27-122011, 27-01-2017, 22-12-2017, 24-12-2018, 24-122021, 27-12-2022, 28-12-2023, 30-12-2024
-Fracción reformada DOF 19-11-2025
-Multa de la fracción actualizada DOF 27-12-2025
 lI. Multa de $2,640.00 a $3,750.00 a la señalada en
 la fracción III, por cada documento.
+Multa del párrafo actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009, 01-07-2010, 03-08-2011, 27-122011, 29-12-2014, 22-12-2017, 24-12-2020, 24-122021, 27-12-2022, 28-12-2023, 30-12-2024, 27-122025
+Tratándose de hidrocarburos y petrolíferos, se
+aplicará una multa del 50% al 100% del valor
+comercial de las mercancías.
+Párrafo adicionado DOF 23-10-2026
+
 Fracción reformada DOF 31-12-1998
 Reforma DOF 09-12-2013: Derogó de la fracción el
 entonces párrafo segundo (antes adicionado DOF 0101-2002)
-Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009, 01-07-2010, 03-08-2011, 27-122011, 29-12-2014, 22-12-2017, 24-12-2020, 24-122021, 27-12-2022, 28-12-2023, 30-12-2024, 27-122025
 III. Multa de $4,520.00 a $7,560.00 tratándose de la
 fracción IV.
+Multa del párrafo actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009, 01-07-2010, 03-08-2011, 27-122011, 29-12-2014, 22-12-2017, 24-12-2020, 24-122021, 27-12-2022, 28-12-2023, 30-12-2024, 27-122025
+Tratándose de hidrocarburos y petrolíferos, se
+aplicará una multa del 50% al 100% del valor
+comercial de las mercancías.
+Párrafo adicionado DOF 23-10-2026
 Fracción reformada DOF 31-12-1998, 31-12-2000
-Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009, 01-07-2010, 03-08-2011, 27-122011, 29-12-2014, 22-12-2017, 24-12-2020, 24-122021, 27-12-2022, 28-12-2023, 30-12-2024, 27-122025
-
 IV. Multa de $6,060.00 a $9,070.00 a la señalada en
 la fracción V, por cada medio magnético que
 contenga información inexacta, incompleta o
 falsa.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009, 01-07-2010, 03-08-2011, 27-122011, 29-12-2014, 22-12-2017, 24-12-2020, 24-122021, 27-12-2022, 28-12-2023, 30-12-2024, 27-122025
+
 V. Multa de $5,640.00 a $9,390.00 a la señalada en
 la fracción VI.
 Fracción reformada DOF 31-12-1998
@@ -12380,9 +12434,7 @@ señalado en la fracción VII, por cada pedimento
 o por cada aviso consolidado o documento
 aduanero que corresponda.
 Fracción reformada DOF 31-12-1998, 09-12-2013, 2506-2018
-Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009, 01-07-2010, 03-08-2011, 27-122011, 27-01-2017, 22-12-2017, 24-12-2020, 24-12-
-
-2021, 27-12-2022, 28-12-2023, 30-12-2024, 27-122025
+Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009, 01-07-2010, 03-08-2011, 27-122011, 27-01-2017, 22-12-2017, 24-12-2020, 24-122021, 27-12-2022, 28-12-2023, 30-12-2024, 27-122025
 VII. Multa equivalente de 20% al 40% de la cantidad
 que exceda al equivalente en la moneda o
 monedas de que se trate a diez mil dólares de
@@ -12390,6 +12442,7 @@ los Estados Unidos de América, a las
 infracciones establecidas en las fracciones VIII,
 XV y XVI.
 Fracción reformada DOF 01-01-2002
+
 VIII. Multa de $108,170.00 a $162,340.00, en el
 caso de la transmisión electrónica señalada en
 la fracción IX, por la omisión de cada pasajero,
@@ -12413,13 +12466,12 @@ arribo de un mismo medio de transporte, la
 autoridad establecerá hasta un máximo de seis
 multas por evento.
 Fracción reformada DOF 30-12-2002, 25-06-2018
-Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009, 01-07-2010, 03-08-2011, 27-122011, 29-12-2014, 22-12-2017, 24-12-2020, 24-12-
-
-2021, 27-12-2022, 28-12-2023, 30-12-2024, 27-122025
+Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009, 01-07-2010, 03-08-2011, 27-122011, 29-12-2014, 22-12-2017, 24-12-2020, 24-122021, 27-12-2022, 28-12-2023, 30-12-2024, 27-122025
 IX. Multa de $302,750.00 a $454,110.00, en los
 casos señalados en la fracción X, por cada
 aeronave que arribe al territorio nacional.
 Multa DOF 01-03-2002, 28-04-2003, 04-04-2005, 10-042006, 09-05-2007, 09-05-2008, 12-05-2009, 01-072010, 03-08-2011, 27-12-2011, 29-12-2014, 22-122017, 24-12-2020, 24-12-2021, 27-12-2022, 28-122023, 30-12-2024, 27-12-2025
+
 X. Multa de $3,750.00 a $5,640.00, en el caso
 señalado en la fracción XI, por cada pedimento.
 Fracción adicionada DOF 31-12-1998
@@ -12429,14 +12481,13 @@ omisión y de $5,640.00 a $9,390.00 por la
 presentación extemporánea, en el caso
 señalado en la fracción XII.
 Fracción adicionada DOF 31-12-1998
-Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009, 01-07-2010, 03-08-2011, 27-122011, 29-12-2014, 22-12-2017, 24-12-2020, 24-12-
-
-2021, 27-12-2022, 28-12-2023, 30-12-2024, 27-122025
+Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009, 01-07-2010, 03-08-2011, 27-122011, 29-12-2014, 22-12-2017, 24-12-2020, 24-122021, 27-12-2022, 28-12-2023, 30-12-2024, 27-122025
 XII. Multa de $1,890.00 a $3,750.00, en el caso
 señalado en la fracción XIII, por cada
 documento.
 Fracción adicionada DOF 31-12-1998
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-052008, 12-05-2009, 01-07-2010, 03-08-2011, 27-122011, 29-12-2014, 22-12-2017, 24-12-2020, 24-122021, 27-12-2022, 28-12-2023, 30-12-2024, 27-122025
+
 XIII. Multa equivalente del 2% al 10% del valor
 comercial de las mercancías, a la señalada en la
 fracción XIV.
@@ -12451,7 +12502,6 @@ Fracción derogada DOF 19-11-2025
 XV. Multa de $5,000.00 a $8,000.00 tratándose de la
 fracción II, por cada periodo de diez días
 subsecuentes hasta el momento de la
-
 presentación de los documentos o informes
 requeridos por las autoridades aduaneras del
 pedimento. El monto de la multa no excederá del
@@ -12463,6 +12513,7 @@ con la obligación de llevar los sistemas de control de
 inventarios, quienes no cumplan con lo dispuesto en
 la fracción I del artículo 59 de esta Ley.
 Artículo adicionado DOF 31-12-2000. Reformado DOF 3012-2002
+
 ARTICULO 185-B. Se aplicará una multa de
 $27,070.00 a $54,180.00 a quienes cometan la
 infracción relacionada con la obligación de llevar los
@@ -12475,7 +12526,6 @@ Multa del artículo actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-200
 ARTICULO 186. Cometen las infracciones
 relacionadas con el control, seguridad y manejo de las
 mercancías de comercio exterior:
-
 l.
 
 Las personas autorizadas para almacenarlas o
@@ -12491,6 +12541,7 @@ violación.
 III. Los remitentes que no anoten en las envolturas
 de los envíos postales el aviso de que contienen
 mercancías de exportación o cuando sean
+
 mercancías de procedencia extranjera que
 envíen de la franja o región fronteriza al resto del
 país.
@@ -12506,7 +12557,6 @@ embarcaciones o aeronaves, una vez que se
 encuentren en el territorio nacional.
 VI. Los almacenes generales de depósito y recintos
 fiscalizados estratégicos que permitan el retiro
-
 de las mercancías sujetas al régimen de
 depósito fiscal y recinto fiscalizado estratégico,
 según corresponda, sin cumplir con las
@@ -12519,6 +12569,7 @@ Fracción reformada DOF 31-12-1998, 19-11-2025
 VII. Las personas que hubieren obtenido concesión
 o autorización para almacenar mercancías
 cuando las entreguen sin cumplir con las
+
 obligaciones establecidas en las fracciones VI y
 VII del artículo 26 de esta Ley.
 Fracción reformada DOF 30-12-2002
@@ -12539,7 +12590,6 @@ y las empresas a que éstas pertenezcan,
 cuando injustificadamente arriben o aterricen en
 lugar no autorizado, siempre que no exista
 infracción de contrabando.
-
 X. (Se deroga).
 Fracción derogada DOF 09-12-2013
 XI. Los agentes aduanales o las agencias
@@ -12550,6 +12600,7 @@ patente o la autorización respectiva.
 Fracción reformada DOF 25-06-2018
 Xll. El Servicio Postal Mexicano cuando no dé
 cumplimiento a las obligaciones que señala el
+
 artículo 21 de esta Ley, excepto la establecida
 en la fracción IV de ese mismo artículo.
 XIII. Las empresas que presten el servicio de
@@ -12568,7 +12619,6 @@ párrafo y en las fracciones I a VI y VIII y los
 lineamientos a que se refiere el primer párrafo
 del artículo 15 y en la fracción III del artículo 26
 de esta Ley.
-
 Fracción reformada DOF 31-12-1998, 30-12-2002
 XV. Los establecimientos autorizados a que se
 refiere el artículo 121 de esta Ley, que enajenen
@@ -12577,6 +12627,7 @@ pasajeros que salgan del país directamente al
 extranjero.
 XVI. (Se deroga).
 Fracción reformada DOF 31-12-1998. Derogada DOF 0912-2013
+
 XVII. Los agentes aduanales o las agencias
 aduanales, cuando no coincida el número de
 candado oficial manifestado en el pedimento o
@@ -12595,7 +12646,6 @@ Fracción adicionada DOF 31-12-1998
 XIX. Los establecimientos que se ostenten como
 depósito fiscal para la exposición y venta de
 mercancías extranjeras y nacionales sin contar
-
 con la autorización a que se refiere el artículo
 121, fracción I de esta Ley.
 Fracción adicionada DOF 31-12-1998
@@ -12607,6 +12657,7 @@ no cumplan con alguna de las obligaciones a
 que se refiere el artículo 4o. de esta Ley.
 Fracción adicionada DOF 01-01-2002. Reformada DOF
 30-12-2002
+
 XXI. Las empresas que hubieran obtenido
 autorización para prestar los servicios de carga,
 descarga y maniobras de mercancías de
@@ -12628,7 +12679,6 @@ autorización a que se refiere el artículo 14-D o
 obligaciones previstas en la Ley o en la
 autorización respectiva.
 Fracción adicionada DOF 30-12-2002
-
 ARTICULO 187. Se aplicarán las siguientes
 sanciones a quien cometa las infracciones
 relacionadas con el control, seguridad y manejo de las
@@ -12640,10 +12690,10 @@ señaladas en las fracciones I, II, IV, V, Xl, XXI y
 XXII.
 Fracción reformada DOF 30-12-2002
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
+
 12-05-2009, 01-07-2010,
 03-08-2011, 27-12-2011, 29-12-2014, 22-12-2017, 24-122020, 24-12-2021, 27-12-2022, 28-12-2023, 30-12-2024,
 27-12-2025
-
 II. Multa de $3,020.00 a $4,560.00, a la señalada
 en la fracción III.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
@@ -12658,7 +12708,6 @@ compensatorias
 omitidas, cuando no se haya cubierto lo que
 correspondía pagar o del 250% al 300% del
 valor comercial de las mercancías si están
-
 exentas o se trata de retorno al extranjero, a la
 señalada en la fracción VI.
 Fracción reformada DOF 31-12-1998, 19-11-2025
@@ -12669,6 +12718,7 @@ Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2
 12-05-2009, 01-07-2010,
 03-08-2011, 27-12-2011, 27-01-2017, 22-12-2017, 24-122018, 24-12-2021, 27-12-2022, 28-12-2023, 30-12-2024,
 27-12-2025
+
 V. Multa de $18,160.00 a $24,200.00 a las
 señaladas en las fracciones Xll y Xlll.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
@@ -12682,7 +12732,6 @@ Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2
 12-05-2009, 01-07-2010,
 03-08-2011, 27-12-2011, 29-12-2014, 22-12-2017, 24-122020, 24-12-2021, 27-12-2022, 28-12-2023, 30-12-2024,
 27-12-2025
-
 VII. Clausura del establecimiento por una semana en
 la primera ocasión, por dos semanas en la
 segunda ocasión, por tres semanas en la tercera
@@ -12693,6 +12742,7 @@ VIII. Multa de $60,570.00 a $121,100.00 a la
 señalada en la fracción XVl.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010,
+
 03-08-2011, 27-12-2011, 29-12-2014, 22-12-2017, 24-122020, 24-12-2021, 27-12-2022, 28-12-2023, 30-12-2024,
 27-12-2025
 IX. Multa del 3% al 5% del importe total que no se
@@ -12706,7 +12756,6 @@ Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2
 12-05-2009, 01-07-2010,
 03-08-2011, 27-12-2011, 29-12-2014, 22-12-2017, 24-122020, 24-12-2021, 27-12-2022, 28-12-2023, 30-12-2024,
 27-12-2025
-
 XI. Multa de $1,890.00 a $3,750.00, a la señalada
 en la fracción XVII.
 Fracción adicionada DOF 31-12-1998
@@ -12717,6 +12766,7 @@ Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2
 XII. Multa de $677,060.00 a $1,083,330.00, a la
 señalada en la fracción XX, por cada periodo de
 20 días o fracción que transcurra desde la fecha
+
 en que se debió dar cumplimiento a la obligación
 y hasta que la misma se cumpla.
 Fracción adicionada DOF 01-01-2002. Reformada DOF
@@ -12732,7 +12782,6 @@ valor comercial de las mercancías si están
 exentas o se trata de retorno al extranjero, a la
 señalada en la fracción VII. En el caso de
 reincidencia, la sanción consistirá en la
-
 suspensión provisional del recinto fiscalizado por
 un plazo de dos a treinta días.
 Fracción adicionada DOF 30-12-2002. Reformada DOF
@@ -12745,6 +12794,7 @@ un plazo de dos a treinta días.
 Fracción adicionada DOF 30-12-2002
 Multa de la fracción actualizada DOF 28-04-2003, 04-042005, 10-04-2006, 09-05-2007, 09-05-2008, 12-05-2009,
 01-07-2010, 03-08-2011,
+
 27-12-2011, 29-12-2014, 22-12-2017, 24-12-2020, 24-122021, 27-12-2022, 28-12-2023, 30-12-2024, 27-12-2025
 XV. Multa de $1,354,130.00 a $2,708,280.00 a la
 señalada en la fracción XXIII.
@@ -12757,7 +12807,6 @@ a que se refieren las fracciones XIII y XIV de este
 artículo, el titular del recinto fiscalizado únicamente
 podrá concluir las operaciones que tuviera iniciadas a
 la fecha en que le sea notificada la orden de
-
 suspensión, sin que durante dicho plazo pueda iniciar
 nuevas operaciones.
 Párrafo adicionado DOF 30-12-2002
@@ -12771,6 +12820,7 @@ equivocada.
 
 II. Utilice una clave confidencial que haya sido
 revocada o cancelada.
+
 ARTICULO 189. Se aplicarán las siguientes
 sanciones a quien cometa las infracciones a que se
 refiere el artículo 188 de esta Ley:
@@ -12784,9 +12834,7 @@ Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2
 Il. Multa de $121,100.00 a $181,650.00, a quien
 cometa la infracción señalada en la fracción II.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
-12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-12-
-
-2014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
+12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
 28-12-2023, 30-12-2024, 27-12-2025
 ARTICULO
 190.
@@ -12805,6 +12853,7 @@ identificación propio. Se entiende que se
 realiza esta conducta cuando el titular no
 reporte por escrito a las autoridades aduaneras
 el robo o la pérdida del mismo en un plazo que
+
 no excederá de veinticuatro horas, y éste se ha
 utilizado por una persona distinta a su titular.
 III. Realice cualquier trámite relacionado con el
@@ -12817,7 +12866,6 @@ de identificación.
 ARTICULO 191. Se aplicarán las siguientes
 sanciones a quien cometa las infracciones
 establecidas en el artículo 190 de esta Ley:
-
 l.
 
 Multa de $30,280.00 a $45,420.00, tratándose
@@ -12830,6 +12878,7 @@ de la señalada en la fracción III.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
 28-12-2023, 30-12-2024, 27-12-2025
+
 IIl. Multa de $6,060.00 a $9,070.00, tratándose de
 la señalada en la fracción IV.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
@@ -12840,9 +12889,7 @@ tratándose de la señalada en la fracción V,
 independientemente de las sanciones a que
 haya lugar por la comisión de delitos.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
-12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-12-
-
-2014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
+12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
 28-12-2023, 30-12-2024, 27-12-2025
 A los infractores que aporten a los fondos a que se
 refiere el artículo 202 de esta Ley, una cantidad
@@ -12864,9 +12911,9 @@ las
 autoridades
 aduaneras
 como
+
 restringidas, aparatos de telefonía celular y
 cualquier otro medio de comunicación.
-
 II. Dañe los edificios, equipo y otros bienes que se
 utilicen en la operación aduanera por la
 Secretaría o por empresas que auxilien a dicha
@@ -12880,7 +12927,6 @@ exceda del autorizado, no pueda transportarse
 en más de un vehículo, y siempre que se
 solicite al administrador de la aduana con un
 día de anticipación la autorización para que el
-
 medio de transporte ingrese al recinto fiscal en
 cierta fecha y hora. Lo previsto en esta fracción
 no será aplicable cuando se trate de puertos o
@@ -12895,6 +12941,7 @@ l.
 Multa de $18,160.00 a $24,200.00, a la
 señalada en la fracción I.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
+
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
 28-12-2023, 30-12-2024, 27-12-2025
 II. Multa de $24,200.00 a $30,280.00, a la
@@ -12906,7 +12953,6 @@ Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2
 III. Multa de $24,200.00 a $30,280.00, si se trata
 de la señalada en la fracción III.
 Multa de la fracción actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
-
 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
 28-12-2023, 30-12-2024, 27-12-2025
 A los infractores que aporten a los fondos a que se
@@ -12919,6 +12965,7 @@ contribuciones y aprovechamientos a que se refieren
 los artículos 15, fracción VII, 16-A, penúltimo párrafo,
 16-B, último párrafo, 21, fracción IV y 120, penúltimo
 párrafo de esta Ley dentro de los plazos señalados en
+
 los mismos, se les aplicará una multa del 10% al 20%
 del monto del pago omitido, cuando la infracción sea
 detectada por la autoridad aduanera, sin perjuicio de
@@ -12933,7 +12980,6 @@ ARTICULO 196. Se considera cometida una sola
 infracción, cuando en diversos actos se introduzcan o
 extraigan del país mercancías presentándolas
 desmontadas o en partes, en los siguientes casos:
-
 I.
 
 Cuando la importación o la exportación de las
@@ -12950,6 +12996,7 @@ pagarse por la importación o exportación
 separada de las partes, o cuando por éstas no
 se paguen impuestos al comercio exterior o
 cuotas compensatorias.
+
 Se considera que se comete una sola infracción, aun
 cuando la importación o exportación separada de las
 partes o de algunas de ellas constituyan por sí misma
@@ -12969,14 +13016,8 @@ correspondan a cada quien.
 
 II. En caso contrario, se aplicará la sanción que
 corresponda a la infracción cometida por la
-
-totalidad de las mercancías
+totalidad de las mercancías y todos
 responderán solidariamente.
-
-y
-
-todos
-
 ARTICULO 198. Las autoridades aduaneras, al
 imponer las multas, deberán considerar como
 agravantes los siguientes supuestos:
@@ -12994,6 +13035,7 @@ mercancías.
 
 II. El uso de documentos falsos o en los que se
 hagan constar operaciones inexistentes.
+
 III. El hecho que el infractor sea reincidente en los
 términos del Código Fiscal de la Federación.
 ARTICULO 199. Las sanciones establecidas en esta
@@ -13014,11 +13056,11 @@ correctamente
 manifestadas a la autoridad. Esta disminución
 no será aplicable cuando exista criterio de
 clasificación arancelaria de la autoridad
-
 aduanera, en los términos del artículo 48 de esta
 Ley, o cuando las mercancías estén sujetas a
 regulaciones y restricciones no arancelarias.
 Fracción reformada DOF 19-11-2025
+
 II. En un 20% en el caso de que la multa se pague
 dentro de los treinta días siguientes a la fecha
 en que se notifique al infractor la resolución por
@@ -13028,6 +13070,7 @@ resolución.
 Fracción reformada DOF 25-06-2018
 III. En un 50% en el caso de que la multa derive de
 alguna operación relativa a la exportación de
+
 mercancías, con excepción de aquellas
 operaciones que tengan como origen la
 aplicación de alguno de los supuestos señalados
@@ -13042,7 +13085,6 @@ notificación de la resolución que determine el
 monto de la contribución o aprovechamiento que
 omitió.
 Fracción adicionada DOF 01-01-2002
-
 V. En un 50% en el caso de que la multa no derive
 de la omisión de contribuciones o cuotas
 compensatorias en los supuestos en que no
@@ -13057,6 +13099,7 @@ notificación del acto administrativo en el que se
 determina el crédito fiscal.
 Fracción adicionada DOF 09-12-2013. Reformada DOF
 25-06-2018
+
 Lo dispuesto en este artículo no será aplicable
 cuando se den los supuestos del artículo 198 de esta
 Ley.
@@ -13070,9 +13113,7 @@ en aduana de las mercancías y éstos no pueden
 determinarse, se aplicará a los infractores una multa
 de $90,820.00 a $121,100.00.
 Multa del artículo actualizada DOF 01-03-2002, 28-042003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008,
-12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-12-
-
-2014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
+12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-122014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022,
 28-12-2023, 30-12-2024, 27-12-2025
 ARTICULO 201. (Se deroga).
 Artículo derogado DOF 15-12-1995
@@ -13085,6 +13126,7 @@ instalaciones de las propias aduanas, en los términos
 que establezca el Servicio de Administración
 Tributaria mediante reglas. El patrimonio de dichos
 fondos se integrará con las aportaciones que efectúen
+
 las personas antes mencionadas, así como por las
 cantidades que aporten las personas que hubieran
 cometido daños en las instalaciones o equipos que se
@@ -13099,7 +13141,6 @@ Recursos administrativos
 Capítulo Unico
 ARTICULO 203.- En contra de todas las
 resoluciones definitivas que dicten las autoridades
-
 aduaneras procederá el recurso de revocación
 establecido en el Código Fiscal de la Federación.
 Párrafo reformado DOF 30-12-1996
@@ -13112,6 +13153,7 @@ Reforma DOF 30-12-1996: Derogó del artículo el entonces
 Transitorios
 Primero. La presente Ley entrará en vigor el 1o. de
 abril de 1996, con excepción de los artículos 21,
+
 fracciones l y ll; y 82, párrafos primero y segundo, los
 que entrarán en vigor a partir del 1o. de julio de 1996.
 Segundo. A partir de la fecha en que entre en vigor
@@ -13131,7 +13173,6 @@ Tercero. Hasta en tanto entra en vigor lo dispuesto
 en los artículos 21, fracciones l y ll y 82, párrafos
 primero y segundo de esta Ley, las mercancías que
 ingresen al territorio nacional, o que se pretendan
-
 extraer del mismo por vía postal, quedarán confiadas
 al Servicio Postal Mexicano, bajo la vigilancia y
 control de las autoridades aduaneras.
@@ -13147,6 +13188,7 @@ II. Presentar las mercancías a las autoridades
 aduaneras para su reconocimiento y, en su
 caso, clasificación arancelaria, valoración y
 determinación de créditos fiscales.
+
 Asimismo, las autoridades aduaneras determinarán
 las contribuciones relativas a las importaciones y
 exportaciones, incluyendo las cuotas compensatorias,
@@ -13162,7 +13204,6 @@ autorizaciones o permisos de carácter general o que
 se hubieran otorgado a título particular que
 contravengan o se opongan a lo preceptuado en esta
 Ley.
-
 Quinto.
 Los
 despachos,
@@ -13181,6 +13222,7 @@ desempeñando las actividades que les fueron
 autorizadas, para lo cual deberán satisfacer los
 requisitos establecidos en esta Ley. De no hacerlo,
 tales autorizaciones quedarán sin efectos.
+
 Séptimo. Las personas que tengan autorización
 para actuar como dictaminadores aduaneros, vigente
 al 1o. de abril de 1996, deberán cumplir los requisitos
@@ -13196,7 +13238,6 @@ artículo 100 de esta Ley.
 Noveno. Las personas que hubieran introducido al
 país yates y veleros turísticos, así como casas
 rodantes, bajo el régimen de las marinas turísticas y
-
 de los campamentos de casas rodantes vigente al
 primero de abril de 1996, conforme a los artículos 95
 y 95-A de la Ley que se abroga, deberán realizar el
@@ -13208,6 +13249,7 @@ Artículos Tercero a Vigésimo. ..........
 Transitorios
 Primero. El presente Decreto entrará en vigor el 1o.
 de enero de 1996.
+
 Segundo. De conformidad con la disposición del
 Banco de México publicada en el Diario Oficial de la
 Federación el día 6 de enero de 1994, todas las
@@ -13223,7 +13265,6 @@ Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del
 Artículo 89 de la Constitución Política de los Estados
 Unidos Mexicanos, y para su debida publicación y
-
 observancia, expido el presente Decreto en la
 residencia del Poder Ejecutivo Federal, en la Ciudad
 de México, Distrito Federal, a los trece días del mes
